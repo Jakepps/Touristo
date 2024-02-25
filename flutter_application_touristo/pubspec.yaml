@@ -63,6 +63,9 @@ flutter:
     - assets/images/Country.png
     - assets/images/elipse.png
     - assets/images/back_main.jpg
+    - assets/images/heart.png
+    - assets/images/home.png
+    - assets/images/person.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

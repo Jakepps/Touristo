@@ -113,6 +113,26 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ),
       ),
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: 0,
+        onTap: (int index) {
+          //логика перемещения по страницам
+        },
+        items: [
+          BottomNavigationBarItem(
+            icon: Image.asset('assets/images/home.png'),
+            label: 'Главное меню',
+          ),
+          BottomNavigationBarItem(
+            icon: Image.asset('assets/images/heart.png'),
+            label: 'Избранные страны',
+          ),
+          BottomNavigationBarItem(
+            icon: Image.asset('assets/images/person.png'),
+            label: 'Профиль',
+          ),
+        ],
+      ),
     );
   }
 }
