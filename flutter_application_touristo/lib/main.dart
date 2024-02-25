@@ -30,14 +30,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 2;
-
-  void _incrementCounter() {
-    setState(() {
-      _counter *= 2;
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -51,21 +43,9 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Center(
           child: Stack(
             children: <Widget>[
-              Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: <Widget>[
-                  const Text(
-                    'You have pushed the button this many times:',
-                  ),
-                  Text(
-                    '$_counter',
-                    style: Theme.of(context).textTheme.headlineMedium,
-                  ),
-                ],
-              ),
               Positioned(
                 top: 200,
-                left: 120,
+                left: 190,
                 child: Container(
                   width: 49,
                   height: 45,
@@ -79,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               Positioned(
                 top: 200,
-                left: 120,
+                left: 190,
                 child: Container(
                   width: 49,
                   height: 45,
@@ -93,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               Positioned(
                 top: 270,
-                left: 0,
+                left: 70,
                 child: Column(
                   children: <Widget>[
                     Container(
@@ -113,9 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                     SizedBox(height: 20),
                     ElevatedButton(
-                      onPressed: () {
-                        _incrementCounter();
-                      },
+                      onPressed: () {},
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.black,
                         shape: RoundedRectangleBorder(
@@ -134,11 +112,6 @@ class _MyHomePageState extends State<MyHomePage> {
             ],
           ),
         ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: const Icon(Icons.add),
       ),
     );
   }
