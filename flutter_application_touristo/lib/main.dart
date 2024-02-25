@@ -34,78 +34,111 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     setState(() {
-      _counter *= _counter;
+      _counter *= 2;
     });
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text(widget.title),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
-            ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headlineMedium,
-            ),
-          ],
+      body: Container(
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            image: AssetImage('assets/images/back_main.jpg'),
+            fit: BoxFit.cover,
+          ),
+        ),
+        child: Center(
+          child: Stack(
+            children: <Widget>[
+              Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: <Widget>[
+                  const Text(
+                    'You have pushed the button this many times:',
+                  ),
+                  Text(
+                    '$_counter',
+                    style: Theme.of(context).textTheme.headlineMedium,
+                  ),
+                ],
+              ),
+              Positioned(
+                top: 200,
+                left: 120,
+                child: Container(
+                  width: 49,
+                  height: 45,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: AssetImage('assets/images/elipse.png'),
+                      fit: BoxFit.scaleDown,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                top: 200,
+                left: 120,
+                child: Container(
+                  width: 49,
+                  height: 45,
+                  decoration: BoxDecoration(
+                    image: DecorationImage(
+                      image: AssetImage('assets/images/Country.png'),
+                      fit: BoxFit.scaleDown,
+                    ),
+                  ),
+                ),
+              ),
+              Positioned(
+                top: 270,
+                left: 0,
+                child: Column(
+                  children: <Widget>[
+                    Container(
+                      width: 285,
+                      height: 40,
+                      child: TextField(
+                        decoration: InputDecoration(
+                          hintText: 'Куда поедем?',
+                          filled: true,
+                          fillColor: Colors.white,
+                          border: OutlineInputBorder(
+                              borderRadius: BorderRadius.circular(10.0)),
+                          contentPadding: EdgeInsets.symmetric(
+                              vertical: 10.0, horizontal: 10.0),
+                        ),
+                      ),
+                    ),
+                    SizedBox(height: 20),
+                    ElevatedButton(
+                      onPressed: () {
+                        _incrementCounter();
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.black,
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(10.0),
+                        ),
+                        fixedSize: Size(285, 40),
+                      ),
+                      child: Text(
+                        'Найти',
+                        style: TextStyle(color: Colors.white),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
         ),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Increment',
         child: const Icon(Icons.add),
-      ),
-    );
-  }
-}
-
-class CountryWidget extends StatelessWidget {
-  const CountryWidget({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 47,
-      height: 43,
-      decoration: BoxDecoration(),
-      child: Stack(
-        children: <Widget>[
-          Positioned(
-            top: -5,
-            left: -6,
-            child: Container(
-              width: 53,
-              height: 53,
-              decoration: BoxDecoration(
-                color: Color.fromRGBO(217, 217, 217, 1),
-                borderRadius: BorderRadius.all(Radius.elliptical(53, 53)),
-              ),
-            ),
-          ),
-          Positioned(
-            top: 0,
-            left: -3,
-            child: Container(
-              width: 47,
-              height: 43,
-              decoration: BoxDecoration(
-                image: DecorationImage(
-                  image: AssetImage('assets/images/Country.png'),
-                  fit: BoxFit.fitWidth,
-                ),
-              ),
-            ),
-          ),
-        ],
       ),
     );
   }
