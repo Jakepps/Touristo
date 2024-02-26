@@ -15,7 +15,33 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Home Page'),
+      home: const SplashScreen(),
+    );
+  }
+}
+
+// Начальный экран приложения
+class SplashScreen extends StatelessWidget {
+  const SplashScreen({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    // Здесь можно добавить любую логику, необходимую на начальном экране
+    // Например, анимацию загрузки или проверку авторизации
+    const splashScreenDuration = Duration(seconds: 2);
+
+    // После завершения задержки переходим на основной экран приложения
+    Future.delayed(splashScreenDuration, () {
+      Navigator.of(context).pushReplacement(
+        MaterialPageRoute(builder: (context) => const MyHomePage(title: 'Home Page')),
+      );
+    });
+
+    // Возвращаем заглушку (например, контейнер с логотипом)
+    return Scaffold(
+      body: Center(
+        child: Image.asset('assets/images/logo_beggin.png')
+      ),
     );
   }
 }
