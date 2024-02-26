@@ -10,12 +10,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Touristo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Home Page'),
     );
   }
 }
@@ -44,8 +44,10 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Stack(
             children: <Widget>[
               Positioned(
-                top: 200,
-                left: 190,
+                top: null,
+                left: null,
+                bottom: MediaQuery.of(context).size.height / 2 - 22.5,
+                right: MediaQuery.of(context).size.width / 2 - 24.5,
                 child: Container(
                   width: 49,
                   height: 45,
@@ -58,8 +60,10 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ),
               Positioned(
-                top: 200,
-                left: 190,
+                top: null,
+                left: null,
+                bottom: MediaQuery.of(context).size.height / 2 - 22.5,
+                right: MediaQuery.of(context).size.width / 2 - 24.5,
                 child: Container(
                   width: 49,
                   height: 45,
@@ -72,8 +76,10 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ),
               Positioned(
-                top: 270,
-                left: 70,
+                top: null,
+                left: null,
+                bottom: MediaQuery.of(context).size.height / 2 - 150.0,
+                right: MediaQuery.of(context).size.width / 2 - 142.5,
                 child: Column(
                   children: <Widget>[
                     Container(
@@ -103,7 +109,8 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                       child: Text(
                         'Найти',
-                        style: TextStyle(color: Colors.white),
+                        style: TextStyle(color: Colors.white, fontSize: 20),
+                        
                       ),
                     ),
                   ],
@@ -118,17 +125,18 @@ class _MyHomePageState extends State<MyHomePage> {
         onTap: (int index) {
           //логика перемещения по страницам
         },
+        iconSize: 30.0,
         items: [
           BottomNavigationBarItem(
-            icon: Image.asset('assets/images/home.png'),
-            label: 'Главное меню',
+            icon: Icon(Icons.home),
+            label: 'Главная',
           ),
           BottomNavigationBarItem(
-            icon: Image.asset('assets/images/heart.png'),
-            label: 'Избранные страны',
+            icon: Icon(Icons.favorite),
+            label: 'Избранное',
           ),
           BottomNavigationBarItem(
-            icon: Image.asset('assets/images/person.png'),
+            icon: Icon(Icons.person),
             label: 'Профиль',
           ),
         ],
