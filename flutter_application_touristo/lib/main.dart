@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'profile.dart';
 
 void main() {
   runApp(const MyApp());
@@ -125,7 +126,9 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                     SizedBox(height: 20),
                     ElevatedButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        
+                      },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.black,
                         shape: RoundedRectangleBorder(
@@ -149,7 +152,12 @@ class _MyHomePageState extends State<MyHomePage> {
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: 0,
         onTap: (int index) {
-          //логика перемещения по страницам
+          if (index == 2) { //profile
+            Navigator.push( 
+              context,
+              MaterialPageRoute(builder: (context) => ProfileScreen()),
+            );
+          }
         },
         iconSize: 30.0,
         items: [
