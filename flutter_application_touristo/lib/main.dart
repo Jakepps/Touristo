@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
 
 // Начальный экран приложения
 class SplashScreen extends StatelessWidget {
-  const SplashScreen({Key? key}) : super(key: key);
+  const SplashScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -34,15 +34,14 @@ class SplashScreen extends StatelessWidget {
     // После завершения задержки переходим на основной экран приложения
     Future.delayed(splashScreenDuration, () {
       Navigator.of(context).pushReplacement(
-        MaterialPageRoute(builder: (context) => const MyHomePage(title: 'Home Page')),
+        MaterialPageRoute(
+            builder: (context) => const MyHomePage(title: 'Home Page')),
       );
     });
 
     // Возвращаем заглушку (например, контейнер с логотипом)
     return Scaffold(
-      body: Center(
-        child: Image.asset('assets/images/logo_beggin.png')
-      ),
+      body: Center(child: Image.asset('assets/images/logo_beggin.png')),
     );
   }
 }
@@ -57,110 +56,22 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  int _selectedIndex = 0; // Индекс выбранного элемента BottomNavigationBar
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage('assets/images/back_main.jpg'),
-            fit: BoxFit.cover,
-          ),
-        ),
-        child: Center(
-          child: Stack(
-            children: <Widget>[
-              Positioned(
-                top: null,
-                left: null,
-                bottom: MediaQuery.of(context).size.height / 2 - 22.5,
-                right: MediaQuery.of(context).size.width / 2 - 24.5,
-                child: Container(
-                  width: 49,
-                  height: 45,
-                  decoration: BoxDecoration(
-                    image: DecorationImage(
-                      image: AssetImage('assets/images/elipse.png'),
-                      fit: BoxFit.scaleDown,
-                    ),
-                  ),
-                ),
-              ),
-              Positioned(
-                top: null,
-                left: null,
-                bottom: MediaQuery.of(context).size.height / 2 - 22.5,
-                right: MediaQuery.of(context).size.width / 2 - 24.5,
-                child: Container(
-                  width: 49,
-                  height: 45,
-                  decoration: BoxDecoration(
-                    image: DecorationImage(
-                      image: AssetImage('assets/images/Country.png'),
-                      fit: BoxFit.scaleDown,
-                    ),
-                  ),
-                ),
-              ),
-              Positioned(
-                top: null,
-                left: null,
-                bottom: MediaQuery.of(context).size.height / 2 - 150.0,
-                right: MediaQuery.of(context).size.width / 2 - 142.5,
-                child: Column(
-                  children: <Widget>[
-                    Container(
-                      width: 285,
-                      height: 40,
-                      child: TextField(
-                        decoration: InputDecoration(
-                          hintText: 'Куда поедем?',
-                          filled: true,
-                          fillColor: Colors.white,
-                          border: OutlineInputBorder(
-                              borderRadius: BorderRadius.circular(10.0)),
-                          contentPadding: EdgeInsets.symmetric(
-                              vertical: 10.0, horizontal: 10.0),
-                        ),
-                      ),
-                    ),
-                    SizedBox(height: 20),
-                    ElevatedButton(
-                      onPressed: () {
-                        
-                      },
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.black,
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(10.0),
-                        ),
-                        fixedSize: Size(285, 40),
-                      ),
-                      child: Text(
-                        'Найти',
-                        style: TextStyle(color: Colors.white, fontSize: 20),
-                        
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-            ],
-          ),
-        ),
-      ),
+      body: _getBody(
+          _selectedIndex), // Отображаем соответствующий контент в зависимости от выбранного элемента
       bottomNavigationBar: BottomNavigationBar(
-        currentIndex: 0,
+        currentIndex: _selectedIndex,
         onTap: (int index) {
-          if (index == 2) { //profile
-            Navigator.push( 
-              context,
-              MaterialPageRoute(builder: (context) => ProfileScreen()),
-            );
-          }
+          setState(() {
+            _selectedIndex = index; // Обновляем индекс выбранного элемента
+          });
         },
         iconSize: 30.0,
-        items: [
+        items: const [
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
             label: 'Главная',
@@ -176,5 +87,105 @@ class _MyHomePageState extends State<MyHomePage> {
         ],
       ),
     );
+  }
+
+  // Метод для отображения соответствующего контента в зависимости от выбранного элемента
+  Widget _getBody(int index) {
+    switch (index) {
+      case 0:
+        return Container(
+          decoration: const BoxDecoration(
+            image: DecorationImage(
+              image: AssetImage('assets/images/back_main.jpg'),
+              fit: BoxFit.cover,
+            ),
+          ),
+          child: Center(
+            child: Stack(
+              children: <Widget>[
+                Positioned(
+                  top: null,
+                  left: null,
+                  bottom: MediaQuery.of(context).size.height / 2 - 22.5,
+                  right: MediaQuery.of(context).size.width / 2 - 24.5,
+                  child: Container(
+                    width: 49,
+                    height: 45,
+                    decoration: const BoxDecoration(
+                      image: DecorationImage(
+                        image: AssetImage('assets/images/elipse.png'),
+                        fit: BoxFit.scaleDown,
+                      ),
+                    ),
+                  ),
+                ),
+                Positioned(
+                  top: null,
+                  left: null,
+                  bottom: MediaQuery.of(context).size.height / 2 - 22.5,
+                  right: MediaQuery.of(context).size.width / 2 - 24.5,
+                  child: Container(
+                    width: 49,
+                    height: 45,
+                    decoration: const BoxDecoration(
+                      image: DecorationImage(
+                        image: AssetImage('assets/images/Country.png'),
+                        fit: BoxFit.scaleDown,
+                      ),
+                    ),
+                  ),
+                ),
+                Positioned(
+                  top: null,
+                  left: null,
+                  bottom: MediaQuery.of(context).size.height / 2 - 150.0,
+                  right: MediaQuery.of(context).size.width / 2 - 142.5,
+                  child: Column(
+                    children: <Widget>[
+                      SizedBox(
+                        width: 285,
+                        height: 40,
+                        child: TextField(
+                          decoration: InputDecoration(
+                            hintText: 'Куда поедем?',
+                            filled: true,
+                            fillColor: Colors.white,
+                            border: OutlineInputBorder(
+                                borderRadius: BorderRadius.circular(10.0)),
+                            contentPadding: const EdgeInsets.symmetric(
+                                vertical: 10.0, horizontal: 10.0),
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 20),
+                      //кнопка поиска
+                      ElevatedButton(
+                        onPressed: () {},
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Colors.black,
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(10.0),
+                          ),
+                          fixedSize: const Size(285, 40),
+                        ),
+                        child: const Text(
+                          'Найти',
+                          style: TextStyle(color: Colors.white, fontSize: 20),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+          ),
+        );
+      case 1:
+        return const Center(child: Text('Избранное'));
+      case 2:
+        return const ProfileScreen();
+      default:
+        return Container();
+    }
   }
 }
