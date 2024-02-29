@@ -9,6 +9,12 @@ class ProfileScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Профиль'),
+        actions: [
+          IconButton(
+            onPressed: () {},
+            icon: const Icon(Icons.logout),
+          ),
+        ],
       ),
       body: Center(
         child: Column(
@@ -16,7 +22,7 @@ class ProfileScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             const CircleAvatar(
-              radius: 50,
+              radius: 60,
               backgroundImage: AssetImage('assets/images/user_photo.jpeg'),
             ),
             const SizedBox(height: 20),
@@ -34,6 +40,7 @@ class ProfileScreen extends StatelessWidget {
               onPressed: () {},
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.black,
+                fixedSize: const Size(300, 40),
               ),
               child: const Text(
                 'Редактировать профиль',
@@ -50,7 +57,7 @@ class ProfileScreen extends StatelessWidget {
               },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.black,
-                fixedSize: const Size(227, 40),
+                fixedSize: const Size(270, 40),
               ),
               child: const Text(
                 'О приложении',
