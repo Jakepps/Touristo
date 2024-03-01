@@ -2,16 +2,8 @@ import 'package:flutter/material.dart';
 import 'info.dart';
 import 'editingProfile.dart';
 
-class ProfileScreen extends StatefulWidget {
+class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
-
-  @override
-  _ProfileScreenState createState() => _ProfileScreenState();
-}
-
-class _ProfileScreenState extends State<ProfileScreen> {
-  String _name = '';
-  String _location = '';
 
   @override
   Widget build(BuildContext context) {
@@ -35,30 +27,22 @@ class _ProfileScreenState extends State<ProfileScreen> {
               backgroundImage: AssetImage('assets/images/user_photo.jpeg'),
             ),
             const SizedBox(height: 20),
-            Text(
-              _name,
-              style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            const Text(
+              'Элизабет Блек',
+              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 10),
-            Text(
-              _location,
-              style: const TextStyle(fontSize: 18),
+            const Text(
+              'Москва, Россия',
+              style: TextStyle(fontSize: 18),
             ),
             const SizedBox(height: 20),
             ElevatedButton(
-              onPressed: () async {
-                final result = await Navigator.push(
+              onPressed: () {
+                Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => EditingProfileScreen(
-                      OnSaveChanges: (name, location) {
-                        setState(() {
-                          _name = name;
-                          _location = location;
-                        });
-                      },
-                    ),
-                  ),
+                      builder: (context) => const EditingProfileScreen()),
                 );
               },
               style: ElevatedButton.styleFrom(
