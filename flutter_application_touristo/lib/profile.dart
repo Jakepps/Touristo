@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'info.dart';
 import 'editingProfile.dart';
+import 'reglog.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
@@ -12,7 +13,13 @@ class ProfileScreen extends StatelessWidget {
         title: const Text('Профиль'),
         actions: [
           IconButton(
-            onPressed: () {},
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                    builder: (context) => const RegistrationLoginScreen()),
+              );
+            },
             icon: const Icon(Icons.logout),
           ),
         ],
