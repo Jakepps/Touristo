@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'profile.dart';
+import 'love.dart';
 
 void main() {
   runApp(const MyApp());
@@ -57,6 +58,12 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int _selectedIndex = 0; // Индекс выбранного элемента BottomNavigationBar
+
+  List<FavoriteCountry> favoriteCountries = [
+    FavoriteCountry(name: 'Россия', imagePath: 'assets/images/russia.jpg'),
+    FavoriteCountry(name: 'Турция', imagePath: 'assets/images/turkey.png'),
+    FavoriteCountry(name: 'Италия', imagePath: 'assets/images/italy.jpg'),
+  ];
 
   @override
   Widget build(BuildContext context) {
@@ -181,7 +188,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         );
       case 1:
-        return const Center(child: Text('Избранное'));
+        return LoveScreen(favoriteCountries: favoriteCountries);
       case 2:
         return const ProfileScreen();
       default:
