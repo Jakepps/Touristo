@@ -23,7 +23,6 @@ class SearchResultsScreen extends StatelessWidget {
           padding: const EdgeInsets.all(20.0),
           child: GestureDetector(
             onTap: () {
-              // Навигация на другой экран при нажатии
               Navigator.push(
                 context,
                 MaterialPageRoute(

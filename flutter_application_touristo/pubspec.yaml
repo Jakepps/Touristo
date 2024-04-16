@@ -68,9 +68,9 @@ flutter:
     - assets/images/user_photo.jpeg
     - assets/images/avatar.jpg
     - assets/images/main_reg.png
-    - assets/images/russia.jpg
-    - assets/images/turkey.png
-    - assets/images/italy.jpg
+    - assets/images/Россия.jpg
+    - assets/images/Турция.png
+    - assets/images/Италия.jpg
   
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

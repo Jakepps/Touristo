@@ -61,9 +61,9 @@ class _MyHomePageState extends State<MyHomePage> {
   int _selectedIndex = 0; // Индекс выбранного элемента BottomNavigationBar
 
   List<FavoriteCountry> favoriteCountries = [
-    FavoriteCountry(name: 'Россия', imagePath: 'assets/images/russia.jpg'),
-    FavoriteCountry(name: 'Турция', imagePath: 'assets/images/turkey.png'),
-    FavoriteCountry(name: 'Италия', imagePath: 'assets/images/italy.jpg'),
+    FavoriteCountry(name: 'Россия', imagePath: 'assets/images/Россия.jpg'),
+    FavoriteCountry(name: 'Турция', imagePath: 'assets/images/Турция.png'),
+    FavoriteCountry(name: 'Италия', imagePath: 'assets/images/Италия.jpg'),
   ];
 
   late TextEditingController _searchController;
