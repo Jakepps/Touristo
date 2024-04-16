@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'profile.dart';
 import 'love.dart';
+import 'search.dart';
 
 void main() {
   runApp(const MyApp());
@@ -64,6 +65,14 @@ class _MyHomePageState extends State<MyHomePage> {
     FavoriteCountry(name: 'Турция', imagePath: 'assets/images/turkey.png'),
     FavoriteCountry(name: 'Италия', imagePath: 'assets/images/italy.jpg'),
   ];
+
+  late TextEditingController _searchController;
+
+  @override
+  void initState() {
+    super.initState();
+    _searchController = TextEditingController();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -153,6 +162,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         width: 285,
                         height: 40,
                         child: TextField(
+                          controller: _searchController,
                           decoration: InputDecoration(
                             hintText: 'Куда поедем?',
                             filled: true,
@@ -167,7 +177,15 @@ class _MyHomePageState extends State<MyHomePage> {
                       const SizedBox(height: 20),
                       //кнопка поиска
                       ElevatedButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => SearchResultsScreen(
+                                  countryName: _searchController.text),
+                            ),
+                          );
+                        },
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.black,
                           shape: RoundedRectangleBorder(
