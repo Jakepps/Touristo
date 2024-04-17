@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   List<FavoriteCountry> favoriteCountries = [
     FavoriteCountry(name: 'Россия', imagePath: 'assets/images/Россия.jpg'),
-    FavoriteCountry(name: 'Турция', imagePath: 'assets/images/Турция.png'),
+    FavoriteCountry(name: 'Турция', imagePath: 'assets/images/Турция.jpg'),
     FavoriteCountry(name: 'Италия', imagePath: 'assets/images/Италия.jpg'),
   ];
 

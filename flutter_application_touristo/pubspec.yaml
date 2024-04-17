@@ -69,7 +69,7 @@ flutter:
     - assets/images/avatar.jpg
     - assets/images/main_reg.png
     - assets/images/Россия.jpg
-    - assets/images/Турция.png
+    - assets/images/Турция.jpg
     - assets/images/Италия.jpg
   
   # An image asset can refer to one or more resolution-specific "variants", see
