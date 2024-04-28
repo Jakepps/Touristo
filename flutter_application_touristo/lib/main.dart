@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
       scheme: 'http',
       host: '10.0.2.2', //это локальный адрес сервера для эмулятора андроид
       port: 5000,
-      path: '/api/country',
+      path: '/api/country/ru',
     );
     final response =
         await http.get(httpUri, headers: {'Content-Type': 'application/json'});
