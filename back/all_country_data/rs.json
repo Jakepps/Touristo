@@ -1,0 +1,112 @@
+{
+    "rs": {
+        "name": "Serbia",
+        "official_name": "Republic of Serbia",
+        "topLevelDomain": [
+            ".rs"
+        ],
+        "alpha2Code": "RS",
+        "alpha3Code": "SRB",
+        "cioc": "SRB",
+        "numericCode": "688",
+        "callingCode": "+381",
+        "capital": "Belgrade",
+        "altSpellings": [
+            "RS",
+            "Srbija",
+            "Republic of Serbia",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "Republika Srbija"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "population": 6908224,
+        "latLng": {
+            "country": [
+                44,
+                21
+            ],
+            "capital": [
+                44.83,
+                20.5
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Serbian",
+                "m": "Serbian"
+            },
+            "fra": {
+                "f": "Serbe",
+                "m": "Serbe"
+            }
+        },
+        "area": 88361,
+        "gini": {
+            "2017": 36.2
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "BIH",
+            "BGR",
+            "HRV",
+            "HUN",
+            "UNK",
+            "MKD",
+            "MNE",
+            "ROU"
+        ],
+        "nativeNames": {
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+                "common": "\u0421\u0440\u0431\u0438\u0458\u0430"
+            }
+        },
+        "currencies": {
+            "RSD": {
+                "name": "Serbian dinar",
+                "symbol": "\u0434\u0438\u043d."
+            }
+        },
+        "languages": {
+            "srp": "Serbian"
+        },
+        "translations": {
+            "ara": "\u0635\u064a\u0631\u0628\u064a\u0627",
+            "ces": "Srbsko",
+            "cym": "Serbia",
+            "deu": "Serbien",
+            "est": "Serbia",
+            "fin": "Serbia",
+            "fra": "Serbie",
+            "hrv": "Srbija",
+            "hun": "Szerbia",
+            "ita": "Serbia",
+            "jpn": "\u30bb\u30eb\u30d3\u30a2",
+            "kor": "\uc138\ub974\ube44\uc544",
+            "nld": "Servi\u00eb",
+            "per": "\u0635\u0631\u0628\u0633\u062a\u0627\u0646",
+            "pol": "Serbia",
+            "por": "S\u00e9rvia",
+            "rus": "\u0421\u0435\u0440\u0431\u0438\u044f",
+            "slk": "Srbsko",
+            "spa": "Serbia",
+            "swe": "Serbien",
+            "urd": "\u0633\u0631\u0628\u06cc\u0627",
+            "zho": "\u585e\u5c14\u7ef4\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/rs.png",
+            "medium": "https://flagcdn.com/96x72/rs.png",
+            "large": "https://flagcdn.com/256x192/rs.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ]
+    }
+}

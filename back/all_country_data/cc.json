@@ -1,0 +1,90 @@
+{
+    "cc": {
+        "name": "Cocos (Keeling) Islands",
+        "official_name": "Territory of the Cocos (Keeling) Islands",
+        "topLevelDomain": [
+            ".cc"
+        ],
+        "alpha2Code": "CC",
+        "alpha3Code": "CCK",
+        "cioc": "N/A",
+        "numericCode": "166",
+        "callingCode": "+61",
+        "capital": "West Island",
+        "altSpellings": [
+            "CC",
+            "Keeling Islands",
+            "Cocos Islands"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 544,
+        "latLng": {
+            "country": [
+                -12.5,
+                96.83333333
+            ],
+            "capital": [
+                -12.17,
+                96.83
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cocos Islander",
+                "m": "Cocos Islander"
+            }
+        },
+        "area": 14,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of the Cocos (Keeling) Islands",
+                "common": "Cocos (Keeling) Islands"
+            }
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0643\u0648\u0643\u0648\u0633",
+            "ces": "Kokosov\u00e9 ostrovy",
+            "cym": "Ynysoedd Cocos",
+            "deu": "Kokosinseln",
+            "est": "Kookossaared",
+            "fin": "Kookossaaret",
+            "fra": "\u00celes Cocos",
+            "hrv": "Kokosovi Otoci",
+            "hun": "K\u00f3kusz-szigetek",
+            "ita": "Isole Cocos e Keeling",
+            "jpn": "\u30b3\u30b3\u30b9\uff08\u30ad\u30fc\u30ea\u30f3\u30b0\uff09\u8af8\u5cf6",
+            "kor": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4",
+            "nld": "Cocoseilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633",
+            "pol": "Wyspy Kokosowe",
+            "por": "Ilhas Cocos (Keeling)",
+            "rus": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "slk": "Kokosov\u00e9 ostrovy",
+            "spa": "Islas Cocos o Islas Keeling",
+            "swe": "Kokos\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u0648\u06a9\u0648\u0633",
+            "zho": "\u79d1\u79d1\u65af"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cc.png",
+            "medium": "https://flagcdn.com/96x72/cc.png",
+            "large": "https://flagcdn.com/256x192/cc.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

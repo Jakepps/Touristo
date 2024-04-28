@@ -1,0 +1,113 @@
+{
+    "sa": {
+        "name": "Saudi Arabia",
+        "official_name": "Kingdom of Saudi Arabia",
+        "topLevelDomain": [
+            ".sa"
+        ],
+        "alpha2Code": "SA",
+        "alpha3Code": "SAU",
+        "cioc": "KSA",
+        "numericCode": "682",
+        "callingCode": "+966",
+        "capital": "Riyadh",
+        "altSpellings": [
+            "Saudi",
+            "SA",
+            "Kingdom of Saudi Arabia",
+            "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 34813867,
+        "latLng": {
+            "country": [
+                25,
+                45
+            ],
+            "capital": [
+                24.65,
+                46.7
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saudi Arabian",
+                "m": "Saudi Arabian"
+            },
+            "fra": {
+                "f": "Saoudienne",
+                "m": "Saoudien"
+            }
+        },
+        "area": 2149690,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "IRQ",
+            "JOR",
+            "KWT",
+            "OMN",
+            "QAT",
+            "ARE",
+            "YEM"
+        ],
+        "nativeNames": {
+            "ara": {
+                "official": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+                "common": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+            }
+        },
+        "currencies": {
+            "SAR": {
+                "name": "Saudi riyal",
+                "symbol": "\u0631.\u0633"
+            }
+        },
+        "languages": {
+            "ara": "Arabic"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+            "ces": "Sa\u00fadsk\u00e1 Ar\u00e1bie",
+            "cym": "Saudi Arabia",
+            "deu": "Saudi-Arabien",
+            "est": "Saudi Araabia",
+            "fin": "Saudi-Arabia",
+            "fra": "Arabie Saoudite",
+            "hrv": "Saudijska Arabija",
+            "hun": "Sza\u00fad-Ar\u00e1bia",
+            "ita": "Arabia Saudita",
+            "jpn": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2",
+            "kor": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544",
+            "nld": "Saoedi-Arabi\u00eb",
+            "per": "\u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc",
+            "pol": "Arabia Saudyjska",
+            "por": "Ar\u00e1bia Saudita",
+            "rus": "\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f",
+            "slk": "Saudsk\u00e1 Ar\u00e1bia",
+            "spa": "Arabia Saud\u00ed",
+            "swe": "Saudiarabien",
+            "urd": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628",
+            "zho": "\u6c99\u7279\u963f\u62c9\u4f2f"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sa.png",
+            "medium": "https://flagcdn.com/96x72/sa.png",
+            "large": "https://flagcdn.com/256x192/sa.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

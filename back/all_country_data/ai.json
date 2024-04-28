@@ -1,0 +1,92 @@
+{
+    "ai": {
+        "name": "Anguilla",
+        "official_name": "Anguilla",
+        "topLevelDomain": [
+            ".ai"
+        ],
+        "alpha2Code": "AI",
+        "alpha3Code": "AIA",
+        "cioc": "N/A",
+        "numericCode": "660",
+        "callingCode": "+1264",
+        "capital": "The Valley",
+        "altSpellings": [
+            "AI"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 13452,
+        "latLng": {
+            "country": [
+                18.25,
+                -63.16666666
+            ],
+            "capital": [
+                18.22,
+                -63.05
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Anguillian",
+                "m": "Anguillian"
+            },
+            "fra": {
+                "f": "Anguillane",
+                "m": "Anguillan"
+            }
+        },
+        "area": 91,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Anguilla",
+                "common": "Anguilla"
+            }
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u0623\u0646\u063a\u0648\u064a\u0644\u0627",
+            "ces": "Anguilla",
+            "cym": "Anguilla",
+            "deu": "Anguilla",
+            "est": "Anguilla",
+            "fin": "Anguilla",
+            "fra": "Anguilla",
+            "hrv": "Angvila",
+            "hun": "Anguilla",
+            "ita": "Anguilla",
+            "jpn": "\u30a2\u30f3\u30ae\u30e9",
+            "kor": "\uc575\uadc8\ub77c",
+            "nld": "Anguilla",
+            "per": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627",
+            "pol": "Anguilla",
+            "por": "Anguilla",
+            "rus": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f",
+            "slk": "Anguilla",
+            "spa": "Anguilla",
+            "swe": "Anguilla",
+            "urd": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627",
+            "zho": "\u5b89\u572d\u62c9"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ai.png",
+            "medium": "https://flagcdn.com/96x72/ai.png",
+            "large": "https://flagcdn.com/256x192/ai.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

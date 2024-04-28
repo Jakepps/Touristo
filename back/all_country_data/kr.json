@@ -1,0 +1,100 @@
+{
+    "kr": {
+        "name": "South Korea",
+        "official_name": "Republic of Korea",
+        "topLevelDomain": [
+            ".kr"
+        ],
+        "alpha2Code": "KR",
+        "alpha3Code": "KOR",
+        "cioc": "KOR",
+        "numericCode": "410",
+        "callingCode": "+82",
+        "capital": "Seoul",
+        "altSpellings": [
+            "KR",
+            "Korea, Republic of",
+            "Republic of Korea",
+            "\ub0a8\ud55c",
+            "\ub0a8\uc870\uc120"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 51780579,
+        "latLng": {
+            "country": [
+                37,
+                127.5
+            ],
+            "capital": [
+                37.55,
+                126.98
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "South Korean",
+                "m": "South Korean"
+            },
+            "fra": {
+                "f": "Sud-cor\u00e9enne",
+                "m": "Sud-cor\u00e9en"
+            }
+        },
+        "area": 100210,
+        "gini": {
+            "2016": 31.4
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "borders": [
+            "PRK"
+        ],
+        "nativeNames": {
+            "kor": {
+                "official": "\ub300\ud55c\ubbfc\uad6d",
+                "common": "\ud55c\uad6d"
+            }
+        },
+        "currencies": {
+            "KRW": {
+                "name": "South Korean won",
+                "symbol": "\u20a9"
+            }
+        },
+        "languages": {
+            "kor": "Korean"
+        },
+        "translations": {
+            "ara": "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+            "ces": "Ji\u017en\u00ed Korea",
+            "cym": "South Korea",
+            "deu": "S\u00fcdkorea",
+            "est": "L\u00f5una-Korea",
+            "fin": "Etel\u00e4-Korea",
+            "fra": "Cor\u00e9e du Sud",
+            "hrv": "Ju\u017ena Koreja",
+            "hun": "D\u00e9l-Korea",
+            "ita": "Corea del Sud",
+            "jpn": "\u97d3\u56fd",
+            "kor": "\ud55c\uad6d",
+            "nld": "Zuid-Korea",
+            "per": "\u06a9\u0631\u0647\u0654 \u062c\u0646\u0648\u0628\u06cc",
+            "pol": "Korea Po\u0142udniowa",
+            "por": "Coreia do Sul",
+            "rus": "\u042e\u0436\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f",
+            "slk": "Ju\u017en\u00e1 K\u00f3rea",
+            "spa": "Corea del Sur",
+            "swe": "Sydkorea",
+            "urd": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627",
+            "zho": "\u97e9\u56fd"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/kr.png",
+            "medium": "https://flagcdn.com/96x72/kr.png",
+            "large": "https://flagcdn.com/256x192/kr.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

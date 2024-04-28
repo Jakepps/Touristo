@@ -1,0 +1,114 @@
+{
+    "ba": {
+        "name": "Bosnia and Herzegovina",
+        "official_name": "Bosnia and Herzegovina",
+        "topLevelDomain": [
+            ".ba"
+        ],
+        "alpha2Code": "BA",
+        "alpha3Code": "BIH",
+        "cioc": "BIH",
+        "numericCode": "070",
+        "callingCode": "+387",
+        "capital": "Sarajevo",
+        "altSpellings": [
+            "BA",
+            "Bosnia-Herzegovina",
+            "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "population": 3280815,
+        "latLng": {
+            "country": [
+                44,
+                18
+            ],
+            "capital": [
+                43.87,
+                18.42
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bosnian, Herzegovinian",
+                "m": "Bosnian, Herzegovinian"
+            },
+            "fra": {
+                "f": "Bosnienne",
+                "m": "Bosnien"
+            }
+        },
+        "area": 51209,
+        "gini": {
+            "2011": 33
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "HRV",
+            "MNE",
+            "SRB"
+        ],
+        "nativeNames": {
+            "bos": {
+                "official": "Bosna i Hercegovina",
+                "common": "Bosna i Hercegovina"
+            },
+            "hrv": {
+                "official": "Bosna i Hercegovina",
+                "common": "Bosna i Hercegovina"
+            },
+            "srp": {
+                "official": "\u0411\u043e\u0441\u043da \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+                "common": "\u0411\u043e\u0441\u043da \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+            }
+        },
+        "currencies": {
+            "BAM": {
+                "name": "Bosnia and Herzegovina convertible mark"
+            }
+        },
+        "languages": {
+            "bos": "Bosnian",
+            "hrv": "Croatian",
+            "srp": "Serbian"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643",
+            "ces": "Bosna a Hercegovina",
+            "cym": "Bosnia a Hercegovina",
+            "deu": "Bosnien und Herzegowina",
+            "est": "Bosnia ja Hertsegoviina",
+            "fin": "Bosnia ja Hertsegovina",
+            "fra": "Bosnie-Herz\u00e9govine",
+            "hrv": "Bosna i Hercegovina",
+            "hun": "Bosznia-Hercegovina",
+            "ita": "Bosnia ed Erzegovina",
+            "jpn": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
+            "kor": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098",
+            "nld": "Bosni\u00eb en Herzegovina",
+            "per": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646",
+            "pol": "Bo\u015bnia i Hercegowina",
+            "por": "B\u00f3snia e Herzegovina",
+            "rus": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+            "slk": "Bosna a Hercegovina",
+            "spa": "Bosnia y Herzegovina",
+            "swe": "Bosnien och Hercegovina",
+            "urd": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627",
+            "zho": "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ba.png",
+            "medium": "https://flagcdn.com/96x72/ba.png",
+            "large": "https://flagcdn.com/256x192/ba.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ]
+    }
+}

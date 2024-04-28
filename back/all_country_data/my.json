@@ -1,0 +1,108 @@
+{
+    "my": {
+        "name": "Malaysia",
+        "official_name": "Malaysia",
+        "topLevelDomain": [
+            ".my"
+        ],
+        "alpha2Code": "MY",
+        "alpha3Code": "MYS",
+        "cioc": "MAS",
+        "numericCode": "458",
+        "callingCode": "+60",
+        "capital": "Kuala Lumpur",
+        "altSpellings": [
+            "MY"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 32365998,
+        "latLng": {
+            "country": [
+                2.5,
+                112.5
+            ],
+            "capital": [
+                3.17,
+                101.7
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Malaysian",
+                "m": "Malaysian"
+            },
+            "fra": {
+                "f": "Malaisienne",
+                "m": "Malaisien"
+            }
+        },
+        "area": 330803,
+        "gini": {
+            "2015": 41.1
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "BRN",
+            "IDN",
+            "THA"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Malaysia",
+                "common": "Malaysia"
+            },
+            "msa": {
+                "official": "\u0645\u0644\u064a\u0633\u064a\u0627",
+                "common": "\u0645\u0644\u064a\u0633\u064a\u0627"
+            }
+        },
+        "currencies": {
+            "MYR": {
+                "name": "Malaysian ringgit",
+                "symbol": "RM"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "msa": "Malay"
+        },
+        "translations": {
+            "ara": "\u0645\u0627\u0644\u064a\u0632\u064a\u0627",
+            "ces": "Malajsie",
+            "cym": "Malaysia",
+            "deu": "Malaysia",
+            "est": "Malaisia",
+            "fin": "Malesia",
+            "fra": "Malaisie",
+            "hrv": "Malezija",
+            "hun": "Malajzia",
+            "ita": "Malesia",
+            "jpn": "\u30de\u30ec\u30fc\u30b7\u30a2",
+            "kor": "\ub9d0\ub808\uc774\uc2dc\uc544",
+            "nld": "Maleisi\u00eb",
+            "per": "\u0645\u0627\u0644\u0632\u06cc",
+            "pol": "Malezja",
+            "por": "Mal\u00e1sia",
+            "rus": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f",
+            "slk": "Malajzia",
+            "spa": "Malasia",
+            "swe": "Malaysia",
+            "urd": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627",
+            "zho": "\u9a6c\u6765\u897f\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/my.png",
+            "medium": "https://flagcdn.com/96x72/my.png",
+            "large": "https://flagcdn.com/256x192/my.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ]
+    }
+}

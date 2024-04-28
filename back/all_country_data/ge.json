@@ -1,0 +1,100 @@
+{
+    "ge": {
+        "name": "Georgia",
+        "official_name": "Georgia",
+        "topLevelDomain": [
+            ".ge"
+        ],
+        "alpha2Code": "GE",
+        "alpha3Code": "GEO",
+        "cioc": "GEO",
+        "numericCode": "268",
+        "callingCode": "+995",
+        "capital": "Tbilisi",
+        "altSpellings": [
+            "GE",
+            "Sakartvelo"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 3714000,
+        "latLng": {
+            "country": [
+                42,
+                43.5
+            ],
+            "capital": [
+                41.68,
+                44.83
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Georgian",
+                "m": "Georgian"
+            },
+            "fra": {
+                "f": "G\u00e9orgienne",
+                "m": "G\u00e9orgien"
+            }
+        },
+        "area": 69700,
+        "gini": {
+            "2019": 35.9
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [
+            "ARM",
+            "AZE",
+            "RUS",
+            "TUR"
+        ],
+        "nativeNames": {
+            "kat": {
+                "official": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+                "common": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd"
+            }
+        },
+        "currencies": {
+            "GEL": {
+                "name": "lari",
+                "symbol": "\u20be"
+            }
+        },
+        "languages": {
+            "kat": "Georgian"
+        },
+        "translations": {
+            "ara": "\u062c\u0648\u0631\u062c\u064a\u0627",
+            "ces": "Gruzie",
+            "cym": "Georgia",
+            "deu": "Georgien",
+            "est": "Gruusia",
+            "fin": "Georgia",
+            "fra": "G\u00e9orgie",
+            "hrv": "Gruzija",
+            "hun": "Gr\u00fazia",
+            "ita": "Georgia",
+            "jpn": "\u30b0\u30eb\u30b8\u30a2",
+            "kor": "\uc870\uc9c0\uc544",
+            "nld": "Georgi\u00eb",
+            "per": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
+            "pol": "Gruzja",
+            "por": "Ge\u00f3rgia",
+            "rus": "\u0413\u0440\u0443\u0437\u0438\u044f",
+            "slk": "Gruz\u00ednsko",
+            "spa": "Georgia",
+            "swe": "Georgien",
+            "urd": "\u062c\u0627\u0631\u062c\u06cc\u0627",
+            "zho": "\u683c\u9c81\u5409\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ge.png",
+            "medium": "https://flagcdn.com/96x72/ge.png",
+            "large": "https://flagcdn.com/256x192/ge.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

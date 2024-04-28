@@ -1,0 +1,102 @@
+{
+    "li": {
+        "name": "Liechtenstein",
+        "official_name": "Principality of Liechtenstein",
+        "topLevelDomain": [
+            ".li"
+        ],
+        "alpha2Code": "LI",
+        "alpha3Code": "LIE",
+        "cioc": "LIE",
+        "numericCode": "438",
+        "callingCode": "+423",
+        "capital": "Vaduz",
+        "altSpellings": [
+            "LI",
+            "Principality of Liechtenstein",
+            "F\u00fcrstentum Liechtenstein"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 38137,
+        "latLng": {
+            "country": [
+                47.26666666,
+                9.53333333
+            ],
+            "capital": [
+                47.13,
+                9.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Liechtensteiner",
+                "m": "Liechtensteiner"
+            },
+            "fra": {
+                "f": "Liechtensteinoise",
+                "m": "Liechtensteinois"
+            }
+        },
+        "area": 160,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "CHE"
+        ],
+        "nativeNames": {
+            "deu": {
+                "official": "F\u00fcrstentum Liechtenstein",
+                "common": "Liechtenstein"
+            }
+        },
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr"
+            }
+        },
+        "languages": {
+            "deu": "German"
+        },
+        "translations": {
+            "ara": "\u0644\u064a\u062e\u062a\u0646\u0634\u062a\u0627\u064a\u0646",
+            "ces": "Lichten\u0161tejnsko",
+            "cym": "Liechtenstein",
+            "deu": "Liechtenstein",
+            "est": "Liechtenstein",
+            "fin": "Liechenstein",
+            "fra": "Liechtenstein",
+            "hrv": "Lihten\u0161tajn",
+            "hun": "Liechtenstein",
+            "ita": "Liechtenstein",
+            "jpn": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3",
+            "kor": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778",
+            "nld": "Liechtenstein",
+            "per": "\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646",
+            "pol": "Liechtenstein",
+            "por": "Liechtenstein",
+            "rus": "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d",
+            "slk": "Lichten\u0161tajnsko",
+            "spa": "Liechtenstein",
+            "swe": "Liechtenstein",
+            "urd": "\u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646",
+            "zho": "\u5217\u652f\u6566\u58eb\u767b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/li.png",
+            "medium": "https://flagcdn.com/96x72/li.png",
+            "large": "https://flagcdn.com/256x192/li.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EFTA",
+                "name": "European Free Trade Association"
+            }
+        ]
+    }
+}

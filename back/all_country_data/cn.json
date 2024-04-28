@@ -1,0 +1,116 @@
+{
+    "cn": {
+        "name": "China",
+        "official_name": "People's Republic of China",
+        "topLevelDomain": [
+            ".cn"
+        ],
+        "alpha2Code": "CN",
+        "alpha3Code": "CHN",
+        "cioc": "CHN",
+        "numericCode": "156",
+        "callingCode": "+86",
+        "capital": "Beijing",
+        "altSpellings": [
+            "CN",
+            "Zh\u014dnggu\u00f3",
+            "Zhongguo",
+            "Zhonghua",
+            "People's Republic of China",
+            "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+            "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 1402112000,
+        "latLng": {
+            "country": [
+                35,
+                105
+            ],
+            "capital": [
+                39.92,
+                116.38
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Chinese",
+                "m": "Chinese"
+            },
+            "fra": {
+                "f": "Chinoise",
+                "m": "Chinois"
+            }
+        },
+        "area": 9706961,
+        "gini": {
+            "2016": 38.5
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "AFG",
+            "BTN",
+            "MMR",
+            "HKG",
+            "IND",
+            "KAZ",
+            "NPL",
+            "PRK",
+            "KGZ",
+            "LAO",
+            "MAC",
+            "MNG",
+            "PAK",
+            "RUS",
+            "TJK",
+            "VNM"
+        ],
+        "nativeNames": {
+            "zho": {
+                "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+                "common": "\u4e2d\u56fd"
+            }
+        },
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\u00a5"
+            }
+        },
+        "languages": {
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0635\u064a\u0646",
+            "ces": "\u010c\u00edna",
+            "cym": "Tsieina",
+            "deu": "China",
+            "est": "Hiina",
+            "fin": "Kiina",
+            "fra": "Chine",
+            "hrv": "Kina",
+            "hun": "K\u00edna",
+            "ita": "Cina",
+            "jpn": "\u4e2d\u56fd",
+            "kor": "\uc911\uad6d",
+            "nld": "China",
+            "per": "\u0686\u06cc\u0646",
+            "pol": "Chiny",
+            "por": "China",
+            "rus": "\u041a\u0438\u0442\u0430\u0439",
+            "slk": "\u010c\u00edna",
+            "spa": "China",
+            "swe": "Kina",
+            "urd": "\u0686\u06cc\u0646"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cn.png",
+            "medium": "https://flagcdn.com/96x72/cn.png",
+            "large": "https://flagcdn.com/256x192/cn.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

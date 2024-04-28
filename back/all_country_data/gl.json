@@ -1,0 +1,96 @@
+{
+    "gl": {
+        "name": "Greenland",
+        "official_name": "Greenland",
+        "topLevelDomain": [
+            ".gl"
+        ],
+        "alpha2Code": "GL",
+        "alpha3Code": "GRL",
+        "cioc": "N/A",
+        "numericCode": "304",
+        "callingCode": "+299",
+        "capital": "Nuuk",
+        "altSpellings": [
+            "GL",
+            "Gr\u00f8nland"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "population": 56367,
+        "latLng": {
+            "country": [
+                72,
+                -40
+            ],
+            "capital": [
+                64.18,
+                -51.75
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Greenlandic",
+                "m": "Greenlandic"
+            },
+            "fra": {
+                "f": "Groenlandaise",
+                "m": "Groenlandais"
+            }
+        },
+        "area": 2166086,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC+00:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "kal": {
+                "official": "Kalaallit Nunaat",
+                "common": "Kalaallit Nunaat"
+            }
+        },
+        "currencies": {
+            "DKK": {
+                "name": "krone",
+                "symbol": "kr."
+            }
+        },
+        "languages": {
+            "kal": "Greenlandic"
+        },
+        "translations": {
+            "ara": "\u062c\u0631\u064a\u0646\u0644\u0627\u0646\u062f",
+            "ces": "Gr\u00f3nsko",
+            "cym": "Greenland",
+            "deu": "Gr\u00f6nland",
+            "est": "Gr\u00f6\u00f6nimaa",
+            "fin": "Gro\u00f6nlanti",
+            "fra": "Groenland",
+            "hrv": "Grenland",
+            "hun": "Gr\u00f6nland",
+            "ita": "Groenlandia",
+            "jpn": "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9",
+            "kor": "\uadf8\ub9b0\ub780\ub4dc",
+            "nld": "Groenland",
+            "per": "\u06af\u0631\u06cc\u0646\u0644\u0646\u062f",
+            "pol": "Grenlandia",
+            "por": "Gronel\u00e2ndia",
+            "rus": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f",
+            "slk": "Gr\u00f3nsko",
+            "spa": "Groenlandia",
+            "swe": "Gr\u00f6nland",
+            "urd": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688",
+            "zho": "\u683c\u9675\u5170"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gl.png",
+            "medium": "https://flagcdn.com/96x72/gl.png",
+            "large": "https://flagcdn.com/256x192/gl.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

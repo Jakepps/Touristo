@@ -1,0 +1,109 @@
+{
+    "je": {
+        "name": "Jersey",
+        "official_name": "Bailiwick of Jersey",
+        "topLevelDomain": [
+            ".je"
+        ],
+        "alpha2Code": "JE",
+        "alpha3Code": "JEY",
+        "cioc": "N/A",
+        "numericCode": "832",
+        "callingCode": "+44",
+        "capital": "Saint Helier",
+        "altSpellings": [
+            "JE",
+            "Bailiwick of Jersey",
+            "Bailliage de Jersey",
+            "Bailliage d\u00e9 J\u00e8rri"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 100800,
+        "latLng": {
+            "country": [
+                49.25,
+                -2.16666666
+            ],
+            "capital": [
+                49.18,
+                -2.1
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Channel Islander",
+                "m": "Channel Islander"
+            },
+            "fra": {
+                "f": "Jersiaise",
+                "m": "Jersiais"
+            }
+        },
+        "area": 116,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Bailiwick of Jersey",
+                "common": "Jersey"
+            },
+            "fra": {
+                "official": "Bailliage de Jersey",
+                "common": "Jersey"
+            },
+            "nrf": {
+                "official": "Bailliage d\u00e9 J\u00e8rri",
+                "common": "J\u00e8rri"
+            }
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "JEP": {
+                "name": "Jersey pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nrf": "J\u00e8rriais"
+        },
+        "translations": {
+            "ara": "\u062c\u064a\u0631\u0632\u064a",
+            "ces": "Jersey",
+            "cym": "Jersey",
+            "deu": "Jersey",
+            "est": "Jersey",
+            "fin": "Jersey",
+            "fra": "Jersey",
+            "hrv": "Jersey",
+            "hun": "Jersey",
+            "ita": "Isola di Jersey",
+            "jpn": "\u30b8\u30e3\u30fc\u30b8\u30fc",
+            "kor": "\uc800\uc9c0 \uc12c",
+            "nld": "Jersey",
+            "per": "\u062c\u0631\u0632\u06cc",
+            "pol": "Jersey",
+            "por": "Jersey",
+            "rus": "\u0414\u0436\u0435\u0440\u0441\u0438",
+            "slk": "Jersey",
+            "spa": "Jersey",
+            "swe": "Jersey",
+            "urd": "\u062c\u0631\u0632\u06cc",
+            "zho": "\u6cfd\u897f\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/je.png",
+            "medium": "https://flagcdn.com/96x72/je.png",
+            "large": "https://flagcdn.com/256x192/je.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "no": {
+        "name": "Norway",
+        "official_name": "Kingdom of Norway",
+        "topLevelDomain": [
+            ".no"
+        ],
+        "alpha2Code": "NO",
+        "alpha3Code": "NOR",
+        "cioc": "NOR",
+        "numericCode": "578",
+        "callingCode": "+47",
+        "capital": "Oslo",
+        "altSpellings": [
+            "NO",
+            "Norge",
+            "Noreg",
+            "Kingdom of Norway",
+            "Kongeriket Norge",
+            "Kongeriket Noreg"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 5379475,
+        "latLng": {
+            "country": [
+                62,
+                10
+            ],
+            "capital": [
+                59.92,
+                10.75
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Norwegian",
+                "m": "Norwegian"
+            },
+            "fra": {
+                "f": "Norv\u00e9gienne",
+                "m": "Norv\u00e9gien"
+            }
+        },
+        "area": 323802,
+        "gini": {
+            "2018": 27.6
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "FIN",
+            "SWE",
+            "RUS"
+        ],
+        "nativeNames": {
+            "nno": {
+                "official": "Kongeriket Noreg",
+                "common": "Noreg"
+            },
+            "nob": {
+                "official": "Kongeriket Norge",
+                "common": "Norge"
+            },
+            "smi": {
+                "official": "Norgga gonagasriika",
+                "common": "Norgga"
+            }
+        },
+        "currencies": {
+            "NOK": {
+                "name": "Norwegian krone",
+                "symbol": "kr"
+            }
+        },
+        "languages": {
+            "nno": "Norwegian Nynorsk",
+            "nob": "Norwegian Bokm\u00e5l",
+            "smi": "Sami"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0646\u0631\u0648\u064a\u062c",
+            "ces": "Norsko",
+            "cym": "Norway",
+            "deu": "Norwegen",
+            "est": "Norra",
+            "fin": "Norja",
+            "fra": "Norv\u00e8ge",
+            "hrv": "Norve\u0161ka",
+            "hun": "Norv\u00e9gia",
+            "ita": "Norvegia",
+            "jpn": "\u30ce\u30eb\u30a6\u30a7\u30fc",
+            "kor": "\ub178\ub974\uc6e8\uc774",
+            "nld": "Noorwegen",
+            "per": "\u0646\u0631\u0648\u0698",
+            "pol": "Norwegia",
+            "por": "Noruega",
+            "rus": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+            "slk": "N\u00f3rsko",
+            "spa": "Noruega",
+            "swe": "Norge",
+            "urd": "\u0646\u0627\u0631\u0648\u06d2",
+            "zho": "\u632a\u5a01"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/no.png",
+            "medium": "https://flagcdn.com/96x72/no.png",
+            "large": "https://flagcdn.com/256x192/no.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EFTA",
+                "name": "European Free Trade Association"
+            }
+        ]
+    }
+}

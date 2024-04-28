@@ -1,0 +1,89 @@
+{
+    "cx": {
+        "name": "Christmas Island",
+        "official_name": "Territory of Christmas Island",
+        "topLevelDomain": [
+            ".cx"
+        ],
+        "alpha2Code": "CX",
+        "alpha3Code": "CXR",
+        "cioc": "N/A",
+        "numericCode": "162",
+        "callingCode": "+61",
+        "capital": "Flying Fish Cove",
+        "altSpellings": [
+            "CX",
+            "Territory of Christmas Island"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 2072,
+        "latLng": {
+            "country": [
+                -10.5,
+                105.66666666
+            ],
+            "capital": [
+                -10.42,
+                105.68
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Christmas Islander",
+                "m": "Christmas Islander"
+            }
+        },
+        "area": 135,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of Christmas Island",
+                "common": "Christmas Island"
+            }
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u064a\u0631\u0629 \u0643\u0631\u064a\u0633\u0645\u0627\u0633",
+            "ces": "V\u00e1no\u010dn\u00ed ostrov",
+            "cym": "Ynys y Nadolig",
+            "deu": "Weihnachtsinsel",
+            "est": "J\u00f5ulusaar",
+            "fin": "Joulusaari",
+            "fra": "\u00cele Christmas",
+            "hrv": "Bo\u017ei\u0107ni otok",
+            "hun": "Kar\u00e1csony-sziget",
+            "ita": "Isola di Natale",
+            "jpn": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6",
+            "kor": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c",
+            "nld": "Christmaseiland",
+            "per": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u06a9\u0631\u06cc\u0633\u0645\u0633",
+            "pol": "Wyspa Bo\u017cego Narodzenia",
+            "por": "Ilha do Natal",
+            "rus": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430",
+            "slk": "Viano\u010dn\u00fa ostrov",
+            "spa": "Isla de Navidad",
+            "swe": "Jul\u00f6n",
+            "urd": "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633",
+            "zho": "\u5723\u8bde\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cx.png",
+            "medium": "https://flagcdn.com/96x72/cx.png",
+            "large": "https://flagcdn.com/256x192/cx.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

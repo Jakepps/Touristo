@@ -1,0 +1,126 @@
+{
+    "ma": {
+        "name": "Morocco",
+        "official_name": "Kingdom of Morocco",
+        "topLevelDomain": [
+            ".ma"
+        ],
+        "alpha2Code": "MA",
+        "alpha3Code": "MAR",
+        "cioc": "MAR",
+        "numericCode": "504",
+        "callingCode": "+212",
+        "capital": "Rabat",
+        "altSpellings": [
+            "MA",
+            "Kingdom of Morocco",
+            "Al-Mamlakah al-Ma\u0121ribiyah"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 36910558,
+        "latLng": {
+            "country": [
+                32,
+                -5
+            ],
+            "capital": [
+                34.02,
+                -6.82
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Moroccan",
+                "m": "Moroccan"
+            },
+            "fra": {
+                "f": "Marocaine",
+                "m": "Marocain"
+            }
+        },
+        "area": 446550,
+        "gini": {
+            "2013": 39.5
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "borders": [
+            "DZA",
+            "ESH",
+            "ESP"
+        ],
+        "nativeNames": {
+            "ara": {
+                "official": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629",
+                "common": "\u0627\u0644\u0645\u063a\u0631\u0628"
+            },
+            "ber": {
+                "official": "\u2d5c\u2d30\u2d33\u2d4d\u2d37\u2d49\u2d5c \u2d4f \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31",
+                "common": "\u2d4d\u2d4e\u2d30\u2d56\u2d54\u2d49\u2d31"
+            }
+        },
+        "currencies": {
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "\u062f.\u0645."
+            }
+        },
+        "languages": {
+            "ara": "Arabic",
+            "ber": "Berber"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0645\u063a\u0631\u0628",
+            "ces": "Maroko",
+            "cym": "Morocco",
+            "deu": "Marokko",
+            "est": "Maroko",
+            "fin": "Marokko",
+            "fra": "Maroc",
+            "hrv": "Maroko",
+            "hun": "Marokk\u00f3",
+            "ita": "Marocco",
+            "jpn": "\u30e2\u30ed\u30c3\u30b3",
+            "kor": "\ubaa8\ub85c\ucf54",
+            "nld": "Marokko",
+            "per": "\u0645\u0631\u0627\u06a9\u0634",
+            "pol": "Maroko",
+            "por": "Marrocos",
+            "rus": "\u041c\u0430\u0440\u043e\u043a\u043a\u043e",
+            "slk": "Maroko",
+            "spa": "Marruecos",
+            "swe": "Marocko",
+            "urd": "\u0645\u0631\u0627\u06a9\u0634",
+            "zho": "\u6469\u6d1b\u54e5"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ma.png",
+            "medium": "https://flagcdn.com/96x72/ma.png",
+            "large": "https://flagcdn.com/256x192/ma.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            },
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

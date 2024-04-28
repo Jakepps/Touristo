@@ -1,0 +1,104 @@
+{
+    "bh": {
+        "name": "Bahrain",
+        "official_name": "Kingdom of Bahrain",
+        "topLevelDomain": [
+            ".bh"
+        ],
+        "alpha2Code": "BH",
+        "alpha3Code": "BHR",
+        "cioc": "BRN",
+        "numericCode": "048",
+        "callingCode": "+973",
+        "capital": "Manama",
+        "altSpellings": [
+            "BH",
+            "Kingdom of Bahrain",
+            "Mamlakat al-Ba\u1e25rayn"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 1701583,
+        "latLng": {
+            "country": [
+                26,
+                50.55
+            ],
+            "capital": [
+                26.23,
+                50.57
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bahraini",
+                "m": "Bahraini"
+            },
+            "fra": {
+                "f": "Bahre\u00efnienne",
+                "m": "Bahre\u00efnien"
+            }
+        },
+        "area": 765,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+                "common": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
+            }
+        },
+        "currencies": {
+            "BHD": {
+                "name": "Bahraini dinar",
+                "symbol": ".\u062f.\u0628"
+            }
+        },
+        "languages": {
+            "ara": "Arabic"
+        },
+        "translations": {
+            "ara": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+            "ces": "Bahrajn",
+            "cym": "Bahrain",
+            "deu": "Bahrain",
+            "est": "Bahrein",
+            "fin": "Bahrain",
+            "fra": "Bahre\u00efn",
+            "hrv": "Bahrein",
+            "hun": "Bahrein",
+            "ita": "Bahrein",
+            "jpn": "\u30d0\u30fc\u30ec\u30fc\u30f3",
+            "kor": "\ubc14\ub808\uc778",
+            "nld": "Bahrein",
+            "per": "\u0628\u062d\u0631\u06cc\u0646",
+            "pol": "Bahrajn",
+            "por": "Bahrein",
+            "rus": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+            "slk": "Bahrajn",
+            "spa": "Bahrein",
+            "swe": "Bahrain",
+            "urd": "\u0628\u062d\u0631\u06cc\u0646",
+            "zho": "\u5df4\u6797"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bh.png",
+            "medium": "https://flagcdn.com/96x72/bh.png",
+            "large": "https://flagcdn.com/256x192/bh.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

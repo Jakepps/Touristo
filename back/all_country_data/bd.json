@@ -1,0 +1,104 @@
+{
+    "bd": {
+        "name": "Bangladesh",
+        "official_name": "People's Republic of Bangladesh",
+        "topLevelDomain": [
+            ".bd"
+        ],
+        "alpha2Code": "BD",
+        "alpha3Code": "BGD",
+        "cioc": "BAN",
+        "numericCode": "050",
+        "callingCode": "+880",
+        "capital": "Dhaka",
+        "altSpellings": [
+            "BD",
+            "People's Republic of Bangladesh",
+            "G\u00f4n\u00f4pr\u00f4jat\u00f4ntri Bangladesh"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 164689383,
+        "latLng": {
+            "country": [
+                24,
+                90
+            ],
+            "capital": [
+                23.72,
+                90.4
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bangladeshi",
+                "m": "Bangladeshi"
+            },
+            "fra": {
+                "f": "Bangladaise",
+                "m": "Bangladais"
+            }
+        },
+        "area": 147570,
+        "gini": {
+            "2016": 32.4
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "borders": [
+            "MMR",
+            "IND"
+        ],
+        "nativeNames": {
+            "ben": {
+                "official": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u0997\u09a3\u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
+                "common": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6"
+            }
+        },
+        "currencies": {
+            "BDT": {
+                "name": "Bangladeshi taka",
+                "symbol": "\u09f3"
+            }
+        },
+        "languages": {
+            "ben": "Bengali"
+        },
+        "translations": {
+            "ara": "\u0628\u0646\u063a\u0644\u0627\u062f\u064a\u0634",
+            "ces": "Banglad\u00e9\u0161",
+            "cym": "Bangladesh",
+            "deu": "Bangladesch",
+            "est": "Bangladesh",
+            "fin": "Bangladesh",
+            "fra": "Bangladesh",
+            "hrv": "Banglade\u0161",
+            "hun": "Banglades",
+            "ita": "Bangladesh",
+            "jpn": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5",
+            "kor": "\ubc29\uae00\ub77c\ub370\uc2dc",
+            "nld": "Bangladesh",
+            "per": "\u0628\u0646\u06af\u0644\u0627\u062f\u0634",
+            "pol": "Bangladesz",
+            "por": "Bangladesh",
+            "rus": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448",
+            "slk": "Banglad\u00e9\u0161",
+            "spa": "Bangladesh",
+            "swe": "Bangladesh",
+            "urd": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634",
+            "zho": "\u5b5f\u52a0\u62c9\u56fd"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bd.png",
+            "medium": "https://flagcdn.com/96x72/bd.png",
+            "large": "https://flagcdn.com/256x192/bd.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "SAARC",
+                "name": "South Asian Association for Regional Cooperation"
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "cu": {
+        "name": "Cuba",
+        "official_name": "Republic of Cuba",
+        "topLevelDomain": [
+            ".cu"
+        ],
+        "alpha2Code": "CU",
+        "alpha3Code": "CUB",
+        "cioc": "CUB",
+        "numericCode": "192",
+        "callingCode": "+53",
+        "capital": "Havana",
+        "altSpellings": [
+            "CU",
+            "Republic of Cuba",
+            "Rep\u00fablica de Cuba"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 11326616,
+        "latLng": {
+            "country": [
+                21.5,
+                -80
+            ],
+            "capital": [
+                23.12,
+                -82.35
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cuban",
+                "m": "Cuban"
+            },
+            "fra": {
+                "f": "Cubaine",
+                "m": "Cubain"
+            }
+        },
+        "area": 109884,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "spa": {
+                "official": "Rep\u00fablica de Cuba",
+                "common": "Cuba"
+            }
+        },
+        "currencies": {
+            "CUC": {
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            "CUP": {
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0643\u0648\u0628\u0627",
+            "ces": "Kuba",
+            "cym": "Ciwba",
+            "deu": "Kuba",
+            "est": "Kuuba",
+            "fin": "Kuuba",
+            "fra": "Cuba",
+            "hrv": "Kuba",
+            "hun": "Kuba",
+            "ita": "Cuba",
+            "jpn": "\u30ad\u30e5\u30fc\u30d0",
+            "kor": "\ucfe0\ubc14",
+            "nld": "Cuba",
+            "per": "\u06a9\u0648\u0628\u0627",
+            "pol": "Kuba",
+            "por": "Cuba",
+            "rus": "\u041a\u0443\u0431\u0430",
+            "slk": "Kuba",
+            "spa": "Cuba",
+            "swe": "Kuba",
+            "urd": "\u06a9\u06cc\u0648\u0628\u0627",
+            "zho": "\u53e4\u5df4"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cu.png",
+            "medium": "https://flagcdn.com/96x72/cu.png",
+            "large": "https://flagcdn.com/256x192/cu.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

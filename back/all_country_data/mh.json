@@ -1,0 +1,99 @@
+{
+    "mh": {
+        "name": "Marshall Islands",
+        "official_name": "Republic of the Marshall Islands",
+        "topLevelDomain": [
+            ".mh"
+        ],
+        "alpha2Code": "MH",
+        "alpha3Code": "MHL",
+        "cioc": "MHL",
+        "numericCode": "584",
+        "callingCode": "+692",
+        "capital": "Majuro",
+        "altSpellings": [
+            "MH",
+            "Republic of the Marshall Islands",
+            "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 59194,
+        "latLng": {
+            "country": [
+                9,
+                168
+            ],
+            "capital": [
+                7.1,
+                171.38
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Marshallese",
+                "m": "Marshallese"
+            },
+            "fra": {
+                "f": "Marshallaise",
+                "m": "Marshallais"
+            }
+        },
+        "area": 181,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of the Marshall Islands",
+                "common": "Marshall Islands"
+            },
+            "mah": {
+                "official": "Republic of the Marshall Islands",
+                "common": "M\u0327aje\u013c"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "mah": "Marshallese"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+            "ces": "Marshallovy ostrovy",
+            "cym": "Marshall Islands",
+            "deu": "Marshallinseln",
+            "est": "Marshalli Saared",
+            "fin": "Marshallinsaaret",
+            "fra": "\u00celes Marshall",
+            "hrv": "Mar\u0161alovi Otoci",
+            "hun": "Marshall-szigetek",
+            "ita": "Isole Marshall",
+            "jpn": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6",
+            "kor": "\ub9c8\uc15c \uc81c\ub3c4",
+            "nld": "Marshalleilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+            "pol": "Wyspy Marshalla",
+            "por": "Ilhas Marshall",
+            "rus": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "slk": "Marshallove ostrovy",
+            "spa": "Islas Marshall",
+            "swe": "Marshall\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644",
+            "zho": "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mh.png",
+            "medium": "https://flagcdn.com/96x72/mh.png",
+            "large": "https://flagcdn.com/256x192/mh.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

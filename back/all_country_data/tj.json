@@ -1,0 +1,108 @@
+{
+    "tj": {
+        "name": "Tajikistan",
+        "official_name": "Republic of Tajikistan",
+        "topLevelDomain": [
+            ".tj"
+        ],
+        "alpha2Code": "TJ",
+        "alpha3Code": "TJK",
+        "cioc": "TJK",
+        "numericCode": "762",
+        "callingCode": "+992",
+        "capital": "Dushanbe",
+        "altSpellings": [
+            "TJ",
+            "To\u00e7ikiston",
+            "Republic of Tajikistan",
+            "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+            "\u00c7umhuriyi To\u00e7ikiston"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 9537642,
+        "latLng": {
+            "country": [
+                39,
+                71
+            ],
+            "capital": [
+                38.55,
+                68.77
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tadzhik",
+                "m": "Tadzhik"
+            },
+            "fra": {
+                "f": "Tadjike",
+                "m": "Tadjike"
+            }
+        },
+        "area": 143100,
+        "gini": {
+            "2015": 34
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "borders": [
+            "AFG",
+            "CHN",
+            "KGZ",
+            "UZB"
+        ],
+        "nativeNames": {
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+                "common": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
+            },
+            "tgk": {
+                "official": "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+                "common": "\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d"
+            }
+        },
+        "currencies": {
+            "TJS": {
+                "name": "Tajikistani somoni",
+                "symbol": "\u0405\u041c"
+            }
+        },
+        "languages": {
+            "rus": "Russian",
+            "tgk": "Tajik"
+        },
+        "translations": {
+            "ara": "\u0637\u0627\u062c\u064a\u0643\u0633\u062a\u0627\u0646",
+            "ces": "T\u00e1d\u017eikist\u00e1n",
+            "cym": "Tajikistan",
+            "deu": "Tadschikistan",
+            "est": "Tad\u017eikistan",
+            "fin": "Tad\u017eikistan",
+            "fra": "Tadjikistan",
+            "hrv": "Ta\u0111ikistan",
+            "hun": "T\u00e1dzsikiszt\u00e1n",
+            "ita": "Tagikistan",
+            "jpn": "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3",
+            "kor": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4",
+            "nld": "Tadzjikistan",
+            "per": "\u062a\u0627\u062c\u06cc\u06a9\u0650\u0633\u062a\u0627\u0646",
+            "pol": "Tad\u017cykistan",
+            "por": "Tajiquist\u00e3o",
+            "rus": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+            "slk": "Ta\u01c6ikistan",
+            "spa": "Tayikist\u00e1n",
+            "swe": "Tadzjikistan",
+            "urd": "\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646",
+            "zho": "\u5854\u5409\u514b\u65af\u5766"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tj.png",
+            "medium": "https://flagcdn.com/96x72/tj.png",
+            "large": "https://flagcdn.com/256x192/tj.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

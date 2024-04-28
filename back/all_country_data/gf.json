@@ -1,0 +1,117 @@
+{
+    "gf": {
+        "name": "French Guiana",
+        "official_name": "Guiana",
+        "topLevelDomain": [
+            ".gf"
+        ],
+        "alpha2Code": "GF",
+        "alpha3Code": "GUF",
+        "cioc": "N/A",
+        "numericCode": "254",
+        "callingCode": "+594",
+        "capital": "Cayenne",
+        "altSpellings": [
+            "GF",
+            "Guiana",
+            "Guyane"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 254541,
+        "latLng": {
+            "country": [
+                4,
+                -53
+            ],
+            "capital": [
+                4.94,
+                -52.33
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guianan",
+                "m": "Guianan"
+            },
+            "fra": {
+                "f": "Guyanaise",
+                "m": "Guyanais"
+            }
+        },
+        "area": 83534,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "borders": [
+            "BRA",
+            "SUR"
+        ],
+        "nativeNames": {
+            "fra": {
+                "official": "Guyane",
+                "common": "Guyane fran\u00e7aise"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u063a\u0648\u064a\u0627\u0646\u0627",
+            "ces": "Francouzsk\u00e1 Guyana",
+            "cym": "French Guiana",
+            "deu": "Franz\u00f6sisch-Guayana",
+            "est": "Prantsuse Guajaana",
+            "fin": "Ranskan Guayana",
+            "fra": "Guyane",
+            "hrv": "Francuska Gvajana",
+            "hun": "Francia Guyana",
+            "ita": "Guyana francese",
+            "jpn": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca",
+            "kor": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098",
+            "nld": "Frans-Guyana",
+            "per": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647",
+            "pol": "Gujana Francuska",
+            "por": "Guiana Francesa",
+            "rus": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u0413\u0432\u0438\u0430\u043d\u0430",
+            "slk": "Guyana",
+            "spa": "Guayana Francesa",
+            "swe": "Franska Guyana",
+            "urd": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u06af\u06cc\u0627\u0646\u0627",
+            "zho": "\u6cd5\u5c5e\u572d\u4e9a\u90a3"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gf.png",
+            "medium": "https://flagcdn.com/96x72/gf.png",
+            "large": "https://flagcdn.com/256x192/gf.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            },
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

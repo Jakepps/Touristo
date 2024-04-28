@@ -1,0 +1,106 @@
+{
+    "lv": {
+        "name": "Latvia",
+        "official_name": "Republic of Latvia",
+        "topLevelDomain": [
+            ".lv"
+        ],
+        "alpha2Code": "LV",
+        "alpha3Code": "LVA",
+        "cioc": "LAT",
+        "numericCode": "428",
+        "callingCode": "+371",
+        "capital": "Riga",
+        "altSpellings": [
+            "LV",
+            "Republic of Latvia",
+            "Latvijas Republika"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 1901548,
+        "latLng": {
+            "country": [
+                57,
+                25
+            ],
+            "capital": [
+                56.95,
+                24.1
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Latvian",
+                "m": "Latvian"
+            },
+            "fra": {
+                "f": "Lettone",
+                "m": "Letton"
+            }
+        },
+        "area": 64559,
+        "gini": {
+            "2018": 35.1
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BLR",
+            "EST",
+            "LTU",
+            "RUS"
+        ],
+        "nativeNames": {
+            "lav": {
+                "official": "Latvijas Republikas",
+                "common": "Latvija"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "lav": "Latvian"
+        },
+        "translations": {
+            "ara": "\u0644\u0627\u062a\u0641\u064a\u0627",
+            "ces": "Loty\u0161sko",
+            "cym": "Latvia",
+            "deu": "Lettland",
+            "est": "L\u00e4ti",
+            "fin": "Latvia",
+            "fra": "Lettonie",
+            "hrv": "Latvija",
+            "hun": "Lettorsz\u00e1g",
+            "ita": "Lettonia",
+            "jpn": "\u30e9\u30c8\u30d3\u30a2",
+            "kor": "\ub77c\ud2b8\ube44\uc544",
+            "nld": "Letland",
+            "per": "\u0644\u062a\u0648\u0646\u06cc",
+            "pol": "\u0141otwa",
+            "por": "Let\u00f3nia",
+            "rus": "\u041b\u0430\u0442\u0432\u0438\u044f",
+            "slk": "Loty\u0161sko",
+            "spa": "Letonia",
+            "swe": "Lettland",
+            "urd": "\u0644\u0679\u0648\u06cc\u0627",
+            "zho": "\u62c9\u8131\u7ef4\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/lv.png",
+            "medium": "https://flagcdn.com/96x72/lv.png",
+            "large": "https://flagcdn.com/256x192/lv.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

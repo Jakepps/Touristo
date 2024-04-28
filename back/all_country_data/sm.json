@@ -1,0 +1,96 @@
+{
+    "sm": {
+        "name": "San Marino",
+        "official_name": "Republic of San Marino",
+        "topLevelDomain": [
+            ".sm"
+        ],
+        "alpha2Code": "SM",
+        "alpha3Code": "SMR",
+        "cioc": "SMR",
+        "numericCode": "674",
+        "callingCode": "+378",
+        "capital": "City of San Marino",
+        "altSpellings": [
+            "SM",
+            "Republic of San Marino",
+            "Repubblica di San Marino"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 33938,
+        "latLng": {
+            "country": [
+                43.76666666,
+                12.41666666
+            ],
+            "capital": [
+                43.94,
+                12.45
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Sammarinese",
+                "m": "Sammarinese"
+            },
+            "fra": {
+                "f": "Saint-Marinaise",
+                "m": "Saint-Marinais"
+            }
+        },
+        "area": 61,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "ITA"
+        ],
+        "nativeNames": {
+            "ita": {
+                "official": "Repubblica di San Marino",
+                "common": "San Marino"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "ita": "Italian"
+        },
+        "translations": {
+            "ara": "\u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648",
+            "ces": "San Marino",
+            "cym": "San Marino",
+            "deu": "San Marino",
+            "est": "San Marino",
+            "fin": "San Marino",
+            "fra": "Saint-Marin",
+            "hrv": "San Marino",
+            "hun": "San Marino",
+            "ita": "San Marino",
+            "jpn": "\u30b5\u30f3\u30de\u30ea\u30ce",
+            "kor": "\uc0b0\ub9c8\ub9ac\ub178",
+            "nld": "San Marino",
+            "per": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
+            "pol": "San Marino",
+            "por": "San Marino",
+            "rus": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e",
+            "slk": "San Mar\u00edno",
+            "spa": "San Marino",
+            "swe": "San Marino",
+            "urd": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
+            "zho": "\u5723\u9a6c\u529b\u8bfa"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sm.png",
+            "medium": "https://flagcdn.com/96x72/sm.png",
+            "large": "https://flagcdn.com/256x192/sm.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

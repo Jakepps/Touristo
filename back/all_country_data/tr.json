@@ -1,0 +1,106 @@
+{
+    "tr": {
+        "name": "Turkey",
+        "official_name": "Republic of Turkey",
+        "topLevelDomain": [
+            ".tr"
+        ],
+        "alpha2Code": "TR",
+        "alpha3Code": "TUR",
+        "cioc": "TUR",
+        "numericCode": "792",
+        "callingCode": "+90",
+        "capital": "Ankara",
+        "altSpellings": [
+            "TR",
+            "Turkiye",
+            "Republic of Turkey",
+            "T\u00fcrkiye Cumhuriyeti"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 84339067,
+        "latLng": {
+            "country": [
+                39,
+                35
+            ],
+            "capital": [
+                39.93,
+                32.87
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Turkish",
+                "m": "Turkish"
+            },
+            "fra": {
+                "f": "Turque",
+                "m": "Turc"
+            }
+        },
+        "area": 783562,
+        "gini": {
+            "2019": 41.9
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "ARM",
+            "AZE",
+            "BGR",
+            "GEO",
+            "GRC",
+            "IRN",
+            "IRQ",
+            "SYR"
+        ],
+        "nativeNames": {
+            "tur": {
+                "official": "T\u00fcrkiye Cumhuriyeti",
+                "common": "T\u00fcrkiye"
+            }
+        },
+        "currencies": {
+            "TRY": {
+                "name": "Turkish lira",
+                "symbol": "\u20ba"
+            }
+        },
+        "languages": {
+            "tur": "Turkish"
+        },
+        "translations": {
+            "ara": "\u062a\u0631\u0643\u064a\u0627",
+            "ces": "Turecko",
+            "cym": "Turkey",
+            "deu": "T\u00fcrkei",
+            "est": "T\u00fcrgi",
+            "fin": "Turkki",
+            "fra": "Turquie",
+            "hrv": "Turska",
+            "hun": "T\u00f6r\u00f6korsz\u00e1g",
+            "ita": "Turchia",
+            "jpn": "\u30c8\u30eb\u30b3",
+            "kor": "\ud130\ud0a4",
+            "nld": "Turkije",
+            "per": "\u062a\u0631\u06a9\u06cc\u0647",
+            "pol": "Turcja",
+            "por": "Turquia",
+            "rus": "\u0422\u0443\u0440\u0446\u0438\u044f",
+            "slk": "Turecko",
+            "spa": "Turqu\u00eda",
+            "swe": "Turkiet",
+            "urd": "\u062a\u0631\u06a9\u06cc",
+            "zho": "\u571f\u8033\u5176"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tr.png",
+            "medium": "https://flagcdn.com/96x72/tr.png",
+            "large": "https://flagcdn.com/256x192/tr.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

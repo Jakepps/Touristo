@@ -1,0 +1,109 @@
+{
+    "jm": {
+        "name": "Jamaica",
+        "official_name": "Jamaica",
+        "topLevelDomain": [
+            ".jm"
+        ],
+        "alpha2Code": "JM",
+        "alpha3Code": "JAM",
+        "cioc": "JAM",
+        "numericCode": "388",
+        "callingCode": "+1876",
+        "capital": "Kingston",
+        "altSpellings": [
+            "JM"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 2961161,
+        "latLng": {
+            "country": [
+                18.25,
+                -77.5
+            ],
+            "capital": [
+                -29.05,
+                167.97
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Jamaican",
+                "m": "Jamaican"
+            },
+            "fra": {
+                "f": "Jama\u00efcaine",
+                "m": "Jama\u00efcain"
+            }
+        },
+        "area": 10991,
+        "gini": {
+            "2004": 45.5
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            },
+            "jam": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            }
+        },
+        "currencies": {
+            "JMD": {
+                "name": "Jamaican dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "jam": "Jamaican Patois"
+        },
+        "translations": {
+            "ara": "\u062c\u0627\u0645\u0627\u064a\u0643\u0627",
+            "ces": "Jamajka",
+            "cym": "Jamaica",
+            "deu": "Jamaika",
+            "est": "Jamaica",
+            "fin": "Jamaika",
+            "fra": "Jama\u00efque",
+            "hrv": "Jamajka",
+            "hun": "Jamaica",
+            "ita": "Giamaica",
+            "jpn": "\u30b8\u30e3\u30de\u30a4\u30ab",
+            "kor": "\uc790\uba54\uc774\uce74",
+            "nld": "Jamaica",
+            "per": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627",
+            "pol": "Jamajka",
+            "por": "Jamaica",
+            "rus": "\u042f\u043c\u0430\u0439\u043a\u0430",
+            "slk": "Jamajka",
+            "spa": "Jamaica",
+            "swe": "Jamaica",
+            "urd": "\u062c\u0645\u06cc\u06a9\u0627",
+            "zho": "\u7259\u4e70\u52a0"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/jm.png",
+            "medium": "https://flagcdn.com/96x72/jm.png",
+            "large": "https://flagcdn.com/256x192/jm.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ]
+    }
+}

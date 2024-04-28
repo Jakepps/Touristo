@@ -1,0 +1,93 @@
+{
+    "pm": {
+        "name": "Saint Pierre and Miquelon",
+        "official_name": "Saint Pierre and Miquelon",
+        "topLevelDomain": [
+            ".pm"
+        ],
+        "alpha2Code": "PM",
+        "alpha3Code": "SPM",
+        "cioc": "N/A",
+        "numericCode": "666",
+        "callingCode": "+508",
+        "capital": "Saint-Pierre",
+        "altSpellings": [
+            "PM",
+            "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "population": 6069,
+        "latLng": {
+            "country": [
+                46.83333333,
+                -56.33333333
+            ],
+            "capital": [
+                46.77,
+                -56.18
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint-Pierrais, Miquelonnais",
+                "m": "Saint-Pierrais, Miquelonnais"
+            },
+            "fra": {
+                "f": "Saint-Pierraise, Miquelonaise",
+                "m": "Saint-Pierrais, Miquelonais"
+            }
+        },
+        "area": 242,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "fra": {
+                "official": "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon",
+                "common": "Saint-Pierre-et-Miquelon"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0633\u0627\u0646 \u0628\u064a\u064a\u0631 \u0648\u0645\u064a\u0643\u0644\u0648\u0646",
+            "ces": "Saint-Pierre a Miquelon",
+            "cym": "Saint Pierre and Miquelon",
+            "deu": "St. Pierre und Miquelon",
+            "est": "Saint-Pierre ja Miquelon",
+            "fin": "Saint-Pierre ja Miquelon",
+            "fra": "Saint-Pierre-et-Miquelon",
+            "hrv": "Sveti Petar i Mikelon",
+            "hun": "Saint-Pierre \u00e9s Miquelon",
+            "ita": "Saint-Pierre e Miquelon",
+            "jpn": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6",
+            "kor": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871",
+            "nld": "Saint Pierre en Miquelon",
+            "per": "\u0633\u0646-\u067e\u06cc\u0650\u0631 \u0648 \u0645\u06cc\u06a9\u0644\u064f\u0646",
+            "pol": "Saint-Pierre i Miquelon",
+            "por": "Saint-Pierre e Miquelon",
+            "rus": "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d",
+            "slk": "Saint Pierre a Miquelon",
+            "spa": "San Pedro y Miquel\u00f3n",
+            "swe": "Saint-Pierre och Miquelon",
+            "urd": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646",
+            "zho": "\u5723\u76ae\u57c3\u5c14\u548c\u5bc6\u514b\u9686"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/pm.png",
+            "medium": "https://flagcdn.com/96x72/pm.png",
+            "large": "https://flagcdn.com/256x192/pm.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "na": {
+        "name": "Namibia",
+        "official_name": "Republic of Namibia",
+        "topLevelDomain": [
+            ".na"
+        ],
+        "alpha2Code": "NA",
+        "alpha3Code": "NAM",
+        "cioc": "NAM",
+        "numericCode": "516",
+        "callingCode": "+264",
+        "capital": "Windhoek",
+        "altSpellings": [
+            "NA",
+            "Namibi\u00eb",
+            "Republic of Namibia"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "population": 2540916,
+        "latLng": {
+            "country": [
+                -22,
+                17
+            ],
+            "capital": [
+                -22.57,
+                17.08
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Namibian",
+                "m": "Namibian"
+            },
+            "fra": {
+                "f": "Namibienne",
+                "m": "Namibien"
+            }
+        },
+        "area": 825615,
+        "gini": {
+            "2015": 59.1
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AGO",
+            "BWA",
+            "ZAF",
+            "ZMB"
+        ],
+        "nativeNames": {
+            "afr": {
+                "official": "Republiek van Namibi\u00eb",
+                "common": "Namibi\u00eb"
+            },
+            "deu": {
+                "official": "Republik Namibia",
+                "common": "Namibia"
+            },
+            "eng": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "her": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "hgm": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "kwn": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "loz": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "ndo": {
+                "official": "Republic of Namibia",
+                "common": "Namibia"
+            },
+            "tsn": {
+                "official": "Lefatshe la Namibia",
+                "common": "Namibia"
+            }
+        },
+        "currencies": {
+            "NAD": {
+                "name": "Namibian dollar",
+                "symbol": "$"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "languages": {
+            "afr": "Afrikaans",
+            "deu": "German",
+            "eng": "English",
+            "her": "Herero",
+            "hgm": "Khoekhoe",
+            "kwn": "Kwangali",
+            "loz": "Lozi",
+            "ndo": "Ndonga",
+            "tsn": "Tswana"
+        },
+        "translations": {
+            "ara": "\u0646\u0627\u0645\u064a\u0628\u064a\u0627",
+            "ces": "Namibie",
+            "cym": "Namibia",
+            "deu": "Namibia",
+            "est": "Namiibia",
+            "fin": "Namibia",
+            "fra": "Namibie",
+            "hrv": "Namibija",
+            "hun": "Nam\u00edbia",
+            "ita": "Namibia",
+            "jpn": "\u30ca\u30df\u30d3\u30a2",
+            "kor": "\ub098\ubbf8\ube44\uc544",
+            "nld": "Namibi\u00eb",
+            "per": "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627",
+            "pol": "Namibia",
+            "por": "Nam\u00edbia",
+            "rus": "\u041d\u0430\u043c\u0438\u0431\u0438\u044f",
+            "slk": "Nam\u00edbia",
+            "spa": "Namibia",
+            "swe": "Namibia",
+            "urd": "\u0646\u0645\u06cc\u0628\u06cc\u0627",
+            "zho": "\u7eb3\u7c73\u6bd4\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/na.png",
+            "medium": "https://flagcdn.com/96x72/na.png",
+            "large": "https://flagcdn.com/256x192/na.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

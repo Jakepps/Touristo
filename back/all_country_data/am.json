@@ -1,0 +1,110 @@
+{
+    "am": {
+        "name": "Armenia",
+        "official_name": "Republic of Armenia",
+        "topLevelDomain": [
+            ".am"
+        ],
+        "alpha2Code": "AM",
+        "alpha3Code": "ARM",
+        "cioc": "ARM",
+        "numericCode": "051",
+        "callingCode": "+374",
+        "capital": "Yerevan",
+        "altSpellings": [
+            "AM",
+            "Hayastan",
+            "Republic of Armenia",
+            "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 2963234,
+        "latLng": {
+            "country": [
+                40,
+                45
+            ],
+            "capital": [
+                40.17,
+                44.5
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Armenian",
+                "m": "Armenian"
+            },
+            "fra": {
+                "f": "Arm\u00e9nienne",
+                "m": "Arm\u00e9nien"
+            }
+        },
+        "area": 29743,
+        "gini": {
+            "2019": 29.9
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "borders": [
+            "AZE",
+            "GEO",
+            "IRN",
+            "TUR"
+        ],
+        "nativeNames": {
+            "hye": {
+                "official": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576",
+                "common": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
+            }
+        },
+        "currencies": {
+            "AMD": {
+                "name": "Armenian dram",
+                "symbol": "\u058f"
+            }
+        },
+        "languages": {
+            "hye": "Armenian"
+        },
+        "translations": {
+            "ara": "\u0623\u0631\u0645\u064a\u0646\u064a\u0627",
+            "ces": "Arm\u00e9nie",
+            "cym": "Armenia",
+            "deu": "Armenien",
+            "est": "Armeenia",
+            "fin": "Armenia",
+            "fra": "Arm\u00e9nie",
+            "hrv": "Armenija",
+            "hun": "\u00d6rm\u00e9nyorsz\u00e1g",
+            "ita": "Armenia",
+            "jpn": "\u30a2\u30eb\u30e1\u30cb\u30a2",
+            "kor": "\uc544\ub974\uba54\ub2c8\uc544",
+            "nld": "Armeni\u00eb",
+            "per": "\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646",
+            "pol": "Armenia",
+            "por": "Arm\u00e9nia",
+            "rus": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f",
+            "slk": "Arm\u00e9nsko",
+            "spa": "Armenia",
+            "swe": "Armenien",
+            "urd": "\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627",
+            "zho": "\u4e9a\u7f8e\u5c3c\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/am.png",
+            "medium": "https://flagcdn.com/96x72/am.png",
+            "large": "https://flagcdn.com/256x192/am.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EEU",
+                "name": "Eurasian Economic Union",
+                "otherAcronyms": [
+                    "EAEU"
+                ]
+            }
+        ]
+    }
+}

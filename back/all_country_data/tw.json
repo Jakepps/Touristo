@@ -1,0 +1,96 @@
+{
+    "tw": {
+        "name": "Taiwan",
+        "official_name": "Republic of China (Taiwan)",
+        "topLevelDomain": [
+            ".tw"
+        ],
+        "alpha2Code": "TW",
+        "alpha3Code": "TWN",
+        "cioc": "TPE",
+        "numericCode": "158",
+        "callingCode": "+886",
+        "capital": "Taipei",
+        "altSpellings": [
+            "TW",
+            "T\u00e1iw\u0101n",
+            "Republic of China",
+            "\u4e2d\u83ef\u6c11\u570b",
+            "Zh\u014dnghu\u00e1 M\u00edngu\u00f3",
+            "Chinese Taipei"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 23503349,
+        "latLng": {
+            "country": [
+                23.5,
+                121
+            ],
+            "capital": [
+                25.03,
+                121.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Taiwanese",
+                "m": "Taiwanese"
+            },
+            "fra": {
+                "f": "Ta\u00efwanaise",
+                "m": "Ta\u00efwanais"
+            }
+        },
+        "area": 36193,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "zho": {
+                "official": "\u4e2d\u83ef\u6c11\u570b",
+                "common": "\u53f0\u7063"
+            }
+        },
+        "currencies": {
+            "TWD": {
+                "name": "New Taiwan dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": "\u062a\u0627\u064a\u0648\u0627\u0646",
+            "ces": "Tchaj-wan",
+            "cym": "Taiwan",
+            "deu": "Taiwan",
+            "est": "Taiwan",
+            "fin": "Taiwan",
+            "fra": "Ta\u00efwan",
+            "hrv": "Tajvan",
+            "hun": "Tajvan",
+            "ita": "Taiwan",
+            "jpn": "\u53f0\u6e7e",
+            "kor": "\ub300\ub9cc",
+            "nld": "Taiwan",
+            "per": "\u062a\u0627\u06cc\u0648\u0627\u0646",
+            "pol": "Tajwan",
+            "por": "Ilha Formosa",
+            "rus": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+            "slk": "Taiwan",
+            "spa": "Taiw\u00e1n",
+            "swe": "Taiwan",
+            "urd": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tw.png",
+            "medium": "https://flagcdn.com/96x72/tw.png",
+            "large": "https://flagcdn.com/256x192/tw.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

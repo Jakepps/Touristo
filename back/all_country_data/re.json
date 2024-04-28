@@ -1,0 +1,105 @@
+{
+    "re": {
+        "name": "R\u00e9union",
+        "official_name": "R\u00e9union Island",
+        "topLevelDomain": [
+            ".re"
+        ],
+        "alpha2Code": "RE",
+        "alpha3Code": "REU",
+        "cioc": "N/A",
+        "numericCode": "638",
+        "callingCode": "+262",
+        "capital": "Saint-Denis",
+        "altSpellings": [
+            "RE",
+            "Reunion"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "population": 840974,
+        "latLng": {
+            "country": [
+                -21.15,
+                55.5
+            ],
+            "capital": [
+                -20.88,
+                55.45
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "R\u00e9unionese",
+                "m": "R\u00e9unionese"
+            },
+            "fra": {
+                "f": "R\u00e9unionnaise",
+                "m": "R\u00e9unionnais"
+            }
+        },
+        "area": 2511,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "fra": {
+                "official": "Ile de la R\u00e9union",
+                "common": "La R\u00e9union"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0644\u0627 \u0631\u064a\u0648\u0646\u064a\u0648\u0646",
+            "ces": "R\u00e9union",
+            "cym": "R\u00e9union",
+            "deu": "R\u00e9union",
+            "est": "R\u00e9union",
+            "fin": "R\u00e9union",
+            "fra": "R\u00e9union",
+            "hrv": "R\u00e9union",
+            "hun": "R\u00e9union",
+            "ita": "Riunione",
+            "jpn": "\u30ec\u30e6\u30cb\u30aa\u30f3",
+            "kor": "\ub808\uc704\ub2c8\uc639",
+            "nld": "R\u00e9union",
+            "per": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646",
+            "pol": "Reunion",
+            "por": "Reuni\u00e3o",
+            "rus": "\u0420\u0435\u044e\u043d\u044c\u043e\u043d",
+            "slk": "R\u00e9union",
+            "spa": "Reuni\u00f3n",
+            "swe": "R\u00e9union",
+            "urd": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba",
+            "zho": "\u7559\u5c3c\u65fa\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/re.png",
+            "medium": "https://flagcdn.com/96x72/re.png",
+            "large": "https://flagcdn.com/256x192/re.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

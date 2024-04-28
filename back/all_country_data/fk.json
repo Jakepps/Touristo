@@ -1,0 +1,110 @@
+{
+    "fk": {
+        "name": "Falkland Islands",
+        "official_name": "Falkland Islands",
+        "topLevelDomain": [
+            ".fk"
+        ],
+        "alpha2Code": "FK",
+        "alpha3Code": "FLK",
+        "cioc": "N/A",
+        "numericCode": "238",
+        "callingCode": "+500",
+        "capital": "Stanley",
+        "altSpellings": [
+            "FK",
+            "Islas Malvinas",
+            "Falkland Islands (Malvinas)"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 2563,
+        "latLng": {
+            "country": [
+                -51.75,
+                -59
+            ],
+            "capital": [
+                -51.7,
+                -57.85
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Falkland Islander",
+                "m": "Falkland Islander"
+            },
+            "fra": {
+                "f": "Malouinne",
+                "m": "Malouin"
+            }
+        },
+        "area": 12173,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Falkland Islands",
+                "common": "Falkland Islands"
+            }
+        },
+        "currencies": {
+            "FKP": {
+                "name": "Falkland Islands pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0641\u0648\u0643\u0644\u0627\u0646\u062f",
+            "ces": "Falklandy",
+            "cym": "Falkland Islands",
+            "deu": "Falklandinseln",
+            "est": "Falklandi saared",
+            "fin": "Falkandinsaaret",
+            "fra": "\u00celes Malouines",
+            "hrv": "Falklandski Otoci",
+            "hun": "Falkland-szigetek",
+            "ita": "Isole Falkland o Isole Malvine",
+            "jpn": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6",
+            "kor": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4",
+            "nld": "Falklandeilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f",
+            "pol": "Falklandy",
+            "por": "Ilhas Malvinas",
+            "rus": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "slk": "Falklandy",
+            "spa": "Islas Malvinas",
+            "swe": "Falklands\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688",
+            "zho": "\u798f\u514b\u5170\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/fk.png",
+            "medium": "https://flagcdn.com/96x72/fk.png",
+            "large": "https://flagcdn.com/256x192/fk.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

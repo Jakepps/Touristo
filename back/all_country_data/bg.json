@@ -1,0 +1,107 @@
+{
+    "bg": {
+        "name": "Bulgaria",
+        "official_name": "Republic of Bulgaria",
+        "topLevelDomain": [
+            ".bg"
+        ],
+        "alpha2Code": "BG",
+        "alpha3Code": "BGR",
+        "cioc": "BUL",
+        "numericCode": "100",
+        "callingCode": "+359",
+        "capital": "Sofia",
+        "altSpellings": [
+            "BG",
+            "Republic of Bulgaria",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "population": 6927288,
+        "latLng": {
+            "country": [
+                43,
+                25
+            ],
+            "capital": [
+                42.68,
+                23.32
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bulgarian",
+                "m": "Bulgarian"
+            },
+            "fra": {
+                "f": "Bulgare",
+                "m": "Bulgare"
+            }
+        },
+        "area": 110879,
+        "gini": {
+            "2018": 41.3
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "GRC",
+            "MKD",
+            "ROU",
+            "SRB",
+            "TUR"
+        ],
+        "nativeNames": {
+            "bul": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+                "common": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+            }
+        },
+        "currencies": {
+            "BGN": {
+                "name": "Bulgarian lev",
+                "symbol": "\u043b\u0432"
+            }
+        },
+        "languages": {
+            "bul": "Bulgarian"
+        },
+        "translations": {
+            "ara": "\u0628\u0644\u063a\u0627\u0631\u064a\u0627",
+            "ces": "Bulharsko",
+            "cym": "Bwlgaria",
+            "deu": "Bulgarien",
+            "est": "Bulgaaria",
+            "fin": "Bulgaria",
+            "fra": "Bulgarie",
+            "hrv": "Bugarska",
+            "hun": "Bulg\u00e1ria",
+            "ita": "Bulgaria",
+            "jpn": "\u30d6\u30eb\u30ac\u30ea\u30a2",
+            "kor": "\ubd88\uac00\ub9ac\uc544",
+            "nld": "Bulgarije",
+            "per": "\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646",
+            "pol": "Bu\u0142garia",
+            "por": "Bulg\u00e1ria",
+            "rus": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f",
+            "slk": "Bulharsko",
+            "spa": "Bulgaria",
+            "swe": "Bulgarien",
+            "urd": "\u0628\u0644\u063a\u0627\u0631\u06cc\u06c1",
+            "zho": "\u4fdd\u52a0\u5229\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bg.png",
+            "medium": "https://flagcdn.com/96x72/bg.png",
+            "large": "https://flagcdn.com/256x192/bg.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

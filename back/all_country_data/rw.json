@@ -1,0 +1,124 @@
+{
+    "rw": {
+        "name": "Rwanda",
+        "official_name": "Republic of Rwanda",
+        "topLevelDomain": [
+            ".rw"
+        ],
+        "alpha2Code": "RW",
+        "alpha3Code": "RWA",
+        "cioc": "RWA",
+        "numericCode": "646",
+        "callingCode": "+250",
+        "capital": "Kigali",
+        "altSpellings": [
+            "RW",
+            "Republic of Rwanda",
+            "Repubulika y'u Rwanda",
+            "R\u00e9publique du Rwanda"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "population": 12952209,
+        "latLng": {
+            "country": [
+                -2,
+                30
+            ],
+            "capital": [
+                -1.95,
+                30.05
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Rwandan",
+                "m": "Rwandan"
+            },
+            "fra": {
+                "f": "Rwandaise",
+                "m": "Rwandais"
+            }
+        },
+        "area": 26338,
+        "gini": {
+            "2016": 43.7
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BDI",
+            "COD",
+            "TZA",
+            "UGA"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Rwanda",
+                "common": "Rwanda"
+            },
+            "fra": {
+                "official": "R\u00e9publique rwandaise",
+                "common": "Rwanda"
+            },
+            "kin": {
+                "official": "Repubulika y'u Rwanda",
+                "common": "Rwanda"
+            }
+        },
+        "currencies": {
+            "RWF": {
+                "name": "Rwandan franc",
+                "symbol": "Fr"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "kin": "Kinyarwanda"
+        },
+        "translations": {
+            "ara": "\u0631\u0648\u0627\u0646\u062f\u0627",
+            "ces": "Rwanda",
+            "cym": "Rwanda",
+            "deu": "Ruanda",
+            "est": "Rwanda",
+            "fin": "Ruanda",
+            "fra": "Rwanda",
+            "hrv": "Ruanda",
+            "hun": "Ruanda",
+            "ita": "Ruanda",
+            "jpn": "\u30eb\u30ef\u30f3\u30c0",
+            "kor": "\ub974\uc644\ub2e4",
+            "nld": "Rwanda",
+            "per": "\u0631\u0648\u0627\u0646\u062f\u0627",
+            "pol": "Rwanda",
+            "por": "Ruanda",
+            "rus": "\u0420\u0443\u0430\u043d\u0434\u0430",
+            "slk": "Rwanda",
+            "spa": "Ruanda",
+            "swe": "Rwanda",
+            "urd": "\u0631\u0648\u0627\u0646\u0688\u0627",
+            "zho": "\u5362\u65fa\u8fbe"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/rw.png",
+            "medium": "https://flagcdn.com/96x72/rw.png",
+            "large": "https://flagcdn.com/256x192/rw.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "im": {
+        "name": "Isle of Man",
+        "official_name": "Isle of Man",
+        "topLevelDomain": [
+            ".im"
+        ],
+        "alpha2Code": "IM",
+        "alpha3Code": "IMN",
+        "cioc": "N/A",
+        "numericCode": "833",
+        "callingCode": "+44",
+        "capital": "Douglas",
+        "altSpellings": [
+            "IM",
+            "Ellan Vannin",
+            "Mann",
+            "Mannin"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 85032,
+        "latLng": {
+            "country": [
+                54.25,
+                -4.5
+            ],
+            "capital": [
+                54.15,
+                -4.48
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Manx",
+                "m": "Manx"
+            }
+        },
+        "area": 572,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Isle of Man",
+                "common": "Isle of Man"
+            },
+            "glv": {
+                "official": "Ellan Vannin or Mannin",
+                "common": "Mannin"
+            }
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "IMP": {
+                "name": "Manx pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "glv": "Manx"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0646",
+            "ces": "Ostrov Man",
+            "cym": "Isle of Man",
+            "deu": "Insel Man",
+            "est": "Mani saar",
+            "fin": "Mansaari",
+            "fra": "\u00cele de Man",
+            "hrv": "Otok Man",
+            "hun": "Man",
+            "ita": "Isola di Man",
+            "jpn": "\u30de\u30f3\u5cf6",
+            "kor": "\ub9e8\uc12c",
+            "nld": "Isle of Man",
+            "per": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646",
+            "pol": "Wyspa Man",
+            "por": "Ilha de Man",
+            "rus": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
+            "slk": "Man",
+            "spa": "Isla de Man",
+            "swe": "Isle of Man",
+            "urd": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646",
+            "zho": "\u9a6c\u6069\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/im.png",
+            "medium": "https://flagcdn.com/96x72/im.png",
+            "large": "https://flagcdn.com/256x192/im.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

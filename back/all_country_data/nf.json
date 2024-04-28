@@ -1,0 +1,99 @@
+{
+    "nf": {
+        "name": "Norfolk Island",
+        "official_name": "Territory of Norfolk Island",
+        "topLevelDomain": [
+            ".nf"
+        ],
+        "alpha2Code": "NF",
+        "alpha3Code": "NFK",
+        "cioc": "N/A",
+        "numericCode": "574",
+        "callingCode": "+672",
+        "capital": "Kingston",
+        "altSpellings": [
+            "NF",
+            "Territory of Norfolk Island",
+            "Teratri of Norf'k Ailen"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 2302,
+        "latLng": {
+            "country": [
+                -29.03333333,
+                167.95
+            ],
+            "capital": [
+                -29.05,
+                167.97
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Norfolk Islander",
+                "m": "Norfolk Islander"
+            },
+            "fra": {
+                "f": "Norfolkaise",
+                "m": "Norfolkais"
+            }
+        },
+        "area": 36,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+11:30"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Territory of Norfolk Island",
+                "common": "Norfolk Island"
+            },
+            "pih": {
+                "official": "Teratri of Norf'k Ailen",
+                "common": "Norf'k Ailen"
+            }
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "pih": "Norfuk"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u064a\u0631\u0629 \u0646\u0648\u0631\u0641\u0648\u0644\u0643",
+            "ces": "Norfolk",
+            "cym": "Norfolk Island",
+            "deu": "Norfolkinsel",
+            "est": "Norfolk",
+            "fin": "Norfolkinsaari",
+            "fra": "\u00cele Norfolk",
+            "hrv": "Otok Norfolk",
+            "hun": "Norfolk-sziget",
+            "ita": "Isola Norfolk",
+            "jpn": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6",
+            "kor": "\ub178\ud37d \uc12c",
+            "nld": "Norfolkeiland",
+            "per": "\u062c\u0632\u06cc\u0631\u0647 \u0646\u0648\u0631\u0641\u06a9",
+            "pol": "Wyspa Norfolk",
+            "por": "Ilha Norfolk",
+            "rus": "\u041d\u043e\u0440\u0444\u043e\u043b\u043a",
+            "slk": "Norfolk",
+            "spa": "Isla de Norfolk",
+            "swe": "Norfolk\u00f6n",
+            "urd": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9",
+            "zho": "\u8bfa\u798f\u514b\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/nf.png",
+            "medium": "https://flagcdn.com/96x72/nf.png",
+            "large": "https://flagcdn.com/256x192/nf.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

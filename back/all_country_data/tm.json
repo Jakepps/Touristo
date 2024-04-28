@@ -1,0 +1,104 @@
+{
+    "tm": {
+        "name": "Turkmenistan",
+        "official_name": "Turkmenistan",
+        "topLevelDomain": [
+            ".tm"
+        ],
+        "alpha2Code": "TM",
+        "alpha3Code": "TKM",
+        "cioc": "TKM",
+        "numericCode": "795",
+        "callingCode": "+993",
+        "capital": "Ashgabat",
+        "altSpellings": [
+            "TM"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 6031187,
+        "latLng": {
+            "country": [
+                40,
+                60
+            ],
+            "capital": [
+                37.95,
+                58.38
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Turkmen",
+                "m": "Turkmen"
+            },
+            "fra": {
+                "f": "Turkm\u00e8ne",
+                "m": "Turkm\u00e8ne"
+            }
+        },
+        "area": 488100,
+        "gini": {
+            "1998": 40.8
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "borders": [
+            "AFG",
+            "IRN",
+            "KAZ",
+            "UZB"
+        ],
+        "nativeNames": {
+            "rus": {
+                "official": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d",
+                "common": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f"
+            },
+            "tuk": {
+                "official": "T\u00fcrkmenistan",
+                "common": "T\u00fcrkmenistan"
+            }
+        },
+        "currencies": {
+            "TMT": {
+                "name": "Turkmenistan manat",
+                "symbol": "m"
+            }
+        },
+        "languages": {
+            "rus": "Russian",
+            "tuk": "Turkmen"
+        },
+        "translations": {
+            "ara": "\u062a\u0631\u0643\u0645\u0627\u0646\u0633\u062a\u0627\u0646",
+            "ces": "Turkmenist\u00e1n",
+            "cym": "Turkmenistan",
+            "deu": "Turkmenistan",
+            "est": "T\u00fcrkmenistan",
+            "fin": "Turkmenistan",
+            "fra": "Turkm\u00e9nistan",
+            "hrv": "Turkmenistan",
+            "hun": "T\u00fcrkmeniszt\u00e1n",
+            "ita": "Turkmenistan",
+            "jpn": "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3",
+            "kor": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4",
+            "nld": "Turkmenistan",
+            "per": "\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646",
+            "pol": "Turkmenistan",
+            "por": "Turquemenist\u00e3o",
+            "rus": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
+            "slk": "Turkm\u00e9nsko",
+            "spa": "Turkmenist\u00e1n",
+            "swe": "Turkmenistan",
+            "urd": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646",
+            "zho": "\u571f\u5e93\u66fc\u65af\u5766"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tm.png",
+            "medium": "https://flagcdn.com/96x72/tm.png",
+            "large": "https://flagcdn.com/256x192/tm.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

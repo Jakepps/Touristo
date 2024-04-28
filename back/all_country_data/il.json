@@ -1,0 +1,107 @@
+{
+    "il": {
+        "name": "Israel",
+        "official_name": "State of Israel",
+        "topLevelDomain": [
+            ".il"
+        ],
+        "alpha2Code": "IL",
+        "alpha3Code": "ISR",
+        "cioc": "ISR",
+        "numericCode": "376",
+        "callingCode": "+972",
+        "capital": "Jerusalem",
+        "altSpellings": [
+            "IL",
+            "State of Israel",
+            "Med\u012bnat Yisr\u0101'el"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 9216900,
+        "latLng": {
+            "country": [
+                31.47,
+                35.13
+            ],
+            "capital": [
+                31.77,
+                35.23
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Israeli",
+                "m": "Israeli"
+            },
+            "fra": {
+                "f": "Isra\u00e9lienne",
+                "m": "Isra\u00e9lien"
+            }
+        },
+        "area": 20770,
+        "gini": {
+            "2016": 39
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "EGY",
+            "JOR",
+            "LBN",
+            "PSE",
+            "SYR"
+        ],
+        "nativeNames": {
+            "ara": {
+                "official": "\u062f\u0648\u0644\u0629 \u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+                "common": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644"
+            },
+            "heb": {
+                "official": "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+                "common": "\u05d9\u05e9\u05e8\u05d0\u05dc"
+            }
+        },
+        "currencies": {
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\u20aa"
+            }
+        },
+        "languages": {
+            "ara": "Arabic",
+            "heb": "Hebrew"
+        },
+        "translations": {
+            "ara": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+            "ces": "Izrael",
+            "cym": "Israel",
+            "deu": "Israel",
+            "est": "Iisrael",
+            "fin": "Israel",
+            "fra": "Isra\u00ebl",
+            "hrv": "Izrael",
+            "hun": "Izrael",
+            "ita": "Israele",
+            "jpn": "\u30a4\u30b9\u30e9\u30a8\u30eb",
+            "kor": "\uc774\uc2a4\ub77c\uc5d8",
+            "nld": "Isra\u00ebl",
+            "per": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc",
+            "pol": "Izrael",
+            "por": "Israel",
+            "rus": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+            "slk": "Izrael",
+            "spa": "Israel",
+            "swe": "Israel",
+            "urd": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644",
+            "zho": "\u4ee5\u8272\u5217"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/il.png",
+            "medium": "https://flagcdn.com/96x72/il.png",
+            "large": "https://flagcdn.com/256x192/il.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

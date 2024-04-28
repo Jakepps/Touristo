@@ -1,0 +1,116 @@
+{
+    "gw": {
+        "name": "Guinea-Bissau",
+        "official_name": "Republic of Guinea-Bissau",
+        "topLevelDomain": [
+            ".gw"
+        ],
+        "alpha2Code": "GW",
+        "alpha3Code": "GNB",
+        "cioc": "GBS",
+        "numericCode": "624",
+        "callingCode": "+245",
+        "capital": "Bissau",
+        "altSpellings": [
+            "GW",
+            "Republic of Guinea-Bissau",
+            "Rep\u00fablica da Guin\u00e9-Bissau"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "population": 1967998,
+        "latLng": {
+            "country": [
+                12,
+                -15
+            ],
+            "capital": [
+                11.85,
+                -15.58
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guinea-Bissauan",
+                "m": "Guinea-Bissauan"
+            },
+            "fra": {
+                "f": "Bissau-Guin\u00e9enne",
+                "m": "Bissau-Guin\u00e9en"
+            }
+        },
+        "area": 36125,
+        "gini": {
+            "2010": 50.7
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "borders": [
+            "GIN",
+            "SEN"
+        ],
+        "nativeNames": {
+            "por": {
+                "official": "Rep\u00fablica da Guin\u00e9-Bissau",
+                "common": "Guin\u00e9-Bissau"
+            },
+            "pov": {
+                "official": "Rep\u00fablica da Guin\u00e9-Bissau",
+                "common": "Guin\u00e9-Bissau"
+            }
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "languages": {
+            "por": "Portuguese",
+            "pov": "Upper Guinea Creole"
+        },
+        "translations": {
+            "ara": "\u063a\u064a\u0646\u064a\u0627 \u0628\u064a\u0633\u0627\u0648",
+            "ces": "Guinea-Bissau",
+            "cym": "Guinea-Bissau",
+            "deu": "Guinea-Bissau",
+            "est": "Guinea-Bissau",
+            "fin": "Guinea-Bissau",
+            "fra": "Guin\u00e9e-Bissau",
+            "hrv": "Gvineja Bisau",
+            "hun": "Bissau-Guinea",
+            "ita": "Guinea-Bissau",
+            "jpn": "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6",
+            "kor": "\uae30\ub2c8\ube44\uc0ac\uc6b0",
+            "nld": "Guinee-Bissau",
+            "per": "\u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648",
+            "pol": "Gwinea Bissau",
+            "por": "Guin\u00e9-Bissau",
+            "rus": "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443",
+            "slk": "Guinea-Bissau",
+            "spa": "Guinea-Bis\u00e1u",
+            "swe": "Guinea-Bissau",
+            "urd": "\u06af\u0646\u06cc \u0628\u0633\u0627\u0624",
+            "zho": "\u51e0\u5185\u4e9a\u6bd4\u7ecd"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gw.png",
+            "medium": "https://flagcdn.com/96x72/gw.png",
+            "large": "https://flagcdn.com/256x192/gw.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "us": {
+        "name": "United States",
+        "official_name": "United States of America",
+        "topLevelDomain": [
+            ".us"
+        ],
+        "alpha2Code": "US",
+        "alpha3Code": "USA",
+        "cioc": "USA",
+        "numericCode": "840",
+        "callingCode": "+1201",
+        "capital": "Washington, D.C.",
+        "altSpellings": [
+            "US",
+            "USA",
+            "United States of America"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "population": 329484123,
+        "latLng": {
+            "country": [
+                38,
+                -97
+            ],
+            "capital": [
+                38.89,
+                -77.05
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
+            "fra": {
+                "f": "Am\u00e9ricaine",
+                "m": "Am\u00e9ricain"
+            }
+        },
+        "area": 9372610,
+        "gini": {
+            "2018": 41.4
+        },
+        "timezones": [
+            "UTC-12:00",
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "borders": [
+            "CAN",
+            "MEX"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "United States of America",
+                "common": "United States"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+            "ces": "Spojen\u00e9 st\u00e1ty",
+            "cym": "United States",
+            "deu": "Vereinigte Staaten",
+            "est": "Ameerika \u00dchendriigid",
+            "fin": "Yhdysvallat",
+            "fra": "\u00c9tats-Unis",
+            "hrv": "Sjedinjene Ameri\u010dke Dr\u017eave",
+            "hun": "Amerikai Egyes\u00fclt \u00c1llamok",
+            "ita": "Stati Uniti d'America",
+            "jpn": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
+            "kor": "\ubbf8\uad6d",
+            "nld": "Verenigde Staten",
+            "per": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "pol": "Stany Zjednoczone",
+            "por": "Estados Unidos",
+            "rus": "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438",
+            "slk": "Spojen\u00e9 \u0161t\u00e1ty americk\u00e9",
+            "spa": "Estados Unidos",
+            "swe": "USA",
+            "urd": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1",
+            "zho": "\u7f8e\u56fd"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/us.png",
+            "medium": "https://flagcdn.com/96x72/us.png",
+            "large": "https://flagcdn.com/256x192/us.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "NAFTA",
+                "name": "North American Free Trade Agreement",
+                "otherNames": [
+                    "Tratado de Libre Comercio de Am\u00e9rica del Norte",
+                    "Accord de Libre-\u00e9change Nord-Am\u00e9ricain"
+                ]
+            }
+        ]
+    }
+}

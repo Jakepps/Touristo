@@ -1,0 +1,115 @@
+{
+    "uy": {
+        "name": "Uruguay",
+        "official_name": "Oriental Republic of Uruguay",
+        "topLevelDomain": [
+            ".uy"
+        ],
+        "alpha2Code": "UY",
+        "alpha3Code": "URY",
+        "cioc": "URU",
+        "numericCode": "858",
+        "callingCode": "+598",
+        "capital": "Montevideo",
+        "altSpellings": [
+            "UY",
+            "Oriental Republic of Uruguay",
+            "Rep\u00fablica Oriental del Uruguay"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 3473727,
+        "latLng": {
+            "country": [
+                -33,
+                -56
+            ],
+            "capital": [
+                -34.85,
+                -56.17
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Uruguayan",
+                "m": "Uruguayan"
+            },
+            "fra": {
+                "f": "Uruguayenne",
+                "m": "Uruguayen"
+            }
+        },
+        "area": 181034,
+        "gini": {
+            "2019": 39.7
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "borders": [
+            "ARG",
+            "BRA"
+        ],
+        "nativeNames": {
+            "spa": {
+                "official": "Rep\u00fablica Oriental del Uruguay",
+                "common": "Uruguay"
+            }
+        },
+        "currencies": {
+            "UYU": {
+                "name": "Uruguayan peso",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a",
+            "ces": "Uruguay",
+            "cym": "Uruguay",
+            "deu": "Uruguay",
+            "est": "Uruguay",
+            "fin": "Uruguay",
+            "fra": "Uruguay",
+            "hrv": "Urugvaj",
+            "hun": "Uruguay",
+            "ita": "Uruguay",
+            "jpn": "\u30a6\u30eb\u30b0\u30a2\u30a4",
+            "kor": "\uc6b0\ub8e8\uacfc\uc774",
+            "nld": "Uruguay",
+            "per": "\u0627\u0631\u0648\u06af\u0648\u0626\u0647",
+            "pol": "Urugwaj",
+            "por": "Uruguai",
+            "rus": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439",
+            "slk": "Uruguaj",
+            "spa": "Uruguay",
+            "swe": "Uruguay",
+            "urd": "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2",
+            "zho": "\u4e4c\u62c9\u572d"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/uy.png",
+            "medium": "https://flagcdn.com/96x72/uy.png",
+            "large": "https://flagcdn.com/256x192/uy.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

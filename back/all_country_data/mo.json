@@ -1,0 +1,100 @@
+{
+    "mo": {
+        "name": "Macau",
+        "official_name": "Macao Special Administrative Region of the People's Republic of China",
+        "topLevelDomain": [
+            ".mo"
+        ],
+        "alpha2Code": "MO",
+        "alpha3Code": "MAC",
+        "cioc": "N/A",
+        "numericCode": "446",
+        "callingCode": "+853",
+        "capital": "N/A",
+        "altSpellings": [
+            "MO",
+            "\u6fb3\u95e8",
+            "Macao",
+            "Macao Special Administrative Region of the People's Republic of China",
+            "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340",
+            "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 649342,
+        "latLng": {
+            "country": [
+                22.16666666,
+                113.55
+            ],
+            "capital": "N/A"
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Macanese",
+                "m": "Macanese"
+            },
+            "fra": {
+                "f": "Macanaise",
+                "m": "Macanais"
+            }
+        },
+        "area": 30,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "CHN"
+        ],
+        "nativeNames": {
+            "por": {
+                "official": "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China",
+                "common": "Macau"
+            },
+            "zho": {
+                "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a",
+                "common": "\u6fb3\u95e8"
+            }
+        },
+        "currencies": {
+            "MOP": {
+                "name": "Macanese pataca",
+                "symbol": "P"
+            }
+        },
+        "languages": {
+            "por": "Portuguese",
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": "\u0645\u0627\u0643\u0627\u0648",
+            "ces": "Macao",
+            "cym": "Macau",
+            "deu": "Macao",
+            "est": "Macau",
+            "fin": "Macao",
+            "fra": "Macao",
+            "hrv": "Makao",
+            "hun": "Maka\u00f3",
+            "ita": "Macao",
+            "jpn": "\u30de\u30ab\u30aa",
+            "kor": "\ub9c8\uce74\uc624",
+            "nld": "Macao",
+            "per": "\u0645\u0627\u06a9\u0627\u0626\u0648",
+            "pol": "Makau",
+            "por": "Macau",
+            "rus": "\u041c\u0430\u043a\u0430\u043e",
+            "slk": "Macao",
+            "spa": "Macao",
+            "swe": "Macao",
+            "urd": "\u0645\u06a9\u0627\u0624"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mo.png",
+            "medium": "https://flagcdn.com/96x72/mo.png",
+            "large": "https://flagcdn.com/256x192/mo.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

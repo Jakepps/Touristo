@@ -1,0 +1,135 @@
+{
+    "pe": {
+        "name": "Peru",
+        "official_name": "Republic of Peru",
+        "topLevelDomain": [
+            ".pe"
+        ],
+        "alpha2Code": "PE",
+        "alpha3Code": "PER",
+        "cioc": "PER",
+        "numericCode": "604",
+        "callingCode": "+51",
+        "capital": "Lima",
+        "altSpellings": [
+            "PE",
+            "Republic of Peru",
+            "Rep\u00fablica del Per\u00fa"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 32971846,
+        "latLng": {
+            "country": [
+                -10,
+                -76
+            ],
+            "capital": [
+                -12.05,
+                -77.05
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Peruvian",
+                "m": "Peruvian"
+            },
+            "fra": {
+                "f": "P\u00e9ruvienne",
+                "m": "P\u00e9ruvien"
+            }
+        },
+        "area": 1285216,
+        "gini": {
+            "2019": 41.5
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "COL",
+            "ECU"
+        ],
+        "nativeNames": {
+            "aym": {
+                "official": "Piruw Suyu",
+                "common": "Piruw"
+            },
+            "que": {
+                "official": "Piruw Ripuwlika",
+                "common": "Piruw"
+            },
+            "spa": {
+                "official": "Rep\u00fablica del Per\u00fa",
+                "common": "Per\u00fa"
+            }
+        },
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S/ "
+            }
+        },
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0628\u064a\u0631\u0648",
+            "ces": "Peru",
+            "cym": "Peru",
+            "deu": "Peru",
+            "est": "Peruu",
+            "fin": "Peru",
+            "fra": "P\u00e9rou",
+            "hrv": "Peru",
+            "hun": "Peru",
+            "ita": "Per\u00f9",
+            "jpn": "\u30da\u30eb\u30fc",
+            "kor": "\ud398\ub8e8",
+            "nld": "Peru",
+            "per": "\u067e\u0631\u0648",
+            "pol": "Peru",
+            "por": "Per\u00fa",
+            "rus": "\u041f\u0435\u0440\u0443",
+            "slk": "Peru",
+            "spa": "Per\u00fa",
+            "swe": "Peru",
+            "urd": "\u067e\u06cc\u0631\u0648",
+            "zho": "\u79d8\u9c81"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/pe.png",
+            "medium": "https://flagcdn.com/96x72/pe.png",
+            "large": "https://flagcdn.com/256x192/pe.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "PA",
+                "name": "Pacific Alliance",
+                "otherNames": [
+                    "Alianza del Pac\u00edfico"
+                ]
+            },
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

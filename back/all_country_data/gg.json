@@ -1,0 +1,108 @@
+{
+    "gg": {
+        "name": "Guernsey",
+        "official_name": "Bailiwick of Guernsey",
+        "topLevelDomain": [
+            ".gg"
+        ],
+        "alpha2Code": "GG",
+        "alpha3Code": "GGY",
+        "cioc": "N/A",
+        "numericCode": "831",
+        "callingCode": "+44",
+        "capital": "St. Peter Port",
+        "altSpellings": [
+            "GG",
+            "Bailiwick of Guernsey",
+            "Bailliage de Guernesey"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 62999,
+        "latLng": {
+            "country": [
+                49.46666666,
+                -2.58333333
+            ],
+            "capital": [
+                49.45,
+                -2.54
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Channel Islander",
+                "m": "Channel Islander"
+            },
+            "fra": {
+                "f": "Guernesiaise",
+                "m": "Guernesiais"
+            }
+        },
+        "area": 78,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Bailiwick of Guernsey",
+                "common": "Guernsey"
+            },
+            "fra": {
+                "official": "Bailliage de Guernesey",
+                "common": "Guernesey"
+            },
+            "nfr": {
+                "official": "Dg\u00e8rn\u00e9siais",
+                "common": "Dg\u00e8rn\u00e9siais"
+            }
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "GGP": {
+                "name": "Guernsey pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nfr": "Guern\u00e9siais"
+        },
+        "translations": {
+            "ara": "\u063a\u064a\u0631\u0646\u0632\u064a",
+            "ces": "Guernsey",
+            "cym": "Guernsey",
+            "deu": "Guernsey",
+            "est": "Guernsey",
+            "fin": "Guernsey",
+            "fra": "Guernesey",
+            "hrv": "Guernsey",
+            "hun": "Guernsey",
+            "ita": "Guernsey",
+            "jpn": "\u30ac\u30fc\u30f3\u30b8\u30fc",
+            "kor": "\uac74\uc9c0 \uc12c",
+            "nld": "Guernsey",
+            "per": "\u06af\u0631\u0646\u0632\u06cc",
+            "pol": "Guernsey",
+            "por": "Guernsey",
+            "rus": "\u0413\u0435\u0440\u043d\u0441\u0438",
+            "slk": "Guernsey",
+            "spa": "Guernsey",
+            "swe": "Guernsey",
+            "urd": "\u06af\u0631\u0646\u0632\u06cc",
+            "zho": "\u6839\u897f\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gg.png",
+            "medium": "https://flagcdn.com/96x72/gg.png",
+            "large": "https://flagcdn.com/256x192/gg.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

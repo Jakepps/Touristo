@@ -1,0 +1,95 @@
+{
+    "bl": {
+        "name": "Saint Barth\u00e9lemy",
+        "official_name": "Collectivity of Saint Barth\u00e9lemy",
+        "topLevelDomain": [
+            ".bl"
+        ],
+        "alpha2Code": "BL",
+        "alpha3Code": "BLM",
+        "cioc": "N/A",
+        "numericCode": "652",
+        "callingCode": "+590",
+        "capital": "Gustavia",
+        "altSpellings": [
+            "BL",
+            "St. Barthelemy",
+            "Collectivity of Saint Barth\u00e9lemy",
+            "Collectivit\u00e9 de Saint-Barth\u00e9lemy"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 4255,
+        "latLng": {
+            "country": [
+                18.5,
+                -63.41666666
+            ],
+            "capital": [
+                17.88,
+                -62.85
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint Barth\u00e9lemy Islander",
+                "m": "Saint Barth\u00e9lemy Islander"
+            },
+            "fra": {
+                "f": "Barth\u00e9lom\u00e9enne",
+                "m": "Barth\u00e9lom\u00e9en"
+            }
+        },
+        "area": 21,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "fra": {
+                "official": "Collectivit\u00e9 de Saint-Barth\u00e9lemy",
+                "common": "Saint-Barth\u00e9lemy"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0633\u0627\u0646 \u0628\u0627\u0631\u062a\u0644\u064a\u0645\u064a",
+            "ces": "Svat\u00fd Bartolom\u011bj",
+            "cym": "Saint Barth\u00e9lemy",
+            "deu": "Saint-Barth\u00e9lemy",
+            "est": "Saint-Barth\u00e9lemy",
+            "fin": "Saint-Barth\u00e9lemy",
+            "fra": "Saint-Barth\u00e9lemy",
+            "hrv": "Saint Barth\u00e9lemy",
+            "hun": "Saint-Barth\u00e9lemy",
+            "ita": "Antille Francesi",
+            "jpn": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc",
+            "kor": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8",
+            "nld": "Saint Barth\u00e9lemy",
+            "per": "\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc",
+            "pol": "Saint-Barth\u00e9lemy",
+            "por": "S\u00e3o Bartolomeu",
+            "rus": "\u0421\u0435\u043d-\u0411\u0430\u0440\u0442\u0435\u043b\u0435\u043c\u0438",
+            "slk": "Sv\u00e4t\u00fd Bartolomej",
+            "spa": "San Bartolom\u00e9",
+            "swe": "Saint-Barth\u00e9lemy",
+            "urd": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2",
+            "zho": "\u5723\u5df4\u6cf0\u52d2\u7c73"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bl.png",
+            "medium": "https://flagcdn.com/96x72/bl.png",
+            "large": "https://flagcdn.com/256x192/bl.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "tk": {
+        "name": "Tokelau",
+        "official_name": "Tokelau",
+        "topLevelDomain": [
+            ".tk"
+        ],
+        "alpha2Code": "TK",
+        "alpha3Code": "TKL",
+        "cioc": "N/A",
+        "numericCode": "772",
+        "callingCode": "+690",
+        "capital": "Fakaofo",
+        "altSpellings": [
+            "TK"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 1411,
+        "latLng": {
+            "country": [
+                -9,
+                -172
+            ],
+            "capital": [
+                -9.38,
+                -171.22
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tokelauan",
+                "m": "Tokelauan"
+            }
+        },
+        "area": 12,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "smo": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "tkl": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            }
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan",
+            "tkl": "Tokelauan"
+        },
+        "translations": {
+            "ara": "\u062a\u0648\u0643\u064a\u0644\u0627\u0648",
+            "ces": "Tokelau",
+            "cym": "Tokelau",
+            "deu": "Tokelau",
+            "est": "Tokelau",
+            "fin": "Tokelau",
+            "fra": "Tokelau",
+            "hrv": "Tokelau",
+            "hun": "Tokelau-szigetek",
+            "ita": "Isole Tokelau",
+            "jpn": "\u30c8\u30b1\u30e9\u30a6",
+            "kor": "\ud1a0\ucf08\ub77c\uc6b0",
+            "nld": "Tokelau",
+            "per": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648",
+            "pol": "Tokelau",
+            "por": "Tokelau",
+            "rus": "\u0422\u043e\u043a\u0435\u043b\u0430\u0443",
+            "slk": "Tokelau",
+            "spa": "Islas Tokelau",
+            "swe": "Tokelau\u00f6arna",
+            "urd": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624",
+            "zho": "\u6258\u514b\u52b3"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tk.png",
+            "medium": "https://flagcdn.com/96x72/tk.png",
+            "large": "https://flagcdn.com/256x192/tk.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

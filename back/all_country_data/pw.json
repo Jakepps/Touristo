@@ -1,0 +1,99 @@
+{
+    "pw": {
+        "name": "Palau",
+        "official_name": "Republic of Palau",
+        "topLevelDomain": [
+            ".pw"
+        ],
+        "alpha2Code": "PW",
+        "alpha3Code": "PLW",
+        "cioc": "PLW",
+        "numericCode": "585",
+        "callingCode": "+680",
+        "capital": "Ngerulmud",
+        "altSpellings": [
+            "PW",
+            "Republic of Palau",
+            "Beluu er a Belau"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 18092,
+        "latLng": {
+            "country": [
+                7.5,
+                134.5
+            ],
+            "capital": [
+                7.5,
+                134.62
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Palauan",
+                "m": "Palauan"
+            },
+            "fra": {
+                "f": "Paluane",
+                "m": "Paluan"
+            }
+        },
+        "area": 459,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Palau",
+                "common": "Palau"
+            },
+            "pau": {
+                "official": "Beluu er a Belau",
+                "common": "Belau"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "pau": "Palauan"
+        },
+        "translations": {
+            "ara": "\u0628\u0627\u0644\u0627\u0648",
+            "ces": "Palau",
+            "cym": "Palau",
+            "deu": "Palau",
+            "est": "Belau",
+            "fin": "Palau",
+            "fra": "Palaos (Palau)",
+            "hrv": "Palau",
+            "hun": "Palau",
+            "ita": "Palau",
+            "jpn": "\u30d1\u30e9\u30aa",
+            "kor": "\ud314\ub77c\uc6b0",
+            "nld": "Palau",
+            "per": "\u067e\u0627\u0644\u0627\u0626\u0648",
+            "pol": "Palau",
+            "por": "Palau",
+            "rus": "\u041f\u0430\u043b\u0430\u0443",
+            "slk": "Palau",
+            "spa": "Palau",
+            "swe": "Palau",
+            "urd": "\u067e\u0644\u0627\u0624",
+            "zho": "\u5e15\u52b3"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/pw.png",
+            "medium": "https://flagcdn.com/96x72/pw.png",
+            "large": "https://flagcdn.com/256x192/pw.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

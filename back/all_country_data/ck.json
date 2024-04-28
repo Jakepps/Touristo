@@ -1,0 +1,102 @@
+{
+    "ck": {
+        "name": "Cook Islands",
+        "official_name": "Cook Islands",
+        "topLevelDomain": [
+            ".ck"
+        ],
+        "alpha2Code": "CK",
+        "alpha3Code": "COK",
+        "cioc": "COK",
+        "numericCode": "184",
+        "callingCode": "+682",
+        "capital": "Avarua",
+        "altSpellings": [
+            "CK",
+            "K\u016bki '\u0100irani"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 18100,
+        "latLng": {
+            "country": [
+                -21.23333333,
+                -159.76666666
+            ],
+            "capital": [
+                -21.2,
+                -159.77
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cook Islander",
+                "m": "Cook Islander"
+            },
+            "fra": {
+                "f": "Cookienne",
+                "m": "Cookien"
+            }
+        },
+        "area": 236,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-10:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Cook Islands",
+                "common": "Cook Islands"
+            },
+            "rar": {
+                "official": "K\u016bki '\u0100irani",
+                "common": "K\u016bki '\u0100irani"
+            }
+        },
+        "currencies": {
+            "CKD": {
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "rar": "Cook Islands M\u0101ori"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0643\u0648\u0643",
+            "ces": "Cookovy ostrovy",
+            "cym": "Ynysoedd Cook",
+            "deu": "Cookinseln",
+            "est": "Cooki saared",
+            "fin": "Cookinsaaret",
+            "fra": "\u00celes Cook",
+            "hrv": "Cookovo Oto\u010dje",
+            "hun": "Cook-szigetek",
+            "ita": "Isole Cook",
+            "jpn": "\u30af\u30c3\u30af\u8af8\u5cf6",
+            "kor": "\ucfe1 \uc81c\ub3c4",
+            "nld": "Cookeilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9",
+            "pol": "Wyspy Cooka",
+            "por": "Ilhas Cook",
+            "rus": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430",
+            "slk": "Cookove ostrovy",
+            "spa": "Islas Cook",
+            "swe": "Cook\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9",
+            "zho": "\u5e93\u514b\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ck.png",
+            "medium": "https://flagcdn.com/96x72/ck.png",
+            "large": "https://flagcdn.com/256x192/ck.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

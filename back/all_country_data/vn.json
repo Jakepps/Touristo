@@ -1,0 +1,106 @@
+{
+    "vn": {
+        "name": "Vietnam",
+        "official_name": "Socialist Republic of Vietnam",
+        "topLevelDomain": [
+            ".vn"
+        ],
+        "alpha2Code": "VN",
+        "alpha3Code": "VNM",
+        "cioc": "VIE",
+        "numericCode": "704",
+        "callingCode": "+84",
+        "capital": "Hanoi",
+        "altSpellings": [
+            "VN",
+            "Socialist Republic of Vietnam",
+            "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam",
+            "Viet Nam"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 97338583,
+        "latLng": {
+            "country": [
+                16.16666666,
+                107.83333333
+            ],
+            "capital": [
+                21.03,
+                105.85
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Vietnamese",
+                "m": "Vietnamese"
+            },
+            "fra": {
+                "f": "Vietnamienne",
+                "m": "Vietnamien"
+            }
+        },
+        "area": 331212,
+        "gini": {
+            "2018": 35.7
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "borders": [
+            "KHM",
+            "CHN",
+            "LAO"
+        ],
+        "nativeNames": {
+            "vie": {
+                "official": "C\u1ed9ng h\u00f2a x\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam",
+                "common": "Vi\u1ec7t Nam"
+            }
+        },
+        "currencies": {
+            "VND": {
+                "name": "Vietnamese \u0111\u1ed3ng",
+                "symbol": "\u20ab"
+            }
+        },
+        "languages": {
+            "vie": "Vietnamese"
+        },
+        "translations": {
+            "ara": "\u0641\u064a\u062a\u0646\u0627\u0645",
+            "ces": "Vietnam",
+            "cym": "Vietnam",
+            "deu": "Vietnam",
+            "est": "Vietnam",
+            "fin": "Vietnam",
+            "fra": "Vi\u00eat Nam",
+            "hrv": "Vijetnam",
+            "hun": "Vietn\u00e1m",
+            "ita": "Vietnam",
+            "jpn": "\u30d9\u30c8\u30ca\u30e0",
+            "kor": "\ubca0\ud2b8\ub0a8",
+            "nld": "Vietnam",
+            "per": "\u0648\u06cc\u062a\u0646\u0627\u0645",
+            "pol": "Wietnam",
+            "por": "Vietname",
+            "rus": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c",
+            "slk": "Vietnam",
+            "spa": "Vietnam",
+            "swe": "Vietnam",
+            "urd": "\u0648\u06cc\u062a\u0646\u0627\u0645",
+            "zho": "\u8d8a\u5357"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/vn.png",
+            "medium": "https://flagcdn.com/96x72/vn.png",
+            "large": "https://flagcdn.com/256x192/vn.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ]
+    }
+}

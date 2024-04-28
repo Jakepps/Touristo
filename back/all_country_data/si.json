@@ -1,0 +1,106 @@
+{
+    "si": {
+        "name": "Slovenia",
+        "official_name": "Republic of Slovenia",
+        "topLevelDomain": [
+            ".si"
+        ],
+        "alpha2Code": "SI",
+        "alpha3Code": "SVN",
+        "cioc": "SLO",
+        "numericCode": "705",
+        "callingCode": "+386",
+        "capital": "Ljubljana",
+        "altSpellings": [
+            "SI",
+            "Republic of Slovenia",
+            "Republika Slovenija"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "population": 2100126,
+        "latLng": {
+            "country": [
+                46.11666666,
+                14.81666666
+            ],
+            "capital": [
+                46.05,
+                14.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Slovene",
+                "m": "Slovene"
+            },
+            "fra": {
+                "f": "Slov\u00e8ne",
+                "m": "Slov\u00e8ne"
+            }
+        },
+        "area": 20273,
+        "gini": {
+            "2018": 24.6
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "HRV",
+            "ITA",
+            "HUN"
+        ],
+        "nativeNames": {
+            "slv": {
+                "official": "Republika Slovenija",
+                "common": "Slovenija"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "slv": "Slovene"
+        },
+        "translations": {
+            "ara": "\u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627",
+            "ces": "Slovinsko",
+            "cym": "Slovenia",
+            "deu": "Slowenien",
+            "est": "Sloveenia",
+            "fin": "Slovenia",
+            "fra": "Slov\u00e9nie",
+            "hrv": "Slovenija",
+            "hun": "Szlov\u00e9nia",
+            "ita": "Slovenia",
+            "jpn": "\u30b9\u30ed\u30d9\u30cb\u30a2",
+            "kor": "\uc2ac\ub85c\ubca0\ub2c8\uc544",
+            "nld": "Sloveni\u00eb",
+            "per": "\u0627\u0633\u0644\u0648\u0648\u0646\u06cc",
+            "pol": "S\u0142owenia",
+            "por": "Eslov\u00e9nia",
+            "rus": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+            "slk": "Slovinsko",
+            "spa": "Eslovenia",
+            "swe": "Slovenien",
+            "urd": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627",
+            "zho": "\u65af\u6d1b\u6587\u5c3c\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/si.png",
+            "medium": "https://flagcdn.com/96x72/si.png",
+            "large": "https://flagcdn.com/256x192/si.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

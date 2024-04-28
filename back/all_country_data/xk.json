@@ -1,0 +1,107 @@
+{
+    "xk": {
+        "name": "Kosovo",
+        "official_name": "Republic of Kosovo",
+        "topLevelDomain": "N/A",
+        "alpha2Code": "XK",
+        "alpha3Code": "UNK",
+        "cioc": "KOS",
+        "numericCode": "N/A",
+        "callingCode": "+383",
+        "capital": "Pristina",
+        "altSpellings": [
+            "XK",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "population": 1775378,
+        "latLng": {
+            "country": [
+                42.666667,
+                21.166667
+            ],
+            "capital": [
+                42.67,
+                21.17
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kosovar",
+                "m": "Kosovar"
+            },
+            "fra": {
+                "f": "Kosovare",
+                "m": "Kosovar"
+            }
+        },
+        "area": 10908,
+        "gini": {
+            "2017": 29
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "ALB",
+            "MKD",
+            "MNE",
+            "SRB"
+        ],
+        "nativeNames": {
+            "sqi": {
+                "official": "Republika e Kosov\u00ebs",
+                "common": "Kosova"
+            },
+            "srp": {
+                "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e",
+                "common": "\u041a\u043e\u0441\u043e\u0432\u043e"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "sqi": "Albanian",
+            "srp": "Serbian"
+        },
+        "translations": {
+            "ara": "\u0643\u0648\u0633\u0648\u0641\u0648",
+            "ces": "Kosovo",
+            "cym": "Kosovo",
+            "deu": "Kosovo",
+            "est": "Kosovo",
+            "fin": "Kosovo",
+            "fra": "Kosovo",
+            "hrv": "Kosovo",
+            "hun": "Koszov\u00f3",
+            "ita": "Kosovo",
+            "kor": "\ucf54\uc18c\ubcf4",
+            "nld": "Kosovo",
+            "per": "\u06a9\u0648\u0632\u0648\u0648",
+            "pol": "Kosowo",
+            "por": "Kosovo",
+            "rus": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e",
+            "slk": "Kosovo",
+            "spa": "Kosovo",
+            "swe": "Kosovo",
+            "urd": "\u06a9\u0648\u0633\u0648\u0648\u06c1",
+            "zho": "\u79d1\u7d22\u6c83"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/xk.png",
+            "medium": "https://flagcdn.com/96x72/xk.png",
+            "large": "https://flagcdn.com/256x192/xk.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ]
+    }
+}

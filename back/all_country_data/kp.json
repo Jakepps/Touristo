@@ -1,0 +1,103 @@
+{
+    "kp": {
+        "name": "North Korea",
+        "official_name": "Democratic People's Republic of Korea",
+        "topLevelDomain": [
+            ".kp"
+        ],
+        "alpha2Code": "KP",
+        "alpha3Code": "PRK",
+        "cioc": "PRK",
+        "numericCode": "408",
+        "callingCode": "+850",
+        "capital": "Pyongyang",
+        "altSpellings": [
+            "KP",
+            "Democratic People's Republic of Korea",
+            "DPRK",
+            "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+            "Chos\u014fn Minjuju\u016di Inmin Konghwaguk",
+            "Korea, Democratic People's Republic of",
+            "\ubd81\ud55c",
+            "\ubd81\uc870\uc120"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 25778815,
+        "latLng": {
+            "country": [
+                40,
+                127
+            ],
+            "capital": [
+                39.02,
+                125.75
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "North Korean",
+                "m": "North Korean"
+            },
+            "fra": {
+                "f": "Nord-cor\u00e9enne",
+                "m": "Nord-cor\u00e9en"
+            }
+        },
+        "area": 120538,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "borders": [
+            "CHN",
+            "KOR",
+            "RUS"
+        ],
+        "nativeNames": {
+            "kor": {
+                "official": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+                "common": "\uc870\uc120"
+            }
+        },
+        "currencies": {
+            "KPW": {
+                "name": "North Korean won",
+                "symbol": "\u20a9"
+            }
+        },
+        "languages": {
+            "kor": "Korean"
+        },
+        "translations": {
+            "ara": "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+            "ces": "Severn\u00ed Korea",
+            "cym": "North Korea",
+            "deu": "Nordkorea",
+            "est": "P\u00f5hja-Korea",
+            "fin": "Pohjois-Korea",
+            "fra": "Cor\u00e9e du Nord",
+            "hrv": "Sjeverna Koreja",
+            "hun": "\u00c9szak-Korea",
+            "ita": "Corea del Nord",
+            "jpn": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
+            "kor": "\uc870\uc120",
+            "nld": "Noord-Korea",
+            "per": "\u06a9\u064f\u0631\u0647 \u0634\u0645\u0627\u0644\u06cc",
+            "pol": "Korea P\u00f3\u0142nocna",
+            "por": "Coreia do Norte",
+            "rus": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f",
+            "slk": "K\u00f3rejsk\u00e1 \u013eudovodemokratick\u00e1 republika (K\u013dR, Severn\u00e1 K\u00f3rea)",
+            "spa": "Corea del Norte",
+            "swe": "Nordkorea",
+            "urd": "\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627",
+            "zho": "\u671d\u9c9c"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/kp.png",
+            "medium": "https://flagcdn.com/96x72/kp.png",
+            "large": "https://flagcdn.com/256x192/kp.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

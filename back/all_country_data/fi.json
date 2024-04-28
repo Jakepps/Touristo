@@ -1,0 +1,112 @@
+{
+    "fi": {
+        "name": "Finland",
+        "official_name": "Republic of Finland",
+        "topLevelDomain": [
+            ".fi"
+        ],
+        "alpha2Code": "FI",
+        "alpha3Code": "FIN",
+        "cioc": "FIN",
+        "numericCode": "246",
+        "callingCode": "+358",
+        "capital": "Helsinki",
+        "altSpellings": [
+            "FI",
+            "Suomi",
+            "Republic of Finland",
+            "Suomen tasavalta",
+            "Republiken Finland"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 5530719,
+        "latLng": {
+            "country": [
+                64,
+                26
+            ],
+            "capital": [
+                60.17,
+                24.93
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Finnish",
+                "m": "Finnish"
+            },
+            "fra": {
+                "f": "Finlandaise",
+                "m": "Finlandais"
+            }
+        },
+        "area": 338424,
+        "gini": {
+            "2018": 27.3
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "NOR",
+            "SWE",
+            "RUS"
+        ],
+        "nativeNames": {
+            "fin": {
+                "official": "Suomen tasavalta",
+                "common": "Suomi"
+            },
+            "swe": {
+                "official": "Republiken Finland",
+                "common": "Finland"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fin": "Finnish",
+            "swe": "Swedish"
+        },
+        "translations": {
+            "ara": "\u0641\u0646\u0644\u0646\u062f\u0627",
+            "ces": "Finsko",
+            "cym": "Finland",
+            "deu": "Finnland",
+            "est": "Soome",
+            "fin": "Suomi",
+            "fra": "Finlande",
+            "hrv": "Finska",
+            "hun": "Finnorsz\u00e1g",
+            "ita": "Finlandia",
+            "jpn": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9",
+            "kor": "\ud540\ub780\ub4dc",
+            "nld": "Finland",
+            "per": "\u0641\u0646\u0644\u0627\u0646\u062f",
+            "pol": "Finlandia",
+            "por": "Finl\u00e2ndia",
+            "rus": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+            "slk": "F\u00ednsko",
+            "spa": "Finlandia",
+            "swe": "Finland",
+            "urd": "\u0641\u0646 \u0644\u06cc\u0646\u0688",
+            "zho": "\u82ac\u5170"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/fi.png",
+            "medium": "https://flagcdn.com/96x72/fi.png",
+            "large": "https://flagcdn.com/256x192/fi.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

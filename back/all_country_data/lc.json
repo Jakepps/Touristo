@@ -1,0 +1,104 @@
+{
+    "lc": {
+        "name": "Saint Lucia",
+        "official_name": "Saint Lucia",
+        "topLevelDomain": [
+            ".lc"
+        ],
+        "alpha2Code": "LC",
+        "alpha3Code": "LCA",
+        "cioc": "LCA",
+        "numericCode": "662",
+        "callingCode": "+1758",
+        "capital": "Castries",
+        "altSpellings": [
+            "LC"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 183629,
+        "latLng": {
+            "country": [
+                13.88333333,
+                -60.96666666
+            ],
+            "capital": [
+                14,
+                -61
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Saint Lucian",
+                "m": "Saint Lucian"
+            },
+            "fra": {
+                "f": "Saint-Lucienne",
+                "m": "Saint-Lucien"
+            }
+        },
+        "area": 616,
+        "gini": {
+            "2016": 51.2
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Saint Lucia",
+                "common": "Saint Lucia"
+            }
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627",
+            "ces": "Svat\u00e1 Lucie",
+            "cym": "Saint Lucia",
+            "deu": "St. Lucia",
+            "est": "Saint Lucia",
+            "fin": "Saint Lucia",
+            "fra": "Sainte-Lucie",
+            "hrv": "Sveta Lucija",
+            "hun": "Saint Lucia",
+            "ita": "Santa Lucia",
+            "jpn": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2",
+            "kor": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544",
+            "nld": "Saint Lucia",
+            "per": "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u0627",
+            "pol": "Saint Lucia",
+            "por": "Santa L\u00facia",
+            "rus": "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f",
+            "slk": "Sv\u00e4t\u00e1 Lucia",
+            "spa": "Santa Luc\u00eda",
+            "swe": "Saint Lucia",
+            "urd": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627",
+            "zho": "\u5723\u5362\u897f\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/lc.png",
+            "medium": "https://flagcdn.com/96x72/lc.png",
+            "large": "https://flagcdn.com/256x192/lc.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ]
+    }
+}

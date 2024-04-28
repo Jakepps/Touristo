@@ -1,0 +1,116 @@
+{
+    "ec": {
+        "name": "Ecuador",
+        "official_name": "Republic of Ecuador",
+        "topLevelDomain": [
+            ".ec"
+        ],
+        "alpha2Code": "EC",
+        "alpha3Code": "ECU",
+        "cioc": "ECU",
+        "numericCode": "218",
+        "callingCode": "+593",
+        "capital": "Quito",
+        "altSpellings": [
+            "EC",
+            "Republic of Ecuador",
+            "Rep\u00fablica del Ecuador"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 17643060,
+        "latLng": {
+            "country": [
+                -2,
+                -77.5
+            ],
+            "capital": [
+                -0.22,
+                -78.5
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ecuadorean",
+                "m": "Ecuadorean"
+            },
+            "fra": {
+                "f": "\u00c9quatorienne",
+                "m": "\u00c9quatorien"
+            }
+        },
+        "area": 276841,
+        "gini": {
+            "2019": 45.7
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-05:00"
+        ],
+        "borders": [
+            "COL",
+            "PER"
+        ],
+        "nativeNames": {
+            "spa": {
+                "official": "Rep\u00fablica del Ecuador",
+                "common": "Ecuador"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0625\u0643\u0648\u0627\u062f\u0648\u0631",
+            "ces": "Ekv\u00e1dor",
+            "cym": "Ecwador",
+            "deu": "Ecuador",
+            "est": "Ecuador",
+            "fin": "Ecuador",
+            "fra": "\u00c9quateur",
+            "hrv": "Ekvador",
+            "hun": "Ecuador",
+            "ita": "Ecuador",
+            "jpn": "\u30a8\u30af\u30a2\u30c9\u30eb",
+            "kor": "\uc5d0\ucf70\ub3c4\ub974",
+            "nld": "Ecuador",
+            "per": "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631",
+            "pol": "Ekwador",
+            "por": "Equador",
+            "rus": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440",
+            "slk": "Ekv\u00e1dor",
+            "spa": "Ecuador",
+            "swe": "Ecuador",
+            "urd": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631",
+            "zho": "\u5384\u74dc\u591a\u5c14"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ec.png",
+            "medium": "https://flagcdn.com/96x72/ec.png",
+            "large": "https://flagcdn.com/256x192/ec.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

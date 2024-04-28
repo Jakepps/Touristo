@@ -1,0 +1,95 @@
+{
+    "dm": {
+        "name": "Dominica",
+        "official_name": "Commonwealth of Dominica",
+        "topLevelDomain": [
+            ".dm"
+        ],
+        "alpha2Code": "DM",
+        "alpha3Code": "DMA",
+        "cioc": "DMA",
+        "numericCode": "212",
+        "callingCode": "+1767",
+        "capital": "Roseau",
+        "altSpellings": [
+            "DM",
+            "Dominique",
+            "Wai\u2018tu kubuli",
+            "Commonwealth of Dominica"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 71991,
+        "latLng": {
+            "country": [
+                15.41666666,
+                -61.33333333
+            ],
+            "capital": [
+                15.3,
+                -61.4
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Dominican",
+                "m": "Dominican"
+            },
+            "fra": {
+                "f": "Dominiquaise",
+                "m": "Dominiquais"
+            }
+        },
+        "area": 751,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Dominica",
+                "common": "Dominica"
+            }
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627",
+            "ces": "Dominika",
+            "cym": "Dominica",
+            "deu": "Dominica",
+            "est": "Dominica",
+            "fin": "Dominica",
+            "fra": "Dominique",
+            "hrv": "Dominika",
+            "hun": "Dominikai K\u00f6z\u00f6ss\u00e9g",
+            "ita": "Dominica",
+            "jpn": "\u30c9\u30df\u30cb\u30ab\u56fd",
+            "kor": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d",
+            "nld": "Dominica",
+            "per": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+            "pol": "Dominika",
+            "por": "Dominica",
+            "rus": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+            "slk": "Dominika",
+            "spa": "Dominica",
+            "swe": "Dominica",
+            "urd": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+            "zho": "\u591a\u7c73\u5c3c\u52a0"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/dm.png",
+            "medium": "https://flagcdn.com/96x72/dm.png",
+            "large": "https://flagcdn.com/256x192/dm.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

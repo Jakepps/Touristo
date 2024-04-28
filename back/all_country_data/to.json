@@ -1,0 +1,99 @@
+{
+    "to": {
+        "name": "Tonga",
+        "official_name": "Kingdom of Tonga",
+        "topLevelDomain": [
+            ".to"
+        ],
+        "alpha2Code": "TO",
+        "alpha3Code": "TON",
+        "cioc": "TGA",
+        "numericCode": "776",
+        "callingCode": "+676",
+        "capital": "Nuku'alofa",
+        "altSpellings": [
+            "TO"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 105697,
+        "latLng": {
+            "country": [
+                -20,
+                -175
+            ],
+            "capital": [
+                -21.13,
+                -175.2
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tongan",
+                "m": "Tongan"
+            },
+            "fra": {
+                "f": "Tonguienne",
+                "m": "Tonguien"
+            }
+        },
+        "area": 747,
+        "gini": {
+            "2015": 37.6
+        },
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Kingdom of Tonga",
+                "common": "Tonga"
+            },
+            "ton": {
+                "official": "Kingdom of Tonga",
+                "common": "Tonga"
+            }
+        },
+        "currencies": {
+            "TOP": {
+                "name": "Tongan pa\u02bbanga",
+                "symbol": "T$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "ton": "Tongan"
+        },
+        "translations": {
+            "ara": "\u062a\u0648\u0646\u063a\u0627",
+            "ces": "Tonga",
+            "cym": "Tonga",
+            "deu": "Tonga",
+            "est": "Tonga",
+            "fin": "Tonga",
+            "fra": "Tonga",
+            "hrv": "Tonga",
+            "hun": "Tonga",
+            "ita": "Tonga",
+            "jpn": "\u30c8\u30f3\u30ac",
+            "kor": "\ud1b5\uac00",
+            "nld": "Tonga",
+            "per": "\u062a\u0648\u0646\u06af\u0627",
+            "pol": "Tonga",
+            "por": "Tonga",
+            "rus": "\u0422\u043e\u043d\u0433\u0430",
+            "slk": "Tonga",
+            "spa": "Tonga",
+            "swe": "Tonga",
+            "urd": "\u0679\u0648\u0646\u06af\u0627",
+            "zho": "\u6c64\u52a0"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/to.png",
+            "medium": "https://flagcdn.com/96x72/to.png",
+            "large": "https://flagcdn.com/256x192/to.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

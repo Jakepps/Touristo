@@ -1,0 +1,92 @@
+{
+    "mq": {
+        "name": "Martinique",
+        "official_name": "Martinique",
+        "topLevelDomain": [
+            ".mq"
+        ],
+        "alpha2Code": "MQ",
+        "alpha3Code": "MTQ",
+        "cioc": "N/A",
+        "numericCode": "474",
+        "callingCode": "+596",
+        "capital": "Fort-de-France",
+        "altSpellings": [
+            "MQ"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 378243,
+        "latLng": {
+            "country": [
+                14.666667,
+                -61
+            ],
+            "capital": [
+                14.6,
+                -61.08
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Martinican",
+                "m": "Martinican"
+            },
+            "fra": {
+                "f": "Martiniquaise",
+                "m": "Martiniquais"
+            }
+        },
+        "area": 1128,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "fra": {
+                "official": "Martinique",
+                "common": "Martinique"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0643",
+            "ces": "Martinik",
+            "cym": "Martinique",
+            "deu": "Martinique",
+            "est": "Martinique",
+            "fin": "Martinique",
+            "fra": "Martinique",
+            "hrv": "Martinique",
+            "hun": "Martinique",
+            "ita": "Martinica",
+            "jpn": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af",
+            "kor": "\ub9c8\ub974\ud2f0\ub2c8\ud06c",
+            "nld": "Martinique",
+            "per": "\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9",
+            "pol": "Martynika",
+            "por": "Martinica",
+            "rus": "\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a\u0430",
+            "slk": "Martinique",
+            "spa": "Martinica",
+            "swe": "Martinique",
+            "urd": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9",
+            "zho": "\u9a6c\u63d0\u5c3c\u514b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mq.png",
+            "medium": "https://flagcdn.com/96x72/mq.png",
+            "large": "https://flagcdn.com/256x192/mq.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

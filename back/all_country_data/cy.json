@@ -1,0 +1,109 @@
+{
+    "cy": {
+        "name": "Cyprus",
+        "official_name": "Republic of Cyprus",
+        "topLevelDomain": [
+            ".cy"
+        ],
+        "alpha2Code": "CY",
+        "alpha3Code": "CYP",
+        "cioc": "CYP",
+        "numericCode": "196",
+        "callingCode": "+357",
+        "capital": "Nicosia",
+        "altSpellings": [
+            "CY",
+            "K\u00fdpros",
+            "K\u0131br\u0131s",
+            "Republic of Cyprus",
+            "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
+            "K\u0131br\u0131s Cumhuriyeti"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 1207361,
+        "latLng": {
+            "country": [
+                35,
+                33
+            ],
+            "capital": [
+                35.17,
+                33.37
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cypriot",
+                "m": "Cypriot"
+            },
+            "fra": {
+                "f": "Chypriote",
+                "m": "Chypriote"
+            }
+        },
+        "area": 9251,
+        "gini": {
+            "2018": 32.7
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "ell": {
+                "official": "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2 \u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+                "common": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+            },
+            "tur": {
+                "official": "K\u0131br\u0131s Cumhuriyeti",
+                "common": "K\u0131br\u0131s"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "ell": "Greek",
+            "tur": "Turkish"
+        },
+        "translations": {
+            "ara": "\u0642\u0628\u0631\u0635",
+            "ces": "Kypr",
+            "cym": "Cyprus",
+            "deu": "Zypern",
+            "est": "K\u00fcpros",
+            "fin": "Kypros",
+            "fra": "Chypre",
+            "hrv": "Cipar",
+            "hun": "Ciprus",
+            "ita": "Cipro",
+            "jpn": "\u30ad\u30d7\u30ed\u30b9",
+            "kor": "\ud0a4\ud504\ub85c\uc2a4",
+            "nld": "Cyprus",
+            "per": "\u0642\u0650\u0628\u0631\u0650\u0633",
+            "pol": "Cypr",
+            "por": "Chipre",
+            "rus": "\u041a\u0438\u043f\u0440",
+            "slk": "Cyprus",
+            "spa": "Chipre",
+            "swe": "Cypern",
+            "urd": "\u0642\u0628\u0631\u0635",
+            "zho": "\u585e\u6d66\u8def\u65af"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cy.png",
+            "medium": "https://flagcdn.com/96x72/cy.png",
+            "large": "https://flagcdn.com/256x192/cy.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

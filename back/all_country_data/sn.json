@@ -1,0 +1,114 @@
+{
+    "sn": {
+        "name": "Senegal",
+        "official_name": "Republic of Senegal",
+        "topLevelDomain": [
+            ".sn"
+        ],
+        "alpha2Code": "SN",
+        "alpha3Code": "SEN",
+        "cioc": "SEN",
+        "numericCode": "686",
+        "callingCode": "+221",
+        "capital": "Dakar",
+        "altSpellings": [
+            "SN",
+            "Republic of Senegal",
+            "R\u00e9publique du S\u00e9n\u00e9gal"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "population": 16743930,
+        "latLng": {
+            "country": [
+                14,
+                -14
+            ],
+            "capital": [
+                14.73,
+                -17.63
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Senegalese",
+                "m": "Senegalese"
+            },
+            "fra": {
+                "f": "S\u00e9n\u00e9galaise",
+                "m": "S\u00e9n\u00e9galais"
+            }
+        },
+        "area": 196722,
+        "gini": {
+            "2011": 40.3
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "borders": [
+            "GMB",
+            "GIN",
+            "GNB",
+            "MLI",
+            "MRT"
+        ],
+        "nativeNames": {
+            "fra": {
+                "official": "R\u00e9publique du S\u00e9n\u00e9gal",
+                "common": "S\u00e9n\u00e9gal"
+            }
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0633\u0646\u063a\u0627\u0644",
+            "ces": "Senegal",
+            "cym": "Senegal",
+            "deu": "Senegal",
+            "est": "Senegal",
+            "fin": "Senegal",
+            "fra": "S\u00e9n\u00e9gal",
+            "hrv": "Senegal",
+            "hun": "Szeneg\u00e1l",
+            "ita": "Senegal",
+            "jpn": "\u30bb\u30cd\u30ac\u30eb",
+            "kor": "\uc138\ub124\uac08",
+            "nld": "Senegal",
+            "per": "\u0633\u0646\u06af\u0627\u0644",
+            "pol": "Senegal",
+            "por": "Senegal",
+            "rus": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+            "slk": "Senegal",
+            "spa": "Senegal",
+            "swe": "Senegal",
+            "urd": "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644",
+            "zho": "\u585e\u5185\u52a0\u5c14"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sn.png",
+            "medium": "https://flagcdn.com/96x72/sn.png",
+            "large": "https://flagcdn.com/256x192/sn.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

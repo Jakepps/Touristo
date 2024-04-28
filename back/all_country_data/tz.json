@@ -1,0 +1,123 @@
+{
+    "tz": {
+        "name": "Tanzania",
+        "official_name": "United Republic of Tanzania",
+        "topLevelDomain": [
+            ".tz"
+        ],
+        "alpha2Code": "TZ",
+        "alpha3Code": "TZA",
+        "cioc": "TAN",
+        "numericCode": "834",
+        "callingCode": "+255",
+        "capital": "Dodoma",
+        "altSpellings": [
+            "TZ",
+            "Tanzania, United Republic of",
+            "United Republic of Tanzania",
+            "Jamhuri ya Muungano wa Tanzania"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "population": 59734213,
+        "latLng": {
+            "country": [
+                -6,
+                35
+            ],
+            "capital": [
+                -6.16,
+                35.75
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tanzanian",
+                "m": "Tanzanian"
+            },
+            "fra": {
+                "f": "Tanzanienne",
+                "m": "Tanzanien"
+            }
+        },
+        "area": 945087,
+        "gini": {
+            "2017": 40.5
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "BDI",
+            "COD",
+            "KEN",
+            "MWI",
+            "MOZ",
+            "RWA",
+            "UGA",
+            "ZMB"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "United Republic of Tanzania",
+                "common": "Tanzania"
+            },
+            "swa": {
+                "official": "Jamhuri ya Muungano wa Tanzania",
+                "common": "Tanzania"
+            }
+        },
+        "currencies": {
+            "TZS": {
+                "name": "Tanzanian shilling",
+                "symbol": "Sh"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "translations": {
+            "ara": "\u062a\u0646\u0632\u0627\u0646\u064a\u0627",
+            "ces": "Tanzanie",
+            "cym": "Tanzania",
+            "deu": "Tansania",
+            "est": "Tansaania",
+            "fin": "Tansania",
+            "fra": "Tanzanie",
+            "hrv": "Tanzanija",
+            "hun": "T\u00e1dzsikiszt\u00e1n",
+            "ita": "Tanzania",
+            "jpn": "\u30bf\u30f3\u30b6\u30cb\u30a2",
+            "kor": "\ud0c4\uc790\ub2c8\uc544",
+            "nld": "Tanzania",
+            "per": "\u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627",
+            "pol": "Tanzania",
+            "por": "Tanz\u00e2nia",
+            "rus": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+            "slk": "Tanz\u00e1nia",
+            "spa": "Tanzania",
+            "swe": "Tanzania",
+            "urd": "\u062a\u0646\u0632\u0627\u0646\u06cc\u06c1",
+            "zho": "\u5766\u6851\u5c3c\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tz.png",
+            "medium": "https://flagcdn.com/96x72/tz.png",
+            "large": "https://flagcdn.com/256x192/tz.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

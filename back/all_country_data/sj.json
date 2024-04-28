@@ -1,0 +1,89 @@
+{
+    "sj": {
+        "name": "Svalbard and Jan Mayen",
+        "official_name": "Svalbard og Jan Mayen",
+        "topLevelDomain": [
+            ".sj"
+        ],
+        "alpha2Code": "SJ",
+        "alpha3Code": "SJM",
+        "cioc": "N/A",
+        "numericCode": "744",
+        "callingCode": "+4779",
+        "capital": "Longyearbyen",
+        "altSpellings": [
+            "SJ",
+            "Svalbard and Jan Mayen Islands"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 2562,
+        "latLng": {
+            "country": [
+                78,
+                20
+            ],
+            "capital": [
+                78.22,
+                15.63
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Norwegian",
+                "m": "Norwegian"
+            }
+        },
+        "area": -1,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "nor": {
+                "official": "Svalbard og Jan Mayen",
+                "common": "Svalbard og Jan Mayen"
+            }
+        },
+        "currencies": {
+            "NOK": {
+                "name": "krone",
+                "symbol": "kr"
+            }
+        },
+        "languages": {
+            "nor": "Norwegian"
+        },
+        "translations": {
+            "ara": "\u0633\u0641\u0627\u0644\u0628\u0627\u0631\u062f \u0648\u064a\u0627\u0646 \u0645\u0627\u064a\u0646",
+            "ces": "\u0160picberky a Jan Mayen",
+            "cym": "Svalbard and Jan Mayen",
+            "deu": "Spitzbergen und Jan Mayen",
+            "est": "Svalbard",
+            "fin": "Huippuvuoret",
+            "fra": "Svalbard et Jan Mayen",
+            "hrv": "Svalbard i Jan Mayen",
+            "hun": "Svalbard \u00e9s Jan Mayen",
+            "ita": "Svalbard e Jan Mayen",
+            "jpn": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
+            "kor": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4",
+            "nld": "Svalbard en Jan Mayen",
+            "per": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646",
+            "pol": "Svalbard i Jan Mayen",
+            "por": "Ilhas Svalbard e Jan Mayen",
+            "rus": "\u0428\u043f\u0438\u0446\u0431\u0435\u0440\u0433\u0435\u043d \u0438 \u042f\u043d-\u041c\u0430\u0439\u0435\u043d",
+            "slk": "Svalbard a Jan Mayen",
+            "spa": "Islas Svalbard y Jan Mayen",
+            "swe": "Svalbard och Jan Mayen",
+            "urd": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646",
+            "zho": "\u65af\u74e6\u5c14\u5df4\u7279"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sj.png",
+            "medium": "https://flagcdn.com/96x72/sj.png",
+            "large": "https://flagcdn.com/256x192/sj.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

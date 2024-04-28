@@ -1,0 +1,114 @@
+{
+    "lb": {
+        "name": "Lebanon",
+        "official_name": "Lebanese Republic",
+        "topLevelDomain": [
+            ".lb"
+        ],
+        "alpha2Code": "LB",
+        "alpha3Code": "LBN",
+        "cioc": "LBN",
+        "numericCode": "422",
+        "callingCode": "+961",
+        "capital": "Beirut",
+        "altSpellings": [
+            "LB",
+            "Lebanese Republic",
+            "Al-Jumh\u016br\u012byah Al-Libn\u0101n\u012byah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 6825442,
+        "latLng": {
+            "country": [
+                33.83333333,
+                35.83333333
+            ],
+            "capital": [
+                33.87,
+                35.5
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Lebanese",
+                "m": "Lebanese"
+            },
+            "fra": {
+                "f": "Libanaise",
+                "m": "Libanais"
+            }
+        },
+        "area": 10452,
+        "gini": {
+            "2011": 31.8
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "ISR",
+            "SYR"
+        ],
+        "nativeNames": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629",
+                "common": "\u0644\u0628\u0646\u0627\u0646"
+            },
+            "fra": {
+                "official": "R\u00e9publique libanaise",
+                "common": "Liban"
+            }
+        },
+        "currencies": {
+            "LBP": {
+                "name": "Lebanese pound",
+                "symbol": "\u0644.\u0644"
+            }
+        },
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0644\u0628\u0646\u0627\u0646",
+            "ces": "Libanon",
+            "cym": "Lebanon",
+            "deu": "Libanon",
+            "est": "Liibanon",
+            "fin": "Libanon",
+            "fra": "Liban",
+            "hrv": "Libanon",
+            "hun": "Libanon",
+            "ita": "Libano",
+            "jpn": "\u30ec\u30d0\u30ce\u30f3",
+            "kor": "\ub808\ubc14\ub17c",
+            "nld": "Libanon",
+            "per": "\u0644\u0628\u0646\u0627\u0646",
+            "pol": "Liban",
+            "por": "L\u00edbano",
+            "rus": "\u041b\u0438\u0432\u0430\u043d",
+            "slk": "Libanon",
+            "spa": "L\u00edbano",
+            "swe": "Libanon",
+            "urd": "\u0644\u0628\u0646\u0627\u0646",
+            "zho": "\u9ece\u5df4\u5ae9"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/lb.png",
+            "medium": "https://flagcdn.com/96x72/lb.png",
+            "large": "https://flagcdn.com/256x192/lb.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

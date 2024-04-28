@@ -1,0 +1,115 @@
+{
+    "ca": {
+        "name": "Canada",
+        "official_name": "Canada",
+        "topLevelDomain": [
+            ".ca"
+        ],
+        "alpha2Code": "CA",
+        "alpha3Code": "CAN",
+        "cioc": "CAN",
+        "numericCode": "124",
+        "callingCode": "+1",
+        "capital": "Ottawa",
+        "altSpellings": [
+            "CA"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "population": 38005238,
+        "latLng": {
+            "country": [
+                60,
+                -95
+            ],
+            "capital": [
+                45.42,
+                -75.7
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Canadian",
+                "m": "Canadian"
+            },
+            "fra": {
+                "f": "Canadienne",
+                "m": "Canadien"
+            }
+        },
+        "area": 9984670,
+        "gini": {
+            "2017": 33.3
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:30"
+        ],
+        "borders": [
+            "USA"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "fra": {
+                "official": "Canada",
+                "common": "Canada"
+            }
+        },
+        "currencies": {
+            "CAD": {
+                "name": "Canadian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0643\u0646\u062f\u0627",
+            "ces": "Kanada",
+            "cym": "Canada",
+            "deu": "Kanada",
+            "est": "Kanada",
+            "fin": "Kanada",
+            "fra": "Canada",
+            "hrv": "Kanada",
+            "hun": "Kanada",
+            "ita": "Canada",
+            "jpn": "\u30ab\u30ca\u30c0",
+            "kor": "\uce90\ub098\ub2e4",
+            "nld": "Canada",
+            "per": "\u06a9\u0627\u0646\u0627\u062f\u0627",
+            "pol": "Kanada",
+            "por": "Canad\u00e1",
+            "rus": "\u041a\u0430\u043d\u0430\u0434\u0430",
+            "slk": "Kanada",
+            "spa": "Canad\u00e1",
+            "swe": "Kanada",
+            "urd": "\u06a9\u06cc\u0646\u06cc\u0688\u0627",
+            "zho": "\u52a0\u62ff\u5927"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ca.png",
+            "medium": "https://flagcdn.com/96x72/ca.png",
+            "large": "https://flagcdn.com/256x192/ca.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "NAFTA",
+                "name": "North American Free Trade Agreement",
+                "otherNames": [
+                    "Tratado de Libre Comercio de Am\u00e9rica del Norte",
+                    "Accord de Libre-\u00e9change Nord-Am\u00e9ricain"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "kh": {
+        "name": "Cambodia",
+        "official_name": "Kingdom of Cambodia",
+        "topLevelDomain": [
+            ".kh"
+        ],
+        "alpha2Code": "KH",
+        "alpha3Code": "KHM",
+        "cioc": "CAM",
+        "numericCode": "116",
+        "callingCode": "+855",
+        "capital": "Phnom Penh",
+        "altSpellings": [
+            "KH",
+            "Kingdom of Cambodia"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 16718971,
+        "latLng": {
+            "country": [
+                13,
+                105
+            ],
+            "capital": [
+                11.55,
+                104.92
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cambodian",
+                "m": "Cambodian"
+            },
+            "fra": {
+                "f": "Cambodgienne",
+                "m": "Cambodgien"
+            }
+        },
+        "area": 181035,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "borders": [
+            "LAO",
+            "THA",
+            "VNM"
+        ],
+        "nativeNames": {
+            "khm": {
+                "official": "\u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+                "common": "K\u00e2mp\u016dch\u00e9a"
+            }
+        },
+        "currencies": {
+            "KHR": {
+                "name": "Cambodian riel",
+                "symbol": "\u17db"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "khm": "Khmer"
+        },
+        "translations": {
+            "ara": "\u0643\u0645\u0628\u0648\u062f\u064a\u0627",
+            "ces": "Kambod\u017ea",
+            "cym": "Cambodia",
+            "deu": "Kambodscha",
+            "est": "Kambod\u017ea",
+            "fin": "Kambod\u017ea",
+            "fra": "Cambodge",
+            "hrv": "Kambod\u017ea",
+            "hun": "Kambodzsa",
+            "ita": "Cambogia",
+            "jpn": "\u30ab\u30f3\u30dc\u30b8\u30a2",
+            "kor": "\uce84\ubcf4\ub514\uc544",
+            "nld": "Cambodja",
+            "per": "\u06a9\u0627\u0645\u0628\u0648\u062c",
+            "pol": "Kambod\u017ca",
+            "por": "Camboja",
+            "rus": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430",
+            "slk": "Kambo\u01c6a",
+            "spa": "Camboya",
+            "swe": "Kambodja",
+            "urd": "\u06a9\u0645\u0628\u0648\u0688\u06cc\u0627",
+            "zho": "\u67ec\u57d4\u5be8"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/kh.png",
+            "medium": "https://flagcdn.com/96x72/kh.png",
+            "large": "https://flagcdn.com/256x192/kh.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ]
+    }
+}

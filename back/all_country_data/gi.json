@@ -1,0 +1,99 @@
+{
+    "gi": {
+        "name": "Gibraltar",
+        "official_name": "Gibraltar",
+        "topLevelDomain": [
+            ".gi"
+        ],
+        "alpha2Code": "GI",
+        "alpha3Code": "GIB",
+        "cioc": "N/A",
+        "numericCode": "292",
+        "callingCode": "+350",
+        "capital": "Gibraltar",
+        "altSpellings": [
+            "GI"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 33691,
+        "latLng": {
+            "country": [
+                36.13333333,
+                -5.35
+            ],
+            "capital": [
+                36.13,
+                -5.35
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Gibraltar",
+                "m": "Gibraltar"
+            },
+            "fra": {
+                "f": "Gibraltarienne",
+                "m": "Gibraltarien"
+            }
+        },
+        "area": 6,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "ESP"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Gibraltar",
+                "common": "Gibraltar"
+            }
+        },
+        "currencies": {
+            "GIP": {
+                "name": "Gibraltar pound",
+                "symbol": "\u00a3"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642",
+            "ces": "Gibraltar",
+            "cym": "Gibraltar",
+            "deu": "Gibraltar",
+            "est": "Gibraltar",
+            "fin": "Gibraltar",
+            "fra": "Gibraltar",
+            "hrv": "Gibraltar",
+            "hun": "Gibralt\u00e1r",
+            "ita": "Gibilterra",
+            "jpn": "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb",
+            "kor": "\uc9c0\ube0c\ub864\ud130",
+            "nld": "Gibraltar",
+            "per": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642",
+            "pol": "Gibraltar",
+            "por": "Gibraltar",
+            "rus": "\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440",
+            "slk": "Gibralt\u00e1r",
+            "spa": "Gibraltar",
+            "swe": "Gibraltar",
+            "urd": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642",
+            "zho": "\u76f4\u5e03\u7f57\u9640"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gi.png",
+            "medium": "https://flagcdn.com/96x72/gi.png",
+            "large": "https://flagcdn.com/256x192/gi.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

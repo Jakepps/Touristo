@@ -1,0 +1,112 @@
+{
+    "pk": {
+        "name": "Pakistan",
+        "official_name": "Islamic Republic of Pakistan",
+        "topLevelDomain": [
+            ".pk"
+        ],
+        "alpha2Code": "PK",
+        "alpha3Code": "PAK",
+        "cioc": "PAK",
+        "numericCode": "586",
+        "callingCode": "+92",
+        "capital": "Islamabad",
+        "altSpellings": [
+            "PK",
+            "P\u0101kist\u0101n",
+            "Islamic Republic of Pakistan",
+            "Isl\u0101m\u012b Jumh\u016briya'eh P\u0101kist\u0101n"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 220892331,
+        "latLng": {
+            "country": [
+                30,
+                70
+            ],
+            "capital": [
+                33.68,
+                73.05
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Pakistani",
+                "m": "Pakistani"
+            },
+            "fra": {
+                "f": "Pakistanaise",
+                "m": "Pakistanais"
+            }
+        },
+        "area": 881912,
+        "gini": {
+            "2018": 31.6
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "borders": [
+            "AFG",
+            "CHN",
+            "IND",
+            "IRN"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Islamic Republic of Pakistan",
+                "common": "Pakistan"
+            },
+            "urd": {
+                "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c2 \u067e\u0627\u0643\u0633\u062a\u0627\u0646",
+                "common": "\u067e\u0627\u0643\u0633\u062a\u0627\u0646"
+            }
+        },
+        "currencies": {
+            "PKR": {
+                "name": "Pakistani rupee",
+                "symbol": "\u20a8"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "urd": "Urdu"
+        },
+        "translations": {
+            "ara": "\u0628\u0627\u0643\u0633\u062a\u0627\u0646",
+            "ces": "P\u00e1kist\u00e1n",
+            "cym": "Pakistan",
+            "deu": "Pakistan",
+            "est": "Pakistan",
+            "fin": "Pakistan",
+            "fra": "Pakistan",
+            "hrv": "Pakistan",
+            "hun": "Pakiszt\u00e1n",
+            "ita": "Pakistan",
+            "jpn": "\u30d1\u30ad\u30b9\u30bf\u30f3",
+            "kor": "\ud30c\ud0a4\uc2a4\ud0c4",
+            "nld": "Pakistan",
+            "per": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+            "pol": "Pakistan",
+            "por": "Paquist\u00e3o",
+            "rus": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+            "slk": "Pakistan",
+            "spa": "Pakist\u00e1n",
+            "swe": "Pakistan",
+            "urd": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+            "zho": "\u5df4\u57fa\u65af\u5766"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/pk.png",
+            "medium": "https://flagcdn.com/96x72/pk.png",
+            "large": "https://flagcdn.com/256x192/pk.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "SAARC",
+                "name": "South Asian Association for Regional Cooperation"
+            }
+        ]
+    }
+}

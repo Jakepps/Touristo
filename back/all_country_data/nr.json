@@ -1,0 +1,103 @@
+{
+    "nr": {
+        "name": "Nauru",
+        "official_name": "Republic of Nauru",
+        "topLevelDomain": [
+            ".nr"
+        ],
+        "alpha2Code": "NR",
+        "alpha3Code": "NRU",
+        "cioc": "NRU",
+        "numericCode": "520",
+        "callingCode": "+674",
+        "capital": "Yaren",
+        "altSpellings": [
+            "NR",
+            "Naoero",
+            "Pleasant Island",
+            "Republic of Nauru",
+            "Ripublik Naoero"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 10834,
+        "latLng": {
+            "country": [
+                -0.53333333,
+                166.91666666
+            ],
+            "capital": [
+                -0.55,
+                166.92
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Nauruan",
+                "m": "Nauruan"
+            },
+            "fra": {
+                "f": "Nauruane",
+                "m": "Nauruan"
+            }
+        },
+        "area": 21,
+        "gini": {
+            "2012": 34.8
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Nauru",
+                "common": "Nauru"
+            },
+            "nau": {
+                "official": "Republic of Nauru",
+                "common": "Nauru"
+            }
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "nau": "Nauru"
+        },
+        "translations": {
+            "ara": "\u0646\u0627\u0648\u0631\u0648",
+            "ces": "Nauru",
+            "cym": "Nauru",
+            "deu": "Nauru",
+            "est": "Nauru",
+            "fin": "Nauru",
+            "fra": "Nauru",
+            "hrv": "Nauru",
+            "hun": "Nauru",
+            "ita": "Nauru",
+            "jpn": "\u30ca\u30a6\u30eb",
+            "kor": "\ub098\uc6b0\ub8e8",
+            "nld": "Nauru",
+            "per": "\u0646\u0627\u0626\u0648\u0631\u0648",
+            "pol": "Nauru",
+            "por": "Nauru",
+            "rus": "\u041d\u0430\u0443\u0440\u0443",
+            "slk": "Nauru",
+            "spa": "Nauru",
+            "swe": "Nauru",
+            "urd": "\u0646\u0627\u0648\u0631\u0648",
+            "zho": "\u7459\u9c81"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/nr.png",
+            "medium": "https://flagcdn.com/96x72/nr.png",
+            "large": "https://flagcdn.com/256x192/nr.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

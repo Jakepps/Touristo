@@ -1,0 +1,101 @@
+{
+    "au": {
+        "name": "Australia",
+        "official_name": "Commonwealth of Australia",
+        "topLevelDomain": [
+            ".au"
+        ],
+        "alpha2Code": "AU",
+        "alpha3Code": "AUS",
+        "cioc": "AUS",
+        "numericCode": "036",
+        "callingCode": "+61",
+        "capital": "Canberra",
+        "altSpellings": [
+            "AU"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 25687041,
+        "latLng": {
+            "country": [
+                -27,
+                133
+            ],
+            "capital": [
+                -35.27,
+                149.13
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Australian",
+                "m": "Australian"
+            },
+            "fra": {
+                "f": "Australienne",
+                "m": "Australien"
+            }
+        },
+        "area": 7692024,
+        "gini": {
+            "2014": 34.4
+        },
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:30",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:30",
+            "UTC+10:00",
+            "UTC+10:30",
+            "UTC+11:30"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Commonwealth of Australia",
+                "common": "Australia"
+            }
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627",
+            "ces": "Austr\u00e1lie",
+            "cym": "Awstralia",
+            "deu": "Australien",
+            "est": "Austraalia",
+            "fin": "Australia",
+            "fra": "Australie",
+            "hrv": "Australija",
+            "hun": "Ausztr\u00e1lia",
+            "ita": "Australia",
+            "jpn": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
+            "kor": "\ud638\uc8fc",
+            "nld": "Australi\u00eb",
+            "per": "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627",
+            "pol": "Australia",
+            "por": "Austr\u00e1lia",
+            "rus": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+            "slk": "Austr\u00e1lia",
+            "spa": "Australia",
+            "swe": "Australien",
+            "urd": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627",
+            "zho": "\u6fb3\u5927\u5229\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/au.png",
+            "medium": "https://flagcdn.com/96x72/au.png",
+            "large": "https://flagcdn.com/256x192/au.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

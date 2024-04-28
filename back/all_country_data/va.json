@@ -1,0 +1,102 @@
+{
+    "va": {
+        "name": "Vatican City",
+        "official_name": "Vatican City State",
+        "topLevelDomain": [
+            ".va"
+        ],
+        "alpha2Code": "VA",
+        "alpha3Code": "VAT",
+        "cioc": "N/A",
+        "numericCode": "336",
+        "callingCode": "+3906698",
+        "capital": "Vatican City",
+        "altSpellings": [
+            "VA",
+            "Holy See (Vatican City State)",
+            "Vatican City State",
+            "Stato della Citt\u00e0 del Vaticano"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 451,
+        "latLng": {
+            "country": [
+                41.9,
+                12.45
+            ],
+            "capital": [
+                41.9,
+                12.45
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Vatican",
+                "m": "Vatican"
+            },
+            "fra": {
+                "f": "Vaticane",
+                "m": "Vatican"
+            }
+        },
+        "area": 0.44,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "ITA"
+        ],
+        "nativeNames": {
+            "ita": {
+                "official": "Stato della Citt\u00e0 del Vaticano",
+                "common": "Vaticano"
+            },
+            "lat": {
+                "official": "Status Civitatis Vatican\u00e6",
+                "common": "Vatican\u00e6"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "ita": "Italian",
+            "lat": "Latin"
+        },
+        "translations": {
+            "ara": "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0641\u0627\u062a\u064a\u0643\u0627\u0646",
+            "ces": "Vatik\u00e1n",
+            "cym": "Vatican City",
+            "deu": "Vatikanstadt",
+            "est": "Vatikan",
+            "fin": "Vatikaani",
+            "fra": "Cit\u00e9 du Vatican",
+            "hrv": "Vatikan",
+            "hun": "Vatik\u00e1n",
+            "ita": "Citt\u00e0 del Vaticano",
+            "jpn": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd",
+            "kor": "\ubc14\ud2f0\uce78",
+            "nld": "Vaticaanstad",
+            "per": "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646",
+            "pol": "Watykan",
+            "por": "Cidade do Vaticano",
+            "rus": "\u0412\u0430\u0442\u0438\u043a\u0430\u043d",
+            "slk": "Vatik\u00e1n",
+            "spa": "Ciudad del Vaticano",
+            "swe": "Vatikanstaten",
+            "urd": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc",
+            "zho": "\u68b5\u8482\u5188"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/va.png",
+            "medium": "https://flagcdn.com/96x72/va.png",
+            "large": "https://flagcdn.com/256x192/va.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

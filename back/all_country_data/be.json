@@ -1,0 +1,122 @@
+{
+    "be": {
+        "name": "Belgium",
+        "official_name": "Kingdom of Belgium",
+        "topLevelDomain": [
+            ".be"
+        ],
+        "alpha2Code": "BE",
+        "alpha3Code": "BEL",
+        "cioc": "BEL",
+        "numericCode": "056",
+        "callingCode": "+32",
+        "capital": "Brussels",
+        "altSpellings": [
+            "BE",
+            "Belgi\u00eb",
+            "Belgie",
+            "Belgien",
+            "Belgique",
+            "Kingdom of Belgium",
+            "Koninkrijk Belgi\u00eb",
+            "Royaume de Belgique",
+            "K\u00f6nigreich Belgien"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 11555997,
+        "latLng": {
+            "country": [
+                50.83333333,
+                4
+            ],
+            "capital": [
+                50.83,
+                4.33
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Belgian",
+                "m": "Belgian"
+            },
+            "fra": {
+                "f": "Belge",
+                "m": "Belge"
+            }
+        },
+        "area": 30528,
+        "gini": {
+            "2018": 27.2
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "FRA",
+            "DEU",
+            "LUX",
+            "NLD"
+        ],
+        "nativeNames": {
+            "deu": {
+                "official": "K\u00f6nigreich Belgien",
+                "common": "Belgien"
+            },
+            "fra": {
+                "official": "Royaume de Belgique",
+                "common": "Belgique"
+            },
+            "nld": {
+                "official": "Koninkrijk Belgi\u00eb",
+                "common": "Belgi\u00eb"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "translations": {
+            "ara": "\u0628\u0644\u062c\u064a\u0643\u0627",
+            "ces": "Belgie",
+            "cym": "Gwlad Belg",
+            "deu": "Belgien",
+            "est": "Belgia",
+            "fin": "Belgia",
+            "fra": "Belgique",
+            "hrv": "Belgija",
+            "hun": "Belgium",
+            "ita": "Belgio",
+            "jpn": "\u30d9\u30eb\u30ae\u30fc",
+            "kor": "\ubca8\uae30\uc5d0",
+            "nld": "Belgi\u00eb",
+            "per": "\u0628\u0644\u0698\u06cc\u06a9",
+            "pol": "Belgia",
+            "por": "B\u00e9lgica",
+            "rus": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+            "slk": "Belgicko",
+            "spa": "B\u00e9lgica",
+            "swe": "Belgien",
+            "urd": "\u0628\u0644\u062c\u0626\u06cc\u0645",
+            "zho": "\u6bd4\u5229\u65f6"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/be.png",
+            "medium": "https://flagcdn.com/96x72/be.png",
+            "large": "https://flagcdn.com/256x192/be.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

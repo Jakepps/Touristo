@@ -1,0 +1,105 @@
+{
+    "tt": {
+        "name": "Trinidad and Tobago",
+        "official_name": "Republic of Trinidad and Tobago",
+        "topLevelDomain": [
+            ".tt"
+        ],
+        "alpha2Code": "TT",
+        "alpha3Code": "TTO",
+        "cioc": "TTO",
+        "numericCode": "780",
+        "callingCode": "+1868",
+        "capital": "Port of Spain",
+        "altSpellings": [
+            "TT",
+            "Republic of Trinidad and Tobago"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 1399491,
+        "latLng": {
+            "country": [
+                11,
+                -61
+            ],
+            "capital": [
+                10.65,
+                -61.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Trinidadian",
+                "m": "Trinidadian"
+            },
+            "fra": {
+                "f": "Trinidadienne",
+                "m": "Trinidadien"
+            }
+        },
+        "area": 5130,
+        "gini": {
+            "1992": 40.3
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Trinidad and Tobago",
+                "common": "Trinidad and Tobago"
+            }
+        },
+        "currencies": {
+            "TTD": {
+                "name": "Trinidad and Tobago dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f \u0648\u062a\u0648\u0628\u0627\u063a\u0648",
+            "ces": "Trinidad a Tobago",
+            "cym": "Trinidad and Tobago",
+            "deu": "Trinidad und Tobago",
+            "est": "Trinidad ja Tobago",
+            "fin": "Trinidad ja Tobago",
+            "fra": "Trinit\u00e9-et-Tobago",
+            "hrv": "Trinidad i Tobago",
+            "hun": "Trinidad \u00e9s Tobago",
+            "ita": "Trinidad e Tobago",
+            "jpn": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
+            "kor": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0",
+            "nld": "Trinidad en Tobago",
+            "per": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648",
+            "pol": "Trynidad i Tobago",
+            "por": "Trinidade e Tobago",
+            "rus": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+            "slk": "Trinidad a Tobago",
+            "spa": "Trinidad y Tobago",
+            "swe": "Trinidad och Tobago",
+            "urd": "\u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648",
+            "zho": "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tt.png",
+            "medium": "https://flagcdn.com/96x72/tt.png",
+            "large": "https://flagcdn.com/256x192/tt.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ]
+    }
+}

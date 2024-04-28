@@ -1,0 +1,107 @@
+{
+    "bt": {
+        "name": "Bhutan",
+        "official_name": "Kingdom of Bhutan",
+        "topLevelDomain": [
+            ".bt"
+        ],
+        "alpha2Code": "BT",
+        "alpha3Code": "BTN",
+        "cioc": "BHU",
+        "numericCode": "064",
+        "callingCode": "+975",
+        "capital": "Thimphu",
+        "altSpellings": [
+            "BT",
+            "Kingdom of Bhutan"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 771612,
+        "latLng": {
+            "country": [
+                27.5,
+                90.5
+            ],
+            "capital": [
+                27.47,
+                89.63
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bhutanese",
+                "m": "Bhutanese"
+            },
+            "fra": {
+                "f": "Bhoutanaise",
+                "m": "Bhoutanais"
+            }
+        },
+        "area": 38394,
+        "gini": {
+            "2017": 37.4
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "borders": [
+            "CHN",
+            "IND"
+        ],
+        "nativeNames": {
+            "dzo": {
+                "official": "\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0b",
+                "common": "\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0b"
+            }
+        },
+        "currencies": {
+            "BTN": {
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu."
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\u20b9"
+            }
+        },
+        "languages": {
+            "dzo": "Dzongkha"
+        },
+        "translations": {
+            "ara": "\u0628\u0648\u062a\u0627\u0646",
+            "ces": "Bh\u00fat\u00e1n",
+            "cym": "Bhwtan",
+            "deu": "Bhutan",
+            "est": "Bhutan",
+            "fin": "Bhutan",
+            "fra": "Bhoutan",
+            "hrv": "Butan",
+            "hun": "Bhut\u00e1n",
+            "ita": "Bhutan",
+            "jpn": "\u30d6\u30fc\u30bf\u30f3",
+            "kor": "\ubd80\ud0c4",
+            "nld": "Bhutan",
+            "per": "\u0628\u0648\u062a\u0627\u0646",
+            "pol": "Bhutan",
+            "por": "But\u00e3o",
+            "rus": "\u0411\u0443\u0442\u0430\u043d",
+            "slk": "Bhut\u00e1n",
+            "spa": "But\u00e1n",
+            "swe": "Bhutan",
+            "urd": "\u0628\u06be\u0648\u0679\u0627\u0646",
+            "zho": "\u4e0d\u4e39"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bt.png",
+            "medium": "https://flagcdn.com/96x72/bt.png",
+            "large": "https://flagcdn.com/256x192/bt.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "SAARC",
+                "name": "South Asian Association for Regional Cooperation"
+            }
+        ]
+    }
+}

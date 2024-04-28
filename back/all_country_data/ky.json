@@ -1,0 +1,92 @@
+{
+    "ky": {
+        "name": "Cayman Islands",
+        "official_name": "Cayman Islands",
+        "topLevelDomain": [
+            ".ky"
+        ],
+        "alpha2Code": "KY",
+        "alpha3Code": "CYM",
+        "cioc": "CAY",
+        "numericCode": "136",
+        "callingCode": "+1345",
+        "capital": "George Town",
+        "altSpellings": [
+            "KY"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 65720,
+        "latLng": {
+            "country": [
+                19.5,
+                -80.5
+            ],
+            "capital": [
+                19.3,
+                -81.38
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Caymanian",
+                "m": "Caymanian"
+            },
+            "fra": {
+                "f": "Ca\u00efmanienne",
+                "m": "Ca\u00efmanien"
+            }
+        },
+        "area": 264,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Cayman Islands",
+                "common": "Cayman Islands"
+            }
+        },
+        "currencies": {
+            "KYD": {
+                "name": "Cayman Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0643\u0627\u064a\u0645\u0627\u0646",
+            "ces": "Kajmansk\u00e9 ostrovy",
+            "cym": "Ynysoedd Cayman",
+            "deu": "Kaimaninseln",
+            "est": "Kaimanisaared",
+            "fin": "Caymansaaret",
+            "fra": "\u00celes Ca\u00efmans",
+            "hrv": "Kajmanski otoci",
+            "hun": "Kajm\u00e1n-szigetek",
+            "ita": "Isole Cayman",
+            "jpn": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6",
+            "kor": "\ucf00\uc774\ub9e8 \uc81c\ub3c4",
+            "nld": "Caymaneilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646",
+            "pol": "Kajmany",
+            "por": "Ilhas Caim\u00e3o",
+            "rus": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "slk": "Kajmanie ostrovy",
+            "spa": "Islas Caim\u00e1n",
+            "swe": "Cayman\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646",
+            "zho": "\u5f00\u66fc\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ky.png",
+            "medium": "https://flagcdn.com/96x72/ky.png",
+            "large": "https://flagcdn.com/256x192/ky.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

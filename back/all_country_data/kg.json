@@ -1,0 +1,116 @@
+{
+    "kg": {
+        "name": "Kyrgyzstan",
+        "official_name": "Kyrgyz Republic",
+        "topLevelDomain": [
+            ".kg"
+        ],
+        "alpha2Code": "KG",
+        "alpha3Code": "KGZ",
+        "cioc": "KGZ",
+        "numericCode": "417",
+        "callingCode": "+996",
+        "capital": "Bishkek",
+        "altSpellings": [
+            "KG",
+            "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+            "Kyrgyz Republic",
+            "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "Kyrgyz Respublikasy"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 6591600,
+        "latLng": {
+            "country": [
+                41,
+                75
+            ],
+            "capital": [
+                42.87,
+                74.6
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Kirghiz",
+                "m": "Kirghiz"
+            },
+            "fra": {
+                "f": "Kirghize",
+                "m": "Kirghize"
+            }
+        },
+        "area": 199951,
+        "gini": {
+            "2019": 29.7
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "borders": [
+            "CHN",
+            "KAZ",
+            "TJK",
+            "UZB"
+        ],
+        "nativeNames": {
+            "kir": {
+                "official": "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+                "common": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+            },
+            "rus": {
+                "official": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f"
+            }
+        },
+        "currencies": {
+            "KGS": {
+                "name": "Kyrgyzstani som",
+                "symbol": "\u0441"
+            }
+        },
+        "languages": {
+            "kir": "Kyrgyz",
+            "rus": "Russian"
+        },
+        "translations": {
+            "ara": "\u0642\u064a\u0631\u063a\u064a\u0632\u0633\u062a\u0627\u0646",
+            "ces": "Kyrgyzst\u00e1n",
+            "cym": "Kyrgyzstan",
+            "deu": "Kirgisistan",
+            "est": "K\u00f5rg\u00f5zstan",
+            "fin": "Kirgisia",
+            "fra": "Kirghizistan",
+            "hrv": "Kirgistan",
+            "hun": "Kirgiziszt\u00e1n",
+            "ita": "Kirghizistan",
+            "jpn": "\u30ad\u30eb\u30ae\u30b9",
+            "kor": "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4",
+            "nld": "Kirgizi\u00eb",
+            "per": "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+            "pol": "Kirgistan",
+            "por": "Quirguist\u00e3o",
+            "rus": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+            "slk": "Kirgizsko",
+            "spa": "Kirguizist\u00e1n",
+            "swe": "Kirgizistan",
+            "urd": "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646",
+            "zho": "\u5409\u5c14\u5409\u65af\u65af\u5766"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/kg.png",
+            "medium": "https://flagcdn.com/96x72/kg.png",
+            "large": "https://flagcdn.com/256x192/kg.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EEU",
+                "name": "Eurasian Economic Union",
+                "otherAcronyms": [
+                    "EAEU"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "tc": {
+        "name": "Turks and Caicos Islands",
+        "official_name": "Turks and Caicos Islands",
+        "topLevelDomain": [
+            ".tc"
+        ],
+        "alpha2Code": "TC",
+        "alpha3Code": "TCA",
+        "cioc": "N/A",
+        "numericCode": "796",
+        "callingCode": "+1649",
+        "capital": "Cockburn Town",
+        "altSpellings": [
+            "TC"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 38718,
+        "latLng": {
+            "country": [
+                21.75,
+                -71.58333333
+            ],
+            "capital": [
+                21.46,
+                -71.14
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Turks and Caicos Islander",
+                "m": "Turks and Caicos Islander"
+            }
+        },
+        "area": 948,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Turks and Caicos Islands",
+                "common": "Turks and Caicos Islands"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u062a\u0648\u0631\u0643\u0633 \u0648\u0643\u0627\u064a\u0643\u0648\u0633",
+            "ces": "Turks a Caicos",
+            "cym": "Turks and Caicos Islands",
+            "deu": "Turks-und Caicosinseln",
+            "est": "Turks ja Caicos",
+            "fin": "Turks-ja Caicossaaret",
+            "fra": "\u00celes Turques-et-Ca\u00efques",
+            "hrv": "Otoci Turks i Caicos",
+            "hun": "Turks- \u00e9s Caicos-szigetek",
+            "ita": "Isole Turks e Caicos",
+            "jpn": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
+            "kor": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4",
+            "nld": "Turks-en Caicoseilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633",
+            "pol": "Turks i Caicos",
+            "por": "Ilhas Turks e Caicos",
+            "rus": "\u0422\u0435\u0440\u043a\u0441 \u0438 \u041a\u0430\u0439\u043a\u043e\u0441",
+            "slk": "Turks a Caicos",
+            "spa": "Islas Turks y Caicos",
+            "swe": "Turks- och Caicos\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1",
+            "zho": "\u7279\u514b\u65af\u548c\u51ef\u79d1\u65af\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tc.png",
+            "medium": "https://flagcdn.com/96x72/tc.png",
+            "large": "https://flagcdn.com/256x192/tc.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "hk": {
+        "name": "Hong Kong",
+        "official_name": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "topLevelDomain": [
+            ".hk"
+        ],
+        "alpha2Code": "HK",
+        "alpha3Code": "HKG",
+        "cioc": "HKG",
+        "numericCode": "344",
+        "callingCode": "+852",
+        "capital": "City of Victoria",
+        "altSpellings": [
+            "HK"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 7500700,
+        "latLng": {
+            "country": [
+                22.267,
+                114.188
+            ],
+            "capital": [
+                48.41,
+                -123.33
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Hong Konger",
+                "m": "Hong Konger"
+            },
+            "fra": {
+                "f": "Hongkongaise",
+                "m": "Hongkongais"
+            }
+        },
+        "area": 1104,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "CHN"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                "common": "Hong Kong"
+            },
+            "zho": {
+                "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a",
+                "common": "\u9999\u6e2f"
+            }
+        },
+        "currencies": {
+            "HKD": {
+                "name": "Hong Kong dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": "\u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a",
+            "ces": "Hongkong",
+            "cym": "Hong Kong",
+            "deu": "Hongkong",
+            "est": "Hongkong",
+            "fin": "Hongkong",
+            "fra": "Hong Kong",
+            "hrv": "Hong Kong",
+            "hun": "Hongkong",
+            "ita": "Hong Kong",
+            "jpn": "\u9999\u6e2f",
+            "kor": "\ud64d\ucf69",
+            "nld": "Hongkong",
+            "per": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af",
+            "pol": "Hongkong",
+            "por": "Hong Kong",
+            "rus": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433",
+            "slk": "Hongkong",
+            "spa": "Hong Kong",
+            "swe": "Hongkong",
+            "urd": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/hk.png",
+            "medium": "https://flagcdn.com/96x72/hk.png",
+            "large": "https://flagcdn.com/256x192/hk.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

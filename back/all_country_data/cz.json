@@ -1,0 +1,111 @@
+{
+    "cz": {
+        "name": "Czechia",
+        "official_name": "Czech Republic",
+        "topLevelDomain": [
+            ".cz"
+        ],
+        "alpha2Code": "CZ",
+        "alpha3Code": "CZE",
+        "cioc": "CZE",
+        "numericCode": "203",
+        "callingCode": "+420",
+        "capital": "Prague",
+        "altSpellings": [
+            "CZ",
+            "\u010cesk\u00e1 republika",
+            "\u010cesko"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "population": 10698896,
+        "latLng": {
+            "country": [
+                49.75,
+                15.5
+            ],
+            "capital": [
+                50.08,
+                14.47
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Czech",
+                "m": "Czech"
+            },
+            "fra": {
+                "f": "Tch\u00e8que",
+                "m": "Tch\u00e8que"
+            }
+        },
+        "area": 78865,
+        "gini": {
+            "2018": 25
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "DEU",
+            "POL",
+            "SVK"
+        ],
+        "nativeNames": {
+            "ces": {
+                "official": "\u010cesk\u00e1 republika",
+                "common": "\u010cesko"
+            },
+            "slk": {
+                "official": "\u010cesk\u00e1 republika",
+                "common": "\u010cesko"
+            }
+        },
+        "currencies": {
+            "CZK": {
+                "name": "Czech koruna",
+                "symbol": "K\u010d"
+            }
+        },
+        "languages": {
+            "ces": "Czech",
+            "slk": "Slovak"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u062a\u0634\u064a\u0643",
+            "ces": "\u010cesko",
+            "cym": "Y Weriniaeth Tsiec",
+            "deu": "Tschechien",
+            "est": "T\u0161ehhi",
+            "fin": "T\u0161ekki",
+            "fra": "Tch\u00e9quie",
+            "hrv": "\u010ce\u0161ka",
+            "hun": "Csehorsz\u00e1g",
+            "ita": "Cechia",
+            "jpn": "\u30c1\u30a7\u30b3",
+            "kor": "\uccb4\ucf54",
+            "nld": "Tsjechi\u00eb",
+            "per": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9",
+            "pol": "Czechy",
+            "por": "Ch\u00e9quia",
+            "rus": "\u0427\u0435\u0445\u0438\u044f",
+            "slk": "\u010cesko",
+            "spa": "Chequia",
+            "swe": "Tjeckien",
+            "urd": "\u0686\u064a\u06a9",
+            "zho": "\u6377\u514b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cz.png",
+            "medium": "https://flagcdn.com/96x72/cz.png",
+            "large": "https://flagcdn.com/256x192/cz.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "ng": {
+        "name": "Nigeria",
+        "official_name": "Federal Republic of Nigeria",
+        "topLevelDomain": [
+            ".ng"
+        ],
+        "alpha2Code": "NG",
+        "alpha3Code": "NGA",
+        "cioc": "NGR",
+        "numericCode": "566",
+        "callingCode": "+234",
+        "capital": "Abuja",
+        "altSpellings": [
+            "NG",
+            "Nijeriya",
+            "Na\u00edj\u00edr\u00ed\u00e0",
+            "Federal Republic of Nigeria"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "population": 206139587,
+        "latLng": {
+            "country": [
+                10,
+                8
+            ],
+            "capital": [
+                9.08,
+                7.53
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Nigerian",
+                "m": "Nigerian"
+            },
+            "fra": {
+                "f": "Nig\u00e9riane",
+                "m": "Nig\u00e9rian"
+            }
+        },
+        "area": 923768,
+        "gini": {
+            "2018": 35.1
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "BEN",
+            "CMR",
+            "TCD",
+            "NER"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Federal Republic of Nigeria",
+                "common": "Nigeria"
+            }
+        },
+        "currencies": {
+            "NGN": {
+                "name": "Nigerian naira",
+                "symbol": "\u20a6"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u0646\u064a\u062c\u064a\u0631\u064a\u0627",
+            "ces": "Nig\u00e9rie",
+            "cym": "Nigeria",
+            "deu": "Nigeria",
+            "est": "Nigeeria",
+            "fin": "Nigeria",
+            "fra": "Nig\u00e9ria",
+            "hrv": "Nigerija",
+            "hun": "Nig\u00e9ria",
+            "ita": "Nigeria",
+            "jpn": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
+            "kor": "\ub098\uc774\uc9c0\ub9ac\uc544",
+            "nld": "Nigeria",
+            "per": "\u0646\u06cc\u062c\u0631\u06cc\u0647",
+            "pol": "Nigeria",
+            "por": "Nig\u00e9ria",
+            "rus": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+            "slk": "Nig\u00e9ria",
+            "spa": "Nigeria",
+            "swe": "Nigeria",
+            "urd": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627",
+            "zho": "\u5c3c\u65e5\u5229\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ng.png",
+            "medium": "https://flagcdn.com/96x72/ng.png",
+            "large": "https://flagcdn.com/256x192/ng.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

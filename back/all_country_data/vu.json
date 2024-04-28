@@ -1,0 +1,107 @@
+{
+    "vu": {
+        "name": "Vanuatu",
+        "official_name": "Republic of Vanuatu",
+        "topLevelDomain": [
+            ".vu"
+        ],
+        "alpha2Code": "VU",
+        "alpha3Code": "VUT",
+        "cioc": "VAN",
+        "numericCode": "548",
+        "callingCode": "+678",
+        "capital": "Port Vila",
+        "altSpellings": [
+            "VU",
+            "Republic of Vanuatu",
+            "Ripablik blong Vanuatu",
+            "R\u00e9publique de Vanuatu"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 307150,
+        "latLng": {
+            "country": [
+                -16,
+                167
+            ],
+            "capital": [
+                -17.73,
+                168.32
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ni-Vanuatu",
+                "m": "Ni-Vanuatu"
+            },
+            "fra": {
+                "f": "Vanuatuane",
+                "m": "Vanuatuan"
+            }
+        },
+        "area": 12189,
+        "gini": {
+            "2010": 37.6
+        },
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "bis": {
+                "official": "Ripablik blong Vanuatu",
+                "common": "Vanuatu"
+            },
+            "eng": {
+                "official": "Republic of Vanuatu",
+                "common": "Vanuatu"
+            },
+            "fra": {
+                "official": "R\u00e9publique de Vanuatu",
+                "common": "Vanuatu"
+            }
+        },
+        "currencies": {
+            "VUV": {
+                "name": "Vanuatu vatu",
+                "symbol": "Vt"
+            }
+        },
+        "languages": {
+            "bis": "Bislama",
+            "eng": "English",
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0641\u0627\u0646\u0648\u0627\u062a\u0648",
+            "ces": "Vanuatu",
+            "cym": "Vanuatu",
+            "deu": "Vanuatu",
+            "est": "Vanuatu",
+            "fin": "Vanuatu",
+            "fra": "Vanuatu",
+            "hrv": "Vanuatu",
+            "hun": "Vanuatu",
+            "ita": "Vanuatu",
+            "jpn": "\u30d0\u30cc\u30a2\u30c4",
+            "kor": "\ubc14\ub204\uc544\ud22c",
+            "nld": "Vanuatu",
+            "per": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648",
+            "pol": "Vanuatu",
+            "por": "Vanuatu",
+            "rus": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443",
+            "slk": "Vanuatu",
+            "spa": "Vanuatu",
+            "swe": "Vanuatu",
+            "urd": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648",
+            "zho": "\u74e6\u52aa\u963f\u56fe"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/vu.png",
+            "medium": "https://flagcdn.com/96x72/vu.png",
+            "large": "https://flagcdn.com/256x192/vu.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

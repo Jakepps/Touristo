@@ -1,0 +1,108 @@
+{
+    "ro": {
+        "name": "Romania",
+        "official_name": "Romania",
+        "topLevelDomain": [
+            ".ro"
+        ],
+        "alpha2Code": "RO",
+        "alpha3Code": "ROU",
+        "cioc": "ROU",
+        "numericCode": "642",
+        "callingCode": "+40",
+        "capital": "Bucharest",
+        "altSpellings": [
+            "RO",
+            "Rumania",
+            "Roumania",
+            "Rom\u00e2nia"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "population": 19286123,
+        "latLng": {
+            "country": [
+                46,
+                25
+            ],
+            "capital": [
+                44.43,
+                26.1
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Romanian",
+                "m": "Romanian"
+            },
+            "fra": {
+                "f": "Roumaine",
+                "m": "Roumain"
+            }
+        },
+        "area": 238391,
+        "gini": {
+            "2018": 35.8
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BGR",
+            "HUN",
+            "MDA",
+            "SRB",
+            "UKR"
+        ],
+        "nativeNames": {
+            "ron": {
+                "official": "Rom\u00e2nia",
+                "common": "Rom\u00e2nia"
+            }
+        },
+        "currencies": {
+            "RON": {
+                "name": "Romanian leu",
+                "symbol": "lei"
+            }
+        },
+        "languages": {
+            "ron": "Romanian"
+        },
+        "translations": {
+            "ara": "\u0631\u0648\u0645\u0627\u0646\u064a\u0627",
+            "ces": "Rumunsko",
+            "cym": "Romania",
+            "deu": "Rum\u00e4nien",
+            "est": "Rumeenia",
+            "fin": "Romania",
+            "fra": "Roumanie",
+            "hrv": "Rumunjska",
+            "hun": "Rom\u00e1nia",
+            "ita": "Romania",
+            "jpn": "\u30eb\u30fc\u30de\u30cb\u30a2",
+            "kor": "\ub8e8\ub9c8\ub2c8\uc544",
+            "nld": "Roemeni\u00eb",
+            "per": "\u0631\u0648\u0645\u0627\u0646\u06cc",
+            "pol": "Rumunia",
+            "por": "Rom\u00e9nia",
+            "rus": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+            "slk": "Rumunsko",
+            "spa": "Rumania",
+            "swe": "Rum\u00e4nien",
+            "urd": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1",
+            "zho": "\u7f57\u9a6c\u5c3c\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ro.png",
+            "medium": "https://flagcdn.com/96x72/ro.png",
+            "large": "https://flagcdn.com/256x192/ro.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

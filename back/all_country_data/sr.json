@@ -1,0 +1,127 @@
+{
+    "sr": {
+        "name": "Suriname",
+        "official_name": "Republic of Suriname",
+        "topLevelDomain": [
+            ".sr"
+        ],
+        "alpha2Code": "SR",
+        "alpha3Code": "SUR",
+        "cioc": "SUR",
+        "numericCode": "740",
+        "callingCode": "+597",
+        "capital": "Paramaribo",
+        "altSpellings": [
+            "SR",
+            "Sarnam",
+            "Sranangron",
+            "Republic of Suriname",
+            "Republiek Suriname"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 586634,
+        "latLng": {
+            "country": [
+                4,
+                -56
+            ],
+            "capital": [
+                5.83,
+                -55.17
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Surinamer",
+                "m": "Surinamer"
+            },
+            "fra": {
+                "f": "Surinamaise",
+                "m": "Surinamais"
+            }
+        },
+        "area": 163820,
+        "gini": {
+            "1999": 57.9
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "borders": [
+            "BRA",
+            "GUF",
+            "GUY"
+        ],
+        "nativeNames": {
+            "nld": {
+                "official": "Republiek Suriname",
+                "common": "Suriname"
+            }
+        },
+        "currencies": {
+            "SRD": {
+                "name": "Surinamese dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "nld": "Dutch"
+        },
+        "translations": {
+            "ara": "\u0633\u0648\u0631\u064a\u0646\u0627\u0645",
+            "ces": "Surinam",
+            "cym": "Suriname",
+            "deu": "Suriname",
+            "est": "Suriname",
+            "fin": "Suriname",
+            "fra": "Surinam",
+            "hrv": "Surinam",
+            "hun": "Suriname",
+            "ita": "Suriname",
+            "jpn": "\u30b9\u30ea\u30ca\u30e0",
+            "kor": "\uc218\ub9ac\ub0a8",
+            "nld": "Suriname",
+            "per": "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645",
+            "pol": "Surinam",
+            "por": "Suriname",
+            "rus": "\u0421\u0443\u0440\u0438\u043d\u0430\u043c",
+            "slk": "Surinam",
+            "spa": "Surinam",
+            "swe": "Surinam",
+            "urd": "\u0633\u0631\u06cc\u0646\u0627\u0645",
+            "zho": "\u82cf\u91cc\u5357"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sr.png",
+            "medium": "https://flagcdn.com/96x72/sr.png",
+            "large": "https://flagcdn.com/256x192/sr.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            },
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

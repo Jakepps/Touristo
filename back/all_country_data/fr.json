@@ -1,0 +1,123 @@
+{
+    "fr": {
+        "name": "France",
+        "official_name": "French Republic",
+        "topLevelDomain": [
+            ".fr"
+        ],
+        "alpha2Code": "FR",
+        "alpha3Code": "FRA",
+        "cioc": "FRA",
+        "numericCode": "250",
+        "callingCode": "+33",
+        "capital": "Paris",
+        "altSpellings": [
+            "FR",
+            "French Republic",
+            "R\u00e9publique fran\u00e7aise"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 67391582,
+        "latLng": {
+            "country": [
+                46,
+                2
+            ],
+            "capital": [
+                48.87,
+                2.33
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "French",
+                "m": "French"
+            },
+            "fra": {
+                "f": "Fran\u00e7aise",
+                "m": "Fran\u00e7ais"
+            }
+        },
+        "area": 551695,
+        "gini": {
+            "2018": 32.4
+        },
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+05:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "borders": [
+            "AND",
+            "BEL",
+            "DEU",
+            "ITA",
+            "LUX",
+            "MCO",
+            "ESP",
+            "CHE"
+        ],
+        "nativeNames": {
+            "fra": {
+                "official": "R\u00e9publique fran\u00e7aise",
+                "common": "France"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0641\u0631\u0646\u0633\u0627",
+            "ces": "Francie",
+            "cym": "France",
+            "deu": "Frankreich",
+            "est": "Prantsusmaa",
+            "fin": "Ranska",
+            "fra": "France",
+            "hrv": "Francuska",
+            "hun": "Franciaorsz\u00e1g",
+            "ita": "Francia",
+            "jpn": "\u30d5\u30e9\u30f3\u30b9",
+            "kor": "\ud504\ub791\uc2a4",
+            "nld": "Frankrijk",
+            "per": "\u0641\u0631\u0627\u0646\u0633\u0647",
+            "pol": "Francja",
+            "por": "Fran\u00e7a",
+            "rus": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+            "slk": "Franc\u00fazsko",
+            "spa": "Francia",
+            "swe": "Frankrike",
+            "urd": "\u0641\u0631\u0627\u0646\u0633",
+            "zho": "\u6cd5\u56fd"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/fr.png",
+            "medium": "https://flagcdn.com/96x72/fr.png",
+            "large": "https://flagcdn.com/256x192/fr.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "nc": {
+        "name": "New Caledonia",
+        "official_name": "New Caledonia",
+        "topLevelDomain": [
+            ".nc"
+        ],
+        "alpha2Code": "NC",
+        "alpha3Code": "NCL",
+        "cioc": "N/A",
+        "numericCode": "540",
+        "callingCode": "+687",
+        "capital": "Noum\u00e9a",
+        "altSpellings": [
+            "NC"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 271960,
+        "latLng": {
+            "country": [
+                -21.5,
+                165.5
+            ],
+            "capital": [
+                -22.27,
+                166.45
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "New Caledonian",
+                "m": "New Caledonian"
+            },
+            "fra": {
+                "f": "N\u00e9o-Cal\u00e9donienne",
+                "m": "N\u00e9o-Cal\u00e9donien"
+            }
+        },
+        "area": 18575,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "fra": {
+                "official": "Nouvelle-Cal\u00e9donie",
+                "common": "Nouvelle-Cal\u00e9donie"
+            }
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0643\u0627\u0644\u064a\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+            "ces": "Nov\u00e1 Kaledonie",
+            "cym": "New Caledonia",
+            "deu": "Neukaledonien",
+            "est": "Uus-Kaledoonia",
+            "fin": "Uusi-Kaledonia",
+            "fra": "Nouvelle-Cal\u00e9donie",
+            "hrv": "Nova Kaledonija",
+            "hun": "\u00daj-Kaled\u00f3nia",
+            "ita": "Nuova Caledonia",
+            "jpn": "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2",
+            "kor": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8",
+            "nld": "Nieuw-Caledoni\u00eb",
+            "per": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f",
+            "pol": "Nowa Kaledonia",
+            "por": "Nova Caled\u00f3nia",
+            "rus": "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f",
+            "slk": "Nov\u00e1 Kaled\u00f3nia",
+            "spa": "Nueva Caledonia",
+            "swe": "Nya Kaledonien",
+            "urd": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627",
+            "zho": "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/nc.png",
+            "medium": "https://flagcdn.com/96x72/nc.png",
+            "large": "https://flagcdn.com/256x192/nc.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

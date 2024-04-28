@@ -1,0 +1,129 @@
+{
+    "km": {
+        "name": "Comoros",
+        "official_name": "Union of the Comoros",
+        "topLevelDomain": [
+            ".km"
+        ],
+        "alpha2Code": "KM",
+        "alpha3Code": "COM",
+        "cioc": "COM",
+        "numericCode": "174",
+        "callingCode": "+269",
+        "capital": "Moroni",
+        "altSpellings": [
+            "KM",
+            "Union of the Comoros",
+            "Union des Comores",
+            "Udzima wa Komori",
+            "al-Itti\u1e25\u0101d al-Qumur\u012b"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "population": 869595,
+        "latLng": {
+            "country": [
+                -12.16666666,
+                44.25
+            ],
+            "capital": [
+                -11.7,
+                43.23
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Comoran",
+                "m": "Comoran"
+            },
+            "fra": {
+                "f": "Comorienne",
+                "m": "Comorien"
+            }
+        },
+        "area": 1862,
+        "gini": {
+            "2014": 45.3
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "ara": {
+                "official": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0631\u064a",
+                "common": "\u0627\u0644\u0642\u0645\u0631\u200e"
+            },
+            "fra": {
+                "official": "Union des Comores",
+                "common": "Comores"
+            },
+            "zdj": {
+                "official": "Udzima wa Komori",
+                "common": "Komori"
+            }
+        },
+        "currencies": {
+            "KMF": {
+                "name": "Comorian franc",
+                "symbol": "Fr"
+            }
+        },
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French",
+            "zdj": "Comorian"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+            "ces": "Komory",
+            "cym": "Y Comoros",
+            "deu": "Komoren",
+            "est": "Komoorid",
+            "fin": "Komorit",
+            "fra": "Comores",
+            "hrv": "Komori",
+            "hun": "Comore-szigetek",
+            "ita": "Comore",
+            "jpn": "\u30b3\u30e2\u30ed",
+            "kor": "\ucf54\ubaa8\ub85c",
+            "nld": "Comoren",
+            "per": "\u0627\u062a\u062d\u0627\u062f \u0642\u064f\u0645\u064f\u0631",
+            "pol": "Komory",
+            "por": "Comores",
+            "rus": "\u041a\u043e\u043c\u043e\u0440\u044b",
+            "slk": "Komory",
+            "spa": "Comoras",
+            "swe": "Komorerna",
+            "urd": "\u0627\u0644\u0642\u0645\u0631\u06cc",
+            "zho": "\u79d1\u6469\u7f57"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/km.png",
+            "medium": "https://flagcdn.com/96x72/km.png",
+            "large": "https://flagcdn.com/256x192/km.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            },
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "ht": {
+        "name": "Haiti",
+        "official_name": "Republic of Haiti",
+        "topLevelDomain": [
+            ".ht"
+        ],
+        "alpha2Code": "HT",
+        "alpha3Code": "HTI",
+        "cioc": "HAI",
+        "numericCode": "332",
+        "callingCode": "+509",
+        "capital": "Port-au-Prince",
+        "altSpellings": [
+            "HT",
+            "Republic of Haiti",
+            "R\u00e9publique d'Ha\u00efti",
+            "Repiblik Ayiti"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 11402533,
+        "latLng": {
+            "country": [
+                19,
+                -72.41666666
+            ],
+            "capital": [
+                18.53,
+                -72.33
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Haitian",
+                "m": "Haitian"
+            },
+            "fra": {
+                "f": "Ha\u00eftienne",
+                "m": "Ha\u00eftien"
+            }
+        },
+        "area": 27750,
+        "gini": {
+            "2012": 41.1
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": [
+            "DOM"
+        ],
+        "nativeNames": {
+            "fra": {
+                "official": "R\u00e9publique d'Ha\u00efti",
+                "common": "Ha\u00efti"
+            },
+            "hat": {
+                "official": "Repiblik Ayiti",
+                "common": "Ayiti"
+            }
+        },
+        "currencies": {
+            "HTG": {
+                "name": "Haitian gourde",
+                "symbol": "G"
+            }
+        },
+        "languages": {
+            "fra": "French",
+            "hat": "Haitian Creole"
+        },
+        "translations": {
+            "ara": "\u0647\u0627\u064a\u062a\u064a",
+            "ces": "Haiti",
+            "cym": "Haiti",
+            "deu": "Haiti",
+            "est": "Haiti",
+            "fin": "Haiti",
+            "fra": "Ha\u00efti",
+            "hrv": "Haiti",
+            "hun": "Haiti",
+            "ita": "Haiti",
+            "jpn": "\u30cf\u30a4\u30c1",
+            "kor": "\uc544\uc774\ud2f0",
+            "nld": "Ha\u00efti",
+            "per": "\u0647\u0627\u0626\u06cc\u062a\u06cc",
+            "pol": "Haiti",
+            "por": "Haiti",
+            "rus": "\u0413\u0430\u0438\u0442\u0438",
+            "slk": "Haiti",
+            "spa": "Hait\u00ed",
+            "swe": "Haiti",
+            "urd": "\u06c1\u06cc\u0679\u06cc",
+            "zho": "\u6d77\u5730"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ht.png",
+            "medium": "https://flagcdn.com/96x72/ht.png",
+            "large": "https://flagcdn.com/256x192/ht.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ]
+    }
+}

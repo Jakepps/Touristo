@@ -1,0 +1,124 @@
+{
+    "gy": {
+        "name": "Guyana",
+        "official_name": "Co-operative Republic of Guyana",
+        "topLevelDomain": [
+            ".gy"
+        ],
+        "alpha2Code": "GY",
+        "alpha3Code": "GUY",
+        "cioc": "GUY",
+        "numericCode": "328",
+        "callingCode": "+592",
+        "capital": "Georgetown",
+        "altSpellings": [
+            "GY",
+            "Co-operative Republic of Guyana"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 786559,
+        "latLng": {
+            "country": [
+                5,
+                -59
+            ],
+            "capital": [
+                6.8,
+                -58.15
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guyanese",
+                "m": "Guyanese"
+            },
+            "fra": {
+                "f": "Guyanienne",
+                "m": "Guyanien"
+            }
+        },
+        "area": 214969,
+        "gini": {
+            "1998": 45.1
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [
+            "BRA",
+            "SUR",
+            "VEN"
+        ],
+        "nativeNames": {
+            "eng": {
+                "official": "Co-operative Republic of Guyana",
+                "common": "Guyana"
+            }
+        },
+        "currencies": {
+            "GYD": {
+                "name": "Guyanese dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u063a\u064a\u0627\u0646\u0627",
+            "ces": "Guyana",
+            "cym": "Guyana",
+            "deu": "Guyana",
+            "est": "Guyana",
+            "fin": "Guayana",
+            "fra": "Guyana",
+            "hrv": "Gvajana",
+            "hun": "Guyana",
+            "ita": "Guyana",
+            "jpn": "\u30ac\u30a4\u30a2\u30ca",
+            "kor": "\uac00\uc774\uc544\ub098",
+            "nld": "Guyana",
+            "per": "\u06af\u0648\u06cc\u0627\u0646",
+            "pol": "Gujana",
+            "por": "Guiana",
+            "rus": "\u0413\u0430\u0439\u0430\u043d\u0430",
+            "slk": "Guyana",
+            "spa": "Guyana",
+            "swe": "Guyana",
+            "urd": "\u06af\u06cc\u0627\u0646\u0627",
+            "zho": "\u572d\u4e9a\u90a3"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gy.png",
+            "medium": "https://flagcdn.com/96x72/gy.png",
+            "large": "https://flagcdn.com/256x192/gy.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            },
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

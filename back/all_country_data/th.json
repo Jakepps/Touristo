@@ -1,0 +1,109 @@
+{
+    "th": {
+        "name": "Thailand",
+        "official_name": "Kingdom of Thailand",
+        "topLevelDomain": [
+            ".th"
+        ],
+        "alpha2Code": "TH",
+        "alpha3Code": "THA",
+        "cioc": "THA",
+        "numericCode": "764",
+        "callingCode": "+66",
+        "capital": "Bangkok",
+        "altSpellings": [
+            "TH",
+            "Prathet",
+            "Thai",
+            "Kingdom of Thailand",
+            "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
+            "Ratcha Anachak Thai"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 69799978,
+        "latLng": {
+            "country": [
+                15,
+                100
+            ],
+            "capital": [
+                13.75,
+                100.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Thai",
+                "m": "Thai"
+            },
+            "fra": {
+                "f": "Tha\u00eflandaise",
+                "m": "Tha\u00eflandais"
+            }
+        },
+        "area": 513120,
+        "gini": {
+            "2019": 34.9
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "borders": [
+            "MMR",
+            "KHM",
+            "LAO",
+            "MYS"
+        ],
+        "nativeNames": {
+            "tha": {
+                "official": "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
+                "common": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22"
+            }
+        },
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "\u0e3f"
+            }
+        },
+        "languages": {
+            "tha": "Thai"
+        },
+        "translations": {
+            "ara": "\u062a\u0627\u064a\u0644\u0646\u062f",
+            "ces": "Thajsko",
+            "cym": "Thailand",
+            "deu": "Thailand",
+            "est": "Tai",
+            "fin": "Thaimaa",
+            "fra": "Tha\u00eflande",
+            "hrv": "Tajland",
+            "hun": "Thaif\u00f6ld",
+            "ita": "Tailandia",
+            "jpn": "\u30bf\u30a4",
+            "kor": "\ud0dc\uad6d",
+            "nld": "Thailand",
+            "per": "\u062a\u0627\u06cc\u0644\u0646\u062f",
+            "pol": "Tajlandia",
+            "por": "Tail\u00e2ndia",
+            "rus": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434",
+            "slk": "Thajsko",
+            "spa": "Tailandia",
+            "swe": "Thailand",
+            "urd": "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688",
+            "zho": "\u6cf0\u56fd"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/th.png",
+            "medium": "https://flagcdn.com/96x72/th.png",
+            "large": "https://flagcdn.com/256x192/th.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ]
+    }
+}

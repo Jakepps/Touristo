@@ -1,0 +1,124 @@
+{
+    "cl": {
+        "name": "Chile",
+        "official_name": "Republic of Chile",
+        "topLevelDomain": [
+            ".cl"
+        ],
+        "alpha2Code": "CL",
+        "alpha3Code": "CHL",
+        "cioc": "CHI",
+        "numericCode": "152",
+        "callingCode": "+56",
+        "capital": "Santiago",
+        "altSpellings": [
+            "CL",
+            "Republic of Chile",
+            "Rep\u00fablica de Chile"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 19116209,
+        "latLng": {
+            "country": [
+                -30,
+                -71
+            ],
+            "capital": [
+                -33.45,
+                -70.67
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Chilean",
+                "m": "Chilean"
+            },
+            "fra": {
+                "f": "Chilienne",
+                "m": "Chilien"
+            }
+        },
+        "area": 756102,
+        "gini": {
+            "2017": 44.4
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "nativeNames": {
+            "spa": {
+                "official": "Rep\u00fablica de Chile",
+                "common": "Chile"
+            }
+        },
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u062a\u0634\u064a\u0644\u064a",
+            "ces": "Chile",
+            "cym": "Chile",
+            "deu": "Chile",
+            "est": "T\u0161iili",
+            "fin": "Chile",
+            "fra": "Chili",
+            "hrv": "\u010cile",
+            "hun": "Chile",
+            "ita": "Cile",
+            "jpn": "\u30c1\u30ea",
+            "kor": "\uce60\ub808",
+            "nld": "Chili",
+            "per": "\u0634\u06cc\u0644\u06cc",
+            "pol": "Chile",
+            "por": "Chile",
+            "rus": "\u0427\u0438\u043b\u0438",
+            "slk": "\u010cile",
+            "spa": "Chile",
+            "swe": "Chile",
+            "urd": "\u0686\u0644\u06cc",
+            "zho": "\u667a\u5229"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cl.png",
+            "medium": "https://flagcdn.com/96x72/cl.png",
+            "large": "https://flagcdn.com/256x192/cl.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "PA",
+                "name": "Pacific Alliance",
+                "otherNames": [
+                    "Alianza del Pac\u00edfico"
+                ]
+            },
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

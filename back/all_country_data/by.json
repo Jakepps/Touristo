@@ -1,0 +1,117 @@
+{
+    "by": {
+        "name": "Belarus",
+        "official_name": "Republic of Belarus",
+        "topLevelDomain": [
+            ".by"
+        ],
+        "alpha2Code": "BY",
+        "alpha3Code": "BLR",
+        "cioc": "BLR",
+        "numericCode": "112",
+        "callingCode": "+375",
+        "capital": "Minsk",
+        "altSpellings": [
+            "BY",
+            "Bielaru\u015b",
+            "Republic of Belarus",
+            "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f",
+            "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 9398861,
+        "latLng": {
+            "country": [
+                53,
+                28
+            ],
+            "capital": [
+                53.9,
+                27.57
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Belarusian",
+                "m": "Belarusian"
+            },
+            "fra": {
+                "f": "Bi\u00e9lorusse",
+                "m": "Bi\u00e9lorusse"
+            }
+        },
+        "area": 207600,
+        "gini": {
+            "2019": 25.3
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "LVA",
+            "LTU",
+            "POL",
+            "RUS",
+            "UKR"
+        ],
+        "nativeNames": {
+            "bel": {
+                "official": "\u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+                "common": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c"
+            },
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+                "common": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
+            }
+        },
+        "currencies": {
+            "BYN": {
+                "name": "Belarusian ruble",
+                "symbol": "Br"
+            }
+        },
+        "languages": {
+            "bel": "Belarusian",
+            "rus": "Russian"
+        },
+        "translations": {
+            "ara": "\u0628\u064a\u0644\u0627\u0631\u0648\u0633\u064a\u0627",
+            "ces": "B\u011blorusko",
+            "cym": "Belarws",
+            "deu": "Wei\u00dfrussland",
+            "est": "Valgevene",
+            "fin": "Valko-Ven\u00e4j\u00e4",
+            "fra": "Bi\u00e9lorussie",
+            "hrv": "Bjelorusija",
+            "hun": "Feh\u00e9roroszorsz\u00e1g",
+            "ita": "Bielorussia",
+            "jpn": "\u30d9\u30e9\u30eb\u30fc\u30b7",
+            "kor": "\ubca8\ub77c\ub8e8\uc2a4",
+            "nld": "Wit-Rusland",
+            "per": "\u0628\u0644\u0627\u0631\u0648\u0633",
+            "pol": "Bia\u0142oru\u015b",
+            "por": "Bielor\u00fassia",
+            "rus": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+            "slk": "Bielorusko",
+            "spa": "Bielorrusia",
+            "swe": "Belarus",
+            "urd": "\u0628\u06cc\u0644\u0627\u0631\u0648\u0633",
+            "zho": "\u767d\u4fc4\u7f57\u65af"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/by.png",
+            "medium": "https://flagcdn.com/96x72/by.png",
+            "large": "https://flagcdn.com/256x192/by.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EEU",
+                "name": "Eurasian Economic Union",
+                "otherAcronyms": [
+                    "EAEU"
+                ]
+            }
+        ]
+    }
+}

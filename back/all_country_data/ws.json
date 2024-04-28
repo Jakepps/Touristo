@@ -1,0 +1,101 @@
+{
+    "ws": {
+        "name": "Samoa",
+        "official_name": "Independent State of Samoa",
+        "topLevelDomain": [
+            ".ws"
+        ],
+        "alpha2Code": "WS",
+        "alpha3Code": "WSM",
+        "cioc": "SAM",
+        "numericCode": "882",
+        "callingCode": "+685",
+        "capital": "Apia",
+        "altSpellings": [
+            "WS",
+            "Independent State of Samoa",
+            "Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 198410,
+        "latLng": {
+            "country": [
+                -13.58333333,
+                -172.33333333
+            ],
+            "capital": [
+                -13.82,
+                -171.77
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Samoan",
+                "m": "Samoan"
+            },
+            "fra": {
+                "f": "Samoane",
+                "m": "Samoan"
+            }
+        },
+        "area": 2842,
+        "gini": {
+            "2013": 38.7
+        },
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Independent State of Samoa",
+                "common": "Samoa"
+            },
+            "smo": {
+                "official": "Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa",
+                "common": "S\u0101moa"
+            }
+        },
+        "currencies": {
+            "WST": {
+                "name": "Samoan t\u0101l\u0101",
+                "symbol": "T"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "translations": {
+            "ara": "\u0633\u0627\u0645\u0648\u0627",
+            "ces": "Samoa",
+            "cym": "Samoa",
+            "deu": "Samoa",
+            "est": "Samoa",
+            "fin": "Samoa",
+            "fra": "Samoa",
+            "hrv": "Samoa",
+            "hun": "Szamoa",
+            "ita": "Samoa",
+            "jpn": "\u30b5\u30e2\u30a2",
+            "kor": "\uc0ac\ubaa8\uc544",
+            "nld": "Samoa",
+            "per": "\u0633\u0627\u0645\u0648\u0622",
+            "pol": "Samoa",
+            "por": "Samoa",
+            "rus": "\u0421\u0430\u043c\u043e\u0430",
+            "slk": "Samoa",
+            "spa": "Samoa",
+            "swe": "Samoa",
+            "urd": "\u0633\u0627\u0645\u0648\u0648\u0627",
+            "zho": "\u8428\u6469\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ws.png",
+            "medium": "https://flagcdn.com/96x72/ws.png",
+            "large": "https://flagcdn.com/256x192/ws.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

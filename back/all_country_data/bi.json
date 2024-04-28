@@ -1,0 +1,118 @@
+{
+    "bi": {
+        "name": "Burundi",
+        "official_name": "Republic of Burundi",
+        "topLevelDomain": [
+            ".bi"
+        ],
+        "alpha2Code": "BI",
+        "alpha3Code": "BDI",
+        "cioc": "BDI",
+        "numericCode": "108",
+        "callingCode": "+257",
+        "capital": "Gitega",
+        "altSpellings": [
+            "BI",
+            "Republic of Burundi",
+            "Republika y'Uburundi",
+            "R\u00e9publique du Burundi"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "population": 11890781,
+        "latLng": {
+            "country": [
+                -3.5,
+                30
+            ],
+            "capital": [
+                -3.43,
+                29.93
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Burundian",
+                "m": "Burundian"
+            },
+            "fra": {
+                "f": "Burundaise",
+                "m": "Burundais"
+            }
+        },
+        "area": 27834,
+        "gini": {
+            "2013": 38.6
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "COD",
+            "RWA",
+            "TZA"
+        ],
+        "nativeNames": {
+            "fra": {
+                "official": "R\u00e9publique du Burundi",
+                "common": "Burundi"
+            },
+            "run": {
+                "official": "Republika y'Uburundi ",
+                "common": "Uburundi"
+            }
+        },
+        "currencies": {
+            "BIF": {
+                "name": "Burundian franc",
+                "symbol": "Fr"
+            }
+        },
+        "languages": {
+            "fra": "French",
+            "run": "Kirundi"
+        },
+        "translations": {
+            "ara": "\u0628\u0648\u0631\u0648\u0646\u062f\u064a",
+            "ces": "Burundi",
+            "cym": "Bwrwndi",
+            "deu": "Burundi",
+            "est": "Burundi",
+            "fin": "Burundi",
+            "fra": "Burundi",
+            "hrv": "Burundi",
+            "hun": "Burundi",
+            "ita": "Burundi",
+            "jpn": "\u30d6\u30eb\u30f3\u30b8",
+            "kor": "\ubd80\ub8ec\ub514",
+            "nld": "Burundi",
+            "per": "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc",
+            "pol": "Burundi",
+            "por": "Burundi",
+            "rus": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438",
+            "slk": "Burundi",
+            "spa": "Burundi",
+            "swe": "Burundi",
+            "urd": "\u0628\u0631\u0648\u0646\u0688\u06cc",
+            "zho": "\u5e03\u9686\u8fea"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bi.png",
+            "medium": "https://flagcdn.com/96x72/bi.png",
+            "large": "https://flagcdn.com/256x192/bi.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

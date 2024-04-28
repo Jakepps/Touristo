@@ -1,0 +1,110 @@
+{
+    "cr": {
+        "name": "Costa Rica",
+        "official_name": "Republic of Costa Rica",
+        "topLevelDomain": [
+            ".cr"
+        ],
+        "alpha2Code": "CR",
+        "alpha3Code": "CRI",
+        "cioc": "CRC",
+        "numericCode": "188",
+        "callingCode": "+506",
+        "capital": "San Jos\u00e9",
+        "altSpellings": [
+            "CR",
+            "Republic of Costa Rica",
+            "Rep\u00fablica de Costa Rica"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "population": 5094114,
+        "latLng": {
+            "country": [
+                10,
+                -84
+            ],
+            "capital": [
+                9.93,
+                -84.09
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Costa Rican",
+                "m": "Costa Rican"
+            },
+            "fra": {
+                "f": "Costaricaine",
+                "m": "Costaricain"
+            }
+        },
+        "area": 51100,
+        "gini": {
+            "2019": 48.2
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "nativeNames": {
+            "spa": {
+                "official": "Rep\u00fablica de Costa Rica",
+                "common": "Costa Rica"
+            }
+        },
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican col\u00f3n",
+                "symbol": "\u20a1"
+            }
+        },
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0643\u0648\u0633\u062a\u0627\u0631\u064a\u0643\u0627",
+            "ces": "Kostarika",
+            "cym": "Costa Rica",
+            "deu": "Costa Rica",
+            "est": "Costa Rica",
+            "fin": "Costa Rica",
+            "fra": "Costa Rica",
+            "hrv": "Kostarika",
+            "hun": "Costa Rica",
+            "ita": "Costa Rica",
+            "jpn": "\u30b3\u30b9\u30bf\u30ea\u30ab",
+            "kor": "\ucf54\uc2a4\ud0c0\ub9ac\uce74",
+            "nld": "Costa Rica",
+            "per": "\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627",
+            "pol": "Kostaryka",
+            "por": "Costa Rica",
+            "rus": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430",
+            "slk": "Kostarika",
+            "spa": "Costa Rica",
+            "swe": "Costa Rica",
+            "urd": "\u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627",
+            "zho": "\u54e5\u65af\u8fbe\u9ece\u52a0"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cr.png",
+            "medium": "https://flagcdn.com/96x72/cr.png",
+            "large": "https://flagcdn.com/256x192/cr.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CAIS",
+                "name": "Central American Integration System",
+                "otherAcronyms": [
+                    "SICA"
+                ],
+                "otherNames": [
+                    "Sistema de la Integraci\u00f3n Centroamericana,"
+                ]
+            }
+        ]
+    }
+}

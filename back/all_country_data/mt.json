@@ -1,0 +1,106 @@
+{
+    "mt": {
+        "name": "Malta",
+        "official_name": "Republic of Malta",
+        "topLevelDomain": [
+            ".mt"
+        ],
+        "alpha2Code": "MT",
+        "alpha3Code": "MLT",
+        "cioc": "MLT",
+        "numericCode": "470",
+        "callingCode": "+356",
+        "capital": "Valletta",
+        "altSpellings": [
+            "MT",
+            "Republic of Malta",
+            "Repubblika ta' Malta"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 525285,
+        "latLng": {
+            "country": [
+                35.83333333,
+                14.58333333
+            ],
+            "capital": [
+                35.88,
+                14.5
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Maltese",
+                "m": "Maltese"
+            },
+            "fra": {
+                "f": "Maltaise",
+                "m": "Maltais"
+            }
+        },
+        "area": 316,
+        "gini": {
+            "2018": 28.7
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Malta",
+                "common": "Malta"
+            },
+            "mlt": {
+                "official": "Repubblika ta ' Malta",
+                "common": "Malta"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "mlt": "Maltese"
+        },
+        "translations": {
+            "ara": "\u0645\u0627\u0644\u0637\u0627",
+            "ces": "Malta",
+            "cym": "Malta",
+            "deu": "Malta",
+            "est": "Malta",
+            "fin": "Malta",
+            "fra": "Malte",
+            "hrv": "Malta",
+            "hun": "M\u00e1lta",
+            "ita": "Malta",
+            "jpn": "\u30de\u30eb\u30bf",
+            "kor": "\ubab0\ud0c0",
+            "nld": "Malta",
+            "per": "\u0645\u0627\u0644\u062a",
+            "pol": "Malta",
+            "por": "Malta",
+            "rus": "\u041c\u0430\u043b\u044c\u0442\u0430",
+            "slk": "Malta",
+            "spa": "Malta",
+            "swe": "Malta",
+            "urd": "\u0645\u0627\u0644\u0679\u0627",
+            "zho": "\u9a6c\u8033\u4ed6"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mt.png",
+            "medium": "https://flagcdn.com/96x72/mt.png",
+            "large": "https://flagcdn.com/256x192/mt.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

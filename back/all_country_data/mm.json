@@ -1,0 +1,108 @@
+{
+    "mm": {
+        "name": "Myanmar",
+        "official_name": "Republic of the Union of Myanmar",
+        "topLevelDomain": [
+            ".mm"
+        ],
+        "alpha2Code": "MM",
+        "alpha3Code": "MMR",
+        "cioc": "MYA",
+        "numericCode": "104",
+        "callingCode": "+95",
+        "capital": "Naypyidaw",
+        "altSpellings": [
+            "MM",
+            "Burma",
+            "Republic of the Union of Myanmar",
+            "Pyidaunzu Thanm\u0103da My\u0103ma Nainngandaw"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 54409794,
+        "latLng": {
+            "country": [
+                22,
+                98
+            ],
+            "capital": [
+                19.76,
+                96.07
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Burmese",
+                "m": "Burmese"
+            },
+            "fra": {
+                "f": "Birmane",
+                "m": "Birman"
+            }
+        },
+        "area": 676578,
+        "gini": {
+            "2017": 30.7
+        },
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "borders": [
+            "BGD",
+            "CHN",
+            "IND",
+            "LAO",
+            "THA"
+        ],
+        "nativeNames": {
+            "mya": {
+                "official": "\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u101e\u1019\u1039\u1019\u1010 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a",
+                "common": "\u1019\u103c\u1014\u103a\u1019\u102c"
+            }
+        },
+        "currencies": {
+            "MMK": {
+                "name": "Burmese kyat",
+                "symbol": "Ks"
+            }
+        },
+        "languages": {
+            "mya": "Burmese"
+        },
+        "translations": {
+            "ara": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631",
+            "ces": "Myanmar",
+            "cym": "Myanmar",
+            "deu": "Myanmar",
+            "est": "Myanmar",
+            "fin": "Myanmar",
+            "fra": "Birmanie",
+            "hrv": "Mijanmar",
+            "hun": "Mianmar",
+            "ita": "Birmania",
+            "jpn": "\u30df\u30e3\u30f3\u30de\u30fc",
+            "kor": "\ubbf8\uc580\ub9c8",
+            "nld": "Myanmar",
+            "per": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
+            "pol": "Mjanma",
+            "por": "Myanmar",
+            "rus": "\u041c\u044c\u044f\u043d\u043c\u0430",
+            "slk": "Mjanmarsko",
+            "spa": "Myanmar",
+            "swe": "Myanmar",
+            "urd": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
+            "zho": "\u7f05\u7538"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mm.png",
+            "medium": "https://flagcdn.com/96x72/mm.png",
+            "large": "https://flagcdn.com/256x192/mm.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ]
+    }
+}

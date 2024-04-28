@@ -1,0 +1,107 @@
+{
+    "tl": {
+        "name": "Timor-Leste",
+        "official_name": "Democratic Republic of Timor-Leste",
+        "topLevelDomain": [
+            ".tl"
+        ],
+        "alpha2Code": "TL",
+        "alpha3Code": "TLS",
+        "cioc": "TLS",
+        "numericCode": "626",
+        "callingCode": "+670",
+        "capital": "Dili",
+        "altSpellings": [
+            "TL",
+            "East Timor",
+            "Democratic Republic of Timor-Leste",
+            "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
+            "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste",
+            "Tim\u00f3r Lorosa'e",
+            "Timor Lorosae"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 1318442,
+        "latLng": {
+            "country": [
+                -8.83333333,
+                125.91666666
+            ],
+            "capital": [
+                -8.58,
+                125.6
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "East Timorese",
+                "m": "East Timorese"
+            },
+            "fra": {
+                "f": "Est-timoraise",
+                "m": "Est-timorais"
+            }
+        },
+        "area": 14874,
+        "gini": {
+            "2014": 28.7
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "borders": [
+            "IDN"
+        ],
+        "nativeNames": {
+            "por": {
+                "official": "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
+                "common": "Timor-Leste"
+            },
+            "tet": {
+                "official": "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste",
+                "common": "Tim\u00f3r-Leste"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "por": "Portuguese",
+            "tet": "Tetum"
+        },
+        "translations": {
+            "ara": "\u062a\u064a\u0645\u0648\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+            "ces": "V\u00fdchodn\u00ed Timor",
+            "cym": "Timor-Leste",
+            "deu": "Osttimor",
+            "est": "Ida-Timor",
+            "fin": "It\u00e4-Timor",
+            "fra": "Timor oriental",
+            "hrv": "Isto\u010dni Timor",
+            "hun": "Kelet-Timor",
+            "ita": "Timor Est",
+            "jpn": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb",
+            "kor": "\ub3d9\ud2f0\ubaa8\ub974",
+            "nld": "Oost-Timor",
+            "per": "\u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc",
+            "pol": "Timor Wschodni",
+            "por": "Timor-Leste",
+            "rus": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440",
+            "slk": "V\u00fdchodn\u00fd Timor",
+            "spa": "Timor Oriental",
+            "swe": "\u00d6sttimor",
+            "urd": "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631",
+            "zho": "\u4e1c\u5e1d\u6c76"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tl.png",
+            "medium": "https://flagcdn.com/96x72/tl.png",
+            "large": "https://flagcdn.com/256x192/tl.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

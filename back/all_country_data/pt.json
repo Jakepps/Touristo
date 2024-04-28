@@ -1,0 +1,105 @@
+{
+    "pt": {
+        "name": "Portugal",
+        "official_name": "Portuguese Republic",
+        "topLevelDomain": [
+            ".pt"
+        ],
+        "alpha2Code": "PT",
+        "alpha3Code": "PRT",
+        "cioc": "POR",
+        "numericCode": "620",
+        "callingCode": "+351",
+        "capital": "Lisbon",
+        "altSpellings": [
+            "PT",
+            "Portuguesa",
+            "Portuguese Republic",
+            "Rep\u00fablica Portuguesa"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 10305564,
+        "latLng": {
+            "country": [
+                39.5,
+                -8
+            ],
+            "capital": [
+                38.72,
+                -9.13
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Portuguese",
+                "m": "Portuguese"
+            },
+            "fra": {
+                "f": "Portugaise",
+                "m": "Portugais"
+            }
+        },
+        "area": 92090,
+        "gini": {
+            "2018": 33.5
+        },
+        "timezones": [
+            "UTC-01:00",
+            "UTC"
+        ],
+        "borders": [
+            "ESP"
+        ],
+        "nativeNames": {
+            "por": {
+                "official": "Rep\u00fablica portugu\u00eas",
+                "common": "Portugal"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "por": "Portuguese"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644",
+            "ces": "Portugalsko",
+            "cym": "Portugal",
+            "deu": "Portugal",
+            "est": "Portugal",
+            "fin": "Portugali",
+            "fra": "Portugal",
+            "hrv": "Portugal",
+            "hun": "Portug\u00e1lia",
+            "ita": "Portogallo",
+            "jpn": "\u30dd\u30eb\u30c8\u30ac\u30eb",
+            "kor": "\ud3ec\ub974\ud22c\uac08",
+            "nld": "Portugal",
+            "per": "\u067e\u0631\u062a\u063a\u0627\u0644",
+            "pol": "Portugalia",
+            "por": "Portugal",
+            "rus": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f",
+            "slk": "Portugalsko",
+            "spa": "Portugal",
+            "swe": "Portugal",
+            "urd": "\u067e\u0631\u062a\u06af\u0627\u0644",
+            "zho": "\u8461\u8404\u7259"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/pt.png",
+            "medium": "https://flagcdn.com/96x72/pt.png",
+            "large": "https://flagcdn.com/256x192/pt.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

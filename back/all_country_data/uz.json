@@ -1,0 +1,108 @@
+{
+    "uz": {
+        "name": "Uzbekistan",
+        "official_name": "Republic of Uzbekistan",
+        "topLevelDomain": [
+            ".uz"
+        ],
+        "alpha2Code": "UZ",
+        "alpha3Code": "UZB",
+        "cioc": "UZB",
+        "numericCode": "860",
+        "callingCode": "+998",
+        "capital": "Tashkent",
+        "altSpellings": [
+            "UZ",
+            "Republic of Uzbekistan",
+            "O\u2018zbekiston Respublikasi",
+            "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 34232050,
+        "latLng": {
+            "country": [
+                41,
+                64
+            ],
+            "capital": [
+                41.32,
+                69.25
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Uzbekistani",
+                "m": "Uzbekistani"
+            },
+            "fra": {
+                "f": "Ouzb\u00e8ke",
+                "m": "Ouzb\u00e8ke"
+            }
+        },
+        "area": 447400,
+        "gini": {
+            "2003": 35.3
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "borders": [
+            "AFG",
+            "KAZ",
+            "KGZ",
+            "TJK",
+            "TKM"
+        ],
+        "nativeNames": {
+            "rus": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+                "common": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
+            },
+            "uzb": {
+                "official": "O'zbekiston Respublikasi",
+                "common": "O\u2018zbekiston"
+            }
+        },
+        "currencies": {
+            "UZS": {
+                "name": "Uzbekistani so\u02bbm",
+                "symbol": "so'm"
+            }
+        },
+        "languages": {
+            "rus": "Russian",
+            "uzb": "Uzbek"
+        },
+        "translations": {
+            "ara": "\u0623\u0648\u0632\u0628\u0627\u0643\u0633\u062a\u0627\u0646",
+            "ces": "Uzbekist\u00e1n",
+            "cym": "Uzbekistan",
+            "deu": "Usbekistan",
+            "est": "Usbekistan",
+            "fin": "Uzbekistan",
+            "fra": "Ouzb\u00e9kistan",
+            "hrv": "Uzbekistan",
+            "hun": "\u00dczbegiszt\u00e1n",
+            "ita": "Uzbekistan",
+            "jpn": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3",
+            "kor": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4",
+            "nld": "Oezbekistan",
+            "per": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
+            "pol": "Uzbekistan",
+            "por": "Uzbequist\u00e3o",
+            "rus": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+            "slk": "Uzbekistan",
+            "spa": "Uzbekist\u00e1n",
+            "swe": "Uzbekistan",
+            "urd": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
+            "zho": "\u4e4c\u5179\u522b\u514b\u65af\u5766"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/uz.png",
+            "medium": "https://flagcdn.com/96x72/uz.png",
+            "large": "https://flagcdn.com/256x192/uz.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

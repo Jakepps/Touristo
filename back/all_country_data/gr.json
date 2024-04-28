@@ -1,0 +1,107 @@
+{
+    "gr": {
+        "name": "Greece",
+        "official_name": "Hellenic Republic",
+        "topLevelDomain": [
+            ".gr"
+        ],
+        "alpha2Code": "GR",
+        "alpha3Code": "GRC",
+        "cioc": "GRE",
+        "numericCode": "300",
+        "callingCode": "+30",
+        "capital": "Athens",
+        "altSpellings": [
+            "GR",
+            "Ell\u00e1da",
+            "Hellenic Republic",
+            "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 10715549,
+        "latLng": {
+            "country": [
+                39,
+                22
+            ],
+            "capital": [
+                37.98,
+                23.73
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Greek",
+                "m": "Greek"
+            },
+            "fra": {
+                "f": "Grecque",
+                "m": "Grec"
+            }
+        },
+        "area": 131990,
+        "gini": {
+            "2018": 32.9
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "ALB",
+            "BGR",
+            "TUR",
+            "MKD"
+        ],
+        "nativeNames": {
+            "ell": {
+                "official": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
+                "common": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "ell": "Greek"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u064a\u0648\u0646\u0627\u0646",
+            "ces": "\u0158ecko",
+            "cym": "Greece",
+            "deu": "Griechenland",
+            "est": "Kreeka",
+            "fin": "Kreikka",
+            "fra": "Gr\u00e8ce",
+            "hrv": "Gr\u010dka",
+            "hun": "G\u00f6r\u00f6gorsz\u00e1g",
+            "ita": "Grecia",
+            "jpn": "\u30ae\u30ea\u30b7\u30e3",
+            "kor": "\uadf8\ub9ac\uc2a4",
+            "nld": "Griekenland",
+            "per": "\u06cc\u0648\u0646\u0627\u0646",
+            "pol": "Grecja",
+            "por": "Gr\u00e9cia",
+            "rus": "\u0413\u0440\u0435\u0446\u0438\u044f",
+            "slk": "Gre\u00e9cko",
+            "spa": "Grecia",
+            "swe": "Grekland",
+            "urd": "\u06cc\u0648\u0646\u0627\u0646",
+            "zho": "\u5e0c\u814a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gr.png",
+            "medium": "https://flagcdn.com/96x72/gr.png",
+            "large": "https://flagcdn.com/256x192/gr.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

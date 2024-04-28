@@ -1,0 +1,107 @@
+{
+    "hu": {
+        "name": "Hungary",
+        "official_name": "Hungary",
+        "topLevelDomain": [
+            ".hu"
+        ],
+        "alpha2Code": "HU",
+        "alpha3Code": "HUN",
+        "cioc": "HUN",
+        "numericCode": "348",
+        "callingCode": "+36",
+        "capital": "Budapest",
+        "altSpellings": [
+            "HU"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "population": 9749763,
+        "latLng": {
+            "country": [
+                47,
+                20
+            ],
+            "capital": [
+                47.5,
+                19.08
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Hungarian",
+                "m": "Hungarian"
+            },
+            "fra": {
+                "f": "Hongroise",
+                "m": "Hongrois"
+            }
+        },
+        "area": 93028,
+        "gini": {
+            "2018": 29.6
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "HRV",
+            "ROU",
+            "SRB",
+            "SVK",
+            "SVN",
+            "UKR"
+        ],
+        "nativeNames": {
+            "hun": {
+                "official": "Magyarorsz\u00e1g",
+                "common": "Magyarorsz\u00e1g"
+            }
+        },
+        "currencies": {
+            "HUF": {
+                "name": "Hungarian forint",
+                "symbol": "Ft"
+            }
+        },
+        "languages": {
+            "hun": "Hungarian"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0645\u062c\u0631",
+            "ces": "Ma\u010farsko",
+            "cym": "Hungary",
+            "deu": "Ungarn",
+            "est": "Ungari",
+            "fin": "Unkari",
+            "fra": "Hongrie",
+            "hrv": "Ma\u0111arska",
+            "hun": "Magyarorsz\u00e1g",
+            "ita": "Ungheria",
+            "jpn": "\u30cf\u30f3\u30ac\u30ea\u30fc",
+            "kor": "\ud5dd\uac00\ub9ac",
+            "nld": "Hongarije",
+            "per": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
+            "pol": "W\u0119gry",
+            "por": "Hungria",
+            "rus": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+            "slk": "Ma\u010farsko",
+            "spa": "Hungr\u00eda",
+            "swe": "Ungern",
+            "urd": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
+            "zho": "\u5308\u7259\u5229"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/hu.png",
+            "medium": "https://flagcdn.com/96x72/hu.png",
+            "large": "https://flagcdn.com/256x192/hu.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

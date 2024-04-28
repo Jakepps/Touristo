@@ -1,0 +1,114 @@
+{
+    "sg": {
+        "name": "Singapore",
+        "official_name": "Republic of Singapore",
+        "topLevelDomain": [
+            ".sg"
+        ],
+        "alpha2Code": "SG",
+        "alpha3Code": "SGP",
+        "cioc": "SGP",
+        "numericCode": "702",
+        "callingCode": "+65",
+        "capital": "Singapore",
+        "altSpellings": [
+            "SG",
+            "Singapura",
+            "Republik Singapura",
+            "\u65b0\u52a0\u5761\u5171\u548c\u56fd"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 5685807,
+        "latLng": {
+            "country": [
+                1.36666666,
+                103.8
+            ],
+            "capital": [
+                1.28,
+                103.85
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Singaporean",
+                "m": "Singaporean"
+            },
+            "fra": {
+                "f": "Singapourienne",
+                "m": "Singapourien"
+            }
+        },
+        "area": 710,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "zho": {
+                "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
+                "common": "\u65b0\u52a0\u5761"
+            },
+            "eng": {
+                "official": "Republic of Singapore",
+                "common": "Singapore"
+            },
+            "msa": {
+                "official": "Republik Singapura",
+                "common": "Singapura"
+            },
+            "tam": {
+                "official": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+                "common": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+            }
+        },
+        "currencies": {
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "zho": "Chinese",
+            "eng": "English",
+            "msa": "Malay",
+            "tam": "Tamil"
+        },
+        "translations": {
+            "ara": "\u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629",
+            "ces": "Singapur",
+            "cym": "Singapore",
+            "deu": "Singapur",
+            "est": "Singapur",
+            "fin": "Singapore",
+            "fra": "Singapour",
+            "hrv": "Singapur",
+            "hun": "Szingap\u00far",
+            "ita": "Singapore",
+            "jpn": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
+            "kor": "\uc2f1\uac00\ud3ec\ub974",
+            "nld": "Singapore",
+            "per": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631",
+            "pol": "Singapur",
+            "por": "Singapura",
+            "rus": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
+            "slk": "Singapur",
+            "spa": "Singapur",
+            "swe": "Singapore",
+            "urd": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sg.png",
+            "medium": "https://flagcdn.com/96x72/sg.png",
+            "large": "https://flagcdn.com/256x192/sg.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ]
+    }
+}

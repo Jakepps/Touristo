@@ -1,0 +1,106 @@
+{
+    "bn": {
+        "name": "Brunei",
+        "official_name": "Nation of Brunei, Abode of Peace",
+        "topLevelDomain": [
+            ".bn"
+        ],
+        "alpha2Code": "BN",
+        "alpha3Code": "BRN",
+        "cioc": "BRU",
+        "numericCode": "096",
+        "callingCode": "+673",
+        "capital": "Bandar Seri Begawan",
+        "altSpellings": [
+            "BN",
+            "Brunei Darussalam",
+            "Nation of Brunei",
+            "the Abode of Peace"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 437483,
+        "latLng": {
+            "country": [
+                4.5,
+                114.66666666
+            ],
+            "capital": [
+                4.88,
+                114.93
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bruneian",
+                "m": "Bruneian"
+            },
+            "fra": {
+                "f": "Brun\u00e9ienne",
+                "m": "Brun\u00e9ien"
+            }
+        },
+        "area": 5765,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "MYS"
+        ],
+        "nativeNames": {
+            "msa": {
+                "official": "Nation of Brunei, Abode Damai",
+                "common": "Negara Brunei Darussalam"
+            }
+        },
+        "currencies": {
+            "BND": {
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "msa": "Malay"
+        },
+        "translations": {
+            "ara": "\u0628\u0631\u0648\u0646\u0627\u064a",
+            "ces": "Brunej",
+            "cym": "Brunei",
+            "deu": "Brunei",
+            "est": "Brunei",
+            "fin": "Brunei",
+            "fra": "Brunei",
+            "hrv": "Brunej",
+            "hun": "Brunei",
+            "ita": "Brunei",
+            "jpn": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0",
+            "kor": "\ube0c\ub8e8\ub098\uc774",
+            "nld": "Brunei",
+            "per": "\u0628\u0631\u0648\u0646\u0626\u06cc",
+            "pol": "Brunei",
+            "por": "Brunei",
+            "rus": "\u0411\u0440\u0443\u043d\u0435\u0439",
+            "slk": "Brunej",
+            "spa": "Brunei",
+            "swe": "Brunei",
+            "urd": "\u0628\u0631\u0648\u0646\u0627\u0626\u06cc",
+            "zho": "\u6587\u83b1"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bn.png",
+            "medium": "https://flagcdn.com/96x72/bn.png",
+            "large": "https://flagcdn.com/256x192/bn.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ]
+    }
+}

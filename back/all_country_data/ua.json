@@ -1,0 +1,103 @@
+{
+    "ua": {
+        "name": "Ukraine",
+        "official_name": "Ukraine",
+        "topLevelDomain": [
+            ".ua"
+        ],
+        "alpha2Code": "UA",
+        "alpha3Code": "UKR",
+        "cioc": "UKR",
+        "numericCode": "804",
+        "callingCode": "+380",
+        "capital": "Kyiv",
+        "altSpellings": [
+            "UA",
+            "Ukrayina"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 44134693,
+        "latLng": {
+            "country": [
+                49,
+                32
+            ],
+            "capital": [
+                50.43,
+                30.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Ukrainian",
+                "m": "Ukrainian"
+            },
+            "fra": {
+                "f": "Ukrainienne",
+                "m": "Ukrainien"
+            }
+        },
+        "area": 603500,
+        "gini": {
+            "2019": 26.6
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "nativeNames": {
+            "ukr": {
+                "official": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                "common": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+            }
+        },
+        "currencies": {
+            "UAH": {
+                "name": "Ukrainian hryvnia",
+                "symbol": "\u20b4"
+            }
+        },
+        "languages": {
+            "ukr": "Ukrainian"
+        },
+        "translations": {
+            "ara": "\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627",
+            "ces": "Ukrajina",
+            "cym": "Ukraine",
+            "deu": "Ukraine",
+            "est": "Ukraina",
+            "fin": "Ukraina",
+            "fra": "Ukraine",
+            "hrv": "Ukrajina",
+            "hun": "Ukrajna",
+            "ita": "Ucraina",
+            "jpn": "\u30a6\u30af\u30e9\u30a4\u30ca",
+            "kor": "\uc6b0\ud06c\ub77c\uc774\ub098",
+            "nld": "Oekra\u00efne",
+            "per": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646",
+            "pol": "Ukraina",
+            "por": "Ucr\u00e2nia",
+            "rus": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+            "slk": "Ukrajina",
+            "spa": "Ucrania",
+            "swe": "Ukraina",
+            "urd": "\u06cc\u0648\u06a9\u0631\u06cc\u0646",
+            "zho": "\u4e4c\u514b\u5170"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ua.png",
+            "medium": "https://flagcdn.com/96x72/ua.png",
+            "large": "https://flagcdn.com/256x192/ua.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

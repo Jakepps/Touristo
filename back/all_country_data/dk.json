@@ -1,0 +1,108 @@
+{
+    "dk": {
+        "name": "Denmark",
+        "official_name": "Kingdom of Denmark",
+        "topLevelDomain": [
+            ".dk"
+        ],
+        "alpha2Code": "DK",
+        "alpha3Code": "DNK",
+        "cioc": "DEN",
+        "numericCode": "208",
+        "callingCode": "+45",
+        "capital": "Copenhagen",
+        "altSpellings": [
+            "DK",
+            "Danmark",
+            "Kingdom of Denmark",
+            "Kongeriget Danmark"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 5831404,
+        "latLng": {
+            "country": [
+                56,
+                10
+            ],
+            "capital": [
+                55.67,
+                12.58
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Danish",
+                "m": "Danish"
+            },
+            "fra": {
+                "f": "Danoise",
+                "m": "Danois"
+            }
+        },
+        "area": 43094,
+        "gini": {
+            "2018": 28.2
+        },
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC",
+            "UTC+01:00"
+        ],
+        "borders": [
+            "DEU"
+        ],
+        "nativeNames": {
+            "dan": {
+                "official": "Kongeriget Danmark",
+                "common": "Danmark"
+            }
+        },
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            }
+        },
+        "languages": {
+            "dan": "Danish"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u062f\u0646\u0645\u0627\u0631\u0643",
+            "ces": "D\u00e1nsko",
+            "cym": "Denmarc",
+            "deu": "D\u00e4nemark",
+            "est": "Taani",
+            "fin": "Tanska",
+            "fra": "Danemark",
+            "hrv": "Danska",
+            "hun": "D\u00e1nia",
+            "ita": "Danimarca",
+            "jpn": "\u30c7\u30f3\u30de\u30fc\u30af",
+            "kor": "\ub374\ub9c8\ud06c",
+            "nld": "Denemarken",
+            "per": "\u062f\u0627\u0646\u0645\u0627\u0631\u06a9",
+            "pol": "Dania",
+            "por": "Dinamarca",
+            "rus": "\u0414\u0430\u043d\u0438\u044f",
+            "slk": "D\u00e1nsko",
+            "spa": "Dinamarca",
+            "swe": "Danmark",
+            "urd": "\u0688\u0646\u0645\u0627\u0631\u06a9",
+            "zho": "\u4e39\u9ea6"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/dk.png",
+            "medium": "https://flagcdn.com/96x72/dk.png",
+            "large": "https://flagcdn.com/256x192/dk.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

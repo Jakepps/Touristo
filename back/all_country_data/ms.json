@@ -1,0 +1,102 @@
+{
+    "ms": {
+        "name": "Montserrat",
+        "official_name": "Montserrat",
+        "topLevelDomain": [
+            ".ms"
+        ],
+        "alpha2Code": "MS",
+        "alpha3Code": "MSR",
+        "cioc": "N/A",
+        "numericCode": "500",
+        "callingCode": "+1664",
+        "capital": "Plymouth",
+        "altSpellings": [
+            "MS"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 4922,
+        "latLng": {
+            "country": [
+                16.75,
+                -62.2
+            ],
+            "capital": [
+                16.7,
+                -62.22
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Montserratian",
+                "m": "Montserratian"
+            },
+            "fra": {
+                "f": "Montserratienne",
+                "m": "Montserratien"
+            }
+        },
+        "area": 102,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            }
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a",
+            "ces": "Montserrat",
+            "cym": "Montserrat",
+            "deu": "Montserrat",
+            "est": "Montserrat",
+            "fin": "Montserrat",
+            "fra": "Montserrat",
+            "hrv": "Montserrat",
+            "hun": "Montserrat",
+            "ita": "Montserrat",
+            "jpn": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8",
+            "kor": "\ubaac\ud2b8\uc138\ub7ab",
+            "nld": "Montserrat",
+            "per": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a",
+            "pol": "Montserrat",
+            "por": "Montserrat",
+            "rus": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442",
+            "slk": "Montserrat",
+            "spa": "Montserrat",
+            "swe": "Montserrat",
+            "urd": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679",
+            "zho": "\u8499\u7279\u585e\u62c9\u7279"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ms.png",
+            "medium": "https://flagcdn.com/96x72/ms.png",
+            "large": "https://flagcdn.com/256x192/ms.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ]
+    }
+}

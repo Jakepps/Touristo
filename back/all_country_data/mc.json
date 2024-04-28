@@ -1,0 +1,96 @@
+{
+    "mc": {
+        "name": "Monaco",
+        "official_name": "Principality of Monaco",
+        "topLevelDomain": [
+            ".mc"
+        ],
+        "alpha2Code": "MC",
+        "alpha3Code": "MCO",
+        "cioc": "MON",
+        "numericCode": "492",
+        "callingCode": "+377",
+        "capital": "Monaco",
+        "altSpellings": [
+            "MC",
+            "Principality of Monaco",
+            "Principaut\u00e9 de Monaco"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 39244,
+        "latLng": {
+            "country": [
+                43.73333333,
+                7.4
+            ],
+            "capital": [
+                43.73,
+                7.42
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Monegasque",
+                "m": "Monegasque"
+            },
+            "fra": {
+                "f": "Mon\u00e9gasque",
+                "m": "Mon\u00e9gasque"
+            }
+        },
+        "area": 2.02,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "FRA"
+        ],
+        "nativeNames": {
+            "fra": {
+                "official": "Principaut\u00e9 de Monaco",
+                "common": "Monaco"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0645\u0648\u0646\u0627\u0643\u0648",
+            "ces": "Monako",
+            "cym": "Monaco",
+            "deu": "Monaco",
+            "est": "Monaco",
+            "fin": "Monaco",
+            "fra": "Monaco",
+            "hrv": "Monako",
+            "hun": "Monaco",
+            "ita": "Principato di Monaco",
+            "jpn": "\u30e2\u30ca\u30b3",
+            "kor": "\ubaa8\ub098\ucf54",
+            "nld": "Monaco",
+            "per": "\u0645\u0648\u0646\u0627\u06a9\u0648",
+            "pol": "Monako",
+            "por": "M\u00f3naco",
+            "rus": "\u041c\u043e\u043d\u0430\u043a\u043e",
+            "slk": "Monako",
+            "spa": "M\u00f3naco",
+            "swe": "Monaco",
+            "urd": "\u0645\u0648\u0646\u0627\u06a9\u0648",
+            "zho": "\u6469\u7eb3\u54e5"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mc.png",
+            "medium": "https://flagcdn.com/96x72/mc.png",
+            "large": "https://flagcdn.com/256x192/mc.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

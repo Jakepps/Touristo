@@ -1,0 +1,90 @@
+{
+    "wf": {
+        "name": "Wallis and Futuna",
+        "official_name": "Territory of the Wallis and Futuna Islands",
+        "topLevelDomain": [
+            ".wf"
+        ],
+        "alpha2Code": "WF",
+        "alpha3Code": "WLF",
+        "cioc": "N/A",
+        "numericCode": "876",
+        "callingCode": "+681",
+        "capital": "Mata-Utu",
+        "altSpellings": [
+            "WF",
+            "Territory of the Wallis and Futuna Islands",
+            "Territoire des \u00eeles Wallis et Futuna"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 11750,
+        "latLng": {
+            "country": [
+                -13.3,
+                -176.2
+            ],
+            "capital": [
+                -13.95,
+                -171.93
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Wallis and Futuna Islander",
+                "m": "Wallis and Futuna Islander"
+            }
+        },
+        "area": 142,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "fra": {
+                "official": "Territoire des \u00eeles Wallis et Futuna",
+                "common": "Wallis et Futuna"
+            }
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": "\u0648\u0627\u0644\u064a\u0633 \u0648\u0641\u0648\u062a\u0648\u0646\u0627",
+            "ces": "Wallis a Futuna",
+            "cym": "Wallis and Futuna",
+            "deu": "Wallis und Futuna",
+            "est": "Wallis ja Futuna",
+            "fin": "Wallis ja Futuna",
+            "fra": "Wallis-et-Futuna",
+            "hrv": "Wallis i Fortuna",
+            "hun": "Wallis \u00e9s Futuna",
+            "ita": "Wallis e Futuna",
+            "jpn": "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca",
+            "kor": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098",
+            "nld": "Wallis en Futuna",
+            "per": "\u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627",
+            "pol": "Wallis i Futuna",
+            "por": "Wallis e Futuna",
+            "rus": "\u0423\u043e\u043b\u043b\u0438\u0441 \u0438 \u0424\u0443\u0442\u0443\u043d\u0430",
+            "slk": "Wallis a Futuna",
+            "spa": "Wallis y Futuna",
+            "swe": "Wallis- och Futuna\u00f6arna",
+            "urd": "\u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1",
+            "zho": "\u74e6\u5229\u65af\u548c\u5bcc\u56fe\u7eb3\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/wf.png",
+            "medium": "https://flagcdn.com/96x72/wf.png",
+            "large": "https://flagcdn.com/256x192/wf.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

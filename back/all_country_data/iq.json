@@ -1,0 +1,123 @@
+{
+    "iq": {
+        "name": "Iraq",
+        "official_name": "Republic of Iraq",
+        "topLevelDomain": [
+            ".iq"
+        ],
+        "alpha2Code": "IQ",
+        "alpha3Code": "IRQ",
+        "cioc": "IRQ",
+        "numericCode": "368",
+        "callingCode": "+964",
+        "capital": "Baghdad",
+        "altSpellings": [
+            "IQ",
+            "Republic of Iraq",
+            "Jumh\u016briyyat al-\u2018Ir\u0101q"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 40222503,
+        "latLng": {
+            "country": [
+                33,
+                44
+            ],
+            "capital": [
+                33.33,
+                44.4
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Iraqi",
+                "m": "Iraqi"
+            },
+            "fra": {
+                "f": "Irakienne",
+                "m": "Irakien"
+            }
+        },
+        "area": 438317,
+        "gini": {
+            "2012": 29.5
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "IRN",
+            "JOR",
+            "KWT",
+            "SAU",
+            "SYR",
+            "TUR"
+        ],
+        "nativeNames": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642",
+                "common": "\u0627\u0644\u0639\u0631\u0627\u0642"
+            },
+            "arc": {
+                "official": "\u0729\u0718\u073c\u071b\u0722\u0735\u0710 \u0710\u071d\u073c\u072a\u0732\u0729",
+                "common": "\u0729\u0718\u073c\u071b\u0722\u0735\u0710"
+            },
+            "ckb": {
+                "official": "\u06a9\u06c6\u0645\u0627\u0631\u06cc \u0639\u06ce\u0631\u0627\u0642",
+                "common": "\u06a9\u06c6\u0645\u0627\u0631\u06cc"
+            }
+        },
+        "currencies": {
+            "IQD": {
+                "name": "Iraqi dinar",
+                "symbol": "\u0639.\u062f"
+            }
+        },
+        "languages": {
+            "ara": "Arabic",
+            "arc": "Aramaic",
+            "ckb": "Sorani"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0639\u0631\u0627\u0642",
+            "ces": "Ir\u00e1k",
+            "cym": "Iraq",
+            "deu": "Irak",
+            "est": "Iraak",
+            "fin": "Irak",
+            "fra": "Irak",
+            "hrv": "Irak",
+            "hun": "Irak",
+            "ita": "Iraq",
+            "jpn": "\u30a4\u30e9\u30af",
+            "kor": "\uc774\ub77c\ud06c",
+            "nld": "Irak",
+            "per": "\u0639\u0631\u0627\u0642",
+            "pol": "Irak",
+            "por": "Iraque",
+            "rus": "\u0418\u0440\u0430\u043a",
+            "slk": "Irak",
+            "spa": "Irak",
+            "swe": "Irak",
+            "urd": "\u0639\u0631\u0627\u0642",
+            "zho": "\u4f0a\u62c9\u514b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/iq.png",
+            "medium": "https://flagcdn.com/96x72/iq.png",
+            "large": "https://flagcdn.com/256x192/iq.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

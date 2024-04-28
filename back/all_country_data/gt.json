@@ -1,0 +1,110 @@
+{
+    "gt": {
+        "name": "Guatemala",
+        "official_name": "Republic of Guatemala",
+        "topLevelDomain": [
+            ".gt"
+        ],
+        "alpha2Code": "GT",
+        "alpha3Code": "GTM",
+        "cioc": "GUA",
+        "numericCode": "320",
+        "callingCode": "+502",
+        "capital": "Guatemala City",
+        "altSpellings": [
+            "GT"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "population": 16858333,
+        "latLng": {
+            "country": [
+                15.5,
+                -90.25
+            ],
+            "capital": [
+                14.62,
+                -90.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Guatemalan",
+                "m": "Guatemalan"
+            },
+            "fra": {
+                "f": "Guat\u00e9malt\u00e8que",
+                "m": "Guat\u00e9malt\u00e8que"
+            }
+        },
+        "area": 108889,
+        "gini": {
+            "2014": 48.3
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "borders": [
+            "BLZ",
+            "SLV",
+            "HND",
+            "MEX"
+        ],
+        "nativeNames": {
+            "spa": {
+                "official": "Rep\u00fablica de Guatemala",
+                "common": "Guatemala"
+            }
+        },
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        },
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627",
+            "ces": "Guatemala",
+            "cym": "Guatemala",
+            "deu": "Guatemala",
+            "est": "Guatemala",
+            "fin": "Guatemala",
+            "fra": "Guatemala",
+            "hrv": "Gvatemala",
+            "hun": "Guatemala",
+            "ita": "Guatemala",
+            "jpn": "\u30b0\u30a2\u30c6\u30de\u30e9",
+            "kor": "\uacfc\ud14c\ub9d0\ub77c",
+            "nld": "Guatemala",
+            "per": "\u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627",
+            "pol": "Gwatemala",
+            "por": "Guatemala",
+            "rus": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+            "slk": "Guatemala",
+            "spa": "Guatemala",
+            "swe": "Guatemala",
+            "urd": "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627",
+            "zho": "\u5371\u5730\u9a6c\u62c9"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/gt.png",
+            "medium": "https://flagcdn.com/96x72/gt.png",
+            "large": "https://flagcdn.com/256x192/gt.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CAIS",
+                "name": "Central American Integration System",
+                "otherAcronyms": [
+                    "SICA"
+                ],
+                "otherNames": [
+                    "Sistema de la Integraci\u00f3n Centroamericana,"
+                ]
+            }
+        ]
+    }
+}

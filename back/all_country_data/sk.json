@@ -1,0 +1,107 @@
+{
+    "sk": {
+        "name": "Slovakia",
+        "official_name": "Slovak Republic",
+        "topLevelDomain": [
+            ".sk"
+        ],
+        "alpha2Code": "SK",
+        "alpha3Code": "SVK",
+        "cioc": "SVK",
+        "numericCode": "703",
+        "callingCode": "+421",
+        "capital": "Bratislava",
+        "altSpellings": [
+            "SK",
+            "Slovak Republic",
+            "Slovensk\u00e1 republika"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "population": 5458827,
+        "latLng": {
+            "country": [
+                48.66666666,
+                19.5
+            ],
+            "capital": [
+                48.15,
+                17.12
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Slovak",
+                "m": "Slovak"
+            },
+            "fra": {
+                "f": "Slovaque",
+                "m": "Slovaque"
+            }
+        },
+        "area": 49037,
+        "gini": {
+            "2018": 25
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "CZE",
+            "HUN",
+            "POL",
+            "UKR"
+        ],
+        "nativeNames": {
+            "slk": {
+                "official": "Slovensk\u00e1 republika",
+                "common": "Slovensko"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "slk": "Slovak"
+        },
+        "translations": {
+            "ara": "\u0633\u0644\u0648\u0641\u0627\u0643\u064a\u0627",
+            "ces": "Slovensko",
+            "cym": "Slovakia",
+            "deu": "Slowakei",
+            "est": "Slovakkia",
+            "fin": "Slovakia",
+            "fra": "Slovaquie",
+            "hrv": "Slova\u010dka",
+            "hun": "Szlov\u00e1kia",
+            "ita": "Slovacchia",
+            "jpn": "\u30b9\u30ed\u30d0\u30ad\u30a2",
+            "kor": "\uc2ac\ub85c\ubc14\ud0a4\uc544",
+            "nld": "Slowakije",
+            "per": "\u0627\u0650\u0633\u0644\u064f\u0648\u0627\u06a9\u06cc",
+            "pol": "S\u0142owacja",
+            "por": "Eslov\u00e1quia",
+            "rus": "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f",
+            "slk": "Slovensko",
+            "spa": "Rep\u00fablica Eslovaca",
+            "swe": "Slovakien",
+            "urd": "\u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1",
+            "zho": "\u65af\u6d1b\u4f10\u514b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sk.png",
+            "medium": "https://flagcdn.com/96x72/sk.png",
+            "large": "https://flagcdn.com/256x192/sk.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

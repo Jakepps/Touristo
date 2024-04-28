@@ -1,0 +1,102 @@
+{
+    "is": {
+        "name": "Iceland",
+        "official_name": "Iceland",
+        "topLevelDomain": [
+            ".is"
+        ],
+        "alpha2Code": "IS",
+        "alpha3Code": "ISL",
+        "cioc": "ISL",
+        "numericCode": "352",
+        "callingCode": "+354",
+        "capital": "Reykjavik",
+        "altSpellings": [
+            "IS",
+            "Island",
+            "Republic of Iceland",
+            "L\u00fd\u00f0veldi\u00f0 \u00cdsland"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 366425,
+        "latLng": {
+            "country": [
+                65,
+                -18
+            ],
+            "capital": [
+                64.15,
+                -21.95
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Icelander",
+                "m": "Icelander"
+            },
+            "fra": {
+                "f": "Islandaise",
+                "m": "Islandais"
+            }
+        },
+        "area": 103000,
+        "gini": {
+            "2017": 26.1
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "isl": {
+                "official": "\u00cdsland",
+                "common": "\u00cdsland"
+            }
+        },
+        "currencies": {
+            "ISK": {
+                "name": "Icelandic kr\u00f3na",
+                "symbol": "kr"
+            }
+        },
+        "languages": {
+            "isl": "Icelandic"
+        },
+        "translations": {
+            "ara": "\u0622\u064a\u0633\u0644\u0646\u062f\u0627",
+            "ces": "Island",
+            "cym": "Iceland",
+            "deu": "Island",
+            "est": "Island",
+            "fin": "Islanti",
+            "fra": "Islande",
+            "hrv": "Island",
+            "hun": "Izland",
+            "ita": "Islanda",
+            "jpn": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
+            "kor": "\uc544\uc774\uc2ac\ub780\ub4dc",
+            "nld": "IJsland",
+            "per": "\u0627\u06cc\u0633\u0644\u0646\u062f",
+            "pol": "Islandia",
+            "por": "Isl\u00e2ndia",
+            "rus": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+            "slk": "Island",
+            "spa": "Islandia",
+            "swe": "Island",
+            "urd": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688",
+            "zho": "\u51b0\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/is.png",
+            "medium": "https://flagcdn.com/96x72/is.png",
+            "large": "https://flagcdn.com/256x192/is.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EFTA",
+                "name": "European Free Trade Association"
+            }
+        ]
+    }
+}

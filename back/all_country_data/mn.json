@@ -1,0 +1,98 @@
+{
+    "mn": {
+        "name": "Mongolia",
+        "official_name": "Mongolia",
+        "topLevelDomain": [
+            ".mn"
+        ],
+        "alpha2Code": "MN",
+        "alpha3Code": "MNG",
+        "cioc": "MGL",
+        "numericCode": "496",
+        "callingCode": "+976",
+        "capital": "Ulan Bator",
+        "altSpellings": [
+            "MN"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 3278292,
+        "latLng": {
+            "country": [
+                46,
+                105
+            ],
+            "capital": [
+                47.92,
+                106.91
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mongolian",
+                "m": "Mongolian"
+            },
+            "fra": {
+                "f": "Mongole",
+                "m": "Mongol"
+            }
+        },
+        "area": 1564110,
+        "gini": {
+            "2018": 32.7
+        },
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00"
+        ],
+        "borders": [
+            "CHN",
+            "RUS"
+        ],
+        "nativeNames": {
+            "mon": {
+                "official": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+                "common": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441"
+            }
+        },
+        "currencies": {
+            "MNT": {
+                "name": "Mongolian t\u00f6gr\u00f6g",
+                "symbol": "\u20ae"
+            }
+        },
+        "languages": {
+            "mon": "Mongolian"
+        },
+        "translations": {
+            "ara": "\u0645\u0646\u063a\u0648\u0644\u064a\u0627",
+            "ces": "Mongolsko",
+            "cym": "Mongolia",
+            "deu": "Mongolei",
+            "est": "Mongoolia",
+            "fin": "Mongolia",
+            "fra": "Mongolie",
+            "hrv": "Mongolija",
+            "hun": "Mong\u00f3lia",
+            "ita": "Mongolia",
+            "jpn": "\u30e2\u30f3\u30b4\u30eb",
+            "kor": "\ubabd\uace8\uad6d",
+            "nld": "Mongoli\u00eb",
+            "per": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646",
+            "pol": "Mongolia",
+            "por": "Mong\u00f3lia",
+            "rus": "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
+            "slk": "Mongolsko",
+            "spa": "Mongolia",
+            "swe": "Mongoliet",
+            "urd": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627",
+            "zho": "\u8499\u53e4"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mn.png",
+            "medium": "https://flagcdn.com/96x72/mn.png",
+            "large": "https://flagcdn.com/256x192/mn.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

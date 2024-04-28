@@ -1,0 +1,119 @@
+{
+    "mx": {
+        "name": "Mexico",
+        "official_name": "United Mexican States",
+        "topLevelDomain": [
+            ".mx"
+        ],
+        "alpha2Code": "MX",
+        "alpha3Code": "MEX",
+        "cioc": "MEX",
+        "numericCode": "484",
+        "callingCode": "+52",
+        "capital": "Mexico City",
+        "altSpellings": [
+            "MX",
+            "Mexicanos",
+            "United Mexican States",
+            "Estados Unidos Mexicanos"
+        ],
+        "region": "Americas",
+        "subregion": "North America",
+        "population": 128932753,
+        "latLng": {
+            "country": [
+                23,
+                -102
+            ],
+            "capital": [
+                19.43,
+                -99.13
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Mexican",
+                "m": "Mexican"
+            },
+            "fra": {
+                "f": "Mexicaine",
+                "m": "Mexicain"
+            }
+        },
+        "area": 1964375,
+        "gini": {
+            "2018": 45.4
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ],
+        "borders": [
+            "BLZ",
+            "GTM",
+            "USA"
+        ],
+        "nativeNames": {
+            "spa": {
+                "official": "Estados Unidos Mexicanos",
+                "common": "M\u00e9xico"
+            }
+        },
+        "currencies": {
+            "MXN": {
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0645\u0633\u0643\u064a\u0643",
+            "ces": "Mexiko",
+            "cym": "Mexico",
+            "deu": "Mexiko",
+            "est": "Mehhiko",
+            "fin": "Meksiko",
+            "fra": "Mexique",
+            "hrv": "Meksiko",
+            "hun": "Mexik\u00f3",
+            "ita": "Messico",
+            "jpn": "\u30e1\u30ad\u30b7\u30b3",
+            "kor": "\uba55\uc2dc\ucf54",
+            "nld": "Mexico",
+            "per": "\u0645\u06a9\u0632\u06cc\u06a9",
+            "pol": "Meksyk",
+            "por": "M\u00e9xico",
+            "rus": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+            "slk": "Mexiko",
+            "spa": "M\u00e9xico",
+            "swe": "Mexiko",
+            "urd": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648",
+            "zho": "\u58a8\u897f\u54e5"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mx.png",
+            "medium": "https://flagcdn.com/96x72/mx.png",
+            "large": "https://flagcdn.com/256x192/mx.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "PA",
+                "name": "Pacific Alliance",
+                "otherNames": [
+                    "Alianza del Pac\u00edfico"
+                ]
+            },
+            {
+                "acronym": "NAFTA",
+                "name": "North American Free Trade Agreement",
+                "otherNames": [
+                    "Tratado de Libre Comercio de Am\u00e9rica del Norte",
+                    "Accord de Libre-\u00e9change Nord-Am\u00e9ricain"
+                ]
+            }
+        ]
+    }
+}

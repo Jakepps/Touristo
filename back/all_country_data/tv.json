@@ -1,0 +1,103 @@
+{
+    "tv": {
+        "name": "Tuvalu",
+        "official_name": "Tuvalu",
+        "topLevelDomain": [
+            ".tv"
+        ],
+        "alpha2Code": "TV",
+        "alpha3Code": "TUV",
+        "cioc": "TUV",
+        "numericCode": "798",
+        "callingCode": "+688",
+        "capital": "Funafuti",
+        "altSpellings": [
+            "TV"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 11792,
+        "latLng": {
+            "country": [
+                -8,
+                178
+            ],
+            "capital": [
+                -8.52,
+                179.22
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Tuvaluan",
+                "m": "Tuvaluan"
+            },
+            "fra": {
+                "f": "Tuvaluane",
+                "m": "Tuvaluan"
+            }
+        },
+        "area": 26,
+        "gini": {
+            "2010": 39.1
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            },
+            "tvl": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            }
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "TVD": {
+                "name": "Tuvaluan dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "tvl": "Tuvaluan"
+        },
+        "translations": {
+            "ara": "\u062a\u0648\u0641\u0627\u0644\u0648",
+            "ces": "Tuvalu",
+            "cym": "Tuvalu",
+            "deu": "Tuvalu",
+            "est": "Tuvalu",
+            "fin": "Tuvalu",
+            "fra": "Tuvalu",
+            "hrv": "Tuvalu",
+            "hun": "Tuvalu",
+            "ita": "Tuvalu",
+            "jpn": "\u30c4\u30d0\u30eb",
+            "kor": "\ud22c\ubc1c\ub8e8",
+            "nld": "Tuvalu",
+            "per": "\u062a\u0648\u0648\u0627\u0644\u0648",
+            "pol": "Tuvalu",
+            "por": "Tuvalu",
+            "rus": "\u0422\u0443\u0432\u0430\u043b\u0443",
+            "slk": "Tuvalu",
+            "spa": "Tuvalu",
+            "swe": "Tuvalu",
+            "urd": "\u062a\u0648\u0648\u0627\u0644\u0648",
+            "zho": "\u56fe\u74e6\u5362"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/tv.png",
+            "medium": "https://flagcdn.com/96x72/tv.png",
+            "large": "https://flagcdn.com/256x192/tv.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

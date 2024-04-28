@@ -1,0 +1,100 @@
+{
+    "as": {
+        "name": "American Samoa",
+        "official_name": "American Samoa",
+        "topLevelDomain": [
+            ".as"
+        ],
+        "alpha2Code": "AS",
+        "alpha3Code": "ASM",
+        "cioc": "ASA",
+        "numericCode": "016",
+        "callingCode": "+1684",
+        "capital": "Pago Pago",
+        "altSpellings": [
+            "AS",
+            "Amerika S\u0101moa",
+            "Amelika S\u0101moa",
+            "S\u0101moa Amelika"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 55197,
+        "latLng": {
+            "country": [
+                -14.33333333,
+                -170
+            ],
+            "capital": [
+                -14.27,
+                -170.7
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "American Samoan",
+                "m": "American Samoan"
+            },
+            "fra": {
+                "f": "Samoane",
+                "m": "Samoan"
+            }
+        },
+        "area": 199,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "American Samoa",
+                "common": "American Samoa"
+            },
+            "smo": {
+                "official": "S\u0101moa Amelika",
+                "common": "S\u0101moa Amelika"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "translations": {
+            "ara": "\u0633\u0627\u0645\u0648\u0627 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+            "ces": "Americk\u00e1 Samoa",
+            "cym": "American Samoa",
+            "deu": "Amerikanisch-Samoa",
+            "est": "Ameerika Samoa",
+            "fin": "Amerikan Samoa",
+            "fra": "Samoa am\u00e9ricaines",
+            "hrv": "Ameri\u010dka Samoa",
+            "hun": "Szamoa",
+            "ita": "Samoa Americane",
+            "jpn": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
+            "kor": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544",
+            "nld": "Amerikaans Samoa",
+            "per": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "pol": "Samoa Ameryka\u0144skie",
+            "por": "Samoa Americana",
+            "rus": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430",
+            "slk": "Americk\u00e1 Samoa",
+            "spa": "Samoa Americana",
+            "swe": "Amerikanska Samoa",
+            "urd": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627",
+            "zho": "\u7f8e\u5c5e\u8428\u6469\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/as.png",
+            "medium": "https://flagcdn.com/96x72/as.png",
+            "large": "https://flagcdn.com/256x192/as.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

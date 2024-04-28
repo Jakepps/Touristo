@@ -1,0 +1,104 @@
+{
+    "se": {
+        "name": "Sweden",
+        "official_name": "Kingdom of Sweden",
+        "topLevelDomain": [
+            ".se"
+        ],
+        "alpha2Code": "SE",
+        "alpha3Code": "SWE",
+        "cioc": "SWE",
+        "numericCode": "752",
+        "callingCode": "+46",
+        "capital": "Stockholm",
+        "altSpellings": [
+            "SE",
+            "Kingdom of Sweden",
+            "Konungariket Sverige"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 10353442,
+        "latLng": {
+            "country": [
+                62,
+                15
+            ],
+            "capital": [
+                59.33,
+                18.05
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Swedish",
+                "m": "Swedish"
+            },
+            "fra": {
+                "f": "Su\u00e9doise",
+                "m": "Su\u00e9dois"
+            }
+        },
+        "area": 450295,
+        "gini": {
+            "2018": 30
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "FIN",
+            "NOR"
+        ],
+        "nativeNames": {
+            "swe": {
+                "official": "Konungariket Sverige",
+                "common": "Sverige"
+            }
+        },
+        "currencies": {
+            "SEK": {
+                "name": "Swedish krona",
+                "symbol": "kr"
+            }
+        },
+        "languages": {
+            "swe": "Swedish"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u0633\u0648\u064a\u062f",
+            "ces": "\u0160v\u00e9dsko",
+            "cym": "Sweden",
+            "deu": "Schweden",
+            "est": "Rootsi",
+            "fin": "Ruotsi",
+            "fra": "Su\u00e8de",
+            "hrv": "\u0160vedska",
+            "hun": "Sv\u00e9dorsz\u00e1g",
+            "ita": "Svezia",
+            "jpn": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
+            "kor": "\uc2a4\uc6e8\ub374",
+            "nld": "Zweden",
+            "per": "\u0633\u0648\u0626\u062f",
+            "pol": "Szwecja",
+            "por": "Su\u00e9cia",
+            "rus": "\u0428\u0432\u0435\u0446\u0438\u044f",
+            "slk": "\u0160v\u00e9dsko",
+            "spa": "Suecia",
+            "swe": "Sverige",
+            "urd": "\u0633\u0648\u06cc\u0688\u0646",
+            "zho": "\u745e\u5178"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/se.png",
+            "medium": "https://flagcdn.com/96x72/se.png",
+            "large": "https://flagcdn.com/256x192/se.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

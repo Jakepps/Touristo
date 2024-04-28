@@ -1,0 +1,108 @@
+{
+    "om": {
+        "name": "Oman",
+        "official_name": "Sultanate of Oman",
+        "topLevelDomain": [
+            ".om"
+        ],
+        "alpha2Code": "OM",
+        "alpha3Code": "OMN",
+        "cioc": "OMA",
+        "numericCode": "512",
+        "callingCode": "+968",
+        "capital": "Muscat",
+        "altSpellings": [
+            "OM",
+            "Sultanate of Oman",
+            "Sal\u1e6danat \u02bbUm\u0101n"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 5106622,
+        "latLng": {
+            "country": [
+                21,
+                57
+            ],
+            "capital": [
+                23.62,
+                58.58
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Omani",
+                "m": "Omani"
+            },
+            "fra": {
+                "f": "Omanaise",
+                "m": "Omanais"
+            }
+        },
+        "area": 309500,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "borders": [
+            "SAU",
+            "ARE",
+            "YEM"
+        ],
+        "nativeNames": {
+            "ara": {
+                "official": "\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646",
+                "common": "\u0639\u0645\u0627\u0646"
+            }
+        },
+        "currencies": {
+            "OMR": {
+                "name": "Omani rial",
+                "symbol": "\u0631.\u0639."
+            }
+        },
+        "languages": {
+            "ara": "Arabic"
+        },
+        "translations": {
+            "ara": "\u0639\u0645\u0627\u0646",
+            "ces": "Om\u00e1n",
+            "cym": "Oman",
+            "deu": "Oman",
+            "est": "Omaan",
+            "fin": "Oman",
+            "fra": "Oman",
+            "hrv": "Oman",
+            "hun": "Om\u00e1n",
+            "ita": "oman",
+            "jpn": "\u30aa\u30de\u30fc\u30f3",
+            "kor": "\uc624\ub9cc",
+            "nld": "Oman",
+            "per": "\u0639\u0645\u0627\u0646",
+            "pol": "Oman",
+            "por": "Om\u00e3",
+            "rus": "\u041e\u043c\u0430\u043d",
+            "slk": "Om\u00e1n",
+            "spa": "Om\u00e1n",
+            "swe": "Oman",
+            "urd": "\u0639\u0645\u0627\u0646",
+            "zho": "\u963f\u66fc"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/om.png",
+            "medium": "https://flagcdn.com/96x72/om.png",
+            "large": "https://flagcdn.com/256x192/om.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

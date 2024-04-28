@@ -1,0 +1,127 @@
+{
+    "bz": {
+        "name": "Belize",
+        "official_name": "Belize",
+        "topLevelDomain": [
+            ".bz"
+        ],
+        "alpha2Code": "BZ",
+        "alpha3Code": "BLZ",
+        "cioc": "BIZ",
+        "numericCode": "084",
+        "callingCode": "+501",
+        "capital": "Belmopan",
+        "altSpellings": [
+            "BZ"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "population": 397621,
+        "latLng": {
+            "country": [
+                17.25,
+                -88.75
+            ],
+            "capital": [
+                17.25,
+                -88.77
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Belizean",
+                "m": "Belizean"
+            },
+            "fra": {
+                "f": "B\u00e9lizienne",
+                "m": "B\u00e9lizien"
+            }
+        },
+        "area": 22966,
+        "gini": {
+            "1999": 53.3
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "borders": [
+            "GTM",
+            "MEX"
+        ],
+        "nativeNames": {
+            "bjz": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "eng": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "spa": {
+                "official": "Belice",
+                "common": "Belice"
+            }
+        },
+        "currencies": {
+            "BZD": {
+                "name": "Belize dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "bjz": "Belizean Creole",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0628\u0644\u064a\u0632",
+            "ces": "Belize",
+            "cym": "Bel\u00ees",
+            "deu": "Belize",
+            "est": "Belize",
+            "fin": "Belize",
+            "fra": "Belize",
+            "hrv": "Belize",
+            "hun": "Belize",
+            "ita": "Belize",
+            "jpn": "\u30d9\u30ea\u30fc\u30ba",
+            "kor": "\ubca8\ub9ac\uc988",
+            "nld": "Belize",
+            "per": "\u0628\u0644\u06cc\u0632",
+            "pol": "Belize",
+            "por": "Belize",
+            "rus": "\u0411\u0435\u043b\u0438\u0437",
+            "slk": "Belize",
+            "spa": "Belice",
+            "swe": "Belize",
+            "urd": "\u0628\u06cc\u0644\u06cc\u0632",
+            "zho": "\u4f2f\u5229\u5179"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bz.png",
+            "medium": "https://flagcdn.com/96x72/bz.png",
+            "large": "https://flagcdn.com/256x192/bz.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communaut\u00e9 Carib\u00e9enne",
+                    "Caribische Gemeenschap"
+                ]
+            },
+            {
+                "acronym": "CAIS",
+                "name": "Central American Integration System",
+                "otherAcronyms": [
+                    "SICA"
+                ],
+                "otherNames": [
+                    "Sistema de la Integraci\u00f3n Centroamericana,"
+                ]
+            }
+        ]
+    }
+}

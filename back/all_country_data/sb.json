@@ -1,0 +1,94 @@
+{
+    "sb": {
+        "name": "Solomon Islands",
+        "official_name": "Solomon Islands",
+        "topLevelDomain": [
+            ".sb"
+        ],
+        "alpha2Code": "SB",
+        "alpha3Code": "SLB",
+        "cioc": "SOL",
+        "numericCode": "090",
+        "callingCode": "+677",
+        "capital": "Honiara",
+        "altSpellings": [
+            "SB"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 686878,
+        "latLng": {
+            "country": [
+                -8,
+                159
+            ],
+            "capital": [
+                -9.43,
+                159.95
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Solomon Islander",
+                "m": "Solomon Islander"
+            },
+            "fra": {
+                "f": "Salomonienne",
+                "m": "Salomonien"
+            }
+        },
+        "area": 28896,
+        "gini": {
+            "2012": 37.1
+        },
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Solomon Islands",
+                "common": "Solomon Islands"
+            }
+        },
+        "currencies": {
+            "SBD": {
+                "name": "Solomon Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0633\u0644\u064a\u0645\u0627\u0646",
+            "ces": "\u0160alamounovy ostrovy",
+            "cym": "Solomon Islands",
+            "deu": "Salomonen",
+            "est": "Saalomoni Saared",
+            "fin": "Salomonsaaret",
+            "fra": "\u00celes Salomon",
+            "hrv": "Solomonski Otoci",
+            "hun": "Salamon-szigetek",
+            "ita": "Isole Salomone",
+            "jpn": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6",
+            "kor": "\uc194\ub85c\ubaac \uc81c\ub3c4",
+            "nld": "Salomonseilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
+            "pol": "Wyspy Salomona",
+            "por": "Ilhas Salom\u00e3o",
+            "rus": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "slk": "Salomonove ostrovy",
+            "spa": "Islas Salom\u00f3n",
+            "swe": "Salomon\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
+            "zho": "\u6240\u7f57\u95e8\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/sb.png",
+            "medium": "https://flagcdn.com/96x72/sb.png",
+            "large": "https://flagcdn.com/256x192/sb.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

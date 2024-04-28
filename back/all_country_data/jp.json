@@ -1,0 +1,96 @@
+{
+    "jp": {
+        "name": "Japan",
+        "official_name": "Japan",
+        "topLevelDomain": [
+            ".jp"
+        ],
+        "alpha2Code": "JP",
+        "alpha3Code": "JPN",
+        "cioc": "JPN",
+        "numericCode": "392",
+        "callingCode": "+81",
+        "capital": "Tokyo",
+        "altSpellings": [
+            "JP",
+            "Nippon",
+            "Nihon"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 125836021,
+        "latLng": {
+            "country": [
+                36,
+                138
+            ],
+            "capital": [
+                35.68,
+                139.75
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Japanese",
+                "m": "Japanese"
+            },
+            "fra": {
+                "f": "Japonaise",
+                "m": "Japonais"
+            }
+        },
+        "area": 377930,
+        "gini": {
+            "2013": 32.9
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "jpn": {
+                "official": "\u65e5\u672c",
+                "common": "\u65e5\u672c"
+            }
+        },
+        "currencies": {
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "\u00a5"
+            }
+        },
+        "languages": {
+            "jpn": "Japanese"
+        },
+        "translations": {
+            "ara": "\u0627\u0644\u064a\u0627\u0628\u0627\u0646",
+            "ces": "Japonsko",
+            "cym": "Japan",
+            "deu": "Japan",
+            "est": "Jaapan",
+            "fin": "Japani",
+            "fra": "Japon",
+            "hrv": "Japan",
+            "hun": "Jap\u00e1n",
+            "ita": "Giappone",
+            "jpn": "\u65e5\u672c",
+            "kor": "\uc77c\ubcf8",
+            "nld": "Japan",
+            "per": "\u0698\u0627\u067e\u0646",
+            "pol": "Japonia",
+            "por": "Jap\u00e3o",
+            "rus": "\u042f\u043f\u043e\u043d\u0438\u044f",
+            "slk": "Japonsko",
+            "spa": "Jap\u00f3n",
+            "swe": "Japan",
+            "urd": "\u062c\u0627\u067e\u0627\u0646",
+            "zho": "\u65e5\u672c"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/jp.png",
+            "medium": "https://flagcdn.com/96x72/jp.png",
+            "large": "https://flagcdn.com/256x192/jp.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "pn": {
+        "name": "Pitcairn Islands",
+        "official_name": "Pitcairn Group of Islands",
+        "topLevelDomain": [
+            ".pn"
+        ],
+        "alpha2Code": "PN",
+        "alpha3Code": "PCN",
+        "cioc": "N/A",
+        "numericCode": "612",
+        "callingCode": "+64",
+        "capital": "Adamstown",
+        "altSpellings": [
+            "PN",
+            "Pitcairn",
+            "Pitcairn Henderson Ducie and Oeno Islands"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 56,
+        "latLng": {
+            "country": [
+                -25.06666666,
+                -130.1
+            ],
+            "capital": [
+                -25.07,
+                -130.08
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Pitcairn Islander",
+                "m": "Pitcairn Islander"
+            },
+            "fra": {
+                "f": "Pitcairnaise",
+                "m": "Pitcairnais"
+            }
+        },
+        "area": 47,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-08:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Pitcairn Group of Islands",
+                "common": "Pitcairn Islands"
+            }
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0628\u064a\u062a\u0643\u064a\u0631\u0646",
+            "ces": "Pitcairnovy ostrovy",
+            "cym": "Pitcairn Islands",
+            "deu": "Pitcairninseln",
+            "est": "Pitcairn",
+            "fin": "Pitcairn",
+            "fra": "\u00celes Pitcairn",
+            "hrv": "Pitcairnovo oto\u010dje",
+            "hun": "Pitcairn-szigetek",
+            "ita": "Isole Pitcairn",
+            "jpn": "\u30d4\u30c8\u30b1\u30a2\u30f3",
+            "kor": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4",
+            "nld": "Pitcairneilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646",
+            "pol": "Pitcairn",
+            "por": "Ilhas Pitcairn",
+            "rus": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041f\u0438\u0442\u043a\u044d\u0440\u043d",
+            "slk": "Pitcairnove ostrovy",
+            "spa": "Islas Pitcairn",
+            "swe": "Pitcairn\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646",
+            "zho": "\u76ae\u7279\u51ef\u6069\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/pn.png",
+            "medium": "https://flagcdn.com/96x72/pn.png",
+            "large": "https://flagcdn.com/256x192/pn.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

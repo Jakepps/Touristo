@@ -1,0 +1,104 @@
+{
+    "mp": {
+        "name": "Northern Mariana Islands",
+        "official_name": "Commonwealth of the Northern Mariana Islands",
+        "topLevelDomain": [
+            ".mp"
+        ],
+        "alpha2Code": "MP",
+        "alpha3Code": "MNP",
+        "cioc": "N/A",
+        "numericCode": "580",
+        "callingCode": "+1670",
+        "capital": "Saipan",
+        "altSpellings": [
+            "MP",
+            "Commonwealth of the Northern Mariana Islands",
+            "Sankattan Siha Na Islas Mari\u00e5nas"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 57557,
+        "latLng": {
+            "country": [
+                15.2,
+                145.75
+            ],
+            "capital": [
+                15.2,
+                145.75
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
+            "fra": {
+                "f": "Am\u00e9ricaine",
+                "m": "Am\u00e9rican"
+            }
+        },
+        "area": 464,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "cal": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            },
+            "cha": {
+                "official": "Sankattan Siha Na Islas Mari\u00e5nas",
+                "common": "Na Islas Mari\u00e5nas"
+            },
+            "eng": {
+                "official": "Commonwealth of the Northern Mariana Islands",
+                "common": "Northern Mariana Islands"
+            }
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "cal": "Carolinian",
+            "cha": "Chamorro",
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0645\u0627\u0631\u064a\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+            "ces": "Severn\u00ed Mariany",
+            "cym": "Northern Mariana Islands",
+            "deu": "N\u00f6rdliche Marianen",
+            "est": "P\u00f5hja-Mariaanid",
+            "fin": "Pohjois-Mariaanit",
+            "fra": "\u00celes Mariannes du Nord",
+            "hrv": "Sjevernomarijanski otoci",
+            "hun": "\u00c9szaki-Mariana-szigetek",
+            "ita": "Isole Marianne Settentrionali",
+            "jpn": "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6",
+            "kor": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4",
+            "nld": "Noordelijke Marianeneilanden",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc",
+            "pol": "Mariany P\u00f3\u0142nocne",
+            "por": "Marianas Setentrionais",
+            "rus": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u041c\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "slk": "Severn\u00e9 Mari\u00e1ny",
+            "spa": "Islas Marianas del Norte",
+            "swe": "Nordmarianerna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627",
+            "zho": "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/mp.png",
+            "medium": "https://flagcdn.com/96x72/mp.png",
+            "large": "https://flagcdn.com/256x192/mp.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

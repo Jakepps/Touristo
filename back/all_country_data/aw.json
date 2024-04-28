@@ -1,0 +1,97 @@
+{
+    "aw": {
+        "name": "Aruba",
+        "official_name": "Aruba",
+        "topLevelDomain": [
+            ".aw"
+        ],
+        "alpha2Code": "AW",
+        "alpha3Code": "ABW",
+        "cioc": "ARU",
+        "numericCode": "533",
+        "callingCode": "+297",
+        "capital": "Oranjestad",
+        "altSpellings": [
+            "AW"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 106766,
+        "latLng": {
+            "country": [
+                12.5,
+                -69.96666666
+            ],
+            "capital": [
+                12.52,
+                -70.03
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Aruban",
+                "m": "Aruban"
+            },
+            "fra": {
+                "f": "Arubaise",
+                "m": "Arubais"
+            }
+        },
+        "area": 180,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "nld": {
+                "official": "Aruba",
+                "common": "Aruba"
+            },
+            "pap": {
+                "official": "Aruba",
+                "common": "Aruba"
+            }
+        },
+        "currencies": {
+            "AWG": {
+                "name": "Aruban florin",
+                "symbol": "\u0192"
+            }
+        },
+        "languages": {
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "translations": {
+            "ara": "\u0623\u0631\u0648\u0628\u0627",
+            "ces": "Aruba",
+            "cym": "Aruba",
+            "deu": "Aruba",
+            "est": "Aruba",
+            "fin": "Aruba",
+            "fra": "Aruba",
+            "hrv": "Aruba",
+            "hun": "Aruba",
+            "ita": "Aruba",
+            "jpn": "\u30a2\u30eb\u30d0",
+            "kor": "\uc544\ub8e8\ubc14",
+            "nld": "Aruba",
+            "per": "\u0622\u0631\u0648\u0628\u0627",
+            "pol": "Aruba",
+            "por": "Aruba",
+            "rus": "\u0410\u0440\u0443\u0431\u0430",
+            "slk": "Aruba",
+            "spa": "Aruba",
+            "swe": "Aruba",
+            "urd": "\u0627\u0631\u0648\u0628\u0627",
+            "zho": "\u963f\u9c81\u5df4"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/aw.png",
+            "medium": "https://flagcdn.com/96x72/aw.png",
+            "large": "https://flagcdn.com/256x192/aw.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

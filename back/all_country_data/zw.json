@@ -1,0 +1,182 @@
+{
+    "zw": {
+        "name": "Zimbabwe",
+        "official_name": "Republic of Zimbabwe",
+        "topLevelDomain": [
+            ".zw"
+        ],
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "cioc": "ZIM",
+        "numericCode": "716",
+        "callingCode": "+263",
+        "capital": "Harare",
+        "altSpellings": [
+            "ZW",
+            "Republic of Zimbabwe"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "population": 14862927,
+        "latLng": {
+            "country": [
+                -20,
+                30
+            ],
+            "capital": [
+                -17.82,
+                31.03
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Zimbabwean",
+                "m": "Zimbabwean"
+            },
+            "fra": {
+                "f": "Zimbabw\u00e9enne",
+                "m": "Zimbabw\u00e9en"
+            }
+        },
+        "area": 390757,
+        "gini": {
+            "2019": 50.3
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BWA",
+            "MOZ",
+            "ZAF",
+            "ZMB"
+        ],
+        "nativeNames": {
+            "bwg": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "eng": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "kck": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "khi": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ndc": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "nde": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "nya": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "sna": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "sot": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "toi": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "tsn": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "tso": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "ven": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "xho": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            },
+            "zib": {
+                "official": "Republic of Zimbabwe",
+                "common": "Zimbabwe"
+            }
+        },
+        "currencies": {
+            "ZWL": {
+                "name": "Zimbabwean dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "bwg": "Chibarwe",
+            "eng": "English",
+            "kck": "Kalanga",
+            "khi": "Khoisan",
+            "ndc": "Ndau",
+            "nde": "Northern Ndebele",
+            "nya": "Chewa",
+            "sna": "Shona",
+            "sot": "Sotho",
+            "toi": "Tonga",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zib": "Zimbabwean Sign Language"
+        },
+        "translations": {
+            "ara": "\u0632\u064a\u0645\u0628\u0627\u0628\u0648\u064a",
+            "ces": "Zimbabwe",
+            "cym": "Zimbabwe",
+            "deu": "Simbabwe",
+            "est": "Zimbabwe",
+            "fin": "Zimbabwe",
+            "fra": "Zimbabwe",
+            "hrv": "Zimbabve",
+            "hun": "Zimbabwe",
+            "ita": "Zimbabwe",
+            "jpn": "\u30b8\u30f3\u30d0\u30d6\u30a8",
+            "kor": "\uc9d0\ubc14\ube0c\uc6e8",
+            "nld": "Zimbabwe",
+            "per": "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647",
+            "pol": "Zimbabwe",
+            "por": "Zimbabwe",
+            "rus": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+            "slk": "Zimbabwe",
+            "spa": "Zimbabue",
+            "swe": "Zimbabwe",
+            "urd": "\u0632\u0645\u0628\u0627\u0628\u0648\u06d2",
+            "zho": "\u6d25\u5df4\u5e03\u97e6"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/zw.png",
+            "medium": "https://flagcdn.com/96x72/zw.png",
+            "large": "https://flagcdn.com/256x192/zw.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

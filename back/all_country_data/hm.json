@@ -1,0 +1,86 @@
+{
+    "hm": {
+        "name": "Heard Island and McDonald Islands",
+        "official_name": "Heard Island and McDonald Islands",
+        "topLevelDomain": [
+            ".hm"
+        ],
+        "alpha2Code": "HM",
+        "alpha3Code": "HMD",
+        "cioc": "N/A",
+        "numericCode": "334",
+        "callingCode": "N/A",
+        "capital": "N/A",
+        "altSpellings": [
+            "HM",
+            "Heard Island and McDonald Islands"
+        ],
+        "region": "Antarctic",
+        "subregion": "N/A",
+        "population": 0,
+        "latLng": {
+            "country": [
+                -53.1,
+                72.51666666
+            ],
+            "capital": "N/A"
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Heard and McDonald Islander",
+                "m": "Heard and McDonald Islander"
+            }
+        },
+        "area": 412,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Heard Island and McDonald Islands",
+                "common": "Heard Island and McDonald Islands"
+            }
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u064a\u0631\u0629 \u0647\u064a\u0631\u062f \u0648\u062c\u0632\u0631 \u0645\u0627\u0643\u062f\u0648\u0646\u0627\u0644\u062f",
+            "ces": "Heard\u016fv ostrov a McDonaldovy ostrovy",
+            "cym": "Heard Island and McDonald Islands",
+            "deu": "Heard und die McDonaldinseln",
+            "est": "Heard ja McDonald",
+            "fin": "Heard ja McDonaldinsaaret",
+            "fra": "\u00celes Heard-et-MacDonald",
+            "hrv": "Otok Heard i oto\u010dje McDonald",
+            "hun": "Heard-sziget \u00e9s McDonald-szigetek",
+            "ita": "Isole Heard e McDonald",
+            "jpn": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
+            "kor": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4",
+            "nld": "Heard-en McDonaldeilanden",
+            "per": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f",
+            "pol": "Wyspy Heard i McDonalda",
+            "por": "Ilha Heard e Ilhas McDonald",
+            "rus": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0435\u0440\u0434 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434",
+            "slk": "Heardov ostrov",
+            "spa": "Islas Heard y McDonald",
+            "swe": "Heard- och McDonald\u00f6arna",
+            "urd": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688",
+            "zho": "\u8d6b\u5fb7\u5c9b\u548c\u9ea6\u5f53\u52b3\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/hm.png",
+            "medium": "https://flagcdn.com/96x72/hm.png",
+            "large": "https://flagcdn.com/256x192/hm.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

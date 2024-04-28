@@ -1,0 +1,139 @@
+{
+    "bo": {
+        "name": "Bolivia",
+        "official_name": "Plurinational State of Bolivia",
+        "topLevelDomain": [
+            ".bo"
+        ],
+        "alpha2Code": "BO",
+        "alpha3Code": "BOL",
+        "cioc": "BOL",
+        "numericCode": "068",
+        "callingCode": "+591",
+        "capital": "Sucre",
+        "altSpellings": [
+            "BO",
+            "Buliwya",
+            "Wuliwya",
+            "Bolivia, Plurinational State of",
+            "Plurinational State of Bolivia",
+            "Estado Plurinacional de Bolivia",
+            "Buliwya Mamallaqta",
+            "Wuliwya Suyu",
+            "Tet\u00e3 Vol\u00edvia"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 11673029,
+        "latLng": {
+            "country": [
+                -17,
+                -65
+            ],
+            "capital": [
+                -19.02,
+                -65.26
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Bolivian",
+                "m": "Bolivian"
+            },
+            "fra": {
+                "f": "Bolivienne",
+                "m": "Bolivien"
+            }
+        },
+        "area": 1098581,
+        "gini": {
+            "2019": 41.6
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [
+            "ARG",
+            "BRA",
+            "CHL",
+            "PRY",
+            "PER"
+        ],
+        "nativeNames": {
+            "aym": {
+                "official": "Wuliwya Suyu",
+                "common": "Wuliwya"
+            },
+            "grn": {
+                "official": "Tet\u00e3 Vol\u00edvia",
+                "common": "Vol\u00edvia"
+            },
+            "que": {
+                "official": "Buliwya Mamallaqta",
+                "common": "Buliwya"
+            },
+            "spa": {
+                "official": "Estado Plurinacional de Bolivia",
+                "common": "Bolivia"
+            }
+        },
+        "currencies": {
+            "BOB": {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        },
+        "languages": {
+            "aym": "Aymara",
+            "grn": "Guaran\u00ed",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": "\u0628\u0648\u0644\u064a\u0641\u064a\u0627",
+            "ces": "Bol\u00edvie",
+            "cym": "Bolifia",
+            "deu": "Bolivien",
+            "est": "Boliivia",
+            "fin": "Bolivia",
+            "fra": "Bolivie",
+            "hrv": "Bolivija",
+            "hun": "Bol\u00edvia",
+            "ita": "Bolivia",
+            "jpn": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd",
+            "kor": "\ubcfc\ub9ac\ube44\uc544",
+            "nld": "Bolivia",
+            "per": "\u0628\u0648\u0644\u06cc\u0648\u06cc",
+            "pol": "Boliwia",
+            "por": "Bol\u00edvia",
+            "rus": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f",
+            "slk": "Bol\u00edvia",
+            "spa": "Bolivia",
+            "swe": "Bolivia",
+            "urd": "\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627",
+            "zho": "\u73bb\u5229\u7ef4\u4e9a"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/bo.png",
+            "medium": "https://flagcdn.com/96x72/bo.png",
+            "large": "https://flagcdn.com/256x192/bo.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Uni\u00f3n de Naciones Suramericanas",
+                    "Uni\u00e3o de Na\u00e7\u00f5es Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ]
+    }
+}

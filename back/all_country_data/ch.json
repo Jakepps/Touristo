@@ -1,0 +1,125 @@
+{
+    "ch": {
+        "name": "Switzerland",
+        "official_name": "Swiss Confederation",
+        "topLevelDomain": [
+            ".ch"
+        ],
+        "alpha2Code": "CH",
+        "alpha3Code": "CHE",
+        "cioc": "SUI",
+        "numericCode": "756",
+        "callingCode": "+41",
+        "capital": "Bern",
+        "altSpellings": [
+            "CH",
+            "Swiss Confederation",
+            "Schweiz",
+            "Suisse",
+            "Svizzera",
+            "Svizra"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 17500657,
+        "latLng": {
+            "country": [
+                47,
+                8
+            ],
+            "capital": [
+                46.92,
+                7.47
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Swiss",
+                "m": "Swiss"
+            },
+            "fra": {
+                "f": "Suisse",
+                "m": "Suisse"
+            }
+        },
+        "area": 41284,
+        "gini": {
+            "2018": 33.1
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "FRA",
+            "ITA",
+            "LIE",
+            "DEU"
+        ],
+        "nativeNames": {
+            "fra": {
+                "official": "Conf\u00e9d\u00e9ration suisse",
+                "common": "Suisse"
+            },
+            "gsw": {
+                "official": "Schweizerische Eidgenossenschaft",
+                "common": "Schweiz"
+            },
+            "ita": {
+                "official": "Confederazione Svizzera",
+                "common": "Svizzera"
+            },
+            "roh": {
+                "official": "Confederaziun svizra",
+                "common": "Svizra"
+            }
+        },
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr."
+            }
+        },
+        "languages": {
+            "fra": "French",
+            "gsw": "Swiss German",
+            "ita": "Italian",
+            "roh": "Romansh"
+        },
+        "translations": {
+            "ara": "\u0633\u0648\u064a\u0633\u0631\u0627",
+            "ces": "\u0160v\u00fdcarsko",
+            "cym": "Switzerland",
+            "deu": "Schweiz",
+            "est": "\u0160veits",
+            "fin": "Sveitsi",
+            "fra": "Suisse",
+            "hrv": "\u0160vicarska",
+            "hun": "Sv\u00e1jc",
+            "ita": "Svizzera",
+            "jpn": "\u30b9\u30a4\u30b9",
+            "kor": "\uc2a4\uc704\uc2a4",
+            "nld": "Zwitserland",
+            "per": "\u0633\u0648\u0626\u06cc\u0633",
+            "pol": "Szwajcaria",
+            "por": "Su\u00ed\u00e7a",
+            "rus": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+            "slk": "\u0160vaj\u010diarsko",
+            "spa": "Suiza",
+            "swe": "Schweiz",
+            "urd": "\u0633\u0648\u06cc\u0679\u0630\u0631\u0644\u06cc\u0646\u0688",
+            "zho": "\u745e\u58eb"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ch.png",
+            "medium": "https://flagcdn.com/96x72/ch.png",
+            "large": "https://flagcdn.com/256x192/ch.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EFTA",
+                "name": "European Free Trade Association"
+            }
+        ]
+    }
+}

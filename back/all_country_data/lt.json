@@ -1,0 +1,106 @@
+{
+    "lt": {
+        "name": "Lithuania",
+        "official_name": "Republic of Lithuania",
+        "topLevelDomain": [
+            ".lt"
+        ],
+        "alpha2Code": "LT",
+        "alpha3Code": "LTU",
+        "cioc": "LTU",
+        "numericCode": "440",
+        "callingCode": "+370",
+        "capital": "Vilnius",
+        "altSpellings": [
+            "LT",
+            "Republic of Lithuania",
+            "Lietuvos Respublika"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 2794700,
+        "latLng": {
+            "country": [
+                56,
+                24
+            ],
+            "capital": [
+                54.68,
+                25.32
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Lithuanian",
+                "m": "Lithuanian"
+            },
+            "fra": {
+                "f": "Lituanienne",
+                "m": "Lituanien"
+            }
+        },
+        "area": 65300,
+        "gini": {
+            "2018": 35.7
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BLR",
+            "LVA",
+            "POL",
+            "RUS"
+        ],
+        "nativeNames": {
+            "lit": {
+                "official": "Lietuvos Respublikos",
+                "common": "Lietuva"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "lit": "Lithuanian"
+        },
+        "translations": {
+            "ara": "\u0644\u064a\u062a\u0648\u0627\u0646\u064a\u0627",
+            "ces": "Litva",
+            "cym": "Lithuania",
+            "deu": "Litauen",
+            "est": "Leedu",
+            "fin": "Liettua",
+            "fra": "Lituanie",
+            "hrv": "Litva",
+            "hun": "Litv\u00e1nia",
+            "ita": "Lituania",
+            "jpn": "\u30ea\u30c8\u30a2\u30cb\u30a2",
+            "kor": "\ub9ac\ud22c\uc544\ub2c8\uc544",
+            "nld": "Litouwen",
+            "per": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627\u06cc\u06cc\u200c\u0647\u0627",
+            "pol": "Litwa",
+            "por": "Litu\u00e2nia",
+            "rus": "\u041b\u0438\u0442\u0432\u0430",
+            "slk": "Litva",
+            "spa": "Lituania",
+            "swe": "Litauen",
+            "urd": "\u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627",
+            "zho": "\u7acb\u9676\u5b9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/lt.png",
+            "medium": "https://flagcdn.com/96x72/lt.png",
+            "large": "https://flagcdn.com/256x192/lt.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "fo": {
+        "name": "Faroe Islands",
+        "official_name": "Faroe Islands",
+        "topLevelDomain": [
+            ".fo"
+        ],
+        "alpha2Code": "FO",
+        "alpha3Code": "FRO",
+        "cioc": "N/A",
+        "numericCode": "234",
+        "callingCode": "+298",
+        "capital": "T\u00f3rshavn",
+        "altSpellings": [
+            "FO",
+            "F\u00f8royar",
+            "F\u00e6r\u00f8erne"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 48865,
+        "latLng": {
+            "country": [
+                62,
+                -7
+            ],
+            "capital": [
+                62.01,
+                -6.77
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Faroese",
+                "m": "Faroese"
+            },
+            "fra": {
+                "f": "F\u00e9ro\u00efenne",
+                "m": "F\u00e9ro\u00efen"
+            }
+        },
+        "area": 1393,
+        "gini": "Not Available",
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "dan": {
+                "official": "F\u00e6r\u00f8erne",
+                "common": "F\u00e6r\u00f8erne"
+            },
+            "fao": {
+                "official": "F\u00f8royar",
+                "common": "F\u00f8royar"
+            }
+        },
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            },
+            "FOK": {
+                "name": "Faroese kr\u00f3na",
+                "symbol": "kr"
+            }
+        },
+        "languages": {
+            "dan": "Danish",
+            "fao": "Faroese"
+        },
+        "translations": {
+            "ara": "\u062c\u0632\u0631 \u0641\u0627\u0631\u0648",
+            "ces": "Faersk\u00e9 ostrovy",
+            "cym": "Faroe Islands",
+            "deu": "F\u00e4r\u00f6er-Inseln",
+            "est": "F\u00e4\u00e4ri saared",
+            "fin": "F\u00e4rsaaret",
+            "fra": "\u00celes F\u00e9ro\u00e9",
+            "hrv": "Farski Otoci",
+            "hun": "Fer\u00f6er",
+            "ita": "Isole Far Oer",
+            "jpn": "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6",
+            "kor": "\ud398\ub85c \uc81c\ub3c4",
+            "nld": "Faer\u00f6er",
+            "per": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648\u0626\u0647",
+            "pol": "Wyspy Owcze",
+            "por": "Ilhas Faro\u00e9",
+            "rus": "\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "slk": "Faersk\u00e9 ostrovy",
+            "spa": "Islas Faroe",
+            "swe": "F\u00e4r\u00f6arna",
+            "urd": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648",
+            "zho": "\u6cd5\u7f57\u7fa4\u5c9b"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/fo.png",
+            "medium": "https://flagcdn.com/96x72/fo.png",
+            "large": "https://flagcdn.com/256x192/fo.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}

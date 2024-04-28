@@ -1,0 +1,108 @@
+{
+    "it": {
+        "name": "Italy",
+        "official_name": "Italian Republic",
+        "topLevelDomain": [
+            ".it"
+        ],
+        "alpha2Code": "IT",
+        "alpha3Code": "ITA",
+        "cioc": "ITA",
+        "numericCode": "380",
+        "callingCode": "+39",
+        "capital": "Rome",
+        "altSpellings": [
+            "IT",
+            "Italian Republic",
+            "Repubblica italiana"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 59554023,
+        "latLng": {
+            "country": [
+                42.83333333,
+                12.83333333
+            ],
+            "capital": [
+                41.9,
+                12.48
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Italian",
+                "m": "Italian"
+            },
+            "fra": {
+                "f": "Italienne",
+                "m": "Italien"
+            }
+        },
+        "area": 301336,
+        "gini": {
+            "2017": 35.9
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "FRA",
+            "SMR",
+            "SVN",
+            "CHE",
+            "VAT"
+        ],
+        "nativeNames": {
+            "ita": {
+                "official": "Repubblica italiana",
+                "common": "Italia"
+            }
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
+        "languages": {
+            "ita": "Italian"
+        },
+        "translations": {
+            "ara": "\u0625\u064a\u0637\u0627\u0644\u064a\u0627",
+            "ces": "It\u00e1lie",
+            "cym": "Italy",
+            "deu": "Italien",
+            "est": "Itaalia",
+            "fin": "Italia",
+            "fra": "Italie",
+            "hrv": "Italija",
+            "hun": "Olaszorsz\u00e1g",
+            "ita": "Italia",
+            "jpn": "\u30a4\u30bf\u30ea\u30a2",
+            "kor": "\uc774\ud0c8\ub9ac\uc544",
+            "nld": "Itali\u00eb",
+            "per": "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627",
+            "pol": "W\u0142ochy",
+            "por": "It\u00e1lia",
+            "rus": "\u0418\u0442\u0430\u043b\u0438\u044f",
+            "slk": "Taliansko",
+            "spa": "Italia",
+            "swe": "Italien",
+            "urd": "\u0627\u0637\u0627\u0644\u06cc\u06c1",
+            "zho": "\u610f\u5927\u5229"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/it.png",
+            "medium": "https://flagcdn.com/96x72/it.png",
+            "large": "https://flagcdn.com/256x192/it.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ]
+    }
+}

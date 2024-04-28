@@ -1,0 +1,119 @@
+{
+    "ps": {
+        "name": "Palestine",
+        "official_name": "State of Palestine",
+        "topLevelDomain": [
+            ".ps"
+        ],
+        "alpha2Code": "PS",
+        "alpha3Code": "PSE",
+        "cioc": "PLE",
+        "numericCode": "275",
+        "callingCode": "+970",
+        "capital": "Ramallah",
+        "altSpellings": [
+            "PS",
+            "Palestine, State of",
+            "State of Palestine",
+            "Dawlat Filas\u1e6din"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 4803269,
+        "latLng": {
+            "country": [
+                31.9,
+                35.2
+            ],
+            "capital": [
+                31.9,
+                35.2
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Palestinian",
+                "m": "Palestinian"
+            },
+            "fra": {
+                "f": "Palestinienne",
+                "m": "Palestinien"
+            }
+        },
+        "area": 6220,
+        "gini": {
+            "2016": 33.7
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "ISR",
+            "EGY",
+            "JOR"
+        ],
+        "nativeNames": {
+            "ara": {
+                "official": "\u062f\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
+                "common": "\u0641\u0644\u0633\u0637\u064a\u0646"
+            }
+        },
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "E\u00a3"
+            },
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\u20aa"
+            },
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "JD"
+            }
+        },
+        "languages": {
+            "ara": "Arabic"
+        },
+        "translations": {
+            "ara": "\u0641\u0644\u0633\u0637\u064a\u0646",
+            "ces": "Palestina",
+            "cym": "Palestine",
+            "deu": "Pal\u00e4stina",
+            "est": "Palestiina",
+            "fin": "Palestiina",
+            "fra": "Palestine",
+            "hrv": "Palestina",
+            "hun": "Palesztina",
+            "ita": "Palestina",
+            "jpn": "\u30d1\u30ec\u30b9\u30c1\u30ca",
+            "kor": "\ud314\ub808\uc2a4\ud0c0\uc778",
+            "nld": "Palestijnse gebieden",
+            "per": "\u0641\u0644\u0633\u0637\u06cc\u0646",
+            "pol": "Palestyna",
+            "por": "Palestina",
+            "rus": "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430",
+            "slk": "Palest\u00edna",
+            "spa": "Palestina",
+            "swe": "Palestina",
+            "urd": "\u0641\u0644\u0633\u0637\u06cc\u0646",
+            "zho": "\u5df4\u52d2\u65af\u5766"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/ps.png",
+            "medium": "https://flagcdn.com/96x72/ps.png",
+            "large": "https://flagcdn.com/256x192/ps.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherNames": [
+                    "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                    "J\u0101mi\u02bbat ad-Duwal al-\u02bbArab\u012byah",
+                    "League of Arab States"
+                ]
+            }
+        ]
+    }
+}

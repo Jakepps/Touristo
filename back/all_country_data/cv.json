@@ -1,0 +1,108 @@
+{
+    "cv": {
+        "name": "Cape Verde",
+        "official_name": "Republic of Cabo Verde",
+        "topLevelDomain": [
+            ".cv"
+        ],
+        "alpha2Code": "CV",
+        "alpha3Code": "CPV",
+        "cioc": "CPV",
+        "numericCode": "132",
+        "callingCode": "+238",
+        "capital": "Praia",
+        "altSpellings": [
+            "CV",
+            "Republic of Cabo Verde",
+            "Rep\u00fablica de Cabo Verde"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "population": 555988,
+        "latLng": {
+            "country": [
+                16,
+                -24
+            ],
+            "capital": [
+                14.92,
+                -23.52
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Cape Verdian",
+                "m": "Cape Verdian"
+            },
+            "fra": {
+                "f": "Cap-verdienne",
+                "m": "Cap-verdien"
+            }
+        },
+        "area": 4033,
+        "gini": {
+            "2015": 42.4
+        },
+        "timezones": [
+            "UTC-01:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "por": {
+                "official": "Rep\u00fablica de Cabo Verde",
+                "common": "Cabo Verde"
+            }
+        },
+        "currencies": {
+            "CVE": {
+                "name": "Cape Verdean escudo",
+                "symbol": "Esc"
+            }
+        },
+        "languages": {
+            "por": "Portuguese"
+        },
+        "translations": {
+            "ara": "\u0643\u0627\u0628\u0648 \u0641\u064a\u0631\u062f\u064a",
+            "ces": "Kapverdy",
+            "cym": "Penrhyn Verde",
+            "deu": "Kap Verde",
+            "est": "Roheneemesaared",
+            "fin": "Kap Verde",
+            "fra": "\u00celes du Cap-Vert",
+            "hrv": "Zelenortska Republika",
+            "hun": "Z\u00f6ld-foki K\u00f6zt\u00e1rsas\u00e1g",
+            "ita": "Capo Verde",
+            "jpn": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7",
+            "kor": "\uce74\ubcf4\ubca0\ub974\ub370",
+            "nld": "Kaapverdi\u00eb",
+            "per": "\u062f\u0645\u0627\u063a\u0647\u0654 \u0633\u0628\u0632",
+            "pol": "Republika Zielonego Przyl\u0105dka",
+            "por": "Cabo Verde",
+            "rus": "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435",
+            "slk": "Kapverdy",
+            "spa": "Cabo Verde",
+            "swe": "Kap Verde",
+            "urd": "\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc",
+            "zho": "\u4f5b\u5f97\u89d2"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/cv.png",
+            "medium": "https://flagcdn.com/96x72/cv.png",
+            "large": "https://flagcdn.com/256x192/cv.png"
+        },
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a",
+                    "Union africaine",
+                    "Uni\u00e3o Africana",
+                    "Uni\u00f3n Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ]
+    }
+}

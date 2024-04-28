@@ -1,0 +1,108 @@
+{
+    "fj": {
+        "name": "Fiji",
+        "official_name": "Republic of Fiji",
+        "topLevelDomain": [
+            ".fj"
+        ],
+        "alpha2Code": "FJ",
+        "alpha3Code": "FJI",
+        "cioc": "FIJ",
+        "numericCode": "242",
+        "callingCode": "+679",
+        "capital": "Suva",
+        "altSpellings": [
+            "FJ",
+            "Viti",
+            "Republic of Fiji",
+            "Matanitu ko Viti",
+            "Fij\u012b Ga\u1e47ar\u0101jya"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 896444,
+        "latLng": {
+            "country": [
+                -18,
+                175
+            ],
+            "capital": [
+                -18.13,
+                178.42
+            ]
+        },
+        "demonyms": {
+            "eng": {
+                "f": "Fijian",
+                "m": "Fijian"
+            },
+            "fra": {
+                "f": "Fidjienne",
+                "m": "Fidjien"
+            }
+        },
+        "area": 18272,
+        "gini": {
+            "2013": 36.7
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "borders": "N/A",
+        "nativeNames": {
+            "eng": {
+                "official": "Republic of Fiji",
+                "common": "Fiji"
+            },
+            "fij": {
+                "official": "Matanitu Tugalala o Viti",
+                "common": "Viti"
+            },
+            "hif": {
+                "official": "\u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915 \u0911\u092b \u092b\u0940\u091c\u0940",
+                "common": "\u092b\u093f\u091c\u0940"
+            }
+        },
+        "currencies": {
+            "FJD": {
+                "name": "Fijian dollar",
+                "symbol": "$"
+            }
+        },
+        "languages": {
+            "eng": "English",
+            "fij": "Fijian",
+            "hif": "Fiji Hindi"
+        },
+        "translations": {
+            "ara": "\u0641\u064a\u062c\u064a",
+            "ces": "Fid\u017ei",
+            "cym": "Fiji",
+            "deu": "Fidschi",
+            "est": "Fid\u017ei",
+            "fin": "Fid\u017ei",
+            "fra": "Fidji",
+            "hrv": "Fi\u0111i",
+            "hun": "Fidzsi-szigetek",
+            "ita": "Figi",
+            "jpn": "\u30d5\u30a3\u30b8\u30fc",
+            "kor": "\ud53c\uc9c0",
+            "nld": "Fiji",
+            "per": "\u0641\u06cc\u062c\u06cc",
+            "pol": "Fid\u017ci",
+            "por": "Fiji",
+            "rus": "\u0424\u0438\u0434\u0436\u0438",
+            "slk": "Fi\u01c6i",
+            "spa": "Fiyi",
+            "swe": "Fiji",
+            "urd": "\u0641\u062c\u06cc",
+            "zho": "\u6590\u6d4e"
+        },
+        "flag": {
+            "small": "https://flagcdn.com/24x18/fj.png",
+            "medium": "https://flagcdn.com/96x72/fj.png",
+            "large": "https://flagcdn.com/256x192/fj.png"
+        },
+        "regionalBlocs": "N/A"
+    }
+}
