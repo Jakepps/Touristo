@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
 import 'profile.dart';
 import 'love.dart';
 import 'search.dart';
@@ -102,10 +103,32 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ],
       ),
+      floatingActionButton: _selectedIndex == 0
+          ? FloatingActionButton(
+              onPressed: _testConnection,
+              tooltip: 'Тест соединения',
+              child: const Icon(Icons.network_check),
+            )
+          : null,
     );
   }
 
-  // Метод для отображения соответствующего контента в зависимости от выбранного элемента
+  void _testConnection() async {
+    var httpUri = Uri(
+      scheme: 'http',
+      host: '10.0.2.2', //это локальный адрес сервера для эмулятора андроид
+      port: 5000,
+      path: '/api/country',
+    );
+    final response =
+        await http.get(httpUri, headers: {'Content-Type': 'application/json'});
+    if (response.statusCode == 200) {
+      print('Соединение успешно!');
+    } else {
+      print('Ошибка при тестировании соединения: ${response.statusCode}');
+    }
+  }
+
   Widget _getBody(int index) {
     switch (index) {
       case 0:
