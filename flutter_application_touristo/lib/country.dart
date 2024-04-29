@@ -15,6 +15,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   var region = '';
   var subregion = '';
   var officialName = '';
+  var flagURL = '';
 
   @override
   void initState() {
@@ -41,6 +42,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
           region = data[countryCode]['region'];
           subregion = data[countryCode]['subregion'];
           officialName = data[countryCode]['official_name'];
+          flagURL = data[countryCode]['flag']['large'];
         });
       } else {
         throw Exception('Failed to load country data');
@@ -323,8 +325,8 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
             Row(
               children: [
                 CircleAvatar(
-                  backgroundImage:
-                      AssetImage('assets/images/${widget.countryName}.jpg'),
+                  backgroundImage: NetworkImage(flagURL),
+                  //AssetImage('assets/images/${widget.countryName}.jpg'),
                   radius: 30,
                 ),
                 const SizedBox(width: 20),
