@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-import 'dart:convert';
+import 'country.dart';
 
 class SearchResultsScreen extends StatelessWidget {
   final String countryName;
@@ -328,22 +327,10 @@ class SearchResultsScreen extends StatelessWidget {
       return;
     }
 
-    var httpUri = Uri(
-      scheme: 'http',
-      host: '10.0.2.2', //это локальный адрес сервера для эмулятора андроид
-      port: 5000,
-      path: '/api/country/$countryCode',
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+          builder: (context) => CountryDetailsScreen(countryName: countryName)),
     );
-    final response =
-        await http.get(httpUri, headers: {'Content-Type': 'application/json'});
-
-    if (response.statusCode == 200) {
-      // Обработка успешного ответа
-      print(json.decode(response.body));
-      // Добавьте вашу логику обработки данных здесь
-    } else {
-      // Обработка ошибки
-      print('Request failed with status: ${response.statusCode}');
-    }
   }
 }
