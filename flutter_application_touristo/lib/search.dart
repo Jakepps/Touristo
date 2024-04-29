@@ -223,8 +223,11 @@ class SearchResultsScreen extends StatelessWidget {
     'Лесото': 'ls',
     'Мартиника': 'mq',
     'Соединенные Штаты Америки': 'us',
+    'Америка': 'us',
+    'США': 'us',
     'Западная Сахара': 'eh',
     'Объединенные Арабские Эмираты': 'ae',
+    'ОАЭ': 'ae',
     'Мозамбик': 'mz',
     'Алжир': 'dz',
     'Замбия': 'zm',
@@ -261,7 +264,8 @@ class SearchResultsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final countryCode = countryCodes[countryName] ?? countryName;
+    final trimmedCountryName = countryName.trim();
+    final countryCode = countryCodes[trimmedCountryName] ?? trimmedCountryName;
 
     return Scaffold(
       appBar: AppBar(
@@ -271,7 +275,7 @@ class SearchResultsScreen extends StatelessWidget {
             Navigator.pop(context);
           },
         ),
-        title: Text('Результаты поиска: $countryName'),
+        title: Text('Результаты поиска: $trimmedCountryName'),
       ),
       body: Center(
         child: Padding(
@@ -290,7 +294,7 @@ class SearchResultsScreen extends StatelessWidget {
                 ),
                 const SizedBox(height: 20),
                 Text(
-                  countryName,
+                  trimmedCountryName,
                   style: const TextStyle(fontSize: 30),
                 ),
               ],
@@ -330,7 +334,8 @@ class SearchResultsScreen extends StatelessWidget {
     Navigator.push(
       context,
       MaterialPageRoute(
-          builder: (context) => CountryDetailsScreen(countryName: countryName)),
+          builder: (context) =>
+              CountryDetailsScreen(countryName: countryName.trim())),
     );
   }
 }

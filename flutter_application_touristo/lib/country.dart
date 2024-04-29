@@ -38,9 +38,9 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
         setState(() {
-          region = data['ru']['region'];
-          subregion = data['ru']['subregion'];
-          officialName = data['ru']['official_name'];
+          region = data[countryCode]['region'];
+          subregion = data[countryCode]['subregion'];
+          officialName = data[countryCode]['official_name'];
         });
       } else {
         throw Exception('Failed to load country data');
@@ -268,8 +268,11 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       'Лесото': 'ls',
       'Мартиника': 'mq',
       'Соединенные Штаты Америки': 'us',
+      'Америка': 'us',
+      'США': 'us',
       'Западная Сахара': 'eh',
       'Объединенные Арабские Эмираты': 'ae',
+      'ОАЭ': 'ae',
       'Мозамбик': 'mz',
       'Алжир': 'dz',
       'Замбия': 'zm',
