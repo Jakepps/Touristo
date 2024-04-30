@@ -147,30 +147,13 @@ class _MyHomePageState extends State<MyHomePage> {
                   left: null,
                   bottom: MediaQuery.of(context).size.height / 2 - 22.5,
                   right: MediaQuery.of(context).size.width / 2 - 24.5,
-                  child: Container(
-                    width: 49,
-                    height: 45,
-                    decoration: const BoxDecoration(
-                      image: DecorationImage(
-                        image: AssetImage('assets/images/elipse.png'),
-                        fit: BoxFit.scaleDown,
-                      ),
-                    ),
-                  ),
-                ),
-                Positioned(
-                  top: null,
-                  left: null,
-                  bottom: MediaQuery.of(context).size.height / 2 - 22.5,
-                  right: MediaQuery.of(context).size.width / 2 - 24.5,
-                  child: Container(
-                    width: 49,
-                    height: 45,
-                    decoration: const BoxDecoration(
-                      image: DecorationImage(
-                        image: AssetImage('assets/images/Country.png'),
-                        fit: BoxFit.scaleDown,
-                      ),
+                  child: const CircleAvatar(
+                    backgroundColor: Color.fromARGB(255, 127, 148, 166),
+                    radius: 25,
+                    child: Icon(
+                      Icons.place,
+                      size: 30,
+                      color: Colors.white,
                     ),
                   ),
                 ),
