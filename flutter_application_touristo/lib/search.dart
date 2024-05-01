@@ -103,24 +103,28 @@ class SearchResultsScreen extends StatelessWidget {
             body: Center(
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
-                child: GestureDetector(
-                  onTap: () {
-                    _fetchCountryDetails(countryCodes, context);
-                  },
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.start,
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      const Icon(
-                        Icons.map,
-                        size: 40,
-                      ),
-                      const SizedBox(width: 20),
-                      Text(
-                        countryName.trim(),
-                        style: const TextStyle(fontSize: 30),
-                      ),
-                    ],
+                child: SingleChildScrollView(
+                  child: GestureDetector(
+                    onTap: () {
+                      _fetchCountryDetails(countryCodes, context);
+                    },
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.start,
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const Icon(
+                          Icons.map,
+                          size: 40,
+                        ),
+                        const SizedBox(width: 20),
+                        Expanded(
+                          child: Text(
+                            countryName.trim(),
+                            style: const TextStyle(fontSize: 30),
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
                 ),
               ),

@@ -44,73 +44,10 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
         setState(() {
-          //общая информация о стране
-          inf =
-              'Альфа-коды ${widget.countryName}: ${data[countryCode]['alpha2Code']}, ${data[countryCode]['alpha3Code']}.\n';
-          inf +=
-              'Столицей страны является город ${data[countryCode]['capital']}.\n';
-
-          final currencies = data[countryCode]['currencies'];
-          final currencyCode = currencies.keys.first;
-          inf +=
-              'Валютой является ${currencies[currencyCode]['name']} - ${currencyCode.toString()} (${currencies[currencyCode]['symbol']})';
-
-          final languages = data[countryCode]['languages'];
-          final languageNames = languages.values.toList();
-          if (languageNames.length > 1) {
-            final languageString = languageNames.join(', ');
-            inf += ', а государственными языками являются $languageString.\n';
-          } else if (languageNames.length == 1) {
-            inf += ', а государственным языком является ${languageNames[0]}.\n';
-          }
-
-          final timezones = data[countryCode]['timezones'];
-          inf +=
-              '${widget.countryName} находится в ${timezones.length} часовых поясах, а именно: ${timezones.join(', ')}.';
-
-          //интересные факты
-          facts +=
-              '${widget.countryName} граничит с ${data[countryCode]['borders'].length} странами, а именно: ${data[countryCode]['borders'].join(', ')}.\n';
-
-          facts +=
-              'На данный момент в стране проживает ${data[countryCode]['population']} человек!\n';
-
-          final gini = data[countryCode]['gini'];
-          final giniValue = gini[gini.keys.first];
-
-          String giniInfo = '';
-
-          if (giniValue < 30) {
-            giniInfo =
-                'Этот низкий уровень неравенства указывает на высокий уровень равенства в распределении доходов страны.';
-          } else if (giniValue >= 30 && giniValue < 40) {
-            giniInfo =
-                'Этот уровень неравенства указывает на умеренное неравенство в распределении доходов страны.';
-          } else if (giniValue >= 40 && giniValue < 50) {
-            giniInfo =
-                'Этот уровень неравенства указывает на значительное неравенство в распределении доходов страны.';
-          } else {
-            giniInfo =
-                'Этот высокий уровень неравенства указывает на значительные социальные и экономические неравенства в стране.';
-          }
-          facts +=
-              'А вы знали, что на момент ${gini.keys.first} г. ${widget.countryName} имеет коэффициент Джини равный $giniValue. $giniInfo';
-
-          //Советы
-          tips =
-              'Не знаете какой домен в сети Интернет? ${widget.countryName} имеет домен: ${data[countryCode]['topLevelDomain'].join(', ')}\n';
-          tips +=
-              'Телефонный код? Запросто! ${widget.countryName} имеет телефоный код: ${data[countryCode]['callingCode']}.\n';
-
-          final translations =
-              data[widget.countryCodes[widget.countryName]]['translations'];
-
-          translations.forEach((language, translation) {
-            tips += 'На ${_getLanguageName(language)}: $translation \n';
-          });
-
-          //флаг
-          flagURL = data[countryCode]['flag']['large'];
+          _buildCountryInfo(data, countryCode!);
+          _buildInterestingFacts(data, countryCode);
+          _buildTravelTips(data, countryCode);
+          _buildFlagURL(data, countryCode);
         });
       } else {
         throw Exception('Failed to load country data');
@@ -118,6 +55,81 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     } catch (e) {
       print('Error fetching country data: $e');
     }
+  }
+
+  void _buildCountryInfo(Map<String, dynamic> data, String countryCode) {
+    // Общая информация о стране
+    inf =
+        '• Альфа-коды ${widget.countryName}: ${data[countryCode]['alpha2Code']}, ${data[countryCode]['alpha3Code']}.\n\n';
+    inf +=
+        '• Столицей страны является город ${data[countryCode]['capital']}.\n\n';
+
+    final currencies = data[countryCode]['currencies'];
+    final currencyCode = currencies.keys.first;
+    inf +=
+        '• Валютой является ${currencies[currencyCode]['name']} - ${currencyCode.toString()} (${currencies[currencyCode]['symbol']})';
+
+    final languages = data[countryCode]['languages'];
+    final languageNames = languages.values.toList();
+    if (languageNames.length > 1) {
+      final languageString = languageNames.join(', ');
+      inf += ', а государственными языками являются $languageString.\n\n';
+    } else if (languageNames.length == 1) {
+      inf += ', а государственным языком является ${languageNames[0]}.\n\n';
+    }
+
+    final timezones = data[countryCode]['timezones'];
+    inf +=
+        '• ${widget.countryName} находится в ${timezones.length} часовых поясах, а именно: ${timezones.join(', ')}.';
+  }
+
+  void _buildInterestingFacts(Map<String, dynamic> data, String countryCode) {
+    // Интересные факты
+    facts =
+        '• ${widget.countryName} граничит с ${data[countryCode]['borders'].length} странами, а именно: ${data[countryCode]['borders'].join(', ')}.\n\n';
+    facts +=
+        '• На данный момент в стране проживает ${data[countryCode]['population']} человек!\n\n';
+
+    final gini = data[countryCode]['gini'];
+    final giniValue = gini[gini.keys.first];
+
+    String giniInfo = '';
+
+    if (giniValue < 30) {
+      giniInfo =
+          'Этот низкий уровень неравенства указывает на высокий уровень равенства в распределении доходов страны.';
+    } else if (giniValue >= 30 && giniValue < 40) {
+      giniInfo =
+          'Этот уровень неравенства указывает на умеренное неравенство в распределении доходов страны.';
+    } else if (giniValue >= 40 && giniValue < 50) {
+      giniInfo =
+          'Этот уровень неравенства указывает на значительное неравенство в распределении доходов страны.';
+    } else {
+      giniInfo =
+          'Этот высокий уровень неравенства указывает на значительные социальные и экономические неравенства в стране.';
+    }
+    facts +=
+        '• А вы знали, что на момент ${gini.keys.first} г. ${widget.countryName} имеет коэффициент Джини равный $giniValue. $giniInfo';
+  }
+
+  void _buildTravelTips(Map<String, dynamic> data, String countryCode) {
+    // Советы
+    tips =
+        '• Не знаете какой домен в сети Интернет? ${widget.countryName} имеет домен: ${data[countryCode]['topLevelDomain'].join(', ')}\n\n';
+    tips +=
+        '• Телефонный код? Запросто! ${widget.countryName} имеет телефоный код: ${data[countryCode]['callingCode']}.\n\n';
+    tips += '• Название страны на различных языках: \n';
+    final translations =
+        data[widget.countryCodes[widget.countryName]]['translations'];
+
+    translations.forEach((language, translation) {
+      tips += 'На ${_getLanguageName(language)}: $translation \n';
+    });
+  }
+
+  void _buildFlagURL(Map<String, dynamic> data, String countryCode) {
+    // Флаг
+    flagURL = data[countryCode]['flag']['large'];
   }
 
   @override
@@ -140,12 +152,18 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                     radius: 30,
                   ),
                   const SizedBox(width: 20),
-                  Text(
-                    widget.countryName,
-                    style: const TextStyle(
-                        fontSize: 24, fontWeight: FontWeight.bold),
+                  Expanded(
+                    child: SingleChildScrollView(
+                      scrollDirection: Axis.horizontal,
+                      child: Text(
+                        widget.countryName,
+                        style: const TextStyle(
+                          fontSize: 24,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
                   ),
-                  const Spacer(),
                   IconButton(
                     icon: const Icon(Icons.favorite_border),
                     onPressed: () {
@@ -200,7 +218,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
         final List<String> parts = line.split(':');
         final String key = parts[0].trim().replaceAll('\'', '');
         final String value = parts[1].trim().replaceAll('\'', '');
-        languageNames[key] = value;
+        languageNames[key] = value.replaceAll(',', '');
       }
     } catch (e) {
       print('Error loading language names: $e');
