@@ -184,13 +184,21 @@ class _MyHomePageState extends State<MyHomePage> {
                       //кнопка поиска
                       ElevatedButton(
                         onPressed: () {
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => SearchResultsScreen(
-                                  countryName: _searchController.text),
-                            ),
-                          );
+                          final searchText = _searchController.text.trim();
+                          if (searchText.isEmpty) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                                const SnackBar(
+                                    content: Text(
+                                        'Пожалуйста, введите название страны')));
+                          } else {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => SearchResultsScreen(
+                                    countryName: _searchController.text),
+                              ),
+                            );
+                          }
                         },
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.black,
