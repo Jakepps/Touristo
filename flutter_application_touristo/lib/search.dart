@@ -45,6 +45,51 @@ class SearchResultsScreen extends StatelessWidget {
         } else {
           Map<String, String> countryCodes = snapshot.data!;
 
+          if (!countryCodes.containsKey(countryName.trim())) {
+            return Scaffold(
+              appBar: AppBar(
+                leading: IconButton(
+                  icon: const Icon(Icons.arrow_back),
+                  onPressed: () {
+                    Navigator.pop(context);
+                  },
+                ),
+                title: Text('Результаты поиска: ${countryName.trim()}'),
+              ),
+              body: Center(
+                child: Padding(
+                  padding: const EdgeInsets.all(20.0),
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      const Icon(
+                        Icons.error,
+                        size: 40,
+                        color: Colors.red,
+                      ),
+                      const SizedBox(height: 20),
+                      Text(
+                        'Не смогли найти ${countryName.trim()}.',
+                        style: const TextStyle(fontSize: 20),
+                      ),
+                      const SizedBox(height: 10),
+                      TextButton(
+                        onPressed: () {
+                          Navigator.pop(context);
+                        },
+                        child: Text(
+                          'Повторить попытку',
+                          style:
+                              TextStyle(color: Theme.of(context).primaryColor),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            );
+          }
+
           return Scaffold(
             appBar: AppBar(
               leading: IconButton(
@@ -70,7 +115,7 @@ class SearchResultsScreen extends StatelessWidget {
                         Icons.map,
                         size: 40,
                       ),
-                      const SizedBox(height: 20),
+                      const SizedBox(width: 20),
                       Text(
                         countryName.trim(),
                         style: const TextStyle(fontSize: 30),
