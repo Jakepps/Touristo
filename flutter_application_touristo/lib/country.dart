@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'package:flutter/services.dart' show rootBundle;
 
 class CountryDetailsScreen extends StatefulWidget {
   final String countryName;
@@ -18,11 +19,13 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   var facts = '';
   var tips = '';
   var flagURL = '';
+  var languageNames = {};
 
   @override
   void initState() {
     super.initState();
     _fetchCountryData();
+    _loadLanguageNames();
   }
 
   void _fetchCountryData() async {
@@ -98,6 +101,15 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
               'Не знаете какой домен в сети Интернет? ${widget.countryName} имеет домен: ${data[countryCode]['topLevelDomain'].join(', ')}\n';
           tips +=
               'Телефонный код? Запросто! ${widget.countryName} имеет телефоный код: ${data[countryCode]['callingCode']}.\n';
+
+          final translations =
+              data[widget.countryCodes[widget.countryName]]['translations'];
+
+          translations.forEach((language, translation) {
+            tips += 'На ${_getLanguageName(language)}: $translation \n';
+          });
+
+          //флаг
           flagURL = data[countryCode]['flag']['large'];
         });
       } else {
@@ -172,7 +184,6 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                 tips.isNotEmpty ? tips : 'Советы загружаются...',
                 style: const TextStyle(fontSize: 16),
               ),
-              ..._buildTranslationTips(),
             ],
           ),
         ),
@@ -180,72 +191,23 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     );
   }
 
-  List<Widget> _buildTranslationTips() {
-    final translations = {};
-    //data[widget.countryCodes[widget.countryName]]['translations'];
-    // final translations = {
-    //   "ara": "\u0631\u0648\u0633\u064a\u0627",
-    //   "ces": "Rusko",
-    //   "cym": "Russia",
-    //   "deu": "Russland",
-    //   "est": "Venemaa",
-    //   "fin": "Ven\u00e4j\u00e4",
-    //   "fra": "Russie",
-    //   "hrv": "Rusija",
-    //   "hun": "Oroszorsz\u00e1g",
-    //   "ita": "Russia",
-    //   "jpn": "\u30ed\u30b7\u30a2\u9023\u90a6",
-    //   "kor": "\ub7ec\uc2dc\uc544",
-    //   "nld": "Rusland",
-    //   "per": "\u0631\u0648\u0633\u06cc\u0647",
-    //   "pol": "Rosja",
-    //   "por": "R\u00fassia",
-    //   "rus": "\u0420\u043e\u0441\u0441\u0438\u044f",
-    //   "slk": "Rusko",
-    //   "spa": "Rusia",
-    //   "swe": "Ryssland",
-    //   "urd": "\u0631\u0648\u0633",
-    //   "zho": "\u4fc4\u7f57\u65af"
-    // };
-
-    final List<Widget> translationWidgets = [];
-    translations.forEach((language, translation) {
-      translationWidgets.add(
-        Text(
-          'На ${_getLanguageName(language)}: $translation',
-          style: const TextStyle(fontSize: 16),
-        ),
-      );
-    });
-    return translationWidgets;
+  Future<void> _loadLanguageNames() async {
+    try {
+      final String data =
+          await rootBundle.loadString('assets/files/language_codes.txt');
+      final List<String> lines = data.split('\n');
+      for (String line in lines) {
+        final List<String> parts = line.split(':');
+        final String key = parts[0].trim().replaceAll('\'', '');
+        final String value = parts[1].trim().replaceAll('\'', '');
+        languageNames[key] = value;
+      }
+    } catch (e) {
+      print('Error loading language names: $e');
+    }
   }
 
   String _getLanguageName(String languageCode) {
-    final languageNames = {
-      'ara': 'арабском',
-      'ces': 'чешском',
-      'cym': 'валлийском',
-      'deu': 'немецком',
-      'est': 'эстонском',
-      'fin': 'финском',
-      'fra': 'французском',
-      'hrv': 'хорватском',
-      'hun': 'венгерском',
-      'ita': 'итальянском',
-      'jpn': 'японском',
-      'kor': 'корейском',
-      'nld': 'голландском',
-      'per': 'персидском',
-      'pol': 'польском',
-      'por': 'португальском',
-      'rus': 'русском',
-      'slk': 'словацком',
-      'spa': 'испанском',
-      'swe': 'шведском',
-      'urd': 'урду',
-      'zho': 'китайском',
-    };
-
     return languageNames[languageCode] ?? languageCode;
   }
 }
