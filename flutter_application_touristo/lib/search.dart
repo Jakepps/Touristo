@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'country.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:fuzzy/fuzzy.dart';
 
 class SearchResultsScreen extends StatelessWidget {
   final String countryName;
@@ -44,104 +45,139 @@ class SearchResultsScreen extends StatelessWidget {
           );
         } else {
           Map<String, String> countryCodes = snapshot.data!;
+          List<String> closestMatches =
+              _findClosestMatch(countryName, countryCodes.keys);
 
-          if (!countryCodes.containsKey(countryName.trim())) {
-            return Scaffold(
-              appBar: AppBar(
-                leading: IconButton(
-                  icon: const Icon(Icons.arrow_back),
-                  onPressed: () {
-                    Navigator.pop(context);
-                  },
-                ),
-                title: Text('Результаты поиска: ${countryName.trim()}'),
-              ),
-              body: Center(
-                child: Padding(
-                  padding: const EdgeInsets.all(20.0),
-                  child: Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      const Icon(
-                        Icons.error,
-                        size: 40,
-                        color: Colors.red,
-                      ),
-                      const SizedBox(height: 20),
-                      Text(
-                        'Не смогли найти ${countryName.trim()}.',
-                        style: const TextStyle(fontSize: 20),
-                      ),
-                      const SizedBox(height: 10),
-                      TextButton(
-                        onPressed: () {
-                          Navigator.pop(context);
-                        },
-                        child: Text(
-                          'Повторить попытку',
-                          style:
-                              TextStyle(color: Theme.of(context).primaryColor),
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-            );
+          if (closestMatches.isNotEmpty) {
+            return _buildScaffoldWithMatch(context, closestMatches);
+          } else {
+            return _buildNotFoundScaffold(context);
           }
-
-          return Scaffold(
-            appBar: AppBar(
-              leading: IconButton(
-                icon: const Icon(Icons.arrow_back),
-                onPressed: () {
-                  Navigator.pop(context);
-                },
-              ),
-              title: Text('Результаты поиска: ${countryName.trim()}'),
-            ),
-            body: Center(
-              child: Padding(
-                padding: const EdgeInsets.all(20.0),
-                child: SingleChildScrollView(
-                  child: GestureDetector(
-                    onTap: () {
-                      _fetchCountryDetails(countryCodes, context);
-                    },
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.start,
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        const Icon(
-                          Icons.map,
-                          size: 40,
-                        ),
-                        const SizedBox(width: 20),
-                        Expanded(
-                          child: Text(
-                            countryName.trim(),
-                            style: const TextStyle(fontSize: 30),
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                ),
-              ),
-            ),
-          );
         }
       },
     );
   }
 
-  void _fetchCountryDetails(
-      Map<String, String> countryCodes, BuildContext context) async {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-          builder: (context) => CountryDetailsScreen(
-              countryName: countryName.trim(), countryCodes: countryCodes)),
+  Scaffold _buildScaffoldWithMatch(
+      BuildContext context, List<String> closestMatches) {
+    return Scaffold(
+      appBar: AppBar(
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
+        title: const Text('Результаты поиска'),
+      ),
+      body: Center(
+        child: Padding(
+          padding: const EdgeInsets.all(20.0),
+          child: ListView.builder(
+            itemCount: closestMatches.length,
+            itemBuilder: (BuildContext context, int index) {
+              return ListTile(
+                leading: const Icon(
+                  Icons.map,
+                  size: 30,
+                ),
+                title: Text(
+                  closestMatches[index],
+                  style: const TextStyle(fontSize: 30),
+                ),
+                onTap: () {
+                  _fetchCountryDetails(context, closestMatches[index]);
+                },
+              );
+            },
+          ),
+        ),
+      ),
     );
+  }
+
+  Scaffold _buildNotFoundScaffold(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
+        title: Text('Результаты поиска: $countryName'),
+      ),
+      body: Center(
+        child: Padding(
+          padding: const EdgeInsets.all(20.0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Icon(
+                Icons.error,
+                size: 40,
+                color: Colors.red,
+              ),
+              const SizedBox(height: 20),
+              Text(
+                'Не смогли найти $countryName.',
+                style: const TextStyle(fontSize: 20),
+              ),
+              const SizedBox(height: 10),
+              TextButton(
+                onPressed: () {
+                  Navigator.pop(context);
+                },
+                child: Text(
+                  'Повторить попытку',
+                  style: TextStyle(color: Theme.of(context).primaryColor),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  List<String> _findClosestMatch(String input, Iterable<String> options) {
+    if (input.isEmpty) return [];
+
+    final String normalizedInput = input.toLowerCase();
+    final Fuzzy<String> fuse = Fuzzy(options.toList());
+    final results = fuse.search(normalizedInput);
+
+    List<String> closestMatches = [];
+
+    for (final result in results) {
+      if (result.score < 0.2) {
+        closestMatches.add(result.item);
+      }
+    }
+
+    // if (results.isNotEmpty) {
+    //   final result = results.first;
+    //   if (result.score < 0.5) {
+    //     return result.item;
+    //   }
+    // }
+    return closestMatches;
+  }
+
+  void _fetchCountryDetails(BuildContext context, String selectCountry) async {
+    final Map<String, String> countryCodes = await loadCountryCodes();
+    final String countryCode = countryCodes[selectCountry] ?? '';
+
+    if (countryCode.isNotEmpty) {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => CountryDetailsScreen(
+            countryName: selectCountry,
+            countryCodes: countryCodes,
+          ),
+        ),
+      );
+    }
   }
 }
