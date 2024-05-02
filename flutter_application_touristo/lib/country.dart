@@ -5,10 +5,10 @@ import 'package:flutter/services.dart' show rootBundle;
 
 class CountryDetailsScreen extends StatefulWidget {
   final String countryName;
-  final Map<String, String> countryCodes;
+  final String countryCode;
 
   const CountryDetailsScreen(
-      {super.key, required this.countryName, required this.countryCodes});
+      {super.key, required this.countryName, required this.countryCode});
 
   @override
   _CountryDetailsScreenState createState() => _CountryDetailsScreenState();
@@ -29,12 +29,11 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   }
 
   void _fetchCountryData() async {
-    final countryCode = widget.countryCodes[widget.countryName];
     final httpUri = Uri(
       scheme: 'http',
       host: '10.0.2.2',
       port: 5000,
-      path: '/api/country/$countryCode',
+      path: '/api/country/${widget.countryCode}',
     );
 
     try {
@@ -44,10 +43,10 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
         setState(() {
-          _buildCountryInfo(data, countryCode!);
-          _buildInterestingFacts(data, countryCode);
-          _buildTravelTips(data, countryCode);
-          _buildFlagURL(data, countryCode);
+          _buildCountryInfo(data, widget.countryCode);
+          _buildInterestingFacts(data, widget.countryCode);
+          _buildTravelTips(data, widget.countryCode);
+          _buildFlagURL(data, widget.countryCode);
         });
       } else {
         throw Exception('Failed to load country data');
@@ -61,8 +60,13 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     // Общая информация о стране
     inf =
         '• Альфа-коды ${widget.countryName}: ${data[countryCode]['alpha2Code']}, ${data[countryCode]['alpha3Code']}.\n\n';
-    inf +=
-        '• Столицей страны является город ${data[countryCode]['capital']}.\n\n';
+
+    if (data[countryCode]['capital'] != 'N/A') {
+      inf +=
+          '• Столицей страны является город ${data[countryCode]['capital']}.\n\n';
+    } else {
+      inf += '• Нет информации о сталице страны.\n\n';
+    }
 
     final currencies = data[countryCode]['currencies'];
     final currencyCode = currencies.keys.first;
@@ -85,31 +89,43 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
 
   void _buildInterestingFacts(Map<String, dynamic> data, String countryCode) {
     // Интересные факты
-    facts =
-        '• ${widget.countryName} граничит с ${data[countryCode]['borders'].length} странами, а именно: ${data[countryCode]['borders'].join(', ')}.\n\n';
+    String bordersInfo;
+    if (data[countryCode]['borders'] == 'N/A') {
+      bordersInfo =
+          '• ${widget.countryName} не граничит ни с одной страной.\n\n';
+    } else {
+      bordersInfo =
+          '• ${widget.countryName} граничит с ${data[countryCode]['borders'].length} странами, а именно: ${data[countryCode]['borders'].join(', ')}.\n\n';
+    }
+    facts += bordersInfo;
     facts +=
         '• На данный момент в стране проживает ${data[countryCode]['population']} человек!\n\n';
 
     final gini = data[countryCode]['gini'];
-    final giniValue = gini[gini.keys.first];
-
-    String giniInfo = '';
-
-    if (giniValue < 30) {
-      giniInfo =
-          'Этот низкий уровень неравенства указывает на высокий уровень равенства в распределении доходов страны.';
-    } else if (giniValue >= 30 && giniValue < 40) {
-      giniInfo =
-          'Этот уровень неравенства указывает на умеренное неравенство в распределении доходов страны.';
-    } else if (giniValue >= 40 && giniValue < 50) {
-      giniInfo =
-          'Этот уровень неравенства указывает на значительное неравенство в распределении доходов страны.';
+    if (gini == 'Not Available') {
+      facts +=
+          '• На данный момент ${widget.countryName} не имеет коэффициента Джини.\n';
     } else {
-      giniInfo =
-          'Этот высокий уровень неравенства указывает на значительные социальные и экономические неравенства в стране.';
+      final giniValue = gini[gini.keys.first];
+
+      String giniInfo = '';
+
+      if (giniValue < 30) {
+        giniInfo =
+            'Этот низкий уровень неравенства указывает на высокий уровень равенства в распределении доходов страны.';
+      } else if (giniValue >= 30 && giniValue < 40) {
+        giniInfo =
+            'Этот уровень неравенства указывает на умеренное неравенство в распределении доходов страны.';
+      } else if (giniValue >= 40 && giniValue < 50) {
+        giniInfo =
+            'Этот уровень неравенства указывает на значительное неравенство в распределении доходов страны.';
+      } else {
+        giniInfo =
+            'Этот высокий уровень неравенства указывает на значительные социальные и экономические неравенства в стране.';
+      }
+      facts +=
+          '• А вы знали, что на момент ${gini.keys.first} г. ${widget.countryName} имеет коэффициент Джини равный $giniValue. $giniInfo';
     }
-    facts +=
-        '• А вы знали, что на момент ${gini.keys.first} г. ${widget.countryName} имеет коэффициент Джини равный $giniValue. $giniInfo';
   }
 
   void _buildTravelTips(Map<String, dynamic> data, String countryCode) {
@@ -119,8 +135,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     tips +=
         '• Телефонный код? Запросто! ${widget.countryName} имеет телефоный код: ${data[countryCode]['callingCode']}.\n\n';
     tips += '• Название страны на различных языках: \n';
-    final translations =
-        data[widget.countryCodes[widget.countryName]]['translations'];
+    final translations = data[widget.countryCode]['translations'];
 
     translations.forEach((language, translation) {
       tips += 'На ${_getLanguageName(language)}: $translation \n';

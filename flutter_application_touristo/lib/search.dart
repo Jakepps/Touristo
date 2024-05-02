@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'country.dart';
-import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:fuzzy/fuzzy.dart';
 
@@ -15,14 +14,22 @@ class SearchResultsScreen extends StatelessWidget {
       String data =
           await rootBundle.loadString('assets/files/country_codes.txt');
 
-      List<String> lines = const LineSplitter().convert(data);
+      // Удалите символы кавычек и фигурные скобки
+      data = data
+          .replaceAll("'", '')
+          .replaceAll('{', '')
+          .replaceAll('}', '')
+          .replaceAll(',', '');
 
-      for (String line in lines) {
-        List<String> parts = line.split(':');
+      // Разделите строку данных по запятым и новым строка
+      List<String> rows = data.split('\n');
+
+      for (String row in rows) {
+        // Разделите строку на части по двоеточиям
+        List<String> parts = row.split(':');
         if (parts.length == 2) {
-          String country = parts[0].trim().replaceAll("'", "");
-          String code = parts[1].trim().replaceAll("'", "");
-          code = code.trim().replaceAll(",", "");
+          String country = parts[0].trim();
+          String code = parts[1].trim();
           countryCodes[country] = code;
         }
       }
@@ -154,13 +161,6 @@ class SearchResultsScreen extends StatelessWidget {
         closestMatches.add(result.item);
       }
     }
-
-    // if (results.isNotEmpty) {
-    //   final result = results.first;
-    //   if (result.score < 0.5) {
-    //     return result.item;
-    //   }
-    // }
     return closestMatches;
   }
 
@@ -174,7 +174,7 @@ class SearchResultsScreen extends StatelessWidget {
         MaterialPageRoute(
           builder: (context) => CountryDetailsScreen(
             countryName: selectCountry,
-            countryCodes: countryCodes,
+            countryCode: countryCode,
           ),
         ),
       );
