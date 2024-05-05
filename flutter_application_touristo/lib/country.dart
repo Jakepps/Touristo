@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:translator/translator.dart';
 
 class CountryDetailsScreen extends StatefulWidget {
   final String countryName;
@@ -28,6 +29,15 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     _loadLanguageNames();
   }
 
+  Future<List<String>> _translateTexts(List<String> texts) async {
+    List<String> translatedTexts = [];
+    for (String text in texts) {
+      final translatedText = await GoogleTranslator().translate(text, to: 'ru');
+      translatedTexts.add(translatedText.toString());
+    }
+    return translatedTexts;
+  }
+
   void _fetchCountryData() async {
     final httpUri = Uri(
       scheme: 'http',
@@ -35,6 +45,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       port: 5000,
       path: '/api/country/${widget.countryCode}',
     );
+    List<String> textsToTranslate = [];
 
     try {
       final response = await http
@@ -42,8 +53,31 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
 
       if (response.statusCode == 200) {
         final data = json.decode(response.body);
+
+        String capital = data[widget.countryCode]['capital'];
+        if (capital != 'N/A') {
+          textsToTranslate.add(capital);
+        }
+
+        final currencies = data[widget.countryCode]['currencies'];
+        textsToTranslate.add(data[widget.countryCode]['currencies']
+            [currencies.keys.first]['name']);
+
+        final languages = data[widget.countryCode]['languages'];
+        List<String> langCodes = [];
+        languages.forEach((key, value) {
+          if (value is List) {
+            langCodes.addAll(value.cast<String>());
+          } else if (value is String) {
+            langCodes.add(value);
+          }
+        });
+
+        textsToTranslate.addAll(langCodes);
+        List<String> translatedTexts = await _translateTexts(textsToTranslate);
+
         setState(() {
-          _buildCountryInfo(data, widget.countryCode);
+          _buildCountryInfo(data, widget.countryCode, translatedTexts);
           _buildInterestingFacts(data, widget.countryCode);
           _buildTravelTips(data, widget.countryCode);
           _buildFlagURL(data, widget.countryCode);
@@ -56,14 +90,14 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     }
   }
 
-  void _buildCountryInfo(Map<String, dynamic> data, String countryCode) {
+  void _buildCountryInfo(Map<String, dynamic> data, String countryCode,
+      List<String> textsTranslate) {
     // Общая информация о стране
     inf =
         '• Альфа-коды ${widget.countryName}: ${data[countryCode]['alpha2Code']}, ${data[countryCode]['alpha3Code']}.\n\n';
 
     if (data[countryCode]['capital'] != 'N/A') {
-      inf +=
-          '• Столицей страны является город ${data[countryCode]['capital']}.\n\n';
+      inf += '• Столицей страны является город ${textsTranslate[0]}.\n\n';
     } else {
       inf += '• Нет информации о сталице страны.\n\n';
     }
@@ -71,15 +105,17 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     final currencies = data[countryCode]['currencies'];
     final currencyCode = currencies.keys.first;
     inf +=
-        '• Валютой является ${currencies[currencyCode]['name']} - ${currencyCode.toString()} (${currencies[currencyCode]['symbol']})';
+        '• Валютой является ${textsTranslate[1]} - ${currencyCode.toString()} (${currencies[currencyCode]['symbol']})';
 
-    final languages = data[countryCode]['languages'];
-    final languageNames = languages.values.toList();
-    if (languageNames.length > 1) {
-      final languageString = languageNames.join(', ');
+    final languageNamesToAdd = textsTranslate.sublist(2);
+    var languageNamesLocal = [];
+    languageNamesLocal.addAll(languageNamesToAdd);
+    if (languageNamesLocal.length > 1) {
+      final languageString = languageNamesLocal.join(', ');
       inf += ', а государственными языками являются $languageString.\n\n';
-    } else if (languageNames.length == 1) {
-      inf += ', а государственным языком является ${languageNames[0]}.\n\n';
+    } else if (languageNamesLocal.length == 1) {
+      inf +=
+          ', а государственным языком является ${languageNamesLocal[0]}.\n\n';
     }
 
     final timezones = data[countryCode]['timezones'];
