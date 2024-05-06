@@ -21,6 +21,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   var tips = '';
   var flagURL = '';
   var languageNames = {};
+  Map<String, String> countryCodeToName = {};
 
   @override
   void initState() {
@@ -60,6 +61,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     List<String> textsToTranslate = [];
 
     try {
+      countryCodeToName = await _loadBorderCodes();
       final response = await http
           .get(httpUri, headers: {'Content-Type': 'application/json'});
 
@@ -139,15 +141,25 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
 
   void _buildInterestingFacts(Map<String, dynamic> data, String countryCode) {
     // Интересные факты
-    String bordersInfo;
-    if (data[countryCode]['borders'] == 'N/A') {
+    String bordersInfo = '';
+    final borders = data[countryCode]['borders'];
+    if (borders == 'N/A') {
       bordersInfo =
           '• ${widget.countryName} не граничит ни с одной страной.\n\n';
     } else {
-      bordersInfo =
-          '• ${widget.countryName} граничит с ${data[countryCode]['borders'].length} странами, а именно: ${data[countryCode]['borders'].join(', ')}.\n\n';
+      List<String> borderCountries = borders
+          .map<String>((borderCode) => countryCodeToName[borderCode]!)
+          .toList();
+      if (borderCountries.length == 1) {
+        bordersInfo =
+            '• ${widget.countryName} граничит с ${borderCountries.length} страной, а именно: ${borderCountries.join(', ')}.\n\n';
+      } else {
+        bordersInfo =
+            '• ${widget.countryName} граничит с ${borderCountries.length} странами, а именно: ${borderCountries.join(', ')}.\n\n';
+      }
     }
     facts += bordersInfo;
+
     facts +=
         '• На данный момент в стране проживает ${data[countryCode]['population']} человек!\n\n';
 
@@ -272,6 +284,35 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
         ),
       ),
     );
+  }
+
+  Future<Map<String, String>> _loadBorderCodes() async {
+    Map<String, String> countryCodes = {};
+    try {
+      String data =
+          await rootBundle.loadString('assets/files/border_codes.txt');
+
+      data = data
+          .replaceAll("'", '')
+          .replaceAll('{', '')
+          .replaceAll('}', '')
+          .replaceAll(',', '')
+          .replaceAll('"', '');
+
+      List<String> rows = data.split('\n');
+
+      for (String row in rows) {
+        List<String> parts = row.split(':');
+        if (parts.length == 2) {
+          String country = parts[0].trim();
+          String code = parts[1].trim();
+          countryCodes[country] = code;
+        }
+      }
+    } catch (e) {
+      print('Error load data: $e');
+    }
+    return countryCodes;
   }
 
   Future<void> _loadLanguageNames() async {

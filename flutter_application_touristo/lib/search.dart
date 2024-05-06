@@ -14,18 +14,15 @@ class SearchResultsScreen extends StatelessWidget {
       String data =
           await rootBundle.loadString('assets/files/country_codes.txt');
 
-      // Удалите символы кавычек и фигурные скобки
       data = data
           .replaceAll("'", '')
           .replaceAll('{', '')
           .replaceAll('}', '')
           .replaceAll(',', '');
 
-      // Разделите строку данных по запятым и новым строка
       List<String> rows = data.split('\n');
 
       for (String row in rows) {
-        // Разделите строку на части по двоеточиям
         List<String> parts = row.split(':');
         if (parts.length == 2) {
           String country = parts[0].trim();
