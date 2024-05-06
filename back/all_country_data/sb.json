@@ -1,7 +1,7 @@
 {
     "sb": {
-        "name": "Solomon Islands",
-        "official_name": "Solomon Islands",
+        "name": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "official_name": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
         "topLevelDomain": [
             ".sb"
         ],
@@ -10,12 +10,12 @@
         "cioc": "SOL",
         "numericCode": "090",
         "callingCode": "+677",
-        "capital": "Honiara",
+        "capital": "\u0425\u043e\u043d\u0438\u0430\u0440\u0430",
         "altSpellings": [
             "SB"
         ],
-        "region": "Oceania",
-        "subregion": "Melanesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0435\u043b\u0430\u043d\u0435\u0437\u0438\u044f",
         "population": 686878,
         "latLng": {
             "country": [
@@ -53,7 +53,7 @@
         },
         "currencies": {
             "SBD": {
-                "name": "Solomon Islands dollar",
+                "name": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

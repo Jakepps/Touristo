@@ -1,7 +1,7 @@
 {
     "lk": {
-        "name": "Sri Lanka",
-        "official_name": "Democratic Socialist Republic of Sri Lanka",
+        "name": "\u0428\u0440\u0438 -\u041b\u0430\u043d\u043a\u0430",
+        "official_name": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0428\u0440\u0438 -\u041b\u0430\u043d\u043a\u0430",
         "topLevelDomain": [
             ".lk"
         ],
@@ -10,14 +10,14 @@
         "cioc": "SRI",
         "numericCode": "144",
         "callingCode": "+94",
-        "capital": "Sri Jayawardenepura Kotte",
+        "capital": "\u0428\u0440\u0438 \u0414\u0436\u0430\u044f\u0432\u0430\u0440\u0434\u0435\u043d\u0435\u043f\u0443\u0440\u0430 \u041a\u043e\u0442\u0442\u0435",
         "altSpellings": [
             "LK",
             "ila\u1e45kai",
             "Democratic Socialist Republic of Sri Lanka"
         ],
-        "region": "Asia",
-        "subregion": "Southern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 21919000,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "LKR": {
-                "name": "Sri Lankan rupee",
+                "name": "\u0428\u0440\u0438 -\u043b\u0430\u043d\u043a\u0438\u0439\u0441\u043a\u0430\u044f \u0440\u0443\u043f\u0438\u044f",
                 "symbol": "Rs  \u0dbb\u0dd4"
             }
         },

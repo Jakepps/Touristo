@@ -1,7 +1,7 @@
 {
     "ve": {
-        "name": "Venezuela",
-        "official_name": "Bolivarian Republic of Venezuela",
+        "name": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430",
+        "official_name": "\u0411\u043e\u043b\u0438\u0432\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430",
         "topLevelDomain": [
             ".ve"
         ],
@@ -10,15 +10,15 @@
         "cioc": "VEN",
         "numericCode": "862",
         "callingCode": "+58",
-        "capital": "Caracas",
+        "capital": "\u041a\u0430\u0440\u0430\u043a\u0430\u0441",
         "altSpellings": [
             "VE",
             "Bolivarian Republic of Venezuela",
             "Venezuela, Bolivarian Republic of",
             "Rep\u00fablica Bolivariana de Venezuela"
         ],
-        "region": "Americas",
-        "subregion": "South America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 28435943,
         "latLng": {
             "country": [
@@ -60,7 +60,7 @@
         },
         "currencies": {
             "VES": {
-                "name": "Venezuelan bol\u00edvar soberano",
+                "name": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u044c\u0441\u043a\u0438\u0439 \u0411\u043e\u043b\u0438\u0432\u0430\u0440 \u0421\u043e\u0431\u0435\u0440\u0430\u043d\u043e",
                 "symbol": "Bs.S."
             }
         },

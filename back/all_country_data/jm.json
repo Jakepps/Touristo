@@ -1,7 +1,7 @@
 {
     "jm": {
-        "name": "Jamaica",
-        "official_name": "Jamaica",
+        "name": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "official_name": "\u042f\u043c\u0430\u0439\u043a\u0430",
         "topLevelDomain": [
             ".jm"
         ],
@@ -10,12 +10,12 @@
         "cioc": "JAM",
         "numericCode": "388",
         "callingCode": "+1876",
-        "capital": "Kingston",
+        "capital": "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d",
         "altSpellings": [
             "JM"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 2961161,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "JMD": {
-                "name": "Jamaican dollar",
+                "name": "\u042f\u043c\u0430\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

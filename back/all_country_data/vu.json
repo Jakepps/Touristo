@@ -1,7 +1,7 @@
 {
     "vu": {
-        "name": "Vanuatu",
-        "official_name": "Republic of Vanuatu",
+        "name": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u0430\u043d\u0443\u0430\u0442\u0443",
         "topLevelDomain": [
             ".vu"
         ],
@@ -10,15 +10,15 @@
         "cioc": "VAN",
         "numericCode": "548",
         "callingCode": "+678",
-        "capital": "Port Vila",
+        "capital": "\u041f\u043e\u0440\u0442 -\u0412\u0438\u043b\u0430",
         "altSpellings": [
             "VU",
             "Republic of Vanuatu",
             "Ripablik blong Vanuatu",
             "R\u00e9publique de Vanuatu"
         ],
-        "region": "Oceania",
-        "subregion": "Melanesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0435\u043b\u0430\u043d\u0435\u0437\u0438\u044f",
         "population": 307150,
         "latLng": {
             "country": [
@@ -64,7 +64,7 @@
         },
         "currencies": {
             "VUV": {
-                "name": "Vanuatu vatu",
+                "name": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443 \u0412\u0430\u0442\u0443",
                 "symbol": "Vt"
             }
         },

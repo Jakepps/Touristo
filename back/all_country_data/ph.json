@@ -1,7 +1,7 @@
 {
     "ph": {
-        "name": "Philippines",
-        "official_name": "Republic of the Philippines",
+        "name": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d",
         "topLevelDomain": [
             ".ph"
         ],
@@ -10,14 +10,14 @@
         "cioc": "PHI",
         "numericCode": "608",
         "callingCode": "+63",
-        "capital": "Manila",
+        "capital": "\u041c\u0430\u043d\u0438\u043b\u0430",
         "altSpellings": [
             "PH",
             "Republic of the Philippines",
             "Rep\u00fablika ng Pilipinas"
         ],
-        "region": "Asia",
-        "subregion": "South-Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 109581085,
         "latLng": {
             "country": [
@@ -59,7 +59,7 @@
         },
         "currencies": {
             "PHP": {
-                "name": "Philippine peso",
+                "name": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d \u041f\u0435\u0441\u043e",
                 "symbol": "\u20b1"
             }
         },

@@ -1,7 +1,7 @@
 {
     "vg": {
-        "name": "British Virgin Islands",
-        "official_name": "Virgin Islands",
+        "name": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0435 \u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "official_name": "\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
         "topLevelDomain": [
             ".vg"
         ],
@@ -10,13 +10,13 @@
         "cioc": "IVB",
         "numericCode": "092",
         "callingCode": "+1284",
-        "capital": "Road Town",
+        "capital": "\u0414\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0434",
         "altSpellings": [
             "VG",
             "Virgin Islands, British"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 30237,
         "latLng": {
             "country": [
@@ -48,7 +48,7 @@
         },
         "currencies": {
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

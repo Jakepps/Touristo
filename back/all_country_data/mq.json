@@ -1,7 +1,7 @@
 {
     "mq": {
-        "name": "Martinique",
-        "official_name": "Martinique",
+        "name": "\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a\u0430",
+        "official_name": "\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a\u0430",
         "topLevelDomain": [
             ".mq"
         ],
@@ -10,12 +10,12 @@
         "cioc": "N/A",
         "numericCode": "474",
         "callingCode": "+596",
-        "capital": "Fort-de-France",
+        "capital": "\u0424\u043e\u0440\u0442-\u0434\u0435-\u0424\u0440\u0430\u043d\u0441",
         "altSpellings": [
             "MQ"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 378243,
         "latLng": {
             "country": [
@@ -51,7 +51,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

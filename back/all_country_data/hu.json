@@ -1,7 +1,7 @@
 {
     "hu": {
-        "name": "Hungary",
-        "official_name": "Hungary",
+        "name": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+        "official_name": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
         "topLevelDomain": [
             ".hu"
         ],
@@ -10,12 +10,12 @@
         "cioc": "HUN",
         "numericCode": "348",
         "callingCode": "+36",
-        "capital": "Budapest",
+        "capital": "\u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442",
         "altSpellings": [
             "HU"
         ],
-        "region": "Europe",
-        "subregion": "Central Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 9749763,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "HUF": {
-                "name": "Hungarian forint",
+                "name": "\u0412\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u0438\u0439 \u0424\u043e\u0440\u0438\u0442",
                 "symbol": "Ft"
             }
         },

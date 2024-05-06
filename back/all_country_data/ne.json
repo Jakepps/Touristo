@@ -1,7 +1,7 @@
 {
     "ne": {
-        "name": "Niger",
-        "official_name": "Republic of Niger",
+        "name": "\u041d\u0438\u0433\u0435\u0440",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0438\u0433\u0435\u0440",
         "topLevelDomain": [
             ".ne"
         ],
@@ -10,13 +10,13 @@
         "cioc": "NIG",
         "numericCode": "562",
         "callingCode": "+227",
-        "capital": "Niamey",
+        "capital": "\u041d\u0438\u0430\u043c\u0435\u0439",
         "altSpellings": [
             "NE",
             "Nijar"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 24206636,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "XOF": {
-                "name": "West African CFA franc",
+                "name": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 CFA Fran",
                 "symbol": "Fr"
             }
         },

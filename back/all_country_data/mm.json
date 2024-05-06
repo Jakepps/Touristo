@@ -1,7 +1,7 @@
 {
     "mm": {
-        "name": "Myanmar",
-        "official_name": "Republic of the Union of Myanmar",
+        "name": "\u041c\u044c\u044f\u043d\u043c\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u043e\u044e\u0437\u0430 \u041c\u044c\u044f\u043d\u043c\u044b",
         "topLevelDomain": [
             ".mm"
         ],
@@ -17,8 +17,8 @@
             "Republic of the Union of Myanmar",
             "Pyidaunzu Thanm\u0103da My\u0103ma Nainngandaw"
         ],
-        "region": "Asia",
-        "subregion": "South-Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 54409794,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "MMK": {
-                "name": "Burmese kyat",
+                "name": "\u0411\u0438\u0440\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u041a\u044c\u044f\u0442",
                 "symbol": "Ks"
             }
         },

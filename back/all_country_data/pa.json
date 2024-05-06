@@ -1,7 +1,7 @@
 {
     "pa": {
-        "name": "Panama",
-        "official_name": "Republic of Panama",
+        "name": "\u041f\u0430\u043d\u0430\u043c\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043d\u0430\u043c\u0430",
         "topLevelDomain": [
             ".pa"
         ],
@@ -10,14 +10,14 @@
         "cioc": "PAN",
         "numericCode": "591",
         "callingCode": "+507",
-        "capital": "Panama City",
+        "capital": "\u041f\u0430\u043d\u0430\u043c\u0430",
         "altSpellings": [
             "PA",
             "Republic of Panama",
             "Rep\u00fablica de Panam\u00e1"
         ],
-        "region": "Americas",
-        "subregion": "Central America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 4314768,
         "latLng": {
             "country": [
@@ -58,11 +58,11 @@
         },
         "currencies": {
             "PAB": {
-                "name": "Panamanian balboa",
+                "name": "\u041f\u0430\u043d\u0430\u043c\u0441\u043a\u0438\u0439 \u0411\u0430\u043b\u044c\u0431\u043e\u0430",
                 "symbol": "B/."
             },
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

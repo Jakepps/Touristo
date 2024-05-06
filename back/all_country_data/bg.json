@@ -1,7 +1,7 @@
 {
     "bg": {
-        "name": "Bulgaria",
-        "official_name": "Republic of Bulgaria",
+        "name": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f",
         "topLevelDomain": [
             ".bg"
         ],
@@ -10,14 +10,14 @@
         "cioc": "BUL",
         "numericCode": "100",
         "callingCode": "+359",
-        "capital": "Sofia",
+        "capital": "\u0421\u043e\u0444\u0438\u044f",
         "altSpellings": [
             "BG",
             "Republic of Bulgaria",
             "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
         ],
-        "region": "Europe",
-        "subregion": "Southeast Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0433\u043e -\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 6927288,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "BGN": {
-                "name": "Bulgarian lev",
+                "name": "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u043b\u0435\u0432",
                 "symbol": "\u043b\u0432"
             }
         },

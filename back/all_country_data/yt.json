@@ -1,7 +1,7 @@
 {
     "yt": {
         "name": "Mayotte",
-        "official_name": "Department of Mayotte",
+        "official_name": "\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041c\u0430\u0439\u043e\u0442\u0442\u0430",
         "topLevelDomain": [
             ".yt"
         ],
@@ -10,14 +10,14 @@
         "cioc": "N/A",
         "numericCode": "175",
         "callingCode": "+262",
-        "capital": "Mamoudzou",
+        "capital": "\u041c\u0430\u043c\u0443\u0434\u0437\u0443",
         "altSpellings": [
             "YT",
             "Department of Mayotte",
             "D\u00e9partement de Mayotte"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 226915,
         "latLng": {
             "country": [
@@ -53,7 +53,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

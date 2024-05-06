@@ -1,7 +1,7 @@
 {
     "mf": {
-        "name": "Saint Martin",
-        "official_name": "Saint Martin",
+        "name": "\u0421\u0432\u044f\u0442\u043e\u0439 \u041c\u0430\u0440\u0442\u0438\u043d",
+        "official_name": "\u0421\u0432\u044f\u0442\u043e\u0439 \u041c\u0430\u0440\u0442\u0438\u043d",
         "topLevelDomain": [
             ".fr"
         ],
@@ -10,15 +10,15 @@
         "cioc": "N/A",
         "numericCode": "663",
         "callingCode": "+590",
-        "capital": "Marigot",
+        "capital": "\u041c\u0430\u0440\u0438\u0433\u043e",
         "altSpellings": [
             "MF",
             "Collectivity of Saint Martin",
             "Collectivit\u00e9 de Saint-Martin",
             "Saint Martin (French part)"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 38659,
         "latLng": {
             "country": [
@@ -56,7 +56,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

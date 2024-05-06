@@ -1,7 +1,7 @@
 {
     "pw": {
-        "name": "Palau",
-        "official_name": "Republic of Palau",
+        "name": "\u041f\u0430\u043b\u0430\u0443",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043b\u0430\u0443",
         "topLevelDomain": [
             ".pw"
         ],
@@ -16,8 +16,8 @@
             "Republic of Palau",
             "Beluu er a Belau"
         ],
-        "region": "Oceania",
-        "subregion": "Micronesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f",
         "population": 18092,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

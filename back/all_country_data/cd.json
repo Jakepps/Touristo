@@ -1,7 +1,7 @@
 {
     "cd": {
-        "name": "DR Congo",
-        "official_name": "Democratic Republic of the Congo",
+        "name": "\u0414\u043e\u043a\u0442\u043e\u0440 \u041a\u043e\u043d\u0433\u043e",
+        "official_name": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e",
         "topLevelDomain": [
             ".cd"
         ],
@@ -10,7 +10,7 @@
         "cioc": "COD",
         "numericCode": "180",
         "callingCode": "+243",
-        "capital": "Kinshasa",
+        "capital": "\u041a\u0438\u043d\u0448\u0430\u0441\u0430",
         "altSpellings": [
             "CD",
             "DR Congo",
@@ -18,8 +18,8 @@
             "Congo, the Democratic Republic of the",
             "DRC"
         ],
-        "region": "Africa",
-        "subregion": "Middle Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 89561404,
         "latLng": {
             "country": [
@@ -84,7 +84,7 @@
         },
         "currencies": {
             "CDF": {
-                "name": "Congolese franc",
+                "name": "\u041a\u043e\u043d\u0433\u043e\u043b\u0435\u0437\u0441\u043a\u0438\u0439 \u0444\u0440\u0430\u043d\u043a",
                 "symbol": "FC"
             }
         },

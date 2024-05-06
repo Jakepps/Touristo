@@ -1,7 +1,7 @@
 {
     "mt": {
-        "name": "Malta",
-        "official_name": "Republic of Malta",
+        "name": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043b\u044c\u0442\u0430",
         "topLevelDomain": [
             ".mt"
         ],
@@ -10,14 +10,14 @@
         "cioc": "MLT",
         "numericCode": "470",
         "callingCode": "+356",
-        "capital": "Valletta",
+        "capital": "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430",
         "altSpellings": [
             "MT",
             "Republic of Malta",
             "Repubblika ta' Malta"
         ],
-        "region": "Europe",
-        "subregion": "Southern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 525285,
         "latLng": {
             "country": [
@@ -59,7 +59,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

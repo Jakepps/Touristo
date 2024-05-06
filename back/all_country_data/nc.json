@@ -1,7 +1,7 @@
 {
     "nc": {
-        "name": "New Caledonia",
-        "official_name": "New Caledonia",
+        "name": "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f",
+        "official_name": "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f",
         "topLevelDomain": [
             ".nc"
         ],
@@ -10,12 +10,12 @@
         "cioc": "N/A",
         "numericCode": "540",
         "callingCode": "+687",
-        "capital": "Noum\u00e9a",
+        "capital": "\u041d\u0443\u043c\u0435\u0430",
         "altSpellings": [
             "NC"
         ],
-        "region": "Oceania",
-        "subregion": "Melanesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0435\u043b\u0430\u043d\u0435\u0437\u0438\u044f",
         "population": 271960,
         "latLng": {
             "country": [
@@ -51,7 +51,7 @@
         },
         "currencies": {
             "XPF": {
-                "name": "CFP franc",
+                "name": "CFP Fran",
                 "symbol": "\u20a3"
             }
         },

@@ -1,7 +1,7 @@
 {
     "ro": {
-        "name": "Romania",
-        "official_name": "Romania",
+        "name": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+        "official_name": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
         "topLevelDomain": [
             ".ro"
         ],
@@ -10,15 +10,15 @@
         "cioc": "ROU",
         "numericCode": "642",
         "callingCode": "+40",
-        "capital": "Bucharest",
+        "capital": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
         "altSpellings": [
             "RO",
             "Rumania",
             "Roumania",
             "Rom\u00e2nia"
         ],
-        "region": "Europe",
-        "subregion": "Southeast Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0433\u043e -\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 19286123,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "RON": {
-                "name": "Romanian leu",
+                "name": "\u0420\u0443\u043c\u044b\u043d\u0441\u043a\u0438\u0439 \u041b\u0435\u0443",
                 "symbol": "lei"
             }
         },

@@ -1,7 +1,7 @@
 {
     "aw": {
-        "name": "Aruba",
-        "official_name": "Aruba",
+        "name": "\u0410\u0440\u0443\u0431\u0430",
+        "official_name": "\u0410\u0440\u0443\u0431\u0430",
         "topLevelDomain": [
             ".aw"
         ],
@@ -10,12 +10,12 @@
         "cioc": "ARU",
         "numericCode": "533",
         "callingCode": "+297",
-        "capital": "Oranjestad",
+        "capital": "\u041e\u0440\u0430\u043d\u0434\u0436\u0435\u0441\u0442\u0430\u0434",
         "altSpellings": [
             "AW"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 106766,
         "latLng": {
             "country": [
@@ -55,7 +55,7 @@
         },
         "currencies": {
             "AWG": {
-                "name": "Aruban florin",
+                "name": "\u0410\u0440\u0443\u0431\u0430\u043d \u0424\u043b\u043e\u0440\u0438\u043d",
                 "symbol": "\u0192"
             }
         },

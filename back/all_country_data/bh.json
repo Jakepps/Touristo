@@ -1,7 +1,7 @@
 {
     "bh": {
-        "name": "Bahrain",
-        "official_name": "Kingdom of Bahrain",
+        "name": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0430\u0445\u0440\u0435\u0439\u043d",
         "topLevelDomain": [
             ".bh"
         ],
@@ -10,14 +10,14 @@
         "cioc": "BRN",
         "numericCode": "048",
         "callingCode": "+973",
-        "capital": "Manama",
+        "capital": "\u041c\u0430\u043d\u0430\u043c\u0430",
         "altSpellings": [
             "BH",
             "Kingdom of Bahrain",
             "Mamlakat al-Ba\u1e25rayn"
         ],
-        "region": "Asia",
-        "subregion": "Western Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 1701583,
         "latLng": {
             "country": [
@@ -53,7 +53,7 @@
         },
         "currencies": {
             "BHD": {
-                "name": "Bahraini dinar",
+                "name": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d\u0438 \u0414\u0438\u043d\u0430\u0440",
                 "symbol": ".\u062f.\u0628"
             }
         },

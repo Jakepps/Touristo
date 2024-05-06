@@ -1,7 +1,7 @@
 {
     "tt": {
-        "name": "Trinidad and Tobago",
-        "official_name": "Republic of Trinidad and Tobago",
+        "name": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
         "topLevelDomain": [
             ".tt"
         ],
@@ -10,13 +10,13 @@
         "cioc": "TTO",
         "numericCode": "780",
         "callingCode": "+1868",
-        "capital": "Port of Spain",
+        "capital": "\u041f\u043e\u0440\u0442 \u0418\u0441\u043f\u0430\u043d\u0438\u0438",
         "altSpellings": [
             "TT",
             "Republic of Trinidad and Tobago"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 1399491,
         "latLng": {
             "country": [
@@ -54,7 +54,7 @@
         },
         "currencies": {
             "TTD": {
-                "name": "Trinidad and Tobago dollar",
+                "name": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

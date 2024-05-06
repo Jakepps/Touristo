@@ -1,7 +1,7 @@
 {
     "sx": {
-        "name": "Sint Maarten",
-        "official_name": "Sint Maarten",
+        "name": "\u0421\u0438\u043d\u0442 \u041c\u0430\u0440\u0442\u0435\u043d",
+        "official_name": "\u0421\u0438\u043d\u0442 \u041c\u0430\u0440\u0442\u0435\u043d",
         "topLevelDomain": [
             ".sx"
         ],
@@ -10,13 +10,13 @@
         "cioc": "N/A",
         "numericCode": "534",
         "callingCode": "+1721",
-        "capital": "Philipsburg",
+        "capital": "\u0424\u0438\u043b\u0438\u043f\u0441\u0431\u0443\u0440\u0433",
         "altSpellings": [
             "SX",
             "Sint Maarten (Dutch part)"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 40812,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "ANG": {
-                "name": "Netherlands Antillean guilder",
+                "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b \u0410\u043d\u0442\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0413\u0438\u043b\u044c\u0434\u0435\u0440",
                 "symbol": "\u0192"
             }
         },

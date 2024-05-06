@@ -1,7 +1,7 @@
 {
     "mw": {
-        "name": "Malawi",
-        "official_name": "Republic of Malawi",
+        "name": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043b\u0430\u0432\u0438",
         "topLevelDomain": [
             ".mw"
         ],
@@ -10,13 +10,13 @@
         "cioc": "MAW",
         "numericCode": "454",
         "callingCode": "+265",
-        "capital": "Lilongwe",
+        "capital": "\u041b\u0438\u043b\u043e\u043d\u0433\u0432\u0435",
         "altSpellings": [
             "MW",
             "Republic of Malawi"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 19129955,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "MWK": {
-                "name": "Malawian kwacha",
+                "name": "\u041c\u0430\u043b\u0430\u0432\u0438\u0430\u043d \u041a\u0432\u0430\u0447\u0430",
                 "symbol": "MK"
             }
         },

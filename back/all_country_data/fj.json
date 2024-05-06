@@ -1,7 +1,7 @@
 {
     "fj": {
-        "name": "Fiji",
-        "official_name": "Republic of Fiji",
+        "name": "\u0424\u0438\u0434\u0436\u0438",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0424\u0438\u0434\u0436\u0438",
         "topLevelDomain": [
             ".fj"
         ],
@@ -10,7 +10,7 @@
         "cioc": "FIJ",
         "numericCode": "242",
         "callingCode": "+679",
-        "capital": "Suva",
+        "capital": "\u0421\u0443\u0432\u0430",
         "altSpellings": [
             "FJ",
             "Viti",
@@ -18,8 +18,8 @@
             "Matanitu ko Viti",
             "Fij\u012b Ga\u1e47ar\u0101jya"
         ],
-        "region": "Oceania",
-        "subregion": "Melanesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0435\u043b\u0430\u043d\u0435\u0437\u0438\u044f",
         "population": 896444,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "FJD": {
-                "name": "Fijian dollar",
+                "name": "\u0424\u0438\u0434\u0436\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

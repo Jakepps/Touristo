@@ -1,7 +1,7 @@
 {
     "bd": {
-        "name": "Bangladesh",
-        "official_name": "People's Republic of Bangladesh",
+        "name": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448",
+        "official_name": "\u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448",
         "topLevelDomain": [
             ".bd"
         ],
@@ -10,14 +10,14 @@
         "cioc": "BAN",
         "numericCode": "050",
         "callingCode": "+880",
-        "capital": "Dhaka",
+        "capital": "\u0414\u0430\u043a\u043a\u0430",
         "altSpellings": [
             "BD",
             "People's Republic of Bangladesh",
             "G\u00f4n\u00f4pr\u00f4jat\u00f4ntri Bangladesh"
         ],
-        "region": "Asia",
-        "subregion": "Southern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 164689383,
         "latLng": {
             "country": [
@@ -58,7 +58,7 @@
         },
         "currencies": {
             "BDT": {
-                "name": "Bangladeshi taka",
+                "name": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448 \u0422\u0430\u043a\u0430",
                 "symbol": "\u09f3"
             }
         },

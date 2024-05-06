@@ -1,7 +1,7 @@
 {
     "cn": {
-        "name": "China",
-        "official_name": "People's Republic of China",
+        "name": "\u041a\u0438\u0442\u0430\u0439",
+        "official_name": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".cn"
         ],
@@ -10,7 +10,7 @@
         "cioc": "CHN",
         "numericCode": "156",
         "callingCode": "+86",
-        "capital": "Beijing",
+        "capital": "\u041f\u0435\u043a\u0438\u043d",
         "altSpellings": [
             "CN",
             "Zh\u014dnggu\u00f3",
@@ -20,8 +20,8 @@
             "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
             "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"
         ],
-        "region": "Asia",
-        "subregion": "Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 1402112000,
         "latLng": {
             "country": [
@@ -76,7 +76,7 @@
         },
         "currencies": {
             "CNY": {
-                "name": "Chinese yuan",
+                "name": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u044e\u0430\u043d\u044c",
                 "symbol": "\u00a5"
             }
         },

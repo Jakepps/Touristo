@@ -1,7 +1,7 @@
 {
     "bi": {
-        "name": "Burundi",
-        "official_name": "Republic of Burundi",
+        "name": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u0443\u043d\u0434\u0438",
         "topLevelDomain": [
             ".bi"
         ],
@@ -10,15 +10,15 @@
         "cioc": "BDI",
         "numericCode": "108",
         "callingCode": "+257",
-        "capital": "Gitega",
+        "capital": "\u0413\u0438\u0442\u0435\u0433\u0430",
         "altSpellings": [
             "BI",
             "Republic of Burundi",
             "Republika y'Uburundi",
             "R\u00e9publique du Burundi"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 11890781,
         "latLng": {
             "country": [
@@ -64,7 +64,7 @@
         },
         "currencies": {
             "BIF": {
-                "name": "Burundian franc",
+                "name": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438\u0439\u0441\u043a\u0438\u0439 \u0444\u0440\u0430\u043d\u043a",
                 "symbol": "Fr"
             }
         },

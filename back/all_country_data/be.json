@@ -1,7 +1,7 @@
 {
     "be": {
-        "name": "Belgium",
-        "official_name": "Kingdom of Belgium",
+        "name": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0435\u043b\u044c\u0433\u0438\u044f",
         "topLevelDomain": [
             ".be"
         ],
@@ -10,7 +10,7 @@
         "cioc": "BEL",
         "numericCode": "056",
         "callingCode": "+32",
-        "capital": "Brussels",
+        "capital": "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c",
         "altSpellings": [
             "BE",
             "Belgi\u00eb",
@@ -22,8 +22,8 @@
             "Royaume de Belgique",
             "K\u00f6nigreich Belgien"
         ],
-        "region": "Europe",
-        "subregion": "Western Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0437\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 11555997,
         "latLng": {
             "country": [
@@ -74,7 +74,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

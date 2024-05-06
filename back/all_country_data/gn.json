@@ -1,7 +1,7 @@
 {
     "gn": {
-        "name": "Guinea",
-        "official_name": "Republic of Guinea",
+        "name": "\u0413\u0432\u0438\u043d\u0435\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0438\u043d\u0435\u044f",
         "topLevelDomain": [
             ".gn"
         ],
@@ -10,14 +10,14 @@
         "cioc": "GUI",
         "numericCode": "324",
         "callingCode": "+224",
-        "capital": "Conakry",
+        "capital": "\u041a\u043e\u043d\u0430\u043a\u0440\u0438",
         "altSpellings": [
             "GN",
             "Republic of Guinea",
             "R\u00e9publique de Guin\u00e9e"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 13132792,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "GNF": {
-                "name": "Guinean franc",
+                "name": "\u0413\u0432\u0438\u043d\u0435\u0439\u0441\u043a\u0438\u0439 \u0444\u0440\u0430\u043d\u043a",
                 "symbol": "Fr"
             }
         },

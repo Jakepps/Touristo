@@ -1,7 +1,7 @@
 {
     "gm": {
-        "name": "Gambia",
-        "official_name": "Republic of the Gambia",
+        "name": "\u0413\u0430\u043c\u0431\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u043c\u0431\u0438\u044f",
         "topLevelDomain": [
             ".gm"
         ],
@@ -10,13 +10,13 @@
         "cioc": "GAM",
         "numericCode": "270",
         "callingCode": "+220",
-        "capital": "Banjul",
+        "capital": "\u0411\u0430\u043d\u0434\u0436\u0443\u043b",
         "altSpellings": [
             "GM",
             "Republic of the Gambia"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 2416664,
         "latLng": {
             "country": [
@@ -56,7 +56,7 @@
         },
         "currencies": {
             "GMD": {
-                "name": "dalasi",
+                "name": "\u0414\u0430\u043b\u0430\u0441\u0438",
                 "symbol": "D"
             }
         },

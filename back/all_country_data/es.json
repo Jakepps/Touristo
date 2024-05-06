@@ -1,7 +1,7 @@
 {
     "es": {
-        "name": "Spain",
-        "official_name": "Kingdom of Spain",
+        "name": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0418\u0441\u043f\u0430\u043d\u0438\u0438",
         "topLevelDomain": [
             ".es"
         ],
@@ -10,14 +10,14 @@
         "cioc": "ESP",
         "numericCode": "724",
         "callingCode": "+34",
-        "capital": "Madrid",
+        "capital": "\u041c\u0430\u0434\u0440\u0438\u0434",
         "altSpellings": [
             "ES",
             "Kingdom of Spain",
             "Reino de Espa\u00f1a"
         ],
-        "region": "Europe",
-        "subregion": "Southern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 47351567,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

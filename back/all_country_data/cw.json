@@ -1,7 +1,7 @@
 {
     "cw": {
-        "name": "Cura\u00e7ao",
-        "official_name": "Country of Cura\u00e7ao",
+        "name": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e",
+        "official_name": "\u0421\u0442\u0440\u0430\u043d\u0430 \u041a\u044e\u0440\u0430\u0441\u0430\u043e",
         "topLevelDomain": [
             ".cw"
         ],
@@ -10,7 +10,7 @@
         "cioc": "N/A",
         "numericCode": "531",
         "callingCode": "+599",
-        "capital": "Willemstad",
+        "capital": "\u0412\u0438\u043b\u043b\u0435\u043c\u0441\u0442\u0430\u0434",
         "altSpellings": [
             "CW",
             "Curacao",
@@ -19,8 +19,8 @@
             "Land Cura\u00e7ao",
             "Pais K\u00f2rsou"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 155014,
         "latLng": {
             "country": [
@@ -64,7 +64,7 @@
         },
         "currencies": {
             "ANG": {
-                "name": "Netherlands Antillean guilder",
+                "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b \u0410\u043d\u0442\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0413\u0438\u043b\u044c\u0434\u0435\u0440",
                 "symbol": "\u0192"
             }
         },

@@ -1,7 +1,7 @@
 {
     "so": {
-        "name": "Somalia",
-        "official_name": "Federal Republic of Somalia",
+        "name": "\u0421\u043e\u043c\u0430\u043b\u0438",
+        "official_name": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u043e\u043c\u0430\u043b\u0438",
         "topLevelDomain": [
             ".so"
         ],
@@ -10,7 +10,7 @@
         "cioc": "SOM",
         "numericCode": "706",
         "callingCode": "+252",
-        "capital": "Mogadishu",
+        "capital": "\u041c\u043e\u0433\u0430\u0434\u0438\u0448\u043e",
         "altSpellings": [
             "SO",
             "a\u1e63-\u1e62\u016bm\u0101l",
@@ -18,8 +18,8 @@
             "Jamhuuriyadda Federaalka Soomaaliya",
             "Jumh\u016briyyat a\u1e63-\u1e62\u016bm\u0101l al-Fider\u0101liyya"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 15893219,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "SOS": {
-                "name": "Somali shilling",
+                "name": "\u0421\u043e\u043c\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0448\u0438\u043b\u043b\u0438\u043d\u0433",
                 "symbol": "Sh"
             }
         },

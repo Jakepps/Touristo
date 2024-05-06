@@ -1,7 +1,7 @@
 {
     "sh": {
-        "name": "Saint Helena, Ascension and Tristan da Cunha",
-        "official_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "name": "\u0421\u0432\u044f\u0442\u0430\u044f \u0415\u043b\u0435\u043d\u0430, \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d \u0434\u0430 \u041a\u0443\u043d\u044c\u044f",
+        "official_name": "\u0421\u0432\u044f\u0442\u0430\u044f \u0415\u043b\u0435\u043d\u0430, \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d \u0434\u0430 \u041a\u0443\u043d\u044c\u044f",
         "topLevelDomain": [
             ".sh"
         ],
@@ -10,13 +10,13 @@
         "cioc": "N/A",
         "numericCode": "654",
         "callingCode": "+290",
-        "capital": "Jamestown",
+        "capital": "\u0414\u0436\u0435\u0439\u043c\u0441\u0442\u0430\u0443\u043d",
         "altSpellings": [
             "Saint Helena",
             "St. Helena, Ascension and Tristan da Cunha"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 53192,
         "latLng": {
             "country": [
@@ -52,11 +52,11 @@
         },
         "currencies": {
             "GBP": {
-                "name": "Pound sterling",
+                "name": "\u0424\u0443\u043d\u0442 \u0441\u0442\u0435\u0440\u043b\u0438\u043d\u0433\u043e\u0432",
                 "symbol": "\u00a3"
             },
             "SHP": {
-                "name": "Saint Helena pound",
+                "name": "\u0421\u0432\u044f\u0442\u0430\u044f \u0415\u043b\u0435\u043d\u0430 \u041f\u0430\u0443\u043d\u0434",
                 "symbol": "\u00a3"
             }
         },

@@ -1,7 +1,7 @@
 {
     "se": {
-        "name": "Sweden",
-        "official_name": "Kingdom of Sweden",
+        "name": "\u0428\u0432\u0435\u0446\u0438\u044f",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u0438",
         "topLevelDomain": [
             ".se"
         ],
@@ -10,14 +10,14 @@
         "cioc": "SWE",
         "numericCode": "752",
         "callingCode": "+46",
-        "capital": "Stockholm",
+        "capital": "\u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c",
         "altSpellings": [
             "SE",
             "Kingdom of Sweden",
             "Konungariket Sverige"
         ],
-        "region": "Europe",
-        "subregion": "Northern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 10353442,
         "latLng": {
             "country": [
@@ -58,7 +58,7 @@
         },
         "currencies": {
             "SEK": {
-                "name": "Swedish krona",
+                "name": "\u0428\u0432\u0435\u0434\u0441\u043a\u0430\u044f \u041a\u0440\u043e\u043d\u0430",
                 "symbol": "kr"
             }
         },

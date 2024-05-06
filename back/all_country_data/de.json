@@ -1,7 +1,7 @@
 {
     "de": {
-        "name": "Germany",
-        "official_name": "Federal Republic of Germany",
+        "name": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+        "official_name": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438",
         "topLevelDomain": [
             ".de"
         ],
@@ -10,14 +10,14 @@
         "cioc": "GER",
         "numericCode": "276",
         "callingCode": "+49",
-        "capital": "Berlin",
+        "capital": "\u0411\u0435\u0440\u043b\u0438\u043d",
         "altSpellings": [
             "DE",
             "Federal Republic of Germany",
             "Bundesrepublik Deutschland"
         ],
-        "region": "Europe",
-        "subregion": "Western Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0437\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 83240525,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

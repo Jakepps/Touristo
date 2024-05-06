@@ -1,7 +1,7 @@
 {
     "gt": {
-        "name": "Guatemala",
-        "official_name": "Republic of Guatemala",
+        "name": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
         "topLevelDomain": [
             ".gt"
         ],
@@ -10,12 +10,12 @@
         "cioc": "GUA",
         "numericCode": "320",
         "callingCode": "+502",
-        "capital": "Guatemala City",
+        "capital": "\u0433\u043e\u0440\u043e\u0434 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
         "altSpellings": [
             "GT"
         ],
-        "region": "Americas",
-        "subregion": "Central America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 16858333,
         "latLng": {
             "country": [
@@ -58,7 +58,7 @@
         },
         "currencies": {
             "GTQ": {
-                "name": "Guatemalan quetzal",
+                "name": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b \u043a\u0435\u0446\u0430\u043b",
                 "symbol": "Q"
             }
         },

@@ -1,7 +1,7 @@
 {
     "th": {
-        "name": "Thailand",
-        "official_name": "Kingdom of Thailand",
+        "name": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0422\u0430\u0438\u043b\u0430\u043d\u0434\u0430",
         "topLevelDomain": [
             ".th"
         ],
@@ -10,7 +10,7 @@
         "cioc": "THA",
         "numericCode": "764",
         "callingCode": "+66",
-        "capital": "Bangkok",
+        "capital": "\u0411\u0430\u043d\u0433\u043a\u043e\u043a",
         "altSpellings": [
             "TH",
             "Prathet",
@@ -19,8 +19,8 @@
             "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
             "Ratcha Anachak Thai"
         ],
-        "region": "Asia",
-        "subregion": "South-Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 69799978,
         "latLng": {
             "country": [
@@ -63,7 +63,7 @@
         },
         "currencies": {
             "THB": {
-                "name": "Thai baht",
+                "name": "\u0422\u0430\u0439\u0441\u043a\u0438\u0439 \u0431\u0430\u0442",
                 "symbol": "\u0e3f"
             }
         },

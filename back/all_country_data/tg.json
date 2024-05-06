@@ -1,7 +1,7 @@
 {
     "tg": {
-        "name": "Togo",
-        "official_name": "Togolese Republic",
+        "name": "\u0418\u0434\u0442\u0438",
+        "official_name": "\u0422\u043e\u0433\u043e\u043b\u0435\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".tg"
         ],
@@ -10,15 +10,15 @@
         "cioc": "TOG",
         "numericCode": "768",
         "callingCode": "+228",
-        "capital": "Lom\u00e9",
+        "capital": "\u041b\u043e\u043c\u0435",
         "altSpellings": [
             "TG",
             "Togolese",
             "Togolese Republic",
             "R\u00e9publique Togolaise"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 8278737,
         "latLng": {
             "country": [
@@ -60,7 +60,7 @@
         },
         "currencies": {
             "XOF": {
-                "name": "West African CFA franc",
+                "name": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 CFA Fran",
                 "symbol": "Fr"
             }
         },

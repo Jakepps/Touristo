@@ -1,7 +1,7 @@
 {
     "gh": {
-        "name": "Ghana",
-        "official_name": "Republic of Ghana",
+        "name": "\u0413\u0430\u043d\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u043d\u0430",
         "topLevelDomain": [
             ".gh"
         ],
@@ -10,12 +10,12 @@
         "cioc": "GHA",
         "numericCode": "288",
         "callingCode": "+233",
-        "capital": "Accra",
+        "capital": "\u0410\u043a\u043a\u0440\u0430",
         "altSpellings": [
             "GH"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 31072945,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "GHS": {
-                "name": "Ghanaian cedi",
+                "name": "\u0413\u0430\u043d\u0430 \u0421\u0435\u0434\u0438",
                 "symbol": "\u20b5"
             }
         },

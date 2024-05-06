@@ -1,7 +1,7 @@
 {
     "om": {
-        "name": "Oman",
-        "official_name": "Sultanate of Oman",
+        "name": "\u041e\u043c\u0430\u043d",
+        "official_name": "\u041e\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u0441\u0443\u043b\u0442\u0430\u043d\u0430\u0442",
         "topLevelDomain": [
             ".om"
         ],
@@ -10,14 +10,14 @@
         "cioc": "OMA",
         "numericCode": "512",
         "callingCode": "+968",
-        "capital": "Muscat",
+        "capital": "\u041c\u0430\u0441\u043a\u0430\u0442",
         "altSpellings": [
             "OM",
             "Sultanate of Oman",
             "Sal\u1e6danat \u02bbUm\u0101n"
         ],
-        "region": "Asia",
-        "subregion": "Western Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 5106622,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "OMR": {
-                "name": "Omani rial",
+                "name": "\u041e\u043c\u0430\u043d\u0438 -\u0440\u0438\u0430\u043b",
                 "symbol": "\u0631.\u0639."
             }
         },

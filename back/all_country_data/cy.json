@@ -1,7 +1,7 @@
 {
     "cy": {
-        "name": "Cyprus",
-        "official_name": "Republic of Cyprus",
+        "name": "\u041a\u0438\u043f\u0440",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043f\u0440",
         "topLevelDomain": [
             ".cy"
         ],
@@ -10,7 +10,7 @@
         "cioc": "CYP",
         "numericCode": "196",
         "callingCode": "+357",
-        "capital": "Nicosia",
+        "capital": "\u041d\u0438\u043a\u043e\u0441\u0438\u044f",
         "altSpellings": [
             "CY",
             "K\u00fdpros",
@@ -19,8 +19,8 @@
             "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
             "K\u0131br\u0131s Cumhuriyeti"
         ],
-        "region": "Europe",
-        "subregion": "Southern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 1207361,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

@@ -1,7 +1,7 @@
 {
     "lr": {
-        "name": "Liberia",
-        "official_name": "Republic of Liberia",
+        "name": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041b\u0438\u0431\u0435\u0440\u0438\u044f",
         "topLevelDomain": [
             ".lr"
         ],
@@ -10,13 +10,13 @@
         "cioc": "LBR",
         "numericCode": "430",
         "callingCode": "+231",
-        "capital": "Monrovia",
+        "capital": "\u041c\u043e\u043d\u0440\u043e\u0432\u0438\u044f",
         "altSpellings": [
             "LR",
             "Republic of Liberia"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 5057677,
         "latLng": {
             "country": [
@@ -58,7 +58,7 @@
         },
         "currencies": {
             "LRD": {
-                "name": "Liberian dollar",
+                "name": "\u041b\u0438\u0431\u0435\u0440\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

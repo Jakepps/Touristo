@@ -1,7 +1,7 @@
 {
     "bv": {
-        "name": "Bouvet Island",
-        "official_name": "Bouvet Island",
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435",
+        "official_name": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435",
         "topLevelDomain": [
             ".bv"
         ],
@@ -10,14 +10,14 @@
         "cioc": "N/A",
         "numericCode": "074",
         "callingCode": "+47",
-        "capital": "N/A",
+        "capital": "N/a",
         "altSpellings": [
             "BV",
             "Bouvet\u00f8ya",
             "Bouvet-\u00f8ya"
         ],
-        "region": "Antarctic",
-        "subregion": "N/A",
+        "region": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430",
+        "subregion": "N/a",
         "population": 0,
         "latLng": {
             "country": [
@@ -41,7 +41,7 @@
         },
         "currencies": {
             "NOK": {
-                "name": "Norwegian krone",
+                "name": "\u041d\u043e\u0440\u0432\u0435\u0436\u0441\u043a\u0430\u044f \u041a\u0440\u043e\u043d\u0430",
                 "symbol": "kr"
             }
         },

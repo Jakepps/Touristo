@@ -1,7 +1,7 @@
 {
     "eh": {
-        "name": "Western Sahara",
-        "official_name": "Sahrawi Arab Democratic Republic",
+        "name": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u0430",
+        "official_name": "\u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0434\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0440\u0430\u0432\u0438",
         "topLevelDomain": [
             ".eh"
         ],
@@ -10,13 +10,13 @@
         "cioc": "N/A",
         "numericCode": "732",
         "callingCode": "+2125288",
-        "capital": "El Aai\u00fan",
+        "capital": "\u042d\u043b\u044c -\u0410\u0439\u0443\u043d",
         "altSpellings": [
             "EH",
             "Tane\u1e93roft Tutrimt"
         ],
-        "region": "Africa",
-        "subregion": "Northern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 510713,
         "latLng": {
             "country": [
@@ -60,15 +60,15 @@
         },
         "currencies": {
             "DZD": {
-                "name": "Algerian dinar",
+                "name": "\u0410\u043b\u0436\u0438\u0440 \u0414\u0438\u043d\u0430\u0440",
                 "symbol": "\u062f\u062c"
             },
             "MAD": {
-                "name": "Moroccan dirham",
+                "name": "\u041c\u0430\u0440\u043e\u043a\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0414\u0438\u0440\u0445\u0430\u043c",
                 "symbol": "DH"
             },
             "MRU": {
-                "name": "Mauritanian ouguiya",
+                "name": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0443\u0443\u0433\u0438\u044f",
                 "symbol": "UM"
             }
         },

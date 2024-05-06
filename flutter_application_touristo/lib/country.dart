@@ -31,11 +31,23 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
 
   Future<List<String>> _translateTexts(List<String> texts) async {
     List<String> translatedTexts = [];
+    final translator = GoogleTranslator();
     for (String text in texts) {
-      final translatedText = await GoogleTranslator().translate(text, to: 'ru');
-      translatedTexts.add(translatedText.toString());
+      if (containsCyrillic(text)) {
+        translatedTexts.add(text);
+      } else {
+        final translatedText = await translator.translate(text, to: 'ru');
+        translatedTexts.add(translatedText.toString());
+      }
     }
     return translatedTexts;
+  }
+
+  bool containsCyrillic(String text) {
+    return text.runes.any((int rune) {
+      var char = String.fromCharCode(rune);
+      return char.contains(RegExp(r'[а-яА-ЯёЁ]'));
+    });
   }
 
   void _fetchCountryData() async {

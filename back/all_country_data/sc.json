@@ -1,7 +1,7 @@
 {
     "sc": {
-        "name": "Seychelles",
-        "official_name": "Republic of Seychelles",
+        "name": "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
         "topLevelDomain": [
             ".sc"
         ],
@@ -10,15 +10,15 @@
         "cioc": "SEY",
         "numericCode": "690",
         "callingCode": "+248",
-        "capital": "Victoria",
+        "capital": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f",
         "altSpellings": [
             "SC",
             "Republic of Seychelles",
             "Repiblik Sesel",
             "R\u00e9publique des Seychelles"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 98462,
         "latLng": {
             "country": [
@@ -64,7 +64,7 @@
         },
         "currencies": {
             "SCR": {
-                "name": "Seychellois rupee",
+                "name": "\u0421\u0435\u0439\u0447\u0435\u043b\u043b\u043e \u0420\u0443\u043f\u0438\u044f",
                 "symbol": "\u20a8"
             }
         },

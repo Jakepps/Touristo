@@ -1,7 +1,7 @@
 {
     "zm": {
-        "name": "Zambia",
-        "official_name": "Republic of Zambia",
+        "name": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0417\u0430\u043c\u0431\u0438\u044f",
         "topLevelDomain": [
             ".zm"
         ],
@@ -10,13 +10,13 @@
         "cioc": "ZAM",
         "numericCode": "894",
         "callingCode": "+260",
-        "capital": "Lusaka",
+        "capital": "\u041b\u0443\u0441\u0430\u043a\u0430",
         "altSpellings": [
             "ZM",
             "Republic of Zambia"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 18383956,
         "latLng": {
             "country": [
@@ -63,7 +63,7 @@
         },
         "currencies": {
             "ZMW": {
-                "name": "Zambian kwacha",
+                "name": "\u0417\u0430\u043c\u0431\u0438\u0439\u0441\u043a\u0438\u0439 \u041a\u0432\u0430\u0447\u0430",
                 "symbol": "ZK"
             }
         },

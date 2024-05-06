@@ -1,7 +1,7 @@
 {
     "mh": {
-        "name": "Marshall Islands",
-        "official_name": "Republic of the Marshall Islands",
+        "name": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0448\u0430\u043b\u043b -\u041e\u0441\u0442\u0440\u043e\u0432\u0430",
         "topLevelDomain": [
             ".mh"
         ],
@@ -10,14 +10,14 @@
         "cioc": "MHL",
         "numericCode": "584",
         "callingCode": "+692",
-        "capital": "Majuro",
+        "capital": "\u041c\u0430\u0434\u0436\u0443\u0440\u043e",
         "altSpellings": [
             "MH",
             "Republic of the Marshall Islands",
             "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"
         ],
-        "region": "Oceania",
-        "subregion": "Micronesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f",
         "population": 59194,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

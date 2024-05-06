@@ -1,7 +1,7 @@
 {
     "zw": {
-        "name": "Zimbabwe",
-        "official_name": "Republic of Zimbabwe",
+        "name": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
         "topLevelDomain": [
             ".zw"
         ],
@@ -10,13 +10,13 @@
         "cioc": "ZIM",
         "numericCode": "716",
         "callingCode": "+263",
-        "capital": "Harare",
+        "capital": "\u0425\u0430\u0440\u0430\u0440\u0435",
         "altSpellings": [
             "ZW",
             "Republic of Zimbabwe"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 14862927,
         "latLng": {
             "country": [
@@ -115,7 +115,7 @@
         },
         "currencies": {
             "ZWL": {
-                "name": "Zimbabwean dollar",
+                "name": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

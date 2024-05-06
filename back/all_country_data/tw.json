@@ -1,7 +1,7 @@
 {
     "tw": {
-        "name": "Taiwan",
-        "official_name": "Republic of China (Taiwan)",
+        "name": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "official_name": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 (\u0422\u0430\u0439\u0432\u0430\u043d\u044c)",
         "topLevelDomain": [
             ".tw"
         ],
@@ -10,7 +10,7 @@
         "cioc": "TPE",
         "numericCode": "158",
         "callingCode": "+886",
-        "capital": "Taipei",
+        "capital": "\u0422\u0430\u0439\u0431\u044d\u0439",
         "altSpellings": [
             "TW",
             "T\u00e1iw\u0101n",
@@ -19,8 +19,8 @@
             "Zh\u014dnghu\u00e1 M\u00edngu\u00f3",
             "Chinese Taipei"
         ],
-        "region": "Asia",
-        "subregion": "Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 23503349,
         "latLng": {
             "country": [
@@ -56,7 +56,7 @@
         },
         "currencies": {
             "TWD": {
-                "name": "New Taiwan dollar",
+                "name": "\u041d\u043e\u0432\u044b\u0439 \u0422\u0430\u0439\u0432\u0430\u043d\u044c\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

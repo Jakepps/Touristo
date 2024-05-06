@@ -1,7 +1,7 @@
 {
     "er": {
-        "name": "Eritrea",
-        "official_name": "State of Eritrea",
+        "name": "\u042d\u0440\u0438\u0442\u0440\u0435\u044f",
+        "official_name": "\u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u042d\u0440\u0438\u0442\u0440\u0435\u0438",
         "topLevelDomain": [
             ".er"
         ],
@@ -10,7 +10,7 @@
         "cioc": "ERI",
         "numericCode": "232",
         "callingCode": "+291",
-        "capital": "Asmara",
+        "capital": "\u0410\u0441\u043c\u0430\u0440\u0430",
         "altSpellings": [
             "ER",
             "State of Eritrea",
@@ -19,8 +19,8 @@
             "\u02beErtr\u0101",
             "Iritriy\u0101"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 5352000,
         "latLng": {
             "country": [
@@ -68,7 +68,7 @@
         },
         "currencies": {
             "ERN": {
-                "name": "Eritrean nakfa",
+                "name": "\u042d\u0440\u0438\u0442\u0440\u0435\u0439\u043d \u041d\u0430\u043a\u0444\u0430",
                 "symbol": "Nfk"
             }
         },

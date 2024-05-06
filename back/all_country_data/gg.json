@@ -1,7 +1,7 @@
 {
     "gg": {
-        "name": "Guernsey",
-        "official_name": "Bailiwick of Guernsey",
+        "name": "\u0413\u0435\u0440\u043d\u0441\u0438",
+        "official_name": "\u0411\u0435\u0439\u043b\u0438\u0432\u0438\u043a \u0413\u0435\u0440\u043d\u0441\u0438",
         "topLevelDomain": [
             ".gg"
         ],
@@ -10,14 +10,14 @@
         "cioc": "N/A",
         "numericCode": "831",
         "callingCode": "+44",
-        "capital": "St. Peter Port",
+        "capital": "\u041f\u043e\u0440\u0442 \u0421\u0432\u044f\u0442\u043e\u0433\u043e \u041f\u0435\u0442\u0440\u0430",
         "altSpellings": [
             "GG",
             "Bailiwick of Guernsey",
             "Bailliage de Guernesey"
         ],
-        "region": "Europe",
-        "subregion": "Northern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 62999,
         "latLng": {
             "country": [
@@ -61,11 +61,11 @@
         },
         "currencies": {
             "GBP": {
-                "name": "British pound",
+                "name": "\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0444\u0443\u043d\u0442",
                 "symbol": "\u00a3"
             },
             "GGP": {
-                "name": "Guernsey pound",
+                "name": "\u0413\u0435\u0440\u043d\u0441\u0438 \u041f\u0430\u0443\u043d\u0434",
                 "symbol": "\u00a3"
             }
         },

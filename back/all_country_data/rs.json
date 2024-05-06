@@ -1,7 +1,7 @@
 {
     "rs": {
-        "name": "Serbia",
-        "official_name": "Republic of Serbia",
+        "name": "\u0421\u0435\u0440\u0431\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0440\u0431\u0438\u044f",
         "topLevelDomain": [
             ".rs"
         ],
@@ -10,7 +10,7 @@
         "cioc": "SRB",
         "numericCode": "688",
         "callingCode": "+381",
-        "capital": "Belgrade",
+        "capital": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
         "altSpellings": [
             "RS",
             "Srbija",
@@ -18,8 +18,8 @@
             "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
             "Republika Srbija"
         ],
-        "region": "Europe",
-        "subregion": "Southeast Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0433\u043e -\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 6908224,
         "latLng": {
             "country": [
@@ -66,7 +66,7 @@
         },
         "currencies": {
             "RSD": {
-                "name": "Serbian dinar",
+                "name": "\u0421\u0435\u0440\u0431\u0441\u043a\u0438\u0439 \u0414\u0438\u043d\u0430\u0440",
                 "symbol": "\u0434\u0438\u043d."
             }
         },

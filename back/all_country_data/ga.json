@@ -1,7 +1,7 @@
 {
     "ga": {
-        "name": "Gabon",
-        "official_name": "Gabonese Republic",
+        "name": "\u0413\u0430\u0431\u043e\u043d",
+        "official_name": "\u0413\u0430\u0431\u043e\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".ga"
         ],
@@ -10,14 +10,14 @@
         "cioc": "GAB",
         "numericCode": "266",
         "callingCode": "+241",
-        "capital": "Libreville",
+        "capital": "\u041b\u0438\u0431\u0440\u0435\u0432\u0438\u043b\u044c",
         "altSpellings": [
             "GA",
             "Gabonese Republic",
             "R\u00e9publique Gabonaise"
         ],
-        "region": "Africa",
-        "subregion": "Middle Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 2225728,
         "latLng": {
             "country": [
@@ -59,7 +59,7 @@
         },
         "currencies": {
             "XAF": {
-                "name": "Central African CFA franc",
+                "name": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f CFA Fran",
                 "symbol": "Fr"
             }
         },

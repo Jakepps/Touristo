@@ -1,7 +1,7 @@
 {
     "ls": {
-        "name": "Lesotho",
-        "official_name": "Kingdom of Lesotho",
+        "name": "\u041b\u0435\u0441\u043e\u0442\u043e",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u041b\u0435\u0441\u043e\u0442\u043e",
         "topLevelDomain": [
             ".ls"
         ],
@@ -10,14 +10,14 @@
         "cioc": "LES",
         "numericCode": "426",
         "callingCode": "+266",
-        "capital": "Maseru",
+        "capital": "\u041c\u0430\u0441\u0435\u0440\u0443",
         "altSpellings": [
             "LS",
             "Kingdom of Lesotho",
             "Muso oa Lesotho"
         ],
-        "region": "Africa",
-        "subregion": "Southern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 2142252,
         "latLng": {
             "country": [
@@ -61,11 +61,11 @@
         },
         "currencies": {
             "LSL": {
-                "name": "Lesotho loti",
+                "name": "\u041b\u0435\u0441\u043e\u0442\u043e \u041b\u043e\u0442\u0438",
                 "symbol": "L"
             },
             "ZAR": {
-                "name": "South African rand",
+                "name": "\u042e\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0420\u044d\u043d\u0434",
                 "symbol": "R"
             }
         },

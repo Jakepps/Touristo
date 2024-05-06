@@ -1,7 +1,7 @@
 {
     "mo": {
-        "name": "Macau",
-        "official_name": "Macao Special Administrative Region of the People's Republic of China",
+        "name": "\u041c\u0430\u043a\u0430\u043e",
+        "official_name": "\u041c\u0430\u043a\u0430\u043e \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d \u041a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0439 \u041d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438",
         "topLevelDomain": [
             ".mo"
         ],
@@ -10,7 +10,7 @@
         "cioc": "N/A",
         "numericCode": "446",
         "callingCode": "+853",
-        "capital": "N/A",
+        "capital": "N/a",
         "altSpellings": [
             "MO",
             "\u6fb3\u95e8",
@@ -19,8 +19,8 @@
             "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340",
             "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"
         ],
-        "region": "Asia",
-        "subregion": "Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 649342,
         "latLng": {
             "country": [
@@ -59,7 +59,7 @@
         },
         "currencies": {
             "MOP": {
-                "name": "Macanese pataca",
+                "name": "\u041c\u0430\u043a\u0430\u043d\u0435\u0437 \u041f\u0430\u0442\u0430\u043a\u0430",
                 "symbol": "P"
             }
         },

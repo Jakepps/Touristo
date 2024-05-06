@@ -1,7 +1,7 @@
 {
     "im": {
-        "name": "Isle of Man",
-        "official_name": "Isle of Man",
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
+        "official_name": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
         "topLevelDomain": [
             ".im"
         ],
@@ -10,15 +10,15 @@
         "cioc": "N/A",
         "numericCode": "833",
         "callingCode": "+44",
-        "capital": "Douglas",
+        "capital": "\u0414\u0443\u0433\u043b\u0430\u0441",
         "altSpellings": [
             "IM",
             "Ellan Vannin",
             "Mann",
             "Mannin"
         ],
-        "region": "Europe",
-        "subregion": "Northern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 85032,
         "latLng": {
             "country": [
@@ -54,11 +54,11 @@
         },
         "currencies": {
             "GBP": {
-                "name": "British pound",
+                "name": "\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0444\u0443\u043d\u0442",
                 "symbol": "\u00a3"
             },
             "IMP": {
-                "name": "Manx pound",
+                "name": "\u041c\u0430\u043d\u043a\u0441 \u0444\u0443\u043d\u0442",
                 "symbol": "\u00a3"
             }
         },

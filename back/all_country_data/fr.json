@@ -1,7 +1,7 @@
 {
     "fr": {
-        "name": "France",
-        "official_name": "French Republic",
+        "name": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+        "official_name": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".fr"
         ],
@@ -10,14 +10,14 @@
         "cioc": "FRA",
         "numericCode": "250",
         "callingCode": "+33",
-        "capital": "Paris",
+        "capital": "\u041f\u0430\u0440\u0438\u0436",
         "altSpellings": [
             "FR",
             "French Republic",
             "R\u00e9publique fran\u00e7aise"
         ],
-        "region": "Europe",
-        "subregion": "Western Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0437\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 67391582,
         "latLng": {
             "country": [
@@ -77,7 +77,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

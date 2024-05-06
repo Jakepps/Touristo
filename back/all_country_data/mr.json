@@ -1,7 +1,7 @@
 {
     "mr": {
-        "name": "Mauritania",
-        "official_name": "Islamic Republic of Mauritania",
+        "name": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "official_name": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
         "topLevelDomain": [
             ".mr"
         ],
@@ -10,14 +10,14 @@
         "cioc": "MTN",
         "numericCode": "478",
         "callingCode": "+222",
-        "capital": "Nouakchott",
+        "capital": "\u041d\u0443\u043a\u0447\u043e\u0442\u0442",
         "altSpellings": [
             "MR",
             "Islamic Republic of Mauritania",
             "al-Jumh\u016briyyah al-\u02beIsl\u0101miyyah al-M\u016br\u012bt\u0101niyyah"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 4649660,
         "latLng": {
             "country": [
@@ -60,7 +60,7 @@
         },
         "currencies": {
             "MRU": {
-                "name": "Mauritanian ouguiya",
+                "name": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0443\u0443\u0433\u0438\u044f",
                 "symbol": "UM"
             }
         },

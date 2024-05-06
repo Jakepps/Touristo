@@ -1,7 +1,7 @@
 {
     "pg": {
-        "name": "Papua New Guinea",
-        "official_name": "Independent State of Papua New Guinea",
+        "name": "\u041f\u0430\u043f\u0443\u0430 - \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+        "official_name": "\u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u041f\u0430\u043f\u0443\u0430 -\u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
         "topLevelDomain": [
             ".pg"
         ],
@@ -10,14 +10,14 @@
         "cioc": "PNG",
         "numericCode": "598",
         "callingCode": "+675",
-        "capital": "Port Moresby",
+        "capital": "\u041f\u043e\u0440\u0442 \u041c\u043e\u0440\u0441\u0431\u0438",
         "altSpellings": [
             "PG",
             "Independent State of Papua New Guinea",
             "Independen Stet bilong Papua Niugini"
         ],
-        "region": "Oceania",
-        "subregion": "Melanesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0435\u043b\u0430\u043d\u0435\u0437\u0438\u044f",
         "population": 8947027,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "PGK": {
-                "name": "Papua New Guinean kina",
+                "name": "\u041f\u0430\u043f\u0443\u0430 -\u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u0439\u0441\u043a\u0430\u044f \u041a\u0438\u043d\u0430",
                 "symbol": "K"
             }
         },

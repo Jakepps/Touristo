@@ -1,7 +1,7 @@
 {
     "pk": {
-        "name": "Pakistan",
-        "official_name": "Islamic Republic of Pakistan",
+        "name": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+        "official_name": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
         "topLevelDomain": [
             ".pk"
         ],
@@ -10,15 +10,15 @@
         "cioc": "PAK",
         "numericCode": "586",
         "callingCode": "+92",
-        "capital": "Islamabad",
+        "capital": "\u0418\u0441\u043b\u0430\u043c\u0430\u0431\u0430\u0434",
         "altSpellings": [
             "PK",
             "P\u0101kist\u0101n",
             "Islamic Republic of Pakistan",
             "Isl\u0101m\u012b Jumh\u016briya'eh P\u0101kist\u0101n"
         ],
-        "region": "Asia",
-        "subregion": "Southern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 220892331,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "PKR": {
-                "name": "Pakistani rupee",
+                "name": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0440\u0443\u043f\u0438\u044f",
                 "symbol": "\u20a8"
             }
         },

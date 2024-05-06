@@ -1,7 +1,7 @@
 {
     "co": {
-        "name": "Colombia",
-        "official_name": "Republic of Colombia",
+        "name": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
         "topLevelDomain": [
             ".co"
         ],
@@ -10,14 +10,14 @@
         "cioc": "COL",
         "numericCode": "170",
         "callingCode": "+57",
-        "capital": "Bogot\u00e1",
+        "capital": "\u0411\u043e\u0433\u043e\u0442\u0430",
         "altSpellings": [
             "CO",
             "Republic of Colombia",
             "Rep\u00fablica de Colombia"
         ],
-        "region": "Americas",
-        "subregion": "South America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 50882884,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "COP": {
-                "name": "Colombian peso",
+                "name": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u0439\u0441\u043a\u0438\u0439 \u043f\u0435\u0441\u043e",
                 "symbol": "$"
             }
         },

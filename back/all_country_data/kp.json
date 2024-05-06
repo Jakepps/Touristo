@@ -1,7 +1,7 @@
 {
     "kp": {
-        "name": "North Korea",
-        "official_name": "Democratic People's Republic of Korea",
+        "name": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f",
+        "official_name": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f",
         "topLevelDomain": [
             ".kp"
         ],
@@ -10,7 +10,7 @@
         "cioc": "PRK",
         "numericCode": "408",
         "callingCode": "+850",
-        "capital": "Pyongyang",
+        "capital": "\u041f\u0445\u0435\u043d\u044c\u044f\u043d",
         "altSpellings": [
             "KP",
             "Democratic People's Republic of Korea",
@@ -21,8 +21,8 @@
             "\ubd81\ud55c",
             "\ubd81\uc870\uc120"
         ],
-        "region": "Asia",
-        "subregion": "Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 25778815,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "KPW": {
-                "name": "North Korean won",
+                "name": "\u0421\u0435\u0432\u0435\u0440\u043e\u043a\u043e\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0432\u044b\u0438\u0433\u0440\u0430\u043b",
                 "symbol": "\u20a9"
             }
         },

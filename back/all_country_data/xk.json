@@ -1,20 +1,20 @@
 {
     "xk": {
-        "name": "Kosovo",
-        "official_name": "Republic of Kosovo",
+        "name": "\u041a\u043e\u0441\u043e\u0432\u043e",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e",
         "topLevelDomain": "N/A",
         "alpha2Code": "XK",
         "alpha3Code": "UNK",
         "cioc": "KOS",
         "numericCode": "N/A",
         "callingCode": "+383",
-        "capital": "Pristina",
+        "capital": "\u041f\u0440\u0438\u0441\u0442\u0438\u043d\u0430",
         "altSpellings": [
             "XK",
             "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"
         ],
-        "region": "Europe",
-        "subregion": "Southeast Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0433\u043e -\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 1775378,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

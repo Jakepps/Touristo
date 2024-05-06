@@ -1,7 +1,7 @@
 {
     "cu": {
-        "name": "Cuba",
-        "official_name": "Republic of Cuba",
+        "name": "\u041a\u0443\u0431\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0443\u0431\u0430",
         "topLevelDomain": [
             ".cu"
         ],
@@ -10,14 +10,14 @@
         "cioc": "CUB",
         "numericCode": "192",
         "callingCode": "+53",
-        "capital": "Havana",
+        "capital": "\u0413\u0430\u0432\u0430\u043d\u0430",
         "altSpellings": [
             "CU",
             "Republic of Cuba",
             "Rep\u00fablica de Cuba"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 11326616,
         "latLng": {
             "country": [
@@ -53,11 +53,11 @@
         },
         "currencies": {
             "CUC": {
-                "name": "Cuban convertible peso",
+                "name": "\u041a\u0443\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u0431\u0440\u0438\u043e\u043b\u0435\u0442",
                 "symbol": "$"
             },
             "CUP": {
-                "name": "Cuban peso",
+                "name": "\u041a\u0443\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0435\u0441\u043e",
                 "symbol": "$"
             }
         },

@@ -1,7 +1,7 @@
 {
     "hr": {
-        "name": "Croatia",
-        "official_name": "Republic of Croatia",
+        "name": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
         "topLevelDomain": [
             ".hr"
         ],
@@ -10,15 +10,15 @@
         "cioc": "CRO",
         "numericCode": "191",
         "callingCode": "+385",
-        "capital": "Zagreb",
+        "capital": "\u0417\u0430\u0433\u0440\u0435\u0431",
         "altSpellings": [
             "HR",
             "Hrvatska",
             "Republic of Croatia",
             "Republika Hrvatska"
         ],
-        "region": "Europe",
-        "subregion": "Southeast Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0433\u043e -\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 4047200,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "HRK": {
-                "name": "Croatian kuna",
+                "name": "\u0425\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0443\u043d\u0430",
                 "symbol": "kn"
             }
         },

@@ -1,7 +1,7 @@
 {
     "io": {
-        "name": "British Indian Ocean Territory",
-        "official_name": "British Indian Ocean Territory",
+        "name": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043e\u043a\u0435\u0430\u043d\u0430",
+        "official_name": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043e\u043a\u0435\u0430\u043d\u0430",
         "topLevelDomain": [
             ".io"
         ],
@@ -10,12 +10,12 @@
         "cioc": "N/A",
         "numericCode": "086",
         "callingCode": "+246",
-        "capital": "Diego Garcia",
+        "capital": "\u0414\u0438\u0435\u0433\u043e \u0413\u0430\u0440\u0441\u0438\u044f",
         "altSpellings": [
             "IO"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 3000,
         "latLng": {
             "country": [
@@ -47,7 +47,7 @@
         },
         "currencies": {
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

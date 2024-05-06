@@ -1,7 +1,7 @@
 {
     "gr": {
-        "name": "Greece",
-        "official_name": "Hellenic Republic",
+        "name": "\u0413\u0440\u0435\u0446\u0438\u044f",
+        "official_name": "\u042d\u043b\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".gr"
         ],
@@ -10,15 +10,15 @@
         "cioc": "GRE",
         "numericCode": "300",
         "callingCode": "+30",
-        "capital": "Athens",
+        "capital": "\u0410\u0444\u0438\u043d\u044b",
         "altSpellings": [
             "GR",
             "Ell\u00e1da",
             "Hellenic Republic",
             "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
         ],
-        "region": "Europe",
-        "subregion": "Southern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 10715549,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

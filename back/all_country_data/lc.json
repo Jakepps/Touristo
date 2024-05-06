@@ -1,7 +1,7 @@
 {
     "lc": {
-        "name": "Saint Lucia",
-        "official_name": "Saint Lucia",
+        "name": "\u0421\u0430\u043d\u043a\u0442-\u041b\u044e\u0441\u0438\u044f",
+        "official_name": "\u0421\u0430\u043d\u043a\u0442-\u041b\u044e\u0441\u0438\u044f",
         "topLevelDomain": [
             ".lc"
         ],
@@ -10,12 +10,12 @@
         "cioc": "LCA",
         "numericCode": "662",
         "callingCode": "+1758",
-        "capital": "Castries",
+        "capital": "\u041a\u0430\u0441\u0442\u0440\u0438\u0435",
         "altSpellings": [
             "LC"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 183629,
         "latLng": {
             "country": [
@@ -53,7 +53,7 @@
         },
         "currencies": {
             "XCD": {
-                "name": "Eastern Caribbean dollar",
+                "name": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

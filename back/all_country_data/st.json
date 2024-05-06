@@ -1,7 +1,7 @@
 {
     "st": {
-        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-        "official_name": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "name": "\u0421\u0430\u043d -\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435",
+        "official_name": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u043d -\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435",
         "topLevelDomain": [
             ".st"
         ],
@@ -10,15 +10,15 @@
         "cioc": "STP",
         "numericCode": "678",
         "callingCode": "+239",
-        "capital": "S\u00e3o Tom\u00e9",
+        "capital": "\u0421\u0430\u043d -\u0422\u043e\u043c\u0435",
         "altSpellings": [
             "ST",
             "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
             "Sao Tome and Principe",
             "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"
         ],
-        "region": "Africa",
-        "subregion": "Middle Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 219161,
         "latLng": {
             "country": [
@@ -56,7 +56,7 @@
         },
         "currencies": {
             "STN": {
-                "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+                "name": "\u0421\u0430\u043d -\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435 \u0414\u043e\u0431\u0440\u0430",
                 "symbol": "Db"
             }
         },

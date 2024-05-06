@@ -1,7 +1,7 @@
 {
     "ie": {
-        "name": "Ireland",
-        "official_name": "Republic of Ireland",
+        "name": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "official_name": "\u0418\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".ie"
         ],
@@ -10,15 +10,15 @@
         "cioc": "IRL",
         "numericCode": "372",
         "callingCode": "+353",
-        "capital": "Dublin",
+        "capital": "\u0414\u0443\u0431\u043b\u0438\u043d",
         "altSpellings": [
             "IE",
             "\u00c9ire",
             "Republic of Ireland",
             "Poblacht na h\u00c9ireann"
         ],
-        "region": "Europe",
-        "subregion": "Northern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 4994724,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

@@ -1,7 +1,7 @@
 {
     "to": {
-        "name": "Tonga",
-        "official_name": "Kingdom of Tonga",
+        "name": "\u0422\u043e\u043d\u0433\u0430",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0422\u043e\u043d\u0433\u0430",
         "topLevelDomain": [
             ".to"
         ],
@@ -14,8 +14,8 @@
         "altSpellings": [
             "TO"
         ],
-        "region": "Oceania",
-        "subregion": "Polynesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041f\u043e\u043b\u0438\u043d\u0435\u0437\u0438\u044f",
         "population": 105697,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "TOP": {
-                "name": "Tongan pa\u02bbanga",
+                "name": "\u0422\u043e\u043d\u0433\u0430\u043d \u043f\u0430'\u0430\u043d\u0433\u0430",
                 "symbol": "T$"
             }
         },

@@ -1,7 +1,7 @@
 {
     "ir": {
-        "name": "Iran",
-        "official_name": "Islamic Republic of Iran",
+        "name": "\u0418\u0440\u0430\u043d",
+        "official_name": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u0430\u043d",
         "topLevelDomain": [
             ".ir"
         ],
@@ -10,15 +10,15 @@
         "cioc": "IRI",
         "numericCode": "364",
         "callingCode": "+98",
-        "capital": "Tehran",
+        "capital": "\u0422\u0435\u0433\u0435\u0440\u0430\u043d",
         "altSpellings": [
             "IR",
             "Islamic Republic of Iran",
             "Iran, Islamic Republic of",
             "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"
         ],
-        "region": "Asia",
-        "subregion": "Southern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 83992953,
         "latLng": {
             "country": [
@@ -64,7 +64,7 @@
         },
         "currencies": {
             "IRR": {
-                "name": "Iranian rial",
+                "name": "\u0418\u0440\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0438\u0430\u043b",
                 "symbol": "\ufdfc"
             }
         },

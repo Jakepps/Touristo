@@ -1,7 +1,7 @@
 {
     "cr": {
-        "name": "Costa Rica",
-        "official_name": "Republic of Costa Rica",
+        "name": "\u041a\u043e\u0441\u0442\u0430 -\u0420\u0438\u043a\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u0442\u0430 -\u0420\u0438\u043a\u0430",
         "topLevelDomain": [
             ".cr"
         ],
@@ -10,14 +10,14 @@
         "cioc": "CRC",
         "numericCode": "188",
         "callingCode": "+506",
-        "capital": "San Jos\u00e9",
+        "capital": "\u0421\u0430\u043d - \u0425\u043e\u0441\u0435",
         "altSpellings": [
             "CR",
             "Republic of Costa Rica",
             "Rep\u00fablica de Costa Rica"
         ],
-        "region": "Americas",
-        "subregion": "Central America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 5094114,
         "latLng": {
             "country": [
@@ -58,7 +58,7 @@
         },
         "currencies": {
             "CRC": {
-                "name": "Costa Rican col\u00f3n",
+                "name": "\u041a\u043e\u0441\u0442\u0430 -\u0420\u0438\u043a\u0430\u043d \u041a\u043e\u043b\u043e\u043d",
                 "symbol": "\u20a1"
             }
         },

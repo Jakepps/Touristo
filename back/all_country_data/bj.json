@@ -1,7 +1,7 @@
 {
     "bj": {
-        "name": "Benin",
-        "official_name": "Republic of Benin",
+        "name": "\u0411\u0435\u043d\u0438\u043d",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043d\u0438\u043d",
         "topLevelDomain": [
             ".bj"
         ],
@@ -10,14 +10,14 @@
         "cioc": "BEN",
         "numericCode": "204",
         "callingCode": "+229",
-        "capital": "Porto-Novo",
+        "capital": "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e",
         "altSpellings": [
             "BJ",
             "Republic of Benin",
             "R\u00e9publique du B\u00e9nin"
         ],
-        "region": "Africa",
-        "subregion": "Western Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 12123198,
         "latLng": {
             "country": [
@@ -60,7 +60,7 @@
         },
         "currencies": {
             "XOF": {
-                "name": "West African CFA franc",
+                "name": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 CFA Fran",
                 "symbol": "Fr"
             }
         },

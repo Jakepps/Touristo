@@ -1,7 +1,7 @@
 {
     "mp": {
-        "name": "Northern Mariana Islands",
-        "official_name": "Commonwealth of the Northern Mariana Islands",
+        "name": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u041c\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "official_name": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u043e\u0441\u0442\u0440\u043e\u0432\u043e\u0432 \u0441\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u041c\u0430\u0440\u0438\u0430\u043d\u0430",
         "topLevelDomain": [
             ".mp"
         ],
@@ -10,14 +10,14 @@
         "cioc": "N/A",
         "numericCode": "580",
         "callingCode": "+1670",
-        "capital": "Saipan",
+        "capital": "\u0421\u0430\u0439\u043f\u0430\u043d",
         "altSpellings": [
             "MP",
             "Commonwealth of the Northern Mariana Islands",
             "Sankattan Siha Na Islas Mari\u00e5nas"
         ],
-        "region": "Oceania",
-        "subregion": "Micronesia",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u044f",
         "population": 57557,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

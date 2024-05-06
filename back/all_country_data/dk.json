@@ -1,7 +1,7 @@
 {
     "dk": {
-        "name": "Denmark",
-        "official_name": "Kingdom of Denmark",
+        "name": "\u0414\u0430\u043d\u0438\u044f",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0414\u0430\u043d\u0438\u0438",
         "topLevelDomain": [
             ".dk"
         ],
@@ -10,15 +10,15 @@
         "cioc": "DEN",
         "numericCode": "208",
         "callingCode": "+45",
-        "capital": "Copenhagen",
+        "capital": "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d",
         "altSpellings": [
             "DK",
             "Danmark",
             "Kingdom of Denmark",
             "Kongeriget Danmark"
         ],
-        "region": "Europe",
-        "subregion": "Northern Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 5831404,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "DKK": {
-                "name": "Danish krone",
+                "name": "\u0414\u0430\u0442\u0441\u043a\u0438\u0439 \u041a\u0440\u043e\u043d\u0430",
                 "symbol": "kr"
             }
         },

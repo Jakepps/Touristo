@@ -1,7 +1,7 @@
 {
     "kg": {
-        "name": "Kyrgyzstan",
-        "official_name": "Kyrgyz Republic",
+        "name": "\u041a\u044b\u0440\u0433\u0438\u0437\u0441\u0442\u0430\u043d",
+        "official_name": "\u041a\u044b\u0440\u0433\u0438\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".kg"
         ],
@@ -10,7 +10,7 @@
         "cioc": "KGZ",
         "numericCode": "417",
         "callingCode": "+996",
-        "capital": "Bishkek",
+        "capital": "\u0411\u0438\u0448\u043a\u0435\u043a",
         "altSpellings": [
             "KG",
             "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
@@ -18,8 +18,8 @@
             "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
             "Kyrgyz Respublikasy"
         ],
-        "region": "Asia",
-        "subregion": "Central Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 6591600,
         "latLng": {
             "country": [
@@ -66,7 +66,7 @@
         },
         "currencies": {
             "KGS": {
-                "name": "Kyrgyzstani som",
+                "name": "Kyrgyzstani Som",
                 "symbol": "\u0441"
             }
         },

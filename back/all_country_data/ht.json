@@ -1,7 +1,7 @@
 {
     "ht": {
-        "name": "Haiti",
-        "official_name": "Republic of Haiti",
+        "name": "\u0413\u0430\u0438\u0442\u0438",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u0438\u0442\u0438",
         "topLevelDomain": [
             ".ht"
         ],
@@ -10,15 +10,15 @@
         "cioc": "HAI",
         "numericCode": "332",
         "callingCode": "+509",
-        "capital": "Port-au-Prince",
+        "capital": "\u041f\u043e\u0440\u0442-\u043e-\u041f\u0440\u0435\u043d\u0441",
         "altSpellings": [
             "HT",
             "Republic of Haiti",
             "R\u00e9publique d'Ha\u00efti",
             "Repiblik Ayiti"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 11402533,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "HTG": {
-                "name": "Haitian gourde",
+                "name": "\u0413\u0430\u0438\u0442\u044f\u043d\u0441\u043a\u0438\u0439 \u0433\u0443\u0440\u0434",
                 "symbol": "G"
             }
         },

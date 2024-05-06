@@ -1,7 +1,7 @@
 {
     "gl": {
-        "name": "Greenland",
-        "official_name": "Greenland",
+        "name": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f",
+        "official_name": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f",
         "topLevelDomain": [
             ".gl"
         ],
@@ -10,13 +10,13 @@
         "cioc": "N/A",
         "numericCode": "304",
         "callingCode": "+299",
-        "capital": "Nuuk",
+        "capital": "\u041d\u0443\u043a",
         "altSpellings": [
             "GL",
             "Gr\u00f8nland"
         ],
-        "region": "Americas",
-        "subregion": "North America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 56367,
         "latLng": {
             "country": [
@@ -55,7 +55,7 @@
         },
         "currencies": {
             "DKK": {
-                "name": "krone",
+                "name": "\u043a\u0440\u043e\u043d\u0430",
                 "symbol": "kr."
             }
         },

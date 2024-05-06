@@ -1,7 +1,7 @@
 {
     "na": {
-        "name": "Namibia",
-        "official_name": "Republic of Namibia",
+        "name": "\u041d\u0430\u043c\u0438\u0431\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0430\u043c\u0438\u0431\u0438\u044f",
         "topLevelDomain": [
             ".na"
         ],
@@ -10,14 +10,14 @@
         "cioc": "NAM",
         "numericCode": "516",
         "callingCode": "+264",
-        "capital": "Windhoek",
+        "capital": "\u0412\u0438\u043d\u0434\u0445\u0443\u043a",
         "altSpellings": [
             "NA",
             "Namibi\u00eb",
             "Republic of Namibia"
         ],
-        "region": "Africa",
-        "subregion": "Southern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 2540916,
         "latLng": {
             "country": [
@@ -92,11 +92,11 @@
         },
         "currencies": {
             "NAD": {
-                "name": "Namibian dollar",
+                "name": "\u041d\u0430\u043c\u0438\u0431\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             },
             "ZAR": {
-                "name": "South African rand",
+                "name": "\u042e\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0420\u044d\u043d\u0434",
                 "symbol": "R"
             }
         },

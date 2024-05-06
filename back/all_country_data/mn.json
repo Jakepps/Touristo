@@ -1,7 +1,7 @@
 {
     "mn": {
-        "name": "Mongolia",
-        "official_name": "Mongolia",
+        "name": "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
+        "official_name": "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
         "topLevelDomain": [
             ".mn"
         ],
@@ -10,12 +10,12 @@
         "cioc": "MGL",
         "numericCode": "496",
         "callingCode": "+976",
-        "capital": "Ulan Bator",
+        "capital": "\u0423\u043b\u0430\u043d \u0411\u0410\u0422\u041e\u0420",
         "altSpellings": [
             "MN"
         ],
-        "region": "Asia",
-        "subregion": "Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 3278292,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "MNT": {
-                "name": "Mongolian t\u00f6gr\u00f6g",
+                "name": "\u041c\u043e\u043d\u0433\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0422\u0451\u0440\u0451\u0433",
                 "symbol": "\u20ae"
             }
         },

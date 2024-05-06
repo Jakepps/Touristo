@@ -1,7 +1,7 @@
 {
     "km": {
-        "name": "Comoros",
-        "official_name": "Union of the Comoros",
+        "name": "\u041a\u043e\u043c\u043e\u0440\u043e\u0441",
+        "official_name": "\u0421\u043e\u044e\u0437 \u043a\u043e\u043c\u043e\u0440\u043e\u0441\u043e\u0432",
         "topLevelDomain": [
             ".km"
         ],
@@ -10,7 +10,7 @@
         "cioc": "COM",
         "numericCode": "174",
         "callingCode": "+269",
-        "capital": "Moroni",
+        "capital": "\u041c\u043e\u0440\u043e\u043d\u0438",
         "altSpellings": [
             "KM",
             "Union of the Comoros",
@@ -18,8 +18,8 @@
             "Udzima wa Komori",
             "al-Itti\u1e25\u0101d al-Qumur\u012b"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 869595,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "KMF": {
-                "name": "Comorian franc",
+                "name": "\u041a\u043e\u043c\u043e\u0440\u0441 \u0424\u0440\u0430\u043d\u043a",
                 "symbol": "Fr"
             }
         },

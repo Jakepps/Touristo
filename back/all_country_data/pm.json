@@ -1,7 +1,7 @@
 {
     "pm": {
-        "name": "Saint Pierre and Miquelon",
-        "official_name": "Saint Pierre and Miquelon",
+        "name": "\u0421\u0435\u043d\u0442 -\u041f\u044c\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d",
+        "official_name": "\u0421\u0435\u043d\u0442 -\u041f\u044c\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d",
         "topLevelDomain": [
             ".pm"
         ],
@@ -10,13 +10,13 @@
         "cioc": "N/A",
         "numericCode": "666",
         "callingCode": "+508",
-        "capital": "Saint-Pierre",
+        "capital": "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440",
         "altSpellings": [
             "PM",
             "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"
         ],
-        "region": "Americas",
-        "subregion": "North America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 6069,
         "latLng": {
             "country": [
@@ -52,7 +52,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

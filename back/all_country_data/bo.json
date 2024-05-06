@@ -1,7 +1,7 @@
 {
     "bo": {
-        "name": "Bolivia",
-        "official_name": "Plurinational State of Bolivia",
+        "name": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f",
+        "official_name": "\u041f\u043b\u044e\u0440\u0438\u043d\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0411\u043e\u043b\u0438\u0432\u0438\u0438",
         "topLevelDomain": [
             ".bo"
         ],
@@ -10,7 +10,7 @@
         "cioc": "BOL",
         "numericCode": "068",
         "callingCode": "+591",
-        "capital": "Sucre",
+        "capital": "\u0421\u0443\u0441\u043a\u0430",
         "altSpellings": [
             "BO",
             "Buliwya",
@@ -22,8 +22,8 @@
             "Wuliwya Suyu",
             "Tet\u00e3 Vol\u00edvia"
         ],
-        "region": "Americas",
-        "subregion": "South America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 11673029,
         "latLng": {
             "country": [
@@ -79,7 +79,7 @@
         },
         "currencies": {
             "BOB": {
-                "name": "Bolivian boliviano",
+                "name": "\u0411\u043e\u043b\u0438\u0432\u0438\u0439\u0441\u043a\u0438\u0439 \u0411\u043e\u043b\u0438\u0432\u0438\u0430\u043d\u043e",
                 "symbol": "Bs."
             }
         },

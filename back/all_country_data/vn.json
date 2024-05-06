@@ -1,7 +1,7 @@
 {
     "vn": {
-        "name": "Vietnam",
-        "official_name": "Socialist Republic of Vietnam",
+        "name": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c",
+        "official_name": "\u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u044c\u0435\u0442\u043d\u0430\u043c",
         "topLevelDomain": [
             ".vn"
         ],
@@ -10,15 +10,15 @@
         "cioc": "VIE",
         "numericCode": "704",
         "callingCode": "+84",
-        "capital": "Hanoi",
+        "capital": "\u0425\u0430\u043d\u043e\u0439",
         "altSpellings": [
             "VN",
             "Socialist Republic of Vietnam",
             "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam",
             "Viet Nam"
         ],
-        "region": "Asia",
-        "subregion": "South-Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 97338583,
         "latLng": {
             "country": [
@@ -60,7 +60,7 @@
         },
         "currencies": {
             "VND": {
-                "name": "Vietnamese \u0111\u1ed3ng",
+                "name": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c\u0441\u043a\u0438\u0439 \u1ed3ng",
                 "symbol": "\u20ab"
             }
         },

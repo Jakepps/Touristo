@@ -1,7 +1,7 @@
 {
     "bl": {
-        "name": "Saint Barth\u00e9lemy",
-        "official_name": "Collectivity of Saint Barth\u00e9lemy",
+        "name": "\u0421\u0432\u044f\u0442\u043e\u0439 \u0411\u0430\u0440\u0442\u0435\u0435\u043c",
+        "official_name": "\u041a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0441\u0432\u044f\u0442\u043e\u0433\u043e \u0411\u0430\u0440\u0442\u0435\u0438\u043c\u0430",
         "topLevelDomain": [
             ".bl"
         ],
@@ -10,15 +10,15 @@
         "cioc": "N/A",
         "numericCode": "652",
         "callingCode": "+590",
-        "capital": "Gustavia",
+        "capital": "\u0413\u0443\u0441\u0442\u0430\u0432\u0438\u044f",
         "altSpellings": [
             "BL",
             "St. Barthelemy",
             "Collectivity of Saint Barth\u00e9lemy",
             "Collectivit\u00e9 de Saint-Barth\u00e9lemy"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 4255,
         "latLng": {
             "country": [
@@ -54,7 +54,7 @@
         },
         "currencies": {
             "EUR": {
-                "name": "Euro",
+                "name": "\u0415\u0432\u0440\u043e",
                 "symbol": "\u20ac"
             }
         },

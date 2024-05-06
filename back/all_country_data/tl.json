@@ -1,7 +1,7 @@
 {
     "tl": {
-        "name": "Timor-Leste",
-        "official_name": "Democratic Republic of Timor-Leste",
+        "name": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0448\u0442",
+        "official_name": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0438",
         "topLevelDomain": [
             ".tl"
         ],
@@ -10,7 +10,7 @@
         "cioc": "TLS",
         "numericCode": "626",
         "callingCode": "+670",
-        "capital": "Dili",
+        "capital": "\u0414\u0438\u043b\u0438",
         "altSpellings": [
             "TL",
             "East Timor",
@@ -20,8 +20,8 @@
             "Tim\u00f3r Lorosa'e",
             "Timor Lorosae"
         ],
-        "region": "Asia",
-        "subregion": "South-Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 1318442,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

@@ -1,7 +1,7 @@
 {
     "pe": {
-        "name": "Peru",
-        "official_name": "Republic of Peru",
+        "name": "\u041f\u0435\u0440\u0443",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0435\u0440\u0443",
         "topLevelDomain": [
             ".pe"
         ],
@@ -10,14 +10,14 @@
         "cioc": "PER",
         "numericCode": "604",
         "callingCode": "+51",
-        "capital": "Lima",
+        "capital": "\u041b\u0438\u043c\u0430",
         "altSpellings": [
             "PE",
             "Republic of Peru",
             "Rep\u00fablica del Per\u00fa"
         ],
-        "region": "Americas",
-        "subregion": "South America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 32971846,
         "latLng": {
             "country": [
@@ -69,7 +69,7 @@
         },
         "currencies": {
             "PEN": {
-                "name": "Peruvian sol",
+                "name": "\u041f\u0435\u0440\u0443\u0430\u043d\u0441\u043a\u0438\u0439 \u0441\u043e\u043b\u044c",
                 "symbol": "S/ "
             }
         },

@@ -1,7 +1,7 @@
 {
     "td": {
-        "name": "Chad",
-        "official_name": "Republic of Chad",
+        "name": "\u0427\u0430\u0434",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0430\u0434",
         "topLevelDomain": [
             ".td"
         ],
@@ -10,15 +10,15 @@
         "cioc": "CHA",
         "numericCode": "148",
         "callingCode": "+235",
-        "capital": "N'Djamena",
+        "capital": "N'djamena",
         "altSpellings": [
             "TD",
             "Tchad",
             "Republic of Chad",
             "R\u00e9publique du Tchad"
         ],
-        "region": "Africa",
-        "subregion": "Middle Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 16425859,
         "latLng": {
             "country": [
@@ -67,7 +67,7 @@
         },
         "currencies": {
             "XAF": {
-                "name": "Central African CFA franc",
+                "name": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f CFA Fran",
                 "symbol": "Fr"
             }
         },

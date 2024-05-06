@@ -1,7 +1,7 @@
 {
     "mz": {
-        "name": "Mozambique",
-        "official_name": "Republic of Mozambique",
+        "name": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
         "topLevelDomain": [
             ".mz"
         ],
@@ -10,14 +10,14 @@
         "cioc": "MOZ",
         "numericCode": "508",
         "callingCode": "+258",
-        "capital": "Maputo",
+        "capital": "\u041c\u0430\u043f\u0443\u0442\u0443",
         "altSpellings": [
             "MZ",
             "Republic of Mozambique",
             "Rep\u00fablica de Mo\u00e7ambique"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 31255435,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "MZN": {
-                "name": "Mozambican metical",
+                "name": "Mozambican Metical",
                 "symbol": "MT"
             }
         },

@@ -1,7 +1,7 @@
 {
     "al": {
-        "name": "Albania",
-        "official_name": "Republic of Albania",
+        "name": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0431\u0430\u043d\u0438\u044f",
         "topLevelDomain": [
             ".al"
         ],
@@ -10,15 +10,15 @@
         "cioc": "ALB",
         "numericCode": "008",
         "callingCode": "+355",
-        "capital": "Tirana",
+        "capital": "\u0422\u0438\u0440\u0430\u043d\u0430",
         "altSpellings": [
             "AL",
             "Shqip\u00ebri",
             "Shqip\u00ebria",
             "Shqipnia"
         ],
-        "region": "Europe",
-        "subregion": "Southeast Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u042e\u0433\u043e -\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 2837743,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "ALL": {
-                "name": "Albanian lek",
+                "name": "\u0410\u043b\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u043b\u0435\u043a",
                 "symbol": "L"
             }
         },

@@ -1,7 +1,7 @@
 {
     "ae": {
-        "name": "United Arab Emirates",
-        "official_name": "United Arab Emirates",
+        "name": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b",
+        "official_name": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b",
         "topLevelDomain": [
             ".ae"
         ],
@@ -10,14 +10,14 @@
         "cioc": "UAE",
         "numericCode": "784",
         "callingCode": "+971",
-        "capital": "Abu Dhabi",
+        "capital": "\u0410\u0431\u0443 \u0414\u0430\u0431\u0438",
         "altSpellings": [
             "AE",
             "UAE",
             "Emirates"
         ],
-        "region": "Asia",
-        "subregion": "Western Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 9890400,
         "latLng": {
             "country": [
@@ -58,7 +58,7 @@
         },
         "currencies": {
             "AED": {
-                "name": "United Arab Emirates dirham",
+                "name": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0430\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u044d\u043c\u0438\u0440\u0430\u0442\u044b \u0414\u0438\u0440\u0445\u0430\u043c",
                 "symbol": "\u062f.\u0625"
             }
         },

@@ -1,7 +1,7 @@
 {
     "nf": {
-        "name": "Norfolk Island",
-        "official_name": "Territory of Norfolk Island",
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041d\u043e\u0440\u0444\u043e\u043b\u043a",
+        "official_name": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041d\u043e\u0440\u0444\u043e\u043b\u043a",
         "topLevelDomain": [
             ".nf"
         ],
@@ -10,14 +10,14 @@
         "cioc": "N/A",
         "numericCode": "574",
         "callingCode": "+672",
-        "capital": "Kingston",
+        "capital": "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d",
         "altSpellings": [
             "NF",
             "Territory of Norfolk Island",
             "Teratri of Norf'k Ailen"
         ],
-        "region": "Oceania",
-        "subregion": "Australia and New Zealand",
+        "region": "\u041e\u043a\u0435\u0430\u043d\u0438\u044f",
+        "subregion": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
         "population": 2302,
         "latLng": {
             "country": [
@@ -57,7 +57,7 @@
         },
         "currencies": {
             "AUD": {
-                "name": "Australian dollar",
+                "name": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

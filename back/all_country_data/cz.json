@@ -1,7 +1,7 @@
 {
     "cz": {
-        "name": "Czechia",
-        "official_name": "Czech Republic",
+        "name": "\u0427\u0435\u0445\u0438\u044f",
+        "official_name": "\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
         "topLevelDomain": [
             ".cz"
         ],
@@ -10,14 +10,14 @@
         "cioc": "CZE",
         "numericCode": "203",
         "callingCode": "+420",
-        "capital": "Prague",
+        "capital": "\u041f\u0440\u0430\u0433\u0430",
         "altSpellings": [
             "CZ",
             "\u010cesk\u00e1 republika",
             "\u010cesko"
         ],
-        "region": "Europe",
-        "subregion": "Central Europe",
+        "region": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
         "population": 10698896,
         "latLng": {
             "country": [
@@ -64,7 +64,7 @@
         },
         "currencies": {
             "CZK": {
-                "name": "Czech koruna",
+                "name": "\u0427\u0435\u0445\u0438\u044f \u041a\u043e\u0440\u0443\u043d\u0430",
                 "symbol": "K\u010d"
             }
         },

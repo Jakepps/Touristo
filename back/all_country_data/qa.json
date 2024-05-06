@@ -1,7 +1,7 @@
 {
     "qa": {
-        "name": "Qatar",
-        "official_name": "State of Qatar",
+        "name": "\u041a\u0430\u0442\u0430\u0440",
+        "official_name": "\u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u041a\u0430\u0442\u0430\u0440",
         "topLevelDomain": [
             ".qa"
         ],
@@ -10,14 +10,14 @@
         "cioc": "QAT",
         "numericCode": "634",
         "callingCode": "+974",
-        "capital": "Doha",
+        "capital": "\u0414\u043e\u0445\u0430",
         "altSpellings": [
             "QA",
             "State of Qatar",
             "Dawlat Qa\u1e6dar"
         ],
-        "region": "Asia",
-        "subregion": "Western Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 2881060,
         "latLng": {
             "country": [
@@ -55,7 +55,7 @@
         },
         "currencies": {
             "QAR": {
-                "name": "Qatari riyal",
+                "name": "\u041a\u0430\u0442\u0430\u0440\u0438 \u0420\u0438\u044f\u043b",
                 "symbol": "\u0631.\u0642"
             }
         },

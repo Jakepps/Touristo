@@ -1,7 +1,7 @@
 {
     "az": {
-        "name": "Azerbaijan",
-        "official_name": "Republic of Azerbaijan",
+        "name": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
         "topLevelDomain": [
             ".az"
         ],
@@ -10,14 +10,14 @@
         "cioc": "AZE",
         "numericCode": "031",
         "callingCode": "+994",
-        "capital": "Baku",
+        "capital": "\u0411\u0430\u043a\u0443",
         "altSpellings": [
             "AZ",
             "Republic of Azerbaijan",
             "Az\u0259rbaycan Respublikas\u0131"
         ],
-        "region": "Asia",
-        "subregion": "Western Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 10110116,
         "latLng": {
             "country": [
@@ -65,7 +65,7 @@
         },
         "currencies": {
             "AZN": {
-                "name": "Azerbaijani manat",
+                "name": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0438 \u041c\u0430\u043d\u0430\u0442",
                 "symbol": "\u20bc"
             }
         },

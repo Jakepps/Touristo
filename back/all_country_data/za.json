@@ -1,7 +1,7 @@
 {
     "za": {
-        "name": "South Africa",
-        "official_name": "Republic of South Africa",
+        "name": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "topLevelDomain": [
             ".za"
         ],
@@ -10,15 +10,15 @@
         "cioc": "RSA",
         "numericCode": "710",
         "callingCode": "+27",
-        "capital": "Pretoria",
+        "capital": "\u041f\u0440\u0435\u0442\u043e\u0440\u0438\u044f",
         "altSpellings": [
             "ZA",
             "RSA",
             "Suid-Afrika",
             "Republic of South Africa"
         ],
-        "region": "Africa",
-        "subregion": "Southern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 59308690,
         "latLng": {
             "country": [
@@ -103,7 +103,7 @@
         },
         "currencies": {
             "ZAR": {
-                "name": "South African rand",
+                "name": "\u042e\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0420\u044d\u043d\u0434",
                 "symbol": "R"
             }
         },

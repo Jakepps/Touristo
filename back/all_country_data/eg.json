@@ -1,7 +1,7 @@
 {
     "eg": {
-        "name": "Egypt",
-        "official_name": "Arab Republic of Egypt",
+        "name": "\u0415\u0433\u0438\u043f\u0435\u0442",
+        "official_name": "\u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0415\u0433\u0438\u043f\u0435\u0442",
         "topLevelDomain": [
             ".eg"
         ],
@@ -10,13 +10,13 @@
         "cioc": "EGY",
         "numericCode": "818",
         "callingCode": "+20",
-        "capital": "Cairo",
+        "capital": "\u041a\u0430\u0438\u0440",
         "altSpellings": [
             "EG",
             "Arab Republic of Egypt"
         ],
-        "region": "Africa",
-        "subregion": "Northern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 102334403,
         "latLng": {
             "country": [
@@ -59,7 +59,7 @@
         },
         "currencies": {
             "EGP": {
-                "name": "Egyptian pound",
+                "name": "\u0415\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u0438\u0439 \u0444\u0443\u043d\u0442",
                 "symbol": "\u00a3"
             }
         },

@@ -1,7 +1,7 @@
 {
     "ps": {
-        "name": "Palestine",
-        "official_name": "State of Palestine",
+        "name": "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430",
+        "official_name": "\u0421\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u044b",
         "topLevelDomain": [
             ".ps"
         ],
@@ -10,15 +10,15 @@
         "cioc": "PLE",
         "numericCode": "275",
         "callingCode": "+970",
-        "capital": "Ramallah",
+        "capital": "\u0420\u0430\u043c\u0430\u043b\u043b\u0430\u0445",
         "altSpellings": [
             "PS",
             "Palestine, State of",
             "State of Palestine",
             "Dawlat Filas\u1e6din"
         ],
-        "region": "Asia",
-        "subregion": "Western Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 4803269,
         "latLng": {
             "country": [
@@ -60,15 +60,15 @@
         },
         "currencies": {
             "EGP": {
-                "name": "Egyptian pound",
+                "name": "\u0415\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u0438\u0439 \u0444\u0443\u043d\u0442",
                 "symbol": "E\u00a3"
             },
             "ILS": {
-                "name": "Israeli new shekel",
+                "name": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u041d\u043e\u0432\u044b\u0439 \u0428\u0435\u043a\u0435\u043b\u044c",
                 "symbol": "\u20aa"
             },
             "JOD": {
-                "name": "Jordanian dinar",
+                "name": "\u0414\u0436\u043e\u0440\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u0414\u0438\u043d\u0430\u0440",
                 "symbol": "JD"
             }
         },

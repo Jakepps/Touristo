@@ -1,7 +1,7 @@
 {
     "af": {
-        "name": "Afghanistan",
-        "official_name": "Islamic Republic of Afghanistan",
+        "name": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
+        "official_name": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
         "topLevelDomain": [
             ".af"
         ],
@@ -10,13 +10,13 @@
         "cioc": "AFG",
         "numericCode": "004",
         "callingCode": "+93",
-        "capital": "Kabul",
+        "capital": "\u041a\u0430\u0431\u0443\u043b",
         "altSpellings": [
             "AF",
             "Af\u0121\u0101nist\u0101n"
         ],
-        "region": "Asia",
-        "subregion": "Southern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 2837743,
         "latLng": {
             "country": [
@@ -67,7 +67,7 @@
         },
         "currencies": {
             "AFN": {
-                "name": "Afghan afghani",
+                "name": "\u0410\u0444\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0430\u0444\u0433\u0430\u043d\u0438",
                 "symbol": "\u060b"
             }
         },

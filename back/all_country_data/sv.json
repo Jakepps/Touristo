@@ -1,7 +1,7 @@
 {
     "sv": {
-        "name": "El Salvador",
-        "official_name": "Republic of El Salvador",
+        "name": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
         "topLevelDomain": [
             ".sv"
         ],
@@ -10,14 +10,14 @@
         "cioc": "ESA",
         "numericCode": "222",
         "callingCode": "+503",
-        "capital": "San Salvador",
+        "capital": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
         "altSpellings": [
             "SV",
             "Republic of El Salvador",
             "Rep\u00fablica de El Salvador"
         ],
-        "region": "Americas",
-        "subregion": "Central America",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u043c\u0435\u0440\u0438\u043a\u0430",
         "population": 6486201,
         "latLng": {
             "country": [
@@ -58,7 +58,7 @@
         },
         "currencies": {
             "USD": {
-                "name": "United States dollar",
+                "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

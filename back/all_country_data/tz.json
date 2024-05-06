@@ -1,7 +1,7 @@
 {
     "tz": {
-        "name": "Tanzania",
-        "official_name": "United Republic of Tanzania",
+        "name": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "official_name": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
         "topLevelDomain": [
             ".tz"
         ],
@@ -10,15 +10,15 @@
         "cioc": "TAN",
         "numericCode": "834",
         "callingCode": "+255",
-        "capital": "Dodoma",
+        "capital": "\u0414\u043e\u0434\u043e\u043c\u0430",
         "altSpellings": [
             "TZ",
             "Tanzania, United Republic of",
             "United Republic of Tanzania",
             "Jamhuri ya Muungano wa Tanzania"
         ],
-        "region": "Africa",
-        "subregion": "Eastern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 59734213,
         "latLng": {
             "country": [
@@ -69,7 +69,7 @@
         },
         "currencies": {
             "TZS": {
-                "name": "Tanzanian shilling",
+                "name": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u0439\u0441\u043a\u0438\u0439 \u0448\u0438\u043b\u043b\u0438\u043d\u0433",
                 "symbol": "Sh"
             }
         },

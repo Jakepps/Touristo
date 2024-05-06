@@ -1,7 +1,7 @@
 {
     "bb": {
-        "name": "Barbados",
-        "official_name": "Barbados",
+        "name": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
+        "official_name": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
         "topLevelDomain": [
             ".bb"
         ],
@@ -10,12 +10,12 @@
         "cioc": "BAR",
         "numericCode": "052",
         "callingCode": "+1246",
-        "capital": "Bridgetown",
+        "capital": "\u0411\u0440\u0438\u0434\u0436\u0442\u0430\u0443\u043d",
         "altSpellings": [
             "BB"
         ],
-        "region": "Americas",
-        "subregion": "Caribbean",
+        "region": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430",
+        "subregion": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u0441\u0435\u0439\u043d",
         "population": 287371,
         "latLng": {
             "country": [
@@ -51,7 +51,7 @@
         },
         "currencies": {
             "BBD": {
-                "name": "Barbadian dollar",
+                "name": "\u0411\u0430\u0440\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

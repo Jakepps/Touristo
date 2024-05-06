@@ -1,7 +1,7 @@
 {
     "sz": {
-        "name": "Eswatini",
-        "official_name": "Kingdom of Eswatini",
+        "name": "\u042d\u0441\u0432\u0430\u0442\u0438\u043d\u0438",
+        "official_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u042d\u0441\u0432\u0430\u0442\u0438\u043d\u0438",
         "topLevelDomain": [
             ".sz"
         ],
@@ -10,7 +10,7 @@
         "cioc": "SWZ",
         "numericCode": "748",
         "callingCode": "+268",
-        "capital": "Mbabane",
+        "capital": "\u041c\u0431\u0430\u0431\u0430\u043d",
         "altSpellings": [
             "SZ",
             "Swaziland",
@@ -20,8 +20,8 @@
             "Kingdom of Eswatini",
             "Umbuso weSwatini"
         ],
-        "region": "Africa",
-        "subregion": "Southern Africa",
+        "region": "\u0410\u0444\u0440\u0438\u043a\u0430",
+        "subregion": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
         "population": 1160164,
         "latLng": {
             "country": [
@@ -66,11 +66,11 @@
         },
         "currencies": {
             "SZL": {
-                "name": "Swazi lilangeni",
+                "name": "\u0421\u0432\u0430\u0437\u0438 \u041b\u0438\u043b\u0430\u043d\u0433\u0435\u043d\u0438",
                 "symbol": "L"
             },
             "ZAR": {
-                "name": "South African rand",
+                "name": "\u042e\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0420\u044d\u043d\u0434",
                 "symbol": "R"
             }
         },

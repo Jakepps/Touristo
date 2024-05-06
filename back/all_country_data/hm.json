@@ -1,7 +1,7 @@
 {
     "hm": {
-        "name": "Heard Island and McDonald Islands",
-        "official_name": "Heard Island and McDonald Islands",
+        "name": "\u0425\u0435\u0440\u0434 -\u043e\u0441\u0442\u0440\u043e\u0432 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434",
+        "official_name": "\u0425\u0435\u0440\u0434 -\u043e\u0441\u0442\u0440\u043e\u0432 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434",
         "topLevelDomain": [
             ".hm"
         ],
@@ -10,13 +10,13 @@
         "cioc": "N/A",
         "numericCode": "334",
         "callingCode": "N/A",
-        "capital": "N/A",
+        "capital": "N/a",
         "altSpellings": [
             "HM",
             "Heard Island and McDonald Islands"
         ],
-        "region": "Antarctic",
-        "subregion": "N/A",
+        "region": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430",
+        "subregion": "N/a",
         "population": 0,
         "latLng": {
             "country": [
@@ -45,7 +45,7 @@
         },
         "currencies": {
             "AUD": {
-                "name": "Australian dollar",
+                "name": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
                 "symbol": "$"
             }
         },

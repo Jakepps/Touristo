@@ -1,7 +1,7 @@
 {
     "tm": {
-        "name": "Turkmenistan",
-        "official_name": "Turkmenistan",
+        "name": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d",
+        "official_name": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d",
         "topLevelDomain": [
             ".tm"
         ],
@@ -10,12 +10,12 @@
         "cioc": "TKM",
         "numericCode": "795",
         "callingCode": "+993",
-        "capital": "Ashgabat",
+        "capital": "\u0410\u0448\u0433\u0430\u0431\u0430\u0442",
         "altSpellings": [
             "TM"
         ],
-        "region": "Asia",
-        "subregion": "Central Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 6031187,
         "latLng": {
             "country": [
@@ -62,7 +62,7 @@
         },
         "currencies": {
             "TMT": {
-                "name": "Turkmenistan manat",
+                "name": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d \u041c\u0430\u043d\u0430\u0442",
                 "symbol": "m"
             }
         },

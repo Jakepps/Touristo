@@ -1,7 +1,7 @@
 {
     "id": {
-        "name": "Indonesia",
-        "official_name": "Republic of Indonesia",
+        "name": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "official_name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
         "topLevelDomain": [
             ".id"
         ],
@@ -10,14 +10,14 @@
         "cioc": "INA",
         "numericCode": "360",
         "callingCode": "+62",
-        "capital": "Jakarta",
+        "capital": "\u0414\u0436\u0430\u043a\u0430\u0440\u0442\u0430",
         "altSpellings": [
             "ID",
             "Republic of Indonesia",
             "Republik Indonesia"
         ],
-        "region": "Asia",
-        "subregion": "South-Eastern Asia",
+        "region": "\u0410\u0437\u0438\u044f",
+        "subregion": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0437\u0438\u044f",
         "population": 273523621,
         "latLng": {
             "country": [
@@ -61,7 +61,7 @@
         },
         "currencies": {
             "IDR": {
-                "name": "Indonesian rupiah",
+                "name": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0443\u043f\u0438\u044f",
                 "symbol": "Rp"
             }
         },
