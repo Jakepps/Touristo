@@ -119,8 +119,10 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     }
 
     final timezones = data[countryCode]['timezones'];
+    var timezoneCount = timezones.length;
+    var suffix = timezoneCount == 1 ? 'часовом поясе' : 'часовых поясах';
     inf +=
-        '• ${widget.countryName} находится в ${timezones.length} часовых поясах, а именно: ${timezones.join(', ')}.';
+        '• ${widget.countryName} находится в $timezoneCount $suffix, а именно: ${timezones.join(', ')}.';
   }
 
   void _buildInterestingFacts(Map<String, dynamic> data, String countryCode) {
