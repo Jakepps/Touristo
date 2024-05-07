@@ -14,7 +14,6 @@ class ProfileScreen extends StatelessWidget {
         actions: [
           IconButton(
             onPressed: () {
-              //isAuthenticated = true;
               Navigator.pushReplacement(
                 context,
                 MaterialPageRoute(

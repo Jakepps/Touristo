@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
+import 'package:provider/provider.dart';
 import 'dart:convert';
-import 'profile.dart';
+import 'auth_provider.dart';
+import 'main_screen.dart';
 
 class RegistrationLoginScreen extends StatelessWidget {
   const RegistrationLoginScreen({super.key});
@@ -144,10 +146,9 @@ class RegistrationScreen extends StatelessWidget {
     );
 
     if (response.statusCode == 201) {
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (context) => const ProfileScreen()),
-      );
+      Provider.of<AuthProvider>(context, listen: false).login();
+      Navigator.popUntil(context, ModalRoute.withName('/mainPage'));
+      MyHomePage.homePageKey.currentState?.changeTab(2);
     } else {
       ScaffoldMessenger.of(context).showSnackBar(SnackBar(
           content: Text(
@@ -207,10 +208,9 @@ class LoginScreen extends StatelessWidget {
     );
 
     if (response.statusCode == 200) {
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (context) => const ProfileScreen()),
-      );
+      Provider.of<AuthProvider>(context, listen: false).login();
+      Navigator.pushReplacementNamed(context, '/mainPage');
+      MyHomePage.homePageKey.currentState?.changeTab(2);
     } else {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(

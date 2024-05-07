@@ -11,6 +11,8 @@ class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
   final String title;
+  static final GlobalKey<_MyHomePageState> homePageKey =
+      GlobalKey<_MyHomePageState>();
 
   @override
   State<MyHomePage> createState() => _MyHomePageState();
@@ -21,6 +23,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
   late TextEditingController _searchController;
 
+  void changeTab(int index) {
+    setState(() {
+      _selectedIndex = index;
+    });
+  }
+
   @override
   void initState() {
     super.initState();
@@ -30,15 +38,10 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: _getBody(
-          _selectedIndex), // Отображаем соответствующий контент в зависимости от выбранного элемента
+      body: _getBody(_selectedIndex),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _selectedIndex,
-        onTap: (int index) {
-          setState(() {
-            _selectedIndex = index; // Обновляем индекс выбранного элемента
-          });
-        },
+        onTap: changeTab,
         iconSize: 30.0,
         items: const [
           BottomNavigationBarItem(
@@ -174,7 +177,7 @@ class _MyHomePageState extends State<MyHomePage> {
       case 1:
         return const LoveScreen();
       case 2:
-        Consumer<AuthProvider>(builder: (context, auth, child) {
+        return Consumer<AuthProvider>(builder: (context, auth, child) {
           return auth.isAuthenticated
               ? const ProfileScreen()
               : const RegistrationLoginScreen();
