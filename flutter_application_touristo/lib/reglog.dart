@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'dart:convert';
+import 'profile.dart';
 
 class RegistrationLoginScreen extends StatelessWidget {
   const RegistrationLoginScreen({super.key});
@@ -35,7 +38,7 @@ class RegistrationLoginScreen extends StatelessWidget {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                            builder: (context) => const RegistrationScreen()),
+                            builder: (context) => RegistrationScreen()),
                       );
                     },
                     style: ElevatedButton.styleFrom(
@@ -54,8 +57,7 @@ class RegistrationLoginScreen extends StatelessWidget {
                     onPressed: () {
                       Navigator.push(
                         context,
-                        MaterialPageRoute(
-                            builder: (context) => const LoginScreen()),
+                        MaterialPageRoute(builder: (context) => LoginScreen()),
                       );
                     },
                     style: ElevatedButton.styleFrom(
@@ -82,43 +84,139 @@ class RegistrationLoginScreen extends StatelessWidget {
 }
 
 class RegistrationScreen extends StatelessWidget {
-  const RegistrationScreen({super.key});
+  RegistrationScreen({super.key});
+
+  final TextEditingController fullNameController = TextEditingController();
+  final TextEditingController usernameController = TextEditingController();
+  final TextEditingController emailController = TextEditingController();
+  final TextEditingController passwordController = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Регистрация'),
-      ),
-      body: Center(
-        child: ElevatedButton(
-          onPressed: () {
-            // Логика регистрации
-          },
-          child: const Text('Зарегистрироваться'),
+      appBar: AppBar(title: const Text('Регистрация')),
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          children: [
+            TextField(
+                controller: fullNameController,
+                decoration: const InputDecoration(labelText: 'Полное имя')),
+            TextField(
+                controller: usernameController,
+                decoration: const InputDecoration(labelText: 'Логин')),
+            TextField(
+                controller: emailController,
+                decoration: const InputDecoration(labelText: 'Email')),
+            TextField(
+                controller: passwordController,
+                decoration: const InputDecoration(labelText: 'Пароль'),
+                obscureText: true),
+            ElevatedButton(
+              onPressed: () => register(context),
+              child: const Text('Зарегистрироваться'),
+            ),
+          ],
         ),
       ),
     );
   }
+
+  void register(BuildContext context) async {
+    // final url = Uri(
+    //   scheme: 'http',
+    //   host: '10.0.2.2',
+    //   port: 5000,
+    //   path: '/register',
+    // );
+    var url = Uri.parse('http://10.0.2.2:5000/register');
+    var response = await http.post(
+      url,
+      headers: <String, String>{
+        'Content-Type': 'application/json; charset=UTF-8',
+      },
+      body: jsonEncode(<String, String>{
+        'full_name': fullNameController.text,
+        'username': usernameController.text,
+        'email': emailController.text,
+        'password': passwordController.text,
+      }),
+    );
+
+    if (response.statusCode == 201) {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => const ProfileScreen()),
+      );
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+          content: Text(
+              'Ошибка регистрации: ${json.decode(response.body)['error']}')));
+    }
+  }
 }
 
 class LoginScreen extends StatelessWidget {
-  const LoginScreen({super.key});
+  LoginScreen({super.key});
+
+  final TextEditingController usernameController = TextEditingController();
+  final TextEditingController passwordController = TextEditingController();
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Вход'),
-      ),
-      body: Center(
-        child: ElevatedButton(
-          onPressed: () {
-            // Логика входа
-          },
-          child: const Text('Войти'),
+      appBar: AppBar(title: const Text('Вход')),
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          children: [
+            TextField(
+                controller: usernameController,
+                decoration: const InputDecoration(labelText: 'Логин')),
+            TextField(
+                controller: passwordController,
+                decoration: const InputDecoration(labelText: 'Пароль'),
+                obscureText: true),
+            ElevatedButton(
+              onPressed: () => login(context),
+              child: const Text('Войти'),
+            ),
+          ],
         ),
       ),
     );
+  }
+
+  void login(BuildContext context) async {
+    final url = Uri(
+      scheme: 'http',
+      host: '10.0.2.2',
+      port: 5000,
+      path: '/login',
+    );
+    //var url = Uri.parse('http://your-server-ip:5000/login');
+    var response = await http.post(
+      url,
+      headers: <String, String>{
+        'Content-Type': 'application/json; charset=UTF-8',
+      },
+      body: jsonEncode(<String, String>{
+        'username': usernameController.text,
+        'password': passwordController.text,
+      }),
+    );
+
+    if (response.statusCode == 200) {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => const ProfileScreen()),
+      );
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+            content:
+                Text('Ошибка входа: ${json.decode(response.body)['error']}')),
+      );
+    }
   }
 }
