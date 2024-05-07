@@ -8,12 +8,11 @@ class FavoriteCountry {
 }
 
 class LoveScreen extends StatelessWidget {
-  final List<FavoriteCountry> favoriteCountries;
-
-  const LoveScreen({super.key, required this.favoriteCountries});
+  const LoveScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
+    final List<FavoriteCountry> favoriteCountries = [];
     return Scaffold(
       appBar: AppBar(
         title: const Text('Избранные страны'),

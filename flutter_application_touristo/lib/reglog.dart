@@ -9,15 +9,15 @@ class RegistrationLoginScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("Регистрация и вход Тест"),
-        leading: IconButton(
-          icon: const Icon(Icons.arrow_back),
-          onPressed: () {
-            Navigator.pop(context);
-          },
-        ),
-      ),
+      // appBar: AppBar(
+      //   title: const Text("Регистрация и вход Тест"),
+      //   leading: IconButton(
+      //     icon: const Icon(Icons.arrow_back),
+      //     onPressed: () {
+      //       Navigator.pop(context);
+      //     },
+      //   ),
+      // ),
       body: Container(
         decoration: const BoxDecoration(
           image: DecorationImage(
@@ -123,13 +123,13 @@ class RegistrationScreen extends StatelessWidget {
   }
 
   void register(BuildContext context) async {
-    // final url = Uri(
-    //   scheme: 'http',
-    //   host: '10.0.2.2',
-    //   port: 5000,
-    //   path: '/register',
-    // );
-    var url = Uri.parse('http://10.0.2.2:5000/register');
+    final url = Uri(
+      scheme: 'http',
+      host: '10.0.2.2',
+      port: 5000,
+      path: '/register',
+    );
+    //var url = Uri.parse('http://10.0.2.2:5000/register');
     var response = await http.post(
       url,
       headers: <String, String>{

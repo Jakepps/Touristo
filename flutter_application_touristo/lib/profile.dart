@@ -14,7 +14,8 @@ class ProfileScreen extends StatelessWidget {
         actions: [
           IconButton(
             onPressed: () {
-              Navigator.push(
+              //isAuthenticated = true;
+              Navigator.pushReplacement(
                 context,
                 MaterialPageRoute(
                     builder: (context) => const RegistrationLoginScreen()),
