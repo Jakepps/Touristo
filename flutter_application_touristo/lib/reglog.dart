@@ -147,7 +147,7 @@ class RegistrationScreen extends StatelessWidget {
 
     if (response.statusCode == 201) {
       Provider.of<AuthProvider>(context, listen: false).login();
-      Navigator.popUntil(context, ModalRoute.withName('/mainPage'));
+      Navigator.of(context).popUntil((route) => route.isFirst);
       MyHomePage.homePageKey.currentState?.changeTab(2);
     } else {
       ScaffoldMessenger.of(context).showSnackBar(SnackBar(
@@ -209,7 +209,7 @@ class LoginScreen extends StatelessWidget {
 
     if (response.statusCode == 200) {
       Provider.of<AuthProvider>(context, listen: false).login();
-      Navigator.pushReplacementNamed(context, '/mainPage');
+      Navigator.of(context).popUntil((route) => route.isFirst);
       MyHomePage.homePageKey.currentState?.changeTab(2);
     } else {
       ScaffoldMessenger.of(context).showSnackBar(

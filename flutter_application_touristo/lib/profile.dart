@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'info.dart';
 import 'editingProfile.dart';
-import 'reglog.dart';
+import 'auth_provider.dart';
+import 'main_screen.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
@@ -14,11 +16,9 @@ class ProfileScreen extends StatelessWidget {
         actions: [
           IconButton(
             onPressed: () {
-              Navigator.pushReplacement(
-                context,
-                MaterialPageRoute(
-                    builder: (context) => const RegistrationLoginScreen()),
-              );
+              Provider.of<AuthProvider>(context, listen: false).logout();
+              Navigator.of(context).popUntil((route) => route.isFirst);
+              MyHomePage.homePageKey.currentState?.changeTab(2);
             },
             icon: const Icon(Icons.logout),
           ),
