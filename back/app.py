@@ -11,6 +11,7 @@ db = SQLAlchemy(app)
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     full_name = db.Column(db.String(150), nullable=False)
+    country_name = db.Column(db.String(150), nullable=False)
     username = db.Column(db.String(80), unique=True, nullable=False)
     email = db.Column(db.String(120), unique=True, nullable=False)
     password = db.Column(db.String(128), nullable=False)
@@ -19,11 +20,12 @@ class User(db.Model):
 def register():
     data = request.get_json()
     full_name = data['full_name']
+    country_name = data['country_name']
     username = data['username']
     email = data['email']
     password = data['password']
 
-    if not all([full_name, username, email, password]):
+    if not all([full_name, country_name, username, email, password]):
         return jsonify({'error': 'All fields are required'}), 400
 
     if User.query.filter_by(username=username).first() is not None:
@@ -33,7 +35,7 @@ def register():
         return jsonify({'error': 'Email already exists'}), 409
 
     hashed_password = generate_password_hash(password)
-    new_user = User(full_name=full_name, username=username, email=email, password=hashed_password)
+    new_user = User(full_name=full_name, country_name=country_name, username=username, email=email, password=hashed_password)
     db.session.add(new_user)
     db.session.commit()
 

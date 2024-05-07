@@ -89,6 +89,7 @@ class RegistrationScreen extends StatelessWidget {
   RegistrationScreen({super.key});
 
   final TextEditingController fullNameController = TextEditingController();
+  final TextEditingController countryNameController = TextEditingController();
   final TextEditingController usernameController = TextEditingController();
   final TextEditingController emailController = TextEditingController();
   final TextEditingController passwordController = TextEditingController();
@@ -104,6 +105,10 @@ class RegistrationScreen extends StatelessWidget {
             TextField(
                 controller: fullNameController,
                 decoration: const InputDecoration(labelText: 'Полное имя')),
+            TextField(
+                controller: countryNameController,
+                decoration:
+                    const InputDecoration(labelText: 'Страна проживания')),
             TextField(
                 controller: usernameController,
                 decoration: const InputDecoration(labelText: 'Логин')),
@@ -139,6 +144,7 @@ class RegistrationScreen extends StatelessWidget {
       },
       body: jsonEncode(<String, String>{
         'full_name': fullNameController.text,
+        'country_name': countryNameController.text,
         'username': usernameController.text,
         'email': emailController.text,
         'password': passwordController.text,
