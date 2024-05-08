@@ -1,6 +1,6 @@
 import json
 import os
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, send_from_directory, request
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from werkzeug.utils import secure_filename
@@ -111,11 +111,15 @@ def upload_image(user_id):
         filename = secure_filename(file.filename)
         filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
         file.save(filepath)
-        user.image_path = filepath
+        user.image_path = '/files/user_photo/' + filename
         db.session.commit()
-        return jsonify({'message': 'Image uploaded successfully', 'filepath': filepath}), 200
+        return jsonify({'message': 'Image uploaded successfully', 'filepath': user.image_path}), 200
     return jsonify({'error': 'File not allowed'}), 400
 
+
+@app.route('/files/user_photo/<filename>')
+def uploaded_file(filename):
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 def load_country_info(country_code):
     file_path = f'all_country_data/{country_code}.json'

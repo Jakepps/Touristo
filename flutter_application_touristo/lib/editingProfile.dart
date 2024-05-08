@@ -56,7 +56,7 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
               radius: 60,
               backgroundImage: _image != null
                   ? FileImage(_image!) as ImageProvider
-                  : const AssetImage('assets/images/user_photo.jpeg'),
+                  : const AssetImage('assets/images/user_photo.jpg'),
               backgroundColor: Colors.transparent,
               child: IconButton(
                 onPressed: getImage,

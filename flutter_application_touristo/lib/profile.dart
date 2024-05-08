@@ -44,8 +44,10 @@ class ProfileScreen extends StatelessWidget {
                   CircleAvatar(
                       radius: 60,
                       backgroundImage: authProvider.imageUrl.isNotEmpty
-                          ? NetworkImage(authProvider.imageUrl) as ImageProvider
-                          : const AssetImage('assets/images/user_photo.jpeg')),
+                          ? NetworkImage(
+                                  'http://10.0.2.2:5000${authProvider.imageUrl}')
+                              as ImageProvider
+                          : const AssetImage('assets/images/user_photo.jpg')),
                   const SizedBox(height: 20),
                   Text(
                     authProvider.fullName,

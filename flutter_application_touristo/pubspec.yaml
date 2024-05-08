@@ -70,9 +70,11 @@ flutter:
     - assets/images/elipse.png
     - assets/images/back_main.jpg
     - assets/images/logo_beggin.png
-    - assets/images/user_photo.jpeg
-    - assets/images/avatar.jpg
     - assets/images/main_reg.png
+
+    - assets/images/user_photo.jpg
+    - assets/images/my_avatar.jpg
+
     - assets/files/country_codes.txt
     - assets/files/language_codes.txt
     - assets/files/border_codes.txt
