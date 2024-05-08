@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
+//import 'package:http/http.dart' as http;
 import 'package:provider/provider.dart';
 import 'profile.dart';
 import 'love.dart';
@@ -58,31 +58,31 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ],
       ),
-      floatingActionButton: _selectedIndex == 0
-          ? FloatingActionButton(
-              onPressed: _testConnection,
-              tooltip: 'Тест соединения',
-              child: const Icon(Icons.network_check),
-            )
-          : null,
+      // floatingActionButton: _selectedIndex == 0
+      //     ? FloatingActionButton(
+      //         onPressed: _testConnection,
+      //         tooltip: 'Тест соединения',
+      //         child: const Icon(Icons.network_check),
+      //       )
+      //     : null,
     );
   }
 
-  void _testConnection() async {
-    var httpUri = Uri(
-      scheme: 'http',
-      host: '10.0.2.2', //это локальный адрес сервера для эмулятора андроид
-      port: 5000,
-      path: '/api/country/ru',
-    );
-    final response =
-        await http.get(httpUri, headers: {'Content-Type': 'application/json'});
-    if (response.statusCode == 200) {
-      print('Соединение успешно!');
-    } else {
-      print('Ошибка при тестировании соединения: ${response.statusCode}');
-    }
-  }
+  // void _testConnection() async {
+  //   var httpUri = Uri(
+  //     scheme: 'http',
+  //     host: '10.0.2.2', //это локальный адрес сервера для эмулятора андроид
+  //     port: 5000,
+  //     path: '/api/country/ru',
+  //   );
+  //   final response =
+  //       await http.get(httpUri, headers: {'Content-Type': 'application/json'});
+  //   if (response.statusCode == 200) {
+  //     print('Соединение успешно!');
+  //   } else {
+  //     print('Ошибка при тестировании соединения: ${response.statusCode}');
+  //   }
+  // }
 
   Widget _getBody(int index) {
     switch (index) {
@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Stack(
               children: <Widget>[
                 Positioned(
-                  top: null,
+                  top: MediaQuery.of(context).size.height / 4,
                   left: null,
                   bottom: MediaQuery.of(context).size.height / 2 - 22.5,
                   right: MediaQuery.of(context).size.width / 2 - 24.5,
@@ -113,7 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ),
                 Positioned(
-                  top: null,
+                  top: MediaQuery.of(context).size.height / 2.5,
                   left: null,
                   bottom: MediaQuery.of(context).size.height / 2 - 150.0,
                   right: MediaQuery.of(context).size.width / 2 - 142.5,

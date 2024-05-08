@@ -11,21 +11,11 @@ class RegistrationLoginScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   title: const Text("Регистрация и вход Тест"),
-      //   leading: IconButton(
-      //     icon: const Icon(Icons.arrow_back),
-      //     onPressed: () {
-      //       Navigator.pop(context);
-      //     },
-      //   ),
-      // ),
       body: Container(
         decoration: const BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/images/main_reg.png'),
-            fit: BoxFit.cover,
-          ),
+              image: AssetImage('assets/images/main_reg.png'),
+              fit: BoxFit.cover),
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.end,
@@ -45,7 +35,7 @@ class RegistrationLoginScreen extends StatelessWidget {
                     },
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.black,
-                      fixedSize: const Size(200, 40),
+                      fixedSize: const Size(200, 50),
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(8),
                       ),
@@ -64,7 +54,7 @@ class RegistrationLoginScreen extends StatelessWidget {
                     },
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.white,
-                      fixedSize: const Size(200, 40),
+                      fixedSize: const Size(200, 50),
                       side: const BorderSide(color: Colors.black, width: 2.0),
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -119,10 +109,23 @@ class RegistrationScreen extends StatelessWidget {
                 controller: passwordController,
                 decoration: const InputDecoration(labelText: 'Пароль'),
                 obscureText: true),
-            ElevatedButton(
-              onPressed: () => register(context),
-              child: const Text('Зарегистрироваться'),
-            ),
+            const SizedBox(height: 20),
+            SizedBox(
+              width: double.infinity,
+              child: ElevatedButton(
+                onPressed: () => register(context),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color.fromARGB(255, 0, 0, 0),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                ),
+                child: const Text(
+                  'Зарегистрироваться',
+                  style: TextStyle(fontSize: 16, color: Colors.white),
+                ),
+              ),
+            )
           ],
         ),
       ),
@@ -136,7 +139,6 @@ class RegistrationScreen extends StatelessWidget {
       port: 5000,
       path: '/register',
     );
-    //var url = Uri.parse('http://10.0.2.2:5000/register');
     var response = await http.post(
       url,
       headers: <String, String>{
@@ -185,10 +187,25 @@ class LoginScreen extends StatelessWidget {
                 controller: passwordController,
                 decoration: const InputDecoration(labelText: 'Пароль'),
                 obscureText: true),
-            ElevatedButton(
-              onPressed: () => login(context),
-              child: const Text('Войти'),
-            ),
+            const SizedBox(height: 20),
+            SizedBox(
+              width: double.infinity,
+              child: ElevatedButton(
+                onPressed: () => login(context),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color.fromARGB(255, 255, 255, 255),
+                  side: const BorderSide(color: Colors.black, width: 2.0),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                ),
+                child: const Text(
+                  'Войти',
+                  style: TextStyle(
+                      fontSize: 16, color: Color.fromARGB(255, 0, 0, 0)),
+                ),
+              ),
+            )
           ],
         ),
       ),
@@ -202,7 +219,6 @@ class LoginScreen extends StatelessWidget {
       port: 5000,
       path: '/login',
     );
-    //var url = Uri.parse('http://your-server-ip:5000/login');
     var response = await http.post(
       url,
       headers: <String, String>{
