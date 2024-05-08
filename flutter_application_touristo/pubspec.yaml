@@ -73,9 +73,6 @@ flutter:
     - assets/images/user_photo.jpeg
     - assets/images/avatar.jpg
     - assets/images/main_reg.png
-    - assets/images/Россия.jpg
-    - assets/images/Турция.jpg
-    - assets/images/Италия.jpg
     - assets/files/country_codes.txt
     - assets/files/language_codes.txt
     - assets/files/border_codes.txt

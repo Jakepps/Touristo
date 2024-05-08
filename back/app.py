@@ -64,6 +64,28 @@ def get_user_data(user_id):
         }), 200
     else:
         return jsonify({"error": "User not found"}), 404
+    
+@app.route("/update_user/<int:user_id>", methods=["POST"])
+def update_user(user_id):
+    user = User.query.get(user_id)
+    if not user:
+        return jsonify({"error": "User not found"}), 404
+    
+    data = request.get_json()
+    try:
+        full_name = data.get('full_name')
+        country_name = data.get('country_name')
+        if not full_name or not country_name:
+            return jsonify({"error": "Missing full_name or country_name"}), 400
+        
+        user.full_name = full_name
+        user.country_name = country_name
+        db.session.commit()
+        
+        return jsonify({"message": "User updated successfully"}), 200
+    except Exception as e:
+        db.session.rollback()
+        return jsonify({"error": str(e)}), 500
 
 def load_country_info(country_code):
     file_path = f'all_country_data/{country_code}.json'

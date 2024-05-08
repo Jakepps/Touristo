@@ -1,10 +1,32 @@
 import 'package:flutter/material.dart';
+import 'auth_provider.dart';
+import 'package:provider/provider.dart';
 
-class EditingProfileScreen extends StatelessWidget {
+class EditingProfileScreen extends StatefulWidget {
   const EditingProfileScreen({super.key});
 
   @override
+  _EditingProfileScreenState createState() => _EditingProfileScreenState();
+}
+
+class _EditingProfileScreenState extends State<EditingProfileScreen> {
+  final TextEditingController _nameController = TextEditingController();
+  final TextEditingController _countryController = TextEditingController();
+
+  @override
+  void dispose() {
+    _nameController.dispose();
+    _countryController.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
+    final authProvider = Provider.of<AuthProvider>(context);
+
+    _nameController.text = authProvider.fullName;
+    _countryController.text = authProvider.countryName;
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('Редактировать профиль'),
@@ -27,6 +49,7 @@ class EditingProfileScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             TextField(
+              controller: _nameController,
               decoration: InputDecoration(
                 labelText: 'Имя и фамилия',
                 border: OutlineInputBorder(
@@ -37,6 +60,7 @@ class EditingProfileScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             TextField(
+              controller: _countryController,
               decoration: InputDecoration(
                 labelText: 'Страна и город',
                 border: OutlineInputBorder(
@@ -48,7 +72,17 @@ class EditingProfileScreen extends StatelessWidget {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                // логика для сохранения изменений
+                authProvider.updateUserDetails(
+                  _nameController.text,
+                  _countryController.text,
+                );
+
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Сохранение успешно!'),
+                    duration: Duration(seconds: 2),
+                  ),
+                );
               },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.green,

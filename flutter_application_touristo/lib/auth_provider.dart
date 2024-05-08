@@ -43,7 +43,28 @@ class AuthProvider with ChangeNotifier {
       fullName = userData['full_name'];
       countryName = userData['country_name'];
     } catch (e) {
-      print("Error fetching user data: $e");
+      throw Exception("Failed to update user data: $e");
+    }
+  }
+
+  Future<void> updateUserDetails(String fullName, String countryName) async {
+    var response = await http.post(
+      Uri.parse('http://10.0.2.2:5000/update_user/$_userId'),
+      headers: <String, String>{
+        'Content-Type': 'application/json; charset=UTF-8',
+      },
+      body: jsonEncode({
+        'full_name': fullName,
+        'country_name': countryName,
+      }),
+    );
+
+    if (response.statusCode == 200) {
+      this.fullName = fullName;
+      this.countryName = countryName;
+      notifyListeners();
+    } else {
+      throw Exception("Failed to update user data");
     }
   }
 
