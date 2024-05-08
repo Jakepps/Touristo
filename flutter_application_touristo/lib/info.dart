@@ -21,7 +21,7 @@ class InfoScreen extends StatelessWidget {
             SizedBox(height: 20),
             CircleAvatar(
               radius: 50,
-              backgroundImage: AssetImage('assets/images/avatar.jpg'),
+              backgroundImage: AssetImage('assets/images/my_avatar.jpg'),
             ),
             SizedBox(height: 20),
             Text(

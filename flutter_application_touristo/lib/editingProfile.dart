@@ -1,3 +1,4 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'auth_provider.dart';
 import 'package:provider/provider.dart';
@@ -31,6 +32,15 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
   }
 
   @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final provider = Provider.of<AuthProvider>(context, listen: false);
+      provider.fetchUserData();
+    });
+  }
+
+  @override
   void dispose() {
     _nameController.dispose();
     _countryController.dispose();
@@ -56,7 +66,11 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
               radius: 60,
               backgroundImage: _image != null
                   ? FileImage(_image!) as ImageProvider
-                  : const AssetImage('assets/images/user_photo.jpg'),
+                  : (authProvider.imageUrl.isNotEmpty
+                      ? CachedNetworkImageProvider(
+                              'http://10.0.2.2:5000${authProvider.imageUrl}')
+                          as ImageProvider
+                      : const AssetImage('assets/images/user_photo.jpg')),
               backgroundColor: Colors.transparent,
               child: IconButton(
                 onPressed: getImage,
