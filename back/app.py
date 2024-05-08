@@ -3,9 +3,19 @@ import os
 from flask import Flask, jsonify, request
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
+from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
+
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database_touristo.db'
+app.config['UPLOAD_FOLDER']='files/images_user'
+app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
+
+ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
 db = SQLAlchemy(app)
 
 class User(db.Model):
@@ -15,6 +25,7 @@ class User(db.Model):
     username = db.Column(db.String(80), unique=True, nullable=False)
     email = db.Column(db.String(120), unique=True, nullable=False)
     password = db.Column(db.String(128), nullable=False)
+    image_path = db.Column(db.String(255), nullable=True)  
 
 @app.route("/register", methods=["POST"])
 def register():
@@ -60,7 +71,8 @@ def get_user_data(user_id):
         return jsonify({
             "full_name": user.full_name,
             "country_name": user.country_name,
-            "username": user.username
+            "username": user.username,
+            "image_path": user.image_path
         }), 200
     else:
         return jsonify({"error": "User not found"}), 404
@@ -86,6 +98,24 @@ def update_user(user_id):
     except Exception as e:
         db.session.rollback()
         return jsonify({"error": str(e)}), 500
+    
+@app.route('/upload_image/<int:user_id>', methods=['POST'])
+def upload_image(user_id):
+    user = User.query.get(user_id)
+    if 'file' not in request.files:
+        return jsonify({'error': 'No file part'}), 400
+    file = request.files['file']
+    if file.filename == '':
+        return jsonify({'error': 'No selected file'}), 400
+    if file and allowed_file(file.filename):
+        filename = secure_filename(file.filename)
+        filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        file.save(filepath)
+        user.image_path = filepath
+        db.session.commit()
+        return jsonify({'message': 'Image uploaded successfully', 'filepath': filepath}), 200
+    return jsonify({'error': 'File not allowed'}), 400
+
 
 def load_country_info(country_code):
     file_path = f'all_country_data/{country_code}.json'

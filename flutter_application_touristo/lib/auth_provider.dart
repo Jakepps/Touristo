@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
@@ -8,6 +10,7 @@ class AuthProvider with ChangeNotifier {
   late int _userId;
   String fullName = '';
   String countryName = '';
+  String imageUrl = '';
 
   bool get isAuthenticated => _isAuthenticated;
 
@@ -42,6 +45,7 @@ class AuthProvider with ChangeNotifier {
       var userData = jsonDecode(response.body);
       fullName = userData['full_name'];
       countryName = userData['country_name'];
+      imageUrl = userData['image_path'];
     } catch (e) {
       throw Exception("Failed to update user data: $e");
     }
@@ -65,6 +69,23 @@ class AuthProvider with ChangeNotifier {
       notifyListeners();
     } else {
       throw Exception("Failed to update user data");
+    }
+  }
+
+  Future<void> uploadImage(File image) async {
+    var uri = Uri.parse('http://10.0.2.2:5000/upload_image/$_userId');
+    var request = http.MultipartRequest('POST', uri)
+      ..files.add(await http.MultipartFile.fromPath(
+        'file',
+        image.path,
+      ));
+
+    var response = await request.send();
+
+    if (response.statusCode == 200) {
+      print('Image Uploaded');
+    } else {
+      throw Exception("Failed to image uploaded");
     }
   }
 

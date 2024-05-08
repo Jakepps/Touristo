@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'info.dart';
 import 'editingProfile.dart';
@@ -40,14 +41,11 @@ class ProfileScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
-                  const CircleAvatar(
-                    radius: 60,
-                    child: Icon(
-                      Icons.person,
-                      size: 90,
-                    ),
-                    //AssetImage('assets/images/user_photo.jpeg'),
-                  ),
+                  CircleAvatar(
+                      radius: 60,
+                      backgroundImage: authProvider.imageUrl.isNotEmpty
+                          ? NetworkImage(authProvider.imageUrl) as ImageProvider
+                          : const AssetImage('assets/images/user_photo.jpeg')),
                   const SizedBox(height: 20),
                   Text(
                     authProvider.fullName,

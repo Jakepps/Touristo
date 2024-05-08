@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'auth_provider.dart';
 import 'package:provider/provider.dart';
+import 'package:image_picker/image_picker.dart';
+import 'dart:io';
 
 class EditingProfileScreen extends StatefulWidget {
   const EditingProfileScreen({super.key});
@@ -12,6 +14,21 @@ class EditingProfileScreen extends StatefulWidget {
 class _EditingProfileScreenState extends State<EditingProfileScreen> {
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _countryController = TextEditingController();
+  File? _image;
+
+  final picker = ImagePicker();
+
+  Future getImage() async {
+    final pickedFile = await picker.pickImage(source: ImageSource.gallery);
+
+    if (pickedFile != null) {
+      setState(() {
+        _image = File(pickedFile.path);
+      });
+    } else {
+      print('No image selected.');
+    }
+  }
 
   @override
   void dispose() {
@@ -37,13 +54,12 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
           children: [
             CircleAvatar(
               radius: 60,
-              backgroundImage:
-                  const AssetImage('assets/images/user_photo.jpeg'),
+              backgroundImage: _image != null
+                  ? FileImage(_image!) as ImageProvider
+                  : const AssetImage('assets/images/user_photo.jpeg'),
               backgroundColor: Colors.transparent,
               child: IconButton(
-                onPressed: () {
-                  // логика для выбора фото
-                },
+                onPressed: getImage,
                 icon: const Icon(Icons.camera_alt),
               ),
             ),
@@ -72,11 +88,13 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
+                if (_image != null) {
+                  authProvider.uploadImage(_image!);
+                }
                 authProvider.updateUserDetails(
                   _nameController.text,
                   _countryController.text,
                 );
-
                 ScaffoldMessenger.of(context).showSnackBar(
                   const SnackBar(
                     content: Text('Сохранение успешно!'),
