@@ -66,7 +66,8 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
               radius: 60,
               backgroundImage: _image != null
                   ? FileImage(_image!) as ImageProvider
-                  : (authProvider.imageUrl.isNotEmpty
+                  : (authProvider.imageUrl != null &&
+                          authProvider.imageUrl!.isNotEmpty
                       ? CachedNetworkImageProvider(
                               'http://10.0.2.2:5000${authProvider.imageUrl}')
                           as ImageProvider

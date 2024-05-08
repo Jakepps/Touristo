@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'info.dart';
 import 'editingProfile.dart';
@@ -43,7 +42,8 @@ class ProfileScreen extends StatelessWidget {
                 children: [
                   CircleAvatar(
                       radius: 60,
-                      backgroundImage: authProvider.imageUrl.isNotEmpty
+                      backgroundImage: authProvider.imageUrl != null &&
+                              authProvider.imageUrl!.isNotEmpty
                           ? NetworkImage(
                                   'http://10.0.2.2:5000${authProvider.imageUrl}')
                               as ImageProvider

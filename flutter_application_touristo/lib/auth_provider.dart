@@ -10,7 +10,7 @@ class AuthProvider with ChangeNotifier {
   late int _userId;
   String fullName = '';
   String countryName = '';
-  String imageUrl = '';
+  String? imageUrl;
 
   bool get isAuthenticated => _isAuthenticated;
 
