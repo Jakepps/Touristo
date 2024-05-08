@@ -84,6 +84,7 @@ class AuthProvider with ChangeNotifier {
 
     if (response.statusCode == 200) {
       print('Image Uploaded');
+      notifyListeners();
     } else {
       throw Exception("Failed to image uploaded");
     }

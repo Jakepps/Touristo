@@ -66,7 +66,12 @@ class ProfileScreen extends StatelessWidget {
                         context,
                         MaterialPageRoute(
                             builder: (context) => const EditingProfileScreen()),
-                      );
+                      ).then((value) {
+                        if (value == true) {
+                          Provider.of<AuthProvider>(context, listen: false)
+                              .fetchUserData();
+                        }
+                      });
                     },
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.black,
