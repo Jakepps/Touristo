@@ -132,7 +132,46 @@ class RegistrationScreen extends StatelessWidget {
     );
   }
 
+  void showSnackBar(BuildContext context, String message) {
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+      content: Text(message),
+    ));
+  }
+
   void register(BuildContext context) async {
+    //Имя пользователя
+    if (!RegExp(r'^[a-zA-Zа-яА-ЯёЁ\s\-]+$').hasMatch(fullNameController.text)) {
+      showSnackBar(context, 'Некоректное имя пользователя');
+      return;
+    }
+
+    //Страна проживания
+    if (!RegExp(r'^[a-zA-Zа-яА-ЯёЁ\s\-]+$')
+        .hasMatch(countryNameController.text)) {
+      showSnackBar(context, 'Некоректная страна проживания');
+      return;
+    }
+
+    //логин
+    if (!RegExp(r'^[a-zA-Z0-9_-]{3,20}$').hasMatch(usernameController.text)) {
+      showSnackBar(context, 'Некоректный логин');
+      return;
+    }
+
+    //email
+    if (!RegExp(r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$')
+        .hasMatch(emailController.text)) {
+      showSnackBar(context, 'Некоректная почта');
+      return;
+    }
+
+    //пароль
+    if (!RegExp(r'^(?=.*\d)[a-zA-Z\d]{8,}$')
+        .hasMatch(passwordController.text)) {
+      showSnackBar(context, 'Некоректный пароль');
+      return;
+    }
+
     final url = Uri(
       scheme: 'http',
       host: '10.0.2.2',
