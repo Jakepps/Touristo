@@ -92,23 +92,86 @@ class RegistrationScreen extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           children: [
-            TextField(
-                controller: fullNameController,
-                decoration: const InputDecoration(labelText: 'Полное имя')),
-            TextField(
-                controller: countryNameController,
-                decoration:
-                    const InputDecoration(labelText: 'Страна проживания')),
-            TextField(
-                controller: usernameController,
-                decoration: const InputDecoration(labelText: 'Логин')),
-            TextField(
-                controller: emailController,
-                decoration: const InputDecoration(labelText: 'Email')),
-            TextField(
-                controller: passwordController,
-                decoration: const InputDecoration(labelText: 'Пароль'),
-                obscureText: true),
+            Row(
+              children: [
+                Expanded(
+                  child: TextField(
+                    controller: fullNameController,
+                    decoration: const InputDecoration(labelText: 'Полное имя'),
+                  ),
+                ),
+                const Tooltip(
+                  message:
+                      'Введите ваше полное имя, используя только буквы и дефисы.',
+                  child: Icon(Icons.help_outline, color: Colors.grey),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Row(
+              children: [
+                Expanded(
+                  child: TextField(
+                    controller: countryNameController,
+                    decoration:
+                        const InputDecoration(labelText: 'Страна проживания'),
+                  ),
+                ),
+                const Tooltip(
+                  message:
+                      'Введите название страны, используя буквы, пробелы и дефисы.',
+                  child: Icon(Icons.help_outline, color: Colors.grey),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Row(
+              children: [
+                Expanded(
+                  child: TextField(
+                    controller: usernameController,
+                    decoration: const InputDecoration(labelText: 'Логин'),
+                  ),
+                ),
+                const Tooltip(
+                  message:
+                      'Логин должен быть от 3 до 20 символов, допустимы буквы, цифры, дефисы и подчеркивания.',
+                  child: Icon(Icons.help_outline, color: Colors.grey),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Row(
+              children: [
+                Expanded(
+                  child: TextField(
+                    controller: emailController,
+                    decoration: const InputDecoration(labelText: 'Email'),
+                  ),
+                ),
+                const Tooltip(
+                  message: 'Введите корректный email адрес.',
+                  child: Icon(Icons.help_outline, color: Colors.grey),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Row(
+              children: [
+                Expanded(
+                  child: TextField(
+                    controller: passwordController,
+                    decoration: const InputDecoration(labelText: 'Пароль'),
+                    obscureText: true,
+                  ),
+                ),
+                const Tooltip(
+                  message:
+                      'Пароль должен содержать минимум 8 символов и хотя бы одну цифру.',
+                  child: Icon(Icons.help_outline, color: Colors.grey),
+                ),
+              ],
+            ),
             const SizedBox(height: 20),
             SizedBox(
               width: double.infinity,
