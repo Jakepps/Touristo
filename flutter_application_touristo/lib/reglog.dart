@@ -152,7 +152,8 @@ class RegistrationScreen extends StatelessWidget {
     );
 
     if (response.statusCode == 201) {
-      Provider.of<AuthProvider>(context, listen: false).login();
+      Provider.of<AuthProvider>(context, listen: false)
+          .login(usernameController.text, passwordController.text);
       Navigator.of(context).popUntil((route) => route.isFirst);
       MyHomePage.homePageKey.currentState?.changeTab(2);
     } else {
@@ -214,7 +215,8 @@ class LoginScreen extends StatelessWidget {
     );
 
     if (response.statusCode == 200) {
-      Provider.of<AuthProvider>(context, listen: false).login();
+      Provider.of<AuthProvider>(context, listen: false)
+          .login(usernameController.text, passwordController.text);
       Navigator.of(context).popUntil((route) => route.isFirst);
       MyHomePage.homePageKey.currentState?.changeTab(2);
     } else {

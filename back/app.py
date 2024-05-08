@@ -53,6 +53,17 @@ def login():
     else:
         return jsonify({"error": "Invalid username or password"}), 401
 
+@app.route("/userdata/<int:user_id>", methods=["GET"])
+def get_user_data(user_id):
+    user = User.query.get(user_id)
+    if user:
+        return jsonify({
+            "full_name": user.full_name,
+            "country_name": user.country_name,
+            "username": user.username
+        }), 200
+    else:
+        return jsonify({"error": "User not found"}), 404
 
 def load_country_info(country_code):
     file_path = f'all_country_data/{country_code}.json'

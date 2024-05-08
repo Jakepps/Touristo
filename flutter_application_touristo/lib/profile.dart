@@ -10,13 +10,15 @@ class ProfileScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final authProvider = Provider.of<AuthProvider>(context);
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('Профиль'),
         actions: [
           IconButton(
             onPressed: () {
-              Provider.of<AuthProvider>(context, listen: false).logout();
+              authProvider.logout();
               Navigator.of(context).popUntil((route) => route.isFirst);
               MyHomePage.homePageKey.currentState?.changeTab(2);
             },
@@ -24,63 +26,79 @@ class ProfileScreen extends StatelessWidget {
           ),
         ],
       ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [
-            const CircleAvatar(
-              radius: 60,
-              backgroundImage: AssetImage('assets/images/user_photo.jpeg'),
-            ),
-            const SizedBox(height: 20),
-            const Text(
-              'Элизабет Блек',
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-            ),
-            const SizedBox(height: 10),
-            const Text(
-              'Москва, Россия',
-              style: TextStyle(fontSize: 18),
-            ),
-            const SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => const EditingProfileScreen()),
-                );
-              },
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.black,
-                fixedSize: const Size(300, 40),
+      body: FutureBuilder(
+          future: authProvider.fetchUserData(),
+          builder: (context, snapshot) {
+            if (snapshot.connectionState == ConnectionState.waiting) {
+              return const Center(child: CircularProgressIndicator());
+            } else if (snapshot.hasError) {
+              return Center(child: Text("Error: ${snapshot.error}"));
+            }
+
+            return Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  const CircleAvatar(
+                    radius: 60,
+                    child: Icon(
+                      Icons.person,
+                      size: 90,
+                    ),
+                    //AssetImage('assets/images/user_photo.jpeg'),
+                  ),
+                  const SizedBox(height: 20),
+                  Text(
+                    authProvider.fullName,
+                    style: const TextStyle(
+                        fontSize: 24, fontWeight: FontWeight.bold),
+                  ),
+                  const SizedBox(height: 10),
+                  Text(
+                    authProvider.countryName,
+                    style: const TextStyle(fontSize: 18),
+                  ),
+                  const SizedBox(height: 20),
+                  ElevatedButton(
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => const EditingProfileScreen()),
+                      );
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.black,
+                      fixedSize: const Size(300, 40),
+                    ),
+                    child: const Text(
+                      'Редактировать профиль',
+                      style: TextStyle(fontSize: 15, color: Colors.white),
+                    ),
+                  ),
+                  const SizedBox(height: 10),
+                  ElevatedButton(
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => const InfoScreen()),
+                      );
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.black,
+                      fixedSize: const Size(270, 40),
+                    ),
+                    child: const Text(
+                      'О приложении',
+                      style: TextStyle(fontSize: 17, color: Colors.white),
+                    ),
+                  ),
+                ],
               ),
-              child: const Text(
-                'Редактировать профиль',
-                style: TextStyle(fontSize: 15, color: Colors.white),
-              ),
-            ),
-            const SizedBox(height: 10),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => const InfoScreen()),
-                );
-              },
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.black,
-                fixedSize: const Size(270, 40),
-              ),
-              child: const Text(
-                'О приложении',
-                style: TextStyle(fontSize: 17, color: Colors.white),
-              ),
-            ),
-          ],
-        ),
-      ),
+            );
+          }),
     );
   }
 }
