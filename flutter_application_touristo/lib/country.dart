@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:translator/translator.dart';
+import 'auth_provider.dart';
 
 class CountryDetailsScreen extends StatefulWidget {
   final String countryName;
@@ -225,7 +227,6 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                 children: [
                   CircleAvatar(
                     backgroundImage: NetworkImage(flagURL),
-                    //AssetImage('assets/images/${widget.countryName}.jpg'),
                     radius: 30,
                   ),
                   const SizedBox(width: 20),
@@ -244,7 +245,15 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                   IconButton(
                     icon: const Icon(Icons.favorite_border),
                     onPressed: () {
-                      // Добавить в избранное
+                      final provider =
+                          Provider.of<AuthProvider>(context, listen: false);
+                      provider
+                          .addToFavorites(widget.countryCode)
+                          .catchError((error) {
+                        ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                            content: Text(
+                                'Ошибка добавления страны в избранное: $error')));
+                      });
                     },
                   ),
                 ],

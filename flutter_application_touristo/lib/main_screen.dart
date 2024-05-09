@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Stack(
               children: <Widget>[
                 Positioned(
-                  top: MediaQuery.of(context).size.height / 4,
+                  top: null,
                   left: null,
                   bottom: MediaQuery.of(context).size.height / 2 - 22.5,
                   right: MediaQuery.of(context).size.width / 2 - 24.5,
@@ -113,7 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ),
                 Positioned(
-                  top: MediaQuery.of(context).size.height / 2.5,
+                  top: null,
                   left: null,
                   bottom: MediaQuery.of(context).size.height / 2 - 150.0,
                   right: MediaQuery.of(context).size.width / 2 - 142.5,

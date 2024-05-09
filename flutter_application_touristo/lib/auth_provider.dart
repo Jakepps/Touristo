@@ -13,6 +13,7 @@ class AuthProvider with ChangeNotifier {
   String? imageUrl;
 
   bool get isAuthenticated => _isAuthenticated;
+  int get userId => _userId;
 
   Future<void> login(String username, String password) async {
     var response = await http.post(
@@ -87,6 +88,17 @@ class AuthProvider with ChangeNotifier {
       notifyListeners();
     } else {
       throw Exception("Failed to image uploaded");
+    }
+  }
+
+  Future<void> addToFavorites(String countryCode) async {
+    final response = await http.post(
+      Uri.parse('http://10.0.2.2:5000/add_favorites/$_userId/$countryCode'),
+    );
+    if (response.statusCode == 201) {
+      notifyListeners();
+    } else {
+      throw Exception('Failed to add to favorites');
     }
   }
 

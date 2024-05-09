@@ -26,6 +26,14 @@ class User(db.Model):
     email = db.Column(db.String(120), unique=True, nullable=False)
     password = db.Column(db.String(128), nullable=False)
     image_path = db.Column(db.String(255), nullable=True)  
+    
+class FavoriteCountries(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
+    country_name = db.Column(db.String(150), nullable=False)
+    country_code = db.Column(db.String(10), nullable=False)
+    flag_path = db.Column(db.String(255), nullable=True)
+    user = db.relationship('User', backref=db.backref('favorite_countries', lazy=True))
 
 @app.route("/register", methods=["POST"])
 def register():
@@ -137,6 +145,37 @@ def get_country_info(country_code):
         return jsonify(country_info)
     else:
         return jsonify({'error': 'Information about the country with the code {country_code} was not found'}), 404
+    
+@app.route('/add_favorites/<int:user_id>/<country_code>', methods=['POST'])
+def add_to_favorites(user_id, country_code):
+    user = User.query.get(user_id)
+    if not user:
+        return jsonify({"error": "User not found"}), 404
+
+    if FavoriteCountries.query.filter_by(user_id=user_id, country_code=country_code).first():
+        return jsonify({"message": "Country already in favorites"}), 409
+    
+    country_info = load_country_info(country_code)
+    if country_info:
+        country_name = country_info[country_code]['translations']['rus']
+        flag_path = country_info[country_code]['flag']['large']
+
+    new_favorite = FavoriteCountries(user_id=user_id, country_name=country_name, country_code=country_code, flag_path=flag_path)
+    db.session.add(new_favorite)
+    db.session.commit()
+    return jsonify({"message": "Country added to favorites"}), 201
+
+@app.route('/favorites/<int:user_id>', methods=['GET'])
+def get_favorites(user_id):
+    favorites = FavoriteCountries.query.filter_by(user_id=user_id).all()
+    favorites_list = [
+        {
+            "country_code": f.country_code,
+            "country_name": f.country_name,
+            "flag_path": f.flag_path
+        } for f in favorites
+    ]
+    return jsonify(favorites_list), 200
 
 if __name__ == '__main__':
     with app.app_context():
