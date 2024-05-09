@@ -74,6 +74,9 @@ flutter:
     - assets/images/back_main.jpg
     - assets/images/logo_beggin.png
     - assets/images/main_reg.png
+    - assets/images/forest.jpg
+    - assets/images/sea.jpg
+    - assets/images/air.jpg
 
     - assets/images/user_photo.jpg
     - assets/images/my_avatar.jpg

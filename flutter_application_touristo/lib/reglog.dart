@@ -14,8 +14,7 @@ class RegistrationLoginScreen extends StatelessWidget {
       body: Container(
         decoration: const BoxDecoration(
           image: DecorationImage(
-              image: AssetImage('assets/images/main_reg.png'),
-              fit: BoxFit.cover),
+              image: AssetImage('assets/images/air.jpg'), fit: BoxFit.cover),
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.end,
