@@ -24,12 +24,25 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   var flagURL = '';
   var languageNames = {};
   Map<String, String> countryCodeToName = {};
+  bool isFavorite = false;
 
   @override
   void initState() {
     super.initState();
     _fetchCountryData();
     _loadLanguageNames();
+    _checkIfFavorite();
+  }
+
+  void _checkIfFavorite() async {
+    final userId = Provider.of<AuthProvider>(context, listen: false).userId;
+    final response = await http.get(Uri.parse(
+        'http://10.0.2.2:5000/is_favorite/$userId/${widget.countryCode}'));
+    if (response.statusCode == 200) {
+      setState(() {
+        isFavorite = json.decode(response.body)['is_favorite'];
+      });
+    }
   }
 
   Future<List<String>> _translateTexts(List<String> texts) async {
@@ -243,17 +256,21 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                     ),
                   ),
                   IconButton(
-                    icon: const Icon(Icons.favorite_border),
+                    icon: Icon(
+                        isFavorite ? Icons.favorite : Icons.favorite_border),
+                    color: isFavorite ? Colors.red : null,
                     onPressed: () {
                       final provider =
                           Provider.of<AuthProvider>(context, listen: false);
-                      provider
-                          .addToFavorites(widget.countryCode)
-                          .catchError((error) {
-                        ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-                            content: Text(
-                                'Ошибка добавления страны в избранное: $error')));
-                      });
+                      isFavorite
+                          ? null
+                          : provider
+                              .addToFavorites(widget.countryCode)
+                              .catchError((error) {
+                              ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                                  content: Text(
+                                      'Ошибка добавления страны в избранное: $error')));
+                            });
                     },
                   ),
                 ],
