@@ -3,12 +3,15 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:provider/provider.dart';
 import 'auth_provider.dart';
+import 'country.dart';
 
 class FavoriteCountry {
   final String name;
   final String imagePath;
+  final String countryCode;
 
-  FavoriteCountry({required this.name, required this.imagePath});
+  FavoriteCountry(
+      {required this.name, required this.imagePath, required this.countryCode});
 }
 
 class LoveScreen extends StatefulWidget {
@@ -28,6 +31,7 @@ class _LoveScreenState extends State<LoveScreen> {
       return FavoriteCountry(
         name: data['country_name'],
         imagePath: data['flag_path'],
+        countryCode: data['country_code'],
       );
     }).toList();
 
@@ -68,7 +72,15 @@ class _LoveScreenState extends State<LoveScreen> {
                 ),
                 title: Text(country.name, style: const TextStyle(fontSize: 25)),
                 onTap: () {
-                  // Навигация к деталям страны, если требуется
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => CountryDetailsScreen(
+                        countryName: country.name,
+                        countryCode: country.countryCode,
+                      ),
+                    ),
+                  );
                 },
               );
             },
