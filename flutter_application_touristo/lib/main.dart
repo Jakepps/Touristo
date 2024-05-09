@@ -46,6 +46,8 @@ class SplashScreen extends StatelessWidget {
       );
     });
 
+    Provider.of<AuthProvider>(context, listen: false).tryAutoLogin();
+
     return Scaffold(
       body: Center(child: Image.asset('assets/images/logo_beggin.png')),
     );

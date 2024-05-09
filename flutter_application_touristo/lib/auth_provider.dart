@@ -2,8 +2,11 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+import 'package:jwt_decode/jwt_decode.dart';
 
 class AuthProvider with ChangeNotifier {
+  final FlutterSecureStorage _storage = const FlutterSecureStorage();
   bool _isAuthenticated = false;
 
   int _userId = 0;
@@ -15,6 +18,20 @@ class AuthProvider with ChangeNotifier {
   int get userId => _userId;
 
   String httpURL = 'http://10.0.2.2:5000/';
+
+  Future<void> tryAutoLogin() async {
+    final token = await _storage.read(key: 'token');
+    if (token != null) {
+      try {
+        Map<String, dynamic> payload = Jwt.parseJwt(token);
+        _userId = payload['user_id'];
+        _isAuthenticated = true;
+        notifyListeners();
+      } catch (e) {
+        throw Exception('Error decoding token: $e');
+      }
+    }
+  }
 
   Future<void> login(String username, String password) async {
     var response = await http.post(
@@ -32,6 +49,7 @@ class AuthProvider with ChangeNotifier {
       var data = jsonDecode(response.body);
       _userId = data['user_id'];
       _isAuthenticated = true;
+      await _storage.write(key: 'token', value: data['token']);
       notifyListeners();
     } else {
       _isAuthenticated = false;
@@ -113,6 +131,7 @@ class AuthProvider with ChangeNotifier {
   }
 
   void logout() {
+    _storage.delete(key: 'token');
     _isAuthenticated = false;
     notifyListeners();
   }

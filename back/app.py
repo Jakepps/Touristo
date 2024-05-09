@@ -1,5 +1,7 @@
 import json
 import os
+import jwt
+import datetime
 from flask import Flask, jsonify, send_from_directory, request
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
@@ -68,7 +70,11 @@ def login():
 
     user = User.query.filter_by(username=username).first()
     if user and check_password_hash(user.password, password):
-        return jsonify({"message": "Logged in successfully", "user_id": user.id}), 200
+        token = jwt.encode({
+            'user_id': user.id, 
+            'exp': datetime.datetime.utcnow() + datetime.timedelta(hours=24)
+        },'aboba')
+        return jsonify({"message": "Logged in successfully", "user_id": user.id, "token": token}), 200
     else:
         return jsonify({"error": "Invalid username or password"}), 401
 
