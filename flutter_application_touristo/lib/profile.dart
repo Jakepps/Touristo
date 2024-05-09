@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'info.dart';
+import 'info_dev.dart';
 import 'editing_profile.dart';
 import 'auth_provider.dart';
 import 'main_screen.dart';

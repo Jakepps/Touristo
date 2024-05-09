@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'country.dart';
+import 'country_info.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:fuzzy/fuzzy.dart';
 

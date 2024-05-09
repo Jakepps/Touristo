@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:provider/provider.dart';
 import 'auth_provider.dart';
-import 'country.dart';
+import 'country_info.dart';
 
 class FavoriteCountry {
   final String name;
