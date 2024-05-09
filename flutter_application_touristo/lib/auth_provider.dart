@@ -7,7 +7,7 @@ import 'dart:convert';
 class AuthProvider with ChangeNotifier {
   bool _isAuthenticated = false;
 
-  late int _userId;
+  int _userId = 0;
   String fullName = '';
   String countryName = '';
   String? imageUrl;

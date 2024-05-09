@@ -177,6 +177,14 @@ def get_favorites(user_id):
     ]
     return jsonify(favorites_list), 200
 
+@app.route('/is_favorite/<int:user_id>/<country_code>', methods=['GET'])
+def is_favorite(user_id, country_code):
+    favorite = FavoriteCountries.query.filter_by(user_id=user_id, country_code=country_code).first()
+    if favorite:
+        return jsonify({"is_favorite": True}), 200
+    else:
+        return jsonify({"is_favorite": False}), 200
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
