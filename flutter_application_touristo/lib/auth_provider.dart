@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
@@ -15,9 +14,11 @@ class AuthProvider with ChangeNotifier {
   bool get isAuthenticated => _isAuthenticated;
   int get userId => _userId;
 
+  String httpURL = 'http://10.0.2.2:5000/';
+
   Future<void> login(String username, String password) async {
     var response = await http.post(
-      Uri.parse('http://10.0.2.2:5000/login'),
+      Uri.parse('${httpURL}login'),
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },
@@ -41,8 +42,7 @@ class AuthProvider with ChangeNotifier {
 
   Future<void> fetchUserData() async {
     try {
-      var response =
-          await http.get(Uri.parse('http://10.0.2.2:5000/userdata/$_userId'));
+      var response = await http.get(Uri.parse('${httpURL}userdata/$_userId'));
       var userData = jsonDecode(response.body);
       fullName = userData['full_name'];
       countryName = userData['country_name'];
@@ -54,7 +54,7 @@ class AuthProvider with ChangeNotifier {
 
   Future<void> updateUserDetails(String fullName, String countryName) async {
     var response = await http.post(
-      Uri.parse('http://10.0.2.2:5000/update_user/$_userId'),
+      Uri.parse('${httpURL}update_user/$_userId'),
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },
@@ -74,7 +74,7 @@ class AuthProvider with ChangeNotifier {
   }
 
   Future<void> uploadImage(File image) async {
-    var uri = Uri.parse('http://10.0.2.2:5000/upload_image/$_userId');
+    var uri = Uri.parse('${httpURL}upload_image/$_userId');
     var request = http.MultipartRequest('POST', uri)
       ..files.add(await http.MultipartFile.fromPath(
         'file',
@@ -93,12 +93,22 @@ class AuthProvider with ChangeNotifier {
 
   Future<void> addToFavorites(String countryCode) async {
     final response = await http.post(
-      Uri.parse('http://10.0.2.2:5000/add_favorites/$_userId/$countryCode'),
+      Uri.parse('${httpURL}add_favorites/$_userId/$countryCode'),
     );
     if (response.statusCode == 201) {
       notifyListeners();
     } else {
       throw Exception('Failed to add to favorites');
+    }
+  }
+
+  Future<void> removeFavorite(String countryCode) async {
+    final userId = this.userId;
+    final response = await http
+        .delete(Uri.parse('${httpURL}remove_favorites/$userId/$countryCode'));
+
+    if (response.statusCode != 200) {
+      throw Exception('Failed to remove from favorites');
     }
   }
 

@@ -67,7 +67,10 @@ class _LoveScreenState extends State<LoveScreen> {
 
                 if (snapshot.data!.isEmpty) {
                   return const Center(
-                      child: Text("Избранные страны не добавлены."));
+                      child: Text(
+                    "Избранные страны не добавлены.",
+                    style: TextStyle(fontSize: 18),
+                  ));
                 }
 
                 return ListView.separated(

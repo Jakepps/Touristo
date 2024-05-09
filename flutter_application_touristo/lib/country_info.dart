@@ -262,15 +262,25 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                     onPressed: () {
                       final provider =
                           Provider.of<AuthProvider>(context, listen: false);
-                      isFavorite
-                          ? null
-                          : provider
-                              .addToFavorites(widget.countryCode)
-                              .catchError((error) {
-                              ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-                                  content: Text(
-                                      'Ошибка добавления страны в избранное: $error')));
-                            });
+                      if (isFavorite) {
+                        provider.removeFavorite(widget.countryCode).then((_) {
+                          setState(() {
+                            isFavorite = false;
+                          });
+                        }).catchError((error) {
+                          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                              content: Text(
+                                  'Ошибка удаления страны из избранного: $error')));
+                        });
+                      } else {
+                        provider
+                            .addToFavorites(widget.countryCode)
+                            .catchError((error) {
+                          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                              content: Text(
+                                  'Ошибка добавления страны в избранное: $error')));
+                        });
+                      }
                     },
                   ),
                 ],

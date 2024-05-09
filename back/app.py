@@ -185,6 +185,16 @@ def is_favorite(user_id, country_code):
     else:
         return jsonify({"is_favorite": False}), 200
 
+@app.route('/remove_favorites/<int:user_id>/<country_code>', methods=['DELETE'])
+def remove_from_favorites(user_id, country_code):
+    favorite = FavoriteCountries.query.filter_by(user_id=user_id, country_code=country_code).first()
+    if favorite:
+        db.session.delete(favorite)
+        db.session.commit()
+        return jsonify({"message": "Country removed from favorites"}), 200
+    else:
+        return jsonify({"error": "Favorite not found"}), 404
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
