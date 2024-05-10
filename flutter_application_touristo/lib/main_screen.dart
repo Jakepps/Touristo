@@ -43,6 +43,9 @@ class _MyHomePageState extends State<MyHomePage> {
         currentIndex: _selectedIndex,
         onTap: changeTab,
         iconSize: 30.0,
+        backgroundColor: const Color.fromARGB(255, 0, 82, 50),
+        selectedItemColor: const Color.fromARGB(255, 0, 0, 0),
+        unselectedItemColor: const Color.fromARGB(255, 255, 255, 255),
         items: const [
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
