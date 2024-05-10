@@ -146,10 +146,14 @@ class _LoveScreenState extends State<LoveScreen> {
                         );
                       },
                     )
-                  : const Center(
-                      child: Text(
-                        "Зайдите в аккаунт,\nчтобы добавлять страны в избранное.",
-                        style: TextStyle(fontSize: 18),
+                  : const Align(
+                      alignment: Alignment.topCenter,
+                      child: Padding(
+                        padding: EdgeInsets.only(top: 20),
+                        child: Text(
+                          "Зайдите в аккаунт,\nчтобы добавлять страны в избранное.",
+                          style: TextStyle(fontSize: 20),
+                        ),
                       ),
                     ),
             ),
