@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       title: 'Touristo',
       theme: ThemeData(
         colorScheme:
-            ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 0, 82, 50)),
+            ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 0, 82, 50)),
         useMaterial3: true,
       ),
       routes: {

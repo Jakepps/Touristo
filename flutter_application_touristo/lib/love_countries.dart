@@ -97,11 +97,16 @@ class _LoveScreenState extends State<LoveScreen> {
                         }
 
                         if (snapshot.data!.isEmpty) {
-                          return const Center(
+                          return const Align(
+                            alignment: Alignment.topCenter,
+                            child: Padding(
+                              padding: EdgeInsets.only(top: 20),
                               child: Text(
-                            "Избранные страны не добавлены.",
-                            style: TextStyle(fontSize: 18),
-                          ));
+                                "Избранные страны не добавлены.",
+                                style: TextStyle(fontSize: 18),
+                              ),
+                            ),
+                          );
                         }
 
                         return ListView.separated(
@@ -125,9 +130,16 @@ class _LoveScreenState extends State<LoveScreen> {
                                     builder: (context) => CountryDetailsScreen(
                                       countryName: country.name,
                                       countryCode: country.countryCode,
+                                      cameFromLove: true,
                                     ),
                                   ),
-                                );
+                                ).then((value) {
+                                  if (value == true) {
+                                    setState(() {
+                                      fetchFavoriteCountries(userId);
+                                    });
+                                  }
+                                });
                               },
                             );
                           },

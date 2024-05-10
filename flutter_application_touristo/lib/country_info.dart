@@ -9,9 +9,13 @@ import 'auth_provider.dart';
 class CountryDetailsScreen extends StatefulWidget {
   final String countryName;
   final String countryCode;
+  final bool cameFromLove;
 
   const CountryDetailsScreen(
-      {super.key, required this.countryName, required this.countryCode});
+      {super.key,
+      required this.countryName,
+      required this.countryCode,
+      this.cameFromLove = false});
 
   @override
   _CountryDetailsScreenState createState() => _CountryDetailsScreenState();
@@ -267,15 +271,20 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                           setState(() {
                             isFavorite = false;
                           });
+                          if (widget.cameFromLove) {
+                            Navigator.pop(context, true);
+                          }
                         }).catchError((error) {
                           ScaffoldMessenger.of(context).showSnackBar(SnackBar(
                               content: Text(
                                   'Ошибка удаления страны из избранного: $error')));
                         });
                       } else {
-                        provider
-                            .addToFavorites(widget.countryCode)
-                            .catchError((error) {
+                        provider.addToFavorites(widget.countryCode).then((_) {
+                          setState(() {
+                            isFavorite = true;
+                          });
+                        }).catchError((error) {
                           ScaffoldMessenger.of(context).showSnackBar(SnackBar(
                               content: Text(
                                   'Ошибка добавления страны в избранное: $error')));
