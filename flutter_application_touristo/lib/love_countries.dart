@@ -116,10 +116,14 @@ class _LoveScreenState extends State<LoveScreen> {
                           itemBuilder: (context, index) {
                             final country = snapshot.data![index];
                             return ListTile(
-                              leading: CircleAvatar(
-                                radius: 30,
-                                backgroundImage:
-                                    NetworkImage(country.imagePath),
+                              leading: ClipRRect(
+                                borderRadius: BorderRadius.circular(30),
+                                child: Image.network(
+                                  country.imagePath,
+                                  width: 65,
+                                  height: 65,
+                                  fit: BoxFit.cover,
+                                ),
                               ),
                               title: Text(country.name,
                                   style: const TextStyle(fontSize: 25)),

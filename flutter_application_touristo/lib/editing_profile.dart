@@ -82,7 +82,7 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
             TextField(
               controller: _nameController,
               decoration: InputDecoration(
-                labelText: 'Имя и фамилия',
+                labelText: 'Имя',
                 border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(10.0)),
                 contentPadding: const EdgeInsets.symmetric(
@@ -93,7 +93,7 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
             TextField(
               controller: _countryController,
               decoration: InputDecoration(
-                labelText: 'Страна и город',
+                labelText: 'Страна проживания',
                 border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(10.0)),
                 contentPadding: const EdgeInsets.symmetric(
