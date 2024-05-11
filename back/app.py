@@ -56,7 +56,11 @@ def register():
         return jsonify({'error': 'Email already exists'}), 409
 
     hashed_password = generate_password_hash(password)
-    new_user = User(full_name=full_name, country_name=country_name, username=username, email=email, password=hashed_password)
+    new_user = User(full_name=full_name, 
+                    country_name=country_name, 
+                    username=username, 
+                    email=email, 
+                    password=hashed_password)
     db.session.add(new_user)
     db.session.commit()
 
@@ -72,8 +76,8 @@ def login():
     if user and check_password_hash(user.password, password):
         token = jwt.encode({
             'user_id': user.id, 
-            'exp': datetime.datetime.utcnow() + datetime.timedelta(hours=24)
-        },'aboba')
+            'exp': datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=24)
+        },'aP3@f6Y^b2!d9V#g5H&m8L*z1C$q7Wj')
         return jsonify({"message": "Logged in successfully", "user_id": user.id, "token": token}), 200
     else:
         return jsonify({"error": "Invalid username or password"}), 401
@@ -166,7 +170,10 @@ def add_to_favorites(user_id, country_code):
         country_name = country_info[country_code]['translations']['rus']
         flag_path = country_info[country_code]['flag']['large']
 
-    new_favorite = FavoriteCountries(user_id=user_id, country_name=country_name, country_code=country_code, flag_path=flag_path)
+    new_favorite = FavoriteCountries(user_id=user_id, 
+                                     country_name=country_name, 
+                                     country_code=country_code, 
+                                     flag_path=flag_path)
     db.session.add(new_favorite)
     db.session.commit()
     return jsonify({"message": "Country added to favorites"}), 201

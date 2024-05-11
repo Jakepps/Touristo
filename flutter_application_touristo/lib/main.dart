@@ -20,8 +20,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Touristo',
       theme: ThemeData(
-        colorScheme:
-            ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 0, 82, 50)),
+        colorScheme: ColorScheme.fromSeed(
+            seedColor: const Color.fromARGB(255, 255, 255, 255)),
         useMaterial3: true,
       ),
       routes: {
