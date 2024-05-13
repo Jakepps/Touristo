@@ -33,7 +33,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   Map<String, String> countryCodeToName = {};
   bool isFavorite = false;
   Widget factsWidget = SizedBox();
-  late final List<dynamic> cities;
+  List<dynamic> cities = [];
 
   @override
   void initState() {
