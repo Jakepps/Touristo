@@ -157,7 +157,31 @@ def get_country_info(country_code):
         return jsonify({'error': 'Information about the country with the code {country_code} was not found'}), 404
     
 @app.route('/api/country/<country_code>/cities', methods=['GET'])
-def get_cities_count(country_code):
+def get_cities_info(country_code):
+    page = request.args.get('page', 1, type=int)
+    per_page = request.args.get('per_page', 50, type=int)
+    file_path = f'countries_cities/{country_code}.json'
+
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            country_cities = json.load(file)
+            total_cities = len(country_cities)
+            start = (page - 1) * per_page
+            end = start + per_page
+            cities_info = country_cities[start:end]  
+
+        return jsonify({
+            'country_code': country_code,
+            'total_cities': total_cities,
+            'cities': cities_info,
+            'page': page,
+            'pages': (total_cities + per_page - 1) // per_page
+        }), 200
+    else:
+        return jsonify({'error': f'Information about the country with the code {country_code} was not found'}), 404
+    
+@app.route('/api/country/<country_code>/count_cities', methods=['GET'])
+def get_count_cities(country_code):
     file_path = f'countries_cities/{country_code}.json'
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -166,7 +190,7 @@ def get_cities_count(country_code):
         return jsonify({'country_code': country_code, 'cities_count': cities_count}), 200
     else:
         return jsonify({'error': f'Information about the country with the code {country_code} was not found'}), 404
-
+   
 @app.route('/add_favorites/<int:user_id>/<country_code>', methods=['POST'])
 def add_to_favorites(user_id, country_code):
     user = User.query.get(user_id)

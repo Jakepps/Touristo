@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:http/http.dart' as http;
@@ -5,6 +6,8 @@ import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:translator/translator.dart';
 import 'auth_provider.dart';
+import 'package:flutter/gestures.dart';
+import 'city_list.dart';
 
 class CountryDetailsScreen extends StatefulWidget {
   final String countryName;
@@ -29,6 +32,8 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   var languageNames = {};
   Map<String, String> countryCodeToName = {};
   bool isFavorite = false;
+  Widget factsWidget = SizedBox();
+  late final List<dynamic> cities;
 
   @override
   void initState() {
@@ -70,6 +75,41 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     });
   }
 
+  void _fetchAllCities(int currentPage, List<dynamic> accumulatedCities) async {
+    final httpUriCities = Uri(
+      scheme: 'http',
+      host: '10.0.2.2',
+      port: 5000,
+      path: '/api/country/${widget.countryCode}/cities',
+      queryParameters: {
+        'page': currentPage.toString(),
+        'per_page': '50',
+      },
+    );
+
+    try {
+      final responseCity = await http
+          .get(httpUriCities, headers: {'Content-Type': 'application/json'});
+      if (responseCity.statusCode == 200) {
+        final dataCity = json.decode(responseCity.body);
+        final List<dynamic> cities = dataCity['cities'];
+        accumulatedCities.addAll(cities);
+
+        if (currentPage * 50 < dataCity['total_cities']) {
+          _fetchAllCities(currentPage + 1, accumulatedCities);
+        } else {
+          setState(() {
+            this.cities = accumulatedCities;
+          });
+        }
+      } else {
+        throw Exception('Failed to load city data');
+      }
+    } catch (e) {
+      throw Exception('Error fetching city data: $e');
+    }
+  }
+
   void _fetchCountryData() async {
     final httpUri = Uri(
       scheme: 'http',
@@ -78,11 +118,11 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       path: '/api/country/${widget.countryCode}',
     );
 
-    final httpUriCities = Uri(
+    final httpUriCitiesCount = Uri(
       scheme: 'http',
       host: '10.0.2.2',
       port: 5000,
-      path: '/api/country/${widget.countryCode}/cities',
+      path: '/api/country/${widget.countryCode}/count_cities',
     );
 
     List<String> textsToTranslate = [];
@@ -92,12 +132,14 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       final response = await http
           .get(httpUri, headers: {'Content-Type': 'application/json'});
 
-      final responseCity = await http
-          .get(httpUriCities, headers: {'Content-Type': 'application/json'});
+      final responseCity = await http.get(httpUriCitiesCount,
+          headers: {'Content-Type': 'application/json'});
 
-      if (response.statusCode == 200 && responseCity.statusCode == 200) {
+      if (response.statusCode == 200 || responseCity.statusCode == 200) {
         final data = json.decode(response.body);
         final dataCity = json.decode(responseCity.body);
+
+        _fetchAllCities(1, []);
 
         String capital = data[widget.countryCode]['capital'];
         if (capital != 'N/A') {
@@ -205,8 +247,31 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     facts +=
         '• На данный момент в стране проживает ${data[countryCode]['population']} человек!\n\n';
 
-    facts +=
-        '• В стране находится целых ${dataCity['cities_count']} городов!\n\n';
+    String citiesInfo =
+        '• В стране находится целых ${dataCity['cities_count']} городов!';
+
+    factsWidget = RichText(
+      text: TextSpan(
+        style: const TextStyle(color: Colors.black, fontSize: 16),
+        children: <TextSpan>[
+          TextSpan(
+            text: citiesInfo,
+            style: const TextStyle(
+                color: Colors.blue, decoration: TextDecoration.underline),
+            recognizer: TapGestureRecognizer()
+              ..onTap = () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => CityListScreen(cities: cities),
+                  ),
+                );
+              },
+          ),
+        ],
+      ),
+    );
+    setState(() {});
 
     final gini = data[countryCode]['gini'];
     if (gini == 'Not Available') {
@@ -338,6 +403,8 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                 'Интересные факты:',
                 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
               ),
+              const SizedBox(height: 10),
+              factsWidget,
               const SizedBox(height: 10),
               Text(
                 facts.isNotEmpty ? facts : 'Факты загружаются...',
