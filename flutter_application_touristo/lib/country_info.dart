@@ -173,21 +173,31 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   void _buildInterestingFacts(Map<String, dynamic> data, String countryCode,
       Map<String, dynamic> dataCity) {
     // Интересные факты
+
     String bordersInfo = '';
     final borders = data[countryCode]['borders'];
     if (borders == 'N/A') {
       bordersInfo =
           '• ${widget.countryName} не граничит ни с одной страной.\n\n';
     } else {
-      List<String> borderCountries = borders
-          .map<String>((borderCode) => countryCodeToName[borderCode]!)
-          .toList();
-      if (borderCountries.length == 1) {
-        bordersInfo =
-            '• ${widget.countryName} граничит с ${borderCountries.length} страной, а именно: ${borderCountries.join(', ')}.\n\n';
+      List<String> borderCountries = [];
+      for (var borderCode in borders) {
+        if (countryCodeToName.containsKey(borderCode)) {
+          borderCountries.add(countryCodeToName[borderCode]!);
+        }
+      }
+
+      if (borderCountries.isNotEmpty) {
+        if (borderCountries.length == 1) {
+          bordersInfo =
+              '• ${widget.countryName} граничит с ${borderCountries.length} страной, а именно: ${borderCountries.join(', ')}.\n\n';
+        } else {
+          bordersInfo =
+              '• ${widget.countryName} граничит с ${borderCountries.length} странами, а именно: ${borderCountries.join(', ')}.\n\n';
+        }
       } else {
         bordersInfo =
-            '• ${widget.countryName} граничит с ${borderCountries.length} странами, а именно: ${borderCountries.join(', ')}.\n\n';
+            '• ${widget.countryName} не граничит ни с одной из стран, которые присутсвуют в нынешней базе данных.\n\n';
       }
     }
     facts += bordersInfo;
