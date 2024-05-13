@@ -77,6 +77,14 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       port: 5000,
       path: '/api/country/${widget.countryCode}',
     );
+
+    final httpUriCities = Uri(
+      scheme: 'http',
+      host: '10.0.2.2',
+      port: 5000,
+      path: '/api/country/${widget.countryCode}/cities',
+    );
+
     List<String> textsToTranslate = [];
 
     try {
@@ -84,8 +92,12 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       final response = await http
           .get(httpUri, headers: {'Content-Type': 'application/json'});
 
-      if (response.statusCode == 200) {
+      final responseCity = await http
+          .get(httpUriCities, headers: {'Content-Type': 'application/json'});
+
+      if (response.statusCode == 200 && responseCity.statusCode == 200) {
         final data = json.decode(response.body);
+        final dataCity = json.decode(responseCity.body);
 
         String capital = data[widget.countryCode]['capital'];
         if (capital != 'N/A') {
@@ -111,7 +123,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
 
         setState(() {
           _buildCountryInfo(data, widget.countryCode, translatedTexts);
-          _buildInterestingFacts(data, widget.countryCode);
+          _buildInterestingFacts(data, widget.countryCode, dataCity);
           _buildTravelTips(data, widget.countryCode);
           _buildFlagURL(data, widget.countryCode);
         });
@@ -158,7 +170,8 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
         '• ${widget.countryName} находится в $timezoneCount $suffix, а именно: ${timezones.join(', ')}.';
   }
 
-  void _buildInterestingFacts(Map<String, dynamic> data, String countryCode) {
+  void _buildInterestingFacts(Map<String, dynamic> data, String countryCode,
+      Map<String, dynamic> dataCity) {
     // Интересные факты
     String bordersInfo = '';
     final borders = data[countryCode]['borders'];
@@ -181,6 +194,9 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
 
     facts +=
         '• На данный момент в стране проживает ${data[countryCode]['population']} человек!\n\n';
+
+    facts +=
+        '• В стране находится целых ${dataCity['cities_count']} городов!\n\n';
 
     final gini = data[countryCode]['gini'];
     if (gini == 'Not Available') {
@@ -230,6 +246,8 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final bool isAuthenticated =
+        Provider.of<AuthProvider>(context).isAuthenticated;
     return Scaffold(
       appBar: AppBar(
         title: Text('Детали страны: ${widget.countryName}'),
@@ -259,39 +277,40 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                       ),
                     ),
                   ),
-                  IconButton(
-                    icon: Icon(
-                        isFavorite ? Icons.favorite : Icons.favorite_border),
-                    color: isFavorite ? Colors.red : null,
-                    onPressed: () {
-                      final provider =
-                          Provider.of<AuthProvider>(context, listen: false);
-                      if (isFavorite) {
-                        provider.removeFavorite(widget.countryCode).then((_) {
-                          setState(() {
-                            isFavorite = false;
+                  if (isAuthenticated)
+                    IconButton(
+                      icon: Icon(
+                          isFavorite ? Icons.favorite : Icons.favorite_border),
+                      color: isFavorite ? Colors.red : null,
+                      onPressed: () {
+                        final provider =
+                            Provider.of<AuthProvider>(context, listen: false);
+                        if (isFavorite) {
+                          provider.removeFavorite(widget.countryCode).then((_) {
+                            setState(() {
+                              isFavorite = false;
+                            });
+                            if (widget.cameFromLove) {
+                              Navigator.pop(context, true);
+                            }
+                          }).catchError((error) {
+                            ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                                content: Text(
+                                    'Ошибка удаления страны из избранного: $error')));
                           });
-                          if (widget.cameFromLove) {
-                            Navigator.pop(context, true);
-                          }
-                        }).catchError((error) {
-                          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-                              content: Text(
-                                  'Ошибка удаления страны из избранного: $error')));
-                        });
-                      } else {
-                        provider.addToFavorites(widget.countryCode).then((_) {
-                          setState(() {
-                            isFavorite = true;
+                        } else {
+                          provider.addToFavorites(widget.countryCode).then((_) {
+                            setState(() {
+                              isFavorite = true;
+                            });
+                          }).catchError((error) {
+                            ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                                content: Text(
+                                    'Ошибка добавления страны в избранное: $error')));
                           });
-                        }).catchError((error) {
-                          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-                              content: Text(
-                                  'Ошибка добавления страны в избранное: $error')));
-                        });
-                      }
-                    },
-                  ),
+                        }
+                      },
+                    ),
                 ],
               ),
               const SizedBox(height: 20),

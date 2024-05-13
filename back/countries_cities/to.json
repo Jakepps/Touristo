@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Pangai",
+        "latitude": -19.81468,
+        "longitude": -174.35423
+    },
+    {
+        "name": "\u2018Ohonua",
+        "latitude": -21.33333,
+        "longitude": -174.95
+    },
+    {
+        "name": "Hihifo",
+        "latitude": -15.9544,
+        "longitude": -173.79616
+    },
+    {
+        "name": "Haveluloto",
+        "latitude": -21.15216,
+        "longitude": -175.21333
+    },
+    {
+        "name": "Kolonga",
+        "latitude": -21.13333,
+        "longitude": -175.06667
+    },
+    {
+        "name": "Nuku\u2018alofa",
+        "latitude": -21.13938,
+        "longitude": -175.2018
+    },
+    {
+        "name": "Vaini",
+        "latitude": -21.19292,
+        "longitude": -175.17678
+    },
+    {
+        "name": "Neiafu",
+        "latitude": -18.6506,
+        "longitude": -173.98404
+    }
+]
