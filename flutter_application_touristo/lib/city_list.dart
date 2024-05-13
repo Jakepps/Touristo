@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
+//import 'package:url_launcher/url_launcher.dart';
+import 'package:flutter_web_browser/flutter_web_browser.dart';
 
 class CityListScreen extends StatefulWidget {
   final List<dynamic> cities;
@@ -29,14 +30,19 @@ class _CityListScreenState extends State<CityListScreen> {
     });
   }
 
-  void _openMap(double lat, double lng) async {
-    var uri =
-        Uri.parse('https://www.google.com/maps/search/?api=1&query=$lat,$lng');
-    if (await canLaunchUrl(uri)) {
-      await launchUrl(uri);
-    } else {
-      throw 'Could not launch $uri';
-    }
+  // void _openMap(double lat, double lng) async {
+  //   var uri =
+  //       Uri.parse('https://www.google.com/maps/search/?api=1&query=$lat,$lng');
+  //   if (await canLaunchUrl(uri)) {
+  //     await launchUrl(uri);
+  //   } else {
+  //     throw 'Could not launch $uri';
+  //   }
+  // }
+
+  void openBrowserTab(double lat, double lng) async {
+    var url = 'https://www.google.com/maps/search/?api=1&query=$lat,$lng';
+    await FlutterWebBrowser.openWebPage(url: url);
   }
 
   @override
@@ -85,7 +91,7 @@ class _CityListScreenState extends State<CityListScreen> {
             title: Text(city['name']),
             subtitle:
                 Text('Координаты: ${city['latitude']}, ${city['longitude']}'),
-            onTap: () => _openMap(city['latitude'], city['longitude']),
+            onTap: () => openBrowserTab(city['latitude'], city['longitude']),
           );
         },
       ),
