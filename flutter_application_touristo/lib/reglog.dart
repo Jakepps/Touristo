@@ -237,7 +237,7 @@ class RegistrationScreen extends StatelessWidget {
 
     final url = Uri(
       scheme: 'http',
-      host: '10.0.2.2',
+      host: '127.0.0.1',
       port: 5000,
       path: '/register',
     );
@@ -317,7 +317,7 @@ class LoginScreen extends StatelessWidget {
   void login(BuildContext context) async {
     final url = Uri(
       scheme: 'http',
-      host: '10.0.2.2',
+      host: '127.0.0.1',
       port: 5000,
       path: '/login',
     );

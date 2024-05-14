@@ -69,7 +69,7 @@ class _EditingProfileScreenState extends State<EditingProfileScreen> {
                   : (authProvider.imageUrl != null &&
                           authProvider.imageUrl!.isNotEmpty
                       ? CachedNetworkImageProvider(
-                              'http://10.0.2.2:5000${authProvider.imageUrl}')
+                              'http://127.0.0.1:5000${authProvider.imageUrl}')
                           as ImageProvider
                       : const AssetImage('assets/images/user_photo.jpg')),
               backgroundColor: Colors.transparent,

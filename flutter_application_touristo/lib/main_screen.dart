@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
   // void _testConnection() async {
   //   var httpUri = Uri(
   //     scheme: 'http',
-  //     host: '10.0.2.2', //это локальный адрес сервера для эмулятора андроид
+  //     host: '127.0.0.1', //это локальный адрес сервера для эмулятора андроид
   //     port: 5000,
   //     path: '/api/country/ru',
   //   );

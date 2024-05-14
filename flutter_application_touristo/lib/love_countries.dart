@@ -30,7 +30,7 @@ class _LoveScreenState extends State<LoveScreen> {
     }
 
     var response =
-        await http.get(Uri.parse('http://10.0.2.2:5000/favorites/$userId'));
+        await http.get(Uri.parse('http://127.0.0.1:5000/favorites/$userId'));
     var jsonData = json.decode(response.body) as List;
 
     List<FavoriteCountry> countries = jsonData.map((data) {

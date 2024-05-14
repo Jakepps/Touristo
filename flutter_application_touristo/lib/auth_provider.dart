@@ -17,7 +17,7 @@ class AuthProvider with ChangeNotifier {
   bool get isAuthenticated => _isAuthenticated;
   int get userId => _userId;
 
-  String httpURL = 'http://10.0.2.2:5000/';
+  String httpURL = 'http://127.0.0.1:5000/';
 
   Future<void> tryAutoLogin() async {
     final token = await _storage.read(key: 'token');

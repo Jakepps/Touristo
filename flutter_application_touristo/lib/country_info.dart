@@ -46,7 +46,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   void _checkIfFavorite() async {
     final userId = Provider.of<AuthProvider>(context, listen: false).userId;
     final response = await http.get(Uri.parse(
-        'http://10.0.2.2:5000/is_favorite/$userId/${widget.countryCode}'));
+        'http://127.0.0.1:5000/is_favorite/$userId/${widget.countryCode}'));
     if (response.statusCode == 200) {
       setState(() {
         isFavorite = json.decode(response.body)['is_favorite'];
@@ -78,7 +78,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   void _fetchAllCities(int currentPage, List<dynamic> accumulatedCities) async {
     final httpUriCities = Uri(
       scheme: 'http',
-      host: '10.0.2.2',
+      host: '127.0.0.1',
       port: 5000,
       path: '/api/country/${widget.countryCode}/cities',
       queryParameters: {
@@ -113,14 +113,14 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   void _fetchCountryData() async {
     final httpUri = Uri(
       scheme: 'http',
-      host: '10.0.2.2',
+      host: '127.0.0.1',
       port: 5000,
       path: '/api/country/${widget.countryCode}',
     );
 
     final httpUriCitiesCount = Uri(
       scheme: 'http',
-      host: '10.0.2.2',
+      host: '127.0.0.1',
       port: 5000,
       path: '/api/country/${widget.countryCode}/count_cities',
     );
