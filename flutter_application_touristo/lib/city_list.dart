@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+//import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter_web_browser/flutter_web_browser.dart';
-import 'package:translator/translator.dart';
 
 class CityListScreen extends StatefulWidget {
   final List<dynamic> cities;
@@ -14,49 +14,31 @@ class CityListScreen extends StatefulWidget {
 class _CityListScreenState extends State<CityListScreen> {
   List<dynamic> filteredCities = [];
   bool isSearching = false;
-  late List<Map<String, dynamic>> citiesWithTranslations;
 
   @override
   void initState() {
     super.initState();
     filteredCities = widget.cities;
-    translateCityNames();
-  }
-
-  Future<void> translateCityNames() async {
-    List<String> cityNames =
-        widget.cities.map<String>((city) => city['name']).toList();
-    List<String> translatedNames = await _translateTexts(cityNames);
-    setState(() {
-      citiesWithTranslations = List.generate(widget.cities.length, (index) {
-        return {
-          ...widget.cities[index],
-          'translatedName': translatedNames[index]
-        };
-      });
-      filteredCities = citiesWithTranslations;
-    });
-  }
-
-  Future<List<String>> _translateTexts(List<String> texts) async {
-    List<String> translatedTexts = [];
-    final translator = GoogleTranslator();
-    for (String text in texts) {
-      final translatedText = await translator.translate(text, to: 'ru');
-      translatedTexts.add(translatedText.toString());
-    }
-    return translatedTexts;
   }
 
   void _filterCities(String searchTerm) {
     setState(() {
-      filteredCities = citiesWithTranslations
-          .where((city) => city['translatedName']
-              .toLowerCase()
-              .contains(searchTerm.toLowerCase()))
+      filteredCities = widget.cities
+          .where((city) =>
+              city['name'].toLowerCase().contains(searchTerm.toLowerCase()))
           .toList();
     });
   }
+
+  // void _openMap(double lat, double lng) async {
+  //   var uri =
+  //       Uri.parse('https://www.google.com/maps/search/?api=1&query=$lat,$lng');
+  //   if (await canLaunchUrl(uri)) {
+  //     await launchUrl(uri);
+  //   } else {
+  //     throw 'Could not launch $uri';
+  //   }
+  // }
 
   void openBrowserTab(double lat, double lng) async {
     var url = 'https://www.google.com/maps/search/?api=1&query=$lat,$lng';
@@ -95,7 +77,7 @@ class _CityListScreenState extends State<CityListScreen> {
               onPressed: () {
                 setState(() {
                   isSearching = false;
-                  filteredCities = citiesWithTranslations;
+                  filteredCities = widget.cities;
                 });
               },
             ),
@@ -106,7 +88,7 @@ class _CityListScreenState extends State<CityListScreen> {
         itemBuilder: (context, index) {
           var city = filteredCities[index];
           return ListTile(
-            title: Text(city['translatedName']),
+            title: Text(city['name']),
             subtitle:
                 Text('Координаты: ${city['latitude']}, ${city['longitude']}'),
             onTap: () => openBrowserTab(city['latitude'], city['longitude']),
