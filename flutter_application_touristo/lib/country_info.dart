@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:http/http.dart' as http;
@@ -32,7 +31,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
   var languageNames = {};
   Map<String, String> countryCodeToName = {};
   bool isFavorite = false;
-  Widget factsWidget = SizedBox();
+  Widget factsWidget = const SizedBox();
   List<dynamic> cities = [];
 
   @override
