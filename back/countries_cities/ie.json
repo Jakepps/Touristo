@@ -1,1471 +1,1471 @@
 [
     {
-        "name": "Athenry",
+        "name": "Атенри",
         "latitude": 53.29639,
         "longitude": -8.74306
     },
     {
-        "name": "Ballaghaderreen",
+        "name": "Баллагадеррин",
         "latitude": 53.9,
         "longitude": -8.58333
     },
     {
-        "name": "Ballina",
+        "name": "Баллина",
         "latitude": 54.11667,
         "longitude": -9.16667
     },
     {
-        "name": "Ballinasloe",
+        "name": "Баллинасло",
         "latitude": 53.3275,
         "longitude": -8.21944
     },
     {
-        "name": "Ballinrobe",
+        "name": "Баллинроб",
         "latitude": 53.63333,
         "longitude": -9.23333
     },
     {
-        "name": "Ballisodare",
+        "name": "Баллисодар",
         "latitude": 54.2111,
         "longitude": -8.50865
     },
     {
-        "name": "Ballyhaunis",
+        "name": "Баллихаунис",
         "latitude": 53.76667,
         "longitude": -8.76667
     },
     {
-        "name": "Ballymote",
+        "name": "Баллимот",
         "latitude": 54.08333,
         "longitude": -8.51667
     },
     {
-        "name": "Bearna",
+        "name": "Зазор",
         "latitude": 53.25194,
         "longitude": -9.14972
     },
     {
-        "name": "Belmullet",
+        "name": "Белмуллет",
         "latitude": 54.225,
         "longitude": -9.99083
     },
     {
-        "name": "Boyle",
+        "name": "Бойл",
         "latitude": 53.96667,
         "longitude": -8.3
     },
     {
-        "name": "Carrick-on-Shannon",
+        "name": "Каррик-он-Шеннон",
         "latitude": 53.94694,
         "longitude": -8.09
     },
     {
-        "name": "Castlebar",
+        "name": "Каслбар",
         "latitude": 53.85,
         "longitude": -9.3
     },
     {
-        "name": "Castlerea",
+        "name": "Каслреа",
         "latitude": 53.76667,
         "longitude": -8.5
     },
     {
-        "name": "Claregalway",
+        "name": "Клэрегалуэй",
         "latitude": 53.33861,
         "longitude": -8.945
     },
     {
-        "name": "Claremorris",
+        "name": "Клерморрис",
         "latitude": 53.71667,
         "longitude": -9.0
     },
     {
-        "name": "Clifden",
+        "name": "Клифден",
         "latitude": 53.48907,
         "longitude": -10.0191
     },
     {
-        "name": "Collooney",
+        "name": "Коллуни",
         "latitude": 54.18333,
         "longitude": -8.5
     },
     {
-        "name": "County Galway",
+        "name": "Графство Голуэй",
         "latitude": 53.33333,
         "longitude": -9.0
     },
     {
-        "name": "County Leitrim",
+        "name": "Графство Литрим",
         "latitude": 54.11667,
         "longitude": -8.0
     },
     {
-        "name": "Crossmolina",
+        "name": "Кроссмолина",
         "latitude": 54.1,
         "longitude": -9.31667
     },
     {
-        "name": "Foxford",
+        "name": "Фоксфорд",
         "latitude": 53.9807,
         "longitude": -9.11551
     },
     {
-        "name": "Gaillimh",
+        "name": "Голуэй",
         "latitude": 53.27194,
         "longitude": -9.04889
     },
     {
-        "name": "Galway City",
+        "name": "Голуэй Сити",
         "latitude": 53.2877,
         "longitude": -9.05004
     },
     {
-        "name": "Gort",
+        "name": "Горт",
         "latitude": 53.06639,
         "longitude": -8.81667
     },
     {
-        "name": "Inishcrone",
+        "name": "Инишкроне",
         "latitude": 54.21591,
         "longitude": -9.09197
     },
     {
-        "name": "Kiltamagh",
+        "name": "Килтамах",
         "latitude": 53.85,
         "longitude": -9.0
     },
     {
-        "name": "Kinlough",
+        "name": "Кинлоу",
         "latitude": 54.45,
         "longitude": -8.28333
     },
     {
-        "name": "Loughrea",
+        "name": "Лохрея",
         "latitude": 53.19694,
         "longitude": -8.56694
     },
     {
-        "name": "Manorhamilton",
+        "name": "Манорхамилтон",
         "latitude": 54.30639,
         "longitude": -8.17611
     },
     {
-        "name": "Mayo County",
+        "name": "Округ Мейо",
         "latitude": 53.9,
         "longitude": -9.25
     },
     {
-        "name": "Moycullen",
+        "name": "Мойкуллен",
         "latitude": 53.33783,
         "longitude": -9.18002
     },
     {
-        "name": "Oranmore",
+        "name": "Оранмор",
         "latitude": 53.26833,
         "longitude": -8.92
     },
     {
-        "name": "Oughterard",
+        "name": "Утерард",
         "latitude": 53.41667,
         "longitude": -9.33333
     },
     {
-        "name": "Portumna",
+        "name": "порт",
         "latitude": 53.08917,
         "longitude": -8.21889
     },
     {
-        "name": "Roscommon",
+        "name": "Роскоммон",
         "latitude": 53.75,
         "longitude": -8.25
     },
     {
-        "name": "Sligo",
+        "name": "Слайго",
         "latitude": 54.25,
         "longitude": -8.66667
     },
     {
-        "name": "Strandhill",
+        "name": "Стрэндхилл",
         "latitude": 54.27194,
         "longitude": -8.59333
     },
     {
-        "name": "Swinford",
+        "name": "Суинфорд",
         "latitude": 53.95,
         "longitude": -8.95
     },
     {
-        "name": "Tobercurry",
+        "name": "Тоберкарри",
         "latitude": 54.05,
         "longitude": -8.73333
     },
     {
-        "name": "Tuam",
+        "name": "Туам",
         "latitude": 53.51667,
         "longitude": -8.85
     },
     {
-        "name": "Westport",
+        "name": "Вестпорт",
         "latitude": 53.8,
         "longitude": -9.51667
     },
     {
-        "name": "Abbeyleix",
+        "name": "Аббелейкс",
         "latitude": 52.91331,
         "longitude": -7.34456
     },
     {
-        "name": "An Iarmh\u00ed",
+        "name": "Уэстмит",
         "latitude": 53.5,
         "longitude": -7.5
     },
     {
-        "name": "An Longfort",
+        "name": "Лонгфорд",
         "latitude": 53.66667,
         "longitude": -7.75
     },
     {
-        "name": "An Mh\u00ed",
+        "name": "Месяц",
         "latitude": 53.66667,
         "longitude": -6.66667
     },
     {
-        "name": "An Muileann gCearr",
+        "name": "Маллингар",
         "latitude": 53.53333,
         "longitude": -7.35
     },
     {
-        "name": "An Ros",
+        "name": "Ан Рос",
         "latitude": 53.52424,
         "longitude": -6.10497
     },
     {
-        "name": "Ardee",
+        "name": "Арди",
         "latitude": 53.85972,
         "longitude": -6.54056
     },
     {
-        "name": "Arklow",
+        "name": "Арклоу",
         "latitude": 52.79306,
         "longitude": -6.14139
     },
     {
-        "name": "Artane",
+        "name": "Артан",
         "latitude": 53.38712,
         "longitude": -6.2138
     },
     {
-        "name": "Ashbourne",
+        "name": "Эшборн",
         "latitude": 53.51163,
         "longitude": -6.39821
     },
     {
-        "name": "Ashford",
+        "name": "Эшфорд",
         "latitude": 53.00833,
         "longitude": -6.11139
     },
     {
-        "name": "Athboy",
+        "name": "Атбой",
         "latitude": 53.62327,
         "longitude": -6.91434
     },
     {
-        "name": "Athgarvan",
+        "name": "Атгарван",
         "latitude": 53.15229,
         "longitude": -6.78173
     },
     {
-        "name": "Athlone",
+        "name": "Атлон",
         "latitude": 53.43333,
         "longitude": -7.95
     },
     {
-        "name": "Athy",
+        "name": "Ати",
         "latitude": 52.99139,
         "longitude": -6.98028
     },
     {
-        "name": "Aughrim",
+        "name": "Огрим",
         "latitude": 52.85333,
         "longitude": -6.3275
     },
     {
-        "name": "Bagenalstown",
+        "name": "Багеналстаун",
         "latitude": 52.70031,
         "longitude": -6.96181
     },
     {
-        "name": "Balally",
+        "name": "Балалли",
         "latitude": 53.27504,
         "longitude": -6.23594
     },
     {
-        "name": "Balbriggan",
+        "name": "Балбригган",
         "latitude": 53.60846,
         "longitude": -6.1831
     },
     {
-        "name": "Baldoyle",
+        "name": "Болдойл",
         "latitude": 53.39972,
         "longitude": -6.12583
     },
     {
-        "name": "Ballinroad",
+        "name": "Баллинроуд",
         "latitude": 52.51789,
         "longitude": -6.40619
     },
     {
-        "name": "Ballinteer",
+        "name": "Баллинтир",
         "latitude": 53.27409,
         "longitude": -6.25397
     },
     {
-        "name": "Ballivor",
+        "name": "Балливор",
         "latitude": 53.53167,
         "longitude": -6.96111
     },
     {
-        "name": "Ballyboden",
+        "name": "Баллибоден",
         "latitude": 53.28056,
         "longitude": -6.31639
     },
     {
-        "name": "Ballyfermot",
+        "name": "Баллифермот",
         "latitude": 53.34283,
         "longitude": -6.3548
     },
     {
-        "name": "Ballygerry",
+        "name": "Баллиджерри",
         "latitude": 52.24917,
         "longitude": -6.35739
     },
     {
-        "name": "Ballylinan",
+        "name": "Баллилинан",
         "latitude": 52.94497,
         "longitude": -7.04073
     },
     {
-        "name": "Ballymahon",
+        "name": "Баллимахон",
         "latitude": 53.56667,
         "longitude": -7.76667
     },
     {
-        "name": "Ballymun",
+        "name": "Баллимун",
         "latitude": 53.39807,
         "longitude": -6.26693
     },
     {
-        "name": "Ballyragget",
+        "name": "Баллираггет",
         "latitude": 52.78889,
         "longitude": -7.33028
     },
     {
-        "name": "Balrothery",
+        "name": "Балротери",
         "latitude": 53.58828,
         "longitude": -6.18728
     },
     {
-        "name": "Baltinglass",
+        "name": "Балтингласс",
         "latitude": 52.93722,
         "longitude": -6.70917
     },
     {
-        "name": "Banagher",
+        "name": "Банагер",
         "latitude": 53.18861,
         "longitude": -7.98667
     },
     {
-        "name": "Bayside",
+        "name": "Бэйсайд",
         "latitude": 53.38895,
         "longitude": -6.14041
     },
     {
-        "name": "Beaumont",
+        "name": "Бомонт",
         "latitude": 53.38721,
         "longitude": -6.22713
     },
     {
-        "name": "Birr",
+        "name": "Бирр",
         "latitude": 53.09139,
         "longitude": -7.91333
     },
     {
-        "name": "Blackrock",
+        "name": "Черная гора",
         "latitude": 53.3015,
         "longitude": -6.1778
     },
     {
-        "name": "Blanchardstown",
+        "name": "Бланчардстаун",
         "latitude": 53.38806,
         "longitude": -6.37556
     },
     {
-        "name": "Blessington",
+        "name": "Блессингтон",
         "latitude": 53.17,
         "longitude": -6.5325
     },
     {
-        "name": "Bonnybrook",
+        "name": "Боннибрук",
         "latitude": 53.39835,
         "longitude": -6.20749
     },
     {
-        "name": "Booterstown",
+        "name": "Бутерстаун",
         "latitude": 53.30447,
         "longitude": -6.19985
     },
     {
-        "name": "Bray",
+        "name": "Брей",
         "latitude": 53.20278,
         "longitude": -6.09833
     },
     {
-        "name": "Bunclody",
+        "name": "Банклоди",
         "latitude": 52.6553,
         "longitude": -6.65359
     },
     {
-        "name": "Cabinteely",
+        "name": "Кабинтили",
         "latitude": 53.26973,
         "longitude": -6.16058
     },
     {
-        "name": "Cabra",
+        "name": "Козел",
         "latitude": 53.36694,
         "longitude": -6.29444
     },
     {
-        "name": "Callan",
+        "name": "Каллан",
         "latitude": 52.545,
         "longitude": -7.39111
     },
     {
-        "name": "Carlingford",
+        "name": "Карлингфорд",
         "latitude": 54.04,
         "longitude": -6.18833
     },
     {
-        "name": "Carlow",
+        "name": "Карлоу",
         "latitude": 52.84083,
         "longitude": -6.92611
     },
     {
-        "name": "Carnew",
+        "name": "Карнью",
         "latitude": 52.70806,
         "longitude": -6.49444
     },
     {
-        "name": "Castlebellingham",
+        "name": "Каслбеллингем",
         "latitude": 53.90083,
         "longitude": -6.39028
     },
     {
-        "name": "Castlebridge",
+        "name": "Каслбридж",
         "latitude": 52.38639,
         "longitude": -6.44944
     },
     {
-        "name": "Castlecomer",
+        "name": "Каслкомер",
         "latitude": 52.80611,
         "longitude": -7.21056
     },
     {
-        "name": "Castledermot",
+        "name": "Каслдермот",
         "latitude": 52.90889,
         "longitude": -6.84222
     },
     {
-        "name": "Castleknock",
+        "name": "Каслнок",
         "latitude": 53.37483,
         "longitude": -6.36336
     },
     {
-        "name": "Castlepollard",
+        "name": "Каслполлард",
         "latitude": 53.67935,
         "longitude": -7.29736
     },
     {
-        "name": "Castletown",
+        "name": "Каслтаун",
         "latitude": 52.72306,
         "longitude": -6.18944
     },
     {
-        "name": "Celbridge",
+        "name": "Селбридж",
         "latitude": 53.34165,
         "longitude": -6.54419
     },
     {
-        "name": "Chapelizod",
+        "name": "Чапелизод",
         "latitude": 53.34846,
         "longitude": -6.34301
     },
     {
-        "name": "Charlesland",
+        "name": "Чарльзленд",
         "latitude": 53.12771,
         "longitude": -6.06347
     },
     {
-        "name": "Cherry Orchard",
+        "name": "Вишневый сад",
         "latitude": 53.33605,
         "longitude": -6.37799
     },
     {
-        "name": "Cherryville",
+        "name": "Черривилл",
         "latitude": 53.15694,
         "longitude": -6.96667
     },
     {
-        "name": "Clane",
+        "name": "Клейн",
         "latitude": 53.29139,
         "longitude": -6.68917
     },
     {
-        "name": "Clara",
+        "name": "Клара",
         "latitude": 53.3425,
         "longitude": -7.61389
     },
     {
-        "name": "Clogherhead",
+        "name": "Клогерхед",
         "latitude": 53.79361,
         "longitude": -6.2375
     },
     {
-        "name": "Clondalkin",
+        "name": "Клондалкин",
         "latitude": 53.32444,
         "longitude": -6.39722
     },
     {
-        "name": "Clonskeagh",
+        "name": "Клонски",
         "latitude": 53.31467,
         "longitude": -6.23148
     },
     {
-        "name": "Confey",
+        "name": "Конфи",
         "latitude": 53.37923,
         "longitude": -6.49052
     },
     {
-        "name": "Coolock",
+        "name": "Кулок",
         "latitude": 53.3887,
         "longitude": -6.19998
     },
     {
-        "name": "County Carlow",
+        "name": "Графство Карлоу",
         "latitude": 52.66667,
         "longitude": -6.83333
     },
     {
-        "name": "Courtown",
+        "name": "Кортаун",
         "latitude": 52.64424,
         "longitude": -6.22899
     },
     {
-        "name": "Crumlin",
+        "name": "Крамлин",
         "latitude": 53.32154,
         "longitude": -6.31439
     },
     {
-        "name": "Daingean",
+        "name": "Твердый",
         "latitude": 53.29611,
         "longitude": -7.28944
     },
     {
-        "name": "Dalkey",
+        "name": "Моя страна",
         "latitude": 53.27833,
         "longitude": -6.10028
     },
     {
-        "name": "Darndale",
+        "name": "Дарндейл",
         "latitude": 53.39948,
         "longitude": -6.18886
     },
     {
-        "name": "Derrinturn",
+        "name": "Дерринтурн",
         "latitude": 53.34167,
         "longitude": -6.94111
     },
     {
-        "name": "Dollymount",
+        "name": "Доллимаунт",
         "latitude": 53.36489,
         "longitude": -6.18032
     },
     {
-        "name": "Donabate",
+        "name": "Пожертвовать",
         "latitude": 53.48722,
         "longitude": -6.15194
     },
     {
-        "name": "Donaghmede",
+        "name": "Донахмед",
         "latitude": 53.39845,
         "longitude": -6.16179
     },
     {
-        "name": "Donnybrook",
+        "name": "Доннибрук",
         "latitude": 53.31375,
         "longitude": -6.22274
     },
     {
-        "name": "Donnycarney",
+        "name": "Донникарни",
         "latitude": 53.3735,
         "longitude": -6.20976
     },
     {
-        "name": "Drogheda",
+        "name": "Дроэда",
         "latitude": 53.71889,
         "longitude": -6.34778
     },
     {
-        "name": "Droichead Nua",
+        "name": "Новый мост",
         "latitude": 53.18194,
         "longitude": -6.79667
     },
     {
-        "name": "Dromiskin",
+        "name": "Дромискин",
         "latitude": 53.92538,
         "longitude": -6.40292
     },
     {
-        "name": "Drumcondra",
+        "name": "Драмкондра",
         "latitude": 53.37058,
         "longitude": -6.25298
     },
     {
-        "name": "Dublin",
+        "name": "Дублин",
         "latitude": 53.33306,
         "longitude": -6.24889
     },
     {
-        "name": "Dublin City",
+        "name": "Дублин Сити",
         "latitude": 53.35512,
         "longitude": -6.24922
     },
     {
-        "name": "Duleek",
+        "name": "Дулик",
         "latitude": 53.65667,
         "longitude": -6.41917
     },
     {
-        "name": "D\u00fan Laoghaire",
+        "name": "Дун Лаогэр",
         "latitude": 53.29395,
         "longitude": -6.13586
     },
     {
-        "name": "D\u00fan Laoghaire-Rathdown",
+        "name": "Дун Лаогэр-Ратдаун",
         "latitude": 53.29436,
         "longitude": -6.13489
     },
     {
-        "name": "Dunboyne",
+        "name": "Данбойн",
         "latitude": 53.41901,
         "longitude": -6.47375
     },
     {
-        "name": "Dundalk",
+        "name": "Дандолк",
         "latitude": 54.0,
         "longitude": -6.41667
     },
     {
-        "name": "Dundrum",
+        "name": "Дандрам",
         "latitude": 53.29067,
         "longitude": -6.25714
     },
     {
-        "name": "Dunleer",
+        "name": "Данлир",
         "latitude": 53.835,
         "longitude": -6.39611
     },
     {
-        "name": "Dunshaughlin",
+        "name": "Даншоглин",
         "latitude": 53.5125,
         "longitude": -6.54
     },
     {
-        "name": "Eadestown",
+        "name": "Идстаун",
         "latitude": 53.20278,
         "longitude": -6.57806
     },
     {
-        "name": "Edenderry",
+        "name": "Эдендерри",
         "latitude": 53.33948,
         "longitude": -7.04752
     },
     {
-        "name": "Edgeworthstown",
+        "name": "Эджвортстаун",
         "latitude": 53.7,
         "longitude": -7.61667
     },
     {
-        "name": "Enfield",
+        "name": "Энфилд",
         "latitude": 53.41419,
         "longitude": -6.83229
     },
     {
-        "name": "Enniscorthy",
+        "name": "Эннискорти",
         "latitude": 52.50083,
         "longitude": -6.55778
     },
     {
-        "name": "Enniskerry",
+        "name": "Эннискерри",
         "latitude": 53.1925,
         "longitude": -6.16917
     },
     {
-        "name": "Fairview",
+        "name": "Фэрвью",
         "latitude": 53.36597,
         "longitude": -6.23985
     },
     {
-        "name": "Ferbane",
+        "name": "Запрещено",
         "latitude": 53.26944,
         "longitude": -7.82694
     },
     {
-        "name": "Ferns",
+        "name": "Папоротники",
         "latitude": 52.58833,
         "longitude": -6.49972
     },
     {
-        "name": "Fingal County",
+        "name": "Фингалский уезд",
         "latitude": 53.45909,
         "longitude": -6.21942
     },
     {
-        "name": "Finglas",
+        "name": "Финглас",
         "latitude": 53.38917,
         "longitude": -6.29694
     },
     {
-        "name": "Firhouse",
+        "name": "Фирхаус",
         "latitude": 53.28167,
         "longitude": -6.33917
     },
     {
-        "name": "Foxrock",
+        "name": "Фоксрок",
         "latitude": 53.26667,
         "longitude": -6.17417
     },
     {
-        "name": "Glasnevin",
+        "name": "Гласневин",
         "latitude": 53.37851,
         "longitude": -6.28028
     },
     {
-        "name": "Gorey",
+        "name": "Гори",
         "latitude": 52.67472,
         "longitude": -6.2925
     },
     {
-        "name": "Graiguenamanagh",
+        "name": "Грайгенамана",
         "latitude": 52.54028,
         "longitude": -6.95472
     },
     {
-        "name": "Granard",
+        "name": "Гранар",
         "latitude": 53.77928,
         "longitude": -7.49429
     },
     {
-        "name": "Greenhills",
+        "name": "Зеленые холмы",
         "latitude": 53.33467,
         "longitude": -6.30302
     },
     {
-        "name": "Greystones",
+        "name": "Грейстоуны",
         "latitude": 53.14083,
         "longitude": -6.06306
     },
     {
-        "name": "Hartstown",
+        "name": "Хартстаун",
         "latitude": 53.39306,
         "longitude": -6.42694
     },
     {
-        "name": "Howth",
+        "name": "Хаут",
         "latitude": 53.38778,
         "longitude": -6.06528
     },
     {
-        "name": "Jobstown",
+        "name": "Джобстаун",
         "latitude": 53.27866,
         "longitude": -6.40803
     },
     {
-        "name": "Johnstown",
+        "name": "Джонстаун",
         "latitude": 53.23833,
         "longitude": -6.62222
     },
     {
-        "name": "Kells",
+        "name": "Келлс",
         "latitude": 53.72639,
         "longitude": -6.87917
     },
     {
-        "name": "Kentstown",
+        "name": "Кентстаун",
         "latitude": 53.62754,
         "longitude": -6.52674
     },
     {
-        "name": "Kilbeggan",
+        "name": "Килбегган",
         "latitude": 53.36944,
         "longitude": -7.50333
     },
     {
-        "name": "Kilcock",
+        "name": "Килкок",
         "latitude": 53.40222,
         "longitude": -6.67083
     },
     {
-        "name": "Kilcoole",
+        "name": "Килкул",
         "latitude": 53.10278,
         "longitude": -6.065
     },
     {
-        "name": "Kilcullen",
+        "name": "Килкаллен",
         "latitude": 53.13028,
         "longitude": -6.74444
     },
     {
-        "name": "Kildare",
+        "name": "Килдэр",
         "latitude": 53.16667,
         "longitude": -6.75
     },
     {
-        "name": "Kilkenny",
+        "name": "Килкенни",
         "latitude": 52.58333,
         "longitude": -7.25
     },
     {
-        "name": "Kill",
+        "name": "Убийство",
         "latitude": 53.25139,
         "longitude": -6.59167
     },
     {
-        "name": "Killester",
+        "name": "Киллестер",
         "latitude": 53.37322,
         "longitude": -6.20431
     },
     {
-        "name": "Kilmacanoge",
+        "name": "Килмаканог",
         "latitude": 53.16722,
         "longitude": -6.13361
     },
     {
-        "name": "Kilpedder",
+        "name": "Килпеддер",
         "latitude": 53.10917,
         "longitude": -6.10667
     },
     {
-        "name": "Kilquade",
+        "name": "Килкуэйд",
         "latitude": 53.09743,
         "longitude": -6.08411
     },
     {
-        "name": "Kinnegad",
+        "name": "Киннегад",
         "latitude": 53.45222,
         "longitude": -7.09972
     },
     {
-        "name": "Kinsealy-Drinan",
+        "name": "Кинсли-Дринан",
         "latitude": 53.44395,
         "longitude": -6.20334
     },
     {
-        "name": "Knocklyon",
+        "name": "Ноклайон",
         "latitude": 53.2803,
         "longitude": -6.3313
     },
     {
-        "name": "Lanesborough",
+        "name": "Лейнсборо",
         "latitude": 53.66667,
         "longitude": -7.98333
     },
     {
-        "name": "Laois",
+        "name": "Лаосский",
         "latitude": 53.0,
         "longitude": -7.4
     },
     {
-        "name": "Laytown",
+        "name": "Лейтаун",
         "latitude": 53.68194,
         "longitude": -6.23917
     },
     {
-        "name": "Leixlip",
+        "name": "Лейкслип",
         "latitude": 53.36583,
         "longitude": -6.49556
     },
     {
-        "name": "Little Bray",
+        "name": "Маленький Брей",
         "latitude": 53.20444,
         "longitude": -6.12083
     },
     {
-        "name": "Loch Garman",
+        "name": "Уэксфорд",
         "latitude": 52.5,
         "longitude": -6.66667
     },
     {
-        "name": "Longford",
+        "name": "Лонгфорд",
         "latitude": 53.72536,
         "longitude": -7.79823
     },
     {
-        "name": "Longwood",
+        "name": "Лонгвуд",
         "latitude": 53.45389,
         "longitude": -6.92194
     },
     {
-        "name": "Loughlinstown",
+        "name": "Лафлинстаун",
         "latitude": 53.24389,
         "longitude": -6.13306
     },
     {
-        "name": "L\u00fa",
+        "name": "Меньше",
         "latitude": 53.83333,
         "longitude": -6.5
     },
     {
-        "name": "Lucan",
+        "name": "Лукан",
         "latitude": 53.35736,
         "longitude": -6.44859
     },
     {
-        "name": "Lusk",
+        "name": "Ласк",
         "latitude": 53.52743,
         "longitude": -6.16423
     },
     {
-        "name": "Malahide",
+        "name": "Малахайд",
         "latitude": 53.45083,
         "longitude": -6.15444
     },
     {
-        "name": "Marino",
+        "name": "Марино",
         "latitude": 53.37022,
         "longitude": -6.23646
     },
     {
-        "name": "Maynooth",
+        "name": "Мейнут",
         "latitude": 53.385,
         "longitude": -6.59361
     },
     {
-        "name": "Milltown",
+        "name": "Миллтаун",
         "latitude": 53.31301,
         "longitude": -6.2453
     },
     {
-        "name": "Moate",
+        "name": "Ров",
         "latitude": 53.39389,
         "longitude": -7.71722
     },
     {
-        "name": "Monasterevin",
+        "name": "Монастеревин",
         "latitude": 53.14056,
         "longitude": -7.06639
     },
     {
-        "name": "Monkstown",
+        "name": "Монкстаун",
         "latitude": 53.29308,
         "longitude": -6.15312
     },
     {
-        "name": "Mooncoin",
+        "name": "Мункоин",
         "latitude": 52.28944,
         "longitude": -7.24833
     },
     {
-        "name": "Moone",
+        "name": "Мун",
         "latitude": 52.97556,
         "longitude": -6.815
     },
     {
-        "name": "Mount Merrion",
+        "name": "Гора Меррион",
         "latitude": 53.30008,
         "longitude": -6.21504
     },
     {
-        "name": "Mountmellick",
+        "name": "Маунтмеллик",
         "latitude": 53.11361,
         "longitude": -7.32
     },
     {
-        "name": "Mountrath",
+        "name": "Маунтрат",
         "latitude": 52.99889,
         "longitude": -7.47278
     },
     {
-        "name": "Naas",
+        "name": "Наас",
         "latitude": 53.21583,
         "longitude": -6.66694
     },
     {
-        "name": "Navan",
+        "name": "Наван",
         "latitude": 53.65278,
         "longitude": -6.68139
     },
     {
-        "name": "New Ross",
+        "name": "Нью Росс",
         "latitude": 52.39667,
         "longitude": -6.93667
     },
     {
-        "name": "Newcastle",
+        "name": "Ньюкасл",
         "latitude": 53.30111,
         "longitude": -6.50222
     },
     {
-        "name": "Newtown Trim",
+        "name": "Ньютаун Трим",
         "latitude": 53.55611,
         "longitude": -6.77
     },
     {
-        "name": "Newtownmountkennedy",
+        "name": "НьютаунМаунткеннеди",
         "latitude": 53.09052,
         "longitude": -6.11149
     },
     {
-        "name": "Old Kilcullen",
+        "name": "Старый Килкаллен",
         "latitude": 53.10639,
         "longitude": -6.76528
     },
     {
-        "name": "Oldbawn",
+        "name": "Старый",
         "latitude": 53.27556,
         "longitude": -6.3675
     },
     {
-        "name": "Oldcastle",
+        "name": "Старый замок",
         "latitude": 53.76648,
         "longitude": -7.16284
     },
     {
-        "name": "Palmerstown",
+        "name": "Палмерстаун",
         "latitude": 53.35019,
         "longitude": -6.37778
     },
     {
-        "name": "Piltown",
+        "name": "Пилтаун",
         "latitude": 52.35333,
         "longitude": -7.34028
     },
     {
-        "name": "Portarlington",
+        "name": "Портарлингтон",
         "latitude": 53.16222,
         "longitude": -7.19111
     },
     {
-        "name": "Portlaoise",
+        "name": "Портлауаз",
         "latitude": 53.03441,
         "longitude": -7.29979
     },
     {
-        "name": "Portmarnock",
+        "name": "Портмарнок",
         "latitude": 53.42306,
         "longitude": -6.1375
     },
     {
-        "name": "Portraine",
+        "name": "Портрет",
         "latitude": 53.49667,
         "longitude": -6.11111
     },
     {
-        "name": "Prosperous",
+        "name": "Процветающий",
         "latitude": 53.29028,
         "longitude": -6.75389
     },
     {
-        "name": "Raheny",
+        "name": "Когда",
         "latitude": 53.38681,
         "longitude": -6.18067
     },
     {
-        "name": "Rathangan",
+        "name": "Ратанган",
         "latitude": 53.22139,
         "longitude": -6.995
     },
     {
-        "name": "Rathcoole",
+        "name": "Рэткул",
         "latitude": 53.28278,
         "longitude": -6.47278
     },
     {
-        "name": "Rathdowney",
+        "name": "Ратдауни",
         "latitude": 52.85472,
         "longitude": -7.58028
     },
     {
-        "name": "Rathdrum",
+        "name": "Ратдрам",
         "latitude": 52.92639,
         "longitude": -6.23556
     },
     {
-        "name": "Rathgar",
+        "name": "Ратгар",
         "latitude": 53.31457,
         "longitude": -6.275
     },
     {
-        "name": "Rathmines",
+        "name": "Ратмайнс",
         "latitude": 53.32028,
         "longitude": -6.26333
     },
     {
-        "name": "Rathnew",
+        "name": "Ротью",
         "latitude": 52.99056,
         "longitude": -6.08528
     },
     {
-        "name": "Rathwire",
+        "name": "Ратвайр",
         "latitude": 53.50767,
         "longitude": -7.1351
     },
     {
-        "name": "Ratoath",
+        "name": "Ратоат",
         "latitude": 53.50806,
         "longitude": -6.4625
     },
     {
-        "name": "Rialto",
+        "name": "Риальто",
         "latitude": 53.33625,
         "longitude": -6.29718
     },
     {
-        "name": "Ringsend",
+        "name": "Звонок Отправить",
         "latitude": 53.34194,
         "longitude": -6.22639
     },
     {
-        "name": "Rochfortbridge",
+        "name": "Рочфортбридж",
         "latitude": 53.41417,
         "longitude": -7.29611
     },
     {
-        "name": "Rosslare",
+        "name": "Росслэр",
         "latitude": 52.27583,
         "longitude": -6.38444
     },
     {
-        "name": "Saggart",
+        "name": "Саггарт",
         "latitude": 53.28028,
         "longitude": -6.44444
     },
     {
-        "name": "Sallins",
+        "name": "Саллинс",
         "latitude": 53.24889,
         "longitude": -6.66611
     },
     {
-        "name": "Sallynoggin",
+        "name": "Саллиноггс",
         "latitude": 53.27917,
         "longitude": -6.14058
     },
     {
-        "name": "Sandyford",
+        "name": "Сэндифорд",
         "latitude": 53.2747,
         "longitude": -6.2253
     },
     {
-        "name": "Sandymount",
+        "name": "Сэндимаунт",
         "latitude": 53.32815,
         "longitude": -6.22224
     },
     {
-        "name": "Shankill",
+        "name": "Шанкилл",
         "latitude": 53.22611,
         "longitude": -6.12444
     },
     {
-        "name": "Skerries",
+        "name": "Шхеры",
         "latitude": 53.58278,
         "longitude": -6.10833
     },
     {
-        "name": "Slane",
+        "name": "Слейн",
         "latitude": 53.71,
         "longitude": -6.54333
     },
     {
-        "name": "South Dublin",
+        "name": "Южный Дублин",
         "latitude": 53.28595,
         "longitude": -6.37739
     },
     {
-        "name": "Stamullin",
+        "name": "Стамула",
         "latitude": 53.62889,
         "longitude": -6.26833
     },
     {
-        "name": "Stradbally",
+        "name": "Страдбалли",
         "latitude": 53.01556,
         "longitude": -7.15278
     },
     {
-        "name": "Sutton",
+        "name": "Саттон",
         "latitude": 53.38947,
         "longitude": -6.11059
     },
     {
-        "name": "Swords",
+        "name": "Мечи",
         "latitude": 53.45972,
         "longitude": -6.21806
     },
     {
-        "name": "Tallaght",
+        "name": "Таллахт",
         "latitude": 53.2859,
         "longitude": -6.37344
     },
     {
-        "name": "Templeogue",
+        "name": "Темплог",
         "latitude": 53.29528,
         "longitude": -6.30889
     },
     {
-        "name": "Terenure",
+        "name": "Теренуре",
         "latitude": 53.30972,
         "longitude": -6.28528
     },
     {
-        "name": "Termonfeckin",
+        "name": "Термонфекин",
         "latitude": 53.76333,
         "longitude": -6.26778
     },
     {
-        "name": "Thomastown",
+        "name": "Томастаун",
         "latitude": 52.52667,
         "longitude": -7.13722
     },
     {
-        "name": "Trim",
+        "name": "Подрезать",
         "latitude": 53.555,
         "longitude": -6.79167
     },
     {
-        "name": "Tullamore",
+        "name": "Талламор",
         "latitude": 53.27389,
         "longitude": -7.48889
     },
     {
-        "name": "Tullow",
+        "name": "Таллоу",
         "latitude": 52.80028,
         "longitude": -6.73694
     },
     {
-        "name": "Tullyallen",
+        "name": "В Туллиалле",
         "latitude": 53.73611,
         "longitude": -6.42278
     },
     {
-        "name": "U\u00edbh Fhail\u00ed",
+        "name": "Оффали",
         "latitude": 53.25,
         "longitude": -7.5
     },
     {
-        "name": "Valleymount",
+        "name": "Вэллимаунт",
         "latitude": 53.10389,
         "longitude": -6.55361
     },
     {
-        "name": "Wicklow",
+        "name": "Уиклоу",
         "latitude": 53.0,
         "longitude": -6.41667
     },
     {
-        "name": "Abbeyfeale",
+        "name": "Эббифил",
         "latitude": 52.38139,
         "longitude": -9.3025
     },
     {
-        "name": "Adare",
+        "name": "Маршировать",
         "latitude": 52.56194,
         "longitude": -8.79556
     },
     {
-        "name": "Aghada",
+        "name": "Агада",
         "latitude": 51.83917,
         "longitude": -8.21222
     },
     {
-        "name": "An Cl\u00e1r",
+        "name": "Шоу",
         "latitude": 52.83333,
         "longitude": -9.0
     },
     {
-        "name": "Annacotty",
+        "name": "Аннакотти",
         "latitude": 52.66768,
         "longitude": -8.53121
     },
     {
-        "name": "Ardnacrusha",
+        "name": "Арднакруша",
         "latitude": 52.70908,
         "longitude": -8.61431
     },
     {
-        "name": "Askeaton",
+        "name": "Аскитон",
         "latitude": 52.59972,
         "longitude": -8.97556
     },
     {
-        "name": "Ballina",
+        "name": "Баллина",
         "latitude": 52.80778,
         "longitude": -8.43556
     },
     {
-        "name": "Ballybunnion",
+        "name": "Баллибаннион",
         "latitude": 52.51108,
         "longitude": -9.67097
     },
     {
-        "name": "Bandon",
+        "name": "Бэндон",
         "latitude": 51.74694,
         "longitude": -8.7425
     },
     {
-        "name": "Bantry",
+        "name": "Бэнтри",
         "latitude": 51.68333,
         "longitude": -9.45
     },
     {
-        "name": "Blarney",
+        "name": "Бларни",
         "latitude": 51.93333,
         "longitude": -8.56667
     },
     {
-        "name": "Caherconlish",
+        "name": "Каэрконлиш",
         "latitude": 52.59361,
         "longitude": -8.47028
     },
     {
-        "name": "Cahersiveen",
+        "name": "Каэрсайвин",
         "latitude": 51.94861,
         "longitude": -10.22222
     },
     {
-        "name": "Cahir",
+        "name": "Каир",
         "latitude": 52.37694,
         "longitude": -7.92167
     },
     {
-        "name": "Carrick-on-Suir",
+        "name": "Каррик-он-Шир",
         "latitude": 52.34917,
         "longitude": -7.41306
     },
     {
-        "name": "Carrigaline",
+        "name": "Карригалин",
         "latitude": 51.81167,
         "longitude": -8.39861
     },
     {
-        "name": "Carrigtwohill",
+        "name": "Карригтухилл",
         "latitude": 51.90833,
         "longitude": -8.26333
     },
     {
-        "name": "Cashel",
+        "name": "Кашел",
         "latitude": 52.51583,
         "longitude": -7.88556
     },
     {
-        "name": "Castleconnell",
+        "name": "Каслконнелл",
         "latitude": 52.71389,
         "longitude": -8.49944
     },
     {
-        "name": "Castleisland",
+        "name": "КаслАйленд",
         "latitude": 52.23333,
         "longitude": -9.46667
     },
     {
-        "name": "Castlemartyr",
+        "name": "Замокмученик",
         "latitude": 51.91028,
         "longitude": -8.05389
     },
     {
-        "name": "Ciarra\u00ed",
+        "name": "Керри",
         "latitude": 52.16667,
         "longitude": -9.75
     },
     {
-        "name": "Cill Airne",
+        "name": "Килларни",
         "latitude": 52.0598,
         "longitude": -9.50858
     },
     {
-        "name": "Clonakilty",
+        "name": "Клонакилти",
         "latitude": 51.62306,
         "longitude": -8.87056
     },
     {
-        "name": "Cloyne",
+        "name": "Клойн",
         "latitude": 51.86278,
         "longitude": -8.12444
     },
     {
-        "name": "Cluain Meala",
+        "name": "Клонмел",
         "latitude": 52.355,
         "longitude": -7.70389
     },
     {
-        "name": "Cobh",
+        "name": "Кобх",
         "latitude": 51.85046,
         "longitude": -8.2948
     },
     {
-        "name": "Cork",
+        "name": "Корк",
         "latitude": 51.89797,
         "longitude": -8.47061
     },
     {
-        "name": "Cork City",
+        "name": "Корк Сити",
         "latitude": 51.89755,
         "longitude": -8.46773
     },
     {
-        "name": "County Cork",
+        "name": "Графство Корк",
         "latitude": 51.96667,
         "longitude": -8.58333
     },
     {
-        "name": "County Tipperary",
+        "name": "Графство Типперэри",
         "latitude": 52.66667,
         "longitude": -7.83333
     },
     {
-        "name": "Croom",
+        "name": "Крум",
         "latitude": 52.51944,
         "longitude": -8.71778
     },
     {
-        "name": "Crosshaven",
+        "name": "Кроссхейвен",
         "latitude": 51.79833,
         "longitude": -8.30083
     },
     {
-        "name": "Derry",
+        "name": "Дерри",
         "latitude": 51.58666,
         "longitude": -9.05026
     },
     {
-        "name": "Dingle",
+        "name": "Дингл",
         "latitude": 52.14083,
         "longitude": -10.26889
     },
     {
-        "name": "Dungarvan",
+        "name": "Дангарван",
         "latitude": 52.08806,
         "longitude": -7.62528
     },
     {
-        "name": "Dunmanway",
+        "name": "Данмэнуэй",
         "latitude": 51.71667,
         "longitude": -9.11667
     },
     {
-        "name": "Dunmore East",
+        "name": "Данмор Ист",
         "latitude": 52.15108,
         "longitude": -6.99872
     },
     {
-        "name": "Ennis",
+        "name": "Эннис",
         "latitude": 52.84361,
         "longitude": -8.98639
     },
@@ -1475,387 +1475,387 @@
         "longitude": -8.27583
     },
     {
-        "name": "Fethard",
+        "name": "Фетхард",
         "latitude": 52.46722,
         "longitude": -7.69111
     },
     {
-        "name": "Kanturk",
+        "name": "Кантюрк",
         "latitude": 52.16667,
         "longitude": -8.9
     },
     {
-        "name": "Kenmare",
+        "name": "Кенмэр",
         "latitude": 51.88333,
         "longitude": -9.58333
     },
     {
-        "name": "Killaloe",
+        "name": "Киллалоэ",
         "latitude": 52.80667,
         "longitude": -8.44361
     },
     {
-        "name": "Killorglin",
+        "name": "Киллорглин",
         "latitude": 52.1,
         "longitude": -9.78333
     },
     {
-        "name": "Killumney",
+        "name": "Килламни",
         "latitude": 51.87243,
         "longitude": -8.64781
     },
     {
-        "name": "Kilmallock",
+        "name": "Килмаллок",
         "latitude": 52.4,
         "longitude": -8.57722
     },
     {
-        "name": "Kilrush",
+        "name": "Килраш",
         "latitude": 52.63972,
         "longitude": -9.48333
     },
     {
-        "name": "Kinsale",
+        "name": "Кинсейл",
         "latitude": 51.7075,
         "longitude": -8.53056
     },
     {
-        "name": "Listowel",
+        "name": "Листоуэл",
         "latitude": 52.44639,
         "longitude": -9.485
     },
     {
-        "name": "Luimneach",
+        "name": "Лимерик",
         "latitude": 52.66472,
         "longitude": -8.62306
     },
     {
-        "name": "Macroom",
+        "name": "Макрум",
         "latitude": 51.90663,
         "longitude": -8.96968
     },
     {
-        "name": "Mallow",
+        "name": "Мальва",
         "latitude": 52.13333,
         "longitude": -8.63333
     },
     {
-        "name": "Midleton",
+        "name": "Мидлтон",
         "latitude": 51.91526,
         "longitude": -8.18052
     },
     {
-        "name": "Millstreet",
+        "name": "Миллстрит",
         "latitude": 52.05935,
         "longitude": -9.06031
     },
     {
-        "name": "Mitchelstown",
+        "name": "Митчелстаун",
         "latitude": 52.26583,
         "longitude": -8.26806
     },
     {
-        "name": "Moroe",
+        "name": "Моро",
         "latitude": 52.65111,
         "longitude": -8.39611
     },
     {
-        "name": "Moyross",
+        "name": "Мойросс",
         "latitude": 52.68198,
         "longitude": -8.63955
     },
     {
-        "name": "Nenagh",
+        "name": "Нина",
         "latitude": 52.86194,
         "longitude": -8.19667
     },
     {
-        "name": "Nenagh Bridge",
+        "name": "Мост Нена",
         "latitude": 52.88167,
         "longitude": -8.19583
     },
     {
-        "name": "Newcastle West",
+        "name": "Ньюкасл Вест",
         "latitude": 52.44917,
         "longitude": -9.06111
     },
     {
-        "name": "Newmarket on Fergus",
+        "name": "Ньюмаркет на Фергусе",
         "latitude": 52.76,
         "longitude": -8.89556
     },
     {
-        "name": "Newport",
+        "name": "Ньюпорт",
         "latitude": 52.71111,
         "longitude": -8.40972
     },
     {
-        "name": "Passage West",
+        "name": "Пассаж Запад",
         "latitude": 51.87389,
         "longitude": -8.34444
     },
     {
-        "name": "Portlaw",
+        "name": "Портлоу",
         "latitude": 52.28833,
         "longitude": -7.32056
     },
     {
-        "name": "R\u00e1th Luirc",
+        "name": "Ратлурк",
         "latitude": 52.35,
         "longitude": -8.68333
     },
     {
-        "name": "Rathcormac",
+        "name": "Раткормак",
         "latitude": 52.07694,
         "longitude": -8.28194
     },
     {
-        "name": "Rathkeale",
+        "name": "Раткил",
         "latitude": 52.52444,
         "longitude": -8.93806
     },
     {
-        "name": "Roscrea",
+        "name": "Роскреа",
         "latitude": 52.95111,
         "longitude": -7.80167
     },
     {
-        "name": "Shannon",
+        "name": "Шеннон",
         "latitude": 52.70389,
         "longitude": -8.86417
     },
     {
-        "name": "Sixmilebridge",
+        "name": "Сиксмайлбридж",
         "latitude": 52.74139,
         "longitude": -8.77417
     },
     {
-        "name": "Skibbereen",
+        "name": "Скибберин",
         "latitude": 51.55,
         "longitude": -9.26667
     },
     {
-        "name": "Templemore",
+        "name": "Темплмор",
         "latitude": 52.79472,
         "longitude": -7.83389
     },
     {
-        "name": "Thurles",
+        "name": "Терлс",
         "latitude": 52.68194,
         "longitude": -7.80222
     },
     {
-        "name": "Tipperary",
+        "name": "Типперэри",
         "latitude": 52.47333,
         "longitude": -8.15583
     },
     {
-        "name": "Tower",
+        "name": "Башня",
         "latitude": 51.92599,
         "longitude": -8.60747
     },
     {
-        "name": "Tr\u00e1 Mh\u00f3r",
+        "name": "Трамор",
         "latitude": 52.16235,
         "longitude": -7.15244
     },
     {
-        "name": "Tralee",
+        "name": "Трали",
         "latitude": 52.27042,
         "longitude": -9.70264
     },
     {
-        "name": "Waterford",
+        "name": "Уотерфорд",
         "latitude": 52.25833,
         "longitude": -7.11194
     },
     {
-        "name": "Watergrasshill",
+        "name": "Уотерграссхилл",
         "latitude": 52.01139,
         "longitude": -8.34417
     },
     {
-        "name": "Whitegate",
+        "name": "Уайтгейт",
         "latitude": 51.83056,
         "longitude": -8.22972
     },
     {
-        "name": "Youghal",
+        "name": "Йол",
         "latitude": 51.95,
         "longitude": -7.85056
     },
     {
-        "name": "An Cabh\u00e1n",
+        "name": "Каван",
         "latitude": 53.91667,
         "longitude": -7.25
     },
     {
-        "name": "Bailieborough",
+        "name": "Бэйлиборо",
         "latitude": 53.91667,
         "longitude": -6.96667
     },
     {
-        "name": "Ballybofey",
+        "name": "Баллибофи",
         "latitude": 54.8,
         "longitude": -7.78333
     },
     {
-        "name": "Ballyconnell",
+        "name": "Балликоннелл",
         "latitude": 54.11667,
         "longitude": -7.58333
     },
     {
-        "name": "Ballyjamesduff",
+        "name": "Баллиджемсдафф",
         "latitude": 53.86528,
         "longitude": -7.20278
     },
     {
-        "name": "Ballyshannon",
+        "name": "Баллишаннон",
         "latitude": 54.5,
         "longitude": -8.18333
     },
     {
-        "name": "Belturbet",
+        "name": "Белтурбет",
         "latitude": 54.1,
         "longitude": -7.45
     },
     {
-        "name": "Buncrana",
+        "name": "Букрана",
         "latitude": 55.13333,
         "longitude": -7.45
     },
     {
-        "name": "Bundoran",
+        "name": "Бандоран",
         "latitude": 54.47782,
         "longitude": -8.28094
     },
     {
-        "name": "Carndonagh",
+        "name": "Карндона",
         "latitude": 55.25,
         "longitude": -7.26667
     },
     {
-        "name": "Carrickmacross",
+        "name": "Каррикмакросс",
         "latitude": 53.97278,
         "longitude": -6.71889
     },
     {
-        "name": "Castleblayney",
+        "name": "Каслблэйни",
         "latitude": 54.11667,
         "longitude": -6.73333
     },
     {
-        "name": "Cavan",
+        "name": "Каван",
         "latitude": 53.99083,
         "longitude": -7.36056
     },
     {
-        "name": "Clones",
+        "name": "Клоны",
         "latitude": 54.18333,
         "longitude": -7.23333
     },
     {
-        "name": "Convoy",
+        "name": "Конвой",
         "latitude": 54.86083,
         "longitude": -7.66556
     },
     {
-        "name": "Cootehill",
+        "name": "Кутхилл",
         "latitude": 54.0725,
         "longitude": -7.08194
     },
     {
-        "name": "County Donegal",
+        "name": "Графство Донегол",
         "latitude": 54.91667,
         "longitude": -8.0
     },
     {
-        "name": "County Monaghan",
+        "name": "Графство Монаган",
         "latitude": 54.25,
         "longitude": -7.0
     },
     {
-        "name": "Derrybeg",
+        "name": "Деррибег",
         "latitude": 55.08333,
         "longitude": -8.28944
     },
     {
-        "name": "Donegal",
+        "name": "Донегол",
         "latitude": 54.65378,
         "longitude": -8.11134
     },
     {
-        "name": "Dungloe",
+        "name": "Данглоу",
         "latitude": 54.95111,
         "longitude": -8.35917
     },
     {
-        "name": "Dunlewy",
+        "name": "Данлеви",
         "latitude": 55.01667,
         "longitude": -8.1
     },
     {
-        "name": "Gweedore",
+        "name": "Гвидор",
         "latitude": 55.05028,
         "longitude": -8.23194
     },
     {
-        "name": "Killybegs",
+        "name": "Киллибегс",
         "latitude": 54.63333,
         "longitude": -8.45
     },
     {
-        "name": "Kingscourt",
+        "name": "Кингскорт",
         "latitude": 53.90806,
         "longitude": -6.80556
     },
     {
-        "name": "Leifear",
+        "name": "Лейфер",
         "latitude": 54.83194,
         "longitude": -7.48361
     },
     {
-        "name": "Letterkenny",
+        "name": "Леттеркенни",
         "latitude": 54.95,
         "longitude": -7.73333
     },
     {
-        "name": "Monaghan",
+        "name": "Монаган",
         "latitude": 54.25,
         "longitude": -6.96667
     },
     {
-        "name": "Moville",
+        "name": "Мовилл",
         "latitude": 55.19153,
         "longitude": -7.03873
     },
     {
-        "name": "Muff",
+        "name": "Муфта",
         "latitude": 55.06667,
         "longitude": -7.26667
     },
     {
-        "name": "Mullagh",
+        "name": "Муллах",
         "latitude": 53.81306,
         "longitude": -6.95139
     },
     {
-        "name": "Newtown Cunningham",
+        "name": "Ньютаун Каннингем",
         "latitude": 54.99639,
         "longitude": -7.51917
     },
     {
-        "name": "Ramelton",
+        "name": "Рамелтон",
         "latitude": 55.03673,
         "longitude": -7.64923
     },
     {
-        "name": "Raphoe",
+        "name": "Рафо",
         "latitude": 54.87472,
         "longitude": -7.59833
     },
     {
-        "name": "Virginia",
+        "name": "Вирджиния",
         "latitude": 53.83389,
         "longitude": -7.07556
     }

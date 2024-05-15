@@ -1,2336 +1,2336 @@
 [
     {
-        "name": "Cho Dok",
+        "name": "Чо Док",
         "latitude": 10.7,
         "longitude": 105.11667
     },
     {
-        "name": "Huy\u1ec7n An Ph\u00fa",
+        "name": "Район Ан Фу",
         "latitude": 10.84274,
         "longitude": 105.0899
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u Ph\u00fa",
+        "name": "Район Чау Фу",
         "latitude": 10.57166,
         "longitude": 105.16991
     },
     {
-        "name": "Huy\u1ec7n Ch\u1ee3 M\u1edbi",
+        "name": "Чой Мой район",
         "latitude": 10.4773,
         "longitude": 105.49092
     },
     {
-        "name": "Huy\u1ec7n Ph\u00fa T\u00e2n",
+        "name": "Фу Тан район",
         "latitude": 10.65716,
         "longitude": 105.28459
     },
     {
-        "name": "Huy\u1ec7n Tri T\u00f4n",
+        "name": "Тритонский район",
         "latitude": 10.41416,
         "longitude": 104.96136
     },
     {
-        "name": "Long Xuy\u00ean",
+        "name": "Лонг Сюен",
         "latitude": 10.38639,
         "longitude": 105.43518
     },
     {
-        "name": "Long Xuy\u00ean City",
+        "name": "Лонг Сюен Сити",
         "latitude": 10.36857,
         "longitude": 105.4234
     },
     {
-        "name": "C\u00f4n S\u01a1n",
+        "name": "Мошенник Сон",
         "latitude": 8.68641,
         "longitude": 106.60824
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u \u0110\u1ee9c",
+        "name": "Чаудукский район",
         "latitude": 10.65805,
         "longitude": 107.25098
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ea5t \u0110\u1ecf",
+        "name": "Район Дат До",
         "latitude": 10.48025,
         "longitude": 107.27879
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n Th\u00e0nh",
+        "name": "Тан Тхань район",
         "latitude": 10.57381,
         "longitude": 107.10189
     },
     {
-        "name": "Huy\u1ec7n Xuy\u00ean M\u1ed9c",
+        "name": "Район Сюен Мок",
         "latitude": 10.63048,
         "longitude": 107.46568
     },
     {
-        "name": "Th\u00e0nh Ph\u1ed1 V\u0169ng T\u00e0u",
+        "name": "город Вунгтау",
         "latitude": 10.40239,
         "longitude": 107.14239
     },
     {
-        "name": "Th\u1ecb X\u00e3 Ph\u00fa M\u1ef9",
+        "name": "Фу Мой Город",
         "latitude": 10.56815,
         "longitude": 107.12999
     },
     {
-        "name": "V\u0169ng T\u00e0u",
+        "name": "Вунгтау",
         "latitude": 10.34599,
         "longitude": 107.08426
     },
     {
-        "name": "B\u1eafc Giang",
+        "name": "Бакзянг",
         "latitude": 21.27307,
         "longitude": 106.1946
     },
     {
-        "name": "Huy\u1ec7n L\u1ee5c Nam",
+        "name": "Люк Нам район",
         "latitude": 21.27548,
         "longitude": 106.46519
     },
     {
-        "name": "Huy\u1ec7n L\u1ee5c Ng\u1ea1n",
+        "name": "Люк Нганский район",
         "latitude": 21.43719,
         "longitude": 106.65845
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean Th\u1ebf",
+        "name": "Йен Район",
         "latitude": 21.51667,
         "longitude": 106.11689
     },
     {
-        "name": "B\u1eafc K\u1ea1n",
+        "name": "Бак Кан",
         "latitude": 22.14701,
         "longitude": 105.83481
     },
     {
-        "name": "Huy\u1ec7n Ba B\u1ec3",
+        "name": "Район Бабе",
         "latitude": 22.41667,
         "longitude": 105.75
     },
     {
-        "name": "Huy\u1ec7n B\u1ea1ch Th\u00f4ng",
+        "name": "Бах Тонг район",
         "latitude": 22.25758,
         "longitude": 105.83295
     },
     {
-        "name": "Huy\u1ec7n Ch\u1ee3 \u0110\u1ed3n",
+        "name": "Чо Донский район",
         "latitude": 22.18681,
         "longitude": 105.5728
     },
     {
-        "name": "Huy\u1ec7n Na R\u00ec",
+        "name": "Нарийский район",
         "latitude": 22.17883,
         "longitude": 106.11221
     },
     {
-        "name": "Huy\u1ec7n Ng\u00e2n S\u01a1n",
+        "name": "Нганшон район",
         "latitude": 22.42962,
         "longitude": 106.0103
     },
     {
-        "name": "Th\u1ecb X\u00e3 B\u1eafc K\u1ea1n",
+        "name": "Бак Кан Таун",
         "latitude": 22.1413,
         "longitude": 105.83867
     },
     {
-        "name": "B\u1ea1c Li\u00eau",
+        "name": "Бак Льеу",
         "latitude": 9.29414,
         "longitude": 105.72776
     },
     {
-        "name": "Huy\u1ec7n Gi\u00e1 Rai",
+        "name": "Гиарайский район",
         "latitude": 9.27162,
         "longitude": 105.40017
     },
     {
-        "name": "Huy\u1ec7n H\u1ed3ng D\u00e2n",
+        "name": "Район Хонгдан",
         "latitude": 9.53822,
         "longitude": 105.42242
     },
     {
-        "name": "B\u1eafc Ninh",
+        "name": "Бак Нинь",
         "latitude": 21.18608,
         "longitude": 106.07631
     },
     {
-        "name": "Cung Ki\u1ec7m",
+        "name": "Кунг Кием",
         "latitude": 21.18697,
         "longitude": 106.16076
     },
     {
-        "name": "Huy\u1ec7n Gia B\u00ecnh",
+        "name": "Зиябинь район",
         "latitude": 21.07795,
         "longitude": 106.20903
     },
     {
-        "name": "Huy\u1ec7n Thu\u1eadn Th\u00e0nh",
+        "name": "Район Тхуантхань",
         "latitude": 21.04085,
         "longitude": 106.07515
     },
     {
-        "name": "Huy\u1ec7n Ti\u00ean Du",
+        "name": "Тяньду район",
         "latitude": 21.12195,
         "longitude": 106.03995
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean Phong",
+        "name": "Йенфонг район",
         "latitude": 21.20676,
         "longitude": 105.99427
     },
     {
-        "name": "\u1ea4p T\u00e2n Ng\u00e3i",
+        "name": "Тан Нгай Гамлет",
         "latitude": 10.23333,
         "longitude": 106.28333
     },
     {
-        "name": "B\u1ebfn Tre",
+        "name": "Бен Тре",
         "latitude": 10.24147,
         "longitude": 106.37585
     },
     {
-        "name": "Huy\u1ec7n Ba Tri",
+        "name": "район Бачи",
         "latitude": 10.06627,
         "longitude": 106.60554
     },
     {
-        "name": "Huy\u1ec7n B\u00ecnh \u0110\u1ea1i",
+        "name": "Бинь Дай район",
         "latitude": 10.19354,
         "longitude": 106.64455
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "name": "Чау Тхань район",
         "latitude": 10.29212,
         "longitude": 106.30827
     },
     {
-        "name": "Huy\u1ec7n Ch\u1ee3 L\u00e1ch",
+        "name": "Чолачский район",
         "latitude": 10.22674,
         "longitude": 106.17077
     },
     {
-        "name": "Huy\u1ec7n Gi\u1ed3ng Tr\u00f4m",
+        "name": "Район Гионг Тром",
         "latitude": 10.15909,
         "longitude": 106.47004
     },
     {
-        "name": "Huy\u1ec7n Th\u1ea1nh Ph\u00fa",
+        "name": "Район Тханьфу",
         "latitude": 9.92993,
         "longitude": 106.54316
     },
     {
-        "name": "D\u0129 An",
+        "name": "Ди Ан",
         "latitude": 10.90682,
         "longitude": 106.7694
     },
     {
-        "name": "Th\u1ee7 D\u1ea7u M\u1ed9t",
+        "name": "Ту Дау Мот",
         "latitude": 10.9804,
         "longitude": 106.6519
     },
     {
-        "name": "Huy\u1ec7n An L\u00e3o",
+        "name": "Лаосский район",
         "latitude": 14.55676,
         "longitude": 108.801
     },
     {
-        "name": "Huy\u1ec7n Ho\u00e0i Nh\u01a1n",
+        "name": "Хоай Нхон район",
         "latitude": 14.50535,
         "longitude": 109.02315
     },
     {
-        "name": "Huy\u1ec7n Ph\u00f9 M\u1ef9",
+        "name": "Фуми район",
         "latitude": 14.22304,
         "longitude": 109.08611
     },
     {
-        "name": "Huy\u1ec7n T\u00e2y S\u01a1n",
+        "name": "Район Тайшон",
         "latitude": 13.94306,
         "longitude": 108.87999
     },
     {
-        "name": "Huy\u1ec7n Tuy Ph\u01b0\u1edbc",
+        "name": "Туйфуокский район",
         "latitude": 13.84564,
         "longitude": 109.15275
     },
     {
-        "name": "Huy\u1ec7n V\u0129nh Th\u1ea1nh",
+        "name": "Виньтхань район",
         "latitude": 14.211,
         "longitude": 108.74389
     },
     {
-        "name": "Qui Nhon",
+        "name": "Квинион",
         "latitude": 13.77648,
         "longitude": 109.22367
     },
     {
-        "name": "B\u00ecnh Long",
+        "name": "Бинь Лонг",
         "latitude": 11.64711,
         "longitude": 106.60586
     },
     {
-        "name": "Don Luan",
+        "name": "Дон Луан",
         "latitude": 11.53495,
         "longitude": 106.88324
     },
     {
-        "name": "Huy\u1ec7n B\u00f9 \u0110\u1ed1p",
+        "name": "Бу Доп район",
         "latitude": 12.00374,
         "longitude": 106.81545
     },
     {
-        "name": "Huy\u1ec7n Ch\u01a1n Th\u00e0nh",
+        "name": "Чонтханьский район",
         "latitude": 11.46283,
         "longitude": 106.66655
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ed3ng Ph\u00fa",
+        "name": "Район Донгфу",
         "latitude": 11.50071,
         "longitude": 107.01192
     },
     {
-        "name": "Huy\u1ec7n H\u1edbn Qu\u1ea3n",
+        "name": "Хон Куан район",
         "latitude": 11.59718,
         "longitude": 106.62739
     },
     {
-        "name": "Th\u1ecb X\u00e3 Ph\u01b0\u1edbc Long",
+        "name": "Фуок Лонг Таун",
         "latitude": 11.81142,
         "longitude": 106.9967
     },
     {
-        "name": "Huy\u1ec7n B\u1eafc B\u00ecnh",
+        "name": "Бакбинь район",
         "latitude": 11.27571,
         "longitude": 108.38506
     },
     {
-        "name": "Huy\u1ec7n H\u00e0m T\u00e2n",
+        "name": "Хам Тан район",
         "latitude": 10.76856,
         "longitude": 107.64233
     },
     {
-        "name": "Huy\u1ec7n H\u00e0m Thu\u1eadn B\u1eafc",
+        "name": "Район Хам Туан Бак",
         "latitude": 11.14703,
         "longitude": 108.08172
     },
     {
-        "name": "Huy\u1ec7n H\u00e0m Thu\u1eadn Nam",
+        "name": "Район Хам Туан Нам",
         "latitude": 10.92101,
         "longitude": 107.93325
     },
     {
-        "name": "Huy\u1ec7n T\u00e1nh Linh",
+        "name": "Тань Линь район",
         "latitude": 11.11367,
         "longitude": 107.68427
     },
     {
-        "name": "Huy\u1ec7n Tuy Phong",
+        "name": "Район Туйфонг",
         "latitude": 11.34746,
         "longitude": 108.70466
     },
     {
-        "name": "La Gi",
+        "name": "День Ги",
         "latitude": 10.65993,
         "longitude": 107.77206
     },
     {
-        "name": "Phan Thi\u1ebft",
+        "name": "Фантьет",
         "latitude": 10.92889,
         "longitude": 108.10208
     },
     {
-        "name": "Th\u00e0nh Ph\u1ed1 Phan Thi\u1ebft",
+        "name": "Фантьет Сити",
         "latitude": 10.937,
         "longitude": 108.15778
     },
     {
-        "name": "C\u00e0 Mau",
+        "name": "Камау",
         "latitude": 9.17682,
         "longitude": 105.15242
     },
     {
-        "name": "Huy\u1ec7n C\u00e1i N\u01b0\u1edbc",
+        "name": "Район Кайнуок",
         "latitude": 9.00094,
         "longitude": 105.04201
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ea7m D\u01a1i",
+        "name": "Район Дам Дой",
         "latitude": 8.96029,
         "longitude": 105.24107
     },
     {
-        "name": "Huyen Nam Can",
+        "name": "Хуен Нам Кан",
         "latitude": 8.81531,
         "longitude": 105.05574
     },
     {
-        "name": "Huy\u1ec7n Th\u1edbi B\u00ecnh",
+        "name": "Тойбинь район",
         "latitude": 9.3579,
         "longitude": 105.16023
     },
     {
-        "name": "C\u1ea7n Th\u01a1",
+        "name": "Кан Тхо",
         "latitude": 10.11667,
         "longitude": 105.5
     },
     {
-        "name": "C\u1edd \u0110\u1ecf",
+        "name": "Красный флаг",
         "latitude": 10.09472222,
         "longitude": 105.43194444
     },
     {
-        "name": "Th\u1edbi Lai",
+        "name": "Тхой Лай",
         "latitude": 10.06305556,
         "longitude": 105.56083333
     },
     {
-        "name": "V\u0129nh Th\u1ea1nh",
+        "name": "Винь Тхань",
         "latitude": 10.21916667,
         "longitude": 105.40111111
     },
     {
-        "name": "Cao B\u1eb1ng",
+        "name": "Высокий как",
         "latitude": 22.66568,
         "longitude": 106.25786
     },
     {
-        "name": "Huy\u1ec7n B\u1ea3o Lac",
+        "name": "Бао Лак район",
         "latitude": 22.90085,
         "longitude": 105.73332
     },
     {
-        "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+        "name": "Бао Лам район",
         "latitude": 22.87041,
         "longitude": 105.4878
     },
     {
-        "name": "Huy\u1ec7n H\u1ea1 Lang",
+        "name": "Ха Ланг район",
         "latitude": 22.70933,
         "longitude": 106.67657
     },
     {
-        "name": "Huy\u1ec7n H\u00e0 Qu\u1ea3ng",
+        "name": "Хакуанг район",
         "latitude": 22.90763,
         "longitude": 106.12487
     },
     {
-        "name": "Huy\u1ec7n Nguy\u00ean B\u00ecnh",
+        "name": "Нгуенбиньский район",
         "latitude": 22.624,
         "longitude": 105.93248
     },
     {
-        "name": "Huyen Phuc Hoa",
+        "name": "Хуен Фук Хоа",
         "latitude": 22.5384,
         "longitude": 106.51039
     },
     {
-        "name": "Huy\u1ec7n Th\u1ea1ch An",
+        "name": "Тхаханский район",
         "latitude": 22.47654,
         "longitude": 106.34237
     },
     {
-        "name": "Huy\u1ec7n Th\u00f4ng N\u00f4ng",
+        "name": "Район Тонг Нонг",
         "latitude": 22.80735,
         "longitude": 105.95846
     },
     {
-        "name": "Huy\u1ec7n Tr\u00e0 L\u0129nh",
+        "name": "Тралиньский район",
         "latitude": 22.80961,
         "longitude": 106.32543
     },
     {
-        "name": "Huy\u1ec7n Tr\u00f9ng Kh\u00e1nh",
+        "name": "Чунцинский район",
         "latitude": 22.83333,
         "longitude": 106.56074
     },
     {
-        "name": "Da Nang",
+        "name": "Дананг",
         "latitude": 16.06778,
         "longitude": 108.22083
     },
     {
-        "name": "Bu\u00f4n Ma Thu\u1ed9t",
+        "name": "Буон Ма Туот",
         "latitude": 12.66747,
         "longitude": 108.03775
     },
     {
-        "name": "Huy\u1ec7n Bu\u00f4n \u0110\u00f4n",
+        "name": "Буондонский район",
         "latitude": 12.90396,
         "longitude": 107.7387
     },
     {
-        "name": "Huy\u1ec7n Ea H'Leo",
+        "name": "Район Эа Х'Лео",
         "latitude": 13.31814,
         "longitude": 108.07148
     },
     {
-        "name": "Huy\u1ec7n Ea S\u00fap",
+        "name": "Эа Супский район",
         "latitude": 13.18279,
         "longitude": 107.79954
     },
     {
-        "name": "Huy\u1ec7n C\u01b0 J\u00fat",
+        "name": "Кужутский район",
         "latitude": 12.69591,
         "longitude": 107.76316
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1eafk R\u2019L\u1ea5p",
+        "name": "Район Дак Р' Лап",
         "latitude": 11.8799,
         "longitude": 107.52244
     },
     {
-        "name": "Huy\u1ec7n Kr\u00f4ng N\u00f4",
+        "name": "Кронг Но район",
         "latitude": 12.36285,
         "longitude": 107.83445
     },
     {
-        "name": "Dien Bien Phu",
+        "name": "Дьенбьенфу",
         "latitude": 21.38602,
         "longitude": 103.02301
     },
     {
-        "name": "Huy\u1ec7n \u0110i\u1ec7n Bi\u00ean \u0110\u00f4ng",
+        "name": "Дьенбьендонг район",
         "latitude": 21.25266,
         "longitude": 103.269
     },
     {
-        "name": "Huy\u1ec7n M\u01b0\u1eddng Nh\u00e9",
+        "name": "Район Муонг Нхе",
         "latitude": 22.10353,
         "longitude": 102.58465
     },
     {
-        "name": "Huy\u1ec7n T\u1ee7a Ch\u00f9a",
+        "name": "Туа Чуа район",
         "latitude": 21.95357,
         "longitude": 103.37332
     },
     {
-        "name": "Huy\u1ec7n Tu\u1ea7n Gi\u00e1o",
+        "name": "Туанзяо район",
         "latitude": 21.69481,
         "longitude": 103.41758
     },
     {
-        "name": "Th\u1ecb X\u00e3 M\u01b0\u00f2ng Lay",
+        "name": "Муонг Лей Таун",
         "latitude": 22.03374,
         "longitude": 103.12331
     },
     {
-        "name": "Bi\u00ean H\u00f2a",
+        "name": "Бьен Хоа",
         "latitude": 10.94469,
         "longitude": 106.82432
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ecbnh Qu\u00e1n",
+        "name": "Диньцюаньский район",
         "latitude": 11.21866,
         "longitude": 107.33959
     },
     {
-        "name": "Huy\u1ec7n Long Th\u00e0nh",
+        "name": "Район Лонгтхань",
         "latitude": 10.76162,
         "longitude": 107.02688
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n Ph\u00fa",
+        "name": "Район Танфу",
         "latitude": 11.39867,
         "longitude": 107.39976
     },
     {
-        "name": "Huy\u1ec7n Th\u1ed1ng Nh\u1ea5t",
+        "name": "Район Тонгнят",
         "latitude": 10.97764,
         "longitude": 107.15909
     },
     {
-        "name": "Huy\u1ec7n Tr\u1ea3ng Bom",
+        "name": "Район Трангбом",
         "latitude": 10.96624,
         "longitude": 107.03614
     },
     {
-        "name": "Huy\u1ec7n V\u0129nh C\u1eedu",
+        "name": "Винькуйский район",
         "latitude": 11.25725,
         "longitude": 107.02773
     },
     {
-        "name": "Cao L\u00e3nh",
+        "name": "Цао Лань",
         "latitude": 10.46017,
         "longitude": 105.63294
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "name": "Чау Тхань район",
         "latitude": 10.22543,
         "longitude": 105.8238
     },
     {
-        "name": "Huy\u1ec7n Lai Vung",
+        "name": "Лайвунгский район",
         "latitude": 10.24051,
         "longitude": 105.66327
     },
     {
-        "name": "Huy\u1ec7n L\u1ea5p V\u00f2",
+        "name": "Лапвоский район",
         "latitude": 10.35918,
         "longitude": 105.60611
     },
     {
-        "name": "Huy\u1ec7n Tam N\u00f4ng",
+        "name": "Там Нонг район",
         "latitude": 10.72761,
         "longitude": 105.52522
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n H\u1ed3ng",
+        "name": "Тан Хонг район",
         "latitude": 10.87089,
         "longitude": 105.49104
     },
     {
-        "name": "Huy\u1ec7n Thanh B\u00ecnh",
+        "name": "Тханьбинь район",
         "latitude": 10.60137,
         "longitude": 105.47811
     },
     {
-        "name": "Huy\u1ec7n Th\u00e1p M\u01b0\u1eddi",
+        "name": "Тхап Муой район",
         "latitude": 10.54398,
         "longitude": 105.81875
     },
     {
-        "name": "Sa Dec",
+        "name": "До декабря",
         "latitude": 10.29085,
         "longitude": 105.75635
     },
     {
-        "name": "Sa Dec city",
+        "name": "В декабрьском городе",
         "latitude": 10.3055,
         "longitude": 105.74757
     },
     {
-        "name": "Th\u1ecb Tr\u1ea5n T\u00e2n Th\u00e0nh",
+        "name": "Тан Тхань",
         "latitude": 10.25616,
         "longitude": 105.5928
     },
     {
-        "name": "Huy\u1ec7n Ch\u01b0 P\u0103h",
+        "name": "Район Чу Па",
         "latitude": 14.15941,
         "longitude": 107.98411
     },
     {
-        "name": "Huy\u1ec7n Ch\u01b0 Pr\u00f4ng",
+        "name": "Чу Пронгский район",
         "latitude": 13.59976,
         "longitude": 107.81099
     },
     {
-        "name": "Huy\u1ec7n Ch\u01b0 S\u00ea",
+        "name": "Чусе район",
         "latitude": 13.74254,
         "longitude": 108.08663
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ee9c C\u01a1",
+        "name": "Район Дук Ко",
         "latitude": 13.78454,
         "longitude": 107.6697
     },
     {
-        "name": "Huy\u1ec7n Ia Grai",
+        "name": "Яграйский район",
         "latitude": 13.98937,
         "longitude": 107.7374
     },
     {
-        "name": "Huy\u1ec7n KBang",
+        "name": "КБангский район",
         "latitude": 14.30506,
         "longitude": 108.49779
     },
     {
-        "name": "Huy\u1ec7n K\u00f4ng Chro",
+        "name": "Район Конг Чро",
         "latitude": 13.73519,
         "longitude": 108.59697
     },
     {
-        "name": "Huy\u1ec7n Kr\u00f4ng Pa",
+        "name": "Кронгпа район",
         "latitude": 13.23152,
         "longitude": 108.65494
     },
     {
-        "name": "Huy\u1ec7n Mang Yang",
+        "name": "Манг Янг район",
         "latitude": 13.9284,
         "longitude": 108.30246
     },
     {
-        "name": "Pleiku",
+        "name": "Плейку",
         "latitude": 13.98333,
         "longitude": 108.0
     },
     {
-        "name": "H\u00e0 Giang",
+        "name": "Хазянг",
         "latitude": 22.82333,
         "longitude": 104.98357
     },
     {
-        "name": "Huy\u1ec7n B\u1eafc M\u00ea",
+        "name": "Бакме район",
         "latitude": 22.75477,
         "longitude": 105.29023
     },
     {
-        "name": "Huy\u1ec7n B\u1eafc Quang",
+        "name": "Баккуанг район",
         "latitude": 22.42301,
         "longitude": 104.91831
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ed3ng V\u0103n",
+        "name": "Донг Ван район",
         "latitude": 23.25449,
         "longitude": 105.27626
     },
     {
-        "name": "Huy\u1ec7n Quang B\u00ecnh",
+        "name": "Куангбинь район",
         "latitude": 22.41507,
         "longitude": 104.66018
     },
     {
-        "name": "Huy\u1ec7n V\u1ecb Xuy\u00ean",
+        "name": "Ви Сюенский район",
         "latitude": 22.73096,
         "longitude": 104.90827
     },
     {
-        "name": "Huy\u1ec7n X\u00edn M\u1ea7n",
+        "name": "Синьманский район",
         "latitude": 22.64148,
         "longitude": 104.52089
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean Minh",
+        "name": "Йенминь район",
         "latitude": 23.06992,
         "longitude": 105.17865
     },
     {
-        "name": "Huy\u1ec7n B\u00ecnh L\u1ee5c",
+        "name": "Биньлюк район",
         "latitude": 20.50126,
         "longitude": 106.02959
     },
     {
-        "name": "Huy\u1ec7n Duy Ti\u00ean",
+        "name": "Дуйтьенский район",
         "latitude": 20.62803,
         "longitude": 105.96193
     },
     {
-        "name": "Huy\u1ec7n Kim B\u1ea3ng",
+        "name": "Кимбангский район",
         "latitude": 20.57254,
         "longitude": 105.85043
     },
     {
-        "name": "Huy\u1ec7n L\u00fd Nh\u00e2n",
+        "name": "Ли Нхан район",
         "latitude": 20.56422,
         "longitude": 106.09455
     },
     {
-        "name": "Huy\u1ec7n Thanh Li\u00eam",
+        "name": "Тхань Лием район",
         "latitude": 20.46249,
         "longitude": 105.921
     },
     {
-        "name": "Ph\u1ee7 L\u00fd",
+        "name": "Фу Ли",
         "latitude": 20.54531,
         "longitude": 105.91221
     },
     {
-        "name": "H\u00e0 \u0110\u00f4ng",
+        "name": "ха Донг",
         "latitude": 20.97136,
         "longitude": 105.77876
     },
     {
-        "name": "Hanoi",
+        "name": "Ханой",
         "latitude": 21.0245,
         "longitude": 105.84117
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ed1c Oai",
+        "name": "Куок Оай район",
         "latitude": 20.9706,
         "longitude": 105.61127
     },
     {
-        "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+        "name": "Бадинь район",
         "latitude": 21.03587,
         "longitude": 105.82163
     },
     {
-        "name": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
+        "name": "Район Хадонг",
         "latitude": 20.95482,
         "longitude": 105.76851
     },
     {
-        "name": "S\u01a1n T\u00e2y",
+        "name": "Сон Тай",
         "latitude": 21.14053,
         "longitude": 105.50686
     },
     {
-        "name": "H\u00e0 T\u0129nh",
+        "name": "Ха Тинь",
         "latitude": 18.34282,
         "longitude": 105.90569
     },
     {
-        "name": "Huy\u1ec7n C\u1ea9m Xuy\u00ean",
+        "name": "Кам Сюенский район",
         "latitude": 18.19059,
         "longitude": 106.00186
     },
     {
-        "name": "Huy\u1ec7n Can L\u1ed9c",
+        "name": "Район Кан Лок",
         "latitude": 18.44414,
         "longitude": 105.7635
     },
     {
-        "name": "Huy\u1ec7n \u00d0\u1ee9c Th\u1ecd",
+        "name": "Район Дык Тхо",
         "latitude": 18.49699,
         "longitude": 105.61016
     },
     {
-        "name": "Huy\u1ec7n K\u1ef3 Anh",
+        "name": "Кюаньский район",
         "latitude": 18.05805,
         "longitude": 106.2458
     },
     {
-        "name": "Huy\u1ec7n Nghi Xu\u00e2n",
+        "name": "Нги Суан район",
         "latitude": 18.62419,
         "longitude": 105.76829
     },
     {
-        "name": "Huy\u1ec7n Th\u1ea1ch H\u00e0",
+        "name": "Район Тхатха",
         "latitude": 18.35091,
         "longitude": 105.81123
     },
     {
-        "name": "H\u1ea3i D\u01b0\u01a1ng",
+        "name": "Хайзыонг",
         "latitude": 20.94099,
         "longitude": 106.33302
     },
     {
-        "name": "Huy\u1ec7n B\u00ecnh Giang",
+        "name": "Биньзянг район",
         "latitude": 20.87586,
         "longitude": 106.19138
     },
     {
-        "name": "Huy\u1ec7n C\u1ea9m Gi\u00e0ng",
+        "name": "Камзянг район",
         "latitude": 20.95,
         "longitude": 106.21667
     },
     {
-        "name": "Huy\u1ec7n Gia L\u1ed9c",
+        "name": "Гиа Лок район",
         "latitude": 20.85164,
         "longitude": 106.2913
     },
     {
-        "name": "Huy\u1ec7n Kinh M\u00f4n",
+        "name": "Киньмонский район",
         "latitude": 21.01634,
         "longitude": 106.50384
     },
     {
-        "name": "Huy\u1ec7n Nam S\u00e1ch",
+        "name": "Намсач район",
         "latitude": 21.00484,
         "longitude": 106.34042
     },
     {
-        "name": "Huy\u1ec7n Thanh Mi\u1ec7n",
+        "name": "Тханьмиенский район",
         "latitude": 20.77953,
         "longitude": 106.22218
     },
     {
-        "name": "Th\u1ecb X\u00e3 Ch\u00ed Linh",
+        "name": "Чи Линь Таун",
         "latitude": 21.13722,
         "longitude": 106.39638
     },
     {
-        "name": "C\u00e1t B\u00e0",
+        "name": "Кэт Ба",
         "latitude": 20.72779,
         "longitude": 107.04819
     },
     {
-        "name": "Haiphong",
+        "name": "Хайфон",
         "latitude": 20.86481,
         "longitude": 106.68345
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh A",
+        "name": "Чау Тхань А район",
         "latitude": 9.93056,
         "longitude": 105.64194
     },
     {
-        "name": "V\u1ecb Thanh",
+        "name": "Ви Тхань",
         "latitude": 9.78449,
         "longitude": 105.47012
     },
     {
-        "name": "C\u1ea7n Gi\u1edd",
+        "name": "Кан Джио",
         "latitude": 10.41115,
         "longitude": 106.95474
     },
     {
-        "name": "C\u1ee7 Chi",
+        "name": "Ку Чи",
         "latitude": 10.97333,
         "longitude": 106.49325
     },
     {
-        "name": "Ho Chi Minh City",
+        "name": "Хошимин",
         "latitude": 10.82302,
         "longitude": 106.62965
     },
     {
-        "name": "H\u00f2a B\u00ecnh",
+        "name": "Мир",
         "latitude": 20.81717,
         "longitude": 105.33759
     },
     {
-        "name": "Huy\u1ec7n Cao Phong",
+        "name": "Район Као Фонг",
         "latitude": 20.69532,
         "longitude": 105.33559
     },
     {
-        "name": "Huy\u1ec7n K\u1ef3 S\u01a1n",
+        "name": "Кюшонский район",
         "latitude": 20.89631,
         "longitude": 105.39659
     },
     {
-        "name": "Huy\u1ec7n L\u1ea1c Th\u1ee7y",
+        "name": "Лак Туи район",
         "latitude": 20.49794,
         "longitude": 105.74092
     },
     {
-        "name": "Huy\u1ec7n L\u01b0\u01a1ng S\u01a1n",
+        "name": "Луонгшон район",
         "latitude": 20.8765,
         "longitude": 105.51219
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n L\u1ea1c",
+        "name": "Тан Лак район",
         "latitude": 20.60557,
         "longitude": 105.23399
     },
     {
-        "name": "H\u01b0ng Y\u00ean",
+        "name": "висела йена",
         "latitude": 20.64637,
         "longitude": 106.05112
     },
     {
-        "name": "Huy\u1ec7n \u00c2n Thi",
+        "name": "Район Ан Тхи",
         "latitude": 20.81086,
         "longitude": 106.09995
     },
     {
-        "name": "Huy\u1ec7n Kho\u00e1i Ch\u00e2u",
+        "name": "Хоай Чау район",
         "latitude": 20.8217,
         "longitude": 105.97455
     },
     {
-        "name": "Huy\u1ec7n Kim \u0110\u1ed9ng",
+        "name": "Кимдонский район",
         "latitude": 20.74645,
         "longitude": 106.03632
     },
     {
-        "name": "Huy\u1ec7n M\u1ef9 H\u00e0o",
+        "name": "Мой район Хао",
         "latitude": 20.9321,
         "longitude": 106.1063
     },
     {
-        "name": "Huy\u1ec7n Ph\u00f9 C\u1eeb",
+        "name": "Фуку район",
         "latitude": 20.70997,
         "longitude": 106.19744
     },
     {
-        "name": "Huy\u1ec7n Ti\u00ean L\u1eef",
+        "name": "Тянь Лу район",
         "latitude": 20.6849,
         "longitude": 106.12513
     },
     {
-        "name": "Cam Ranh",
+        "name": "Оранжевая линия",
         "latitude": 11.92144,
         "longitude": 109.15913
     },
     {
-        "name": "Huy\u1ec7n Di\u00ean Kh\u00e1nh",
+        "name": "Дьенханьский район",
         "latitude": 12.27341,
         "longitude": 109.0389
     },
     {
-        "name": "Huy\u1ec7n Kh\u00e1nh S\u01a1n",
+        "name": "Кханьшон район",
         "latitude": 12.02858,
         "longitude": 108.90814
     },
     {
-        "name": "Huy\u1ec7n Kh\u00e1nh V\u0129nh",
+        "name": "Кханьвиньский район",
         "latitude": 12.30593,
         "longitude": 108.83073
     },
     {
-        "name": "Huy\u1ec7n V\u1ea1n Ninh",
+        "name": "Ваннинь район",
         "latitude": 12.72344,
         "longitude": 109.24586
     },
     {
-        "name": "Nha Trang",
+        "name": "Нячанг",
         "latitude": 12.24507,
         "longitude": 109.19432
     },
     {
-        "name": "Th\u00e0nh Ph\u1ed1 Cam Ranh",
+        "name": "Камрань",
         "latitude": 11.90707,
         "longitude": 109.14861
     },
     {
-        "name": "Th\u00e0nh Ph\u1ed1 Nha Trang",
+        "name": "Нячанг город",
         "latitude": 12.25458,
         "longitude": 109.16655
     },
     {
-        "name": "Th\u1ecb X\u00e3 Ninh H\u00f2a",
+        "name": "Город Ниньхоа",
         "latitude": 12.53796,
         "longitude": 109.06057
     },
     {
-        "name": "D\u01b0\u01a1ng \u0110\u00f4ng",
+        "name": "Дуонг Донг",
         "latitude": 10.21716,
         "longitude": 103.95929
     },
     {
-        "name": "H\u00e0 Ti\u00ean",
+        "name": "Ха Тьен",
         "latitude": 10.3831,
         "longitude": 104.48753
     },
     {
-        "name": "Huy\u1ec7n An Bi\u00ean",
+        "name": "Район Ан Бьен",
         "latitude": 9.81291,
         "longitude": 105.0523
     },
     {
-        "name": "Huy\u1ec7n An Minh",
+        "name": "Ан Минь район",
         "latitude": 9.66704,
         "longitude": 104.94848
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "name": "Чау Тхань район",
         "latitude": 9.94372,
         "longitude": 105.16868
     },
     {
-        "name": "Huy\u1ec7n Gi\u1ed3ng Ri\u1ec1ng",
+        "name": "Гионг Риенг район",
         "latitude": 9.91224,
         "longitude": 105.37311
     },
     {
-        "name": "Huy\u1ec7n G\u00f2 Quao",
+        "name": "Район Го Цвао",
         "latitude": 9.74027,
         "longitude": 105.29766
     },
     {
-        "name": "Huy\u1ec7n H\u00f2n \u0110\u1ea5t",
+        "name": "Район Хон Дат",
         "latitude": 10.22908,
         "longitude": 104.9528
     },
     {
-        "name": "Huy\u1ec7n Ki\u00ean H\u1ea3i",
+        "name": "Кьенхай район",
         "latitude": 9.83971,
         "longitude": 104.6156
     },
     {
-        "name": "Huy\u1ec7n Ph\u00fa Qu\u1ed1c",
+        "name": "Фукуок район",
         "latitude": 10.25516,
         "longitude": 104.01455
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n Hi\u1ec7p",
+        "name": "Тан Хиеп район",
         "latitude": 10.0954,
         "longitude": 105.25936
     },
     {
-        "name": "Huy\u1ec7n V\u0129nh Thu\u1eadn",
+        "name": "Винь Туан район",
         "latitude": 9.53306,
         "longitude": 105.2449
     },
     {
-        "name": "Kien Luong Town",
+        "name": "Кьен Луонг Таун",
         "latitude": 10.24892,
         "longitude": 104.59
     },
     {
-        "name": "R\u1ea1ch Gi\u00e1",
+        "name": "Рач Гиа",
         "latitude": 10.01245,
         "longitude": 105.08091
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1eafk Glei",
+        "name": "Дак Глейский район",
         "latitude": 15.11358,
         "longitude": 107.75093
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1eafk H\u00e0",
+        "name": "Дакха район",
         "latitude": 14.60326,
         "longitude": 107.98547
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1eafk T\u00f4",
+        "name": "Дак То Район",
         "latitude": 14.70087,
         "longitude": 107.80816
     },
     {
-        "name": "Huy\u1ec7n Ia H'Drai",
+        "name": "Район Иа Х'Драй",
         "latitude": 14.06032,
         "longitude": 107.46243
     },
     {
-        "name": "Huy\u1ec7n Kon Pl\u00f4ng",
+        "name": "Кон Плонг район",
         "latitude": 14.7562,
         "longitude": 108.32057
     },
     {
-        "name": "Huy\u1ec7n Ng\u1ecdc H\u1ed3i",
+        "name": "Нгок Хойский район",
         "latitude": 14.7194,
         "longitude": 107.62636
     },
     {
-        "name": "Huy\u1ec7n Sa Th\u1ea7y",
+        "name": "Са Тхай район",
         "latitude": 14.3205,
         "longitude": 107.59862
     },
     {
-        "name": "Kon Tum",
+        "name": "Где ты?",
         "latitude": 14.35451,
         "longitude": 108.00759
     },
     {
-        "name": "Huy\u1ec7n M\u01b0\u00f2ng T\u00e8",
+        "name": "Район Муонг Те",
         "latitude": 22.37443,
         "longitude": 102.73835
     },
     {
-        "name": "Huy\u1ec7n Tam \u0110\u01b0\u1eddng",
+        "name": "Тамзыонг район",
         "latitude": 22.35391,
         "longitude": 103.59342
     },
     {
-        "name": "Huy\u1ec7n Than Uy\u00ean",
+        "name": "Тан Уенский район",
         "latitude": 21.91424,
         "longitude": 103.82857
     },
     {
-        "name": "B\u1ea3o L\u1ed9c",
+        "name": "Бао Лок",
         "latitude": 11.54798,
         "longitude": 107.80772
     },
     {
-        "name": "\u0110am Rong",
+        "name": "Дам Ронг",
         "latitude": 12.05409,
         "longitude": 108.14941
     },
     {
-        "name": "\u0110inh V\u0103n",
+        "name": "Динь ​​Ван",
         "latitude": 11.78624,
         "longitude": 108.24282
     },
     {
-        "name": "\u0110\u01b0c Tr\u1ecdng",
+        "name": "Дык Тронг",
         "latitude": 11.73559,
         "longitude": 108.3733
     },
     {
-        "name": "\u00d0\u00e0 L\u1ea1t",
+        "name": "Далат",
         "latitude": 11.94646,
         "longitude": 108.44193
     },
     {
-        "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+        "name": "Бао Лам район",
         "latitude": 11.71163,
         "longitude": 107.75338
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ea1 Huoai",
+        "name": "Да Хоай район",
         "latitude": 11.42465,
         "longitude": 107.63825
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ea1 T\u1ebbh",
+        "name": "Датехский район",
         "latitude": 11.58446,
         "longitude": 107.52792
     },
     {
-        "name": "Huy\u1ec7n \u0110\u01a1n D\u01b0\u01a1ng",
+        "name": "Донзыонг район",
         "latitude": 11.75308,
         "longitude": 108.55397
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ee9c Tr\u1ecdng",
+        "name": "Дюк Тронг район",
         "latitude": 11.62686,
         "longitude": 108.3533
     },
     {
-        "name": "Huy\u1ec7n L\u00e2m H\u00e0",
+        "name": "Ламха район",
         "latitude": 11.8189,
         "longitude": 108.21215
     },
     {
-        "name": "Huy\u1ec7n B\u1eafc S\u01a1n",
+        "name": "Бакшон район",
         "latitude": 21.83801,
         "longitude": 106.2769
     },
     {
-        "name": "Huy\u1ec7n B\u00ecnh Gia",
+        "name": "Биньзя район",
         "latitude": 22.07281,
         "longitude": 106.3041
     },
     {
-        "name": "Huy\u1ec7n Cao L\u1ed9c",
+        "name": "Као Лок район",
         "latitude": 21.89857,
         "longitude": 106.85435
     },
     {
-        "name": "Huy\u1ec7n Chi L\u0103ng",
+        "name": "Чи Ланг район",
         "latitude": 21.67602,
         "longitude": 106.62925
     },
     {
-        "name": "Huy\u1ec7n \u0110\u00ecnh L\u1eadp",
+        "name": "Район Динь Лап",
         "latitude": 21.5421,
         "longitude": 107.12925
     },
     {
-        "name": "Huy\u1ec7n H\u0169u L\u0169ng",
+        "name": "Хуу Лунгский район",
         "latitude": 21.54474,
         "longitude": 106.34386
     },
     {
-        "name": "Huy\u1ec7n V\u1eb7n Quan",
+        "name": "Ван Куан район",
         "latitude": 21.83333,
         "longitude": 106.54942
     },
     {
-        "name": "L\u1ea1ng S\u01a1n",
+        "name": "Ланг Сон",
         "latitude": 21.85264,
         "longitude": 106.76101
     },
     {
-        "name": "Huy\u1ec7n B\u1eafc H\u00e0",
+        "name": "Бак Ха район",
         "latitude": 22.50998,
         "longitude": 104.30769
     },
     {
-        "name": "Huy\u1ec7n B\u1ea3o Y\u00ean",
+        "name": "район Бао Йен",
         "latitude": 22.26109,
         "longitude": 104.46424
     },
     {
-        "name": "Huy\u1ec7n B\u00e1t X\u00e1t",
+        "name": "Бат Хатский район",
         "latitude": 22.56767,
         "longitude": 103.71339
     },
     {
-        "name": "Huy\u1ec7n M\u01b0\u1eddng Kh\u01b0\u01a1ng",
+        "name": "Муонг Кхуонг Район",
         "latitude": 22.67111,
         "longitude": 104.11772
     },
     {
-        "name": "Huy\u1ec7n Sa Pa",
+        "name": "Сапа район",
         "latitude": 22.33769,
         "longitude": 103.84037
     },
     {
-        "name": "Huy\u1ec7n Si Ma Cai",
+        "name": "Си Ма Кай район",
         "latitude": 22.67161,
         "longitude": 104.27326
     },
     {
-        "name": "Huy\u1ec7n V\u0103n B\u00e0n",
+        "name": "Ван Бан район",
         "latitude": 22.07002,
         "longitude": 104.18122
     },
     {
-        "name": "L\u00e0o Cai",
+        "name": "Лао Кай",
         "latitude": 22.48556,
         "longitude": 103.97066
     },
     {
-        "name": "Lao Ch\u1ea3i",
+        "name": "Лао Чай",
         "latitude": 22.31377,
         "longitude": 103.86844
     },
     {
-        "name": "Sa Pa",
+        "name": "В Па",
         "latitude": 22.34023,
         "longitude": 103.84415
     },
     {
-        "name": "C\u1ea7n Giu\u1ed9c",
+        "name": "Кан Джуок",
         "latitude": 10.60857,
         "longitude": 106.67135
     },
     {
-        "name": "Huy\u1ec7n B\u1ebfn L\u1ee9c",
+        "name": "Бен-Люк район",
         "latitude": 10.68858,
         "longitude": 106.45484
     },
     {
-        "name": "Huy\u1ec7n C\u1ea7n \u0110\u01b0\u1edbc",
+        "name": "Район Кан Дуок",
         "latitude": 10.54148,
         "longitude": 106.59636
     },
     {
-        "name": "Huy\u1ec7n C\u1ea7n Giu\u1ed9c",
+        "name": "Район Кан Джуок",
         "latitude": 10.57742,
         "longitude": 106.67279
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "name": "Чау Тхань район",
         "latitude": 10.45214,
         "longitude": 106.49015
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ee9c H\u00f2a",
+        "name": "Дук Хоа район",
         "latitude": 10.87838,
         "longitude": 106.42422
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ee9c Hu\u1ec7",
+        "name": "Район Дук Хюэ",
         "latitude": 10.86473,
         "longitude": 106.25914
     },
     {
-        "name": "Huy\u1ec7n M\u1ed9c H\u00f3a",
+        "name": "Мок Хоа район",
         "latitude": 10.75166,
         "longitude": 106.01729
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n H\u01b0ng",
+        "name": "Тан Хунг район",
         "latitude": 10.8338,
         "longitude": 105.68848
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n Th\u1ea1nh",
+        "name": "Тан Тхань район",
         "latitude": 10.60351,
         "longitude": 105.96576
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n Tr\u1ee5",
+        "name": "Тантруйский район",
         "latitude": 10.53182,
         "longitude": 106.51644
     },
     {
-        "name": "Huy\u1ec7n Th\u1ea1nh H\u00f3a",
+        "name": "Тханьхоа Район",
         "latitude": 10.66667,
         "longitude": 106.16667
     },
     {
-        "name": "Huy\u1ec7n Th\u1ee7 Th\u1eeba",
+        "name": "Район Ту Туа",
         "latitude": 10.65639,
         "longitude": 106.3458
     },
     {
-        "name": "Huy\u1ec7n V\u0129nh H\u01b0ng",
+        "name": "Виньхунгский район",
         "latitude": 10.88299,
         "longitude": 105.80364
     },
     {
-        "name": "T\u00e2n An",
+        "name": "Тан Ан",
         "latitude": 10.53589,
         "longitude": 106.41366
     },
     {
-        "name": "Huy\u1ec7n Giao Th\u1ee7y",
+        "name": "Джао Туйский район",
         "latitude": 20.25706,
         "longitude": 106.46245
     },
     {
-        "name": "Huy\u1ec7n H\u1ea3i H\u1eadu",
+        "name": "Хайхау район",
         "latitude": 20.15057,
         "longitude": 106.27161
     },
     {
-        "name": "Huy\u1ec7n M\u1ef9 L\u1ed9c",
+        "name": "Мой Локский район",
         "latitude": 20.46079,
         "longitude": 106.12319
     },
     {
-        "name": "Huy\u1ec7n Nam Tr\u1ef1c",
+        "name": "Нам Трук район",
         "latitude": 20.34106,
         "longitude": 106.20821
     },
     {
-        "name": "Huy\u1ec7n Ngh\u0129a H\u01b0ng",
+        "name": "Нгиа Хунг район",
         "latitude": 20.10598,
         "longitude": 106.17345
     },
     {
-        "name": "Huy\u1ec7n Tr\u1ef1c Ninh",
+        "name": "Район Трукнинь",
         "latitude": 20.2569,
         "longitude": 106.24582
     },
     {
-        "name": "Huy\u1ec7n V\u1ee5 B\u1ea3n",
+        "name": "Вубанский район",
         "latitude": 20.37705,
         "longitude": 106.09707
     },
     {
-        "name": "Huy\u1ec7n \u00dd Y\u00ean",
+        "name": "Ю Йенский район",
         "latitude": 20.31669,
         "longitude": 106.02327
     },
     {
-        "name": "Nam \u0110\u1ecbnh",
+        "name": "Нам Динь",
         "latitude": 20.43389,
         "longitude": 106.17729
     },
     {
-        "name": "Huy\u1ec7n Anh S\u01a1n",
+        "name": "Аньшон район",
         "latitude": 18.92902,
         "longitude": 105.08294
     },
     {
-        "name": "Huy\u1ec7n Con Cu\u00f4ng",
+        "name": "Район Кон Куонг",
         "latitude": 19.03898,
         "longitude": 104.80353
     },
     {
-        "name": "Huy\u1ec7n Di\u1ec5n Ch\u00e2u",
+        "name": "Дьен Чау район",
         "latitude": 18.98892,
         "longitude": 105.57625
     },
     {
-        "name": "Huy\u1ec7n \u0110\u00f4 L\u01b0\u01a1ng",
+        "name": "Район До Луонг",
         "latitude": 18.89259,
         "longitude": 105.34027
     },
     {
-        "name": "Huy\u1ec7n H\u01b0ng Nguy\u00ean",
+        "name": "Хунг Нгуен район",
         "latitude": 18.67811,
         "longitude": 105.62523
     },
     {
-        "name": "Huy\u1ec7n K\u1ef3 S\u01a1n",
+        "name": "Кюшонский район",
         "latitude": 19.42397,
         "longitude": 104.22199
     },
     {
-        "name": "Huy\u1ec7n Nam \u0110\u00e0n",
+        "name": "Намданский район",
         "latitude": 18.67041,
         "longitude": 105.52575
     },
     {
-        "name": "Huy\u1ec7n Nghi L\u1ed9c",
+        "name": "Нгилокский район",
         "latitude": 18.83131,
         "longitude": 105.62411
     },
     {
-        "name": "Huy\u1ec7n Ngh\u0129a \u0110\u00e0n",
+        "name": "Нгиадан район",
         "latitude": 19.38234,
         "longitude": 105.44072
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ebf Phong",
+        "name": "район Куефонг",
         "latitude": 19.70177,
         "longitude": 104.87913
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ef3 Ch\u00e2u",
+        "name": "Куйчауский район",
         "latitude": 19.55707,
         "longitude": 105.09173
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ef3 H\u1ee3p",
+        "name": "Куи-Хоп район",
         "latitude": 19.32514,
         "longitude": 105.16009
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ef3nh L\u01b0u",
+        "name": "Куинь Луу район",
         "latitude": 19.22717,
         "longitude": 105.64354
     },
     {
-        "name": "Huy\u1ec7n Thanh Ch\u01b0\u01a1ng",
+        "name": "Тхань Чуонг район",
         "latitude": 18.73929,
         "longitude": 105.24053
     },
     {
-        "name": "Huy\u1ec7n T\u01b0\u01a1ng D\u01b0\u01a1ng",
+        "name": "Туонг Дуонг район",
         "latitude": 19.30979,
         "longitude": 104.57788
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean Th\u00e0nh",
+        "name": "Йен Тхань Район",
         "latitude": 19.02724,
         "longitude": 105.43649
     },
     {
-        "name": "Vinh",
+        "name": "Винь",
         "latitude": 18.67337,
         "longitude": 105.69232
     },
     {
-        "name": "Y\u00ean Vinh",
+        "name": "Йен Винь",
         "latitude": 18.66667,
         "longitude": 105.66667
     },
     {
-        "name": "Huy\u1ec7n Hoa L\u01b0",
+        "name": "Хоа Лу район",
         "latitude": 20.25391,
         "longitude": 105.90789
     },
     {
-        "name": "Huy\u1ec7n Kim S\u01a1n",
+        "name": "Кимсонский район",
         "latitude": 20.06034,
         "longitude": 106.09863
     },
     {
-        "name": "Huy\u1ec7n Nho Quan",
+        "name": "Нокуанский район",
         "latitude": 20.27606,
         "longitude": 105.75442
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean Kh\u00e1nh",
+        "name": "Йенханьский район",
         "latitude": 20.19017,
         "longitude": 106.09605
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean M\u00f4",
+        "name": "Йен Мо район",
         "latitude": 20.12984,
         "longitude": 106.00199
     },
     {
-        "name": "Ninh B\u00ecnh",
+        "name": "Нинь Бинь",
         "latitude": 20.25809,
         "longitude": 105.97965
     },
     {
-        "name": "Phan Rang-Th\u00e1p Ch\u00e0m",
+        "name": "Фан Ранг - Тап Чам",
         "latitude": 11.56432,
         "longitude": 108.98858
     },
     {
-        "name": "Huy\u1ec7n C\u1ea9m Kh\u00ea",
+        "name": "Камкхеский район",
         "latitude": 21.40683,
         "longitude": 105.09845
     },
     {
-        "name": "Huy\u1ec7n \u0110oan H\u00f9ng",
+        "name": "Доан Хунг район",
         "latitude": 21.61776,
         "longitude": 105.1611
     },
     {
-        "name": "Huy\u1ec7n H\u1ea1 H\u00f2a",
+        "name": "Ха Хоа район",
         "latitude": 21.57763,
         "longitude": 104.99464
     },
     {
-        "name": "Huyen Lam Thao",
+        "name": "Хуен Лам Тао",
         "latitude": 21.29971,
         "longitude": 105.31119
     },
     {
-        "name": "Huy\u1ec7n Thanh Ba",
+        "name": "Тханьба район",
         "latitude": 21.47816,
         "longitude": 105.15881
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean L\u1eadp",
+        "name": "Йен Лап район",
         "latitude": 21.35569,
         "longitude": 105.00493
     },
     {
-        "name": "Th\u00e0nh Ph\u1ed1 Vi\u1ec7t Tr\u00ec",
+        "name": "Вьет Три Сити",
         "latitude": 21.32958,
         "longitude": 105.39217
     },
     {
-        "name": "Th\u1ecb x\u00e3 Ph\u00fa Th\u1ecd",
+        "name": "город Фу Тхо",
         "latitude": 21.41664,
         "longitude": 105.23636
     },
     {
-        "name": "Vi\u1ec7t Tr\u00ec",
+        "name": "Вьет Три",
         "latitude": 21.32274,
         "longitude": 105.40198
     },
     {
-        "name": "Huy\u1ec7n S\u01a1n H\u00f2a",
+        "name": "Шон Хоа район",
         "latitude": 13.15868,
         "longitude": 108.97281
     },
     {
-        "name": "Huy\u1ec7n S\u00f4ng Hinh",
+        "name": "район Сонгхинь",
         "latitude": 12.91667,
         "longitude": 108.91667
     },
     {
-        "name": "S\u00f4ng C\u1ea7u",
+        "name": "Река Кау",
         "latitude": 13.4556,
         "longitude": 109.22348
     },
     {
-        "name": "Tuy H\u00f2a",
+        "name": "Туй Хоа",
         "latitude": 13.09546,
         "longitude": 109.32094
     },
     {
-        "name": "Huy\u1ec7n L\u1ec7 Th\u1ee7y",
+        "name": "Ле Туи район",
         "latitude": 17.11239,
         "longitude": 106.70471
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ea3ng Ninh",
+        "name": "Куангнинь Район",
         "latitude": 17.27067,
         "longitude": 106.51387
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ea3ng Tr\u1ea1ch",
+        "name": "Куанг Трач Район",
         "latitude": 17.83447,
         "longitude": 106.36705
     },
     {
-        "name": "Huy\u1ec7n Tuy\u00ean H\u00f3a",
+        "name": "Туенхоаский район",
         "latitude": 17.91323,
         "longitude": 106.02678
     },
     {
-        "name": "Kwang Binh",
+        "name": "Кван Бинь",
         "latitude": 17.46885,
         "longitude": 106.62226
     },
     {
-        "name": "H\u1ed9i An",
+        "name": "Хойан",
         "latitude": 15.87944,
         "longitude": 108.335
     },
     {
-        "name": "Huy\u1ec7n Duy Xuy\u00ean",
+        "name": "Дуй Сюенский район",
         "latitude": 15.7897,
         "longitude": 108.20247
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ea1i L\u1ed9c",
+        "name": "Район Дайлок",
         "latitude": 15.83721,
         "longitude": 107.97894
     },
     {
-        "name": "Huy\u1ec7n \u0110i\u1ec7n B\u00e0n",
+        "name": "Дьенбан район",
         "latitude": 15.89917,
         "longitude": 108.2247
     },
     {
-        "name": "Huy\u1ec7n Hi\u1ec7p \u0110\u1ee9c",
+        "name": "Хиеп Дук район",
         "latitude": 15.53857,
         "longitude": 108.09539
     },
     {
-        "name": "Huy\u1ec7n Nam Giang",
+        "name": "Намзянг район",
         "latitude": 15.63201,
         "longitude": 107.60267
     },
     {
-        "name": "Huy\u1ec7n N\u00fai Th\u00e0nh",
+        "name": "Район Нуйтхань",
         "latitude": 15.43345,
         "longitude": 108.57438
     },
     {
-        "name": "Huy\u1ec7n Ph\u01b0\u1edbc S\u01a1n",
+        "name": "Фуокшон район",
         "latitude": 15.38806,
         "longitude": 107.85766
     },
     {
-        "name": "Huy\u1ec7n Ti\u00ean Ph\u01b0\u1edbc",
+        "name": "Тьенфуокский район",
         "latitude": 15.4709,
         "longitude": 108.28257
     },
     {
-        "name": "Huy\u1ec7n Tr\u00e0 My",
+        "name": "Тра мой район",
         "latitude": 15.25,
         "longitude": 108.08333
     },
     {
-        "name": "Tam K\u1ef3",
+        "name": "Тэм Ки",
         "latitude": 15.57364,
         "longitude": 108.47403
     },
     {
-        "name": "Huy\u1ec7n Ba T\u01a1",
+        "name": "Бато район",
         "latitude": 14.73973,
         "longitude": 108.69326
     },
     {
-        "name": "Huy\u1ec7n B\u00ecnh S\u01a1n",
+        "name": "Биньшон район",
         "latitude": 15.31899,
         "longitude": 108.76383
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ee9c Ph\u1ed5",
+        "name": "Район Дык Пхо",
         "latitude": 14.78,
         "longitude": 108.97857
     },
     {
-        "name": "Huy\u1ec7n L\u00fd S\u01a1n",
+        "name": "Лишонский район",
         "latitude": 15.40608,
         "longitude": 109.09707
     },
     {
-        "name": "Huy\u1ec7n Minh Long",
+        "name": "Миньлонгский район",
         "latitude": 14.95375,
         "longitude": 108.67724
     },
     {
-        "name": "Huy\u1ec7n M\u1ed9 \u0110\u1ee9c",
+        "name": "Мо Дук район",
         "latitude": 14.95515,
         "longitude": 108.88841
     },
     {
-        "name": "Huy\u1ec7n Ngh\u0129a H\u00e0nh",
+        "name": "Нгиа Хань район",
         "latitude": 14.98712,
         "longitude": 108.80036
     },
     {
-        "name": "Huy\u1ec7n S\u01a1n H\u00e0",
+        "name": "Район Сонха",
         "latitude": 14.98427,
         "longitude": 108.53643
     },
     {
-        "name": "Huy\u1ec7n S\u01a1n T\u00e2y",
+        "name": "Сонтайский район",
         "latitude": 14.96392,
         "longitude": 108.36419
     },
     {
-        "name": "Huy\u1ec7n S\u01a1n T\u1ecbnh",
+        "name": "Шонтиньский район",
         "latitude": 15.1909,
         "longitude": 108.74295
     },
     {
-        "name": "Huy\u1ec7n Tr\u00e0 B\u1ed3ng",
+        "name": "Район Трабонг",
         "latitude": 15.23752,
         "longitude": 108.52633
     },
     {
-        "name": "Huy\u1ec7n T\u01b0 Ngh\u0129a",
+        "name": "Ту Нгиа район",
         "latitude": 15.09499,
         "longitude": 108.77053
     },
     {
-        "name": "Qu\u1ea3ng Ng\u00e3i",
+        "name": "Куанг Нгай",
         "latitude": 15.12047,
         "longitude": 108.79232
     },
     {
-        "name": "C\u1ea9m Ph\u1ea3",
+        "name": "Кам Фа",
         "latitude": 21.01004,
         "longitude": 107.27345
     },
     {
-        "name": "C\u1ea9m Ph\u1ea3 Mines",
+        "name": "Кам Фа Минс",
         "latitude": 21.01667,
         "longitude": 107.3
     },
     {
-        "name": "H\u1ea1 Long",
+        "name": "Ха Лонг",
         "latitude": 20.95045,
         "longitude": 107.07336
     },
     {
-        "name": "Huy\u1ec7n Ba Ch\u1ebd",
+        "name": "Баче район",
         "latitude": 21.29503,
         "longitude": 107.19298
     },
     {
-        "name": "Huy\u1ec7n B\u00ecnh Li\u00eau",
+        "name": "Биньльеу район",
         "latitude": 21.54389,
         "longitude": 107.44047
     },
     {
-        "name": "Huy\u1ec7n C\u00f4 T\u00f4",
+        "name": "Ко То район",
         "latitude": 21.05418,
         "longitude": 107.80698
     },
     {
-        "name": "Huy\u1ec7n \u0110\u1ea7m H\u00e0",
+        "name": "район Дамха",
         "latitude": 21.39689,
         "longitude": 107.56175
     },
     {
-        "name": "Huy\u1ec7n \u0110\u00f4ng Tri\u1ec1u",
+        "name": "Донг Триу район",
         "latitude": 21.11043,
         "longitude": 106.59662
     },
     {
-        "name": "Huy\u1ec7n H\u1ea3i H\u00e0",
+        "name": "Район Хайха",
         "latitude": 21.49537,
         "longitude": 107.6679
     },
     {
-        "name": "Huy\u1ec7n Ho\u00e0nh B\u1ed3",
+        "name": "Хоаньбо район",
         "latitude": 21.11888,
         "longitude": 107.03149
     },
     {
-        "name": "Huy\u1ec7n Ti\u00ean Y\u00ean",
+        "name": "Тянь Йен район",
         "latitude": 21.37571,
         "longitude": 107.37468
     },
     {
-        "name": "Huy\u1ec7n V\u00e2n \u0110\u1ed3n",
+        "name": "Вандонский район",
         "latitude": 21.04921,
         "longitude": 107.50971
     },
     {
-        "name": "M\u00f3ng C\u00e1i",
+        "name": "Монг Кай",
         "latitude": 21.52471,
         "longitude": 107.96619
     },
     {
-        "name": "Th\u00e0nh Ph\u1ed1 U\u00f4ng B\u00ed",
+        "name": "Уонг Би Сити",
         "latitude": 21.03433,
         "longitude": 106.77049
     },
     {
-        "name": "\u00d0\u00f4ng H\u00e0",
+        "name": "Донг Ха",
         "latitude": 16.81625,
         "longitude": 107.10031
     },
     {
-        "name": "Huy\u1ec7n Cam L\u1ed9",
+        "name": "Район Камло",
         "latitude": 16.79335,
         "longitude": 106.96175
     },
     {
-        "name": "Huy\u1ec7n \u0110a Kr\u00f4ng",
+        "name": "Да Кронг Район",
         "latitude": 16.55543,
         "longitude": 106.97208
     },
     {
-        "name": "Huy\u1ec7n Gio Linh",
+        "name": "Гио Линь район",
         "latitude": 16.91667,
         "longitude": 107.0
     },
     {
-        "name": "Huy\u1ec7n H\u1ea3i L\u0103ng",
+        "name": "Район Хайланг",
         "latitude": 16.67574,
         "longitude": 107.23388
     },
     {
-        "name": "Huy\u1ec7n H\u01b0\u1edbng H\u00f3a",
+        "name": "Район Хыонг Хоа",
         "latitude": 16.70132,
         "longitude": 106.67036
     },
     {
-        "name": "Huy\u1ec7n Tri\u1ec7u Phong",
+        "name": "Район Триу Фонг",
         "latitude": 16.78132,
         "longitude": 107.16034
     },
     {
-        "name": "Huy\u1ec7n V\u0129nh Linh",
+        "name": "Винь Линь район",
         "latitude": 17.016,
         "longitude": 106.93384
     },
     {
-        "name": "Huy\u1ec7n K\u1ebf S\u00e1ch",
+        "name": "Ке Сахский район",
         "latitude": 9.81771,
         "longitude": 105.9419
     },
     {
-        "name": "Huy\u1ec7n Long Ph\u00fa",
+        "name": "Район Лонг Фу",
         "latitude": 9.63715,
         "longitude": 106.08226
     },
     {
-        "name": "Huy\u1ec7n M\u1ef9 T\u00fa",
+        "name": "Мой район Ту",
         "latitude": 9.60849,
         "longitude": 105.80681
     },
     {
-        "name": "Huy\u1ec7n M\u1ef9 Xuy\u00ean",
+        "name": "Мой район Сюэнь",
         "latitude": 9.442,
         "longitude": 105.88546
     },
     {
-        "name": "Huyen Nga Nam",
+        "name": "Хуен Нга Нам",
         "latitude": 9.56127,
         "longitude": 105.59476
     },
     {
-        "name": "Huy\u1ec7n Th\u1ea1nh Tr\u1ecb",
+        "name": "Район Тханьчи",
         "latitude": 9.46939,
         "longitude": 105.71196
     },
     {
-        "name": "S\u00f3c Tr\u0103ng",
+        "name": "Сок Чанг",
         "latitude": 9.59995,
         "longitude": 105.97193
     },
     {
-        "name": "Huy\u1ec7n B\u1eafc Y\u00ean",
+        "name": "Бак Йен район",
         "latitude": 21.25042,
         "longitude": 104.38501
     },
     {
-        "name": "Huy\u1ec7n Mai S\u01a1n",
+        "name": "Майшонский район",
         "latitude": 21.15884,
         "longitude": 104.04821
     },
     {
-        "name": "Huy\u1ec7n M\u1ed9c Ch\u00e2u",
+        "name": "Мок Чау район",
         "latitude": 21.83333,
         "longitude": 104.75
     },
     {
-        "name": "Huy\u1ec7n M\u01b0\u1eddng La",
+        "name": "Район Муонгла",
         "latitude": 21.5296,
         "longitude": 104.11113
     },
     {
-        "name": "Huy\u1ec7n Ph\u00f9 Y\u00ean",
+        "name": "Фуйенский район",
         "latitude": 21.21412,
         "longitude": 104.68993
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ef3nh Nhai",
+        "name": "Куиньняй район",
         "latitude": 21.77224,
         "longitude": 103.6492
     },
     {
-        "name": "Huy\u1ec7n S\u00f4ng M\u00e3",
+        "name": "Район Сон Ма",
         "latitude": 21.06971,
         "longitude": 103.68727
     },
     {
-        "name": "Huy\u1ec7n Thu\u1eadn Ch\u00e2u",
+        "name": "Туан Чау район",
         "latitude": 21.42319,
         "longitude": 103.64408
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean Ch\u00e2u",
+        "name": "Йенчауский район",
         "latitude": 21.005,
         "longitude": 104.33264
     },
     {
-        "name": "S\u01a1n La",
+        "name": "Сон Ла",
         "latitude": 21.3256,
         "longitude": 103.91882
     },
     {
-        "name": "Huy\u1ec7n B\u1ebfn C\u1ea7u",
+        "name": "Район Бен Кау",
         "latitude": 11.12889,
         "longitude": 106.14296
     },
     {
-        "name": "Huy\u1ec7n D\u01b0\u01a1ng Minh Ch\u00e2u",
+        "name": "Район Дуонг Минь Чау",
         "latitude": 11.31833,
         "longitude": 106.25697
     },
     {
-        "name": "Huy\u1ec7n G\u00f2 D\u1ea7u",
+        "name": "Го-Дауский район",
         "latitude": 11.15737,
         "longitude": 106.27307
     },
     {
-        "name": "Huy\u1ec7n H\u00f2a Th\u00e0nh",
+        "name": "Район Хоатхань",
         "latitude": 11.26706,
         "longitude": 106.14486
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n Ch\u00e2u",
+        "name": "Танчауский район",
         "latitude": 11.58739,
         "longitude": 106.2827
     },
     {
-        "name": "Huy\u1ec7n Tr\u1ea3ng B\u00e0ng",
+        "name": "Коммуна Транг Банг",
         "latitude": 11.0572,
         "longitude": 106.37539
     },
     {
-        "name": "Ph\u00fa Kh\u01b0\u01a1ng",
+        "name": "Фу Кхыонг",
         "latitude": 11.28333,
         "longitude": 106.13333
     },
     {
-        "name": "T\u00e2y Ninh",
+        "name": "Тай Нинь",
         "latitude": 11.31004,
         "longitude": 106.09828
     },
     {
-        "name": "Huy\u1ec7n \u00d0\u00f4ng H\u01b0ng",
+        "name": "Донг Хынг район",
         "latitude": 20.54388,
         "longitude": 106.3409
     },
     {
-        "name": "Huy\u1ec7n H\u01b0ng H\u00e0",
+        "name": "Хынгха район",
         "latitude": 20.59464,
         "longitude": 106.2123
     },
     {
-        "name": "Huy\u1ec7n Ki\u1ebfn X\u01b0\u01a1ng",
+        "name": "Кьен Сюонг район",
         "latitude": 20.40081,
         "longitude": 106.42032
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ef3nh Ph\u1ee5",
+        "name": "Куинь Фу район",
         "latitude": 20.65095,
         "longitude": 106.36359
     },
     {
-        "name": "Huy\u1ec7n Th\u00e1i Th\u1ee5y",
+        "name": "Район Тай Туй",
         "latitude": 20.53916,
         "longitude": 106.51688
     },
     {
-        "name": "Huy\u1ec7n Ti\u1ec1n H\u1ea3i",
+        "name": "Тяньхайский район",
         "latitude": 20.38465,
         "longitude": 106.52882
     },
     {
-        "name": "Huy\u1ec7n V\u0169 Th\u01b0",
+        "name": "Вутуйский район",
         "latitude": 20.43732,
         "longitude": 106.26529
     },
     {
-        "name": "Th\u00e1i B\u00ecnh",
+        "name": "мирный",
         "latitude": 20.45,
         "longitude": 106.34002
     },
     {
-        "name": "Th\u00e1i Nguy\u00ean",
+        "name": "Тай Нгуен",
         "latitude": 21.59422,
         "longitude": 105.84817
     },
     {
-        "name": "B\u1ec9m S\u01a1n",
+        "name": "Бим Сон",
         "latitude": 20.07806,
         "longitude": 105.86028
     },
     {
-        "name": "Huy\u1ec7n B\u00e1 Th\u01b0\u1edbc",
+        "name": "Ба Туок район",
         "latitude": 20.35767,
         "longitude": 105.25301
     },
     {
-        "name": "Huy\u1ec7n C\u1ea9m Th\u1ee7y",
+        "name": "Камтуйский район",
         "latitude": 20.19586,
         "longitude": 105.46817
     },
     {
-        "name": "Huy\u1ec7n \u0110\u00f4ng S\u01a1n",
+        "name": "Донгсон район",
         "latitude": 19.79742,
         "longitude": 105.72465
     },
     {
-        "name": "Huy\u1ec7n H\u00e0 Trung",
+        "name": "Ха Чунг район",
         "latitude": 20.02654,
         "longitude": 105.81931
     },
     {
-        "name": "Huy\u1ec7n H\u1eadu L\u1ed9c",
+        "name": "Хау Лок район",
         "latitude": 19.93337,
         "longitude": 105.88894
     },
     {
-        "name": "Huy\u1ec7n Lang Ch\u00e1nh",
+        "name": "Ланг Чань район",
         "latitude": 20.15926,
         "longitude": 105.15071
     },
     {
-        "name": "Huy\u1ec7n M\u01b0\u1eddng L\u00e1t",
+        "name": "Район Муонг Лат",
         "latitude": 20.52763,
         "longitude": 104.62941
     },
     {
-        "name": "Huy\u1ec7n Nga S\u01a1n",
+        "name": "Нга Сон район",
         "latitude": 20.01561,
         "longitude": 105.98975
     },
     {
-        "name": "Huy\u1ec7n Ng\u1ecdc L\u1eb7c",
+        "name": "Нгок Лак район",
         "latitude": 20.06777,
         "longitude": 105.37386
     },
     {
-        "name": "Huy\u1ec7n Nh\u01b0 Thanh",
+        "name": "Район Нху Тхань",
         "latitude": 19.57798,
         "longitude": 105.55616
     },
     {
-        "name": "Huy\u1ec7n Nh\u01b0 Xu\u00e2n",
+        "name": "Нху Суан район",
         "latitude": 19.62527,
         "longitude": 105.38856
     },
     {
-        "name": "Huy\u1ec7n N\u00f4ng C\u1ed1ng",
+        "name": "Район Нонг Конг",
         "latitude": 19.61376,
         "longitude": 105.68279
     },
     {
-        "name": "Huy\u1ec7n Quan H\u00f3a",
+        "name": "Куан Хоа район",
         "latitude": 20.47565,
         "longitude": 104.95335
     },
     {
-        "name": "Huy\u1ec7n Quan S\u01a1n",
+        "name": "Куаншон район",
         "latitude": 20.25758,
         "longitude": 104.83416
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ea3ng X\u01b0\u01a1ng",
+        "name": "Куанг Сюонг Район",
         "latitude": 19.70252,
         "longitude": 105.79298
     },
     {
-        "name": "Huy\u1ec7n Thi\u1ec7u H\u00f3a",
+        "name": "Район Тхиеу Хоа",
         "latitude": 19.89713,
         "longitude": 105.68144
     },
     {
-        "name": "Huy\u1ec7n Th\u1ecd Xu\u00e2n",
+        "name": "Тхо Суан район",
         "latitude": 19.93114,
         "longitude": 105.48284
     },
     {
-        "name": "Huy\u1ec7n Th\u01b0\u1eddng Xu\u00e2n",
+        "name": "Тхыонг Суан район",
         "latitude": 19.93684,
         "longitude": 105.24109
     },
     {
-        "name": "Huy\u1ec7n Tri\u1ec7u S\u01a1n",
+        "name": "Район Триё Сон",
         "latitude": 19.82578,
         "longitude": 105.58293
     },
     {
-        "name": "Huy\u1ec7n V\u0129nh L\u1ed9c",
+        "name": "Виньлокский район",
         "latitude": 20.03482,
         "longitude": 105.65755
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean \u0110\u1ecbnh",
+        "name": "Йен Динь Район",
         "latitude": 19.98666,
         "longitude": 105.61482
     },
     {
-        "name": "Thanh H\u00f3a",
+        "name": "Тхань Хоа",
         "latitude": 19.8,
         "longitude": 105.76667
     },
     {
-        "name": "Hu\u1ebf",
+        "name": "Хюэ",
         "latitude": 16.4619,
         "longitude": 107.59546
     },
     {
-        "name": "Huy\u1ec7n A L\u01b0\u1edbi",
+        "name": "Лойский район",
         "latitude": 16.23422,
         "longitude": 107.3065
     },
     {
-        "name": "Huy\u1ec7n Nam \u0110\u00f4ng",
+        "name": "Намдонг район",
         "latitude": 16.12396,
         "longitude": 107.6927
     },
     {
-        "name": "Huy\u1ec7n Phong \u0110i\u1ec1n",
+        "name": "Фонг Дьен район",
         "latitude": 16.48769,
         "longitude": 107.28889
     },
     {
-        "name": "Huy\u1ec7n Ph\u00fa L\u1ed9c",
+        "name": "Фулокский район",
         "latitude": 16.27066,
         "longitude": 107.88545
     },
     {
-        "name": "Huy\u1ec7n Ph\u00fa Vang",
+        "name": "Фуванг район",
         "latitude": 16.47007,
         "longitude": 107.71458
     },
     {
-        "name": "Huy\u1ec7n Qu\u1ea3ng \u00d0i\u1ec1n",
+        "name": "Куанг Дьен Район",
         "latitude": 16.57941,
         "longitude": 107.4937
     },
     {
-        "name": "Huy\u1ec7n C\u00e1i B\u00e8",
+        "name": "Район Кайбе",
         "latitude": 10.38824,
         "longitude": 105.9462
     },
     {
-        "name": "Huy\u1ec7n Cai L\u1eady",
+        "name": "Кайлай район",
         "latitude": 10.38943,
         "longitude": 106.06774
     },
     {
-        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "name": "Чау Тхань район",
         "latitude": 10.386,
         "longitude": 106.27311
     },
     {
-        "name": "Huy\u1ec7n Ch\u1ee3 G\u1ea1o",
+        "name": "Район Чо Гао",
         "latitude": 10.37373,
         "longitude": 106.44341
     },
     {
-        "name": "Huy\u1ec7n G\u00f2 C\u00f4ng \u0110\u00f4ng",
+        "name": "Район Го Конг Донг",
         "latitude": 10.36784,
         "longitude": 106.74592
     },
     {
-        "name": "Huy\u1ec7n G\u00f2 C\u00f4ng T\u00e2y",
+        "name": "Район Го Конг Тай",
         "latitude": 10.34527,
         "longitude": 106.59851
     },
     {
-        "name": "Huy\u1ec7n T\u00e2n Ph\u01b0\u1edbc",
+        "name": "Тан Фуок район",
         "latitude": 10.51489,
         "longitude": 106.23312
     },
     {
-        "name": "M\u1ef9 Tho",
+        "name": "Мой Тхо",
         "latitude": 10.36004,
         "longitude": 106.35996
     },
     {
-        "name": "Th\u00e0nh Ph\u1ed1 M\u1ef9 Tho",
+        "name": "Мой город Тхо",
         "latitude": 10.36221,
         "longitude": 106.36824
     },
     {
-        "name": "Th\u1ecb X\u00e3 G\u00f2 C\u00f4ng",
+        "name": "Го Конг Таун",
         "latitude": 10.40005,
         "longitude": 106.65847
     },
     {
-        "name": "Huy\u1ec7n C\u00e0ng Long",
+        "name": "Цанлонгский район",
         "latitude": 9.95883,
         "longitude": 106.21395
     },
     {
-        "name": "Huy\u1ec7n C\u1ea7u K\u00e8",
+        "name": "Кауке район",
         "latitude": 9.86738,
         "longitude": 106.07916
     },
     {
-        "name": "Huy\u1ec7n C\u1ea7u Ngang",
+        "name": "Кау Нганг район",
         "latitude": 9.77186,
         "longitude": 106.43654
     },
     {
-        "name": "Huy\u1ec7n Ti\u1ec3u C\u1ea7n",
+        "name": "Тиеуканский район",
         "latitude": 9.8035,
         "longitude": 106.20594
     },
     {
-        "name": "Huy\u1ec7n Tr\u00e0 C\u00fa",
+        "name": "Тракуйский район",
         "latitude": 9.69706,
         "longitude": 106.29423
     },
     {
-        "name": "Tr\u00e0 Vinh",
+        "name": "Тра Винь",
         "latitude": 9.94719,
         "longitude": 106.34225
     },
     {
-        "name": "Huy\u1ec7n Chi\u00eam H\u00f3a",
+        "name": "Чием Хоа район",
         "latitude": 22.17895,
         "longitude": 105.27671
     },
     {
-        "name": "Huy\u1ec7n H\u00e0m Y\u00ean",
+        "name": "Хам Йен район",
         "latitude": 22.10935,
         "longitude": 105.0163
     },
     {
-        "name": "Huy\u1ec7n L\u00e2m B\u00ecnh",
+        "name": "Ламбинь район",
         "latitude": 22.46411,
         "longitude": 105.21903
     },
     {
-        "name": "Huy\u1ec7n Na Hang",
+        "name": "Наханг район",
         "latitude": 22.47522,
         "longitude": 105.4838
     },
     {
-        "name": "Huy\u1ec7n S\u01a1n D\u01b0\u01a1ng",
+        "name": "Шонзыонг район",
         "latitude": 21.63623,
         "longitude": 105.38901
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean S\u01a1n",
+        "name": "Йеншон район",
         "latitude": 21.88363,
         "longitude": 105.27656
     },
     {
-        "name": "Tuy\u00ean Quang",
+        "name": "Туен Куанг",
         "latitude": 21.82356,
         "longitude": 105.21424
     },
     {
-        "name": "Huy\u1ec7n Long H\u1ed3",
+        "name": "Район Лонг Хо",
         "latitude": 10.2164,
         "longitude": 105.98483
     },
     {
-        "name": "Huy\u1ec7n Mang Th\u00edt",
+        "name": "Район Манг Тхит",
         "latitude": 10.18731,
         "longitude": 106.07472
     },
     {
-        "name": "Huy\u1ec7n Tam B\u00ecnh",
+        "name": "Там Бинь район",
         "latitude": 10.08127,
         "longitude": 105.95352
     },
     {
-        "name": "Huy\u1ec7n Tr\u00e0 \u00d4n",
+        "name": "Траонский район",
         "latitude": 9.97522,
         "longitude": 106.00957
     },
     {
-        "name": "Huy\u1ec7n V\u0169ng Li\u00eam",
+        "name": "Вунглиемский район",
         "latitude": 10.08717,
         "longitude": 106.16038
     },
     {
-        "name": "V\u0129nh Long",
+        "name": "Винь Лонг",
         "latitude": 10.25369,
         "longitude": 105.9722
     },
     {
-        "name": "Huy\u1ec7n B\u00ecnh Xuy\u00ean",
+        "name": "Бинь Сюен район",
         "latitude": 21.30561,
         "longitude": 105.66225
     },
     {
-        "name": "Huy\u1ec7n Tam D\u01b0\u01a1ng",
+        "name": "Тамзыонг район",
         "latitude": 21.36189,
         "longitude": 105.5569
     },
     {
-        "name": "Huy\u1ec7n Tam \u0110\u1ea3o",
+        "name": "Там Дао район",
         "latitude": 21.4569,
         "longitude": 105.5946
     },
     {
-        "name": "Huy\u1ec7n Y\u00ean L\u1ea1c",
+        "name": "Йен Лак район",
         "latitude": 21.21845,
         "longitude": 105.57586
     },
     {
-        "name": "V\u0129nh Y\u00ean",
+        "name": "Винь Йен",
         "latitude": 21.30891,
         "longitude": 105.60489
     },
     {
-        "name": "Huy\u1ec7n L\u1ee5c Y\u00ean",
+        "name": "Люк Йен район",
         "latitude": 22.10235,
         "longitude": 104.72538
     },
     {
-        "name": "Huy\u1ec7n M\u00f9 Cang Ch\u1ea3i",
+        "name": "Район Му Канчай",
         "latitude": 21.78815,
         "longitude": 104.11998
     },
     {
-        "name": "Huy\u1ec7n Tr\u1ea1m T\u1ea5u",
+        "name": "Трамвай Тауский район",
         "latitude": 21.48553,
         "longitude": 104.42756
     },
     {
-        "name": "Huy\u1ec7n Tr\u1ea5n Y\u00ean",
+        "name": "Район Чан Йен",
         "latitude": 21.66586,
         "longitude": 104.79702
     },
     {
-        "name": "Huy\u1ec7n V\u0103n Ch\u1ea5n",
+        "name": "Ван Чанский район",
         "latitude": 21.55722,
         "longitude": 104.64038
     },
     {
-        "name": "Huy\u1ec7n V\u0103n Y\u00ean",
+        "name": "Ван Йен район",
         "latitude": 21.90022,
         "longitude": 104.56669
     },
     {
-        "name": "Y\u00ean B\u00e1i",
+        "name": "Йен Бай",
         "latitude": 21.72288,
         "longitude": 104.9113
     }

@@ -1,66 +1,66 @@
 [
     {
-        "name": "Nicola Town",
+        "name": "Никола Таун",
         "latitude": 17.37956,
         "longitude": -62.75318
     },
     {
-        "name": "Sandy Point Town",
+        "name": "Сэнди Пойнт Таун",
         "latitude": 17.35908,
         "longitude": -62.84858
     },
     {
-        "name": "Market Shop",
+        "name": "Рынок Магазин",
         "latitude": 17.13218,
         "longitude": -62.57267
     },
     {
-        "name": "Newcastle",
+        "name": "Ньюкасл",
         "latitude": 17.2,
         "longitude": -62.58333
     },
     {
-        "name": "Dieppe Bay Town",
+        "name": "Дьепп Бэй Таун",
         "latitude": 17.41473,
         "longitude": -62.8139
     },
     {
-        "name": "Fig Tree",
+        "name": "Смоковница",
         "latitude": 17.12623,
         "longitude": -62.60265
     },
     {
-        "name": "Cayon",
+        "name": "Кайон",
         "latitude": 17.35,
         "longitude": -62.73333
     },
     {
-        "name": "Saint Paul\u2019s",
+        "name": "Сент-Пол",
         "latitude": 17.40605,
         "longitude": -62.83562
     },
     {
-        "name": "Charlestown",
+        "name": "Чарльстаун",
         "latitude": 17.13333,
         "longitude": -62.61667
     },
     {
-        "name": "Monkey Hill",
+        "name": "Обезьяний холм",
         "latitude": 17.32327,
         "longitude": -62.72914
     },
     {
-        "name": "Cotton Ground",
+        "name": "Хлопковая земля",
         "latitude": 17.16667,
         "longitude": -62.61667
     },
     {
-        "name": "Middle Island",
+        "name": "Средний остров",
         "latitude": 17.3259,
         "longitude": -62.81055
     },
     {
-        "name": "Trinity",
+        "name": "Троица",
         "latitude": 17.30037,
         "longitude": -62.77584
     }

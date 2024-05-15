@@ -1,466 +1,466 @@
 [
     {
-        "name": "Vingt Cinq",
+        "name": "Двадцать пять",
         "latitude": -10.38803,
         "longitude": 56.61795
     },
     {
-        "name": "Albion",
+        "name": "Альбион",
         "latitude": -20.20814,
         "longitude": 57.40766
     },
     {
-        "name": "Bambous",
+        "name": "Бамбук",
         "latitude": -20.25667,
         "longitude": 57.40611
     },
     {
-        "name": "Black River",
+        "name": "Черная река",
         "latitude": -20.320479,
         "longitude": 57.403725
     },
     {
-        "name": "Cascavelle",
+        "name": "Каскавелль",
         "latitude": -20.28694,
         "longitude": 57.40722
     },
     {
-        "name": "Case Noyale",
+        "name": "Дело Нояле",
         "latitude": -20.413704,
         "longitude": 57.369065
     },
     {
-        "name": "Chamarel",
+        "name": "Шамарель",
         "latitude": -20.425236,
         "longitude": 57.391165
     },
     {
-        "name": "Flic en Flac",
+        "name": "Флик эн Флак",
         "latitude": -20.27417,
         "longitude": 57.36306
     },
     {
-        "name": "Grande Rivi\u00e8re Noire",
+        "name": "Великая Черная Река",
         "latitude": -20.36028,
         "longitude": 57.36611
     },
     {
-        "name": "Gros Cailloux",
+        "name": "Большие камни",
         "latitude": -20.20722,
         "longitude": 57.43
     },
     {
-        "name": "La Gaulette",
+        "name": "Ла Голетт",
         "latitude": -20.429388,
         "longitude": 57.358841
     },
     {
-        "name": "Le Morne",
+        "name": "Ле Морн",
         "latitude": -20.444174,
         "longitude": 57.330315
     },
     {
-        "name": "Petite Case Noyale",
+        "name": "Маленький футляр Noyal",
         "latitude": -20.39306,
         "longitude": 57.365
     },
     {
-        "name": "Petite Riviere",
+        "name": "Маленькая Ривьер",
         "latitude": -20.193643,
         "longitude": 57.447747
     },
     {
-        "name": "Petite Rivi\u00e8re",
+        "name": "Маленькая река",
         "latitude": -20.19551,
         "longitude": 57.44592
     },
     {
-        "name": "Richelieu",
+        "name": "Ришелье",
         "latitude": -20.190849,
         "longitude": 57.461299
     },
     {
-        "name": "Tamarin",
+        "name": "Тамаринд",
         "latitude": -20.32556,
         "longitude": 57.37056
     },
     {
-        "name": "Bel Air",
+        "name": "Белл Эйр",
         "latitude": -20.258493,
         "longitude": 57.754987
     },
     {
-        "name": "Bel Air Rivi\u00e8re S\u00e8che",
+        "name": "Сухая река Бель-Эйр",
         "latitude": -20.25777,
         "longitude": 57.74976
     },
     {
-        "name": "Bon Accueil",
+        "name": "Добро пожаловать",
         "latitude": -20.17083,
         "longitude": 57.65639
     },
     {
-        "name": "Bramsthan",
+        "name": "Брамстан",
         "latitude": -20.212979,
         "longitude": 57.73768
     },
     {
-        "name": "Brisee Verdiere",
+        "name": "Бризи Вердьер",
         "latitude": -20.168076,
         "longitude": 57.652236
     },
     {
-        "name": "Bris\u00e9e Verdi\u00e8re",
+        "name": "Бризе Вердьер",
         "latitude": -20.16389,
         "longitude": 57.64667
     },
     {
-        "name": "Camp de Masque",
+        "name": "Масковый лагерь",
         "latitude": -20.23694,
         "longitude": 57.66333
     },
     {
-        "name": "Camp De Masque Pave",
+        "name": "Лагерь Паве Маска",
         "latitude": -20.250063,
         "longitude": 57.67997
     },
     {
-        "name": "Camp Ithier",
+        "name": "Лагерь Итье",
         "latitude": -20.21583,
         "longitude": 57.74556
     },
     {
-        "name": "Central Flacq",
+        "name": "Центральный Флак",
         "latitude": -20.202278,
         "longitude": 57.73022
     },
     {
-        "name": "Centre de Flacq",
+        "name": "Центр Флака",
         "latitude": -20.18972,
         "longitude": 57.71444
     },
     {
-        "name": "Cl\u00e9mencia",
+        "name": "Милосердие",
         "latitude": -20.26389,
         "longitude": 57.70611
     },
     {
-        "name": "Clemencia",
+        "name": "Милосердие",
         "latitude": -20.264716,
         "longitude": 57.713386
     },
     {
-        "name": "Ecroignard",
+        "name": "Экруаньяр",
         "latitude": -20.22611,
         "longitude": 57.73611
     },
     {
-        "name": "Grand River South East",
+        "name": "Гранд-Ривер Юго-Восток",
         "latitude": -20.288563,
         "longitude": 57.78103
     },
     {
-        "name": "Grande Retraite",
+        "name": "Великий выход на пенсию",
         "latitude": -20.165077,
         "longitude": 57.694616
     },
     {
-        "name": "Grande Rivi\u00e8re Sud Est",
+        "name": "Гранд-Ривьер Юго-Восток",
         "latitude": -20.28611,
         "longitude": 57.77583
     },
     {
-        "name": "Lalmatie",
+        "name": "Лалматие",
         "latitude": -20.18972,
         "longitude": 57.66111
     },
     {
-        "name": "Laventure",
+        "name": "Лавентура",
         "latitude": -20.14583,
         "longitude": 57.67667
     },
     {
-        "name": "Mare La Chaux",
+        "name": "Маре Ла Шо",
         "latitude": -20.19806,
         "longitude": 57.74944
     },
     {
-        "name": "Medine Camp De Masque",
+        "name": "Лагерь Масок Медины",
         "latitude": -20.243958,
         "longitude": 57.647035
     },
     {
-        "name": "Olivia",
+        "name": "Оливия",
         "latitude": -20.28778,
         "longitude": 57.73097
     },
     {
-        "name": "Poste de Flacq",
+        "name": "Флак-пост",
         "latitude": -20.16306,
         "longitude": 57.73056
     },
     {
-        "name": "Quatre Cocos",
+        "name": "Четыре кокоса",
         "latitude": -20.20151,
         "longitude": 57.77448
     },
     {
-        "name": "Quatre Soeurs",
+        "name": "Четыре сестры",
         "latitude": -20.29917,
         "longitude": 57.77056
     },
     {
-        "name": "Queen Victoria",
+        "name": "Королева Виктория",
         "latitude": -20.22,
         "longitude": 57.7075
     },
     {
-        "name": "Saint Julien",
+        "name": "Сен-Жюльен",
         "latitude": -20.22639,
         "longitude": 57.63639
     },
     {
-        "name": "Sebastopol",
+        "name": "Севастополь",
         "latitude": -20.2907,
         "longitude": 57.68779
     },
     {
-        "name": "Trou D'Eau Douce",
+        "name": "Отверстие с пресной водой",
         "latitude": -20.234586,
         "longitude": 57.794861
     },
     {
-        "name": "Bambous Virieux",
+        "name": "Бамбук Вирье",
         "latitude": -20.34278,
         "longitude": 57.7575
     },
     {
-        "name": "Beau Vallon",
+        "name": "Бо Валлон",
         "latitude": -20.41889,
         "longitude": 57.69528
     },
     {
-        "name": "Bois des Amourettes",
+        "name": "Буа-де-Амуретт",
         "latitude": -20.36306,
         "longitude": 57.73111
     },
     {
-        "name": "Camp Carol",
+        "name": "Кэмп Кэрол",
         "latitude": -20.461785,
         "longitude": 57.678456
     },
     {
-        "name": "Cluny",
+        "name": "Клюни",
         "latitude": -20.36694,
         "longitude": 57.60389
     },
     {
-        "name": "Grand Bel Air",
+        "name": "Гран Бель Эйр",
         "latitude": -20.409124,
         "longitude": 57.681742
     },
     {
-        "name": "Grand Sable",
+        "name": "Гранд Соболь",
         "latitude": -20.31417,
         "longitude": 57.76444
     },
     {
-        "name": "Mah\u00e9bourg",
+        "name": "Маэбур",
         "latitude": -20.40806,
         "longitude": 57.7
     },
     {
-        "name": "Mahebourg",
+        "name": "Маэбур",
         "latitude": -20.413962,
         "longitude": 57.705583
     },
     {
-        "name": "Mare D'Albert",
+        "name": "Маре Д'Альбер",
         "latitude": -20.420195,
         "longitude": 57.627288
     },
     {
-        "name": "Mare Tabac",
+        "name": "Маре Табак",
         "latitude": -20.440358,
         "longitude": 57.594215
     },
     {
-        "name": "New Grove",
+        "name": "Нью-Гроув",
         "latitude": -20.40861,
         "longitude": 57.61361
     },
     {
-        "name": "Nouvelle France",
+        "name": "Новая Франция",
         "latitude": -20.37056,
         "longitude": 57.56111
     },
     {
-        "name": "Petit Bel Air",
+        "name": "Литтл Бель Эйр",
         "latitude": -20.399412,
         "longitude": 57.692959
     },
     {
-        "name": "Plaine Magnien",
+        "name": "Маньенская равнина",
         "latitude": -20.42967,
         "longitude": 57.66968
     },
     {
-        "name": "Riviere Des Creoles",
+        "name": "Ривьер-де-Креоль",
         "latitude": -20.39084,
         "longitude": 57.69696
     },
     {
-        "name": "Rose Belle",
+        "name": "Роуз Белль",
         "latitude": -20.40028,
         "longitude": 57.59667
     },
     {
-        "name": "Saint Hubert",
+        "name": "Святой Юбер",
         "latitude": -20.36417,
         "longitude": 57.63833
     },
     {
-        "name": "St Hubert",
+        "name": "Святой Губерт",
         "latitude": -20.365723,
         "longitude": 57.644604
     },
     {
-        "name": "Trois Boutiques",
+        "name": "Три магазина",
         "latitude": -20.450461,
         "longitude": 57.646829
     },
     {
-        "name": "Union Park",
+        "name": "Юнион Парк",
         "latitude": -20.386294,
         "longitude": 57.58068
     },
     {
-        "name": "Vieux Grand Port",
+        "name": "Старый Гранд-Порт",
         "latitude": -20.374066,
         "longitude": 57.716077
     },
     {
-        "name": "Camp Thorel",
+        "name": "Лагерь Торель",
         "latitude": -20.21472,
         "longitude": 57.61611
     },
     {
-        "name": "Dagoti\u00e8re",
+        "name": "Даготьер",
         "latitude": -20.24476,
         "longitude": 57.56188
     },
     {
-        "name": "Dagotiere",
+        "name": "Даготьер",
         "latitude": -20.246189,
         "longitude": 57.559881
     },
     {
-        "name": "Dubreuil",
+        "name": "Дюбрей",
         "latitude": -20.30132,
         "longitude": 57.59861
     },
     {
-        "name": "L'Avenir",
+        "name": "Будущее",
         "latitude": -20.217142,
         "longitude": 57.550482
     },
     {
-        "name": "L'Esperance",
+        "name": "Л'Эсперанс",
         "latitude": -20.230413,
         "longitude": 57.595268
     },
     {
-        "name": "La Laura-Malenga",
+        "name": "Лаура-Маленга",
         "latitude": -20.203861,
         "longitude": 57.549915
     },
     {
-        "name": "Melrose",
+        "name": "Мелроуз",
         "latitude": -20.26972,
         "longitude": 57.63194
     },
     {
-        "name": "Moka",
+        "name": "Мока",
         "latitude": -20.21889,
         "longitude": 57.49583
     },
     {
-        "name": "Montagne Blanche",
+        "name": "Белая Гора",
         "latitude": -20.28592,
         "longitude": 57.657746
     },
     {
-        "name": "Nouvelle D\u00e9couverte",
+        "name": "Новое открытие",
         "latitude": -20.186,
         "longitude": 57.590797
     },
     {
-        "name": "Pailles",
+        "name": "Соломинка",
         "latitude": -20.19271,
         "longitude": 57.48826
     },
     {
-        "name": "Providence",
+        "name": "Провиденс",
         "latitude": -20.24472,
         "longitude": 57.61222
     },
     {
-        "name": "Quartier Militaire",
+        "name": "Военный квартал",
         "latitude": -20.2479,
         "longitude": 57.59737
     },
     {
-        "name": "Ripailles",
+        "name": "Разгул",
         "latitude": -20.194725,
         "longitude": 57.580596
     },
     {
-        "name": "Saint Julien D'Hotman",
+        "name": "Сен-Жюльен Д'Оман",
         "latitude": -20.23067,
         "longitude": 57.640378
     },
     {
-        "name": "Saint Pierre",
+        "name": "Сен-Пьер",
         "latitude": -20.2175,
         "longitude": 57.52083
     },
     {
-        "name": "Verdun",
+        "name": "Верден",
         "latitude": -20.23417,
         "longitude": 57.55476
     },
     {
-        "name": "Arsenal",
+        "name": "Арсенал",
         "latitude": -20.10556,
         "longitude": 57.53528
     },
     {
-        "name": "Calebasses",
+        "name": "Калабаш",
         "latitude": -20.11167,
         "longitude": 57.55389
     },
     {
-        "name": "Congomah",
+        "name": "Спасибо",
         "latitude": -20.14889,
         "longitude": 57.59083
     },
     {
-        "name": "Cr\u00e8ve Coeur",
+        "name": "разбитое сердце",
         "latitude": -20.19111,
         "longitude": 57.55722
     },
     {
-        "name": "Creve Coeur",
+        "name": "Крев-Кёр",
         "latitude": -20.187804,
         "longitude": 57.565305
     },
     {
-        "name": "D'Epinay",
+        "name": "Из Эпине",
         "latitude": -20.130211,
         "longitude": 57.595838
     },
     {
-        "name": "Fond du Sac",
+        "name": "Дно сумки",
         "latitude": -20.04732,
         "longitude": 57.584
     },
@@ -470,392 +470,392 @@
         "longitude": 57.52111
     },
     {
-        "name": "Long Mountain",
+        "name": "Длинная гора",
         "latitude": -20.14306,
         "longitude": 57.56222
     },
     {
-        "name": "Morcellement Saint Andr\u00e9",
+        "name": "Подразделение Сен-Андре",
         "latitude": -20.07199,
         "longitude": 57.56833
     },
     {
-        "name": "Morcellement Saint Andre",
+        "name": "Подразделение Сент-Андре",
         "latitude": -20.073637,
         "longitude": 57.566847
     },
     {
-        "name": "Notre Dame",
+        "name": "Наша Леди",
         "latitude": -20.14056,
         "longitude": 57.55306
     },
     {
-        "name": "Pamplemousses",
+        "name": "Грейпфруты",
         "latitude": -20.10389,
         "longitude": 57.57028
     },
     {
-        "name": "Plaine des Papayes",
+        "name": "Папайя равнина",
         "latitude": -20.065,
         "longitude": 57.5725
     },
     {
-        "name": "Pointe aux Piments",
+        "name": "Пуанты с пигментами",
         "latitude": -20.06494,
         "longitude": 57.52347
     },
     {
-        "name": "Seizieme Mille",
+        "name": "Сейзиме Милле",
         "latitude": -20.342111,
         "longitude": 57.549244
     },
     {
-        "name": "Terre Rouge",
+        "name": "Красная земля",
         "latitude": -20.12611,
         "longitude": 57.52444
     },
     {
-        "name": "Tombeau Bay",
+        "name": "Томбо Бэй",
         "latitude": -20.123451,
         "longitude": 57.502184
     },
     {
-        "name": "Triolet",
+        "name": "Триплет",
         "latitude": -20.0576,
         "longitude": 57.55025
     },
     {
-        "name": "Trou Aux Biches",
+        "name": "Тру-О-Биш",
         "latitude": -20.031235,
         "longitude": 57.551897
     },
     {
-        "name": "Ville Bague",
+        "name": "Городское кольцо",
         "latitude": -20.146045,
         "longitude": 57.624149
     },
     {
-        "name": "Beau Bassin",
+        "name": "Бо Бассин",
         "latitude": -20.225387,
         "longitude": 57.471455
     },
     {
-        "name": "Beau Bassin-Rose Hill",
+        "name": "Бо Бассин-Роуз Хилл",
         "latitude": -20.23325,
         "longitude": 57.46609
     },
     {
-        "name": "Curepipe",
+        "name": "Кюрпип",
         "latitude": -20.31628,
         "longitude": 57.52594
     },
     {
-        "name": "Eau Coulee",
+        "name": "Текущая вода",
         "latitude": -20.303366,
         "longitude": 57.527788
     },
     {
-        "name": "Ebene",
+        "name": "уровень",
         "latitude": -20.24494,
         "longitude": 57.49163
     },
     {
-        "name": "Floreal",
+        "name": "Флореаль",
         "latitude": -20.311214,
         "longitude": 57.507263
     },
     {
-        "name": "Forest Side",
+        "name": "Лесная сторона",
         "latitude": -20.329521,
         "longitude": 57.538981
     },
     {
-        "name": "Midlands",
+        "name": "Мидлендс",
         "latitude": -20.31907,
         "longitude": 57.57016
     },
     {
-        "name": "Quatre Bornes",
+        "name": "Катр Борн",
         "latitude": -20.26381,
         "longitude": 57.4791
     },
     {
-        "name": "Rose Hill",
+        "name": "Роуз Хилл",
         "latitude": -20.243478,
         "longitude": 57.469855
     },
     {
-        "name": "Vacoas",
+        "name": "Вакоас",
         "latitude": -20.29806,
         "longitude": 57.47833
     },
     {
-        "name": "Bell Village",
+        "name": "Белл-Виллидж",
         "latitude": -20.170497,
         "longitude": 57.486184
     },
     {
-        "name": "Caudan Waterfront",
+        "name": "Набережная Каудан",
         "latitude": -20.1608988,
         "longitude": 57.4977256
     },
     {
-        "name": "China Town",
+        "name": "Чайнатаун",
         "latitude": -20.158797,
         "longitude": 57.506789
     },
     {
-        "name": "Les Pailles",
+        "name": "Соломинка",
         "latitude": -20.193527,
         "longitude": 57.489629
     },
     {
-        "name": "Les Salines",
+        "name": "Солеварни",
         "latitude": -20.160168,
         "longitude": 57.489041
     },
     {
-        "name": "Plaine Verte",
+        "name": "Зеленая равнина",
         "latitude": -20.15841,
         "longitude": 57.514215
     },
     {
-        "name": "Pointe aux Sables",
+        "name": "Пуэнт-о-Сабль",
         "latitude": -20.171687,
         "longitude": 57.453893
     },
     {
-        "name": "Port Louis",
+        "name": "Порт-Луи",
         "latitude": -20.16194,
         "longitude": 57.49889
     },
     {
-        "name": "Soreze",
+        "name": "Сестры",
         "latitude": -20.208561,
         "longitude": 57.486382
     },
     {
-        "name": "Tour Koenig",
+        "name": "Тур Кениг",
         "latitude": -20.178646,
         "longitude": 57.468721
     },
     {
-        "name": "Tranquebar",
+        "name": "Спокойный",
         "latitude": -20.176816,
         "longitude": 57.511329
     },
     {
-        "name": "Vall\u00e9e des Pr\u00eatres",
+        "name": "Долина священников",
         "latitude": -20.165147,
         "longitude": 57.534039
     },
     {
-        "name": "Vallee Pitot",
+        "name": "Валле Пито",
         "latitude": -20.1692,
         "longitude": 57.51997
     },
     {
-        "name": "Amaury",
+        "name": "Амори",
         "latitude": -20.13083,
         "longitude": 57.65917
     },
     {
-        "name": "Amiti\u00e9 Gokoola",
+        "name": "Дружба Гокула",
         "latitude": -20.106883,
         "longitude": 57.654728
     },
     {
-        "name": "Cap Malheureux",
+        "name": "Кап-Мальорио",
         "latitude": -19.98417,
         "longitude": 57.61417
     },
     {
-        "name": "Cottage",
+        "name": "Коттедж",
         "latitude": -20.05972,
         "longitude": 57.62917
     },
     {
-        "name": "Esp\u00e9rance Tr\u00e9buchet",
+        "name": "Эсперанс Требюше",
         "latitude": -20.06972,
         "longitude": 57.64194
     },
     {
-        "name": "Esperance Trebuchet",
+        "name": "Эсперанс Требюшет",
         "latitude": -20.072479,
         "longitude": 57.64805
     },
     {
-        "name": "Goodlands",
+        "name": "Гудлендс",
         "latitude": -20.03841,
         "longitude": 57.65055
     },
     {
-        "name": "Grand Baie",
+        "name": "Гранд Бэй",
         "latitude": -20.01816,
         "longitude": 57.58015
     },
     {
-        "name": "Grand Gaube",
+        "name": "Гранд Гоб",
         "latitude": -20.00639,
         "longitude": 57.66083
     },
     {
-        "name": "Mapou",
+        "name": "По карте",
         "latitude": -20.07583,
         "longitude": 57.60139
     },
     {
-        "name": "Petit Raffray",
+        "name": "Пти-Раффр",
         "latitude": -20.02022,
         "longitude": 57.62296
     },
     {
-        "name": "Piton",
+        "name": "Питон",
         "latitude": -20.09028,
         "longitude": 57.63028
     },
     {
-        "name": "Plaines des Roches",
+        "name": "Равнины скал",
         "latitude": -20.11167,
         "longitude": 57.69083
     },
     {
-        "name": "Poudre D'Or",
+        "name": "Пудр Д'Ор",
         "latitude": -20.061627,
         "longitude": 57.682971
     },
     {
-        "name": "Poudre D'Or Hamlet",
+        "name": "Пудр д'Ор Гамлет",
         "latitude": -20.081024,
         "longitude": 57.652726
     },
     {
-        "name": "Rivi\u00e8re du Rempart",
+        "name": "Река Ремпарт",
         "latitude": -20.10306,
         "longitude": 57.68472
     },
     {
-        "name": "Roche Terre",
+        "name": "Каменная Земля",
         "latitude": -20.01861,
         "longitude": 57.64472
     },
     {
-        "name": "Roches Noire",
+        "name": "Блэк Рокс",
         "latitude": -20.11111,
         "longitude": 57.71222
     },
     {
-        "name": "Roches Noires",
+        "name": "Блэк Рокс",
         "latitude": -20.10882,
         "longitude": 57.725728
     },
     {
-        "name": "The Vale",
+        "name": "Долина",
         "latitude": -20.03018,
         "longitude": 57.60219
     },
     {
-        "name": "Baie aux Hu\u00eetres",
+        "name": "Ойстер Бэй",
         "latitude": -19.69444,
         "longitude": 63.40833
     },
     {
-        "name": "Port Mathurin",
+        "name": "Порт-Матурин",
         "latitude": -19.68333,
         "longitude": 63.41667
     },
     {
-        "name": "Cargados Carajos",
+        "name": "загруженный трахается",
         "latitude": -16.60329,
         "longitude": 59.65851
     },
     {
-        "name": "Baie Du Cap",
+        "name": "Ванная комната Дю Кап",
         "latitude": -20.486644,
         "longitude": 57.378815
     },
     {
-        "name": "Bel Ombre",
+        "name": "Красивая Тень",
         "latitude": -20.501919,
         "longitude": 57.425507
     },
     {
-        "name": "Benares",
+        "name": "Бенарес",
         "latitude": -20.484407,
         "longitude": 57.588717
     },
     {
-        "name": "Bois Cheri",
+        "name": "Буа Шери",
         "latitude": -20.426671,
         "longitude": 57.534252
     },
     {
-        "name": "Britannia",
+        "name": "Британия",
         "latitude": -20.448655,
         "longitude": 57.563407
     },
     {
-        "name": "Camp Diable",
+        "name": "Лагерь Дьявола",
         "latitude": -20.46278,
         "longitude": 57.57889
     },
     {
-        "name": "Chamouny",
+        "name": "Шамуни",
         "latitude": -20.48222,
         "longitude": 57.46611
     },
     {
-        "name": "Chemin Grenier",
+        "name": "Шемен Гренье",
         "latitude": -20.48722,
         "longitude": 57.46556
     },
     {
-        "name": "Grand Bois",
+        "name": "Большой Вуд",
         "latitude": -20.41889,
         "longitude": 57.54417
     },
     {
-        "name": "L'Escalier",
+        "name": "Лестница",
         "latitude": -20.473335,
         "longitude": 57.618676
     },
     {
-        "name": "La Flora",
+        "name": "Флора",
         "latitude": -20.410005,
         "longitude": 57.560487
     },
     {
-        "name": "Riviere Des Anguilles",
+        "name": "Ривьер-де-Ангиль",
         "latitude": -20.480612,
         "longitude": 57.558446
     },
     {
-        "name": "Rivi\u00e8re des Anguilles",
+        "name": "Река Ангиль",
         "latitude": -20.48528,
         "longitude": 57.55083
     },
     {
-        "name": "Rivi\u00e8re Du Poste",
+        "name": "Река Пост",
         "latitude": -20.428662,
         "longitude": 57.573681
     },
     {
-        "name": "Saint Aubin",
+        "name": "Сен-Обен",
         "latitude": -20.496,
         "longitude": 57.55
     },
     {
-        "name": "Souillac",
+        "name": "Суйяк",
         "latitude": -20.51667,
         "longitude": 57.51667
     },
     {
-        "name": "St Aubin",
+        "name": "Сент-Обен",
         "latitude": -20.494446,
         "longitude": 57.550335
     },
     {
-        "name": "Surinam",
+        "name": "Суринам",
         "latitude": -20.50972,
         "longitude": 57.50528
     }

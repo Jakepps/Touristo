@@ -1,126 +1,126 @@
 [
     {
-        "name": "Agadir",
+        "name": "Агадир",
         "latitude": 30.42018,
         "longitude": -9.59815
     },
     {
-        "name": "Agadir Melloul",
+        "name": "Агадир Меллул",
         "latitude": 30.22492,
         "longitude": -7.79601
     },
     {
-        "name": "Agadir-Ida-ou-Tnan",
+        "name": "Агадир-Ида-у-Тнан",
         "latitude": 30.58333,
         "longitude": -9.5
     },
     {
-        "name": "Aoulouz",
+        "name": "Аулуз",
         "latitude": 30.67307,
         "longitude": -8.18087
     },
     {
-        "name": "Aourir",
+        "name": "Аурир",
         "latitude": 30.49238,
         "longitude": -9.6355
     },
     {
-        "name": "Arazane",
+        "name": "Аразан",
         "latitude": 30.50346,
         "longitude": -8.60637
     },
     {
-        "name": "Argana",
+        "name": "Аргана",
         "latitude": 30.7825,
         "longitude": -9.11968
     },
     {
-        "name": "Bigoudine",
+        "name": "Бигудин",
         "latitude": 30.72376,
         "longitude": -9.21097
     },
     {
-        "name": "Chtouka-Ait-Baha",
+        "name": "Чтука-Айт-Баха",
         "latitude": 30.02948,
         "longitude": -9.30909
     },
     {
-        "name": "Inezgane",
+        "name": "Инезгане",
         "latitude": 30.35535,
         "longitude": -9.53639
     },
     {
-        "name": "Inezgane-Ait Melloul",
+        "name": "Инезгане-Айт-Меллуль",
         "latitude": 30.1,
         "longitude": -9.03333
     },
     {
-        "name": "Ouijjane",
+        "name": "Уижан",
         "latitude": 29.62777,
         "longitude": -9.53959
     },
     {
-        "name": "Oulad Te\u00efma",
+        "name": "Улад Тейма",
         "latitude": 30.39467,
         "longitude": -9.20897
     },
     {
-        "name": "Reggada",
+        "name": "Регада",
         "latitude": 29.58016,
         "longitude": -9.70086
     },
     {
-        "name": "Sidi Ifni",
+        "name": "Сиди Ифни",
         "latitude": 29.37975,
         "longitude": -10.17299
     },
     {
-        "name": "Tadrart",
+        "name": "Тадрарт",
         "latitude": 30.77477,
         "longitude": -9.45951
     },
     {
-        "name": "Tafraout",
+        "name": "Тафраут",
         "latitude": 29.72449,
         "longitude": -8.9747
     },
     {
-        "name": "Taghazout",
+        "name": "Тагазут",
         "latitude": 30.54259,
         "longitude": -9.71115
     },
     {
-        "name": "Taliouine",
+        "name": "Талиуин",
         "latitude": 30.52917,
         "longitude": -7.91262
     },
     {
-        "name": "Tamri",
+        "name": "Тамри",
         "latitude": 30.69602,
         "longitude": -9.82972
     },
     {
-        "name": "Tanalt",
+        "name": "Танальт",
         "latitude": 29.77548,
         "longitude": -9.16796
     },
     {
-        "name": "Taroudannt",
+        "name": "Тарудант",
         "latitude": 30.5,
         "longitude": -8.41667
     },
     {
-        "name": "Taroudant",
+        "name": "Тарудант",
         "latitude": 30.47028,
         "longitude": -8.87695
     },
     {
-        "name": "Tarsouat",
+        "name": "Тарсуат",
         "latitude": 29.58153,
         "longitude": -9.02664
     },
     {
-        "name": "Tata",
+        "name": "Тата",
         "latitude": 29.66667,
         "longitude": -7.83333
     },
@@ -130,552 +130,552 @@
         "longitude": -9.5
     },
     {
-        "name": "Azemmour",
+        "name": "Аземмур",
         "latitude": 33.28952,
         "longitude": -8.3425
     },
     {
-        "name": "Benslimane",
+        "name": "Бенслимане",
         "latitude": 33.5,
         "longitude": -7.16667
     },
     {
-        "name": "Berrechid",
+        "name": "Беррешид",
         "latitude": 33.26553,
         "longitude": -7.58754
     },
     {
-        "name": "Berrechid Province",
+        "name": "Провинция Беррешид",
         "latitude": 33.26582,
         "longitude": -7.58142
     },
     {
-        "name": "Boulaouane",
+        "name": "Булауан",
         "latitude": 32.85995,
         "longitude": -8.05555
     },
     {
-        "name": "Bouskoura",
+        "name": "Бускура",
         "latitude": 33.44976,
         "longitude": -7.65239
     },
     {
-        "name": "Bouznika",
+        "name": "Бузника",
         "latitude": 33.78942,
         "longitude": -7.15968
     },
     {
-        "name": "Casablanca",
+        "name": "Касабланка",
         "latitude": 33.5884,
         "longitude": -7.55785
     },
     {
-        "name": "El Jadid",
+        "name": "Эль-Джадид",
         "latitude": 33.25682,
         "longitude": -8.50882
     },
     {
-        "name": "El-Jadida",
+        "name": "Эль-Джадида",
         "latitude": 32.9,
         "longitude": -8.5
     },
     {
-        "name": "Mediouna",
+        "name": "Медиуна",
         "latitude": 33.52012,
         "longitude": -7.5035
     },
     {
-        "name": "Mohammedia",
+        "name": "Мохаммедия",
         "latitude": 33.68607,
         "longitude": -7.38298
     },
     {
-        "name": "Nouaceur",
+        "name": "Нуасер",
         "latitude": 33.45839,
         "longitude": -7.64726
     },
     {
-        "name": "Oualidia",
+        "name": "Уалидия",
         "latitude": 32.73372,
         "longitude": -9.03059
     },
     {
-        "name": "Oulad Frej",
+        "name": "Улад Фрей",
         "latitude": 32.95956,
         "longitude": -8.2274
     },
     {
-        "name": "Settat",
+        "name": "Сеттат",
         "latitude": 33.00103,
         "longitude": -7.61662
     },
     {
-        "name": "Settat Province",
+        "name": "Провинция Сеттат",
         "latitude": 33.08333,
         "longitude": -7.41667
     },
     {
-        "name": "Sidi Bennour",
+        "name": "Сиди Беннур",
         "latitude": 32.64896,
         "longitude": -8.42686
     },
     {
-        "name": "Sidi Smai\u2019il",
+        "name": "Сиди Смаил",
         "latitude": 32.82461,
         "longitude": -8.51122
     },
     {
-        "name": "Tit Mellil",
+        "name": "Тит Меллил",
         "latitude": 33.55808,
         "longitude": -7.48647
     },
     {
-        "name": "Zawyat an Nwa\u00e7er",
+        "name": "Завиат ан Нвасер",
         "latitude": 33.37981,
         "longitude": -7.61932
     },
     {
-        "name": "Agdz",
+        "name": "Агдз",
         "latitude": 30.69356,
         "longitude": -6.44628
     },
     {
-        "name": "Alnif",
+        "name": "Альниф",
         "latitude": 31.11411,
         "longitude": -5.17154
     },
     {
-        "name": "Aoufous",
+        "name": "Ауфус",
         "latitude": 31.68,
         "longitude": -4.17
     },
     {
-        "name": "Arfoud",
+        "name": "Арфуд",
         "latitude": 31.4353,
         "longitude": -4.23258
     },
     {
-        "name": "Errachidia",
+        "name": "Эррачидия",
         "latitude": 31.75,
         "longitude": -4.5
     },
     {
-        "name": "Imilchil",
+        "name": "Имильчил",
         "latitude": 32.15309,
         "longitude": -5.62453
     },
     {
-        "name": "Jebel Tiskaouine",
+        "name": "Джебель Тискауин",
         "latitude": 31.02722,
         "longitude": -5.11643
     },
     {
-        "name": "Jorf",
+        "name": "Йорф",
         "latitude": 31.49442,
         "longitude": -4.40598
     },
     {
-        "name": "Kelaat Mgouna",
+        "name": "Келаат Мгуна",
         "latitude": 31.24573,
         "longitude": -6.1326
     },
     {
-        "name": "Mhamid",
+        "name": "Мхамид",
         "latitude": 29.82,
         "longitude": -5.72
     },
     {
-        "name": "Midelt",
+        "name": "Мидельт",
         "latitude": 32.68055,
         "longitude": -4.73691
     },
     {
-        "name": "Ouarzazat",
+        "name": "Уарзазат",
         "latitude": 30.91894,
         "longitude": -6.89341
     },
     {
-        "name": "Ouarzazate",
+        "name": "Уарзазат",
         "latitude": 30.9413,
         "longitude": -6.90285
     },
     {
-        "name": "Re\u00e7ani",
+        "name": "Рекан",
         "latitude": 31.28318,
         "longitude": -4.26565
     },
     {
-        "name": "Taznakht",
+        "name": "Тазнахт",
         "latitude": 30.57836,
         "longitude": -7.20341
     },
     {
-        "name": "Telouet",
+        "name": "телуэт",
         "latitude": 31.28925,
         "longitude": -7.23789
     },
     {
-        "name": "Tinghir",
+        "name": "Тингир",
         "latitude": 31.51472,
         "longitude": -5.53278
     },
     {
-        "name": "Tinghir Province",
+        "name": "Провинция Тингир",
         "latitude": 31.51965,
         "longitude": -5.52999
     },
     {
-        "name": "Zagora",
+        "name": "Загора",
         "latitude": 30.34839,
         "longitude": -5.83649
     },
     {
-        "name": "A\u00efn Leuh",
+        "name": "Айн Леух",
         "latitude": 33.28984,
         "longitude": -5.33863
     },
     {
-        "name": "Aknoul",
+        "name": "Акнул",
         "latitude": 34.65371,
         "longitude": -3.86754
     },
     {
-        "name": "Almis Marmoucha",
+        "name": "Алмис Мармуча",
         "latitude": 33.32,
         "longitude": -4.18
     },
     {
-        "name": "Azrou",
+        "name": "Азру",
         "latitude": 33.43443,
         "longitude": -5.22126
     },
     {
-        "name": "Bhalil",
+        "name": "Бхалил",
         "latitude": 33.85194,
         "longitude": -4.87228
     },
     {
-        "name": "Bouarouss",
+        "name": "Буарус",
         "latitude": 34.36,
         "longitude": -4.81
     },
     {
-        "name": "Boulemane",
+        "name": "Булимане",
         "latitude": 33.16667,
         "longitude": -4.0
     },
     {
-        "name": "El Hajeb",
+        "name": "Эль-Хаджеб",
         "latitude": 33.68786,
         "longitude": -5.371
     },
     {
-        "name": "El-Hajeb",
+        "name": "Эль-Хаджеб",
         "latitude": 33.72883,
         "longitude": -5.46119
     },
     {
-        "name": "Fes",
+        "name": "Фес",
         "latitude": 34.04,
         "longitude": -4.87
     },
     {
-        "name": "F\u00e8s al Bali",
+        "name": "Фес аль Бали",
         "latitude": 34.0701,
         "longitude": -4.95473
     },
     {
-        "name": "Galaz",
+        "name": "Галаз",
         "latitude": 34.54424,
         "longitude": -4.80355
     },
     {
-        "name": "Ghouazi",
+        "name": "Гуази",
         "latitude": 34.47737,
         "longitude": -5.30235
     },
     {
-        "name": "Guercif",
+        "name": "Герсиф",
         "latitude": 34.22568,
         "longitude": -3.35361
     },
     {
-        "name": "Ifrane",
+        "name": "Ифран",
         "latitude": 33.33333,
         "longitude": -5.25
     },
     {
-        "name": "Meknes",
+        "name": "Мекнес",
         "latitude": 33.97761,
         "longitude": -5.52496
     },
     {
-        "name": "Missour",
+        "name": "Миссур",
         "latitude": 33.04893,
         "longitude": -3.98947
     },
     {
-        "name": "Moulay Bouchta",
+        "name": "Мулай Бухта",
         "latitude": 34.48922,
         "longitude": -5.13023
     },
     {
-        "name": "Moulay-Yacoub",
+        "name": "Мулай-Якуб",
         "latitude": 34.14558,
         "longitude": -5.10259
     },
     {
-        "name": "Oued Amlil",
+        "name": "Уэд Амлиль",
         "latitude": 34.2,
         "longitude": -4.28
     },
     {
-        "name": "Oulad Tayeb",
+        "name": "Улад Тайеб",
         "latitude": 33.94633,
         "longitude": -4.99509
     },
     {
-        "name": "Ourtzagh",
+        "name": "Урцах",
         "latitude": 34.53477,
         "longitude": -4.96878
     },
     {
-        "name": "Sefrou",
+        "name": "Сефру",
         "latitude": 33.79979,
         "longitude": -4.68
     },
     {
-        "name": "Tahla",
+        "name": "Привет",
         "latitude": 34.04965,
         "longitude": -4.42162
     },
     {
-        "name": "Talzemt",
+        "name": "Тальземт",
         "latitude": 33.59,
         "longitude": -4.19
     },
     {
-        "name": "Taounate",
+        "name": "Таунат",
         "latitude": 34.5,
         "longitude": -4.83333
     },
     {
-        "name": "Taza",
+        "name": "Чашка",
         "latitude": 34.25,
         "longitude": -3.75
     },
     {
-        "name": "Tmourghout",
+        "name": "Тмурхаут",
         "latitude": 33.9065,
         "longitude": -4.02696
     },
     {
-        "name": "Assa-Zag",
+        "name": "Асса-Заг",
         "latitude": 28.16667,
         "longitude": -9.41667
     },
     {
-        "name": "Guelmim",
+        "name": "Гулимим",
         "latitude": 28.75,
         "longitude": -10.0
     },
     {
-        "name": "Sidi Ifni",
+        "name": "Сиди Ифни",
         "latitude": 29.37719,
         "longitude": -10.17111
     },
     {
-        "name": "Tan-Tan",
+        "name": "Так себе",
         "latitude": 28.08333,
         "longitude": -11.08333
     },
     {
-        "name": "Arbaoua",
+        "name": "Арбауа",
         "latitude": 34.90239,
         "longitude": -5.94871
     },
     {
-        "name": "Had Kourt",
+        "name": "Имел суд",
         "latitude": 34.61588,
         "longitude": -5.7404
     },
     {
-        "name": "Kenitra",
+        "name": "Кентра",
         "latitude": 34.26101,
         "longitude": -6.5802
     },
     {
-        "name": "Kenitra Province",
+        "name": "Провинция Кенитра",
         "latitude": 34.58333,
         "longitude": -6.33333
     },
     {
-        "name": "Khemisset",
+        "name": "Хемиссет",
         "latitude": 33.66667,
         "longitude": -6.25
     },
     {
-        "name": "Mechraa Bel Ksiri",
+        "name": "Мехраа Бел Ксири",
         "latitude": 34.57373,
         "longitude": -5.95585
     },
     {
-        "name": "Oulmes",
+        "name": "Ульмес",
         "latitude": 33.42585,
         "longitude": -6.00137
     },
     {
-        "name": "Rabat",
+        "name": "Рабат",
         "latitude": 34.01325,
         "longitude": -6.83255
     },
     {
-        "name": "Sale",
+        "name": "Распродажа",
         "latitude": 34.0531,
         "longitude": -6.79846
     },
     {
-        "name": "Sidi Bousber",
+        "name": "Сиди Баусбер",
         "latitude": 34.56283,
         "longitude": -5.36208
     },
     {
-        "name": "Sidi Qacem",
+        "name": "Сиди Касем",
         "latitude": 34.22149,
         "longitude": -5.70775
     },
     {
-        "name": "Sidi Redouane",
+        "name": "Сиди Редуан",
         "latitude": 34.68692,
         "longitude": -5.44538
     },
     {
-        "name": "Sidi Slimane",
+        "name": "Сиди Слиман",
         "latitude": 34.26479,
         "longitude": -5.92598
     },
     {
-        "name": "Sidi Yahia El Gharb",
+        "name": "Сиди Яхья Эль Гарб",
         "latitude": 34.30494,
         "longitude": -6.30404
     },
     {
-        "name": "Sidi-Kacem",
+        "name": "Сиди-качем",
         "latitude": 34.58333,
         "longitude": -5.75
     },
     {
-        "name": "Skhirate",
+        "name": "Схирате",
         "latitude": 33.8527,
         "longitude": -7.03171
     },
     {
-        "name": "Skhirate-Temara",
+        "name": "Скирате-Темара",
         "latitude": 33.77,
         "longitude": -6.87
     },
     {
-        "name": "Souq Larb\u2019a al Gharb",
+        "name": "Сук Ларба аль Гарб",
         "latitude": 34.68664,
         "longitude": -6.00272
     },
     {
-        "name": "Temara",
+        "name": "Темара",
         "latitude": 33.92866,
         "longitude": -6.90656
     },
     {
-        "name": "Teroual",
+        "name": "Теруаль",
         "latitude": 34.67452,
         "longitude": -5.27331
     },
     {
-        "name": "Tiflet",
+        "name": "Тифлет",
         "latitude": 33.89469,
         "longitude": -6.30649
     },
     {
-        "name": "Aguelmous",
+        "name": "Агельмус",
         "latitude": 33.16139,
         "longitude": -5.84626
     },
     {
-        "name": "Al Fqih Ben \u00c7alah",
+        "name": "Аль Фких Бен Калах",
         "latitude": 32.50213,
         "longitude": -6.68771
     },
     {
-        "name": "Azilal",
+        "name": "Азилал",
         "latitude": 31.96156,
         "longitude": -6.57109
     },
     {
-        "name": "Azilal Province",
+        "name": "Провинция Азилал",
         "latitude": 31.91667,
         "longitude": -6.5
     },
     {
-        "name": "Beni Mellal",
+        "name": "Бени Меллал",
         "latitude": 32.33725,
         "longitude": -6.34983
     },
     {
-        "name": "Beni-Mellal",
+        "name": "Бени-Меллаль",
         "latitude": 32.5,
         "longitude": -6.33333
     },
     {
-        "name": "Boujniba",
+        "name": "Бужниба",
         "latitude": 32.90046,
         "longitude": -6.77464
     },
     {
-        "name": "Bzou",
+        "name": "Бзоу",
         "latitude": 32.09171,
         "longitude": -7.04786
     },
     {
-        "name": "Dar Ould Zidouh",
+        "name": "Дар Олд Зидух",
         "latitude": 32.31247,
         "longitude": -6.90494
     },
     {
-        "name": "Demnate",
+        "name": "достоинство",
         "latitude": 31.73443,
         "longitude": -7.00505
     },
     {
-        "name": "El Ksiba",
+        "name": "Эль Ксиба",
         "latitude": 32.57286,
         "longitude": -6.01947
     },
     {
-        "name": "Fquih Ben Salah Province",
+        "name": "Провинция Фуких-Бен-Салах",
         "latitude": 32.50108,
         "longitude": -6.68415
     },
     {
-        "name": "Ifrane",
+        "name": "Ифран",
         "latitude": 31.70217,
         "longitude": -6.3494
     },
     {
-        "name": "Isseksi",
+        "name": "Для папы",
         "latitude": 32.22981,
         "longitude": -6.27661
     },
     {
-        "name": "Itzer",
+        "name": "Ицер",
         "latitude": 32.8783,
         "longitude": -5.0515
     },
     {
-        "name": "Kasba Tadla",
+        "name": "Касба Тадла",
         "latitude": 32.5977,
         "longitude": -6.26844
     },
     {
-        "name": "Kerrouchen",
+        "name": "Керрушен",
         "latitude": 32.79639,
         "longitude": -5.3188
     },
@@ -685,437 +685,437 @@
         "longitude": -5.66667
     },
     {
-        "name": "Khouribga",
+        "name": "Хурибга",
         "latitude": 32.88108,
         "longitude": -6.9063
     },
     {
-        "name": "Khouribga Province",
+        "name": "Провинция Хурибга",
         "latitude": 32.93333,
         "longitude": -6.6
     },
     {
-        "name": "Midelt",
+        "name": "Мидельт",
         "latitude": 32.6852,
         "longitude": -4.74512
     },
     {
-        "name": "Ouaoula",
+        "name": "Уаула",
         "latitude": 31.87,
         "longitude": -6.75
     },
     {
-        "name": "Oued Zem",
+        "name": "Уэд Зем",
         "latitude": 32.8627,
         "longitude": -6.57359
     },
     {
-        "name": "Sidi Jaber",
+        "name": "Сиди Джабер",
         "latitude": 32.38952,
         "longitude": -6.42095
     },
     {
-        "name": "Timoulilt",
+        "name": "Тимулильт",
         "latitude": 32.20368,
         "longitude": -6.4666
     },
     {
-        "name": "Zawyat ech Che\u00efkh",
+        "name": "Завят и Шейх",
         "latitude": 32.64445,
         "longitude": -5.91826
     },
     {
-        "name": "Ahfir",
+        "name": "Ахфир",
         "latitude": 34.95368,
         "longitude": -2.10027
     },
     {
-        "name": "A\u00efn Beni Mathar",
+        "name": "Айн Бени Матар",
         "latitude": 34.0097,
         "longitude": -2.03238
     },
     {
-        "name": "Al Aaroui",
+        "name": "Аль-Ааруи",
         "latitude": 35.0109,
         "longitude": -3.00938
     },
     {
-        "name": "Berkane",
+        "name": "Беркане",
         "latitude": 34.61,
         "longitude": -2.57
     },
     {
-        "name": "Bouarfa",
+        "name": "Буарфа",
         "latitude": 32.53379,
         "longitude": -1.96209
     },
     {
-        "name": "Debdou",
+        "name": "Дебду",
         "latitude": 33.98228,
         "longitude": -3.04263
     },
     {
-        "name": "Driouch Province",
+        "name": "Провинция Дриуш",
         "latitude": 34.9767,
         "longitude": -3.38842
     },
     {
-        "name": "El A\u00efoun",
+        "name": "Эль-Аюн",
         "latitude": 34.58319,
         "longitude": -2.50612
     },
     {
-        "name": "Figuig",
+        "name": "Фигиг",
         "latitude": 32.83333,
         "longitude": -2.25
     },
     {
-        "name": "Guercif Province",
+        "name": "Провинция Герсиф",
         "latitude": 34.25041,
         "longitude": -3.32542
     },
     {
-        "name": "Jerada",
+        "name": "Джерада",
         "latitude": 34.23662,
         "longitude": -2.04284
     },
     {
-        "name": "Madagh",
+        "name": "Много",
         "latitude": 35.01032,
         "longitude": -2.33701
     },
     {
-        "name": "Midar",
+        "name": "Мидар",
         "latitude": 34.94025,
         "longitude": -3.53311
     },
     {
-        "name": "Nador",
+        "name": "надор",
         "latitude": 35.0,
         "longitude": -3.0
     },
     {
-        "name": "Oujda-Angad",
+        "name": "Ужда-Ангад",
         "latitude": 34.236,
         "longitude": -2.294
     },
     {
-        "name": "Saidia",
+        "name": "Помощь",
         "latitude": 35.08195,
         "longitude": -2.22897
     },
     {
-        "name": "Selouane",
+        "name": "Селуан",
         "latitude": 35.07313,
         "longitude": -2.9423
     },
     {
-        "name": "Taourirt",
+        "name": "Таурирт",
         "latitude": 34.40731,
         "longitude": -2.89732
     },
     {
-        "name": "Tiztoutine",
+        "name": "Тизтутин",
         "latitude": 34.97159,
         "longitude": -3.15273
     },
     {
-        "name": "Za\u00efo",
+        "name": "Зайо",
         "latitude": 34.94282,
         "longitude": -2.7329
     },
     {
-        "name": "Akhfennir",
+        "name": "Ахфеннир",
         "latitude": 28.09455,
         "longitude": -12.05157
     },
     {
-        "name": "Boujdour",
+        "name": "Буждур",
         "latitude": 25.66172,
         "longitude": -13.68419
     },
     {
-        "name": "Es-Semara",
+        "name": "Эс-Семара",
         "latitude": 27.75,
         "longitude": -11.0
     },
     {
-        "name": "Gueltat Zemmour",
+        "name": "Гельтат Земмур",
         "latitude": 25.14276,
         "longitude": -12.37168
     },
     {
-        "name": "Laayoune",
+        "name": "Эль-Аюн",
         "latitude": 27.83333,
         "longitude": -12.33333
     },
     {
-        "name": "Smara",
+        "name": "Смара",
         "latitude": 26.73841,
         "longitude": -11.67194
     },
     {
-        "name": "Tarfaya",
+        "name": "Тарфая",
         "latitude": 27.93901,
         "longitude": -12.92082
     },
     {
-        "name": "Aousserd",
+        "name": "Ауссерд",
         "latitude": 21.91977,
         "longitude": -15.02068
     },
     {
-        "name": "Imlili",
+        "name": "Иммили",
         "latitude": 22.6558,
         "longitude": -15.60719
     },
     {
-        "name": "Oued-Ed-Dahab",
+        "name": "Уэд-Эд-Дахаб",
         "latitude": 23.64201,
         "longitude": -14.44934
     },
     {
-        "name": "Abadou",
+        "name": "Абаду",
         "latitude": 31.57917,
         "longitude": -7.31308
     },
     {
-        "name": "Adassil",
+        "name": "Адасиль",
         "latitude": 31.10783,
         "longitude": -8.49083
     },
     {
-        "name": "Al-Haouz",
+        "name": "Аль-Хауз",
         "latitude": 31.34083,
         "longitude": -7.91076
     },
     {
-        "name": "Bouabout",
+        "name": "Буабут",
         "latitude": 31.26554,
         "longitude": -9.17865
     },
     {
-        "name": "Chichaoua",
+        "name": "Чичауа",
         "latitude": 31.26365,
         "longitude": -8.84411
     },
     {
-        "name": "Essaouira",
+        "name": "Эс-Сувейра",
         "latitude": 31.50675,
         "longitude": -9.75655
     },
     {
-        "name": "Kelaa-Des-Sraghna",
+        "name": "Келаа-Дез-Срагна",
         "latitude": 32.16667,
         "longitude": -7.75
     },
     {
-        "name": "Marrakech",
+        "name": "Марракеш",
         "latitude": 31.63623,
         "longitude": -8.01041
     },
     {
-        "name": "Marrakesh",
+        "name": "Марракеш",
         "latitude": 31.63416,
         "longitude": -7.99994
     },
     {
-        "name": "Ouka\u00efmedene",
+        "name": "Укаймедене",
         "latitude": 31.20603,
         "longitude": -7.86089
     },
     {
-        "name": "Rehamna",
+        "name": "Милосердие",
         "latitude": 32.24581,
         "longitude": -7.93144
     },
     {
-        "name": "Safi",
+        "name": "Сафи",
         "latitude": 32.16667,
         "longitude": -8.83333
     },
     {
-        "name": "Setti Fatma",
+        "name": "Сетти Фатма",
         "latitude": 31.22508,
         "longitude": -7.67751
     },
     {
-        "name": "Sidi Rahhal",
+        "name": "Мой господин Рахал",
         "latitude": 31.65031,
         "longitude": -7.47288
     },
     {
-        "name": "Smimou",
+        "name": "Смиму",
         "latitude": 31.21014,
         "longitude": -9.70863
     },
     {
-        "name": "Tamanar",
+        "name": "Таманар",
         "latitude": 31.00087,
         "longitude": -9.67802
     },
     {
-        "name": "Taouloukoult",
+        "name": "Таулукульт",
         "latitude": 31.22218,
         "longitude": -9.07943
     },
     {
-        "name": "Tidili Mesfioua",
+        "name": "Тидили Месфиуа",
         "latitude": 31.46586,
         "longitude": -7.61199
     },
     {
-        "name": "Timezgadiouine",
+        "name": "Тимезгадиуин",
         "latitude": 30.88366,
         "longitude": -9.04548
     },
     {
-        "name": "Youssoufia",
+        "name": "Юсуфия",
         "latitude": 32.24634,
         "longitude": -8.52941
     },
     {
-        "name": "Zerkten",
+        "name": "Церктен",
         "latitude": 31.4447,
         "longitude": -7.39224
     },
     {
-        "name": "Al Hoce\u00efma",
+        "name": "В Хосейму",
         "latitude": 35.25165,
         "longitude": -3.93723
     },
     {
-        "name": "Al-Hoceima",
+        "name": "Аль-Хосейма",
         "latitude": 35.0,
         "longitude": -4.25
     },
     {
-        "name": "Asilah",
+        "name": "Асила",
         "latitude": 35.46522,
         "longitude": -6.03415
     },
     {
-        "name": "Bni Bouayach",
+        "name": "Бни Буаяч",
         "latitude": 35.10506,
         "longitude": -3.84028
     },
     {
-        "name": "Brikcha",
+        "name": "Кирпич",
         "latitude": 34.96732,
         "longitude": -5.57295
     },
     {
-        "name": "Cap Negro II",
+        "name": "Черная кепка II",
         "latitude": 35.6597,
         "longitude": -5.28525
     },
     {
-        "name": "Chefchaouen Province",
+        "name": "Провинция Шефшауэн",
         "latitude": 35.0,
         "longitude": -5.08333
     },
     {
-        "name": "Chefchaouene",
+        "name": "Шефшауэн",
         "latitude": 35.16878,
         "longitude": -5.2636
     },
     {
-        "name": "Derdara",
+        "name": "Округ",
         "latitude": 35.11041,
         "longitude": -5.29015
     },
     {
-        "name": "Fahs-Anjra",
+        "name": "Фахс-Анджра",
         "latitude": 35.74,
         "longitude": -5.68
     },
     {
-        "name": "Fnidek",
+        "name": "Фнидек",
         "latitude": 35.84906,
         "longitude": -5.35747
     },
     {
-        "name": "Imzouren",
+        "name": "Имзурен",
         "latitude": 35.14637,
         "longitude": -3.85063
     },
     {
-        "name": "Ksar El Kebir",
+        "name": "Ксар Эль Кебир",
         "latitude": 35.00044,
         "longitude": -5.90378
     },
     {
-        "name": "Larache",
+        "name": "Лараш",
         "latitude": 35.16667,
         "longitude": -5.83333
     },
     {
-        "name": "M'Diq-Fnideq",
+        "name": "М'Дик-Фнидек",
         "latitude": 35.85743,
         "longitude": -5.35858
     },
     {
-        "name": "Martil",
+        "name": "Молоток",
         "latitude": 35.61662,
         "longitude": -5.27522
     },
     {
-        "name": "Oued Laou",
+        "name": "Уэд Лао",
         "latitude": 35.4484,
         "longitude": -5.09627
     },
     {
-        "name": "Ouezzane",
+        "name": "Уэззан",
         "latitude": 34.79584,
         "longitude": -5.57849
     },
     {
-        "name": "Ouezzane Province",
+        "name": "Провинция Уэззан",
         "latitude": 34.79759,
         "longitude": -5.58603
     },
     {
-        "name": "Senada",
+        "name": "Так же",
         "latitude": 35.07452,
         "longitude": -4.21583
     },
     {
-        "name": "Tamorot",
+        "name": "Таморот",
         "latitude": 34.93632,
         "longitude": -4.7794
     },
     {
-        "name": "Tanger-Assilah",
+        "name": "Танжер-Ассила",
         "latitude": 35.59,
         "longitude": -5.9
     },
     {
-        "name": "Tangier",
+        "name": "Танжер",
         "latitude": 35.76727,
         "longitude": -5.79975
     },
     {
-        "name": "Targuist",
+        "name": "Таргист",
         "latitude": 34.93769,
         "longitude": -4.31856
     },
     {
-        "name": "Tetouan",
+        "name": "Тетуан",
         "latitude": 35.58333,
         "longitude": -5.5
     },
     {
-        "name": "Tirhanim\u00eene",
+        "name": "Не волнуйся",
         "latitude": 35.23619,
         "longitude": -3.95453
     },
     {
-        "name": "Zinat",
+        "name": "Знать",
         "latitude": 35.43,
         "longitude": -5.4
     },
     {
-        "name": "Zoumi",
+        "name": "Зуми",
         "latitude": 34.80321,
         "longitude": -5.34458
     }

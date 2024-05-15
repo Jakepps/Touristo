@@ -1,231 +1,231 @@
 [
     {
-        "name": "Bhimbar",
+        "name": "Бхимбар",
         "latitude": 32.97465,
         "longitude": 74.07846
     },
     {
-        "name": "Kotli",
+        "name": "Котлы",
         "latitude": 33.51836,
         "longitude": 73.9022
     },
     {
-        "name": "Kotli District",
+        "name": "Котлинский район",
         "latitude": 33.44559,
         "longitude": 73.91557
     },
     {
-        "name": "Mirpur District",
+        "name": "Мирпурский район",
         "latitude": 33.21556,
         "longitude": 73.75144
     },
     {
-        "name": "Muzaffar\u0101b\u0101d",
+        "name": "Музаффарабад",
         "latitude": 34.37002,
         "longitude": 73.47082
     },
     {
-        "name": "New Mirpur",
+        "name": "Нью-Мирпур",
         "latitude": 33.14782,
         "longitude": 73.75187
     },
     {
-        "name": "Rawala Kot",
+        "name": "Равала Кот",
         "latitude": 33.85782,
         "longitude": 73.76043
     },
     {
-        "name": "Alik Ghund",
+        "name": "Алик Гунд",
         "latitude": 30.48976,
         "longitude": 67.52177
     },
     {
-        "name": "Aw\u0101r\u0101n District",
+        "name": "Аваранский район",
         "latitude": 26.21157,
         "longitude": 65.42944
     },
     {
-        "name": "Barkhan",
+        "name": "Бархан",
         "latitude": 29.89773,
         "longitude": 69.52558
     },
     {
-        "name": "B\u0101rkh\u0101n District",
+        "name": "Барханский район",
         "latitude": 29.98482,
         "longitude": 69.69944
     },
     {
-        "name": "Bela",
+        "name": "Бела",
         "latitude": 26.22718,
         "longitude": 66.31178
     },
     {
-        "name": "Bhag",
+        "name": "Часть",
         "latitude": 29.04174,
         "longitude": 67.82394
     },
     {
-        "name": "Ch\u0101gai District",
+        "name": "Чагайский район",
         "latitude": 28.98765,
         "longitude": 63.59087
     },
     {
-        "name": "Chaman",
+        "name": "они звонят",
         "latitude": 30.91769,
         "longitude": 66.45259
     },
     {
-        "name": "Chowki Jamali",
+        "name": "Чоуки Джамали",
         "latitude": 28.01944,
         "longitude": 67.92083
     },
     {
-        "name": "Dadhar",
+        "name": "Дадар",
         "latitude": 29.47489,
         "longitude": 67.65167
     },
     {
-        "name": "Dalbandin",
+        "name": "Заказ",
         "latitude": 28.88846,
         "longitude": 64.40616
     },
     {
-        "name": "Dera Bugti",
+        "name": "Дера Бугти",
         "latitude": 29.03619,
         "longitude": 69.15849
     },
     {
-        "name": "Dera Bugti District",
+        "name": "Дера Бугти Район",
         "latitude": 28.9425,
         "longitude": 69.06883
     },
     {
-        "name": "Duki",
+        "name": "Дуки",
         "latitude": 30.15307,
         "longitude": 68.57323
     },
     {
-        "name": "Gadani",
+        "name": "Гадани",
         "latitude": 25.11879,
         "longitude": 66.73219
     },
     {
-        "name": "Garhi Khairo",
+        "name": "Гархи Хайро",
         "latitude": 28.06029,
         "longitude": 67.98033
     },
     {
-        "name": "Gwadar",
+        "name": "Попробуй",
         "latitude": 25.12163,
         "longitude": 62.32541
     },
     {
-        "name": "Harnai",
+        "name": "Харнаи",
         "latitude": 30.10077,
         "longitude": 67.93824
     },
     {
-        "name": "J\u0101far\u0101b\u0101d District",
+        "name": "Пожалуйста, заполните Район",
         "latitude": 28.30104,
         "longitude": 68.19783
     },
     {
-        "name": "Jhal Magsi District",
+        "name": "Джалмагсинский район",
         "latitude": 28.36881,
         "longitude": 67.543
     },
     {
-        "name": "Jiwani",
+        "name": "Дживани",
         "latitude": 25.04852,
         "longitude": 61.74573
     },
     {
-        "name": "Kalat",
+        "name": "беспорядок",
         "latitude": 29.02663,
         "longitude": 66.59361
     },
     {
-        "name": "Kal\u0101t District",
+        "name": "Калатский район",
         "latitude": 28.88242,
         "longitude": 66.53165
     },
     {
-        "name": "Khadan Khak",
+        "name": "Хадан Хак",
         "latitude": 30.75236,
         "longitude": 67.71133
     },
     {
-        "name": "Kharan",
+        "name": "Харан",
         "latitude": 28.58459,
         "longitude": 65.41501
     },
     {
-        "name": "Kh\u0101r\u0101n District",
+        "name": "Харанский район",
         "latitude": 27.96308,
         "longitude": 64.57113
     },
     {
-        "name": "Khuzdar",
+        "name": "Хуздар",
         "latitude": 27.81193,
         "longitude": 66.61096
     },
     {
-        "name": "Khuzd\u0101r District",
+        "name": "Хуздарский район",
         "latitude": 27.4868,
         "longitude": 66.58703
     },
     {
-        "name": "Kohlu",
+        "name": "В списке",
         "latitude": 29.89651,
         "longitude": 69.25324
     },
     {
-        "name": "Kot Malik Barkhurdar",
+        "name": "Кот Малик Бархурдар",
         "latitude": 30.20379,
         "longitude": 66.98723
     },
     {
-        "name": "Lasbela District",
+        "name": "Ласбелский район",
         "latitude": 25.78634,
         "longitude": 66.6033
     },
     {
-        "name": "Loralai",
+        "name": "Лорал",
         "latitude": 30.37051,
         "longitude": 68.59795
     },
     {
-        "name": "Loralai District",
+        "name": "Лоралайский район",
         "latitude": 30.30253,
         "longitude": 68.84636
     },
     {
-        "name": "Mach",
+        "name": "Мах",
         "latitude": 29.86371,
         "longitude": 67.33018
     },
     {
-        "name": "Mastung",
+        "name": "откорм",
         "latitude": 29.79966,
         "longitude": 66.84553
     },
     {
-        "name": "Mastung District",
+        "name": "Мастунгский район",
         "latitude": 29.79455,
         "longitude": 66.72068
     },
     {
-        "name": "Mehrabpur",
+        "name": "Мехрабпур",
         "latitude": 28.10773,
         "longitude": 68.02554
     },
     {
-        "name": "M\u016bsa Khel District",
+        "name": "Наш Хельский район",
         "latitude": 30.84937,
         "longitude": 69.90069
     },
     {
-        "name": "Nas\u012br\u0101b\u0101d District",
+        "name": "Насирабадский район",
         "latitude": 28.62643,
         "longitude": 68.12925
     },
@@ -235,597 +235,597 @@
         "longitude": 66.02288
     },
     {
-        "name": "Ormara",
+        "name": "Гардероб",
         "latitude": 25.21018,
         "longitude": 64.63626
     },
     {
-        "name": "Panjg\u016br District",
+        "name": "Панджгурский район",
         "latitude": 26.7375,
         "longitude": 64.2038
     },
     {
-        "name": "Pasni",
+        "name": "Обращать внимание",
         "latitude": 25.26302,
         "longitude": 63.46921
     },
     {
-        "name": "Pishin",
+        "name": "Напиток",
         "latitude": 30.58176,
         "longitude": 66.99406
     },
     {
-        "name": "Qila Saifull\u0101h District",
+        "name": "Кила Сайфуллахский район",
         "latitude": 30.95392,
         "longitude": 68.33996
     },
     {
-        "name": "Quetta",
+        "name": "Кветта",
         "latitude": 30.18414,
         "longitude": 67.00141
     },
     {
-        "name": "Quetta District",
+        "name": "Кветта Район",
         "latitude": 30.17458,
         "longitude": 66.76203
     },
     {
-        "name": "Sibi",
+        "name": "Сам",
         "latitude": 29.54299,
         "longitude": 67.87726
     },
     {
-        "name": "Sohbatpur",
+        "name": "Сохбатпур",
         "latitude": 28.52038,
         "longitude": 68.54298
     },
     {
-        "name": "Surab",
+        "name": "спрашивать",
         "latitude": 28.49276,
         "longitude": 66.25999
     },
     {
-        "name": "Turbat",
+        "name": "Безумный",
         "latitude": 26.00122,
         "longitude": 63.04849
     },
     {
-        "name": "Usta Muhammad",
+        "name": "Уста Мухаммад",
         "latitude": 28.17723,
         "longitude": 68.04367
     },
     {
-        "name": "Uthal",
+        "name": "Утаал",
         "latitude": 25.80722,
         "longitude": 66.62194
     },
     {
-        "name": "Zhob",
+        "name": "Жоб",
         "latitude": 31.34082,
         "longitude": 69.4493
     },
     {
-        "name": "Zhob District",
+        "name": "Жобский район",
         "latitude": 31.36444,
         "longitude": 69.20749
     },
     {
-        "name": "Ziarat",
+        "name": "Зиарат",
         "latitude": 30.38244,
         "longitude": 67.72562
     },
     {
-        "name": "Zi\u0101rat District",
+        "name": "Зиаратский район",
         "latitude": 30.43591,
         "longitude": 67.50962
     },
     {
-        "name": "Alizai",
+        "name": "Ализай",
         "latitude": 33.53613,
         "longitude": 70.34607
     },
     {
-        "name": "Gulishah Kach",
+        "name": "Гулишах Кач",
         "latitude": 32.67087,
         "longitude": 70.33917
     },
     {
-        "name": "Landi Kotal",
+        "name": "Ланди Котал",
         "latitude": 34.0988,
         "longitude": 71.14108
     },
     {
-        "name": "Miran Shah",
+        "name": "Миран Шах",
         "latitude": 33.00059,
         "longitude": 70.07117
     },
     {
-        "name": "North Waz\u012brist\u0101n Agency",
+        "name": "Агентство Северного Вазиристана",
         "latitude": 32.95087,
         "longitude": 69.95764
     },
     {
-        "name": "Shinpokh",
+        "name": "Шинпох",
         "latitude": 34.32959,
         "longitude": 71.17852
     },
     {
-        "name": "South Waz\u012brist\u0101n Agency",
+        "name": "Агентство Южного Вазиристана",
         "latitude": 32.30397,
         "longitude": 69.68207
     },
     {
-        "name": "Wana",
+        "name": "У них есть",
         "latitude": 32.29889,
         "longitude": 69.5725
     },
     {
-        "name": "Barishal",
+        "name": "Баришал",
         "latitude": 36.32162,
         "longitude": 74.69502
     },
     {
-        "name": "Gilgit",
+        "name": "Гилгит",
         "latitude": 35.91869,
         "longitude": 74.31245
     },
     {
-        "name": "Skardu",
+        "name": "Банка",
         "latitude": 35.29787,
         "longitude": 75.63372
     },
     {
-        "name": "Islamabad",
+        "name": "Исламабад",
         "latitude": 33.72148,
         "longitude": 73.04329
     },
     {
-        "name": "Abbottabad",
+        "name": "Абботтабад",
         "latitude": 34.1463,
         "longitude": 73.21168
     },
     {
-        "name": "Akora",
+        "name": "Ингредиенты",
         "latitude": 34.00337,
         "longitude": 72.12561
     },
     {
-        "name": "Aman Garh",
+        "name": "Аман Гарх",
         "latitude": 34.00584,
         "longitude": 71.92971
     },
     {
-        "name": "Amirabad",
+        "name": "Эмирейтс",
         "latitude": 34.18729,
         "longitude": 73.09078
     },
     {
-        "name": "Ashanagro Koto",
+        "name": "Ашанагро Кото",
         "latitude": 34.10773,
         "longitude": 72.24517
     },
     {
-        "name": "Baffa",
+        "name": "Баффа",
         "latitude": 34.4377,
         "longitude": 73.22368
     },
     {
-        "name": "Bannu",
+        "name": "запретить",
         "latitude": 32.98527,
         "longitude": 70.60403
     },
     {
-        "name": "Bat Khela",
+        "name": "играл битой",
         "latitude": 34.6178,
         "longitude": 71.97247
     },
     {
-        "name": "Battagram",
+        "name": "Баттаграм",
         "latitude": 34.67719,
         "longitude": 73.02329
     },
     {
-        "name": "Battagram District",
+        "name": "Баттаграмский район",
         "latitude": 34.68051,
         "longitude": 73.00535
     },
     {
-        "name": "Buner District",
+        "name": "Бунерский район",
         "latitude": 34.44301,
         "longitude": 72.49933
     },
     {
-        "name": "Charsadda",
+        "name": "Чарсадда",
         "latitude": 34.14822,
         "longitude": 71.7406
     },
     {
-        "name": "Cherat Cantonement",
+        "name": "Кантонмент Черат",
         "latitude": 33.82342,
         "longitude": 71.89292
     },
     {
-        "name": "Chitral",
+        "name": "Читрал",
         "latitude": 35.8518,
         "longitude": 71.78636
     },
     {
-        "name": "Dera Ismail Khan",
+        "name": "Дера Исмаил Хан",
         "latitude": 31.83129,
         "longitude": 70.9017
     },
     {
-        "name": "Dera Ism\u0101\u012bl Kh\u0101n District",
+        "name": "Район Дера Исмаил Хан",
         "latitude": 31.85963,
         "longitude": 70.64879
     },
     {
-        "name": "Doaba",
+        "name": "Доаба",
         "latitude": 33.4245,
         "longitude": 70.73676
     },
     {
-        "name": "Hangu",
+        "name": "Конечно",
         "latitude": 33.53198,
         "longitude": 71.0595
     },
     {
-        "name": "Haripur",
+        "name": "Харипур",
         "latitude": 33.99783,
         "longitude": 72.93493
     },
     {
-        "name": "Havelian",
+        "name": "Гавелиан",
         "latitude": 34.05348,
         "longitude": 73.15993
     },
     {
-        "name": "Kakad Wari Dir Upper",
+        "name": "Какад Вари Дир Верхний",
         "latitude": 34.99798,
         "longitude": 72.07295
     },
     {
-        "name": "Karak",
+        "name": "Карак",
         "latitude": 33.11633,
         "longitude": 71.09354
     },
     {
-        "name": "Khalabat",
+        "name": "Халабат",
         "latitude": 34.05997,
         "longitude": 72.88963
     },
     {
-        "name": "Kohat",
+        "name": "Кохат",
         "latitude": 33.58196,
         "longitude": 71.44929
     },
     {
-        "name": "Kulachi",
+        "name": "Кулачи",
         "latitude": 31.93058,
         "longitude": 70.45959
     },
     {
-        "name": "Lachi",
+        "name": "Четверг",
         "latitude": 33.38291,
         "longitude": 71.33733
     },
     {
-        "name": "Lakki",
+        "name": "Лак",
         "latitude": 32.60724,
         "longitude": 70.91234
     },
     {
-        "name": "Mansehra",
+        "name": "Мансехра",
         "latitude": 34.33023,
         "longitude": 73.19679
     },
     {
-        "name": "Mardan",
+        "name": "Мардан",
         "latitude": 34.19794,
         "longitude": 72.04965
     },
     {
-        "name": "Mingora",
+        "name": "Мингора",
         "latitude": 34.7795,
         "longitude": 72.36265
     },
     {
-        "name": "Noorabad",
+        "name": "Нурабад",
         "latitude": 34.25195,
         "longitude": 71.96656
     },
     {
-        "name": "Nowshera",
+        "name": "Новшера",
         "latitude": 34.01583,
         "longitude": 71.98123
     },
     {
-        "name": "Nowshera Cantonment",
+        "name": "Кантонмент Новшера",
         "latitude": 33.99829,
         "longitude": 71.99834
     },
     {
-        "name": "Pabbi",
+        "name": "Папа",
         "latitude": 34.00968,
         "longitude": 71.79445
     },
     {
-        "name": "Paharpur",
+        "name": "Пахарпур",
         "latitude": 32.10502,
         "longitude": 70.97055
     },
     {
-        "name": "Peshawar",
+        "name": "Пешавар",
         "latitude": 34.008,
         "longitude": 71.57849
     },
     {
-        "name": "Risalpur Cantonment",
+        "name": "Кантонмент Рисалпур",
         "latitude": 34.06048,
         "longitude": 71.99276
     },
     {
-        "name": "Sarai Naurang",
+        "name": "Сарай Науранг",
         "latitude": 32.82581,
         "longitude": 70.78107
     },
     {
-        "name": "Shabqadar",
+        "name": "Шабкадар",
         "latitude": 34.21599,
         "longitude": 71.5548
     },
     {
-        "name": "Shingli Bala",
+        "name": "Шингли Бала",
         "latitude": 34.67872,
         "longitude": 72.98491
     },
     {
-        "name": "Shorkot",
+        "name": "Шоркот",
         "latitude": 31.91023,
         "longitude": 70.87757
     },
     {
-        "name": "Swabi",
+        "name": "сваби",
         "latitude": 34.12018,
         "longitude": 72.46982
     },
     {
-        "name": "Tangi",
+        "name": "Плакать",
         "latitude": 34.3009,
         "longitude": 71.65238
     },
     {
-        "name": "Tank",
+        "name": "Бак",
         "latitude": 32.21707,
         "longitude": 70.38315
     },
     {
-        "name": "Thal",
+        "name": "Тал",
         "latitude": 35.47836,
         "longitude": 72.24383
     },
     {
-        "name": "Topi",
+        "name": "Топи",
         "latitude": 34.07034,
         "longitude": 72.62147
     },
     {
-        "name": "Upper Dir",
+        "name": "Верхний Дир",
         "latitude": 35.2074,
         "longitude": 71.8768
     },
     {
-        "name": "Utmanzai",
+        "name": "Утманзай",
         "latitude": 34.18775,
         "longitude": 71.76274
     },
     {
-        "name": "Zaida",
+        "name": "Зайда",
         "latitude": 34.0595,
         "longitude": 72.4669
     },
     {
-        "name": "Ahmadpur Sial",
+        "name": "Ахмадпур Дерьмо",
         "latitude": 30.67791,
         "longitude": 71.74344
     },
     {
-        "name": "Ahmedpur East",
+        "name": "Ахмедпур Восток",
         "latitude": 29.14269,
         "longitude": 71.25771
     },
     {
-        "name": "Alipur Chatha",
+        "name": "Алипур Чатха",
         "latitude": 29.38242,
         "longitude": 70.91106
     },
     {
-        "name": "Arifwala",
+        "name": "Арифвала",
         "latitude": 30.29058,
         "longitude": 73.06574
     },
     {
-        "name": "Attock Tehsil",
+        "name": "Атток Техсил",
         "latitude": 33.76671,
         "longitude": 72.35977
     },
     {
-        "name": "Baddomalhi",
+        "name": "Баддомали",
         "latitude": 31.99042,
         "longitude": 74.6641
     },
     {
-        "name": "Bahawalnagar",
+        "name": "Бахавалнагар",
         "latitude": 29.99835,
         "longitude": 73.25272
     },
     {
-        "name": "Bahawalpur",
+        "name": "Бахавалпур",
         "latitude": 29.39779,
         "longitude": 71.6752
     },
     {
-        "name": "Bakhri Ahmad Khan",
+        "name": "Бахри Ахмад Хан",
         "latitude": 30.73586,
         "longitude": 70.83796
     },
     {
-        "name": "Basirpur",
+        "name": "Басирпур",
         "latitude": 30.57759,
         "longitude": 73.83912
     },
     {
-        "name": "Basti Dosa",
+        "name": "Басти Доса",
         "latitude": 30.78769,
         "longitude": 70.86853
     },
     {
-        "name": "Begowala",
+        "name": "Беговала",
         "latitude": 32.43816,
         "longitude": 74.26794
     },
     {
-        "name": "Bhakkar",
+        "name": "Бхаккар",
         "latitude": 31.62685,
         "longitude": 71.06471
     },
     {
-        "name": "Bhalwal",
+        "name": "Бхалвал",
         "latitude": 32.26576,
         "longitude": 72.89809
     },
     {
-        "name": "Bhawana",
+        "name": "Бхавана",
         "latitude": 31.56884,
         "longitude": 72.64917
     },
     {
-        "name": "Bhera",
+        "name": "Белл",
         "latitude": 32.48206,
         "longitude": 72.90865
     },
     {
-        "name": "Bhopalwala",
+        "name": "Бхопалвала",
         "latitude": 32.42968,
         "longitude": 74.3635
     },
     {
-        "name": "Burewala",
+        "name": "Буревала",
         "latitude": 30.16667,
         "longitude": 72.65
     },
     {
-        "name": "Chak Azam Saffo",
+        "name": "Чак Азам Сафо",
         "latitude": 30.75202,
         "longitude": 73.02834
     },
     {
-        "name": "Chak Jhumra",
+        "name": "Чак Джумра",
         "latitude": 31.56808,
         "longitude": 73.18317
     },
     {
-        "name": "Chak One Hundred Twenty Nine Left",
+        "name": "Чак осталось сто двадцать девять",
         "latitude": 30.42919,
         "longitude": 73.04522
     },
     {
-        "name": "Chak Thirty-one -Eleven Left",
+        "name": "Чак Тридцать один - Осталось одиннадцать",
         "latitude": 30.42388,
         "longitude": 72.69737
     },
     {
-        "name": "Chak Two Hundred Forty-Nine TDA",
+        "name": "Чак двести сорок девять TDA",
         "latitude": 31.17772,
         "longitude": 71.2048
     },
     {
-        "name": "Chakwal",
+        "name": "Чаквал",
         "latitude": 32.93286,
         "longitude": 72.85394
     },
     {
-        "name": "Chawinda",
+        "name": "Это ушло",
         "latitude": 32.34434,
         "longitude": 74.70507
     },
     {
-        "name": "Chichawatni",
+        "name": "Жениться",
         "latitude": 30.5301,
         "longitude": 72.69155
     },
     {
-        "name": "Chiniot",
+        "name": "Чиниот",
         "latitude": 31.72091,
         "longitude": 72.97836
     },
     {
-        "name": "Chishtian",
+        "name": "Чиштиан",
         "latitude": 29.79713,
         "longitude": 72.85772
     },
     {
-        "name": "Choa Saidanshah",
+        "name": "Чоа Сайданшах",
         "latitude": 32.71962,
         "longitude": 72.98625
     },
     {
-        "name": "Chuhar Kana",
+        "name": "Чухар Кана",
         "latitude": 31.75,
         "longitude": 73.8
     },
     {
-        "name": "Chunian",
+        "name": "Чуниан",
         "latitude": 30.96621,
         "longitude": 73.97908
     },
     {
-        "name": "Daira Din Panah",
+        "name": "Дайра Дин Панах",
         "latitude": 30.57053,
         "longitude": 70.93722
     },
     {
-        "name": "Dajal",
+        "name": "Он дал",
         "latitude": 29.55769,
         "longitude": 70.37614
     },
     {
-        "name": "Dandot RS",
+        "name": "Дандо РС",
         "latitude": 32.64167,
         "longitude": 72.975
     },
     {
-        "name": "Darya Khan",
+        "name": "Дарья Хан",
         "latitude": 31.78447,
         "longitude": 71.10197
     },
     {
-        "name": "Daska",
+        "name": "Доска",
         "latitude": 32.32422,
         "longitude": 74.35039
     },
     {
-        "name": "Daud Khel",
+        "name": "запустить игру",
         "latitude": 32.87498,
         "longitude": 71.57013
     },
     {
-        "name": "Daultala",
+        "name": "Даултала",
         "latitude": 33.19282,
         "longitude": 73.14099
     },
     {
-        "name": "Dera Ghazi Khan",
+        "name": "Дера Гази Хан",
         "latitude": 30.04587,
         "longitude": 70.64029
     },
     {
-        "name": "Dhanot",
+        "name": "дханот",
         "latitude": 29.57991,
         "longitude": 71.75213
     },
     {
-        "name": "Dhaunkal",
+        "name": "Дхаункал",
         "latitude": 32.40613,
         "longitude": 74.13706
     },
@@ -835,1147 +835,1147 @@
         "longitude": 72.52357
     },
     {
-        "name": "Dijkot",
+        "name": "Дейкот",
         "latitude": 31.21735,
         "longitude": 72.99621
     },
     {
-        "name": "Dinan Bashnoian Wala",
+        "name": "Динан Башноян",
         "latitude": 29.76584,
         "longitude": 73.26557
     },
     {
-        "name": "Dinga",
+        "name": "Динга",
         "latitude": 32.64101,
         "longitude": 73.72039
     },
     {
-        "name": "Dipalpur",
+        "name": "Дипалпур",
         "latitude": 30.66984,
         "longitude": 73.65306
     },
     {
-        "name": "Dullewala",
+        "name": "Дуллевала",
         "latitude": 31.83439,
         "longitude": 71.43639
     },
     {
-        "name": "Dunga Bunga",
+        "name": "Дунга Бунга",
         "latitude": 29.74975,
         "longitude": 73.24294
     },
     {
-        "name": "Dunyapur",
+        "name": "Дуньяпур",
         "latitude": 29.80275,
         "longitude": 71.74344
     },
     {
-        "name": "Eminabad",
+        "name": "Эминабад",
         "latitude": 32.04237,
         "longitude": 74.25996
     },
     {
-        "name": "Faisalabad",
+        "name": "Фейсалабад",
         "latitude": 31.41554,
         "longitude": 73.08969
     },
     {
-        "name": "Faqirwali",
+        "name": "Факирвали",
         "latitude": 29.46799,
         "longitude": 73.03489
     },
     {
-        "name": "Faruka",
+        "name": "Фарук",
         "latitude": 31.88642,
         "longitude": 72.41362
     },
     {
-        "name": "Fazilpur",
+        "name": "Фазилпур",
         "latitude": 32.17629,
         "longitude": 75.06583
     },
     {
-        "name": "Ferozewala",
+        "name": "Ферозевала",
         "latitude": 29.3,
         "longitude": 70.43333333
     },
     {
-        "name": "Fort Abbas",
+        "name": "Форт Аббас",
         "latitude": 29.19344,
         "longitude": 72.85525
     },
     {
-        "name": "Garh Maharaja",
+        "name": "Гарх Махараджа",
         "latitude": 30.83383,
         "longitude": 71.90491
     },
     {
-        "name": "Gojra",
+        "name": "Годжра",
         "latitude": 31.14926,
         "longitude": 72.68323
     },
     {
-        "name": "Gujar Khan",
+        "name": "Гуджар Хан",
         "latitude": 33.25411,
         "longitude": 73.30433
     },
     {
-        "name": "Gujranwala",
+        "name": "Гуджранвала",
         "latitude": 32.15567,
         "longitude": 74.18705
     },
     {
-        "name": "Gujranwala Division",
+        "name": "Гуджранвала Дивизия",
         "latitude": 32.45,
         "longitude": 74.13333
     },
     {
-        "name": "Gujrat",
+        "name": "Гуджрат",
         "latitude": 32.5742,
         "longitude": 74.07542
     },
     {
-        "name": "Hadali",
+        "name": "Высказываться",
         "latitude": 32.64043,
         "longitude": 74.56898
     },
     {
-        "name": "Hafizabad",
+        "name": "Хафизабад",
         "latitude": 32.07095,
         "longitude": 73.68802
     },
     {
-        "name": "Harnoli",
+        "name": "Харноли",
         "latitude": 32.27871,
         "longitude": 71.55429
     },
     {
-        "name": "Harunabad",
+        "name": "Харунабад",
         "latitude": 29.61206,
         "longitude": 73.13802
     },
     {
-        "name": "Hasan Abdal",
+        "name": "Хасан Абдал",
         "latitude": 33.81948611,
         "longitude": 72.68902778
     },
     {
-        "name": "Hasilpur",
+        "name": "Хасилпур",
         "latitude": 29.69221,
         "longitude": 72.54566
     },
     {
-        "name": "Haveli Lakha",
+        "name": "Хавели Лакха",
         "latitude": 30.45097,
         "longitude": 73.69371
     },
     {
-        "name": "Hazro",
+        "name": "Хазро",
         "latitude": 33.9099,
         "longitude": 72.49179
     },
     {
-        "name": "Hujra Shah Muqeem",
+        "name": "Худжра Шах Муким",
         "latitude": 30.74168,
         "longitude": 73.82327
     },
     {
-        "name": "Jahanian Shah",
+        "name": "Джаханян Шах",
         "latitude": 31.80541,
         "longitude": 72.2774
     },
     {
-        "name": "Jalalpur Jattan",
+        "name": "Джалалпур Джаттан",
         "latitude": 32.64118,
         "longitude": 74.20561
     },
     {
-        "name": "Jalalpur Pirwala",
+        "name": "Джалалпур Пирвала",
         "latitude": 29.5051,
         "longitude": 71.22202
     },
     {
-        "name": "Jampur",
+        "name": "Джампур",
         "latitude": 29.64235,
         "longitude": 70.59518
     },
     {
-        "name": "Jand",
+        "name": "Джанд",
         "latitude": 33.43304,
         "longitude": 72.01877
     },
     {
-        "name": "Jandiala Sher Khan",
+        "name": "Джандиала Шер Хан",
         "latitude": 31.82098,
         "longitude": 73.91815
     },
     {
-        "name": "Jaranwala",
+        "name": "Джаранвала",
         "latitude": 31.3332,
         "longitude": 73.41868
     },
     {
-        "name": "Jatoi Shimali",
+        "name": "Джатой Шимали",
         "latitude": 29.51827,
         "longitude": 70.84474
     },
     {
-        "name": "Jauharabad",
+        "name": "Джаухарабад",
         "latitude": 32.29016,
         "longitude": 72.28182
     },
     {
-        "name": "Jhang",
+        "name": "Джанг",
         "latitude": 31.30568,
         "longitude": 72.32594
     },
     {
-        "name": "Jhang Sadar",
+        "name": "Джанг Садар",
         "latitude": 31.26981,
         "longitude": 72.31687
     },
     {
-        "name": "Jhawarian",
+        "name": "Джавариан",
         "latitude": 32.36192,
         "longitude": 72.62275
     },
     {
-        "name": "Jhelum",
+        "name": "Джелум",
         "latitude": 32.93448,
         "longitude": 73.73102
     },
     {
-        "name": "Kabirwala",
+        "name": "Кабирвала",
         "latitude": 30.40472,
         "longitude": 71.86269
     },
     {
-        "name": "Kahna Nau",
+        "name": "Твой брат",
         "latitude": 31.36709,
         "longitude": 74.36899
     },
     {
-        "name": "Kahuta",
+        "name": "Кахута",
         "latitude": 33.59183,
         "longitude": 73.38736
     },
     {
-        "name": "Kalabagh",
+        "name": "Калабаг",
         "latitude": 32.96164,
         "longitude": 71.54638
     },
     {
-        "name": "Kalaswala",
+        "name": "Калавасала",
         "latitude": 32.20081,
         "longitude": 74.64858
     },
     {
-        "name": "Kaleke Mandi",
+        "name": "Калеке Манди",
         "latitude": 31.97597,
         "longitude": 73.59999
     },
     {
-        "name": "Kallar Kahar",
+        "name": "Вызов Кахара",
         "latitude": 32.77998,
         "longitude": 72.69793
     },
     {
-        "name": "Kalur Kot",
+        "name": "Калур Кот",
         "latitude": 32.15512,
         "longitude": 71.26631
     },
     {
-        "name": "Kamalia",
+        "name": "Ужасный",
         "latitude": 30.72708,
         "longitude": 72.64607
     },
     {
-        "name": "Kamar Mushani",
+        "name": "Камар Мушани",
         "latitude": 32.84318,
         "longitude": 71.36192
     },
     {
-        "name": "Kamoke",
+        "name": "Камоке",
         "latitude": 31.97526,
         "longitude": 74.22304
     },
     {
-        "name": "Kamra",
+        "name": "Комната",
         "latitude": 33.74698,
         "longitude": 73.51229
     },
     {
-        "name": "Kanganpur",
+        "name": "Канганпур",
         "latitude": 30.76468,
         "longitude": 74.12286
     },
     {
-        "name": "Karor",
+        "name": "Карор",
         "latitude": 31.2246,
         "longitude": 70.95153
     },
     {
-        "name": "Kasur",
+        "name": "Матрас",
         "latitude": 31.11866,
         "longitude": 74.45025
     },
     {
-        "name": "Keshupur",
+        "name": "Кешупур",
         "latitude": 32.26,
         "longitude": 72.5
     },
     {
-        "name": "Khairpur Tamiwali",
+        "name": "Хайрпур Тамивали",
         "latitude": 29.58139,
         "longitude": 72.23804
     },
     {
-        "name": "Khandowa",
+        "name": "Хандова",
         "latitude": 32.74255,
         "longitude": 72.73478
     },
     {
-        "name": "Khanewal",
+        "name": "Ханевал",
         "latitude": 30.30173,
         "longitude": 71.93212
     },
     {
-        "name": "Khanga Dogran",
+        "name": "Ханга Догран",
         "latitude": 31.83294,
         "longitude": 73.62213
     },
     {
-        "name": "Khangarh",
+        "name": "Хангарх",
         "latitude": 29.91446,
         "longitude": 71.16067
     },
     {
-        "name": "Khanpur",
+        "name": "Ханпур",
         "latitude": 28.64739,
         "longitude": 70.65694
     },
     {
-        "name": "Kharian",
+        "name": "ежедневно",
         "latitude": 32.81612,
         "longitude": 73.88697
     },
     {
-        "name": "Khewra",
+        "name": "Хевра",
         "latitude": 32.6491,
         "longitude": 73.01059
     },
     {
-        "name": "Khurrianwala",
+        "name": "Хуррианвала",
         "latitude": 31.49936,
         "longitude": 73.26763
     },
     {
-        "name": "Khushab",
+        "name": "Хушаб",
         "latitude": 32.29667,
         "longitude": 72.3525
     },
     {
-        "name": "Kohror Pakka",
+        "name": "Пакет \"Корор\"",
         "latitude": 29.62382,
         "longitude": 71.91673
     },
     {
-        "name": "Kot Addu Tehsil",
+        "name": "Кот Адду Техсил",
         "latitude": 30.46907,
         "longitude": 70.96699
     },
     {
-        "name": "Kot Ghulam Muhammad",
+        "name": "Кот Гулам Мухаммад",
         "latitude": 32.33311,
         "longitude": 74.54694
     },
     {
-        "name": "Kot Mumin",
+        "name": "Как Муми-тролль",
         "latitude": 32.18843,
         "longitude": 73.02987
     },
     {
-        "name": "Kot Radha Kishan",
+        "name": "Кот Радха Кишан",
         "latitude": 31.17068,
         "longitude": 74.10126
     },
     {
-        "name": "Kot Rajkour",
+        "name": "Как Раджкур",
         "latitude": 32.41208,
         "longitude": 74.62855
     },
     {
-        "name": "Kot Samaba",
+        "name": "Кот Самаба",
         "latitude": 28.55207,
         "longitude": 70.46837
     },
     {
-        "name": "Kot Sultan",
+        "name": "Кот Султан",
         "latitude": 30.7737,
         "longitude": 70.93125
     },
     {
-        "name": "Kotli Loharan",
+        "name": "Котли Лохаран",
         "latitude": 32.58893,
         "longitude": 74.49466
     },
     {
-        "name": "Kundian",
+        "name": "Кундиан",
         "latitude": 32.45775,
         "longitude": 71.47892
     },
     {
-        "name": "Kunjah",
+        "name": "Ну давай же",
         "latitude": 32.52982,
         "longitude": 73.97486
     },
     {
-        "name": "Ladhewala Waraich",
+        "name": "Ладхевала Варайч",
         "latitude": 32.15692,
         "longitude": 74.11564
     },
     {
-        "name": "Lahore",
+        "name": "Лахор",
         "latitude": 31.558,
         "longitude": 74.35071
     },
     {
-        "name": "Lala Musa",
+        "name": "Лала Муса",
         "latitude": 32.70138,
         "longitude": 73.95746
     },
     {
-        "name": "Lalian",
+        "name": "Лалянь",
         "latitude": 31.82462,
         "longitude": 72.80116
     },
     {
-        "name": "Layyah",
+        "name": "Лайя",
         "latitude": 30.96128,
         "longitude": 70.93904
     },
     {
-        "name": "Layyah District",
+        "name": "Лайяхский район",
         "latitude": 30.968,
         "longitude": 70.943
     },
     {
-        "name": "Liliani",
+        "name": "Лилиан",
         "latitude": 32.20393,
         "longitude": 72.9512
     },
     {
-        "name": "Lodhran",
+        "name": "Лодран",
         "latitude": 29.5339,
         "longitude": 71.63244
     },
     {
-        "name": "Mailsi",
+        "name": "Почта",
         "latitude": 29.80123,
         "longitude": 72.17398
     },
     {
-        "name": "Malakwal",
+        "name": "Малаквал",
         "latitude": 32.55449,
         "longitude": 73.21274
     },
     {
-        "name": "Malakwal City",
+        "name": "Малаквал Сити",
         "latitude": 32.55492,
         "longitude": 73.2122
     },
     {
-        "name": "Mamu Kanjan",
+        "name": "Маму Канджан",
         "latitude": 30.83044,
         "longitude": 72.79943
     },
     {
-        "name": "Mananwala",
+        "name": "Мананвала",
         "latitude": 31.58803,
         "longitude": 73.68927
     },
     {
-        "name": "Mandi Bahauddin",
+        "name": "Манди Бахауддин",
         "latitude": 32.58704,
         "longitude": 73.49123
     },
     {
-        "name": "Mandi Bahauddin District",
+        "name": "Манди Бахауддинский район",
         "latitude": 32.58333333,
         "longitude": 73.5
     },
     {
-        "name": "Mangla",
+        "name": "Отсутствующий",
         "latitude": 31.89306,
         "longitude": 72.38167
     },
     {
-        "name": "Mankera",
+        "name": "Манкера",
         "latitude": 31.38771,
         "longitude": 71.44047
     },
     {
-        "name": "Mehmand Chak",
+        "name": "Мехманд Чак",
         "latitude": 32.78518,
         "longitude": 73.82306
     },
     {
-        "name": "Mian Channun",
+        "name": "Миан Чаннун",
         "latitude": 30.44067,
         "longitude": 72.35679
     },
     {
-        "name": "Mianke Mor",
+        "name": "Мьянке Мать",
         "latitude": 31.2024,
         "longitude": 73.94857
     },
     {
-        "name": "Mianwali",
+        "name": "Мианвали",
         "latitude": 32.57756,
         "longitude": 71.52847
     },
     {
-        "name": "Minchinabad",
+        "name": "Минчинабад",
         "latitude": 30.16356,
         "longitude": 73.56858
     },
     {
-        "name": "Mitha Tiwana",
+        "name": "Митха Тивана",
         "latitude": 32.2454,
         "longitude": 72.10615
     },
     {
-        "name": "Moza Shahwala",
+        "name": "Моза Шахвала",
         "latitude": 30.80563,
         "longitude": 70.84911
     },
     {
-        "name": "Multan",
+        "name": "Мултан",
         "latitude": 30.19679,
         "longitude": 71.47824
     },
     {
-        "name": "Multan District",
+        "name": "Мултанский район",
         "latitude": 30.08333333,
         "longitude": 71.66666667
     },
     {
-        "name": "Muridke",
+        "name": "Муридке",
         "latitude": 31.80258,
         "longitude": 74.25772
     },
     {
-        "name": "Murree",
+        "name": "Мурри",
         "latitude": 33.90836,
         "longitude": 73.3903
     },
     {
-        "name": "Mustafabad",
+        "name": "Мустафабад",
         "latitude": 30.89222,
         "longitude": 73.49889
     },
     {
-        "name": "Muzaffargarh",
+        "name": "Музаффаргарх",
         "latitude": 30.07258,
         "longitude": 71.19379
     },
     {
-        "name": "Nankana Sahib",
+        "name": "Нанкана Сахиб",
         "latitude": 31.4501,
         "longitude": 73.70653
     },
     {
-        "name": "Narang Mandi",
+        "name": "Наранг Манди",
         "latitude": 31.90376,
         "longitude": 74.51587
     },
     {
-        "name": "Narowal",
+        "name": "Наровал",
         "latitude": 32.10197,
         "longitude": 74.87303
     },
     {
-        "name": "Naushahra Virkan",
+        "name": "Наушахра Актив",
         "latitude": 31.96258,
         "longitude": 73.97117
     },
     {
-        "name": "Nazir Town",
+        "name": "Назир Таун",
         "latitude": 33.30614,
         "longitude": 73.4833
     },
     {
-        "name": "Okara",
+        "name": "Половина",
         "latitude": 30.81029,
         "longitude": 73.45155
     },
     {
-        "name": "Pakki Shagwanwali",
+        "name": "Пакки Шагванвали",
         "latitude": 30.79033,
         "longitude": 70.87139
     },
     {
-        "name": "Pakpattan",
+        "name": "Застрять",
         "latitude": 30.34314,
         "longitude": 73.38944
     },
     {
-        "name": "Pasrur",
+        "name": "Пасрур",
         "latitude": 32.26286,
         "longitude": 74.66327
     },
     {
-        "name": "Pattoki",
+        "name": "Паттоки",
         "latitude": 31.02021,
         "longitude": 73.85333
     },
     {
-        "name": "Phalia",
+        "name": "Фалия",
         "latitude": 32.43104,
         "longitude": 73.579
     },
     {
-        "name": "Pind Dadan Khan",
+        "name": "Пинд Дадан Хан",
         "latitude": 32.58662,
         "longitude": 73.04456
     },
     {
-        "name": "Pindi Bhattian",
+        "name": "Пинди Бхаттиан",
         "latitude": 31.89844,
         "longitude": 73.27339
     },
     {
-        "name": "Pindi Gheb",
+        "name": "Пинди Геб",
         "latitude": 33.24095,
         "longitude": 72.2648
     },
     {
-        "name": "Pir Mahal",
+        "name": "Пир Махал",
         "latitude": 30.76663,
         "longitude": 72.43455
     },
     {
-        "name": "Qadirpur Ran",
+        "name": "Кадирпур Ран",
         "latitude": 30.29184,
         "longitude": 71.67164
     },
     {
-        "name": "Qila Didar Singh",
+        "name": "Кила Дидар Сингх",
         "latitude": 32.8,
         "longitude": 74.1
     },
     {
-        "name": "Rabwah",
+        "name": "Рабва",
         "latitude": 31.75511,
         "longitude": 72.91403
     },
     {
-        "name": "Rahim Yar Khan",
+        "name": "Рахим Яр Хан",
         "latitude": 28.41987,
         "longitude": 70.30345
     },
     {
-        "name": "Rahimyar Khan District",
+        "name": "Район Рахимьяр Хан",
         "latitude": 28.4602,
         "longitude": 70.52837
     },
     {
-        "name": "Raiwind",
+        "name": "Райвинд",
         "latitude": 31.24895,
         "longitude": 74.21534
     },
     {
-        "name": "Raja Jang",
+        "name": "Король Джанг",
         "latitude": 31.22078,
         "longitude": 74.25483
     },
     {
-        "name": "Rajanpur",
+        "name": "Раджанпур",
         "latitude": 29.10408,
         "longitude": 70.32969
     },
     {
-        "name": "Rasulnagar",
+        "name": "Расул Нагар",
         "latitude": 32.32794,
         "longitude": 73.7804
     },
     {
-        "name": "Rawalpindi",
+        "name": "Равалпинди",
         "latitude": 33.59733,
         "longitude": 73.0479
     },
     {
-        "name": "Rawalpindi District",
+        "name": "Равалпинди Район",
         "latitude": 33.42987,
         "longitude": 73.23092
     },
     {
-        "name": "Renala Khurd",
+        "name": "Ренала Хурд",
         "latitude": 30.87878,
         "longitude": 73.59857
     },
     {
-        "name": "Rojhan",
+        "name": "Роджан",
         "latitude": 28.68735,
         "longitude": 69.9535
     },
     {
-        "name": "Sadiqabad",
+        "name": "Садикабад",
         "latitude": 28.3091,
         "longitude": 70.12652
     },
     {
-        "name": "Sahiwal",
+        "name": "Сахивал",
         "latitude": 30.66595,
         "longitude": 73.10186
     },
     {
-        "name": "Sambrial",
+        "name": "Самбриал",
         "latitude": 32.47835,
         "longitude": 74.35338
     },
     {
-        "name": "Sangla Hill",
+        "name": "Пешка Хилл",
         "latitude": 31.71667,
         "longitude": 73.38333
     },
     {
-        "name": "Sanjwal",
+        "name": "Санджвал",
         "latitude": 33.76105,
         "longitude": 72.43315
     },
     {
-        "name": "Sarai Alamgir",
+        "name": "Сарай Аламгир",
         "latitude": 32.90495,
         "longitude": 73.75518
     },
     {
-        "name": "Sarai Sidhu",
+        "name": "Сарай Сидху",
         "latitude": 30.59476,
         "longitude": 71.9699
     },
     {
-        "name": "Sargodha",
+        "name": "Саргодха",
         "latitude": 32.08586,
         "longitude": 72.67418
     },
     {
-        "name": "Shahkot Tehsil",
+        "name": "Шахкот Техсил",
         "latitude": 31.56166667,
         "longitude": 73.4875
     },
     {
-        "name": "Shahpur",
+        "name": "Шахпур",
         "latitude": 32.2682,
         "longitude": 72.46884
     },
     {
-        "name": "Shahr Sultan",
+        "name": "Шахр Султан",
         "latitude": 29.57517,
         "longitude": 71.02209
     },
     {
-        "name": "Shakargarh",
+        "name": "Шакаргарх",
         "latitude": 32.26361,
         "longitude": 75.16008
     },
     {
-        "name": "Sharqpur",
+        "name": "Шаркпур",
         "latitude": 31.46116,
         "longitude": 74.10091
     },
     {
-        "name": "Sheikhupura",
+        "name": "Шейхупура",
         "latitude": 31.71287,
         "longitude": 73.98556
     },
     {
-        "name": "Shorkot",
+        "name": "Шоркот",
         "latitude": 30.5,
         "longitude": 72.4
     },
     {
-        "name": "Shujaabad",
+        "name": "Шуджаабад",
         "latitude": 29.88092,
         "longitude": 71.29344
     },
     {
-        "name": "Sialkot",
+        "name": "Сиалкот",
         "latitude": 32.49268,
         "longitude": 74.53134
     },
     {
-        "name": "Sillanwali",
+        "name": "Силланвали",
         "latitude": 31.82539,
         "longitude": 72.54064
     },
     {
-        "name": "Sodhra",
+        "name": "Содра",
         "latitude": 32.46211,
         "longitude": 74.18207
     },
     {
-        "name": "Sukheke Mandi",
+        "name": "Сухеке Купание",
         "latitude": 31.86541,
         "longitude": 73.50875
     },
     {
-        "name": "Surkhpur",
+        "name": "Суркхпур",
         "latitude": 32.71816,
         "longitude": 74.44773
     },
     {
-        "name": "Talagang",
+        "name": "Абсолютно",
         "latitude": 32.92766,
         "longitude": 72.41594
     },
     {
-        "name": "Talamba",
+        "name": "Тамба",
         "latitude": 30.52693,
         "longitude": 72.24079
     },
     {
-        "name": "Tandlianwala",
+        "name": "Тандлианвала",
         "latitude": 31.03359,
         "longitude": 73.13268
     },
     {
-        "name": "Taunsa",
+        "name": "Жуй это",
         "latitude": 30.70358,
         "longitude": 70.65054
     },
     {
-        "name": "Toba Tek Singh",
+        "name": "Тоба Тек Сингх",
         "latitude": 30.97127,
         "longitude": 72.48275
     },
     {
-        "name": "Umerkot",
+        "name": "Умеркот",
         "latitude": 25.36138889,
         "longitude": 69.73611111
     },
     {
-        "name": "Vihari",
+        "name": "Вихари",
         "latitude": 30.0445,
         "longitude": 72.3556
     },
     {
-        "name": "Wah",
+        "name": "Вау",
         "latitude": 33.81,
         "longitude": 72.70972222
     },
     {
-        "name": "Warburton",
+        "name": "Уорбертон",
         "latitude": 31.55,
         "longitude": 73.8333
     },
     {
-        "name": "Wazirabad",
+        "name": "Вазирабад",
         "latitude": 32.44324,
         "longitude": 74.12
     },
     {
-        "name": "West Punjab",
+        "name": "Западный Пенджаб",
         "latitude": 31.0,
         "longitude": 72.0
     },
     {
-        "name": "Yazman",
+        "name": "твой секретарь",
         "latitude": 29.12122,
         "longitude": 71.74459
     },
     {
-        "name": "Zafarwal",
+        "name": "Зафарвал",
         "latitude": 32.34464,
         "longitude": 74.8999
     },
     {
-        "name": "Zahir Pir",
+        "name": "Захир Пир",
         "latitude": 28.81284,
         "longitude": 70.52341
     },
     {
-        "name": "Adilpur",
+        "name": "Адильпур",
         "latitude": 27.93677,
         "longitude": 69.31941
     },
     {
-        "name": "Badin",
+        "name": "Много",
         "latitude": 24.656,
         "longitude": 68.837
     },
     {
-        "name": "Bagarji",
+        "name": "Багарджи",
         "latitude": 27.75431,
         "longitude": 68.75866
     },
     {
-        "name": "Bandhi",
+        "name": "Бандхи",
         "latitude": 26.58761,
         "longitude": 68.30215
     },
     {
-        "name": "Berani",
+        "name": "Быть храбрым",
         "latitude": 25.78497,
         "longitude": 68.80754
     },
     {
-        "name": "Bhan",
+        "name": "Ван",
         "latitude": 26.55831,
         "longitude": 67.72139
     },
     {
-        "name": "Bhiria",
+        "name": "Бхирия",
         "latitude": 26.91041,
         "longitude": 68.19466
     },
     {
-        "name": "Bhit Shah",
+        "name": "Бхит Шах",
         "latitude": 25.80565,
         "longitude": 68.49143
     },
     {
-        "name": "Bozdar Wada",
+        "name": "Боздар Вада",
         "latitude": 27.183,
         "longitude": 68.6358
     },
     {
-        "name": "Bulri",
+        "name": "Буллери",
         "latitude": 24.86667,
         "longitude": 68.33333
     },
     {
-        "name": "Chak",
+        "name": "Каждый",
         "latitude": 27.85838,
         "longitude": 68.83378
     },
     {
-        "name": "Chamber",
+        "name": "Камера",
         "latitude": 25.29362,
         "longitude": 68.81176
     },
     {
-        "name": "Chhor",
+        "name": "чхор",
         "latitude": 25.5126,
         "longitude": 69.78437
     },
     {
-        "name": "Chuhar Jamali",
+        "name": "Чухар Джамали",
         "latitude": 24.3944,
         "longitude": 67.99298
     },
     {
-        "name": "Dadu",
+        "name": "Игральная кость",
         "latitude": 26.73033,
         "longitude": 67.7769
     },
     {
-        "name": "Daromehar",
+        "name": "Даромехар",
         "latitude": 24.79382,
         "longitude": 68.17978
     },
     {
-        "name": "Darya Khan Marri",
+        "name": "Дарья Хан Марри",
         "latitude": 26.67765,
         "longitude": 68.28666
     },
     {
-        "name": "Daulatpur",
+        "name": "Даулатпур",
         "latitude": 26.50158,
         "longitude": 67.97079
     },
     {
-        "name": "Daur",
+        "name": "Цикл",
         "latitude": 26.45528,
         "longitude": 68.31835
     },
     {
-        "name": "Dhoro Naro",
+        "name": "Доро Наро",
         "latitude": 25.50484,
         "longitude": 69.5709
     },
     {
-        "name": "Digri",
+        "name": "Степень",
         "latitude": 25.15657,
         "longitude": 69.11098
     },
     {
-        "name": "Diplo",
+        "name": "Диплом",
         "latitude": 24.46688,
         "longitude": 69.58114
     },
     {
-        "name": "Dokri",
+        "name": "Докри",
         "latitude": 27.37421,
         "longitude": 68.09715
     },
     {
-        "name": "Gambat",
+        "name": "Гамбат",
         "latitude": 27.3517,
         "longitude": 68.5215
     },
     {
-        "name": "Garhiyasin",
+        "name": "Гархиясин",
         "latitude": 27.90631,
         "longitude": 68.5121
     },
     {
-        "name": "Gharo",
+        "name": "Гаро",
         "latitude": 24.74182,
         "longitude": 67.58534
     },
     {
-        "name": "Ghauspur",
+        "name": "Гауспур",
         "latitude": 28.13882,
         "longitude": 69.08245
     },
     {
-        "name": "Ghotki",
+        "name": "Готки",
         "latitude": 28.00437,
         "longitude": 69.31569
     },
     {
-        "name": "Goth Garelo",
+        "name": "Гот Гарело",
         "latitude": 27.43521,
         "longitude": 68.07572
     },
     {
-        "name": "Goth Phulji",
+        "name": "Гот Пхулджи",
         "latitude": 26.88099,
         "longitude": 67.68239
     },
     {
-        "name": "Goth Radhan",
+        "name": "Гот Радхан",
         "latitude": 27.19846,
         "longitude": 67.95348
     },
     {
-        "name": "Hala",
+        "name": "Так",
         "latitude": 25.81459,
         "longitude": 68.42198
     },
     {
-        "name": "Hingorja",
+        "name": "Ингория",
         "latitude": 27.21088,
         "longitude": 68.41598
     },
     {
-        "name": "Hyderabad",
+        "name": "Хайдарабад",
         "latitude": 25.39242,
         "longitude": 68.37366
     },
     {
-        "name": "Islamkot",
+        "name": "Исламкот",
         "latitude": 24.69904,
         "longitude": 70.17982
     },
     {
-        "name": "Jacobabad",
+        "name": "Якобабад",
         "latitude": 28.28187,
         "longitude": 68.43761
     },
     {
-        "name": "J\u0101m S\u0101hib",
+        "name": "Ям Сахиб",
         "latitude": 26.29583,
         "longitude": 68.62917
     },
     {
-        "name": "Jamshoro",
+        "name": "Джамшоро",
         "latitude": 25.43608,
         "longitude": 68.28017
     },
     {
-        "name": "Jati",
+        "name": "Джати",
         "latitude": 24.35492,
         "longitude": 68.26732
     },
     {
-        "name": "Jhol",
+        "name": "Джол",
         "latitude": 25.95533,
         "longitude": 68.88871
     },
     {
-        "name": "Johi",
+        "name": "Джохи",
         "latitude": 26.69225,
         "longitude": 67.61431
     },
     {
-        "name": "Kadhan",
+        "name": "Кадхан",
         "latitude": 24.48041,
         "longitude": 68.98551
     },
     {
-        "name": "Kambar",
+        "name": "Камбар",
         "latitude": 27.58753,
         "longitude": 68.00066
     },
     {
-        "name": "Kandhkot",
+        "name": "Канкот",
         "latitude": 28.24574,
         "longitude": 69.17974
     },
     {
-        "name": "Kandiari",
+        "name": "Кандиари",
         "latitude": 26.9155,
         "longitude": 68.52193
     },
     {
-        "name": "Kandiaro",
+        "name": "Кандиаро",
         "latitude": 27.05918,
         "longitude": 68.21022
     },
     {
-        "name": "Karachi",
+        "name": "Карачи",
         "latitude": 24.8608,
         "longitude": 67.0104
     },
     {
-        "name": "Karaundi",
+        "name": "Караунди",
         "latitude": 26.89709,
         "longitude": 68.40643
     },
     {
-        "name": "Kario Ghanwar",
+        "name": "Воин Ганвар",
         "latitude": 24.80817,
         "longitude": 68.60483
     },
     {
-        "name": "Kashmor",
+        "name": "Кашмир",
         "latitude": 28.4326,
         "longitude": 69.58364
     },
     {
-        "name": "Keti Bandar",
+        "name": "Кети Бандар",
         "latitude": 24.14422,
         "longitude": 67.45094
     },
     {
-        "name": "Khadro",
+        "name": "Хадро",
         "latitude": 26.14713,
         "longitude": 68.71777
     },
     {
-        "name": "Khairpur",
+        "name": "Хайрпур",
         "latitude": 28.06437,
         "longitude": 69.70363
     },
     {
-        "name": "Khairpur Mir\u2019s",
+        "name": "Хайпур Мир",
         "latitude": 27.52948,
         "longitude": 68.75915
     },
     {
-        "name": "Khairpur Nathan Shah",
+        "name": "Хайрпур Натан Шах",
         "latitude": 27.09064,
         "longitude": 67.73489
     },
     {
-        "name": "Khanpur Mahar",
+        "name": "Ханпур Махар",
         "latitude": 27.84088,
         "longitude": 69.41302
     },
     {
-        "name": "Kot Diji",
+        "name": "Как Диджи",
         "latitude": 27.34156,
         "longitude": 68.70821
     },
@@ -1985,307 +1985,307 @@
         "longitude": 68.30831
     },
     {
-        "name": "Kunri",
+        "name": "Кунри",
         "latitude": 25.17874,
         "longitude": 69.56572
     },
     {
-        "name": "Lakhi",
+        "name": "Лахи",
         "latitude": 27.84884,
         "longitude": 68.69972
     },
     {
-        "name": "Larkana",
+        "name": "Ларкана",
         "latitude": 27.55898,
         "longitude": 68.21204
     },
     {
-        "name": "Madeji",
+        "name": "Мадеджи",
         "latitude": 27.75314,
         "longitude": 68.45166
     },
     {
-        "name": "Malir Cantonment",
+        "name": "Кантонмент Малир",
         "latitude": 24.94343,
         "longitude": 67.20591
     },
     {
-        "name": "Matiari",
+        "name": "Материалы",
         "latitude": 25.59709,
         "longitude": 68.4467
     },
     {
-        "name": "Matli",
+        "name": "Матли",
         "latitude": 25.0429,
         "longitude": 68.65591
     },
     {
-        "name": "Mehar",
+        "name": "Мехр",
         "latitude": 27.18027,
         "longitude": 67.82051
     },
     {
-        "name": "Miro Khan",
+        "name": "Миро Хан",
         "latitude": 27.75985,
         "longitude": 68.09195
     },
     {
-        "name": "Mirpur Bhtoro",
+        "name": "Мирпур Бхаторо",
         "latitude": 24.72852,
         "longitude": 68.2601
     },
     {
-        "name": "Mirpur Khas",
+        "name": "Мирпур Хас",
         "latitude": 25.5276,
         "longitude": 69.01255
     },
     {
-        "name": "Mirpur Mathelo",
+        "name": "Мирпур Матело",
         "latitude": 28.02136,
         "longitude": 69.54914
     },
     {
-        "name": "Mirpur Sakro",
+        "name": "Мирпур Сакро",
         "latitude": 24.54692,
         "longitude": 67.62797
     },
     {
-        "name": "Mirwah Gorchani",
+        "name": "Мирва Горчани",
         "latitude": 25.30981,
         "longitude": 69.05019
     },
     {
-        "name": "Mithi",
+        "name": "желание",
         "latitude": 24.73701,
         "longitude": 69.79707
     },
     {
-        "name": "Moro",
+        "name": "Моро",
         "latitude": 26.66317,
         "longitude": 68.00016
     },
     {
-        "name": "Nabisar",
+        "name": "Набисар",
         "latitude": 25.06717,
         "longitude": 69.6434
     },
     {
-        "name": "Nasirabad",
+        "name": "Насирабад",
         "latitude": 27.38137,
         "longitude": 67.91644
     },
     {
-        "name": "Naudero",
+        "name": "Наудеро",
         "latitude": 27.66684,
         "longitude": 68.3609
     },
     {
-        "name": "Naukot",
+        "name": "Ты полный отстой",
         "latitude": 24.85822,
         "longitude": 69.40153
     },
     {
-        "name": "Naushahro Firoz",
+        "name": "Наушахро Фироз",
         "latitude": 26.8401,
         "longitude": 68.12265
     },
     {
-        "name": "Nawabshah",
+        "name": "Навабшах",
         "latitude": 26.23939,
         "longitude": 68.40369
     },
     {
-        "name": "New B\u0101d\u0101h",
+        "name": "Новый Бада",
         "latitude": 27.34167,
         "longitude": 68.03194
     },
     {
-        "name": "Pad Idan",
+        "name": "Падение Идана",
         "latitude": 26.77455,
         "longitude": 68.30094
     },
     {
-        "name": "Pano Aqil",
+        "name": "Здесь Акиль",
         "latitude": 27.85619,
         "longitude": 69.11111
     },
     {
-        "name": "Pir Jo Goth",
+        "name": "Пир Джо Гот",
         "latitude": 27.59178,
         "longitude": 68.61848
     },
     {
-        "name": "Pithoro",
+        "name": "Питоро",
         "latitude": 25.51122,
         "longitude": 69.37803
     },
     {
-        "name": "Rajo Khanani",
+        "name": "Раджо Ханани",
         "latitude": 24.98391,
         "longitude": 68.8537
     },
     {
-        "name": "Ranipur",
+        "name": "Ранипур",
         "latitude": 27.2872,
         "longitude": 68.50623
     },
     {
-        "name": "Ratodero",
+        "name": "Ратодеро",
         "latitude": 27.80227,
         "longitude": 68.28902
     },
     {
-        "name": "Rohri",
+        "name": "Рор",
         "latitude": 27.69203,
         "longitude": 68.89503
     },
     {
-        "name": "Rustam",
+        "name": "Рустам",
         "latitude": 27.96705,
         "longitude": 68.80386
     },
     {
-        "name": "Sakrand",
+        "name": "Сакранд",
         "latitude": 26.13845,
         "longitude": 68.27444
     },
     {
-        "name": "Samaro",
+        "name": "Самара",
         "latitude": 25.28143,
         "longitude": 69.39623
     },
     {
-        "name": "Sanghar",
+        "name": "Сангар",
         "latitude": 26.04694,
         "longitude": 68.94917
     },
     {
-        "name": "Sann",
+        "name": "истинный",
         "latitude": 26.0403,
         "longitude": 68.13763
     },
     {
-        "name": "Sehwan",
+        "name": "Сехван",
         "latitude": 26.42495,
         "longitude": 67.86126
     },
     {
-        "name": "Setharja Old",
+        "name": "Сетарья Старый",
         "latitude": 27.2127,
         "longitude": 68.46883
     },
     {
-        "name": "Shahdad Kot",
+        "name": "Шахдад Кот",
         "latitude": 27.84726,
         "longitude": 67.90679
     },
     {
-        "name": "Shahdadpur",
+        "name": "Шахдадпур",
         "latitude": 25.92539,
         "longitude": 68.6228
     },
     {
-        "name": "Shahpur Chakar",
+        "name": "Шахпур Чакар",
         "latitude": 26.15411,
         "longitude": 68.65013
     },
     {
-        "name": "Shikarpur",
+        "name": "Шикарпур",
         "latitude": 27.95558,
         "longitude": 68.63823
     },
     {
-        "name": "Sinjhoro",
+        "name": "Синджоро",
         "latitude": 26.03008,
         "longitude": 68.80867
     },
     {
-        "name": "S\u012bta Road",
+        "name": "Сита Роуд",
         "latitude": 27.03333,
         "longitude": 67.85
     },
     {
-        "name": "Sobhodero",
+        "name": "Собходера",
         "latitude": 27.30475,
         "longitude": 68.39715
     },
     {
-        "name": "Sukkur",
+        "name": "Сахар",
         "latitude": 27.70323,
         "longitude": 68.85889
     },
     {
-        "name": "Talhar",
+        "name": "Вырезать",
         "latitude": 24.88454,
         "longitude": 68.81437
     },
     {
-        "name": "Tando Adam",
+        "name": "Тандо Адам",
         "latitude": 25.76818,
         "longitude": 68.66196
     },
     {
-        "name": "Tando Allahyar",
+        "name": "Тандо Аллахьяр",
         "latitude": 25.4605,
         "longitude": 68.71745
     },
     {
-        "name": "Tando Bago",
+        "name": "Тандо Новый",
         "latitude": 24.78914,
         "longitude": 68.96535
     },
     {
-        "name": "Tando Jam",
+        "name": "Тандо Джем",
         "latitude": 25.42813,
         "longitude": 68.52923
     },
     {
-        "name": "Tando Mitha Khan",
+        "name": "Тандо Мита Хан",
         "latitude": 25.99625,
         "longitude": 69.20251
     },
     {
-        "name": "Tando Muhammad Khan",
+        "name": "Тандо Мухаммад Хан",
         "latitude": 25.12384,
         "longitude": 68.53677
     },
     {
-        "name": "Tangwani",
+        "name": "Тангвани",
         "latitude": 28.27886,
         "longitude": 68.9976
     },
     {
-        "name": "Tharu Shah",
+        "name": "Тару Шах",
         "latitude": 26.9423,
         "longitude": 68.11759
     },
     {
-        "name": "Thatta",
+        "name": "Что",
         "latitude": 24.74745,
         "longitude": 67.92353
     },
     {
-        "name": "Thul",
+        "name": "Тул",
         "latitude": 28.2403,
         "longitude": 68.7755
     },
     {
-        "name": "Ubauro",
+        "name": "Убауро",
         "latitude": 28.16429,
         "longitude": 69.73114
     },
     {
-        "name": "Umarkot",
+        "name": "Умаркот",
         "latitude": 25.36329,
         "longitude": 69.74184
     },
     {
-        "name": "Umerkot District",
+        "name": "Умеркотский район",
         "latitude": 25.37,
         "longitude": 69.73
     },
     {
-        "name": "Warah",
+        "name": "Варах",
         "latitude": 27.44805,
         "longitude": 67.79654
     }

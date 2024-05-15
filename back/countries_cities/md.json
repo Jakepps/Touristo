@@ -1,321 +1,321 @@
 [
     {
-        "name": "Anenii Noi",
+        "name": "Новый год",
         "latitude": 46.87839,
         "longitude": 29.23483
     },
     {
-        "name": "Varni\u0163a",
+        "name": "известковая яма",
         "latitude": 46.86606,
         "longitude": 29.46636
     },
     {
-        "name": "B\u0103l\u0163i",
+        "name": "Бельцы",
         "latitude": 47.76314,
         "longitude": 27.92932
     },
     {
-        "name": "Basarabeasca",
+        "name": "Басарабяска",
         "latitude": 46.3317,
         "longitude": 28.96365
     },
     {
-        "name": "Bender",
+        "name": "Бендеры",
         "latitude": 46.83156,
         "longitude": 29.47769
     },
     {
-        "name": "Briceni",
+        "name": "Бричаны",
         "latitude": 48.36289,
         "longitude": 27.07787
     },
     {
-        "name": "Cahul",
+        "name": "Кагул",
         "latitude": 45.90425,
         "longitude": 28.19929
     },
     {
-        "name": "Giurgiule\u015fti",
+        "name": "Джурджулешты",
         "latitude": 45.48167,
         "longitude": 28.19722
     },
     {
-        "name": "C\u0103l\u0103ra\u015fi",
+        "name": "Кэлэрашь",
         "latitude": 47.2556,
         "longitude": 28.30987
     },
     {
-        "name": "Cantemir",
+        "name": "Кантемир",
         "latitude": 46.27743,
         "longitude": 28.2027
     },
     {
-        "name": "Iargara",
+        "name": "в Яргу",
         "latitude": 46.4252,
         "longitude": 28.42676
     },
     {
-        "name": "Vi\u015fniovca",
+        "name": "Вишневка",
         "latitude": 46.3326,
         "longitude": 28.44797
     },
     {
-        "name": "C\u0103u\u015feni",
+        "name": "КАУШЕНЫ",
         "latitude": 46.63674,
         "longitude": 29.41114
     },
     {
-        "name": "Chi\u0163cani",
+        "name": "Киткани",
         "latitude": 46.78296,
         "longitude": 29.61682
     },
     {
-        "name": "Chisinau",
+        "name": "Кишинев",
         "latitude": 47.00556,
         "longitude": 28.8575
     },
     {
-        "name": "Ciorescu",
+        "name": "Чореску",
         "latitude": 47.13,
         "longitude": 28.88937
     },
     {
-        "name": "Cricova",
+        "name": "Крикова",
         "latitude": 47.13835,
         "longitude": 28.86156
     },
     {
-        "name": "S\u00eengera",
+        "name": "Сингера",
         "latitude": 46.91557,
         "longitude": 28.96673
     },
     {
-        "name": "St\u0103uceni",
+        "name": "СТАУЧЕНИ",
         "latitude": 47.09643,
         "longitude": 28.86791
     },
     {
-        "name": "Vadul lui Vod\u0103",
+        "name": "Брод Водэ",
         "latitude": 47.09009,
         "longitude": 29.0757
     },
     {
-        "name": "Vatra",
+        "name": "Огонь",
         "latitude": 47.0746,
         "longitude": 28.73685
     },
     {
-        "name": "Cimi\u015flia",
+        "name": "ЧИМИСЛИЯ",
         "latitude": 46.52685,
         "longitude": 28.76441
     },
     {
-        "name": "Criuleni",
+        "name": "Криулень",
         "latitude": 47.21307,
         "longitude": 29.15926
     },
     {
-        "name": "Briceni",
+        "name": "Бричаны",
         "latitude": 48.35628,
         "longitude": 27.70293
     },
     {
-        "name": "Dondu\u015feni",
+        "name": "Дондушены",
         "latitude": 48.24268,
         "longitude": 27.6101
     },
     {
-        "name": "Drochia",
+        "name": "Дрокия",
         "latitude": 48.03555,
         "longitude": 27.81293
     },
     {
-        "name": "Cocieri",
+        "name": "Готовить",
         "latitude": 47.3017,
         "longitude": 29.11755
     },
     {
-        "name": "Ustia",
+        "name": "ферма",
         "latitude": 47.25524,
         "longitude": 29.12406
     },
     {
-        "name": "Edine\u0163",
+        "name": "ЕДИНЕТ",
         "latitude": 48.17215,
         "longitude": 27.30337
     },
     {
-        "name": "F\u0103le\u0219ti",
+        "name": "хвастаться",
         "latitude": 47.57667,
         "longitude": 27.71264
     },
     {
-        "name": "Flore\u015fti",
+        "name": "Флореста",
         "latitude": 47.89137,
         "longitude": 28.29312
     },
     {
-        "name": "Ghinde\u0219ti",
+        "name": "Гиндешть",
         "latitude": 47.85482,
         "longitude": 28.37679
     },
     {
-        "name": "M\u0103rcule\u015fti",
+        "name": "Маркулешты",
         "latitude": 47.86897,
         "longitude": 28.24109
     },
     {
-        "name": "Bugeac",
+        "name": "педераст",
         "latitude": 46.36554,
         "longitude": 28.6625
     },
     {
-        "name": "Cead\u00eer-Lunga",
+        "name": "Палатка-Лунга",
         "latitude": 46.06169,
         "longitude": 28.83078
     },
     {
-        "name": "Comrat",
+        "name": "Комрат",
         "latitude": 46.29456,
         "longitude": 28.6565
     },
     {
-        "name": "Vulc\u0103ne\u015fti",
+        "name": "ВУЛКАНЕШТИ",
         "latitude": 45.68492,
         "longitude": 28.40613
     },
     {
-        "name": "Glodeni",
+        "name": "Глодень",
         "latitude": 47.77513,
         "longitude": 27.51891
     },
     {
-        "name": "Dancu",
+        "name": "Спасибо",
         "latitude": 46.75818,
         "longitude": 28.20716
     },
     {
-        "name": "H\u00eence\u015fti",
+        "name": "Хынчешть",
         "latitude": 46.83047,
         "longitude": 28.59064
     },
     {
-        "name": "Ialoveni",
+        "name": "Яловень",
         "latitude": 46.94346,
         "longitude": 28.78233
     },
     {
-        "name": "Nisporeni",
+        "name": "Сугробы",
         "latitude": 47.08159,
         "longitude": 28.17138
     },
     {
-        "name": "Ocni\u0163a",
+        "name": "ОКНИТА",
         "latitude": 48.38274,
         "longitude": 27.43805
     },
     {
-        "name": "Otaci",
+        "name": "Отцы",
         "latitude": 48.43285,
         "longitude": 27.79912
     },
     {
-        "name": "Orhei",
+        "name": "Оргеев",
         "latitude": 47.38494,
         "longitude": 28.82446
     },
     {
-        "name": "Rezina",
+        "name": "Резина",
         "latitude": 47.74928,
         "longitude": 28.96583
     },
     {
-        "name": "Saharna",
+        "name": "Сахарна",
         "latitude": 47.69107,
         "longitude": 28.97458
     },
     {
-        "name": "R\u00ee\u015fcani",
+        "name": "РЫШКАНИ",
         "latitude": 47.94792,
         "longitude": 27.56376
     },
     {
-        "name": "Bilicenii Vechi",
+        "name": "Старый Биличень",
         "latitude": 47.6558,
         "longitude": 28.04734
     },
     {
-        "name": "Biruin\u0163a",
+        "name": "Победа",
         "latitude": 47.81353,
         "longitude": 28.07004
     },
     {
-        "name": "S\u00eengerei",
+        "name": "петь",
         "latitude": 47.63632,
         "longitude": 28.14296
     },
     {
-        "name": "\u015eold\u0103ne\u015fti",
+        "name": "Шолданешты",
         "latitude": 47.81608,
         "longitude": 28.79718
     },
     {
-        "name": "Soroca",
+        "name": "Сорока",
         "latitude": 48.15659,
         "longitude": 28.28489
     },
     {
-        "name": "\u015etefan Vod\u0103",
+        "name": "Штефан Водэ",
         "latitude": 46.51287,
         "longitude": 29.66193
     },
     {
-        "name": "Bucov\u0103\u0163",
+        "name": "БУКОВА",
         "latitude": 47.19064,
         "longitude": 28.45802
     },
     {
-        "name": "Str\u0103\u0219eni",
+        "name": "СТРАСЕНИ",
         "latitude": 47.14216,
         "longitude": 28.60774
     },
     {
-        "name": "Taraclia",
+        "name": "Беспорядок",
         "latitude": 45.90273,
         "longitude": 28.66816
     },
     {
-        "name": "Tvardi\u021ba",
+        "name": "Твардица",
         "latitude": 46.14826,
         "longitude": 28.96491
     },
     {
-        "name": "M\u00eendre\u015fti",
+        "name": "Миндрешты",
         "latitude": 47.50525,
         "longitude": 28.27687
     },
     {
-        "name": "Telene\u015fti",
+        "name": "Теленешты",
         "latitude": 47.5011,
         "longitude": 28.36536
     },
     {
-        "name": "Camenca",
+        "name": "Каменка",
         "latitude": 48.03233,
         "longitude": 28.69899
     },
     {
-        "name": "Crasnoe",
+        "name": "Красное",
         "latitude": 46.64844,
         "longitude": 29.80403
     },
     {
-        "name": "Dnestrovsc",
+        "name": "Днестровск",
         "latitude": 46.6164,
         "longitude": 29.91926
     },
     {
-        "name": "Dub\u0103sari",
+        "name": "ДУБАСАРИ",
         "latitude": 47.26562,
         "longitude": 29.16667
     },
@@ -325,37 +325,37 @@
         "longitude": 29.30008
     },
     {
-        "name": "Maiac",
+        "name": "Майак",
         "latitude": 47.23727,
         "longitude": 29.38498
     },
     {
-        "name": "Pervomaisc",
+        "name": "Первомайск",
         "latitude": 46.73253,
         "longitude": 29.9617
     },
     {
-        "name": "R\u00eebni\u0163a",
+        "name": "Рыбница",
         "latitude": 47.76817,
         "longitude": 29.01
     },
     {
-        "name": "Slobozia",
+        "name": "Слобозия",
         "latitude": 46.72927,
         "longitude": 29.70446
     },
     {
-        "name": "Tiraspol",
+        "name": "Тирасполь",
         "latitude": 46.84274,
         "longitude": 29.62909
     },
     {
-        "name": "Tiraspolul Nou",
+        "name": "Новый Тирасполь",
         "latitude": 46.82874,
         "longitude": 29.52174
     },
     {
-        "name": "Ungheni",
+        "name": "Помазать",
         "latitude": 47.21079,
         "longitude": 27.80047
     }

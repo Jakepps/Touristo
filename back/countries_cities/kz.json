@@ -1,56 +1,56 @@
 [
     {
-        "name": "Akkol",
+        "name": "Акколь",
         "latitude": 51.99374,
         "longitude": 70.94704
     },
     {
-        "name": "Akkol\u2019",
+        "name": "Акколь",
         "latitude": 53.29617,
         "longitude": 69.59997
     },
     {
-        "name": "Aksu",
+        "name": "Аксу",
         "latitude": 52.44422,
         "longitude": 71.95761
     },
     {
-        "name": "Astrakhan",
+        "name": "Астрахань",
         "latitude": 51.53092,
         "longitude": 69.79684
     },
     {
-        "name": "Atbasar",
+        "name": "Атбасар",
         "latitude": 51.80652,
         "longitude": 68.35996
     },
     {
-        "name": "Balkashino",
+        "name": "Балкашино",
         "latitude": 52.51779,
         "longitude": 68.7516
     },
     {
-        "name": "Bestobe",
+        "name": "Бестобе",
         "latitude": 52.49795,
         "longitude": 73.09592
     },
     {
-        "name": "Derzhav\u012bnsk",
+        "name": "Державинск",
         "latitude": 51.09922,
         "longitude": 66.31557
     },
     {
-        "name": "Egindik\u00f6l",
+        "name": "Егиндыколь",
         "latitude": 51.05412,
         "longitude": 69.47928
     },
     {
-        "name": "Esil",
+        "name": "Есиль",
         "latitude": 51.95495,
         "longitude": 66.40841
     },
     {
-        "name": "Kokshetau",
+        "name": "Кокшетау",
         "latitude": 53.28333,
         "longitude": 69.4
     },
@@ -60,12 +60,12 @@
         "longitude": 66.52081
     },
     {
-        "name": "Makinsk",
+        "name": "Макинск",
         "latitude": 52.6329,
         "longitude": 70.41911
     },
     {
-        "name": "Shantobe",
+        "name": "Шантобе",
         "latitude": 52.45376,
         "longitude": 68.17475
     },
@@ -75,12 +75,12 @@
         "longitude": 70.18895
     },
     {
-        "name": "Shortandy",
+        "name": "Шортанди",
         "latitude": 51.69946,
         "longitude": 70.99457
     },
     {
-        "name": "Stepnogorsk",
+        "name": "Степногорск",
         "latitude": 52.35062,
         "longitude": 71.88161
     },
@@ -90,7 +90,7 @@
         "longitude": 70.78861
     },
     {
-        "name": "Yermentau",
+        "name": "Ерментау",
         "latitude": 51.62364,
         "longitude": 73.10265
     },
@@ -110,7 +110,7 @@
         "longitude": 71.71245
     },
     {
-        "name": "Aktobe",
+        "name": "Актобе",
         "latitude": 50.27969,
         "longitude": 57.20718
     },
@@ -120,32 +120,32 @@
         "longitude": 58.27715
     },
     {
-        "name": "Bayganin",
+        "name": "Байганин",
         "latitude": 48.68975,
         "longitude": 55.87512
     },
     {
-        "name": "Embi",
+        "name": "Плохой",
         "latitude": 48.82981,
         "longitude": 58.15042
     },
     {
-        "name": "Kandyagash",
+        "name": "Кандыагаш",
         "latitude": 49.46912,
         "longitude": 57.41914
     },
     {
-        "name": "Khromtau",
+        "name": "Хром",
         "latitude": 50.25117,
         "longitude": 58.44003
     },
     {
-        "name": "Martuk",
+        "name": "Мартук",
         "latitude": 50.74746,
         "longitude": 56.50611
     },
     {
-        "name": "Shalqar",
+        "name": "Шалкар",
         "latitude": 47.83333,
         "longitude": 59.6
     },
@@ -160,72 +160,72 @@
         "longitude": 57.18289
     },
     {
-        "name": "Temir",
+        "name": "Железо",
         "latitude": 49.14132,
         "longitude": 57.12855
     },
     {
-        "name": "Yrghyz",
+        "name": "Ургыз",
         "latitude": 48.61667,
         "longitude": 61.26667
     },
     {
-        "name": "Almaty",
+        "name": "Алматы",
         "latitude": 43.25667,
         "longitude": 76.92861
     },
     {
-        "name": "Bakanas",
+        "name": "Бакан",
         "latitude": 44.80838,
         "longitude": 76.27214
     },
     {
-        "name": "Balpyk B\u012b",
+        "name": "Балпыкская пчела",
         "latitude": 44.90225,
         "longitude": 78.23157
     },
     {
-        "name": "Burunday",
+        "name": "Бурундай",
         "latitude": 43.35567,
         "longitude": 76.85477
     },
     {
-        "name": "Chemolgan",
+        "name": "Охлажденный",
         "latitude": 43.37633,
         "longitude": 76.62456
     },
     {
-        "name": "Druzhba",
+        "name": "Дружба",
         "latitude": 45.25332,
         "longitude": 82.48044
     },
     {
-        "name": "Esik",
+        "name": "Идет дождь",
         "latitude": 43.3552,
         "longitude": 77.45245
     },
     {
-        "name": "Kapshagay",
+        "name": "Капшагай",
         "latitude": 43.86681,
         "longitude": 77.06304
     },
     {
-        "name": "Kegen",
+        "name": "Кеген",
         "latitude": 43.02143,
         "longitude": 79.22055
     },
     {
-        "name": "Lepsy",
+        "name": "Лепсы",
         "latitude": 46.235,
         "longitude": 78.94556
     },
     {
-        "name": "Matay",
+        "name": "Умереть",
         "latitude": 45.895,
         "longitude": 78.71806
     },
     {
-        "name": "Otegen Batyra",
+        "name": "Другая квартира",
         "latitude": 43.41949,
         "longitude": 77.0202
     },
@@ -235,82 +235,82 @@
         "longitude": 76.94
     },
     {
-        "name": "Sarkand",
+        "name": "Красный",
         "latitude": 45.41126,
         "longitude": 79.91545
     },
     {
-        "name": "Saryozek",
+        "name": "Сарыозек",
         "latitude": 44.36178,
         "longitude": 77.97279
     },
     {
-        "name": "Taldykorgan",
+        "name": "Речевой ныряющий орган",
         "latitude": 45.01556,
         "longitude": 78.37389
     },
     {
-        "name": "Talghar",
+        "name": "Талгар",
         "latitude": 43.30348,
         "longitude": 77.24085
     },
     {
-        "name": "Tekeli",
+        "name": "монополия",
         "latitude": 44.83322,
         "longitude": 78.83089
     },
     {
-        "name": "Turgen",
+        "name": "Тургень",
         "latitude": 43.40056,
         "longitude": 77.59333
     },
     {
-        "name": "\u00dclken",
+        "name": "твоя страна",
         "latitude": 45.21194,
         "longitude": 73.97861
     },
     {
-        "name": "Ush-Tyube",
+        "name": "Уш Тьюб",
         "latitude": 45.25201,
         "longitude": 77.98007
     },
     {
-        "name": "Zharkent",
+        "name": "Жаркент",
         "latitude": 44.1666,
         "longitude": 80.00655
     },
     {
-        "name": "Akkol\u2019",
+        "name": "Акколь",
         "latitude": 48.77177,
         "longitude": 53.1858
     },
     {
-        "name": "Atyrau",
+        "name": "Атырау",
         "latitude": 47.11667,
         "longitude": 51.88333
     },
     {
-        "name": "Balykshi",
+        "name": "Балыкши",
         "latitude": 47.06667,
         "longitude": 51.86667
     },
     {
-        "name": "Bayshonas",
+        "name": "Байшонас",
         "latitude": 47.24139,
         "longitude": 52.94111
     },
     {
-        "name": "Dossor",
+        "name": "Доссор",
         "latitude": 47.52722,
         "longitude": 52.98111
     },
     {
-        "name": "Inderbor",
+        "name": "Инсайдер",
         "latitude": 48.55,
         "longitude": 51.78333
     },
     {
-        "name": "Makhambet",
+        "name": "Махамбет",
         "latitude": 47.66667,
         "longitude": 51.58333
     },
@@ -320,32 +320,32 @@
         "longitude": 49.26667
     },
     {
-        "name": "Maqat",
+        "name": "Макат",
         "latitude": 47.65,
         "longitude": 53.31667
     },
     {
-        "name": "Miyaly",
+        "name": "Миялы",
         "latitude": 48.88504,
         "longitude": 53.79194
     },
     {
-        "name": "Qaraton",
+        "name": "Черный тон",
         "latitude": 46.43528,
         "longitude": 53.48639
     },
     {
-        "name": "Qulsary",
+        "name": "Гульсары",
         "latitude": 46.95307,
         "longitude": 54.01978
     },
     {
-        "name": "Shalkar",
+        "name": "Шалкар",
         "latitude": 48.03333,
         "longitude": 48.9
     },
     {
-        "name": "Baikonur",
+        "name": "Байконур",
         "latitude": 45.61667,
         "longitude": 63.31667
     },
@@ -355,42 +355,42 @@
         "longitude": 82.36252
     },
     {
-        "name": "Aqtoghay",
+        "name": "Актогай",
         "latitude": 46.95,
         "longitude": 79.66667
     },
     {
-        "name": "As\u016bbulaq",
+        "name": "Асубулак",
         "latitude": 49.55688,
         "longitude": 83.06355
     },
     {
-        "name": "Auezov",
+        "name": "Ауэзов",
         "latitude": 49.71003,
         "longitude": 81.58018
     },
     {
-        "name": "Ayagoz",
+        "name": "Аягоз",
         "latitude": 47.96447,
         "longitude": 80.43437
     },
     {
-        "name": "Belogorsk\u012by",
+        "name": "Белогорский",
         "latitude": 49.47698,
         "longitude": 83.14803
     },
     {
-        "name": "Belousovka",
+        "name": "Белоусовка",
         "latitude": 50.13287,
         "longitude": 82.52481
     },
     {
-        "name": "Borodulikha",
+        "name": "Бородулиха",
         "latitude": 50.71841,
         "longitude": 80.9295
     },
     {
-        "name": "Georg\u012bevka",
+        "name": "Георгиевка",
         "latitude": 49.32671,
         "longitude": 81.57373
     },
@@ -400,12 +400,12 @@
         "longitude": 82.31114
     },
     {
-        "name": "Kurchatov",
+        "name": "Курчатов",
         "latitude": 50.75617,
         "longitude": 78.54188
     },
     {
-        "name": "Kurchum",
+        "name": "Курчум",
         "latitude": 48.56603,
         "longitude": 83.66146
     },
@@ -415,97 +415,97 @@
         "longitude": 84.29102
     },
     {
-        "name": "Ognevka",
+        "name": "Огневка",
         "latitude": 49.68351,
         "longitude": 83.01674
     },
     {
-        "name": "Priisk Boko",
+        "name": "Прийск Боко",
         "latitude": 49.06028,
         "longitude": 81.64528
     },
     {
-        "name": "Qara\u016byl",
+        "name": "Каруил",
         "latitude": 48.94509,
         "longitude": 79.25502
     },
     {
-        "name": "Ridder",
+        "name": "Риддер",
         "latitude": 50.34413,
         "longitude": 83.51287
     },
     {
-        "name": "Semey",
+        "name": "Семей",
         "latitude": 50.42675,
         "longitude": 80.26669
     },
     {
-        "name": "Shar",
+        "name": "Шар",
         "latitude": 49.5872,
         "longitude": 81.04883
     },
     {
-        "name": "Shemona\u012bkha",
+        "name": "Шемонаиха",
         "latitude": 50.62811,
         "longitude": 81.91213
     },
     {
-        "name": "Suykbulak",
+        "name": "Суйкбулак",
         "latitude": 49.70837,
         "longitude": 81.04854
     },
     {
-        "name": "T\u016bghyl",
+        "name": "Тугил",
         "latitude": 47.72521,
         "longitude": 84.20629
     },
     {
-        "name": "Urzhar",
+        "name": "Уржар",
         "latitude": 47.09302,
         "longitude": 81.62939
     },
     {
-        "name": "Ust-Kamenogorsk",
+        "name": "Усть-Каменогорск",
         "latitude": 49.97143,
         "longitude": 82.60586
     },
     {
-        "name": "\u016ast\u2019-Talovka",
+        "name": "Усть-Таловка",
         "latitude": 50.54927,
         "longitude": 81.84997
     },
     {
-        "name": "Zaysan",
+        "name": "Зайсан",
         "latitude": 47.46657,
         "longitude": 84.87144
     },
     {
-        "name": "Zhalghyztobe",
+        "name": "Жалгызтобе",
         "latitude": 49.21094,
         "longitude": 81.21596
     },
     {
-        "name": "Zhanga Buqtyrma",
+        "name": "Жанга Буктырма",
         "latitude": 49.6295,
         "longitude": 83.52475
     },
     {
-        "name": "Zhezkent",
+        "name": "Жезкент",
         "latitude": 50.93112,
         "longitude": 81.3615
     },
     {
-        "name": "Zyryanovsk",
+        "name": "Зыряновск",
         "latitude": 49.72654,
         "longitude": 84.27318
     },
     {
-        "name": "Aqbaqay",
+        "name": "Принял",
         "latitude": 45.0,
         "longitude": 72.78333
     },
     {
-        "name": "Chu",
+        "name": "Чу",
         "latitude": 43.60334,
         "longitude": 73.75919
     },
@@ -515,17 +515,17 @@
         "longitude": 74.71287
     },
     {
-        "name": "Granitogorsk",
+        "name": "Гранитогорск",
         "latitude": 42.744,
         "longitude": 73.46848
     },
     {
-        "name": "Karatau",
+        "name": "Каратау",
         "latitude": 43.17869,
         "longitude": 70.46768
     },
     {
-        "name": "Khanta\u016b",
+        "name": "Хантау",
         "latitude": 44.22744,
         "longitude": 73.79555
     },
@@ -540,132 +540,132 @@
         "longitude": 72.72066
     },
     {
-        "name": "Merke",
+        "name": "Бренд",
         "latitude": 42.86976,
         "longitude": 73.18463
     },
     {
-        "name": "Moyynkum",
+        "name": "Мойынкум",
         "latitude": 44.28461,
         "longitude": 72.9392
     },
     {
-        "name": "Mynaral",
+        "name": "Мынарал",
         "latitude": 45.41611,
         "longitude": 73.68444
     },
     {
-        "name": "Oytal",
+        "name": "Ойтал",
         "latitude": 42.90573,
         "longitude": 73.26972
     },
     {
-        "name": "Sarykemer",
+        "name": "Сарыкамер",
         "latitude": 43.0,
         "longitude": 71.5
     },
     {
-        "name": "Shyghanaq",
+        "name": "Шыганак",
         "latitude": 44.83056,
         "longitude": 70.00194
     },
     {
-        "name": "Taraz",
+        "name": "Весы",
         "latitude": 42.9,
         "longitude": 71.36667
     },
     {
-        "name": "Zhangatas",
+        "name": "Жангатас",
         "latitude": 43.56222,
         "longitude": 69.73428
     },
     {
-        "name": "Abay",
+        "name": "Добро пожаловать",
         "latitude": 49.63575,
         "longitude": 72.86164
     },
     {
-        "name": "Abay Qalasy",
+        "name": "Замок Абая",
         "latitude": 49.63333,
         "longitude": 72.88333
     },
     {
-        "name": "Aksu-Ayuly",
+        "name": "Аксу-Аюлы",
         "latitude": 48.76788,
         "longitude": 73.67272
     },
     {
-        "name": "Aktas",
+        "name": "Действовать",
         "latitude": 49.77952,
         "longitude": 72.96128
     },
     {
-        "name": "Aktau",
+        "name": "Актау",
         "latitude": 48.03333,
         "longitude": 72.83333
     },
     {
-        "name": "Aktogay",
+        "name": "Актогай",
         "latitude": 48.16667,
         "longitude": 75.3
     },
     {
-        "name": "Aqadyr",
+        "name": "Акадыр",
         "latitude": 48.26014,
         "longitude": 72.85851
     },
     {
-        "name": "Aqshata\u016b",
+        "name": "Акшатау",
         "latitude": 47.98917,
         "longitude": 74.0575
     },
     {
-        "name": "Aqtoghay A\u016bdany",
+        "name": "Актогай Ауданы",
         "latitude": 48.5,
         "longitude": 74.75
     },
     {
-        "name": "Atas\u016b",
+        "name": "Атасу",
         "latitude": 48.68659,
         "longitude": 71.64469
     },
     {
-        "name": "Balqash",
+        "name": "Балхаш",
         "latitude": 46.84806,
         "longitude": 74.995
     },
     {
-        "name": "Bukhar-Zhyrau",
+        "name": "Бухара-Жырау",
         "latitude": 49.85658,
         "longitude": 73.68118
     },
     {
-        "name": "Dolinka",
+        "name": "Долина",
         "latitude": 49.67685,
         "longitude": 72.67822
     },
     {
-        "name": "Karagandy",
+        "name": "Караганда",
         "latitude": 49.80187,
         "longitude": 73.10211
     },
     {
-        "name": "K\u012bevka",
+        "name": "Киев",
         "latitude": 50.26212,
         "longitude": 71.54839
     },
     {
-        "name": "Koktal",
+        "name": "коктейль",
         "latitude": 49.65,
         "longitude": 73.51667
     },
     {
-        "name": "Kushoky",
+        "name": "Шокирующий",
         "latitude": 50.23091,
         "longitude": 73.40146
     },
     {
-        "name": "Kyzylzhar",
+        "name": "Кызылжар",
         "latitude": 49.98197,
         "longitude": 72.60761
     },
@@ -680,7 +680,7 @@
         "longitude": 72.70807
     },
     {
-        "name": "Osakarovka",
+        "name": "Осакаровка",
         "latitude": 50.56219,
         "longitude": 72.57089
     },
@@ -690,32 +690,32 @@
         "longitude": 75.58438
     },
     {
-        "name": "Priozersk",
+        "name": "Приозерск",
         "latitude": 46.03106,
         "longitude": 73.70247
     },
     {
-        "name": "Qarazhal",
+        "name": "Каражал",
         "latitude": 48.00627,
         "longitude": 70.79607
     },
     {
-        "name": "Qarqaraly",
+        "name": "Гаргарли",
         "latitude": 49.41287,
         "longitude": 75.47286
     },
     {
-        "name": "Saryshaghan",
+        "name": "Сарышаган",
         "latitude": 46.11917,
         "longitude": 73.61917
     },
     {
-        "name": "Sayaq",
+        "name": "Давай посчитаем",
         "latitude": 47.0,
         "longitude": 77.26667
     },
     {
-        "name": "Shakhan",
+        "name": "шахан",
         "latitude": 49.81958,
         "longitude": 72.65407
     },
@@ -725,27 +725,27 @@
         "longitude": 72.59212
     },
     {
-        "name": "Shash\u016bbay",
+        "name": "Шашубай",
         "latitude": 46.81694,
         "longitude": 75.04028
     },
     {
-        "name": "Shubark\u00f6l",
+        "name": "Полка для обуви",
         "latitude": 48.88222,
         "longitude": 68.80722
     },
     {
-        "name": "Soran",
+        "name": "спрашивать",
         "latitude": 49.7908,
         "longitude": 72.83744
     },
     {
-        "name": "Temirtau",
+        "name": "Темиртау",
         "latitude": 50.05494,
         "longitude": 72.96464
     },
     {
-        "name": "Tokarevka",
+        "name": "Токаревка",
         "latitude": 50.11573,
         "longitude": 73.16034
     },
@@ -760,22 +760,22 @@
         "longitude": 71.39694
     },
     {
-        "name": "Zharyk",
+        "name": "Жарык",
         "latitude": 48.85692,
         "longitude": 72.83598
     },
     {
-        "name": "Zhezqazghan",
+        "name": "Жезказган",
         "latitude": 47.78333,
         "longitude": 67.76667
     },
     {
-        "name": "Arkalyk",
+        "name": "Аркалык",
         "latitude": 50.24915,
         "longitude": 66.92027
     },
     {
-        "name": "Ayat",
+        "name": "Предложение",
         "latitude": 52.83554,
         "longitude": 62.52078
     },
@@ -785,32 +785,32 @@
         "longitude": 64.18268
     },
     {
-        "name": "Dzhetygara",
+        "name": "Джетыгара",
         "latitude": 52.19019,
         "longitude": 61.19894
     },
     {
-        "name": "Fyodorovka",
+        "name": "Федоровка",
         "latitude": 53.63809,
         "longitude": 62.69653
     },
     {
-        "name": "Karasu",
+        "name": "Карасу",
         "latitude": 52.65995,
         "longitude": 65.48421
     },
     {
-        "name": "Komsomolets",
+        "name": "Комсомолец",
         "latitude": 53.75019,
         "longitude": 62.0584
     },
     {
-        "name": "Kostanay",
+        "name": "Костанай",
         "latitude": 53.21435,
         "longitude": 63.62463
     },
     {
-        "name": "Lisakovsk",
+        "name": "Лисаковск",
         "latitude": 52.54707,
         "longitude": 62.49987
     },
@@ -820,12 +820,12 @@
         "longitude": 61.74942
     },
     {
-        "name": "Qashar",
+        "name": "Напрасно тратить",
         "latitude": 53.36799,
         "longitude": 62.86839
     },
     {
-        "name": "Qusmuryn",
+        "name": "Кусмурын",
         "latitude": 52.45107,
         "longitude": 64.61977
     },
@@ -835,12 +835,12 @@
         "longitude": 63.11677
     },
     {
-        "name": "Tobol",
+        "name": "Тобол",
         "latitude": 52.69366,
         "longitude": 62.5914
     },
     {
-        "name": "Torghay",
+        "name": "Торгай",
         "latitude": 49.63389,
         "longitude": 63.49806
     },
@@ -850,62 +850,62 @@
         "longitude": 66.07982
     },
     {
-        "name": "Aral",
+        "name": "Арал",
         "latitude": 46.8,
         "longitude": 61.66667
     },
     {
-        "name": "Ayteke Bi",
+        "name": "Слово с",
         "latitude": 45.84607,
         "longitude": 62.15264
     },
     {
-        "name": "Belk\u00f6l",
+        "name": "Конечно",
         "latitude": 44.81162,
         "longitude": 65.58796
     },
     {
-        "name": "Dzhalagash",
+        "name": "Джалагаш",
         "latitude": 45.08333,
         "longitude": 64.66667
     },
     {
-        "name": "Kyzylorda",
+        "name": "Кызылорд",
         "latitude": 44.85278,
         "longitude": 65.50917
     },
     {
-        "name": "Qazaly",
+        "name": "Казалы",
         "latitude": 45.76278,
         "longitude": 62.1075
     },
     {
-        "name": "Sekse\u016bil",
+        "name": "О сексе",
         "latitude": 47.09,
         "longitude": 61.15194
     },
     {
-        "name": "Shalq\u012bya",
+        "name": "Шалькия",
         "latitude": 44.00947,
         "longitude": 67.41062
     },
     {
-        "name": "Sh\u012beli",
+        "name": "Шиели",
         "latitude": 44.16882,
         "longitude": 66.73887
     },
     {
-        "name": "Tasb\u00f6get",
+        "name": "Тасбогет",
         "latitude": 44.77384,
         "longitude": 65.55227
     },
     {
-        "name": "Terenozek",
+        "name": "Теренозек",
         "latitude": 45.05053,
         "longitude": 64.98395
     },
     {
-        "name": "Yanykurgan",
+        "name": "Яныкурган",
         "latitude": 43.90652,
         "longitude": 67.24637
     },
@@ -915,47 +915,47 @@
         "longitude": 64.07806
     },
     {
-        "name": "Aktau",
+        "name": "Актау",
         "latitude": 43.65,
         "longitude": 51.16667
     },
     {
-        "name": "Ba\u016bt\u012bno",
+        "name": "Баутино",
         "latitude": 44.54479,
         "longitude": 50.24629
     },
     {
-        "name": "Beyneu",
+        "name": "Бейнеу",
         "latitude": 45.31667,
         "longitude": 55.2
     },
     {
-        "name": "Fort-Shevchenko",
+        "name": "Форт-Шевченко",
         "latitude": 44.50654,
         "longitude": 50.26388
     },
     {
-        "name": "Munayshy",
+        "name": "Мунайши",
         "latitude": 43.49111,
         "longitude": 52.10861
     },
     {
-        "name": "\u00d6mirzaq",
+        "name": "Омирзак",
         "latitude": 43.59786,
         "longitude": 51.24171
     },
     {
-        "name": "Say\u00f6tesh",
+        "name": "Сайотеш",
         "latitude": 44.32781,
         "longitude": 53.53246
     },
     {
-        "name": "Shetpe",
+        "name": "Шетпе",
         "latitude": 44.16667,
         "longitude": 52.11667
     },
     {
-        "name": "Ta\u016bshyq",
+        "name": "Таушик",
         "latitude": 44.34678,
         "longitude": 51.34932
     },
@@ -965,7 +965,7 @@
         "longitude": 51.68116
     },
     {
-        "name": "Zhanaozen",
+        "name": "Жанаозен",
         "latitude": 43.34116,
         "longitude": 52.86192
     },
@@ -975,27 +975,27 @@
         "longitude": 52.07889
     },
     {
-        "name": "Birlestik",
+        "name": "Бирлестик",
         "latitude": 53.58414,
         "longitude": 68.35382
     },
     {
-        "name": "Bishkul",
+        "name": "Бишкуль",
         "latitude": 54.77763,
         "longitude": 69.09951
     },
     {
-        "name": "Bulayevo",
+        "name": "Булаево",
         "latitude": 54.90596,
         "longitude": 70.44155
     },
     {
-        "name": "B\u016brabay",
+        "name": "Бурабай",
         "latitude": 53.08382,
         "longitude": 70.31379
     },
     {
-        "name": "Kzyltu",
+        "name": "Кзылту",
         "latitude": 53.63589,
         "longitude": 72.34079
     },
@@ -1005,7 +1005,7 @@
         "longitude": 66.76944
     },
     {
-        "name": "Petropavl",
+        "name": "Петропавловск",
         "latitude": 54.86667,
         "longitude": 69.15
     },
@@ -1015,22 +1015,22 @@
         "longitude": 67.40882
     },
     {
-        "name": "Smirnovo",
+        "name": "Смирново",
         "latitude": 54.5148,
         "longitude": 69.42732
     },
     {
-        "name": "Taiynsha",
+        "name": "Тайынша",
         "latitude": 53.84796,
         "longitude": 69.76773
     },
     {
-        "name": "Talshik",
+        "name": "Талшик",
         "latitude": 53.63736,
         "longitude": 71.87404
     },
     {
-        "name": "Timiryazevo",
+        "name": "Тимирязево",
         "latitude": 53.74947,
         "longitude": 66.48852
     },
@@ -1045,37 +1045,37 @@
         "longitude": 68.4574
     },
     {
-        "name": "Nur-Sultan",
+        "name": "Нур-Султан",
         "latitude": 51.1801,
         "longitude": 71.44598
     },
     {
-        "name": "Aksu",
+        "name": "Аксу",
         "latitude": 52.04023,
         "longitude": 76.92748
     },
     {
-        "name": "Bayanaul",
+        "name": "Баянаул",
         "latitude": 50.79304,
         "longitude": 75.70123
     },
     {
-        "name": "Belogor\u2019ye",
+        "name": "Белогора",
         "latitude": 51.52983,
         "longitude": 77.47146
     },
     {
-        "name": "Ekibastuz",
+        "name": "Экибастуз",
         "latitude": 51.72371,
         "longitude": 75.32287
     },
     {
-        "name": "Irtyshsk",
+        "name": "Иртышск",
         "latitude": 53.33365,
         "longitude": 75.45775
     },
     {
-        "name": "Kalkaman",
+        "name": "Калкаман",
         "latitude": 51.95349,
         "longitude": 76.02723
     },
@@ -1085,27 +1085,27 @@
         "longitude": 76.78211
     },
     {
-        "name": "Mayqayyng",
+        "name": "Майкайынг",
         "latitude": 51.45981,
         "longitude": 75.80232
     },
     {
-        "name": "Pavlodar",
+        "name": "Павлодар",
         "latitude": 52.28333,
         "longitude": 76.96667
     },
     {
-        "name": "Qashyr",
+        "name": "Кашир",
         "latitude": 53.06649,
         "longitude": 76.10489
     },
     {
-        "name": "Zhelezinka",
+        "name": "Железинка",
         "latitude": 53.5388,
         "longitude": 75.31326
     },
     {
-        "name": "Arys",
+        "name": "Медведь",
         "latitude": 42.43015,
         "longitude": 68.8087
     },
@@ -1115,12 +1115,12 @@
         "longitude": 68.89792
     },
     {
-        "name": "Asyqata",
+        "name": "Асиката",
         "latitude": 40.8946,
         "longitude": 68.3643
     },
     {
-        "name": "Atakent",
+        "name": "Атакент",
         "latitude": 40.84782,
         "longitude": 68.50643
     },
@@ -1135,37 +1135,37 @@
         "longitude": 69.82709
     },
     {
-        "name": "Chardara",
+        "name": "Чардара",
         "latitude": 41.25832,
         "longitude": 67.96991
     },
     {
-        "name": "Chayan",
+        "name": "Это верно",
         "latitude": 43.03399,
         "longitude": 69.38048
     },
     {
-        "name": "Chulakkurgan",
+        "name": "Чулаккурган",
         "latitude": 43.76453,
         "longitude": 69.17856
     },
     {
-        "name": "Kantagi",
+        "name": "Кантаги",
         "latitude": 43.52786,
         "longitude": 68.58287
     },
     {
-        "name": "Kentau",
+        "name": "Кентау",
         "latitude": 43.51672,
         "longitude": 68.50463
     },
     {
-        "name": "Kokterek",
+        "name": "Коктейли",
         "latitude": 42.49442,
         "longitude": 70.25478
     },
     {
-        "name": "Lenger",
+        "name": "дольше",
         "latitude": 42.18152,
         "longitude": 69.88582
     },
@@ -1175,82 +1175,82 @@
         "longitude": 69.3839
     },
     {
-        "name": "Maqtaaral A\u016bdany",
+        "name": "Мактарал Одани",
         "latitude": 40.75,
         "longitude": 68.58333
     },
     {
-        "name": "Myrzakent",
+        "name": "Мырзакент",
         "latitude": 40.66338,
         "longitude": 68.5451
     },
     {
-        "name": "Qogham",
+        "name": "Когам",
         "latitude": 42.82774,
         "longitude": 68.28074
     },
     {
-        "name": "Saryaghash",
+        "name": "Сарыагаш",
         "latitude": 41.46042,
         "longitude": 69.16791
     },
     {
-        "name": "Saryaghash A\u016bdany",
+        "name": "Сарыагаш Ауданы",
         "latitude": 41.66667,
         "longitude": 68.83333
     },
     {
-        "name": "Sastobe",
+        "name": "Састобе",
         "latitude": 42.5533,
         "longitude": 69.99835
     },
     {
-        "name": "Sozaq A\u016bdany",
+        "name": "Созак Аудани",
         "latitude": 44.83333,
         "longitude": 68.5
     },
     {
-        "name": "Temirlanovka",
+        "name": "Ремонт",
         "latitude": 42.59998,
         "longitude": 69.25836
     },
     {
-        "name": "Turar Ryskulov",
+        "name": "Турар Рыскулов",
         "latitude": 42.5334,
         "longitude": 70.3496
     },
     {
-        "name": "Turkestan",
+        "name": "Туркестан",
         "latitude": 43.29733,
         "longitude": 68.25175
     },
     {
-        "name": "Tyul\u2019kubas",
+        "name": "Tyul’kubas",
         "latitude": 42.48578,
         "longitude": 70.29601
     },
     {
-        "name": "Zhabagly",
+        "name": "Жабаглы",
         "latitude": 42.43781,
         "longitude": 70.47841
     },
     {
-        "name": "Aqsay",
+        "name": "Агсай",
         "latitude": 51.1681,
         "longitude": 52.99782
     },
     {
-        "name": "Burlin",
+        "name": "Берлин",
         "latitude": 51.42724,
         "longitude": 52.71392
     },
     {
-        "name": "Chapaev",
+        "name": "Чапаев",
         "latitude": 50.2,
         "longitude": 51.16667
     },
     {
-        "name": "Chingirlau",
+        "name": "Чингирлау",
         "latitude": 51.09878,
         "longitude": 54.08426
     },
@@ -1265,37 +1265,37 @@
         "longitude": 51.95723
     },
     {
-        "name": "Kaztalovka",
+        "name": "Казталовка",
         "latitude": 49.76612,
         "longitude": 48.68903
     },
     {
-        "name": "Kr\u016bgloozernoe",
+        "name": "Круглоозерное",
         "latitude": 51.07854,
         "longitude": 51.28992
     },
     {
-        "name": "Oral",
+        "name": "Оральный",
         "latitude": 51.23333,
         "longitude": 51.36667
     },
     {
-        "name": "Peremetnoe",
+        "name": "Семейное дерево",
         "latitude": 51.19925,
         "longitude": 50.85544
     },
     {
-        "name": "Saykhin",
+        "name": "Сайхин",
         "latitude": 48.85611,
         "longitude": 46.83361
     },
     {
-        "name": "Tasqala",
+        "name": "Таскала",
         "latitude": 51.11073,
         "longitude": 50.29454
     },
     {
-        "name": "Zh\u00e4nibek",
+        "name": "Жанибек",
         "latitude": 49.42207,
         "longitude": 46.84705
     }

@@ -1,4201 +1,4201 @@
 [
     {
-        "name": "Aenon Town",
+        "name": "Энон Таун",
         "latitude": 18.21027,
         "longitude": -77.39851
     },
     {
-        "name": "Alley",
+        "name": "Аллея",
         "latitude": 17.79036,
         "longitude": -77.27085
     },
     {
-        "name": "Alston",
+        "name": "Олстон",
         "latitude": 18.17639,
         "longitude": -77.43468
     },
     {
-        "name": "Ashley",
+        "name": "Эшли",
         "latitude": 18.0144,
         "longitude": -77.34019
     },
     {
-        "name": "Banks",
+        "name": "банки",
         "latitude": 17.83222,
         "longitude": -77.30731
     },
     {
-        "name": "Beckford Kraal",
+        "name": "Бекфорд Краал",
         "latitude": 18.08545,
         "longitude": -77.32399
     },
     {
-        "name": "Brandon Hill",
+        "name": "Брэндон Хилл",
         "latitude": 18.1511,
         "longitude": -77.23663
     },
     {
-        "name": "Brixton Hill",
+        "name": "Брикстон Хилл",
         "latitude": 18.02039,
         "longitude": -77.31744
     },
     {
-        "name": "Bucknor",
+        "name": "Бакнор",
         "latitude": 18.00619,
         "longitude": -77.23749
     },
     {
-        "name": "Bucks Common",
+        "name": "Бакс Коммон",
         "latitude": 17.98228,
         "longitude": -77.23846
     },
     {
-        "name": "Bushy Park",
+        "name": "Буши Парк",
         "latitude": 17.98243,
         "longitude": -77.25135
     },
     {
-        "name": "Chapelton",
+        "name": "Чапелтон",
         "latitude": 18.08333,
         "longitude": -77.26667
     },
     {
-        "name": "Chateau",
+        "name": "Замок",
         "latitude": 17.98972,
         "longitude": -77.18737
     },
     {
-        "name": "Cockpit",
+        "name": "Кокпит",
         "latitude": 17.88872,
         "longitude": -77.15835
     },
     {
-        "name": "Coffee Piece",
+        "name": "Кусок кофе",
         "latitude": 18.13835,
         "longitude": -77.40648
     },
     {
-        "name": "Colonels Ridge",
+        "name": "Полковник Ридж",
         "latitude": 18.13525,
         "longitude": -77.2555
     },
     {
-        "name": "Coxswain",
+        "name": "рулевой",
         "latitude": 18.10272,
         "longitude": -77.23444
     },
     {
-        "name": "Crofts Hill",
+        "name": "Крофтс Хилл",
         "latitude": 18.13268,
         "longitude": -77.20507
     },
     {
-        "name": "Crooked River",
+        "name": "Кривая река",
         "latitude": 18.14289,
         "longitude": -77.3
     },
     {
-        "name": "Cumberland",
+        "name": "Камберленд",
         "latitude": 18.10522,
         "longitude": -77.41617
     },
     {
-        "name": "Curatoe Hill",
+        "name": "Курато Хилл",
         "latitude": 17.93982,
         "longitude": -77.24836
     },
     {
-        "name": "Dawkins",
+        "name": "Докинз",
         "latitude": 18.0554,
         "longitude": -77.33303
     },
     {
-        "name": "Effortville",
+        "name": "Эффортвилль",
         "latitude": 17.9927,
         "longitude": -77.2186
     },
     {
-        "name": "Four Paths",
+        "name": "Четыре пути",
         "latitude": 17.97089,
         "longitude": -77.29599
     },
     {
-        "name": "Frankfield",
+        "name": "Франкфилд",
         "latitude": 18.14971,
         "longitude": -77.36498
     },
     {
-        "name": "Freetown",
+        "name": "Фритаун",
         "latitude": 17.92192,
         "longitude": -77.14781
     },
     {
-        "name": "Gimme-me-bit",
+        "name": "Дай мне немного",
         "latitude": 17.88946,
         "longitude": -77.28469
     },
     {
-        "name": "Glenmuir",
+        "name": "Гленмюр",
         "latitude": 17.96801,
         "longitude": -77.25394
     },
     {
-        "name": "Grantham",
+        "name": "Грэнтэм",
         "latitude": 18.15839,
         "longitude": -77.39643
     },
     {
-        "name": "Gravel Hill",
+        "name": "Гравийный холм",
         "latitude": 17.90968,
         "longitude": -77.33354
     },
     {
-        "name": "Hayes",
+        "name": "Хейс",
         "latitude": 17.87569,
         "longitude": -77.23711
     },
     {
-        "name": "Hazard",
+        "name": "Опасность",
         "latitude": 17.95382,
         "longitude": -77.23147
     },
     {
-        "name": "Inverness",
+        "name": "Инвернесс",
         "latitude": 17.91195,
         "longitude": -77.19032
     },
     {
-        "name": "James Hill",
+        "name": "Джеймс Хилл",
         "latitude": 18.1875,
         "longitude": -77.337
     },
     {
-        "name": "Johns Hall",
+        "name": "Джонс Холл",
         "latitude": 18.18876,
         "longitude": -77.38063
     },
     {
-        "name": "Kellits",
+        "name": "Келлитс",
         "latitude": 18.16184,
         "longitude": -77.27049
     },
     {
-        "name": "Limit",
+        "name": "Лимит",
         "latitude": 18.15287,
         "longitude": -77.47121
     },
     {
-        "name": "Lionel Town",
+        "name": "Лайонел Таун",
         "latitude": 17.81007,
         "longitude": -77.24061
     },
     {
-        "name": "Longville Park",
+        "name": "Лонгвилл Парк",
         "latitude": 17.91188,
         "longitude": -77.15983
     },
     {
-        "name": "Longwood",
+        "name": "Лонгвуд",
         "latitude": 17.80754,
         "longitude": -77.28728
     },
     {
-        "name": "May Pen",
+        "name": "Мэй Пен",
         "latitude": 17.96454,
         "longitude": -77.24515
     },
     {
-        "name": "May Pen Proper",
+        "name": "Мэй Пен Пропер",
         "latitude": 17.97034,
         "longitude": -77.23911
     },
     {
-        "name": "Milk River",
+        "name": "Молочная река",
         "latitude": 17.8756,
         "longitude": -77.35139
     },
     {
-        "name": "Mineral Heights",
+        "name": "Минеральные высоты",
         "latitude": 17.94183,
         "longitude": -77.23276
     },
     {
-        "name": "Mitchell Town",
+        "name": "Митчелл Таун",
         "latitude": 17.81281,
         "longitude": -77.20531
     },
     {
-        "name": "Moores",
+        "name": "Мурс",
         "latitude": 18.02926,
         "longitude": -77.1854
     },
     {
-        "name": "Morgans Forest",
+        "name": "Морганс Форест",
         "latitude": 18.19088,
         "longitude": -77.41021
     },
     {
-        "name": "Morgans Pass",
+        "name": "Морганс Пасс",
         "latitude": 18.12123,
         "longitude": -77.27493
     },
     {
-        "name": "Mount Airy",
+        "name": "Гора Эйри",
         "latitude": 18.01843,
         "longitude": -77.36357
     },
     {
-        "name": "New Denbigh",
+        "name": "Нью-Денби",
         "latitude": 17.98563,
         "longitude": -77.27104
     },
     {
-        "name": "New Longsville",
+        "name": "Нью-Лонгсвилл",
         "latitude": 18.03072,
         "longitude": -77.23048
     },
     {
-        "name": "Old Denbigh",
+        "name": "Старый Денби",
         "latitude": 17.96116,
         "longitude": -77.26701
     },
     {
-        "name": "Orange Hill",
+        "name": "Оранжевый холм",
         "latitude": 18.11788,
         "longitude": -77.35942
     },
     {
-        "name": "Osbourne Store",
+        "name": "Осборн Магазин",
         "latitude": 17.95892,
         "longitude": -77.32827
     },
     {
-        "name": "Paisley",
+        "name": "Пейсли",
         "latitude": 17.96293,
         "longitude": -77.22368
     },
     {
-        "name": "Palmers Cross",
+        "name": "Палмерс Кросс",
         "latitude": 17.95,
         "longitude": -77.20338
     },
     {
-        "name": "Part of Banana Ground",
+        "name": "Часть банановой земли",
         "latitude": 18.08022,
         "longitude": -77.40971
     },
     {
-        "name": "Part of Douglas Castle",
+        "name": "Часть замка Дуглас",
         "latitude": 18.18703,
         "longitude": -77.27538
     },
     {
-        "name": "Part of Kellits",
+        "name": "Часть Келлита",
         "latitude": 18.17159,
         "longitude": -77.2512
     },
     {
-        "name": "Peckham",
+        "name": "Пекхэм",
         "latitude": 18.17147,
         "longitude": -77.39766
     },
     {
-        "name": "Pennants",
+        "name": "Вымпелы",
         "latitude": 18.11025,
         "longitude": -77.31306
     },
     {
-        "name": "Pleasant Valley",
+        "name": "Приятная долина",
         "latitude": 18.01101,
         "longitude": -77.29027
     },
     {
-        "name": "Portland Cottage",
+        "name": "Портленд Коттедж",
         "latitude": 17.7462,
         "longitude": -77.18772
     },
     {
-        "name": "Porus",
+        "name": "Порус",
         "latitude": 18.05202,
         "longitude": -77.40007
     },
     {
-        "name": "Race Course",
+        "name": "Гоночная трасса",
         "latitude": 17.84019,
         "longitude": -77.28223
     },
     {
-        "name": "Richmond Park",
+        "name": "Ричмонд Парк",
         "latitude": 18.05172,
         "longitude": -77.37642
     },
     {
-        "name": "Ritchies",
+        "name": "Ричи",
         "latitude": 18.13904,
         "longitude": -77.42893
     },
     {
-        "name": "Rock",
+        "name": "Камень",
         "latitude": 17.99122,
         "longitude": -77.33702
     },
     {
-        "name": "Rock River",
+        "name": "Рок-Ривер",
         "latitude": 18.06548,
         "longitude": -77.19707
     },
     {
-        "name": "Rocky Point",
+        "name": "Рокки Пойнт",
         "latitude": 17.77695,
         "longitude": -77.24816
     },
     {
-        "name": "Salt River",
+        "name": "Соленая река",
         "latitude": 17.84143,
         "longitude": -77.17413
     },
     {
-        "name": "Sandy Bay",
+        "name": "Сэнди Бэй",
         "latitude": 17.95105,
         "longitude": -77.16225
     },
     {
-        "name": "Sanguinetti",
+        "name": "Сангинетти",
         "latitude": 18.15585,
         "longitude": -77.42938
     },
     {
-        "name": "Sedgepond",
+        "name": "Осока",
         "latitude": 17.84753,
         "longitude": -77.32638
     },
     {
-        "name": "Silent Hill",
+        "name": "Молчащий Холм",
         "latitude": 18.19152,
         "longitude": -77.45918
     },
     {
-        "name": "Smithville",
+        "name": "Смитвилл",
         "latitude": 18.11977,
         "longitude": -77.38561
     },
     {
-        "name": "Spaldings",
+        "name": "Сполдингс",
         "latitude": 18.16875,
         "longitude": -77.45798
     },
     {
-        "name": "Summerfield",
+        "name": "Саммерфилд",
         "latitude": 18.09433,
         "longitude": -77.28429
     },
     {
-        "name": "Thompson Town",
+        "name": "Томпсон Таун",
         "latitude": 18.08968,
         "longitude": -77.37186
     },
     {
-        "name": "Tollgate",
+        "name": "Платные ворота",
         "latitude": 17.97195,
         "longitude": -77.36566
     },
     {
-        "name": "Treadlight",
+        "name": "Тредлайт",
         "latitude": 17.99264,
         "longitude": -77.25531
     },
     {
-        "name": "Trout Hall",
+        "name": "Траут Холл",
         "latitude": 18.13779,
         "longitude": -77.33299
     },
     {
-        "name": "Turners",
+        "name": "Тернеры",
         "latitude": 18.06647,
         "longitude": -77.23523
     },
     {
-        "name": "Water Lane",
+        "name": "Водный переулок",
         "latitude": 17.82452,
         "longitude": -77.25946
     },
     {
-        "name": "Woodhall",
+        "name": "Вудхолл",
         "latitude": 18.04757,
         "longitude": -77.27575
     },
     {
-        "name": "York Town",
+        "name": "Йорк Таун",
         "latitude": 17.92515,
         "longitude": -77.30002
     },
     {
-        "name": "Askenish",
+        "name": "Аскениш",
         "latitude": 18.38492,
         "longitude": -78.1491
     },
     {
-        "name": "Cacoon",
+        "name": "Какун",
         "latitude": 18.41642,
         "longitude": -78.2073
     },
     {
-        "name": "Cacoon Castle",
+        "name": "Замок Какун",
         "latitude": 18.40247,
         "longitude": -78.01336
     },
     {
-        "name": "Cascade",
+        "name": "Каскад",
         "latitude": 18.39747,
         "longitude": -78.10337
     },
     {
-        "name": "Cash Hill",
+        "name": "Кэш Хилл",
         "latitude": 18.3692,
         "longitude": -78.10938
     },
     {
-        "name": "Cauldwell",
+        "name": "Колдуэлл",
         "latitude": 18.38583,
         "longitude": -78.2411
     },
     {
-        "name": "Chambers Pen",
+        "name": "Чемберс Пен",
         "latitude": 18.4052,
         "longitude": -78.15975
     },
     {
-        "name": "Chester Castle",
+        "name": "Честерский замок",
         "latitude": 18.33822,
         "longitude": -77.94722
     },
     {
-        "name": "Copse",
+        "name": "Роща",
         "latitude": 18.39466,
         "longitude": -77.97678
     },
     {
-        "name": "Cousins Cove",
+        "name": "Казинс Коув",
         "latitude": 18.42425,
         "longitude": -78.23752
     },
     {
-        "name": "Dias",
+        "name": "Диас",
         "latitude": 18.39379,
         "longitude": -78.18562
     },
     {
-        "name": "Great Valley",
+        "name": "Великая долина",
         "latitude": 18.41169,
         "longitude": -78.05023
     },
     {
-        "name": "Green Island",
+        "name": "Зеленый остров",
         "latitude": 18.38399,
         "longitude": -78.27015
     },
     {
-        "name": "Haddington",
+        "name": "Хаддингтон",
         "latitude": 18.42043,
         "longitude": -78.00383
     },
     {
-        "name": "Hopewell",
+        "name": "Хоупвелл",
         "latitude": 18.44321,
         "longitude": -78.02636
     },
     {
-        "name": "Jericho",
+        "name": "Иерихон",
         "latitude": 18.43744,
         "longitude": -78.13028
     },
     {
-        "name": "Kendal",
+        "name": "Кендал",
         "latitude": 18.36287,
         "longitude": -78.2272
     },
     {
-        "name": "Kingsvale",
+        "name": "Кингсвейл",
         "latitude": 18.38087,
         "longitude": -78.20523
     },
     {
-        "name": "Lances Bay",
+        "name": "Лэнс Бэй",
         "latitude": 18.43819,
         "longitude": -78.21442
     },
     {
-        "name": "Logwood",
+        "name": "Логвуд",
         "latitude": 18.34878,
         "longitude": -78.2962
     },
     {
-        "name": "Lucea",
+        "name": "Люси",
         "latitude": 18.45095,
         "longitude": -78.17356
     },
     {
-        "name": "Lucea East",
+        "name": "Лучеа Восток",
         "latitude": 18.42198,
         "longitude": -78.16675
     },
     {
-        "name": "Lucea West",
+        "name": "Люсия Уэст",
         "latitude": 18.44238,
         "longitude": -78.18663
     },
     {
-        "name": "March Town",
+        "name": "Марч Таун",
         "latitude": 18.32951,
         "longitude": -78.27656
     },
     {
-        "name": "Maryland",
+        "name": "Мэриленд",
         "latitude": 18.38679,
         "longitude": -78.12825
     },
     {
-        "name": "Mount Peto",
+        "name": "Гора Пето",
         "latitude": 18.35747,
         "longitude": -78.02289
     },
     {
-        "name": "Orange Bay",
+        "name": "Ориндж Бэй",
         "latitude": 18.34266,
         "longitude": -78.32005
     },
     {
-        "name": "Pell River",
+        "name": "Река Пелл",
         "latitude": 18.37886,
         "longitude": -78.21904
     },
     {
-        "name": "Pondside",
+        "name": "Пондсайд",
         "latitude": 18.40222,
         "longitude": -78.07344
     },
     {
-        "name": "Ramble",
+        "name": "Рамбл",
         "latitude": 18.34674,
         "longitude": -77.98802
     },
     {
-        "name": "Rock Spring",
+        "name": "Рок-Весна",
         "latitude": 18.34797,
         "longitude": -78.24392
     },
     {
-        "name": "Sandy Bay",
+        "name": "Сэнди Бэй",
         "latitude": 18.4375,
         "longitude": -78.08383
     },
     {
-        "name": "Santoy",
+        "name": "Сантой",
         "latitude": 18.35875,
         "longitude": -78.28386
     },
     {
-        "name": "Success",
+        "name": "Успех",
         "latitude": 18.37729,
         "longitude": -78.05105
     },
     {
-        "name": "Woodlands",
+        "name": "Вудлендс",
         "latitude": 18.44555,
         "longitude": -77.99963
     },
     {
-        "name": "Woodsville",
+        "name": "Вудсвилл",
         "latitude": 18.3695,
         "longitude": -78.07217
     },
     {
-        "name": "Allman Town",
+        "name": "Оллман Таун",
         "latitude": 17.98297,
         "longitude": -76.78685
     },
     {
-        "name": "Bournemouth Gardens",
+        "name": "Борнмутские сады",
         "latitude": 17.97009,
         "longitude": -76.76266
     },
     {
-        "name": "Campbell Town",
+        "name": "Кэмпбелл Таун",
         "latitude": 17.97914,
         "longitude": -76.78134
     },
     {
-        "name": "Central Down Town",
+        "name": "Центральный Даун Таун",
         "latitude": 17.96958,
         "longitude": -76.79264
     },
     {
-        "name": "D'Aguilar Town/ Rennock Lodge",
+        "name": "Д'Агилар Таун/Реннок Лодж",
         "latitude": 17.97001,
         "longitude": -76.73701
     },
     {
-        "name": "Denham Town",
+        "name": "Денхэм Таун",
         "latitude": 17.97812,
         "longitude": -76.79984
     },
     {
-        "name": "East Down Town",
+        "name": "Ист-Даунтаун",
         "latitude": 17.97197,
         "longitude": -76.78471
     },
     {
-        "name": "Fletchers Land",
+        "name": "Флетчерс Лэнд",
         "latitude": 17.97968,
         "longitude": -76.791
     },
     {
-        "name": "Franklyn Town",
+        "name": "Франклин Таун",
         "latitude": 17.97787,
         "longitude": -76.77339
     },
     {
-        "name": "Hannah Town/ Craig Town",
+        "name": "Ханна Таун / Крейг Таун",
         "latitude": 17.97998,
         "longitude": -76.7943
     },
     {
-        "name": "Johnson Town",
+        "name": "Джонсон Таун",
         "latitude": 17.97771,
         "longitude": -76.75593
     },
     {
-        "name": "Kingston",
+        "name": "Кингстон",
         "latitude": 17.99702,
         "longitude": -76.79358
     },
     {
-        "name": "Kingston Gardens",
+        "name": "Кингстон Гарденс",
         "latitude": 17.97836,
         "longitude": -76.78681
     },
     {
-        "name": "Manley Meadows",
+        "name": "Мэнли Медоуз",
         "latitude": 17.96907,
         "longitude": -76.77116
     },
     {
-        "name": "Newport East",
+        "name": "Ньюпорт Ист",
         "latitude": 17.97421,
         "longitude": -76.80663
     },
     {
-        "name": "Newton Square",
+        "name": "Ньютон-сквер",
         "latitude": 17.97352,
         "longitude": -76.77207
     },
     {
-        "name": "Norman Gardens",
+        "name": "Нормандские сады",
         "latitude": 17.97803,
         "longitude": -76.7594
     },
     {
-        "name": "Passmore Town",
+        "name": "Пассмор Таун",
         "latitude": 17.97301,
         "longitude": -76.7765
     },
     {
-        "name": "Port Royal",
+        "name": "Порт-Рояль",
         "latitude": 17.93738,
         "longitude": -76.84062
     },
     {
-        "name": "Rae Town",
+        "name": "Рэй Таун",
         "latitude": 17.96773,
         "longitude": -76.77965
     },
     {
-        "name": "Rollington Town",
+        "name": "Роллингтон Таун",
         "latitude": 17.97687,
         "longitude": -76.76523
     },
     {
-        "name": "Southside",
+        "name": "Южная сторона",
         "latitude": 17.96569,
         "longitude": -76.78624
     },
     {
-        "name": "Springfield",
+        "name": "Спрингфилд",
         "latitude": 17.97117,
         "longitude": -76.75607
     },
     {
-        "name": "Tivoli Gardens",
+        "name": "Сады Тиволи",
         "latitude": 17.97326,
         "longitude": -76.8009
     },
     {
-        "name": "West Down Town",
+        "name": "Вест-Даунтаун",
         "latitude": 17.97294,
         "longitude": -76.79704
     },
     {
-        "name": "Alligator Pond",
+        "name": "Пруд с аллигаторами",
         "latitude": 17.88369,
         "longitude": -77.56068
     },
     {
-        "name": "Asia/Pratville",
+        "name": "Вещь/Пратвилл",
         "latitude": 17.91584,
         "longitude": -77.41563
     },
     {
-        "name": "Auchtembeddie",
+        "name": "Охтембедди",
         "latitude": 18.22543,
         "longitude": -77.60361
     },
     {
-        "name": "Bellefield",
+        "name": "Белльфилд",
         "latitude": 18.09266,
         "longitude": -77.44004
     },
     {
-        "name": "Bethany",
+        "name": "Бетани",
         "latitude": 18.15373,
         "longitude": -77.55032
     },
     {
-        "name": "Blue Mountain",
+        "name": "Голубая гора",
         "latitude": 18.07095,
         "longitude": -77.4284
     },
     {
-        "name": "Bombay",
+        "name": "Бомбей",
         "latitude": 18.1178,
         "longitude": -77.4494
     },
     {
-        "name": "Butt-Up",
+        "name": "задница",
         "latitude": 17.97313,
         "longitude": -77.57777
     },
     {
-        "name": "Cedar Grove",
+        "name": "Кедровая роща",
         "latitude": 18.01225,
         "longitude": -77.4963
     },
     {
-        "name": "Chantilly",
+        "name": "Шантильи",
         "latitude": 18.10447,
         "longitude": -77.46625
     },
     {
-        "name": "Christiana",
+        "name": "Кристиана",
         "latitude": 18.18015,
         "longitude": -77.49045
     },
     {
-        "name": "Chudleigh",
+        "name": "Чадли",
         "latitude": 18.15148,
         "longitude": -77.50707
     },
     {
-        "name": "Cobbla",
+        "name": "Коббла",
         "latitude": 18.1406,
         "longitude": -77.46998
     },
     {
-        "name": "Coleyville",
+        "name": "Коливилл",
         "latitude": 18.19993,
         "longitude": -77.51924
     },
     {
-        "name": "Comfort",
+        "name": "Комфорт",
         "latitude": 18.0539,
         "longitude": -77.42477
     },
     {
-        "name": "Comfort Hall",
+        "name": "Комфорт Холл",
         "latitude": 18.18789,
         "longitude": -77.61041
     },
     {
-        "name": "Content",
+        "name": "Содержание",
         "latitude": 18.07444,
         "longitude": -77.45116
     },
     {
-        "name": "Craig Head",
+        "name": "Крейг Хэд",
         "latitude": 18.23658,
         "longitude": -77.56295
     },
     {
-        "name": "Cross Keys",
+        "name": "Крестовые ключи",
         "latitude": 17.90727,
         "longitude": -77.50111
     },
     {
-        "name": "Devon",
+        "name": "Девон",
         "latitude": 18.16595,
         "longitude": -77.52507
     },
     {
-        "name": "Downs",
+        "name": "Даунс",
         "latitude": 17.95004,
         "longitude": -77.57313
     },
     {
-        "name": "Ellen Street",
+        "name": "Эллен Стрит",
         "latitude": 17.96796,
         "longitude": -77.43931
     },
     {
-        "name": "Evergreen",
+        "name": "Эвергрин",
         "latitude": 18.15096,
         "longitude": -77.59965
     },
     {
-        "name": "Fairfield",
+        "name": "Фэрфилд",
         "latitude": 18.03117,
         "longitude": -77.57535
     },
     {
-        "name": "French Park",
+        "name": "Французский парк",
         "latitude": 17.95572,
         "longitude": -77.54471
     },
     {
-        "name": "George's Valley",
+        "name": "Джорджс-Вэлли",
         "latitude": 18.03172,
         "longitude": -77.48081
     },
     {
-        "name": "Good Intent",
+        "name": "Доброе намерение",
         "latitude": 18.20806,
         "longitude": -77.57086
     },
     {
-        "name": "Greenvale",
+        "name": "Гринвейл",
         "latitude": 18.03928,
         "longitude": -77.53239
     },
     {
-        "name": "Grove Place",
+        "name": "Гроув Плейс",
         "latitude": 18.10467,
         "longitude": -77.52923
     },
     {
-        "name": "Grove Town",
+        "name": "Гроув Таун",
         "latitude": 17.88606,
         "longitude": -77.45882
     },
     {
-        "name": "Harmons",
+        "name": "Хармонс",
         "latitude": 17.98171,
         "longitude": -77.41208
     },
     {
-        "name": "Harry Watch",
+        "name": "Гарри Уотч",
         "latitude": 18.17314,
         "longitude": -77.57611
     },
     {
-        "name": "Hatfield",
+        "name": "Хэтфилд",
         "latitude": 18.01557,
         "longitude": -77.54009
     },
     {
-        "name": "Heartease",
+        "name": "Сердце",
         "latitude": 18.04878,
         "longitude": -77.48238
     },
     {
-        "name": "Hibernia",
+        "name": "Гиберния",
         "latitude": 18.17575,
         "longitude": -77.5483
     },
     {
-        "name": "Huntley",
+        "name": "Хантли",
         "latitude": 18.06647,
         "longitude": -77.58171
     },
     {
-        "name": "Kendal",
+        "name": "Кендал",
         "latitude": 18.08318,
         "longitude": -77.5032
     },
     {
-        "name": "Knockpatrick",
+        "name": "Нокпатрик",
         "latitude": 17.99027,
         "longitude": -77.4927
     },
     {
-        "name": "Lancaster",
+        "name": "Ланкастер",
         "latitude": 17.93603,
         "longitude": -77.46134
     },
     {
-        "name": "Litchfield",
+        "name": "Личфилд",
         "latitude": 18.13502,
         "longitude": -77.52448
     },
     {
-        "name": "Maidstone",
+        "name": "Мейдстон",
         "latitude": 18.10165,
         "longitude": -77.57284
     },
     {
-        "name": "Mandeville",
+        "name": "Мандевиль",
         "latitude": 18.04168,
         "longitude": -77.50714
     },
     {
-        "name": "Mandeville Proper",
+        "name": "Собственно Мандевиль",
         "latitude": 18.04453,
         "longitude": -77.50574
     },
     {
-        "name": "Marlie Hill",
+        "name": "Марли Хилл",
         "latitude": 17.86692,
         "longitude": -77.50835
     },
     {
-        "name": "May Day",
+        "name": "Первое мая",
         "latitude": 18.00951,
         "longitude": -77.47606
     },
     {
-        "name": "Medina",
+        "name": "Медина",
         "latitude": 18.12236,
         "longitude": -77.59643
     },
     {
-        "name": "Mike Town",
+        "name": "Майк Таун",
         "latitude": 18.04253,
         "longitude": -77.5549
     },
     {
-        "name": "Mile Gully",
+        "name": "Майл Галли",
         "latitude": 18.13395,
         "longitude": -77.56556
     },
     {
-        "name": "New Forest",
+        "name": "Нью-Форест",
         "latitude": 17.9201,
         "longitude": -77.55867
     },
     {
-        "name": "New Green",
+        "name": "Нью Грин",
         "latitude": 18.07663,
         "longitude": -77.52569
     },
     {
-        "name": "Newport",
+        "name": "Ньюпорт",
         "latitude": 17.96293,
         "longitude": -77.50486
     },
     {
-        "name": "Old England",
+        "name": "Старая Англия",
         "latitude": 17.98503,
         "longitude": -77.46017
     },
     {
-        "name": "Part Of Banana Ground",
+        "name": "Часть банановой земли",
         "latitude": 18.07912,
         "longitude": -77.42134
     },
     {
-        "name": "Part Of Gutters",
+        "name": "Часть желобов",
         "latitude": 18.00642,
         "longitude": -77.57903
     },
     {
-        "name": "Part of Spaldings",
+        "name": "Часть Сполдингса",
         "latitude": 18.15819,
         "longitude": -77.46627
     },
     {
-        "name": "Pike",
+        "name": "Щука",
         "latitude": 18.23229,
         "longitude": -77.5379
     },
     {
-        "name": "Plowden",
+        "name": "Вспашка",
         "latitude": 17.89178,
         "longitude": -77.53846
     },
     {
-        "name": "Porus",
+        "name": "Порус",
         "latitude": 18.03535,
         "longitude": -77.41166
     },
     {
-        "name": "Prospect",
+        "name": "Перспектива",
         "latitude": 17.98244,
         "longitude": -77.56775
     },
     {
-        "name": "Richmond",
+        "name": "Ричмонд",
         "latitude": 18.0256,
         "longitude": -77.46337
     },
     {
-        "name": "Robins Hall",
+        "name": "Робинс Холл",
         "latitude": 18.20405,
         "longitude": -77.55007
     },
     {
-        "name": "Rose Hill",
+        "name": "Роуз Хилл",
         "latitude": 17.92471,
         "longitude": -77.5234
     },
     {
-        "name": "Royal Flat",
+        "name": "Королевская квартира",
         "latitude": 18.04965,
         "longitude": -77.4683
     },
     {
-        "name": "Scotts Pass",
+        "name": "Скоттс Пасс",
         "latitude": 17.9992,
         "longitude": -77.3982
     },
     {
-        "name": "Snowdon",
+        "name": "Сноудон",
         "latitude": 17.94198,
         "longitude": -77.49137
     },
     {
-        "name": "Somerset",
+        "name": "Сомерсет",
         "latitude": 18.08036,
         "longitude": -77.54306
     },
     {
-        "name": "Spring Ground",
+        "name": "Весенняя земля",
         "latitude": 18.16233,
         "longitude": -77.47977
     },
     {
-        "name": "Spur Tree",
+        "name": "Шпорное дерево",
         "latitude": 18.0065,
         "longitude": -77.55664
     },
     {
-        "name": "St. Paul's",
+        "name": "Святого Павла",
         "latitude": 18.13144,
         "longitude": -77.612
     },
     {
-        "name": "Swaby's Hope",
+        "name": "Надежда Сваби",
         "latitude": 17.98608,
         "longitude": -77.53326
     },
     {
-        "name": "Top Hill",
+        "name": "Топ Хилл",
         "latitude": 18.11622,
         "longitude": -77.50344
     },
     {
-        "name": "Victoria Town",
+        "name": "Виктория Таун",
         "latitude": 17.90472,
         "longitude": -77.37795
     },
     {
-        "name": "Walderston",
+        "name": "Уолдерстон",
         "latitude": 18.11637,
         "longitude": -77.48614
     },
     {
-        "name": "Watham",
+        "name": "Он ел",
         "latitude": 18.00675,
         "longitude": -77.51873
     },
     {
-        "name": "Williamsfield",
+        "name": "Уильямсфилд",
         "latitude": 18.06664,
         "longitude": -77.46582
     },
     {
-        "name": "Balcarres",
+        "name": "Балькаррес",
         "latitude": 18.16735,
         "longitude": -76.72061
     },
     {
-        "name": "Bangor Ridge",
+        "name": "Бангорский хребет",
         "latitude": 18.13637,
         "longitude": -76.68903
     },
     {
-        "name": "Belvedere",
+        "name": "Бельведер",
         "latitude": 18.20772,
         "longitude": -76.69671
     },
     {
-        "name": "Black Hill",
+        "name": "Блэк Хилл",
         "latitude": 18.21786,
         "longitude": -76.59758
     },
     {
-        "name": "Boundbrook",
+        "name": "Баундбрук",
         "latitude": 18.17573,
         "longitude": -76.47079
     },
     {
-        "name": "Breastworks",
+        "name": "Брусверк",
         "latitude": 18.16,
         "longitude": -76.46612
     },
     {
-        "name": "Buff Bay",
+        "name": "Бафф Бэй",
         "latitude": 18.23287,
         "longitude": -76.66118
     },
     {
-        "name": "Bybrook",
+        "name": "Байбрук",
         "latitude": 18.14641,
         "longitude": -76.65726
     },
     {
-        "name": "Cascade",
+        "name": "Каскад",
         "latitude": 18.09377,
         "longitude": -76.71223
     },
     {
-        "name": "Castle Comfort",
+        "name": "Замок Комфорт",
         "latitude": 18.14217,
         "longitude": -76.34634
     },
     {
-        "name": "Central Port Antonio",
+        "name": "Центральный Порт-Антонио",
         "latitude": 18.18763,
         "longitude": -76.45343
     },
     {
-        "name": "Charles Town",
+        "name": "Чарльз Таун",
         "latitude": 18.20526,
         "longitude": -76.6639
     },
     {
-        "name": "Claverty Cottage",
+        "name": "Клаверти Коттедж",
         "latitude": 18.14876,
         "longitude": -76.63923
     },
     {
-        "name": "Comfort Castle",
+        "name": "Замок Комфорт",
         "latitude": 18.04833,
         "longitude": -76.41614
     },
     {
-        "name": "Drapers",
+        "name": "Ткани",
         "latitude": 18.17121,
         "longitude": -76.40612
     },
     {
-        "name": "Durham",
+        "name": "Дарем",
         "latitude": 18.08566,
         "longitude": -76.51562
     },
     {
-        "name": "Fairy Hill",
+        "name": "Сказочный холм",
         "latitude": 18.16508,
         "longitude": -76.36595
     },
     {
-        "name": "Fellowship",
+        "name": "Стипендия",
         "latitude": 18.12783,
         "longitude": -76.47202
     },
     {
-        "name": "Fruitfulvale",
+        "name": "Фрутфулвейл",
         "latitude": 18.10891,
         "longitude": -76.58617
     },
     {
-        "name": "Hectors River",
+        "name": "Река Гекторс",
         "latitude": 18.00089,
         "longitude": -76.27055
     },
     {
-        "name": "Hope Bay",
+        "name": "Хоуп Бэй",
         "latitude": 18.18754,
         "longitude": -76.57579
     },
     {
-        "name": "Kensington",
+        "name": "Кенсингтон",
         "latitude": 18.06765,
         "longitude": -76.30053
     },
     {
-        "name": "Long Bay",
+        "name": "Лонг Бэй",
         "latitude": 18.08581,
         "longitude": -76.32515
     },
     {
-        "name": "Long Road",
+        "name": "Долгий путь",
         "latitude": 18.00864,
         "longitude": -76.29482
     },
     {
-        "name": "Manchioneal",
+        "name": "манчионеаль",
         "latitude": 18.04444,
         "longitude": -76.27735
     },
     {
-        "name": "Moore Town",
+        "name": "Мур Таун",
         "latitude": 18.07767,
         "longitude": -76.42577
     },
     {
-        "name": "Mount Pleasant",
+        "name": "Маунт-Плезант",
         "latitude": 18.16325,
         "longitude": -76.50472
     },
     {
-        "name": "Nonsuch",
+        "name": "Не такой",
         "latitude": 18.13819,
         "longitude": -76.40467
     },
     {
-        "name": "Norwich",
+        "name": "Норвич",
         "latitude": 18.18819,
         "longitude": -76.47705
     },
     {
-        "name": "Orange Bay",
+        "name": "Ориндж Бэй",
         "latitude": 18.20306,
         "longitude": -76.6225
     },
     {
-        "name": "Port Antonio",
+        "name": "Порт-Антонио",
         "latitude": 18.17615,
         "longitude": -76.4509
     },
     {
-        "name": "Prospect",
+        "name": "Перспектива",
         "latitude": 18.17481,
         "longitude": -76.4355
     },
     {
-        "name": "Rock Hall",
+        "name": "Рок Холл",
         "latitude": 18.1617,
         "longitude": -76.5305
     },
     {
-        "name": "Sherwood Forest",
+        "name": "Шервудский лес",
         "latitude": 18.15428,
         "longitude": -76.37821
     },
     {
-        "name": "Shirley Castle",
+        "name": "Ширли Кастл",
         "latitude": 18.15657,
         "longitude": -76.61112
     },
     {
-        "name": "Skibo",
+        "name": "Лыжный дом",
         "latitude": 18.17318,
         "longitude": -76.62752
     },
     {
-        "name": "Snow Hill",
+        "name": "Снежный холм",
         "latitude": 18.19474,
         "longitude": -76.4935
     },
     {
-        "name": "Spring Hill",
+        "name": "Спринг Хилл",
         "latitude": 18.12591,
         "longitude": -76.72909
     },
     {
-        "name": "St. Margaret's Bay",
+        "name": "Залив Святой Маргариты",
         "latitude": 18.19084,
         "longitude": -76.52888
     },
     {
-        "name": "Swift River",
+        "name": "Свифт Ривер",
         "latitude": 18.1577,
         "longitude": -76.57869
     },
     {
-        "name": "Tranquility",
+        "name": "Спокойствие",
         "latitude": 18.18028,
         "longitude": -76.6815
     },
     {
-        "name": "Windsor",
+        "name": "Виндзор",
         "latitude": 18.10673,
         "longitude": -76.44631
     },
     {
-        "name": "Windsor Castle",
+        "name": "Виндзорский замок",
         "latitude": 18.24888,
         "longitude": -76.69029
     },
     {
-        "name": "Windsor Forest",
+        "name": "Виндзорский лес",
         "latitude": 18.12057,
         "longitude": -76.33876
     },
     {
-        "name": "Arcadia",
+        "name": "Аркадия",
         "latitude": 18.03737,
         "longitude": -76.78201
     },
     {
-        "name": "Arlene Gardens",
+        "name": "Арлин Гарденс",
         "latitude": 18.03713,
         "longitude": -76.81791
     },
     {
-        "name": "Arnett Gardens",
+        "name": "Арнетт Гарденс",
         "latitude": 17.9915,
         "longitude": -76.79829
     },
     {
-        "name": "August Town",
+        "name": "Август Таун",
         "latitude": 17.99556,
         "longitude": -76.73673
     },
     {
-        "name": "Barbican",
+        "name": "Барбакан",
         "latitude": 18.03549,
         "longitude": -76.76987
     },
     {
-        "name": "Beverley Hills",
+        "name": "Беверли-Хиллз",
         "latitude": 18.00833,
         "longitude": -76.76208
     },
     {
-        "name": "Bito",
+        "name": "Маленький",
         "latitude": 17.97363,
         "longitude": -76.66625
     },
     {
-        "name": "Bloxborough",
+        "name": "Блоксборо",
         "latitude": 17.99581,
         "longitude": -76.64767
     },
     {
-        "name": "Boucher Park",
+        "name": "Баучер Парк",
         "latitude": 18.00344,
         "longitude": -76.81257
     },
     {
-        "name": "Brandon Hill",
+        "name": "Брэндон Хилл",
         "latitude": 18.14822,
         "longitude": -76.80513
     },
     {
-        "name": "Bull Bay/ Seven Mile",
+        "name": "Булл Бэй / Семь миль",
         "latitude": 17.95247,
         "longitude": -76.68404
     },
     {
-        "name": "Cane River",
+        "name": "Река Кейн",
         "latitude": 17.98098,
         "longitude": -76.68624
     },
     {
-        "name": "Cassia Park",
+        "name": "Кассия Парк",
         "latitude": 18.02047,
         "longitude": -76.80665
     },
     {
-        "name": "Cavaliers",
+        "name": "Кавальерс",
         "latitude": 18.09677,
         "longitude": -76.84321
     },
     {
-        "name": "Cherry Gardens",
+        "name": "Вишнёвые сады",
         "latitude": 18.04963,
         "longitude": -76.77867
     },
     {
-        "name": "Cockburn Gardens",
+        "name": "Кокберн Гарденс",
         "latitude": 18.00357,
         "longitude": -76.82435
     },
     {
-        "name": "Constant Spring",
+        "name": "Постоянная весна",
         "latitude": 18.05078,
         "longitude": -76.79372
     },
     {
-        "name": "Constant Spring Gardens",
+        "name": "Постоянные весенние сады",
         "latitude": 18.02942,
         "longitude": -76.79956
     },
     {
-        "name": "Constitution Hill",
+        "name": "Конституционный холм",
         "latitude": 18.01488,
         "longitude": -76.70515
     },
     {
-        "name": "Content Gap",
+        "name": "Контентный разрыв",
         "latitude": 18.04082,
         "longitude": -76.6907
     },
     {
-        "name": "Cooreville Gardens",
+        "name": "Курвилл Гарденс",
         "latitude": 18.02244,
         "longitude": -76.84852
     },
     {
-        "name": "Cross Roads",
+        "name": "Перекресток дорог",
         "latitude": 17.99454,
         "longitude": -76.7881
     },
     {
-        "name": "Dallas",
+        "name": "Даллас",
         "latitude": 17.98463,
         "longitude": -76.71256
     },
     {
-        "name": "Delacree Park/ Union Gardens",
+        "name": "Парк Делакри / Юнион Гарденс",
         "latitude": 17.9921,
         "longitude": -76.8224
     },
     {
-        "name": "Delacree Pen",
+        "name": "Делакри Пен",
         "latitude": 17.99579,
         "longitude": -76.81709
     },
     {
-        "name": "Drewsland",
+        "name": "Дрюсленд",
         "latitude": 18.02381,
         "longitude": -76.82626
     },
     {
-        "name": "Drumblair",
+        "name": "Драмблэр",
         "latitude": 18.02354,
         "longitude": -76.78759
     },
     {
-        "name": "Duhaney Park",
+        "name": "Духани Парк",
         "latitude": 18.03086,
         "longitude": -76.84617
     },
     {
-        "name": "Eastwood Park Gardens",
+        "name": "Сады Иствуд-Парка",
         "latitude": 18.01891,
         "longitude": -76.80072
     },
     {
-        "name": "Elleston Flats/ Mona Commons",
+        "name": "Эллестон Флэтс/Мона Коммонс",
         "latitude": 18.00945,
         "longitude": -76.74034
     },
     {
-        "name": "Ferry",
+        "name": "Перевозить",
         "latitude": 18.02771,
         "longitude": -76.8672
     },
     {
-        "name": "Forest Hills Gardens",
+        "name": "Сады Форест-Хиллз",
         "latitude": 18.03848,
         "longitude": -76.82868
     },
     {
-        "name": "Forest Hills/ Plantation Height",
+        "name": "Лесные холмы / Высота плантации",
         "latitude": 18.043,
         "longitude": -76.8514
     },
     {
-        "name": "Golden Spring",
+        "name": "Золотая весна",
         "latitude": 18.09446,
         "longitude": -76.79727
     },
     {
-        "name": "Gordon Town",
+        "name": "Гордон Таун",
         "latitude": 18.03762,
         "longitude": -76.72353
     },
     {
-        "name": "Grants Pen",
+        "name": "Грантс Пен",
         "latitude": 18.03258,
         "longitude": -76.78887
     },
     {
-        "name": "Greenwich Town/ Newport West",
+        "name": "Гринвич-Таун/Ньюпорт-Уэст",
         "latitude": 17.98438,
         "longitude": -76.82559
     },
     {
-        "name": "Half Way Tree",
+        "name": "Половинное дерево",
         "latitude": 18.01248,
         "longitude": -76.79928
     },
     {
-        "name": "Half-Way-Tree",
+        "name": "Полупутевое дерево",
         "latitude": 18.01259,
         "longitude": -76.79582
     },
     {
-        "name": "Harbour View",
+        "name": "Вид на гавань",
         "latitude": 17.95146,
         "longitude": -76.71662
     },
     {
-        "name": "Havendale",
+        "name": "Хэвендейл",
         "latitude": 18.05429,
         "longitude": -76.8087
     },
     {
-        "name": "Hermitage",
+        "name": "Эрмитаж",
         "latitude": 17.98351,
         "longitude": -76.74102
     },
     {
-        "name": "Hope Pastures/ UTECH",
+        "name": "Пастбища надежды / UTECH",
         "latitude": 18.02306,
         "longitude": -76.74987
     },
     {
-        "name": "Hope Tavern",
+        "name": "Таверна Надежда",
         "latitude": 18.01233,
         "longitude": -76.73202
     },
     {
-        "name": "Hughenden",
+        "name": "Хьюэнден",
         "latitude": 18.03037,
         "longitude": -76.81728
     },
     {
-        "name": "Irish Town",
+        "name": "Ирландский город",
         "latitude": 18.06234,
         "longitude": -76.70262
     },
     {
-        "name": "Jacks Hill",
+        "name": "Джекс Хилл",
         "latitude": 18.03872,
         "longitude": -76.74892
     },
     {
-        "name": "Jones Town",
+        "name": "Джонс Таун",
         "latitude": 17.98422,
         "longitude": -76.79691
     },
     {
-        "name": "Kencot",
+        "name": "Кенкот",
         "latitude": 18.00041,
         "longitude": -76.79835
     },
     {
-        "name": "Kintyre",
+        "name": "Кинтайр",
         "latitude": 18.02133,
         "longitude": -76.72688
     },
     {
-        "name": "Lawrence Tavern",
+        "name": "Лоуренс Таверна",
         "latitude": 18.13742,
         "longitude": -76.84736
     },
     {
-        "name": "Liguanea",
+        "name": "лигуана",
         "latitude": 18.02097,
         "longitude": -76.76827
     },
     {
-        "name": "Majestic Gardens",
+        "name": "Величественные сады",
         "latitude": 18.00023,
         "longitude": -76.83295
     },
     {
-        "name": "Mannings Hill",
+        "name": "Мэннингс Хилл",
         "latitude": 18.07052,
         "longitude": -76.81288
     },
     {
-        "name": "Mannings Hill (Rural)",
+        "name": "Мэннингс Хилл (сельская местность)",
         "latitude": 18.08169,
         "longitude": -76.82328
     },
     {
-        "name": "Marverley",
+        "name": "Марверли",
         "latitude": 18.02676,
         "longitude": -76.82652
     },
     {
-        "name": "Maryland",
+        "name": "Мэриленд",
         "latitude": 18.05166,
         "longitude": -76.7432
     },
     {
-        "name": "Mavis Bank",
+        "name": "Мэвис Банк",
         "latitude": 18.03333,
         "longitude": -76.66667
     },
     {
-        "name": "Maxfield Park",
+        "name": "Максфилд Парк",
         "latitude": 17.99937,
         "longitude": -76.808
     },
     {
-        "name": "Meadowbrook",
+        "name": "Медоубрук",
         "latitude": 18.04708,
         "longitude": -76.81553
     },
     {
-        "name": "Meadowbrook Estate",
+        "name": "Медоубрук Эстейт",
         "latitude": 18.03738,
         "longitude": -76.82964
     },
     {
-        "name": "Molynes Four Roads",
+        "name": "Молинес Четыре Дороги",
         "latitude": 18.01035,
         "longitude": -76.81112
     },
     {
-        "name": "Molynes Gardens",
+        "name": "Молинес Гарденс",
         "latitude": 18.0198,
         "longitude": -76.81621
     },
     {
-        "name": "Mona Heights",
+        "name": "Мона Хайтс",
         "latitude": 18.01331,
         "longitude": -76.75086
     },
     {
-        "name": "Mount James",
+        "name": "Маунт-Джеймс",
         "latitude": 18.12069,
         "longitude": -76.77394
     },
     {
-        "name": "Mountain View Gardens",
+        "name": "Сады Маунтин-Вью",
         "latitude": 17.99186,
         "longitude": -76.7607
     },
     {
-        "name": "Nannyville",
+        "name": "Нэннивилль",
         "latitude": 17.99677,
         "longitude": -76.76949
     },
     {
-        "name": "New Haven",
+        "name": "Новый рай",
         "latitude": 18.02953,
         "longitude": -76.85425
     },
     {
-        "name": "New Kingston",
+        "name": "Нью-Кингстон",
         "latitude": 18.00747,
         "longitude": -76.78319
     },
     {
-        "name": "Norbrook",
+        "name": "Норбрук",
         "latitude": 18.05483,
         "longitude": -76.78498
     },
     {
-        "name": "Oaklands",
+        "name": "Оклендс",
         "latitude": 18.03558,
         "longitude": -76.79563
     },
     {
-        "name": "Papine",
+        "name": "Папа Римский",
         "latitude": 18.01536,
         "longitude": -76.73868
     },
     {
-        "name": "Parks Road",
+        "name": "Паркс Роуд",
         "latitude": 18.09802,
         "longitude": -76.85941
     },
     {
-        "name": "Patrick City",
+        "name": "Патрик Сити",
         "latitude": 18.03185,
         "longitude": -76.83774
     },
     {
-        "name": "Pembroke Hall",
+        "name": "Пембрук Холл",
         "latitude": 18.03113,
         "longitude": -76.83003
     },
     {
-        "name": "Penwood",
+        "name": "Пенвуд",
         "latitude": 18.01952,
         "longitude": -76.83094
     },
     {
-        "name": "Queensborough/ Tunbridge",
+        "name": "Куинсборо/Танбридж",
         "latitude": 18.04289,
         "longitude": -76.82119
     },
     {
-        "name": "Red Hills (Rural)",
+        "name": "Красные холмы (сельская местность)",
         "latitude": 18.06777,
         "longitude": -76.86093
     },
     {
-        "name": "Red Hills Gardens",
+        "name": "Сады Красных Холмов",
         "latitude": 18.03,
         "longitude": -76.80994
     },
     {
-        "name": "Red Hills/ Sterling Castle",
+        "name": "Красные холмы / Замок Стерлинг",
         "latitude": 18.05946,
         "longitude": -76.84028
     },
     {
-        "name": "Richmond Park",
+        "name": "Ричмонд Парк",
         "latitude": 18.0056,
         "longitude": -76.80464
     },
     {
-        "name": "Riverton City",
+        "name": "Ривертон Сити",
         "latitude": 18.01443,
         "longitude": -76.84897
     },
     {
-        "name": "Roehampton",
+        "name": "Рохэмптон",
         "latitude": 18.0432,
         "longitude": -76.80841
     },
     {
-        "name": "Rose Town",
+        "name": "Роуз Таун",
         "latitude": 17.98697,
         "longitude": -76.80726
     },
     {
-        "name": "Seaview Gardens",
+        "name": "Сады с видом на море",
         "latitude": 18.00619,
         "longitude": -76.84106
     },
     {
-        "name": "Seaward Pen",
+        "name": "Сиворд Пен",
         "latitude": 18.019,
         "longitude": -76.82368
     },
     {
-        "name": "Seymour Lands",
+        "name": "Сеймур Лэндс",
         "latitude": 18.01291,
         "longitude": -76.77706
     },
     {
-        "name": "St. Peter's",
+        "name": "Святого Петра",
         "latitude": 18.07881,
         "longitude": -76.67202
     },
     {
-        "name": "Stadium Gardens",
+        "name": "Сады стадиона",
         "latitude": 17.99501,
         "longitude": -76.77644
     },
     {
-        "name": "Stony Hill",
+        "name": "Стоуни Хилл",
         "latitude": 18.07916,
         "longitude": -76.78473
     },
     {
-        "name": "Swallowfield",
+        "name": "Суоллоуфилд",
         "latitude": 18.00486,
         "longitude": -76.77439
     },
     {
-        "name": "Temple Hall",
+        "name": "Храмовый зал",
         "latitude": 18.10471,
         "longitude": -76.81818
     },
     {
-        "name": "Three Oaks/ Glendale",
+        "name": "Три Оукса / Глендейл",
         "latitude": 18.03128,
         "longitude": -76.82447
     },
     {
-        "name": "Tower Hill",
+        "name": "Тауэр Хилл",
         "latitude": 18.01183,
         "longitude": -76.82807
     },
     {
-        "name": "Trafalgar Park",
+        "name": "Трафальгарский парк",
         "latitude": 18.0128,
         "longitude": -76.78465
     },
     {
-        "name": "Trench Town",
+        "name": "Тренч Таун",
         "latitude": 17.98743,
         "longitude": -76.80118
     },
     {
-        "name": "University",
+        "name": "Университет",
         "latitude": 18.00094,
         "longitude": -76.74769
     },
     {
-        "name": "Vineyard Town",
+        "name": "Виноградный город",
         "latitude": 17.9869,
         "longitude": -76.77059
     },
     {
-        "name": "Waltham Gardens",
+        "name": "Уолтем Гарденс",
         "latitude": 18.01085,
         "longitude": -76.82049
     },
     {
-        "name": "Washington Gardens",
+        "name": "Вашингтон Гарденс",
         "latitude": 18.02174,
         "longitude": -76.8402
     },
     {
-        "name": "Waterhouse",
+        "name": "Уотерхаус",
         "latitude": 18.01231,
         "longitude": -76.83505
     },
     {
-        "name": "Whitehall",
+        "name": "Уайтхолл",
         "latitude": 18.03838,
         "longitude": -76.80583
     },
     {
-        "name": "Whitfield Town",
+        "name": "Уитфилд Таун",
         "latitude": 17.99212,
         "longitude": -76.8091
     },
     {
-        "name": "Wilton Gardens/ Rema",
+        "name": "Уилтон Гарденс / Рема",
         "latitude": 17.98287,
         "longitude": -76.80422
     },
     {
-        "name": "Woodford",
+        "name": "Вудфорд",
         "latitude": 18.07362,
         "longitude": -76.74632
     },
     {
-        "name": "Woodford Park",
+        "name": "Вудфорд Парк",
         "latitude": 17.98712,
         "longitude": -76.78117
     },
     {
-        "name": "Zaidie Gardens",
+        "name": "Сады Заиди",
         "latitude": 18.02566,
         "longitude": -76.80978
     },
     {
-        "name": "Aboukir",
+        "name": "Абукир",
         "latitude": 18.2509,
         "longitude": -77.34327
     },
     {
-        "name": "Alderton",
+        "name": "Олдертон",
         "latitude": 18.28706,
         "longitude": -77.20832
     },
     {
-        "name": "Alexandria",
+        "name": "Александрия",
         "latitude": 18.30411,
         "longitude": -77.35311
     },
     {
-        "name": "Alva",
+        "name": "Альва",
         "latitude": 18.29679,
         "longitude": -77.31717
     },
     {
-        "name": "Bamboo",
+        "name": "Бамбук",
         "latitude": 18.39216,
         "longitude": -77.26429
     },
     {
-        "name": "Beecher Town",
+        "name": "Бичер Таун",
         "latitude": 18.38465,
         "longitude": -77.11617
     },
     {
-        "name": "Bensonton",
+        "name": "Бенсонтон",
         "latitude": 18.22315,
         "longitude": -77.20861
     },
     {
-        "name": "Blackstonedge",
+        "name": "Блэкстонедж",
         "latitude": 18.27357,
         "longitude": -77.04254
     },
     {
-        "name": "Bohemia",
+        "name": "Богемия",
         "latitude": 18.21239,
         "longitude": -77.46954
     },
     {
-        "name": "Borobridge",
+        "name": "Боробридж",
         "latitude": 18.19779,
         "longitude": -77.42755
     },
     {
-        "name": "Browns Town",
+        "name": "Браунс Таун",
         "latitude": 18.38464,
         "longitude": -77.35286
     },
     {
-        "name": "Calderwood",
+        "name": "Колдервуд",
         "latitude": 18.25641,
         "longitude": -77.27144
     },
     {
-        "name": "Cascade",
+        "name": "Каскад",
         "latitude": 18.23209,
         "longitude": -77.46255
     },
     {
-        "name": "Cave Valley",
+        "name": "Пещерная долина",
         "latitude": 18.23268,
         "longitude": -77.36337
     },
     {
-        "name": "Chalky Hill",
+        "name": "Меловой холм",
         "latitude": 18.37964,
         "longitude": -77.1752
     },
     {
-        "name": "Chester",
+        "name": "Честер",
         "latitude": 18.44786,
         "longitude": -77.26503
     },
     {
-        "name": "Claremont",
+        "name": "Клермонт",
         "latitude": 18.32556,
         "longitude": -77.20643
     },
     {
-        "name": "Cole Gate",
+        "name": "Коул Гейт",
         "latitude": 18.37967,
         "longitude": -77.08518
     },
     {
-        "name": "Content Garden",
+        "name": "Контент-сад",
         "latitude": 18.40977,
         "longitude": -77.0754
     },
     {
-        "name": "Cuffie Ridge",
+        "name": "Каффи Ридж",
         "latitude": 18.22793,
         "longitude": -77.42054
     },
     {
-        "name": "Discovery Bay",
+        "name": "Дискавери Бэй",
         "latitude": 18.43725,
         "longitude": -77.41815
     },
     {
-        "name": "Epworth",
+        "name": "Эпворт",
         "latitude": 18.36083,
         "longitude": -77.13342
     },
     {
-        "name": "Exchange",
+        "name": "Обмен",
         "latitude": 18.37265,
         "longitude": -77.06572
     },
     {
-        "name": "Faith's Pen",
+        "name": "Ручка Веры",
         "latitude": 18.22963,
         "longitude": -77.08804
     },
     {
-        "name": "Gibraltar",
+        "name": "Гибралтар",
         "latitude": 18.35079,
         "longitude": -77.42142
     },
     {
-        "name": "Golden Grove",
+        "name": "Золотая Роща",
         "latitude": 18.32956,
         "longitude": -77.12256
     },
     {
-        "name": "Great Pond",
+        "name": "Большой пруд",
         "latitude": 18.40227,
         "longitude": -77.08511
     },
     {
-        "name": "Higgin Land",
+        "name": "Хиггин Лэнд",
         "latitude": 18.34119,
         "longitude": -77.27072
     },
     {
-        "name": "Hinds Town",
+        "name": "Хиндс Таун",
         "latitude": 18.35425,
         "longitude": -77.09812
     },
     {
-        "name": "Inverness",
+        "name": "Инвернесс",
         "latitude": 18.27531,
         "longitude": -77.36862
     },
     {
-        "name": "Lime Hall",
+        "name": "Лайм Холл",
         "latitude": 18.39742,
         "longitude": -77.21051
     },
     {
-        "name": "Lime Tree Gardens",
+        "name": "Липовые сады",
         "latitude": 18.34545,
         "longitude": -77.38645
     },
     {
-        "name": "Linton Park",
+        "name": "Линтон Парк",
         "latitude": 18.26081,
         "longitude": -77.42221
     },
     {
-        "name": "Macknie",
+        "name": "Он похлопывает",
         "latitude": 18.21191,
         "longitude": -77.28016
     },
     {
-        "name": "Madras",
+        "name": "Мадрас",
         "latitude": 18.29112,
         "longitude": -77.44875
     },
     {
-        "name": "Mansfield",
+        "name": "Мэнсфилд",
         "latitude": 18.40265,
         "longitude": -77.09488
     },
     {
-        "name": "Moneague",
+        "name": "Монег",
         "latitude": 18.28307,
         "longitude": -77.13855
     },
     {
-        "name": "Mount Moriah",
+        "name": "Гора Мориа",
         "latitude": 18.20617,
         "longitude": -77.44094
     },
     {
-        "name": "Mount Zion",
+        "name": "Гора Сион",
         "latitude": 18.43377,
         "longitude": -77.28028
     },
     {
-        "name": "Ocho Rios",
+        "name": "Восемь рек",
         "latitude": 18.4076,
         "longitude": -77.10312
     },
     {
-        "name": "Parry Town",
+        "name": "Парри Таун",
         "latitude": 18.38359,
         "longitude": -77.10345
     },
     {
-        "name": "Philadelphia",
+        "name": "Филадельфия",
         "latitude": 18.40005,
         "longitude": -77.32735
     },
     {
-        "name": "Pimento Walk",
+        "name": "Пименто Уок",
         "latitude": 18.39578,
         "longitude": -77.11383
     },
     {
-        "name": "Priory",
+        "name": "Приорат",
         "latitude": 18.4366,
         "longitude": -77.24551
     },
     {
-        "name": "River Head",
+        "name": "Ривер-Хед",
         "latitude": 18.2603,
         "longitude": -77.07782
     },
     {
-        "name": "Runaway Bay",
+        "name": "Раневей Бэй",
         "latitude": 18.45962,
         "longitude": -77.3357
     },
     {
-        "name": "Saint Ann\u2019s Bay",
+        "name": "Сент-Аннс Бэй",
         "latitude": 18.43581,
         "longitude": -77.20098
     },
     {
-        "name": "St. Ann's Bay",
+        "name": "Сент-Аннс Бэй",
         "latitude": 18.42989,
         "longitude": -77.20775
     },
     {
-        "name": "St. D'Acre",
+        "name": "Сен-Д'Акр",
         "latitude": 18.333,
         "longitude": -77.36297
     },
     {
-        "name": "Steer Town",
+        "name": "Стир Таун",
         "latitude": 18.42852,
         "longitude": -77.17101
     },
     {
-        "name": "Sturge Town",
+        "name": "Стердж Таун",
         "latitude": 18.41631,
         "longitude": -77.31988
     },
     {
-        "name": "Walkers Wood",
+        "name": "Уокерс Вуд",
         "latitude": 18.31939,
         "longitude": -77.07082
     },
     {
-        "name": "Watt Town",
+        "name": "Ватт Таун",
         "latitude": 18.29427,
         "longitude": -77.41466
     },
     {
-        "name": "York Castle",
+        "name": "Йоркский замок",
         "latitude": 18.27515,
         "longitude": -77.22923
     },
     {
-        "name": "Above Rocks",
+        "name": "Над скалами",
         "latitude": 18.11432,
         "longitude": -76.8759
     },
     {
-        "name": "Bartons",
+        "name": "Бартонс",
         "latitude": 18.02895,
         "longitude": -77.13322
     },
     {
-        "name": "Bellas Gate",
+        "name": "Беллас Ворота",
         "latitude": 18.04715,
         "longitude": -77.14906
     },
     {
-        "name": "Bog Walk",
+        "name": "Болотная прогулка",
         "latitude": 18.10205,
         "longitude": -77.00541
     },
     {
-        "name": "Bogwalk",
+        "name": "Богволк",
         "latitude": 18.10468,
         "longitude": -76.98792
     },
     {
-        "name": "Braeton",
+        "name": "Бретон",
         "latitude": 17.94174,
         "longitude": -76.88635
     },
     {
-        "name": "Bridgeport",
+        "name": "Бриджпорт",
         "latitude": 17.96264,
         "longitude": -76.87809
     },
     {
-        "name": "Browns Hill",
+        "name": "Браунс Хилл",
         "latitude": 18.05358,
         "longitude": -77.11855
     },
     {
-        "name": "Caymanas",
+        "name": "Кайманы",
         "latitude": 18.03824,
         "longitude": -76.89833
     },
     {
-        "name": "Central Village",
+        "name": "Центральная деревня",
         "latitude": 17.99992,
         "longitude": -76.92393
     },
     {
-        "name": "Crescent",
+        "name": "Полумесяц",
         "latitude": 18.03621,
         "longitude": -76.97626
     },
     {
-        "name": "Cromarty",
+        "name": "Кромарти",
         "latitude": 17.9584,
         "longitude": -76.98457
     },
     {
-        "name": "Cumberland",
+        "name": "Камберленд",
         "latitude": 17.9765,
         "longitude": -76.88208
     },
     {
-        "name": "Edgewater",
+        "name": "Эджуотер",
         "latitude": 17.96448,
         "longitude": -76.86547
     },
     {
-        "name": "Ensom",
+        "name": "Одинокий",
         "latitude": 18.01778,
         "longitude": -76.96221
     },
     {
-        "name": "Ewarton",
+        "name": "Юартон",
         "latitude": 18.18333,
         "longitude": -77.08536
     },
     {
-        "name": "Ginger Ridge",
+        "name": "Джинджер Ридж",
         "latitude": 18.07688,
         "longitude": -77.16865
     },
     {
-        "name": "Glengoffe",
+        "name": "Гленгофф",
         "latitude": 18.15214,
         "longitude": -76.89057
     },
     {
-        "name": "Golden Acres",
+        "name": "Золотые акры",
         "latitude": 18.0195,
         "longitude": -76.9804
     },
     {
-        "name": "Greater Portmore",
+        "name": "Большой Портмор",
         "latitude": 17.95228,
         "longitude": -76.91133
     },
     {
-        "name": "Greendale",
+        "name": "Гриндейл",
         "latitude": 18.01251,
         "longitude": -76.94831
     },
     {
-        "name": "Gregory Park",
+        "name": "Грегори Парк",
         "latitude": 17.9949,
         "longitude": -76.88302
     },
     {
-        "name": "Hampton Green",
+        "name": "Хэмптон Грин",
         "latitude": 18.00544,
         "longitude": -76.96818
     },
     {
-        "name": "Harewood",
+        "name": "Хэрвуд",
         "latitude": 18.17277,
         "longitude": -76.94395
     },
     {
-        "name": "Harkers Hall",
+        "name": "Зал слушателей",
         "latitude": 18.13149,
         "longitude": -76.9135
     },
     {
-        "name": "Hellshire",
+        "name": "Хеллшир",
         "latitude": 17.89669,
         "longitude": -76.96187
     },
     {
-        "name": "Independence City",
+        "name": "Город Независимости",
         "latitude": 17.97783,
         "longitude": -76.87498
     },
     {
-        "name": "Keystone",
+        "name": "краеугольный камень",
         "latitude": 18.01652,
         "longitude": -76.93525
     },
     {
-        "name": "Kitson Town",
+        "name": "Китсон Таун",
         "latitude": 18.03487,
         "longitude": -77.04028
     },
     {
-        "name": "Linstead",
+        "name": "Линстед",
         "latitude": 18.13683,
         "longitude": -77.03171
     },
     {
-        "name": "Lluidas Vale",
+        "name": "Луидас Вейл",
         "latitude": 18.14977,
         "longitude": -77.16853
     },
     {
-        "name": "Naggo Head",
+        "name": "Иди головой",
         "latitude": 17.96415,
         "longitude": -76.8882
     },
     {
-        "name": "Old Harbour",
+        "name": "Старая Гавань",
         "latitude": 17.94144,
         "longitude": -77.10898
     },
     {
-        "name": "Old Harbour Bay",
+        "name": "Олд-Харбор-Бэй",
         "latitude": 17.90918,
         "longitude": -77.09718
     },
     {
-        "name": "Old Harbour Road",
+        "name": "Олд-Харбор-роуд",
         "latitude": 17.95797,
         "longitude": -77.0273
     },
     {
-        "name": "Part of Guys Hill",
+        "name": "Часть холма Гай",
         "latitude": 18.24525,
         "longitude": -76.99081
     },
     {
-        "name": "Part of Keystone",
+        "name": "Часть Краеугольного камня",
         "latitude": 18.03965,
         "longitude": -76.95113
     },
     {
-        "name": "Part of Rock Hall",
+        "name": "Часть Рок-холла",
         "latitude": 18.09119,
         "longitude": -76.88804
     },
     {
-        "name": "Passage Fort",
+        "name": "Форт Пассаж",
         "latitude": 17.97788,
         "longitude": -76.86793
     },
     {
-        "name": "Pear Tree Grove",
+        "name": "Грушевая роща",
         "latitude": 18.22515,
         "longitude": -76.95293
     },
     {
-        "name": "Point Hill",
+        "name": "Пойнт-Хилл",
         "latitude": 18.09361,
         "longitude": -77.1048
     },
     {
-        "name": "Portmore",
+        "name": "Портмор",
         "latitude": 17.95032,
         "longitude": -76.88215
     },
     {
-        "name": "Redwood",
+        "name": "Редвуд",
         "latitude": 18.21026,
         "longitude": -76.98536
     },
     {
-        "name": "Riversdale",
+        "name": "Риверсдейл",
         "latitude": 18.17802,
         "longitude": -76.96636
     },
     {
-        "name": "Sligoville",
+        "name": "Слайговилл",
         "latitude": 18.08203,
         "longitude": -76.93991
     },
     {
-        "name": "Spanish Town",
+        "name": "Испанский город",
         "latitude": 17.99107,
         "longitude": -76.95742
     },
     {
-        "name": "Spanish Town Central",
+        "name": "Центральный испанский город",
         "latitude": 17.98014,
         "longitude": -76.92294
     },
     {
-        "name": "St. John's East",
+        "name": "Сент-Джонс Восток",
         "latitude": 18.0009,
         "longitude": -76.97466
     },
     {
-        "name": "St. John's West",
+        "name": "Сент-Джонс-Уэст",
         "latitude": 18.00539,
         "longitude": -77.00755
     },
     {
-        "name": "Troja",
+        "name": "Троя",
         "latitude": 18.20485,
         "longitude": -76.93196
     },
     {
-        "name": "Waterford",
+        "name": "Уотерфорд",
         "latitude": 17.9934,
         "longitude": -76.8609
     },
     {
-        "name": "Watermount",
+        "name": "Водяная гора",
         "latitude": 18.06686,
         "longitude": -77.09112
     },
     {
-        "name": "West Cumberland",
+        "name": "Западный Камберленд",
         "latitude": 17.9789,
         "longitude": -76.88662
     },
     {
-        "name": "Willowdene",
+        "name": "Уиллоуден",
         "latitude": 17.99189,
         "longitude": -76.98199
     },
     {
-        "name": "Aberdeen",
+        "name": "Абердин",
         "latitude": 18.20508,
         "longitude": -77.67932
     },
     {
-        "name": "Accompong",
+        "name": "Сопровождение",
         "latitude": 18.22985,
         "longitude": -77.74816
     },
     {
-        "name": "Alligator Pond",
+        "name": "Пруд с аллигаторами",
         "latitude": 17.86932,
         "longitude": -77.56769
     },
     {
-        "name": "Balaclava",
+        "name": "Балаклава",
         "latitude": 18.17228,
         "longitude": -77.64375
     },
     {
-        "name": "Ballards  Valley",
+        "name": "Баллардс-Вэлли",
         "latitude": 17.87949,
         "longitude": -77.63086
     },
     {
-        "name": "Barbary Hall",
+        "name": "Барбэри Холл",
         "latitude": 17.968,
         "longitude": -77.77961
     },
     {
-        "name": "Bigwoods",
+        "name": "Бигвудс",
         "latitude": 17.93338,
         "longitude": -77.71897
     },
     {
-        "name": "Black River",
+        "name": "Черная река",
         "latitude": 18.02636,
         "longitude": -77.84873
     },
     {
-        "name": "Bogue",
+        "name": "Бог",
         "latitude": 18.13619,
         "longitude": -77.6697
     },
     {
-        "name": "Braes River",
+        "name": "Река Браес",
         "latitude": 18.09351,
         "longitude": -77.66487
     },
     {
-        "name": "Brighton",
+        "name": "Брайтон",
         "latitude": 18.14836,
         "longitude": -77.85604
     },
     {
-        "name": "Brompton",
+        "name": "Бромптон",
         "latitude": 18.06795,
         "longitude": -77.88821
     },
     {
-        "name": "Bull Savanna",
+        "name": "Бычья Саванна",
         "latitude": 17.88678,
         "longitude": -77.59022
     },
     {
-        "name": "Bull Savannah",
+        "name": "Бычья Саванна",
         "latitude": 17.88056,
         "longitude": -77.59
     },
     {
-        "name": "Burnt Savannah",
+        "name": "Сгоревшая Саванна",
         "latitude": 18.03177,
         "longitude": -77.74936
     },
     {
-        "name": "Carisbrook",
+        "name": "Карисбрук",
         "latitude": 18.14742,
         "longitude": -77.77367
     },
     {
-        "name": "Cotterwood",
+        "name": "Коттервуд",
         "latitude": 18.09492,
         "longitude": -77.91553
     },
     {
-        "name": "Crawford",
+        "name": "Кроуфорд",
         "latitude": 18.0506,
         "longitude": -77.91596
     },
     {
-        "name": "Elderslie",
+        "name": "В другом месте",
         "latitude": 18.22416,
         "longitude": -77.79381
     },
     {
-        "name": "Fullerswood",
+        "name": "Фуллерсвуд",
         "latitude": 18.01527,
         "longitude": -77.77572
     },
     {
-        "name": "Giddy Hall",
+        "name": "Головокружительный Холл",
         "latitude": 18.09702,
         "longitude": -77.86764
     },
     {
-        "name": "Ginger Hill",
+        "name": "Джинджер Хилл",
         "latitude": 18.1918,
         "longitude": -77.84867
     },
     {
-        "name": "Goshen",
+        "name": "Гошен",
         "latitude": 18.04964,
         "longitude": -77.64136
     },
     {
-        "name": "Holland",
+        "name": "Голландия",
         "latitude": 18.10358,
         "longitude": -77.80164
     },
     {
-        "name": "Hopeton",
+        "name": "Хоуптон",
         "latitude": 17.95626,
         "longitude": -77.66239
     },
     {
-        "name": "Junction",
+        "name": "перекресток",
         "latitude": 17.91467,
         "longitude": -77.59894
     },
     {
-        "name": "Lacovia",
+        "name": "Лаковия",
         "latitude": 18.08844,
         "longitude": -77.7535
     },
     {
-        "name": "Leeds",
+        "name": "Лидс",
         "latitude": 18.01399,
         "longitude": -77.68374
     },
     {
-        "name": "Lititz",
+        "name": "Литиц",
         "latitude": 17.94033,
         "longitude": -77.59511
     },
     {
-        "name": "Maggotty",
+        "name": "Мэгготти",
         "latitude": 18.17343,
         "longitude": -77.76681
     },
     {
-        "name": "Malvern",
+        "name": "Малверн",
         "latitude": 17.96667,
         "longitude": -77.7
     },
     {
-        "name": "Merrywood",
+        "name": "Мерривуд",
         "latitude": 18.21793,
         "longitude": -77.83773
     },
     {
-        "name": "Middle Quarters",
+        "name": "Средние кварталы",
         "latitude": 18.11455,
         "longitude": -77.83808
     },
     {
-        "name": "Mountainside",
+        "name": "Склон горы",
         "latitude": 17.98077,
         "longitude": -77.74786
     },
     {
-        "name": "Mulgrave",
+        "name": "Малгрейв",
         "latitude": 18.21164,
         "longitude": -77.82018
     },
     {
-        "name": "Myersville",
+        "name": "Майерсвилл",
         "latitude": 17.99699,
         "longitude": -77.62425
     },
     {
-        "name": "Nain",
+        "name": "Нейн",
         "latitude": 17.96526,
         "longitude": -77.60528
     },
     {
-        "name": "New Market",
+        "name": "Новый рынок",
         "latitude": 18.15362,
         "longitude": -77.90962
     },
     {
-        "name": "Newell",
+        "name": "Ньюэлл",
         "latitude": 17.92103,
         "longitude": -77.74653
     },
     {
-        "name": "Newton",
+        "name": "Ньютон",
         "latitude": 18.11095,
         "longitude": -77.72352
     },
     {
-        "name": "Parottee",
+        "name": "Паротти",
         "latitude": 17.96174,
         "longitude": -77.81774
     },
     {
-        "name": "Pedro Plains",
+        "name": "Педро Плейнс",
         "latitude": 17.88569,
         "longitude": -77.71337
     },
     {
-        "name": "Pepper",
+        "name": "Перец",
         "latitude": 18.02105,
         "longitude": -77.61284
     },
     {
-        "name": "Pisgah",
+        "name": "Фасга",
         "latitude": 18.19605,
         "longitude": -77.88671
     },
     {
-        "name": "Pondside",
+        "name": "Пондсайд",
         "latitude": 17.98153,
         "longitude": -77.7945
     },
     {
-        "name": "Potsdam",
+        "name": "Потсдам",
         "latitude": 17.91872,
         "longitude": -77.66869
     },
     {
-        "name": "Quick Step",
+        "name": "Быстрый шаг",
         "latitude": 18.23281,
         "longitude": -77.67831
     },
     {
-        "name": "Red Bank",
+        "name": "Красный Банк",
         "latitude": 17.93776,
         "longitude": -77.62585
     },
     {
-        "name": "Retirement",
+        "name": "Выход на пенсию",
         "latitude": 18.2074,
         "longitude": -77.76698
     },
     {
-        "name": "Rose Hall",
+        "name": "Роуз Холл",
         "latitude": 17.92654,
         "longitude": -77.64153
     },
     {
-        "name": "Russels",
+        "name": "Расселс",
         "latitude": 17.98638,
         "longitude": -77.65065
     },
     {
-        "name": "Santa Cruz",
+        "name": "Санта Круз",
         "latitude": 18.05336,
         "longitude": -77.69836
     },
     {
-        "name": "Scholefield",
+        "name": "Скоулфилд",
         "latitude": 18.02375,
         "longitude": -77.71884
     },
     {
-        "name": "Siloah",
+        "name": "Силоах",
         "latitude": 18.16334,
         "longitude": -77.71061
     },
     {
-        "name": "Slipe",
+        "name": "Молоть",
         "latitude": 18.0574,
         "longitude": -77.79687
     },
     {
-        "name": "Southfield",
+        "name": "Саутфилд",
         "latitude": 17.88212,
         "longitude": -77.66988
     },
     {
-        "name": "Springfield",
+        "name": "Спрингфилд",
         "latitude": 18.17662,
         "longitude": -77.87392
     },
     {
-        "name": "Thornton",
+        "name": "Торнтон",
         "latitude": 18.19564,
         "longitude": -77.72246
     },
     {
-        "name": "Top Hill",
+        "name": "Топ Хилл",
         "latitude": 17.89317,
         "longitude": -77.63793
     },
     {
-        "name": "Treasure Beach",
+        "name": "Пляж сокровищ",
         "latitude": 17.8955,
         "longitude": -77.76051
     },
     {
-        "name": "Warminister",
+        "name": "Военный министр",
         "latitude": 17.96238,
         "longitude": -77.63956
     },
     {
-        "name": "Watchwell",
+        "name": "Уотчвелл",
         "latitude": 17.93876,
         "longitude": -77.7725
     },
     {
-        "name": "White Hill",
+        "name": "Белый холм",
         "latitude": 18.15646,
         "longitude": -77.81067
     },
     {
-        "name": "Adelphi",
+        "name": "Адельфи",
         "latitude": 18.4506,
         "longitude": -77.7859
     },
     {
-        "name": "Albion",
+        "name": "Альбион",
         "latitude": 18.48471,
         "longitude": -77.91408
     },
     {
-        "name": "Anchovy",
+        "name": "Анчоус",
         "latitude": 18.4103,
         "longitude": -77.93166
     },
     {
-        "name": "Arcadia",
+        "name": "Аркадия",
         "latitude": 18.24993,
         "longitude": -77.79228
     },
     {
-        "name": "Barrett Town",
+        "name": "Барретт Таун",
         "latitude": 18.50871,
         "longitude": -77.79625
     },
     {
-        "name": "Bickersteth",
+        "name": "Бикерстет",
         "latitude": 18.36335,
         "longitude": -77.93651
     },
     {
-        "name": "Bogue",
+        "name": "Бог",
         "latitude": 18.43722,
         "longitude": -77.92022
     },
     {
-        "name": "Brandon Hill",
+        "name": "Брэндон Хилл",
         "latitude": 18.47767,
         "longitude": -77.91117
     },
     {
-        "name": "Cambridge",
+        "name": "Кембридж",
         "latitude": 18.31308,
         "longitude": -77.89546
     },
     {
-        "name": "Canterbury",
+        "name": "Кентербери",
         "latitude": 18.47919,
         "longitude": -77.91655
     },
     {
-        "name": "Catadupa",
+        "name": "Катадупа",
         "latitude": 18.28052,
         "longitude": -77.86579
     },
     {
-        "name": "Catherine Hall",
+        "name": "Кэтрин Холл",
         "latitude": 18.46258,
         "longitude": -77.92286
     },
     {
-        "name": "Catherine Mount",
+        "name": "Кэтрин Маунт",
         "latitude": 18.45672,
         "longitude": -77.89691
     },
     {
-        "name": "Comfort Hall",
+        "name": "Комфорт Холл",
         "latitude": 18.4127,
         "longitude": -77.91814
     },
     {
-        "name": "Coral Gardens",
+        "name": "Коралловые сады",
         "latitude": 18.50791,
         "longitude": -77.88034
     },
     {
-        "name": "Cornwall",
+        "name": "Корнуолл",
         "latitude": 18.4893,
         "longitude": -77.81016
     },
     {
-        "name": "Down Town Montego Bay",
+        "name": "Центр города Монтего Бэй",
         "latitude": 18.47726,
         "longitude": -77.92031
     },
     {
-        "name": "Dumfries",
+        "name": "Дамфрис",
         "latitude": 18.42973,
         "longitude": -77.75593
     },
     {
-        "name": "Fairfield",
+        "name": "Фэрфилд",
         "latitude": 18.45079,
         "longitude": -77.91235
     },
     {
-        "name": "Farm Heights",
+        "name": "Фарм-Хайтс",
         "latitude": 18.46869,
         "longitude": -77.8776
     },
     {
-        "name": "Flagstaff",
+        "name": "Флагстафф",
         "latitude": 18.35412,
         "longitude": -77.77132
     },
     {
-        "name": "Flamstead",
+        "name": "Фламстед",
         "latitude": 18.31409,
         "longitude": -77.81316
     },
     {
-        "name": "Flankers",
+        "name": "фланкеры",
         "latitude": 18.50265,
         "longitude": -77.90831
     },
     {
-        "name": "Flower Hill",
+        "name": "Цветочный холм",
         "latitude": 18.48426,
         "longitude": -77.83913
     },
     {
-        "name": "Friendship",
+        "name": "Дружба",
         "latitude": 18.4459,
         "longitude": -77.86242
     },
     {
-        "name": "Garlands",
+        "name": "Гирлянды",
         "latitude": 18.27811,
         "longitude": -77.78908
     },
     {
-        "name": "Glendevon",
+        "name": "Глендевон",
         "latitude": 18.48488,
         "longitude": -77.8971
     },
     {
-        "name": "Goodwill",
+        "name": "Гудвилл",
         "latitude": 18.4695,
         "longitude": -77.75646
     },
     {
-        "name": "Granville",
+        "name": "Гранвиль",
         "latitude": 18.44191,
         "longitude": -77.89402
     },
     {
-        "name": "Green Pond",
+        "name": "Зеленый пруд",
         "latitude": 18.47361,
         "longitude": -77.87779
     },
     {
-        "name": "Greenwood",
+        "name": "Гринвуд",
         "latitude": 18.49768,
         "longitude": -77.75243
     },
     {
-        "name": "Hopeton",
+        "name": "Хоуптон",
         "latitude": 18.39858,
         "longitude": -77.86826
     },
     {
-        "name": "Ironshore",
+        "name": "Айроншор",
         "latitude": 18.51323,
         "longitude": -77.85108
     },
     {
-        "name": "Irwin",
+        "name": "Ирвин",
         "latitude": 18.44949,
         "longitude": -77.87722
     },
     {
-        "name": "John's Hall",
+        "name": "Джонс Холл",
         "latitude": 18.42849,
         "longitude": -77.8501
     },
     {
-        "name": "Lilliput",
+        "name": "лилипутия",
         "latitude": 18.50591,
         "longitude": -77.77686
     },
     {
-        "name": "Lottery",
+        "name": "Лотерея",
         "latitude": 18.41499,
         "longitude": -77.80696
     },
     {
-        "name": "Maldon",
+        "name": "Мэлдон",
         "latitude": 18.33831,
         "longitude": -77.80998
     },
     {
-        "name": "Maroon Town",
+        "name": "Марун Таун",
         "latitude": 18.34464,
         "longitude": -77.79544
     },
     {
-        "name": "Mocho",
+        "name": "Мочо",
         "latitude": 18.29135,
         "longitude": -77.8258
     },
     {
-        "name": "Montego Bay",
+        "name": "Монтего Бэй",
         "latitude": 18.47116,
         "longitude": -77.91883
     },
     {
-        "name": "Montego Hill",
+        "name": "Монтего Хилл",
         "latitude": 18.48038,
         "longitude": -77.8815
     },
     {
-        "name": "Montpelier",
+        "name": "Монтпилиер",
         "latitude": 18.37612,
         "longitude": -77.91357
     },
     {
-        "name": "Mount Carey",
+        "name": "Маунт Кэри",
         "latitude": 18.38888,
         "longitude": -77.94374
     },
     {
-        "name": "Mount Horeb",
+        "name": "Гора Хорив",
         "latitude": 18.33322,
         "longitude": -77.86675
     },
     {
-        "name": "Mount Salem",
+        "name": "Гора Салем",
         "latitude": 18.46601,
         "longitude": -77.90793
     },
     {
-        "name": "Niagara",
+        "name": "Ниагара",
         "latitude": 18.26534,
         "longitude": -77.81879
     },
     {
-        "name": "Norwood",
+        "name": "Норвуд",
         "latitude": 18.49217,
         "longitude": -77.88634
     },
     {
-        "name": "Orange",
+        "name": "Апельсин",
         "latitude": 18.45395,
         "longitude": -77.82779
     },
     {
-        "name": "Paradise",
+        "name": "Рай",
         "latitude": 18.49401,
         "longitude": -77.90982
     },
     {
-        "name": "Pitfour",
+        "name": "Питфур",
         "latitude": 18.43206,
         "longitude": -77.89007
     },
     {
-        "name": "Porto Bello",
+        "name": "Портобелло",
         "latitude": 18.46607,
         "longitude": -77.86989
     },
     {
-        "name": "Reading",
+        "name": "Чтение",
         "latitude": 18.43723,
         "longitude": -77.9473
     },
     {
-        "name": "Retirement",
+        "name": "Выход на пенсию",
         "latitude": 18.43742,
         "longitude": -77.88004
     },
     {
-        "name": "Retrieve",
+        "name": "Забрать",
         "latitude": 18.28901,
         "longitude": -77.90081
     },
     {
-        "name": "Roehampton",
+        "name": "Рохэмптон",
         "latitude": 18.39897,
         "longitude": -77.89926
     },
     {
-        "name": "Rose Hall",
+        "name": "Роуз Холл",
         "latitude": 18.51228,
         "longitude": -77.81833
     },
     {
-        "name": "Rose Heights",
+        "name": "Роуз Хайтс",
         "latitude": 18.46945,
         "longitude": -77.89533
     },
     {
-        "name": "Rose Mount Garden",
+        "name": "Роуз Маунт Гарден",
         "latitude": 18.46394,
         "longitude": -77.89397
     },
     {
-        "name": "Rosemount",
+        "name": "Роузмаунт",
         "latitude": 18.47484,
         "longitude": -77.89216
     },
     {
-        "name": "Salt Spring",
+        "name": "Соленый источник",
         "latitude": 18.48687,
         "longitude": -77.86554
     },
     {
-        "name": "Seven Rivers",
+        "name": "Семь рек",
         "latitude": 18.34702,
         "longitude": -77.91378
     },
     {
-        "name": "Somerton",
+        "name": "Сомертон",
         "latitude": 18.40496,
         "longitude": -77.77071
     },
     {
-        "name": "Spot Valley",
+        "name": "Спот-Вэлли",
         "latitude": 18.47869,
         "longitude": -77.79106
     },
     {
-        "name": "Stonehenge",
+        "name": "Стоунхендж",
         "latitude": 18.24231,
         "longitude": -77.85042
     },
     {
-        "name": "Summer Hill",
+        "name": "Саммер Хилл",
         "latitude": 18.3736,
         "longitude": -77.7935
     },
     {
-        "name": "Sunderland",
+        "name": "Сандерленд",
         "latitude": 18.39794,
         "longitude": -77.82734
     },
     {
-        "name": "Tangle River",
+        "name": "Река Тэнгл",
         "latitude": 18.34337,
         "longitude": -77.83621
     },
     {
-        "name": "Tower Hill/Moy Hall",
+        "name": "Тауэр-Хилл / Мой Холл",
         "latitude": 18.44044,
         "longitude": -77.96022
     },
     {
-        "name": "Tucker",
+        "name": "Такер",
         "latitude": 18.449,
         "longitude": -77.89438
     },
     {
-        "name": "Unity Hall",
+        "name": "Зал Единства",
         "latitude": 18.43304,
         "longitude": -77.97684
     },
     {
-        "name": "Vaughnsfield",
+        "name": "Вонсфилд",
         "latitude": 18.32135,
         "longitude": -77.78051
     },
     {
-        "name": "Welcome Hall",
+        "name": "Приветственный зал",
         "latitude": 18.36898,
         "longitude": -77.83673
     },
     {
-        "name": "West Green",
+        "name": "Вест-Грин",
         "latitude": 18.46244,
         "longitude": -77.91757
     },
     {
-        "name": "Amiel Town",
+        "name": "Амиэль Таун",
         "latitude": 18.34027,
         "longitude": -76.97612
     },
     {
-        "name": "Annotto Bay",
+        "name": "Аннотто Бэй",
         "latitude": 18.2717,
         "longitude": -76.76523
     },
     {
-        "name": "Baileys Vale",
+        "name": "Бейлис Вейл",
         "latitude": 18.34527,
         "longitude": -76.92593
     },
     {
-        "name": "Baxter Mountain",
+        "name": "Бакстер Маунтин",
         "latitude": 18.20405,
         "longitude": -76.77198
     },
     {
-        "name": "Belfield",
+        "name": "Белфилд",
         "latitude": 18.27347,
         "longitude": -76.83574
     },
     {
-        "name": "Bonnygate",
+        "name": "Боннигейт",
         "latitude": 18.32869,
         "longitude": -76.94606
     },
     {
-        "name": "Brainerd",
+        "name": "Брейнерд",
         "latitude": 18.16988,
         "longitude": -76.8689
     },
     {
-        "name": "Broadgate",
+        "name": "Бродгейт",
         "latitude": 18.22847,
         "longitude": -76.80788
     },
     {
-        "name": "Camberwell",
+        "name": "Камбервелл",
         "latitude": 18.2393,
         "longitude": -76.78088
     },
     {
-        "name": "Carron Hall",
+        "name": "Каррон Холл",
         "latitude": 18.27797,
         "longitude": -76.95246
     },
     {
-        "name": "Castleton",
+        "name": "Каслтон",
         "latitude": 18.17618,
         "longitude": -76.7834
     },
     {
-        "name": "Charles Town",
+        "name": "Чарльз Таун",
         "latitude": 18.38918,
         "longitude": -77.03978
     },
     {
-        "name": "Clonmel",
+        "name": "Клонмел",
         "latitude": 18.24281,
         "longitude": -76.83137
     },
     {
-        "name": "Devon Pen",
+        "name": "Девон Пен",
         "latitude": 18.21561,
         "longitude": -76.8244
     },
     {
-        "name": "Dover",
+        "name": "Дувр",
         "latitude": 18.25534,
         "longitude": -76.70811
     },
     {
-        "name": "Enfield",
+        "name": "Энфилд",
         "latitude": 18.22036,
         "longitude": -76.73745
     },
     {
-        "name": "Epson",
+        "name": "Эпсон",
         "latitude": 18.2522,
         "longitude": -76.72641
     },
     {
-        "name": "Flint River",
+        "name": "Река Флинт",
         "latitude": 18.2379,
         "longitude": -76.92173
     },
     {
-        "name": "Free Hill",
+        "name": "Фри Хилл",
         "latitude": 18.35439,
         "longitude": -76.94317
     },
     {
-        "name": "Friendship Gap",
+        "name": "Дружба разрыв",
         "latitude": 18.19719,
         "longitude": -76.8196
     },
     {
-        "name": "Galina",
+        "name": "Галина",
         "latitude": 18.40265,
         "longitude": -76.90041
     },
     {
-        "name": "Gayle",
+        "name": "Гейл",
         "latitude": 18.34278,
         "longitude": -77.00211
     },
     {
-        "name": "Guys Hill",
+        "name": "Гайс Хилл",
         "latitude": 18.26243,
         "longitude": -76.99561
     },
     {
-        "name": "Hampstead",
+        "name": "Хэмпстед",
         "latitude": 18.32051,
         "longitude": -76.90477
     },
     {
-        "name": "Highgate",
+        "name": "Хайгейт",
         "latitude": 18.27739,
         "longitude": -76.89554
     },
     {
-        "name": "Islington",
+        "name": "Ислингтон",
         "latitude": 18.3216,
         "longitude": -76.84102
     },
     {
-        "name": "Jacks River",
+        "name": "Джекс Ривер",
         "latitude": 18.3722,
         "longitude": -76.94101
     },
     {
-        "name": "Jeffery Town",
+        "name": "Джеффри Таун",
         "latitude": 18.28956,
         "longitude": -77.00343
     },
     {
-        "name": "Labyrinth",
+        "name": "Лабиринт",
         "latitude": 18.34419,
         "longitude": -77.03227
     },
     {
-        "name": "Long Road",
+        "name": "Долгий путь",
         "latitude": 18.21337,
         "longitude": -76.75009
     },
     {
-        "name": "Lucky Hill",
+        "name": "Лаки Хилл",
         "latitude": 18.30252,
         "longitude": -77.01678
     },
     {
-        "name": "Mango Valley",
+        "name": "Манго Вэлли",
         "latitude": 18.37481,
         "longitude": -76.97694
     },
     {
-        "name": "Martin",
+        "name": "Мартин",
         "latitude": 18.30118,
         "longitude": -76.87257
     },
     {
-        "name": "Mason Hall",
+        "name": "Мейсон Холл",
         "latitude": 18.39662,
         "longitude": -76.92063
     },
     {
-        "name": "Mile Gully",
+        "name": "Майл Галли",
         "latitude": 18.31801,
         "longitude": -76.96051
     },
     {
-        "name": "Oracabessa",
+        "name": "Оракабесса",
         "latitude": 18.40319,
         "longitude": -76.94641
     },
     {
-        "name": "Port Maria",
+        "name": "Порт-Мария",
         "latitude": 18.36849,
         "longitude": -76.88946
     },
     {
-        "name": "Prospect",
+        "name": "Перспектива",
         "latitude": 18.41273,
         "longitude": -77.04119
     },
     {
-        "name": "Retreat",
+        "name": "Отступление",
         "latitude": 18.37865,
         "longitude": -77.0159
     },
     {
-        "name": "Richmond",
+        "name": "Ричмонд",
         "latitude": 18.21113,
         "longitude": -76.88301
     },
     {
-        "name": "Robins Bay",
+        "name": "Робинс Бэй",
         "latitude": 18.31236,
         "longitude": -76.81783
     },
     {
-        "name": "Sandside",
+        "name": "Сэндсайд",
         "latitude": 18.33888,
         "longitude": -76.89551
     },
     {
-        "name": "Scotts Hall",
+        "name": "Скоттс Холл",
         "latitude": 18.19083,
         "longitude": -76.83942
     },
     {
-        "name": "Woodpark",
+        "name": "Вудпарк",
         "latitude": 18.29734,
         "longitude": -76.98114
     },
     {
-        "name": "Woodside",
+        "name": "Вудсайд",
         "latitude": 18.25258,
         "longitude": -76.92679
     },
     {
-        "name": "Airy Castle",
+        "name": "Воздушный замок",
         "latitude": 17.92506,
         "longitude": -76.34216
     },
     {
-        "name": "Albion",
+        "name": "Альбион",
         "latitude": 17.90119,
         "longitude": -76.60761
     },
     {
-        "name": "Amity Hall",
+        "name": "Дружелюбный зал",
         "latitude": 17.96759,
         "longitude": -76.25698
     },
     {
-        "name": "Arcadia",
+        "name": "Аркадия",
         "latitude": 17.9223,
         "longitude": -76.3003
     },
     {
-        "name": "Baptist",
+        "name": "баптист",
         "latitude": 17.87666,
         "longitude": -76.57837
     },
     {
-        "name": "Barking Lodge",
+        "name": "Баркинг Лодж",
         "latitude": 17.89279,
         "longitude": -76.28922
     },
     {
-        "name": "Bath",
+        "name": "Ванна",
         "latitude": 17.9482,
         "longitude": -76.34916
     },
     {
-        "name": "Bethel",
+        "name": "Вефиль",
         "latitude": 17.98527,
         "longitude": -76.5805
     },
     {
-        "name": "Cedar Valley",
+        "name": "Кедровая долина",
         "latitude": 18.02815,
         "longitude": -76.59556
     },
     {
-        "name": "Church Corner",
+        "name": "Церковный уголок",
         "latitude": 17.88718,
         "longitude": -76.41898
     },
     {
-        "name": "Dalvey",
+        "name": "Далви",
         "latitude": 17.90241,
         "longitude": -76.25001
     },
     {
-        "name": "Danvers Pen",
+        "name": "Дэнверс Пен",
         "latitude": 17.9288,
         "longitude": -76.47586
     },
     {
-        "name": "Duckenfield",
+        "name": "Дакенфилд",
         "latitude": 17.92205,
         "longitude": -76.22657
     },
     {
-        "name": "Duhaney Pen",
+        "name": "Духани Пен",
         "latitude": 17.89402,
         "longitude": -76.43193
     },
     {
-        "name": "Easington",
+        "name": "Исингтон",
         "latitude": 17.92397,
         "longitude": -76.58824
     },
     {
-        "name": "Eleven Miles",
+        "name": "Одиннадцать миль",
         "latitude": 17.93745,
         "longitude": -76.64337
     },
     {
-        "name": "Font Hill",
+        "name": "Фонт-Хилл",
         "latitude": 17.94055,
         "longitude": -76.51169
     },
     {
-        "name": "Golden Grove",
+        "name": "Золотая Роща",
         "latitude": 17.93361,
         "longitude": -76.27254
     },
     {
-        "name": "Hagley Gap",
+        "name": "Хэгли Гэп",
         "latitude": 18.04845,
         "longitude": -76.62777
     },
     {
-        "name": "Hampton Court",
+        "name": "Хэмптон Корт",
         "latitude": 17.91782,
         "longitude": -76.26131
     },
     {
-        "name": "Hayfield",
+        "name": "Хейфилд",
         "latitude": 17.98199,
         "longitude": -76.36841
     },
     {
-        "name": "Hillside",
+        "name": "Склон холма",
         "latitude": 17.99619,
         "longitude": -76.49082
     },
     {
-        "name": "Johns Town",
+        "name": "Джонс Таун",
         "latitude": 17.89659,
         "longitude": -76.36136
     },
     {
-        "name": "Johnson Mountain",
+        "name": "Джонсон Маунтин",
         "latitude": 17.98091,
         "longitude": -76.31986
     },
     {
-        "name": "Jones Pen",
+        "name": "Джонс Пен",
         "latitude": 17.95068,
         "longitude": -76.54775
     },
     {
-        "name": "Leith Hall",
+        "name": "Лейт Холл",
         "latitude": 17.87973,
         "longitude": -76.34331
     },
     {
-        "name": "Llandewey",
+        "name": "Лландьюи",
         "latitude": 17.94477,
         "longitude": -76.62245
     },
     {
-        "name": "Lloyds",
+        "name": "Ллойдс",
         "latitude": 17.91504,
         "longitude": -76.54085
     },
     {
-        "name": "Lyssons",
+        "name": "Лиссонс",
         "latitude": 17.88708,
         "longitude": -76.37961
     },
     {
-        "name": "Middleton",
+        "name": "Миддлтон",
         "latitude": 17.93971,
         "longitude": -76.43558
     },
     {
-        "name": "Morant Bay",
+        "name": "Морант Бэй",
         "latitude": 17.88145,
         "longitude": -76.40927
     },
     {
-        "name": "Mount Lebanus",
+        "name": "Гора Ливан",
         "latitude": 17.97544,
         "longitude": -76.53891
     },
     {
-        "name": "New Monkland",
+        "name": "Нью-Монкленд",
         "latitude": 17.99158,
         "longitude": -76.57333
     },
     {
-        "name": "Pamphret",
+        "name": "Памфрет",
         "latitude": 17.8757,
         "longitude": -76.51736
     },
     {
-        "name": "Pear Tree",
+        "name": "Грушевое дерево",
         "latitude": 17.91162,
         "longitude": -76.31676
     },
     {
-        "name": "Poormans Corner",
+        "name": "Уголок Пурманс",
         "latitude": 17.89152,
         "longitude": -76.58351
     },
     {
-        "name": "Port Morant",
+        "name": "Порт-Морант",
         "latitude": 17.89947,
         "longitude": -76.34286
     },
     {
-        "name": "Prospect",
+        "name": "Перспектива",
         "latitude": 17.87404,
         "longitude": -76.34956
     },
     {
-        "name": "Ramble",
+        "name": "Рамбл",
         "latitude": 17.96791,
         "longitude": -76.6263
     },
     {
-        "name": "Retreat",
+        "name": "Отступление",
         "latitude": 17.8776,
         "longitude": -76.36795
     },
     {
-        "name": "Richmond Vale",
+        "name": "Ричмонд Вейл",
         "latitude": 17.97435,
         "longitude": -76.59044
     },
     {
-        "name": "River Head",
+        "name": "Ривер-Хед",
         "latitude": 17.99237,
         "longitude": -76.61082
     },
     {
-        "name": "Rowlandsfield",
+        "name": "Роулендсфилд",
         "latitude": 17.97355,
         "longitude": -76.28781
     },
     {
-        "name": "Seaforth",
+        "name": "Сифорт",
         "latitude": 17.94421,
         "longitude": -76.45661
     },
     {
-        "name": "Somerset",
+        "name": "Сомерсет",
         "latitude": 18.00976,
         "longitude": -76.54595
     },
     {
-        "name": "Spring Bank",
+        "name": "Спринг Банк",
         "latitude": 17.95995,
         "longitude": -76.32596
     },
     {
-        "name": "Spring Garden",
+        "name": "Весенний сад",
         "latitude": 17.91749,
         "longitude": -76.42978
     },
     {
-        "name": "Sunning Hill",
+        "name": "Саннинг Хилл",
         "latitude": 17.95612,
         "longitude": -76.40931
     },
     {
-        "name": "Trinity Ville",
+        "name": "Тринити Вилле",
         "latitude": 17.96076,
         "longitude": -76.51427
     },
     {
-        "name": "Trinityville",
+        "name": "Тринитивилл",
         "latitude": 17.9572,
         "longitude": -76.4942
     },
     {
-        "name": "Wheelerfield",
+        "name": "Уилерфилд",
         "latitude": 17.95874,
         "longitude": -76.29623
     },
     {
-        "name": "White Hall",
+        "name": "Белый зал",
         "latitude": 17.99805,
         "longitude": -76.43105
     },
     {
-        "name": "White Horses",
+        "name": "Белые лошади",
         "latitude": 17.8962,
         "longitude": -76.47076
     },
     {
-        "name": "Wilmington",
+        "name": "Уилмингтон",
         "latitude": 17.92856,
         "longitude": -76.38962
     },
     {
-        "name": "Winchester",
+        "name": "Винчестер",
         "latitude": 17.94177,
         "longitude": -76.29823
     },
     {
-        "name": "Yallahs",
+        "name": "о боги",
         "latitude": 17.8748,
         "longitude": -76.56245
     },
     {
-        "name": "York",
+        "name": "Йорк",
         "latitude": 17.92849,
         "longitude": -76.43983
     },
     {
-        "name": "Albert Town",
+        "name": "Альберт Таун",
         "latitude": 18.29434,
         "longitude": -77.54239
     },
     {
-        "name": "Alps",
+        "name": "Альпы",
         "latitude": 18.35498,
         "longitude": -77.50897
     },
     {
-        "name": "Bounty Hall",
+        "name": "Баунти-холл",
         "latitude": 18.45801,
         "longitude": -77.71663
     },
     {
-        "name": "Brampton",
+        "name": "Брэмптон",
         "latitude": 18.44262,
         "longitude": -77.46424
     },
     {
-        "name": "Bunkers Hill",
+        "name": "Банкерс Хилл",
         "latitude": 18.36198,
         "longitude": -77.68612
     },
     {
-        "name": "Clarks Town",
+        "name": "Кларкс Таун",
         "latitude": 18.42244,
         "longitude": -77.53328
     },
     {
-        "name": "Daniel Town",
+        "name": "Дэниел Таун",
         "latitude": 18.46395,
         "longitude": -77.61592
     },
     {
-        "name": "Deeside",
+        "name": "Дисайд",
         "latitude": 18.35976,
         "longitude": -77.73721
     },
     {
-        "name": "Duanvale",
+        "name": "Дуанвейл",
         "latitude": 18.40267,
         "longitude": -77.59615
     },
     {
-        "name": "Duncans",
+        "name": "Дунканс",
         "latitude": 18.468,
         "longitude": -77.53633
     },
     {
-        "name": "Falmouth",
+        "name": "Фалмут",
         "latitude": 18.49358,
         "longitude": -77.65587
     },
     {
-        "name": "Freemans Hall",
+        "name": "Фриманс Холл",
         "latitude": 18.28384,
         "longitude": -77.5018
     },
     {
-        "name": "Granville",
+        "name": "Гранвиль",
         "latitude": 18.45053,
         "longitude": -77.68847
     },
     {
-        "name": "Hampden",
+        "name": "Хэмпден",
         "latitude": 18.44217,
         "longitude": -77.73203
     },
     {
-        "name": "Jackson Town",
+        "name": "Джексон Таун",
         "latitude": 18.41781,
         "longitude": -77.48458
     },
     {
-        "name": "Joe Hut",
+        "name": "Джо Хат",
         "latitude": 18.26742,
         "longitude": -77.49616
     },
     {
-        "name": "Kinloss",
+        "name": "Кинлосс",
         "latitude": 18.39641,
         "longitude": -77.56968
     },
     {
-        "name": "Lorrimers",
+        "name": "Лорримеры",
         "latitude": 18.23026,
         "longitude": -77.49207
     },
     {
-        "name": "Martha Brae",
+        "name": "Марта Брей",
         "latitude": 18.4696,
         "longitude": -77.65909
     },
     {
-        "name": "Perth Town",
+        "name": "Перт Таун",
         "latitude": 18.43106,
         "longitude": -77.62583
     },
     {
-        "name": "Refuge",
+        "name": "Убежище",
         "latitude": 18.45101,
         "longitude": -77.57751
     },
     {
-        "name": "Rio Bueno",
+        "name": "Рио-Буэно",
         "latitude": 18.46406,
         "longitude": -77.48042
     },
     {
-        "name": "Salt Marsh",
+        "name": "Болото, периодически затопляемое морской водой",
         "latitude": 18.48423,
         "longitude": -77.71184
     },
     {
-        "name": "Samuels Prospect",
+        "name": "Сэмюэлс Проспект",
         "latitude": 18.45103,
         "longitude": -77.5144
     },
     {
-        "name": "Sawyers",
+        "name": "Сойерс",
         "latitude": 18.3788,
         "longitude": -77.49689
     },
     {
-        "name": "Sherwood Content",
+        "name": "Шервуд Содержание",
         "latitude": 18.38227,
         "longitude": -77.63643
     },
     {
-        "name": "Spicy Hill",
+        "name": "Пряный холм",
         "latitude": 18.45763,
         "longitude": -77.54751
     },
     {
-        "name": "Spring Garden",
+        "name": "Весенний сад",
         "latitude": 18.29368,
         "longitude": -77.56698
     },
     {
-        "name": "St. Vincent",
+        "name": "Сент-Винсент",
         "latitude": 18.33424,
         "longitude": -77.5479
     },
     {
-        "name": "Stettin",
+        "name": "Щецин",
         "latitude": 18.28224,
         "longitude": -77.54095
     },
     {
-        "name": "Stewart Town",
+        "name": "Стюарт Таун",
         "latitude": 18.39887,
         "longitude": -77.45187
     },
     {
-        "name": "Troy",
+        "name": "Троя",
         "latitude": 18.24924,
         "longitude": -77.60978
     },
     {
-        "name": "Ulster Spring",
+        "name": "Ольстер Весна",
         "latitude": 18.32113,
         "longitude": -77.49681
     },
     {
-        "name": "Wait-A-Bit",
+        "name": "Подожди немного",
         "latitude": 18.25332,
         "longitude": -77.50837
     },
     {
-        "name": "Wakefield",
+        "name": "Уэйкфилд",
         "latitude": 18.4146,
         "longitude": -77.70908
     },
     {
-        "name": "Warsop",
+        "name": "Варсоп",
         "latitude": 18.26178,
         "longitude": -77.56774
     },
     {
-        "name": "Wilson's Run",
+        "name": "Бег Уилсона",
         "latitude": 18.28468,
         "longitude": -77.69323
     },
     {
-        "name": "Wirefence",
+        "name": "Ограда из проволоки",
         "latitude": 18.2531,
         "longitude": -77.53276
     },
     {
-        "name": "12th Street",
+        "name": "12-я улица",
         "latitude": 18.21097,
         "longitude": -78.13603
     },
     {
-        "name": "Amity",
+        "name": "Дружелюбие",
         "latitude": 18.27361,
         "longitude": -77.89805
     },
     {
-        "name": "Ashton",
+        "name": "Эштон",
         "latitude": 18.23139,
         "longitude": -77.92074
     },
     {
-        "name": "Barneyside",
+        "name": "Барнисайд",
         "latitude": 18.2767,
         "longitude": -77.96964
     },
     {
-        "name": "Bath",
+        "name": "Ванна",
         "latitude": 18.25734,
         "longitude": -78.11751
     },
     {
-        "name": "Bath Mountain",
+        "name": "Бат Маунтин",
         "latitude": 18.34428,
         "longitude": -78.09928
     },
     {
-        "name": "Beaufort",
+        "name": "Бофорт",
         "latitude": 18.23417,
         "longitude": -77.95007
     },
     {
-        "name": "Beeston Spring",
+        "name": "Бистон Спринг",
         "latitude": 18.16012,
         "longitude": -77.97545
     },
     {
-        "name": "Belvedere",
+        "name": "Бельведер",
         "latitude": 18.25219,
         "longitude": -77.93208
     },
     {
-        "name": "Berkshire",
+        "name": "Беркшир",
         "latitude": 18.21293,
         "longitude": -77.90373
     },
     {
-        "name": "Bethel Town",
+        "name": "Бетел-Таун",
         "latitude": 18.29503,
         "longitude": -77.95112
     },
     {
-        "name": "Big Bridge",
+        "name": "Большой мост",
         "latitude": 18.23318,
         "longitude": -78.16717
     },
     {
-        "name": "Bluefields",
+        "name": "Блуфилдс",
         "latitude": 18.16602,
         "longitude": -78.02702
     },
     {
-        "name": "Bog",
+        "name": "болото",
         "latitude": 18.15631,
         "longitude": -77.94364
     },
     {
-        "name": "Broughton",
+        "name": "Бротон",
         "latitude": 18.21747,
         "longitude": -78.22894
     },
     {
-        "name": "Burnt Savannah",
+        "name": "Сгоревшая Саванна",
         "latitude": 18.31676,
         "longitude": -78.12628
     },
     {
-        "name": "Cairn Curran",
+        "name": "Каирн Карран",
         "latitude": 18.2284,
         "longitude": -78.0113
     },
     {
-        "name": "Caledonia",
+        "name": "Каледония",
         "latitude": 18.25866,
         "longitude": -78.01173
     },
     {
-        "name": "Carmel",
+        "name": "Кармель",
         "latitude": 18.17326,
         "longitude": -77.93929
     },
     {
-        "name": "Cave",
+        "name": "Пещера",
         "latitude": 18.21019,
         "longitude": -78.0407
     },
     {
-        "name": "Chantilly",
+        "name": "Шантильи",
         "latitude": 18.23059,
         "longitude": -78.12462
     },
     {
-        "name": "Content",
+        "name": "Содержание",
         "latitude": 18.18288,
         "longitude": -77.99915
     },
     {
-        "name": "Cornwall Mountian",
+        "name": "Корнуолл Маунтиан",
         "latitude": 18.28722,
         "longitude": -77.98674
     },
     {
-        "name": "Darliston",
+        "name": "Дарлистон",
         "latitude": 18.23731,
         "longitude": -77.97626
     },
     {
-        "name": "Delveland",
+        "name": "Делвеланд",
         "latitude": 18.29709,
         "longitude": -78.23962
     },
     {
-        "name": "Dillion Bigwoods",
+        "name": "Диллион Бигвудс",
         "latitude": 18.20944,
         "longitude": -77.99078
     },
     {
-        "name": "Dundee",
+        "name": "Данди",
         "latitude": 18.23679,
         "longitude": -77.88698
     },
     {
-        "name": "Enfield",
+        "name": "Энфилд",
         "latitude": 18.21404,
         "longitude": -77.9527
     },
     {
-        "name": "Ferris",
+        "name": "Феррис",
         "latitude": 18.22265,
         "longitude": -78.05588
     },
     {
-        "name": "Fort Williams",
+        "name": "Форт Уильямс",
         "latitude": 18.29834,
         "longitude": -78.06331
     },
     {
-        "name": "Frome",
+        "name": "Фром",
         "latitude": 18.27974,
         "longitude": -78.14903
     },
     {
-        "name": "Fullersfield",
+        "name": "Фуллерсфилд",
         "latitude": 18.2989,
         "longitude": -78.19976
     },
     {
-        "name": "Georges Plain",
+        "name": "Жорж Плейн",
         "latitude": 18.2765,
         "longitude": -78.13118
     },
     {
-        "name": "Gooden's River",
+        "name": "Река Гуденс",
         "latitude": 18.24223,
         "longitude": -78.1284
     },
     {
-        "name": "Grange",
+        "name": "Грейндж",
         "latitude": 18.33161,
         "longitude": -78.08036
     },
     {
-        "name": "Grange Hill",
+        "name": "Грейндж Хилл",
         "latitude": 18.33083,
         "longitude": -78.18398
     },
     {
-        "name": "Haddo",
+        "name": "Хаддо",
         "latitude": 18.28606,
         "longitude": -78.01893
     },
     {
-        "name": "Harmony Town",
+        "name": "Город Гармонии",
         "latitude": 18.21987,
         "longitude": -78.13687
     },
     {
-        "name": "Hertford",
+        "name": "Хартфорд",
         "latitude": 18.27181,
         "longitude": -78.09078
     },
     {
-        "name": "Jerusalem",
+        "name": "Иерусалим",
         "latitude": 18.32458,
         "longitude": -78.21563
     },
     {
-        "name": "Kentucky",
+        "name": "Кентукки",
         "latitude": 18.19931,
         "longitude": -78.01767
     },
     {
-        "name": "Kilmarnoch",
+        "name": "Килмарнох",
         "latitude": 18.12407,
         "longitude": -77.92774
     },
     {
-        "name": "Lambs River",
+        "name": "Река Лэмбс",
         "latitude": 18.26823,
         "longitude": -77.91414
     },
     {
-        "name": "Leamington",
+        "name": "Лимингтон",
         "latitude": 18.21352,
         "longitude": -77.92743
     },
     {
-        "name": "Lenox Bigwoods",
+        "name": "Ленокс Бигвудс",
         "latitude": 18.21392,
         "longitude": -77.97214
     },
     {
-        "name": "Little London",
+        "name": "Маленький Лондон",
         "latitude": 18.24523,
         "longitude": -78.22653
     },
     {
-        "name": "Llandilo",
+        "name": "Лландило",
         "latitude": 18.23439,
         "longitude": -78.13895
     },
     {
-        "name": "Mackfield",
+        "name": "Макфилд",
         "latitude": 18.31163,
         "longitude": -78.02471
     },
     {
-        "name": "Mearnsville",
+        "name": "Мирнсвилл",
         "latitude": 18.18856,
         "longitude": -78.0287
     },
     {
-        "name": "Mount Airy",
+        "name": "Гора Эйри",
         "latitude": 18.24738,
         "longitude": -78.32279
     },
     {
-        "name": "Mount Stewart",
+        "name": "Гора Стюарт",
         "latitude": 18.30411,
         "longitude": -77.99274
     },
     {
-        "name": "Negril",
+        "name": "Негрил",
         "latitude": 18.26844,
         "longitude": -78.3481
     },
     {
-        "name": "New Market Oval",
+        "name": "Новый рыночный овал",
         "latitude": 18.2137,
         "longitude": -78.13813
     },
     {
-        "name": "New Roads",
+        "name": "Новые дороги",
         "latitude": 18.19124,
         "longitude": -77.93608
     },
     {
-        "name": "New Works",
+        "name": "Новые работы",
         "latitude": 18.17248,
         "longitude": -77.96645
     },
     {
-        "name": "Orange Hill",
+        "name": "Оранжевый холм",
         "latitude": 18.23418,
         "longitude": -78.30277
     },
     {
-        "name": "Paul Island",
+        "name": "Пол Айленд",
         "latitude": 18.272,
         "longitude": -78.18614
     },
     {
-        "name": "Petersfield",
+        "name": "Питерсфилд",
         "latitude": 18.26588,
         "longitude": -78.05755
     },
     {
-        "name": "Petersville",
+        "name": "Питерсвилл",
         "latitude": 18.137,
         "longitude": -77.95046
     },
     {
-        "name": "Porters Mountain",
+        "name": "Портерс Маунтин",
         "latitude": 18.32909,
         "longitude": -78.0491
     },
     {
-        "name": "Red Hills",
+        "name": "Красные Холмы",
         "latitude": 18.3055,
         "longitude": -78.1128
     },
     {
-        "name": "Revival",
+        "name": "Возрождение",
         "latitude": 18.24255,
         "longitude": -78.28437
     },
     {
-        "name": "Roaring River",
+        "name": "Ревущая река",
         "latitude": 18.30118,
         "longitude": -78.04324
     },
     {
-        "name": "Russia",
+        "name": "Россия",
         "latitude": 18.21649,
         "longitude": -78.12361
     },
     {
-        "name": "Savanna-la-Mar",
+        "name": "Саванна-ла-Мар",
         "latitude": 18.21895,
         "longitude": -78.1332
     },
     {
-        "name": "Savannah-la-mar Business Dist.",
+        "name": "Саванна-ла-Мар Деловой район.",
         "latitude": 18.21962,
         "longitude": -78.13034
     },
     {
-        "name": "Seaford Town",
+        "name": "Сифорд Таун",
         "latitude": 18.24339,
         "longitude": -77.90504
     },
     {
-        "name": "Seaton Crescent",
+        "name": "Ситон Кресент",
         "latitude": 18.21675,
         "longitude": -78.13603
     },
     {
-        "name": "Shefield",
+        "name": "Шефилд",
         "latitude": 18.28412,
         "longitude": -78.29169
     },
     {
-        "name": "Shoalin Grotto",
+        "name": "Грот Шоалин",
         "latitude": 18.22059,
         "longitude": -78.14019
     },
     {
-        "name": "Smithfield",
+        "name": "Смитфилд",
         "latitude": 18.22275,
         "longitude": -78.08785
     },
     {
-        "name": "St. Leonards",
+        "name": "Сент-Леонардс",
         "latitude": 18.25533,
         "longitude": -77.88889
     },
     {
-        "name": "Strathbogie",
+        "name": "Стратбоги",
         "latitude": 18.23855,
         "longitude": -78.11714
     },
     {
-        "name": "Strawberry",
+        "name": "Клубника",
         "latitude": 18.30676,
         "longitude": -78.08945
     },
     {
-        "name": "Struie",
+        "name": "Бродить",
         "latitude": 18.25317,
         "longitude": -77.95656
     },
     {
-        "name": "Three Mile River",
+        "name": "Три-Майл-Ривер",
         "latitude": 18.25706,
         "longitude": -78.14275
     },
     {
-        "name": "Town Head",
+        "name": "Глава города",
         "latitude": 18.33898,
         "longitude": -78.13569
     },
     {
-        "name": "Truro",
+        "name": "Труро",
         "latitude": 18.31301,
         "longitude": -78.15489
     },
     {
-        "name": "Water Works",
+        "name": "Водные Работы",
         "latitude": 18.23319,
         "longitude": -78.04296
     },
     {
-        "name": "Whitehouse",
+        "name": "Белый дом",
         "latitude": 18.10275,
         "longitude": -77.95697
     },
     {
-        "name": "Whithorn",
+        "name": "Уихорн",
         "latitude": 18.27111,
         "longitude": -78.03811
     },
     {
-        "name": "Williamsfield",
+        "name": "Уильямсфилд",
         "latitude": 18.33393,
         "longitude": -78.06957
     }

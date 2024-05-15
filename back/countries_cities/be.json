@@ -1,11 +1,11 @@
 [
     {
-        "name": "Brussels",
+        "name": "Брусюэль",
         "latitude": 50.85045,
         "longitude": 4.34878
     },
     {
-        "name": "Aalst",
+        "name": "Альст",
         "latitude": 50.93604,
         "longitude": 4.0355
     },
@@ -15,7 +15,7 @@
         "longitude": 3.44693
     },
     {
-        "name": "Aarschot",
+        "name": "Аршиот",
         "latitude": 50.98715,
         "longitude": 4.83695
     },
@@ -25,7 +25,7 @@
         "longitude": 4.38678
     },
     {
-        "name": "Alken",
+        "name": "Алкс",
         "latitude": 50.87553,
         "longitude": 5.30558
     },
@@ -35,12 +35,12 @@
         "longitude": 2.71117
     },
     {
-        "name": "Antwerpen",
+        "name": "Антверпен",
         "latitude": 51.21989,
         "longitude": 4.40346
     },
     {
-        "name": "Anzegem",
+        "name": "Anceregam",
         "latitude": 50.837,
         "longitude": 3.47786
     },
@@ -50,22 +50,22 @@
         "longitude": 3.19736
     },
     {
-        "name": "Arendonk",
+        "name": "Арендон",
         "latitude": 51.32267,
         "longitude": 5.08289
     },
     {
-        "name": "As",
+        "name": "Как",
         "latitude": 51.00755,
         "longitude": 5.58453
     },
     {
-        "name": "Asse",
+        "name": "ЖОПА",
         "latitude": 50.91011,
         "longitude": 4.19836
     },
     {
-        "name": "Assenede",
+        "name": "Администрация",
         "latitude": 51.22598,
         "longitude": 3.75085
     },
@@ -75,22 +75,22 @@
         "longitude": 3.44502
     },
     {
-        "name": "Baarle-Hertog",
+        "name": "Барле-Херто",
         "latitude": 51.40504,
         "longitude": 4.89226
     },
     {
-        "name": "Balen",
+        "name": "Чтобы сжать",
         "latitude": 51.16837,
         "longitude": 5.17027
     },
     {
-        "name": "Beernem",
+        "name": "Бернем",
         "latitude": 51.13981,
         "longitude": 3.33896
     },
     {
-        "name": "Beerse",
+        "name": "Пиво",
         "latitude": 51.31927,
         "longitude": 4.85304
     },
@@ -110,77 +110,77 @@
         "longitude": 4.969
     },
     {
-        "name": "Beringen",
+        "name": "Сломанный",
         "latitude": 51.04954,
         "longitude": 5.22606
     },
     {
-        "name": "Berlaar",
+        "name": "Бела",
         "latitude": 51.1176,
         "longitude": 4.65835
     },
     {
-        "name": "Berlare",
+        "name": "Давать",
         "latitude": 51.03333,
         "longitude": 4.0
     },
     {
-        "name": "Bertem",
+        "name": "Берт",
         "latitude": 50.86403,
         "longitude": 4.62918
     },
     {
-        "name": "Bever",
+        "name": "БЕВЕР",
         "latitude": 50.91667,
         "longitude": 4.31667
     },
     {
-        "name": "Beveren",
+        "name": "Бобр",
         "latitude": 51.21187,
         "longitude": 4.25633
     },
     {
-        "name": "Bierbeek",
+        "name": "Пиво",
         "latitude": 50.82876,
         "longitude": 4.75949
     },
     {
-        "name": "Bilzen",
+        "name": "Пупочный",
         "latitude": 50.87325,
         "longitude": 5.5184
     },
     {
-        "name": "Blankenberge",
+        "name": "Бланкенберг",
         "latitude": 51.31306,
         "longitude": 3.13227
     },
     {
-        "name": "Bocholt",
+        "name": "Проклят маленький",
         "latitude": 51.17337,
         "longitude": 5.57994
     },
     {
-        "name": "Boechout",
+        "name": "BoeChout",
         "latitude": 51.15959,
         "longitude": 4.49195
     },
     {
-        "name": "Bonheiden",
+        "name": "Сражаться",
         "latitude": 51.02261,
         "longitude": 4.54714
     },
     {
-        "name": "Boom",
+        "name": "Бум",
         "latitude": 51.09242,
         "longitude": 4.3717
     },
     {
-        "name": "Boortmeerbeek",
+        "name": "Бертмонд",
         "latitude": 50.97929,
         "longitude": 4.57443
     },
     {
-        "name": "Borgloon",
+        "name": "Фусслон",
         "latitude": 50.80505,
         "longitude": 5.34366
     },
@@ -190,12 +190,12 @@
         "longitude": 4.24364
     },
     {
-        "name": "Borsbeek",
+        "name": "Борсбек",
         "latitude": 51.19661,
         "longitude": 4.48543
     },
     {
-        "name": "Boutersem",
+        "name": "Бууема",
         "latitude": 50.83511,
         "longitude": 4.8345
     },
@@ -205,22 +205,22 @@
         "longitude": 4.49182
     },
     {
-        "name": "Brecht",
+        "name": "Брехт",
         "latitude": 51.35024,
         "longitude": 4.63829
     },
     {
-        "name": "Bredene",
+        "name": "Бин",
         "latitude": 51.23489,
         "longitude": 2.97559
     },
     {
-        "name": "Bree",
+        "name": "Бри",
         "latitude": 51.14152,
         "longitude": 5.5969
     },
     {
-        "name": "Brugge",
+        "name": "Брюгги",
         "latitude": 51.20892,
         "longitude": 3.22424
     },
@@ -230,27 +230,27 @@
         "longitude": 4.20173
     },
     {
-        "name": "Damme",
+        "name": "Долг",
         "latitude": 51.25147,
         "longitude": 3.28144
     },
     {
-        "name": "De Haan",
+        "name": "Петух",
         "latitude": 51.27261,
         "longitude": 3.03446
     },
     {
-        "name": "De Panne",
+        "name": "Авария",
         "latitude": 51.09793,
         "longitude": 2.59368
     },
     {
-        "name": "De Pinte",
+        "name": "Краска",
         "latitude": 50.99339,
         "longitude": 3.64747
     },
     {
-        "name": "Deerlijk",
+        "name": "Жаловая",
         "latitude": 50.85337,
         "longitude": 3.35416
     },
@@ -265,7 +265,7 @@
         "longitude": 4.07601
     },
     {
-        "name": "Dendermonde",
+        "name": "В отношении чего -то",
         "latitude": 51.02869,
         "longitude": 4.10106
     },
@@ -275,2477 +275,2477 @@
         "longitude": 3.41617
     },
     {
-        "name": "Dessel",
+        "name": "Дессель",
         "latitude": 51.23855,
         "longitude": 5.11448
     },
     {
-        "name": "Destelbergen",
+        "name": "Деслберген",
         "latitude": 51.05952,
         "longitude": 3.79899
     },
     {
-        "name": "Deurne",
+        "name": "Дверь",
         "latitude": 51.22134,
         "longitude": 4.46595
     },
     {
-        "name": "Diegem",
+        "name": "Достойный",
         "latitude": 50.89727,
         "longitude": 4.43354
     },
     {
-        "name": "Diepenbeek",
+        "name": "Дипенбек",
         "latitude": 50.90769,
         "longitude": 5.41875
     },
     {
-        "name": "Diest",
+        "name": "Нищета",
         "latitude": 50.98923,
         "longitude": 5.05062
     },
     {
-        "name": "Diksmuide",
+        "name": "Диксмюйде",
         "latitude": 51.03248,
         "longitude": 2.86384
     },
     {
-        "name": "Dilbeek",
+        "name": "Дильбек",
         "latitude": 50.84799,
         "longitude": 4.25972
     },
     {
-        "name": "Drogenbos",
+        "name": "Дрогенбос",
         "latitude": 50.78733,
         "longitude": 4.31471
     },
     {
-        "name": "Duffel",
+        "name": "Дуфель",
         "latitude": 51.09554,
         "longitude": 4.50903
     },
     {
-        "name": "Edegem",
+        "name": "ЭДЕГЕМ",
         "latitude": 51.15662,
         "longitude": 4.44504
     },
     {
-        "name": "Eeklo",
+        "name": "Экло",
         "latitude": 51.18703,
         "longitude": 3.55654
     },
     {
-        "name": "Essen",
+        "name": "Эссен",
         "latitude": 51.46791,
         "longitude": 4.46901
     },
     {
-        "name": "Evergem",
+        "name": "Эвергейм",
         "latitude": 51.11306,
         "longitude": 3.70976
     },
     {
-        "name": "Galmaarden",
+        "name": "В Гальмаарде",
         "latitude": 50.75389,
         "longitude": 3.97121
     },
     {
-        "name": "Gavere",
+        "name": "Гавере",
         "latitude": 50.92917,
         "longitude": 3.66184
     },
     {
-        "name": "Geel",
+        "name": "Желтый",
         "latitude": 51.16557,
         "longitude": 4.98917
     },
     {
-        "name": "Geetbets",
+        "name": "Гитбетс",
         "latitude": 50.89431,
         "longitude": 5.11199
     },
     {
-        "name": "Genk",
+        "name": "Генк",
         "latitude": 50.965,
         "longitude": 5.50082
     },
     {
-        "name": "Gent",
+        "name": "Джентльмен",
         "latitude": 51.05,
         "longitude": 3.71667
     },
     {
-        "name": "Geraardsbergen",
+        "name": "Герардсберген",
         "latitude": 50.77343,
         "longitude": 3.88223
     },
     {
-        "name": "Gingelom",
+        "name": "Джинглом",
         "latitude": 50.74792,
         "longitude": 5.13422
     },
     {
-        "name": "Gistel",
+        "name": "Ухо",
         "latitude": 51.15612,
         "longitude": 2.96387
     },
     {
-        "name": "Glabbeek",
+        "name": "Глаббик",
         "latitude": 50.87267,
         "longitude": 4.95615
     },
     {
-        "name": "Gooik",
+        "name": "Говик",
         "latitude": 50.79443,
         "longitude": 4.11378
     },
     {
-        "name": "Grimbergen",
+        "name": "Гримберген",
         "latitude": 50.93409,
         "longitude": 4.37213
     },
     {
-        "name": "Grobbendonk",
+        "name": "Гроббендонк",
         "latitude": 51.19043,
         "longitude": 4.73562
     },
     {
-        "name": "Haacht",
+        "name": "Закрывать",
         "latitude": 50.97737,
         "longitude": 4.63777
     },
     {
-        "name": "Haaltert",
+        "name": "Холтер",
         "latitude": 50.90634,
         "longitude": 4.00093
     },
     {
-        "name": "Halen",
+        "name": "Галлен",
         "latitude": 50.94837,
         "longitude": 5.11096
     },
     {
-        "name": "Halle",
+        "name": "Галле",
         "latitude": 50.73385,
         "longitude": 4.23454
     },
     {
-        "name": "Hamme",
+        "name": "Хамм",
         "latitude": 51.09822,
         "longitude": 4.13705
     },
     {
-        "name": "Harelbeke",
+        "name": "Гарелбеке",
         "latitude": 50.85343,
         "longitude": 3.30935
     },
     {
-        "name": "Hasselt",
+        "name": "Хасселт",
         "latitude": 50.93106,
         "longitude": 5.33781
     },
     {
-        "name": "Heers",
+        "name": "Преобладать",
         "latitude": 50.75383,
         "longitude": 5.3021
     },
     {
-        "name": "Heist-op-den-Berg",
+        "name": "Крут-Оп-Ден-Берг",
         "latitude": 51.07537,
         "longitude": 4.72827
     },
     {
-        "name": "Helchteren",
+        "name": "Хелтер",
         "latitude": 51.05591,
         "longitude": 5.38244
     },
     {
-        "name": "Hemiksem",
+        "name": "Хемиксем",
         "latitude": 51.14484,
         "longitude": 4.33874
     },
     {
-        "name": "Herent",
+        "name": "Геред",
         "latitude": 50.90861,
         "longitude": 4.67056
     },
     {
-        "name": "Herentals",
+        "name": "Херенталс",
         "latitude": 51.17655,
         "longitude": 4.83248
     },
     {
-        "name": "Herenthout",
+        "name": "Джентльмен",
         "latitude": 51.1401,
         "longitude": 4.75572
     },
     {
-        "name": "Herk-de-Stad",
+        "name": "Херк де Стад",
         "latitude": 50.94013,
         "longitude": 5.16636
     },
     {
-        "name": "Herne",
+        "name": "Херн",
         "latitude": 50.72423,
         "longitude": 4.03481
     },
     {
-        "name": "Herselt",
+        "name": "Херсельт",
         "latitude": 51.05159,
         "longitude": 4.88231
     },
     {
-        "name": "Herzele",
+        "name": "Герзель",
         "latitude": 50.88681,
         "longitude": 3.89014
     },
     {
-        "name": "Heusden",
+        "name": "Хойсден",
         "latitude": 51.03664,
         "longitude": 5.28013
     },
     {
-        "name": "Hoboken",
+        "name": "Почти префектура",
         "latitude": 51.17611,
         "longitude": 4.34844
     },
     {
-        "name": "Hoegaarden",
+        "name": "ХОГАРДЕН",
         "latitude": 50.7756,
         "longitude": 4.88952
     },
     {
-        "name": "Hoeilaart",
+        "name": "Хойлаарт",
         "latitude": 50.7673,
         "longitude": 4.46835
     },
     {
-        "name": "Hoeselt",
+        "name": "Из шланга",
         "latitude": 50.84714,
         "longitude": 5.48767
     },
     {
-        "name": "Holsbeek",
+        "name": "Хольсбек",
         "latitude": 50.92097,
         "longitude": 4.75747
     },
     {
-        "name": "Hooglede",
+        "name": "Высокий",
         "latitude": 50.98333,
         "longitude": 3.08333
     },
     {
-        "name": "Hoogstraten",
+        "name": "Хогстратен",
         "latitude": 51.40029,
         "longitude": 4.76034
     },
     {
-        "name": "Houthalen",
+        "name": "Свиньи",
         "latitude": 51.03427,
         "longitude": 5.37429
     },
     {
-        "name": "Houthulst",
+        "name": "Древесный падуб",
         "latitude": 50.97824,
         "longitude": 2.9505
     },
     {
-        "name": "Hove",
+        "name": "Ход",
         "latitude": 51.15446,
         "longitude": 4.4707
     },
     {
-        "name": "Huldenberg",
+        "name": "Хальденберг",
         "latitude": 50.78939,
         "longitude": 4.5831
     },
     {
-        "name": "Hulshout",
+        "name": "Кричать",
         "latitude": 51.07451,
         "longitude": 4.79081
     },
     {
-        "name": "Ichtegem",
+        "name": "мне нужно",
         "latitude": 51.09572,
         "longitude": 3.01549
     },
     {
-        "name": "Ieper",
+        "name": "Йолдер",
         "latitude": 50.85114,
         "longitude": 2.88569
     },
     {
-        "name": "Ingelmunster",
+        "name": "Ингельмунстер",
         "latitude": 50.92081,
         "longitude": 3.25571
     },
     {
-        "name": "Izegem",
+        "name": "Эзегем",
         "latitude": 50.91396,
         "longitude": 3.21378
     },
     {
-        "name": "Jabbeke",
+        "name": "Джаббеке",
         "latitude": 51.18185,
         "longitude": 3.08935
     },
     {
-        "name": "Kalmthout",
+        "name": "Кладбище",
         "latitude": 51.38442,
         "longitude": 4.47556
     },
     {
-        "name": "Kampenhout",
+        "name": "Кемпинг дерево",
         "latitude": 50.9421,
         "longitude": 4.55103
     },
     {
-        "name": "Kapelle-op-den-Bos",
+        "name": "Капелле-Оп-Ден-Бос",
         "latitude": 51.0097,
         "longitude": 4.36303
     },
     {
-        "name": "Kapellen",
+        "name": "Часовня",
         "latitude": 51.31377,
         "longitude": 4.43539
     },
     {
-        "name": "Kaprijke",
+        "name": "Каприз",
         "latitude": 51.2172,
         "longitude": 3.61519
     },
     {
-        "name": "Kasterlee",
+        "name": "Кастерли",
         "latitude": 51.24118,
         "longitude": 4.96651
     },
     {
-        "name": "Keerbergen",
+        "name": "Керберген",
         "latitude": 51.00295,
         "longitude": 4.63434
     },
     {
-        "name": "Kinrooi",
+        "name": "Кинруа",
         "latitude": 51.14543,
         "longitude": 5.74207
     },
     {
-        "name": "Knesselare",
+        "name": "Кнессы",
         "latitude": 51.13932,
         "longitude": 3.41282
     },
     {
-        "name": "Knokke-Heist",
+        "name": "КНОККЕ-ХЕЙСТ",
         "latitude": 51.35,
         "longitude": 3.26667
     },
     {
-        "name": "Koekelare",
+        "name": "КОКЕЛАР",
         "latitude": 51.09047,
         "longitude": 2.9783
     },
     {
-        "name": "Koksijde",
+        "name": "Шеф -повар",
         "latitude": 51.11642,
         "longitude": 2.63772
     },
     {
-        "name": "Kontich",
+        "name": "КОНТИЧ",
         "latitude": 51.13213,
         "longitude": 4.44706
     },
     {
-        "name": "Kortemark",
+        "name": "Кортемарк",
         "latitude": 51.02951,
         "longitude": 3.04112
     },
     {
-        "name": "Kortenaken",
+        "name": "Корленакен",
         "latitude": 50.90862,
         "longitude": 5.05968
     },
     {
-        "name": "Kortenberg",
+        "name": "Кортенберг",
         "latitude": 50.88982,
         "longitude": 4.54353
     },
     {
-        "name": "Kortessem",
+        "name": "Кортессем",
         "latitude": 50.8589,
         "longitude": 5.38974
     },
     {
-        "name": "Kortrijk",
+        "name": "Кортрийк",
         "latitude": 50.82803,
         "longitude": 3.26487
     },
     {
-        "name": "Kraainem",
+        "name": "Краайнем",
         "latitude": 50.86155,
         "longitude": 4.46946
     },
     {
-        "name": "Kruibeke",
+        "name": "Пара",
         "latitude": 51.17048,
         "longitude": 4.31444
     },
     {
-        "name": "Kruishoutem",
+        "name": "Круйшутем",
         "latitude": 50.90168,
         "longitude": 3.52588
     },
     {
-        "name": "Kuurne",
+        "name": "Искупление",
         "latitude": 50.85143,
         "longitude": 3.2824
     },
     {
-        "name": "Laarne",
+        "name": "Ларн",
         "latitude": 51.03078,
         "longitude": 3.85077
     },
     {
-        "name": "Lanaken",
+        "name": "Ланакен",
         "latitude": 50.89318,
         "longitude": 5.6468
     },
     {
-        "name": "Landen",
+        "name": "Приземлиться",
         "latitude": 50.75267,
         "longitude": 5.082
     },
     {
-        "name": "Lebbeke",
+        "name": "Леббеке",
         "latitude": 51.00464,
         "longitude": 4.13457
     },
     {
-        "name": "Lede",
+        "name": "Рэнд",
         "latitude": 50.96626,
         "longitude": 3.98594
     },
     {
-        "name": "Ledeberg",
+        "name": "ЛЕДЕБЕРГ",
         "latitude": 51.03859,
         "longitude": 3.74458
     },
     {
-        "name": "Ledegem",
+        "name": "Лед",
         "latitude": 50.85785,
         "longitude": 3.12409
     },
     {
-        "name": "Lendelede",
+        "name": "Ленделеде",
         "latitude": 50.88626,
         "longitude": 3.23747
     },
     {
-        "name": "Leopoldsburg",
+        "name": "Леопольдсбург",
         "latitude": 51.11667,
         "longitude": 5.25
     },
     {
-        "name": "Leuven",
+        "name": "Левен",
         "latitude": 50.87959,
         "longitude": 4.70093
     },
     {
-        "name": "Lichtervelde",
+        "name": "Лихтервельде",
         "latitude": 51.03333,
         "longitude": 3.15
     },
     {
-        "name": "Liedekerke",
+        "name": "Лидекерке",
         "latitude": 50.86892,
         "longitude": 4.08743
     },
     {
-        "name": "Lier",
+        "name": "лжец",
         "latitude": 51.13128,
         "longitude": 4.57041
     },
     {
-        "name": "Lille",
+        "name": "Лилль",
         "latitude": 51.24197,
         "longitude": 4.82313
     },
     {
-        "name": "Linkebeek",
+        "name": "Линкебайк",
         "latitude": 50.76781,
         "longitude": 4.33688
     },
     {
-        "name": "Lint",
+        "name": "Пронзительный",
         "latitude": 51.12707,
         "longitude": 4.49669
     },
     {
-        "name": "Lochristi",
+        "name": "Локристи",
         "latitude": 51.09644,
         "longitude": 3.83194
     },
     {
-        "name": "Lokeren",
+        "name": "Локерен",
         "latitude": 51.10364,
         "longitude": 3.99339
     },
     {
-        "name": "Lommel",
+        "name": "Ломмель",
         "latitude": 51.23074,
         "longitude": 5.31349
     },
     {
-        "name": "Londerzeel",
+        "name": "Лондерзил",
         "latitude": 51.00468,
         "longitude": 4.30304
     },
     {
-        "name": "Lovendegem",
+        "name": "Ловендегем",
         "latitude": 51.10168,
         "longitude": 3.61298
     },
     {
-        "name": "Lubbeek",
+        "name": "Лаббик",
         "latitude": 50.88278,
         "longitude": 4.83896
     },
     {
-        "name": "Lummen",
+        "name": "Ламм",
         "latitude": 50.98772,
         "longitude": 5.19121
     },
     {
-        "name": "Maaseik",
+        "name": "Маасек",
         "latitude": 51.09802,
         "longitude": 5.78379
     },
     {
-        "name": "Maasmechelen",
+        "name": "Маасмехелен",
         "latitude": 50.96545,
         "longitude": 5.69452
     },
     {
-        "name": "Machelen",
+        "name": "пытали",
         "latitude": 50.91061,
         "longitude": 4.44174
     },
     {
-        "name": "Maldegem",
+        "name": "Мальдегем",
         "latitude": 51.20737,
         "longitude": 3.44511
     },
     {
-        "name": "Mechelen",
+        "name": "Мехелен",
         "latitude": 51.02574,
         "longitude": 4.47762
     },
     {
-        "name": "Meerhout",
+        "name": "Озеро",
         "latitude": 51.1321,
         "longitude": 5.07842
     },
     {
-        "name": "Meise",
+        "name": "Стол",
         "latitude": 50.93934,
         "longitude": 4.32655
     },
     {
-        "name": "Melle",
+        "name": "Мед",
         "latitude": 51.00232,
         "longitude": 3.80526
     },
     {
-        "name": "Menen",
+        "name": "я пойду",
         "latitude": 50.79722,
         "longitude": 3.12245
     },
     {
-        "name": "Merchtem",
+        "name": "Мерхтем",
         "latitude": 50.95129,
         "longitude": 4.23197
     },
     {
-        "name": "Merelbeke",
+        "name": "МЕРЕЛЬБЕКЕ",
         "latitude": 50.99447,
         "longitude": 3.74621
     },
     {
-        "name": "Merksplas",
+        "name": "Мерксплас",
         "latitude": 51.35851,
         "longitude": 4.86513
     },
     {
-        "name": "Meulebeke",
+        "name": "Меулебеке",
         "latitude": 50.95136,
         "longitude": 3.28804
     },
     {
-        "name": "Middelkerke",
+        "name": "Мидделкерке",
         "latitude": 51.18532,
         "longitude": 2.82077
     },
     {
-        "name": "Moerbeke",
+        "name": "Мербеке",
         "latitude": 51.17409,
         "longitude": 3.93001
     },
     {
-        "name": "Mol",
+        "name": "Мол",
         "latitude": 51.19188,
         "longitude": 5.11662
     },
     {
-        "name": "Moorslede",
+        "name": "Мурле",
         "latitude": 50.8919,
         "longitude": 3.06117
     },
     {
-        "name": "Mortsel",
+        "name": "Решение",
         "latitude": 51.16697,
         "longitude": 4.45127
     },
     {
-        "name": "Nazareth",
+        "name": "Назарет",
         "latitude": 50.95686,
         "longitude": 3.59425
     },
     {
-        "name": "Neerpelt",
+        "name": "Неерпельт",
         "latitude": 51.22807,
         "longitude": 5.4427
     },
     {
-        "name": "Nevele",
+        "name": "НЭВЕЛЛ",
         "latitude": 51.03531,
         "longitude": 3.54574
     },
     {
-        "name": "Niel",
+        "name": "ноль",
         "latitude": 51.11096,
         "longitude": 4.33428
     },
     {
-        "name": "Nieuwerkerken",
+        "name": "Ньюверкеркен",
         "latitude": 50.8638,
         "longitude": 5.19467
     },
     {
-        "name": "Nieuwpoort",
+        "name": "Ньюпорт",
         "latitude": 51.13008,
         "longitude": 2.75135
     },
     {
-        "name": "Nijlen",
+        "name": "Найлз",
         "latitude": 51.16096,
         "longitude": 4.67008
     },
     {
-        "name": "Ninove",
+        "name": "Нинов",
         "latitude": 50.82776,
         "longitude": 4.02657
     },
     {
-        "name": "Olen",
+        "name": "Я",
         "latitude": 51.14391,
         "longitude": 4.8598
     },
     {
-        "name": "Oostduinkerke",
+        "name": "Остдуинкерке",
         "latitude": 51.11565,
         "longitude": 2.68217
     },
     {
-        "name": "Oosterzele",
+        "name": "Оостерзель",
         "latitude": 50.95261,
         "longitude": 3.79826
     },
     {
-        "name": "Oostkamp",
+        "name": "Осткамп",
         "latitude": 51.15432,
         "longitude": 3.23128
     },
     {
-        "name": "Oostmalle",
+        "name": "Остмалле",
         "latitude": 51.3,
         "longitude": 4.73333
     },
     {
-        "name": "Oostrozebeke",
+        "name": "Острожебеке",
         "latitude": 50.92093,
         "longitude": 3.33799
     },
     {
-        "name": "Opglabbeek",
+        "name": "Опглаббеек",
         "latitude": 51.04258,
         "longitude": 5.58346
     },
     {
-        "name": "Opwijk",
+        "name": "Опвейк",
         "latitude": 50.96724,
         "longitude": 4.18442
     },
     {
-        "name": "Ostend",
+        "name": "Остенде",
         "latitude": 51.21551,
         "longitude": 2.927
     },
     {
-        "name": "Oud-Heverlee",
+        "name": "Уд-Хейверли",
         "latitude": 50.83522,
         "longitude": 4.66421
     },
     {
-        "name": "Oud-Turnhout",
+        "name": "Уд-Тернхаут",
         "latitude": 51.31978,
         "longitude": 4.9841
     },
     {
-        "name": "Oudenaarde",
+        "name": "Ауденарде",
         "latitude": 50.85168,
         "longitude": 3.60891
     },
     {
-        "name": "Oudenburg",
+        "name": "Удденбург",
         "latitude": 51.18489,
         "longitude": 3.00035
     },
     {
-        "name": "Overijse",
+        "name": "Овсяной",
         "latitude": 50.77436,
         "longitude": 4.53461
     },
     {
-        "name": "Overpelt",
+        "name": "Перепредать",
         "latitude": 51.21038,
         "longitude": 5.41557
     },
     {
-        "name": "Peer",
+        "name": "Всмотритесь",
         "latitude": 51.1303,
         "longitude": 5.45952
     },
     {
-        "name": "Pepingen",
+        "name": "Пепинген",
         "latitude": 50.75922,
         "longitude": 4.15983
     },
     {
-        "name": "Perre",
+        "name": "Семье",
         "latitude": 50.88914,
         "longitude": 3.86098
     },
     {
-        "name": "Pittem",
+        "name": "Питтем",
         "latitude": 50.99279,
         "longitude": 3.26317
     },
     {
-        "name": "Poperinge",
+        "name": "Поперинге",
         "latitude": 50.85386,
         "longitude": 2.72659
     },
     {
-        "name": "Provincie Antwerpen",
+        "name": "Провинция Антверпен",
         "latitude": 51.16558,
         "longitude": 4.83402
     },
     {
-        "name": "Provincie Limburg",
+        "name": "Провинция Лимбург",
         "latitude": 51.0,
         "longitude": 5.5
     },
     {
-        "name": "Provincie Oost-Vlaanderen",
+        "name": "Провинция Восточная Фландрия",
         "latitude": 51.0,
         "longitude": 3.75
     },
     {
-        "name": "Provincie Vlaams-Brabant",
+        "name": "Провинция Фламандский Брабант",
         "latitude": 50.91667,
         "longitude": 4.58333
     },
     {
-        "name": "Provincie West-Vlaanderen",
+        "name": "Провинция Западная Фландрия",
         "latitude": 51.0,
         "longitude": 3.0
     },
     {
-        "name": "Putte",
+        "name": "Помещать",
         "latitude": 51.05337,
         "longitude": 4.63263
     },
     {
-        "name": "Puurs",
+        "name": "Чистый",
         "latitude": 51.07409,
         "longitude": 4.28844
     },
     {
-        "name": "Ranst",
+        "name": "Ранст",
         "latitude": 51.18983,
         "longitude": 4.56533
     },
     {
-        "name": "Ravels",
+        "name": "Равельс",
         "latitude": 51.37274,
         "longitude": 4.9921
     },
     {
-        "name": "Retie",
+        "name": "Рети",
         "latitude": 51.26652,
         "longitude": 5.08242
     },
     {
-        "name": "Riemst",
+        "name": "Белтст",
         "latitude": 50.80995,
         "longitude": 5.60131
     },
     {
-        "name": "Rijkevorsel",
+        "name": "Рейкеворсел",
         "latitude": 51.34795,
         "longitude": 4.76053
     },
     {
-        "name": "Roeselare",
+        "name": "Русселара",
         "latitude": 50.94653,
         "longitude": 3.12269
     },
     {
-        "name": "Ronse",
+        "name": "Ронсе",
         "latitude": 50.74574,
         "longitude": 3.6005
     },
     {
-        "name": "Rotselaar",
+        "name": "Роселаар",
         "latitude": 50.95302,
         "longitude": 4.71665
     },
     {
-        "name": "Ruiselede",
+        "name": "Руиселеде",
         "latitude": 51.04039,
         "longitude": 3.39416
     },
     {
-        "name": "Rumst",
+        "name": "Румст",
         "latitude": 51.08153,
         "longitude": 4.42217
     },
     {
-        "name": "Schelle",
+        "name": "зажим",
         "latitude": 51.12615,
         "longitude": 4.34114
     },
     {
-        "name": "Schilde",
+        "name": "Щиты",
         "latitude": 51.24107,
         "longitude": 4.58336
     },
     {
-        "name": "Schoten",
+        "name": "Выстрелы",
         "latitude": 51.25251,
         "longitude": 4.50268
     },
     {
-        "name": "Sint-Amands",
+        "name": "Синт-Аманды",
         "latitude": 51.05645,
         "longitude": 4.20957
     },
     {
-        "name": "Sint-Genesius-Rode",
+        "name": "Синт-Генезиус-Роде",
         "latitude": 50.74645,
         "longitude": 4.35754
     },
     {
-        "name": "Sint-Gillis-Waas",
+        "name": "Синт-Гиллис-С.",
         "latitude": 51.21914,
         "longitude": 4.12374
     },
     {
-        "name": "Sint-Joris",
+        "name": "Синт-джизис",
         "latitude": 50.87117,
         "longitude": 5.272
     },
     {
-        "name": "Sint-Katelijne-Waver",
+        "name": "Синт-Катрин-Вейвер",
         "latitude": 51.06691,
         "longitude": 4.53469
     },
     {
-        "name": "Sint-Kruis",
+        "name": "Святой Крест",
         "latitude": 51.21399,
         "longitude": 3.24949
     },
     {
-        "name": "Sint-Laureins",
+        "name": "Сен-Лорен",
         "latitude": 51.24202,
         "longitude": 3.52441
     },
     {
-        "name": "Sint-Lievens-Houtem",
+        "name": "Синт-Ливенс-Хоутем",
         "latitude": 50.9197,
         "longitude": 3.86225
     },
     {
-        "name": "Sint-Maria-Lierde",
+        "name": "Синт-Мария-Льерде",
         "latitude": 50.81867,
         "longitude": 3.84436
     },
     {
-        "name": "Sint-Martens-Latem",
+        "name": "STINTH-MARTHENS-LATHEM",
         "latitude": 51.01459,
         "longitude": 3.63779
     },
     {
-        "name": "Sint-Martens-Lennik",
+        "name": "Синт-Мартенс-Ленник",
         "latitude": 50.81158,
         "longitude": 4.16965
     },
     {
-        "name": "Sint-Niklaas",
+        "name": "Шинт-Никлас",
         "latitude": 51.16509,
         "longitude": 4.1437
     },
     {
-        "name": "Sint-Pieters-Leeuw",
+        "name": "Сент-Питерс Лайон",
         "latitude": 50.77926,
         "longitude": 4.24355
     },
     {
-        "name": "Sint-Pieters-Voeren",
+        "name": "STINTH-Pieters-Ev",
         "latitude": 50.73863,
         "longitude": 5.82224
     },
     {
-        "name": "Sint-Truiden",
+        "name": "Синт-Трейден",
         "latitude": 50.81679,
         "longitude": 5.18647
     },
     {
-        "name": "Stabroek",
+        "name": "Стабрук",
         "latitude": 51.33189,
         "longitude": 4.37127
     },
     {
-        "name": "Staden",
+        "name": "Город",
         "latitude": 50.97456,
         "longitude": 3.01469
     },
     {
-        "name": "Steenokkerzeel",
+        "name": "Стеноккерзель",
         "latitude": 50.91851,
         "longitude": 4.50989
     },
     {
-        "name": "Stekene",
+        "name": "Приобретенный",
         "latitude": 51.2099,
         "longitude": 4.03651
     },
     {
-        "name": "Temse",
+        "name": "Темза",
         "latitude": 51.12794,
         "longitude": 4.21372
     },
     {
-        "name": "Terkoest",
+        "name": "В Туркестане",
         "latitude": 50.89832,
         "longitude": 5.27623
     },
     {
-        "name": "Ternat",
+        "name": "Тернате",
         "latitude": 50.86654,
         "longitude": 4.16682
     },
     {
-        "name": "Tervuren",
+        "name": "Тервурен",
         "latitude": 50.82372,
         "longitude": 4.51418
     },
     {
-        "name": "Tessenderlo",
+        "name": "Тессендерло",
         "latitude": 51.06513,
         "longitude": 5.08856
     },
     {
-        "name": "Tielt",
+        "name": "Наклон",
         "latitude": 50.99931,
         "longitude": 3.32707
     },
     {
-        "name": "Tienen",
+        "name": "Иметь",
         "latitude": 50.80745,
         "longitude": 4.9378
     },
     {
-        "name": "Tongeren",
+        "name": "Тонгерен",
         "latitude": 50.78054,
         "longitude": 5.46484
     },
     {
-        "name": "Torhout",
+        "name": "Тораут",
         "latitude": 51.0656,
         "longitude": 3.10085
     },
     {
-        "name": "Tremelo",
+        "name": "Тремелло",
         "latitude": 50.99231,
         "longitude": 4.70807
     },
     {
-        "name": "Turnhout",
+        "name": "Тюрнхаут",
         "latitude": 51.32254,
         "longitude": 4.94471
     },
     {
-        "name": "Veurne",
+        "name": "Верный",
         "latitude": 51.07316,
         "longitude": 2.66803
     },
     {
-        "name": "Vilvoorde",
+        "name": "Вилворд",
         "latitude": 50.92814,
         "longitude": 4.42938
     },
     {
-        "name": "Vorselaar",
+        "name": "Форцеллар",
         "latitude": 51.20243,
         "longitude": 4.77259
     },
     {
-        "name": "Vosselaar",
+        "name": "Восселаар",
         "latitude": 51.30856,
         "longitude": 4.8896
     },
     {
-        "name": "Waarschoot",
+        "name": "Варшот",
         "latitude": 51.1525,
         "longitude": 3.605
     },
     {
-        "name": "Waasmunster",
+        "name": "Ваасмюнстер",
         "latitude": 51.10572,
         "longitude": 4.08573
     },
     {
-        "name": "Wachtebeke",
+        "name": "Вахтебеке",
         "latitude": 51.16852,
         "longitude": 3.87183
     },
     {
-        "name": "Waregem",
+        "name": "Варегем",
         "latitude": 50.88898,
         "longitude": 3.42756
     },
     {
-        "name": "Wellen",
+        "name": "волны",
         "latitude": 50.84096,
         "longitude": 5.33867
     },
     {
-        "name": "Wemmel",
+        "name": "Веммель",
         "latitude": 50.90812,
         "longitude": 4.30613
     },
     {
-        "name": "Wenduine",
+        "name": "Вендуин",
         "latitude": 51.2983,
         "longitude": 3.08213
     },
     {
-        "name": "Wervik",
+        "name": "Вервик",
         "latitude": 50.78069,
         "longitude": 3.03854
     },
     {
-        "name": "Westerlo",
+        "name": "Вестерло",
         "latitude": 51.09049,
         "longitude": 4.91544
     },
     {
-        "name": "Wetteren",
+        "name": "Ветеран",
         "latitude": 51.00526,
         "longitude": 3.88341
     },
     {
-        "name": "Wevelgem",
+        "name": "Вевельгем",
         "latitude": 50.8,
         "longitude": 3.16667
     },
     {
-        "name": "Wezembeek-Oppem",
+        "name": "Везембек-Оппем",
         "latitude": 50.8395,
         "longitude": 4.49427
     },
     {
-        "name": "Wichelen",
+        "name": "Вихелен",
         "latitude": 51.00526,
         "longitude": 3.97683
     },
     {
-        "name": "Wielsbeke",
+        "name": "Вильсбек",
         "latitude": 50.9,
         "longitude": 3.36667
     },
     {
-        "name": "Wijnegem",
+        "name": "Вейнегем",
         "latitude": 51.22787,
         "longitude": 4.51895
     },
     {
-        "name": "Willebroek",
+        "name": "Виллебрук",
         "latitude": 51.06041,
         "longitude": 4.36019
     },
     {
-        "name": "Wingene",
+        "name": "Винген",
         "latitude": 51.05782,
         "longitude": 3.27359
     },
     {
-        "name": "Wommelgem",
+        "name": "Воммельгем",
         "latitude": 51.20452,
         "longitude": 4.5225
     },
     {
-        "name": "Wuustwezel",
+        "name": "Вууствезель",
         "latitude": 51.39214,
         "longitude": 4.59546
     },
     {
-        "name": "Zandhoven",
+        "name": "Зандховен",
         "latitude": 51.21488,
         "longitude": 4.66164
     },
     {
-        "name": "Zaventem",
+        "name": "я взорву",
         "latitude": 50.88365,
         "longitude": 4.47298
     },
     {
-        "name": "Zedelgem",
+        "name": "Зедельгем",
         "latitude": 51.14236,
         "longitude": 3.1368
     },
     {
-        "name": "Zeebrugge",
+        "name": "Зебрюгге",
         "latitude": 51.32901,
         "longitude": 3.18188
     },
     {
-        "name": "Zele",
+        "name": "Они хотят",
         "latitude": 51.06566,
         "longitude": 4.0403
     },
     {
-        "name": "Zelzate",
+        "name": "По иронии судьбы",
         "latitude": 51.18963,
         "longitude": 3.80777
     },
     {
-        "name": "Zemst",
+        "name": "Земст",
         "latitude": 50.98318,
         "longitude": 4.46079
     },
     {
-        "name": "Zingem",
+        "name": "Зингем",
         "latitude": 50.90409,
         "longitude": 3.65305
     },
     {
-        "name": "Zoersel",
+        "name": "Зоерсель",
         "latitude": 51.26825,
         "longitude": 4.71296
     },
     {
-        "name": "Zomergem",
+        "name": "Зоммергем",
         "latitude": 51.11994,
         "longitude": 3.56496
     },
     {
-        "name": "Zonhoven",
+        "name": "Зонховен",
         "latitude": 50.99064,
         "longitude": 5.36819
     },
     {
-        "name": "Zonnebeke",
+        "name": "Зоннебек",
         "latitude": 50.8726,
         "longitude": 2.98725
     },
     {
-        "name": "Zottegem",
+        "name": "Зоттагем",
         "latitude": 50.86955,
         "longitude": 3.81052
     },
     {
-        "name": "Zoutleeuw",
+        "name": "Зутлеув",
         "latitude": 50.83316,
         "longitude": 5.10376
     },
     {
-        "name": "Zuienkerke",
+        "name": "Зуйенкерке",
         "latitude": 51.26511,
         "longitude": 3.15506
     },
     {
-        "name": "Zulte",
+        "name": "Желтый",
         "latitude": 50.91954,
         "longitude": 3.44859
     },
     {
-        "name": "Zutendaal",
+        "name": "Зуттендаль",
         "latitude": 50.93306,
         "longitude": 5.5753
     },
     {
-        "name": "Zwevegem",
+        "name": "Звевегем",
         "latitude": 50.81268,
         "longitude": 3.33848
     },
     {
-        "name": "Zwijndrecht",
+        "name": "Цвайндрехт",
         "latitude": 51.21979,
         "longitude": 4.32664
     },
     {
-        "name": "Aiseau",
+        "name": "Эзо",
         "latitude": 50.41158,
         "longitude": 4.58671
     },
     {
-        "name": "Amay",
+        "name": "Отец",
         "latitude": 50.54829,
         "longitude": 5.30974
     },
     {
-        "name": "Ambl\u00e8ve",
+        "name": "Амблев",
         "latitude": 50.35357,
         "longitude": 6.17002
     },
     {
-        "name": "Andenne",
+        "name": "Андение",
         "latitude": 50.48941,
         "longitude": 5.09513
     },
     {
-        "name": "Anderlues",
+        "name": "Подтексты",
         "latitude": 50.40704,
         "longitude": 4.27136
     },
     {
-        "name": "Anh\u00e9e",
+        "name": "Анхи",
         "latitude": 50.31039,
         "longitude": 4.87827
     },
     {
-        "name": "Ans",
+        "name": "Анс",
         "latitude": 50.6623,
         "longitude": 5.52029
     },
     {
-        "name": "Anthisnes",
+        "name": "Антиснес",
         "latitude": 50.48323,
         "longitude": 5.519
     },
     {
-        "name": "Antoing",
+        "name": "Антуан",
         "latitude": 50.56765,
         "longitude": 3.4492
     },
     {
-        "name": "Arlon",
+        "name": "Арлон",
         "latitude": 49.68333,
         "longitude": 5.81667
     },
     {
-        "name": "Assesse",
+        "name": "Оценить",
         "latitude": 50.36934,
         "longitude": 5.02204
     },
     {
-        "name": "Ath",
+        "name": "Имя",
         "latitude": 50.62937,
         "longitude": 3.77801
     },
     {
-        "name": "Attert",
+        "name": "Атти",
         "latitude": 49.75035,
         "longitude": 5.78634
     },
     {
-        "name": "Aubange",
+        "name": "Обанз",
         "latitude": 49.56652,
         "longitude": 5.80492
     },
     {
-        "name": "Aubel",
+        "name": "Обель",
         "latitude": 50.70189,
         "longitude": 5.85812
     },
     {
-        "name": "Awans",
+        "name": "Повышение",
         "latitude": 50.66774,
         "longitude": 5.46329
     },
     {
-        "name": "Aywaille",
+        "name": "Да",
         "latitude": 50.47411,
         "longitude": 5.67684
     },
     {
-        "name": "Baelen",
+        "name": "Баелен",
         "latitude": 50.63131,
         "longitude": 5.97433
     },
     {
-        "name": "Basse Lasne",
+        "name": "Нижний Ласне",
         "latitude": 50.69503,
         "longitude": 4.49218
     },
     {
-        "name": "Bassenge",
+        "name": "Бассейн",
         "latitude": 50.75883,
         "longitude": 5.60989
     },
     {
-        "name": "Bastogne",
+        "name": "Бастион",
         "latitude": 50.00347,
         "longitude": 5.71844
     },
     {
-        "name": "Beaumont",
+        "name": "Бомонт",
         "latitude": 50.23699,
         "longitude": 4.23926
     },
     {
-        "name": "Beauraing",
+        "name": "Скучный",
         "latitude": 50.11042,
         "longitude": 4.95554
     },
     {
-        "name": "Beauvechain",
+        "name": "быть",
         "latitude": 50.78195,
         "longitude": 4.7718
     },
     {
-        "name": "Beloeil",
+        "name": "Белойль",
         "latitude": 50.55047,
         "longitude": 3.73484
     },
     {
-        "name": "Berloz",
+        "name": "Берлоз",
         "latitude": 50.69829,
         "longitude": 5.21236
     },
     {
-        "name": "Bernissart",
+        "name": "Берниссар",
         "latitude": 50.4746,
         "longitude": 3.64961
     },
     {
-        "name": "Bertogne",
+        "name": "Бертонь",
         "latitude": 50.08364,
         "longitude": 5.66689
     },
     {
-        "name": "Bertrix",
+        "name": "Бертрикс",
         "latitude": 49.85596,
         "longitude": 5.25539
     },
     {
-        "name": "Beyne-Heusay",
+        "name": "Бейн-Хуша",
         "latitude": 50.62251,
         "longitude": 5.66508
     },
     {
-        "name": "Bi\u00e8vre",
+        "name": "Бьевр",
         "latitude": 49.94085,
         "longitude": 5.01591
     },
     {
-        "name": "Binche",
+        "name": "Лавка",
         "latitude": 50.41155,
         "longitude": 4.16469
     },
     {
-        "name": "Bl\u00e9gny",
+        "name": "Блейни",
         "latitude": 50.67255,
         "longitude": 5.72508
     },
     {
-        "name": "Bouillon",
+        "name": "Бульон",
         "latitude": 49.79324,
         "longitude": 5.06703
     },
     {
-        "name": "Boussu",
+        "name": "Буссу",
         "latitude": 50.43417,
         "longitude": 3.7944
     },
     {
-        "name": "Braine-l'Alleud",
+        "name": "Бран-л'Аллой",
         "latitude": 50.68363,
         "longitude": 4.36784
     },
     {
-        "name": "Braine-le-Ch\u00e2teau",
+        "name": "Брэн-ле-Шато",
         "latitude": 50.6799,
         "longitude": 4.27385
     },
     {
-        "name": "Braine-le-Comte",
+        "name": "Брэн-ле-Конт",
         "latitude": 50.60979,
         "longitude": 4.14658
     },
     {
-        "name": "Braives",
+        "name": "Выдерживает",
         "latitude": 50.61745,
         "longitude": 5.13302
     },
     {
-        "name": "Brugelette",
+        "name": "Простота использования",
         "latitude": 50.59577,
         "longitude": 3.85363
     },
     {
-        "name": "Brunehault",
+        "name": "Бруно",
         "latitude": 50.50524,
         "longitude": 4.43209
     },
     {
-        "name": "Bullange",
+        "name": "Буланж",
         "latitude": 50.40731,
         "longitude": 6.25749
     },
     {
-        "name": "Burdinne",
+        "name": "железо",
         "latitude": 50.58454,
         "longitude": 5.07663
     },
     {
-        "name": "Butgenbach",
+        "name": "Бутгенбах",
         "latitude": 50.42689,
         "longitude": 6.20504
     },
     {
-        "name": "Celles",
+        "name": "Они",
         "latitude": 50.71229,
         "longitude": 3.45733
     },
     {
-        "name": "Cerfontaine",
+        "name": "Серфонтейн",
         "latitude": 50.17047,
         "longitude": 4.41028
     },
     {
-        "name": "Chapelle-lez-Herlaimont",
+        "name": "Шапель-ле-Эрлемон",
         "latitude": 50.4713,
         "longitude": 4.28227
     },
     {
-        "name": "Charleroi",
+        "name": "Шарлеруа",
         "latitude": 50.41136,
         "longitude": 4.44448
     },
     {
-        "name": "Chastre-Villeroux-Blanmont",
+        "name": "Шастр-Виллер-Бланмон",
         "latitude": 50.60857,
         "longitude": 4.64198
     },
     {
-        "name": "Ch\u00e2telet",
+        "name": "Трансфер",
         "latitude": 50.40338,
         "longitude": 4.52826
     },
     {
-        "name": "Chaudfontaine",
+        "name": "Шофонтен",
         "latitude": 50.5828,
         "longitude": 5.6341
     },
     {
-        "name": "Chaumont-Gistoux",
+        "name": "Шаман-Джисту",
         "latitude": 50.67753,
         "longitude": 4.7212
     },
     {
-        "name": "Chi\u00e8vres",
+        "name": "Шьевр",
         "latitude": 50.58787,
         "longitude": 3.80711
     },
     {
-        "name": "Chimay",
+        "name": "Ты",
         "latitude": 50.04856,
         "longitude": 4.31712
     },
     {
-        "name": "Chiny",
+        "name": "Китай",
         "latitude": 49.73833,
         "longitude": 5.34104
     },
     {
-        "name": "Ciney",
+        "name": "Синий",
         "latitude": 50.29449,
         "longitude": 5.10015
     },
     {
-        "name": "Clavier",
+        "name": "Клавиатура",
         "latitude": 50.40069,
         "longitude": 5.35154
     },
     {
-        "name": "Colfontaine",
+        "name": "Колфонтейн",
         "latitude": 50.4141,
         "longitude": 3.85569
     },
     {
-        "name": "Comblain-au-Pont",
+        "name": "Комблен-о-Мон",
         "latitude": 50.47488,
         "longitude": 5.57711
     },
     {
-        "name": "Courcelles",
+        "name": "Курсель",
         "latitude": 50.46379,
         "longitude": 4.3747
     },
     {
-        "name": "Court-Saint-\u00c9tienne",
+        "name": "Корт-Сент-Этьен",
         "latitude": 50.63378,
         "longitude": 4.56851
     },
     {
-        "name": "Couvin",
+        "name": "Приготовленный",
         "latitude": 50.05284,
         "longitude": 4.49495
     },
     {
-        "name": "Crisn\u00e9e",
+        "name": "Крисни",
         "latitude": 50.71703,
         "longitude": 5.39802
     },
     {
-        "name": "Dalhem",
+        "name": "Далем",
         "latitude": 50.71315,
         "longitude": 5.72774
     },
     {
-        "name": "Daverdisse",
+        "name": "Даверди сказал",
         "latitude": 50.02161,
         "longitude": 5.11811
     },
     {
-        "name": "Dinant",
+        "name": "Динан",
         "latitude": 50.25807,
         "longitude": 4.91166
     },
     {
-        "name": "Dison",
+        "name": "Это не правильно",
         "latitude": 50.61004,
         "longitude": 5.8534
     },
     {
-        "name": "Doische",
+        "name": "Дойше",
         "latitude": 50.13356,
         "longitude": 4.73545
     },
     {
-        "name": "Donceel",
+        "name": "Донселл",
         "latitude": 50.64827,
         "longitude": 5.32
     },
     {
-        "name": "Dour",
+        "name": "суровый",
         "latitude": 50.39583,
         "longitude": 3.77792
     },
     {
-        "name": "Durbuy",
+        "name": "Дюрбюи",
         "latitude": 50.35291,
         "longitude": 5.45631
     },
     {
-        "name": "\u00c9caussinnes-d\u2019Enghien",
+        "name": "Экоссен-в -енен",
         "latitude": 50.56822,
         "longitude": 4.1658
     },
     {
-        "name": "\u00c9ghez\u00e9e",
+        "name": "Эгесис",
         "latitude": 50.59076,
         "longitude": 4.91175
     },
     {
-        "name": "Ellezelles",
+        "name": "Эллезельлес",
         "latitude": 50.73512,
         "longitude": 3.67985
     },
     {
-        "name": "Enghien",
+        "name": "Стенокардия",
         "latitude": 50.68373,
         "longitude": 4.03284
     },
     {
-        "name": "Engis",
+        "name": "Ничего",
         "latitude": 50.58156,
         "longitude": 5.39916
     },
     {
-        "name": "\u00c9rez\u00e9e",
+        "name": "Эрез",
         "latitude": 50.29292,
         "longitude": 5.55815
     },
     {
-        "name": "Erquelinnes",
+        "name": "ласкаемый",
         "latitude": 50.30688,
         "longitude": 4.11129
     },
     {
-        "name": "Esneux",
+        "name": "Эсне",
         "latitude": 50.53596,
         "longitude": 5.56775
     },
     {
-        "name": "Estaimpuis",
+        "name": "Эстаимпуис",
         "latitude": 50.70485,
         "longitude": 3.26785
     },
     {
-        "name": "Estinnes-au-Val",
+        "name": "Estin-o-val",
         "latitude": 50.41016,
         "longitude": 4.10477
     },
     {
-        "name": "\u00c9talle",
+        "name": "Ларек",
         "latitude": 49.67385,
         "longitude": 5.60019
     },
     {
-        "name": "Eupen",
+        "name": "Эйпен",
         "latitude": 50.6279,
         "longitude": 6.03647
     },
     {
-        "name": "Faimes",
+        "name": "Слава",
         "latitude": 50.66252,
         "longitude": 5.26005
     },
     {
-        "name": "Farciennes",
+        "name": "Фарсиен",
         "latitude": 50.43006,
         "longitude": 4.54152
     },
     {
-        "name": "Fauvillers",
+        "name": "Фовильеры",
         "latitude": 49.85116,
         "longitude": 5.66405
     },
     {
-        "name": "Ferri\u00e8res",
+        "name": "Ферьер",
         "latitude": 50.40157,
         "longitude": 5.61092
     },
     {
-        "name": "Fexhe-le-Haut-Clocher",
+        "name": "Fexšsha-le-o-kloШ",
         "latitude": 50.6654,
         "longitude": 5.39978
     },
     {
-        "name": "Fl\u00e9malle-Haute",
+        "name": "Флемаль-Верхний",
         "latitude": 50.59994,
         "longitude": 5.44471
     },
     {
-        "name": "Fl\u00e9ron",
+        "name": "Флерон",
         "latitude": 50.61516,
         "longitude": 5.68062
     },
     {
-        "name": "Fleurus",
+        "name": "Флерюс",
         "latitude": 50.48351,
         "longitude": 4.55006
     },
     {
-        "name": "Flobecq",
+        "name": "Флобак",
         "latitude": 50.73733,
         "longitude": 3.73876
     },
     {
-        "name": "Floreffe",
+        "name": "Флорефф",
         "latitude": 50.43452,
         "longitude": 4.7596
     },
     {
-        "name": "Florennes",
+        "name": "Флоренция",
         "latitude": 50.25127,
         "longitude": 4.60636
     },
     {
-        "name": "Florenville",
+        "name": "Флоренвилль",
         "latitude": 49.69983,
         "longitude": 5.3074
     },
     {
-        "name": "Forville",
+        "name": "Форвилл",
         "latitude": 50.57424,
         "longitude": 4.99861
     },
     {
-        "name": "Fosses-la-Ville",
+        "name": "Фосс-ла-Виль",
         "latitude": 50.39517,
         "longitude": 4.69623
     },
     {
-        "name": "Frameries",
+        "name": "Рамки",
         "latitude": 50.40578,
         "longitude": 3.89603
     },
     {
-        "name": "Frasnes-lez-Buissenal",
+        "name": "Фран-ле-Бюзеналь",
         "latitude": 50.66783,
         "longitude": 3.62047
     },
     {
-        "name": "Froidchapelle",
+        "name": "Фруошопель",
         "latitude": 50.15106,
         "longitude": 4.32742
     },
     {
-        "name": "Gedinne",
+        "name": "Сделанный",
         "latitude": 49.98037,
         "longitude": 4.93674
     },
     {
-        "name": "Geer",
+        "name": "Получать",
         "latitude": 50.6699,
         "longitude": 5.17364
     },
     {
-        "name": "Gembloux",
+        "name": "Зембла",
         "latitude": 50.56149,
         "longitude": 4.69889
     },
     {
-        "name": "Genappe",
+        "name": "Генап",
         "latitude": 50.61173,
         "longitude": 4.45152
     },
     {
-        "name": "Gerpinnes",
+        "name": "Герпинн",
         "latitude": 50.33789,
         "longitude": 4.52731
     },
     {
-        "name": "Gesves",
+        "name": "Гевес",
         "latitude": 50.40146,
         "longitude": 5.07457
     },
     {
-        "name": "Gouvy",
+        "name": "Гуфи",
         "latitude": 50.186,
         "longitude": 5.93917
     },
     {
-        "name": "Grez-Doiceau",
+        "name": "Грез-Дуасо",
         "latitude": 50.73901,
         "longitude": 4.69829
     },
     {
-        "name": "Habay-la-Vieille",
+        "name": "Хабе-ла-Вьей",
         "latitude": 49.72329,
         "longitude": 5.61999
     },
     {
-        "name": "Hamoir",
+        "name": "Хамор",
         "latitude": 50.42675,
         "longitude": 5.53304
     },
     {
-        "name": "Hamois",
+        "name": "Амуа",
         "latitude": 50.3402,
         "longitude": 5.15619
     },
     {
-        "name": "Hannut",
+        "name": "Ханнут",
         "latitude": 50.67142,
         "longitude": 5.07898
     },
     {
-        "name": "Hasti\u00e8re-Lavaux",
+        "name": "Хастьер-Лаво",
         "latitude": 50.21849,
         "longitude": 4.82446
     },
     {
-        "name": "Havelange",
+        "name": "лавина",
         "latitude": 50.38931,
         "longitude": 5.23816
     },
     {
-        "name": "Hensies",
+        "name": "Хеннесси",
         "latitude": 50.43263,
         "longitude": 3.68411
     },
     {
-        "name": "Herbeumont",
+        "name": "Эрбомонт",
         "latitude": 49.78086,
         "longitude": 5.2358
     },
     {
-        "name": "H\u00e9ron",
+        "name": "Цапля",
         "latitude": 50.54731,
         "longitude": 5.09774
     },
     {
-        "name": "Herstal",
+        "name": "Херсталь",
         "latitude": 50.66415,
         "longitude": 5.62346
     },
     {
-        "name": "Herve",
+        "name": "Эрве",
         "latitude": 50.64083,
         "longitude": 5.79353
     },
     {
-        "name": "Hotton",
+        "name": "Хоттон",
         "latitude": 50.26742,
         "longitude": 5.44609
     },
     {
-        "name": "Houffalize",
+        "name": "Уфализ",
         "latitude": 50.13235,
         "longitude": 5.78962
     },
     {
-        "name": "Houyet",
+        "name": "Однако",
         "latitude": 50.18619,
         "longitude": 5.00762
     },
     {
-        "name": "Huy",
+        "name": "Ну давай же",
         "latitude": 50.51894,
         "longitude": 5.23284
     },
     {
-        "name": "Incourt",
+        "name": "В суде",
         "latitude": 50.69151,
         "longitude": 4.79816
     },
     {
-        "name": "Ittre",
+        "name": "Письмо",
         "latitude": 50.64396,
         "longitude": 4.26476
     },
     {
-        "name": "Jalhay",
+        "name": "Джалхай",
         "latitude": 50.55876,
         "longitude": 5.96764
     },
     {
-        "name": "Jodoigne",
+        "name": "Джодуан",
         "latitude": 50.72357,
         "longitude": 4.86914
     },
     {
-        "name": "Juprelle",
+        "name": "Жюпрель",
         "latitude": 50.7076,
         "longitude": 5.53127
     },
     {
-        "name": "Jurbise",
+        "name": "Наша страна",
         "latitude": 50.531,
         "longitude": 3.90942
     },
     {
-        "name": "La Bruy\u00e8re",
+        "name": "Вереск",
         "latitude": 50.39478,
         "longitude": 4.61444
     },
     {
-        "name": "La Calamine",
+        "name": "Каламин",
         "latitude": 50.71809,
         "longitude": 6.01107
     },
     {
-        "name": "La Hulpe",
+        "name": "Ла Жюльп",
         "latitude": 50.73091,
         "longitude": 4.48577
     },
     {
-        "name": "La Louvi\u00e8re",
+        "name": "Лувье",
         "latitude": 50.48657,
         "longitude": 4.18785
     },
     {
-        "name": "La Roche-en-Ardenne",
+        "name": "Ла-Рош-ан-Арденн",
         "latitude": 50.18361,
         "longitude": 5.57547
     },
     {
-        "name": "L\u00e9glise",
+        "name": "Храм",
         "latitude": 49.79985,
         "longitude": 5.53652
     },
     {
-        "name": "Lens",
+        "name": "Объектив",
         "latitude": 50.55696,
         "longitude": 3.89946
     },
     {
-        "name": "Lessines",
+        "name": "Лессен",
         "latitude": 50.71104,
         "longitude": 3.83579
     },
     {
-        "name": "Libin",
+        "name": "Либин",
         "latitude": 49.98107,
         "longitude": 5.25612
     },
     {
-        "name": "Li\u00e8ge",
+        "name": "Вассал",
         "latitude": 50.63373,
         "longitude": 5.56749
     },
     {
-        "name": "Lierneux",
+        "name": "Льерн",
         "latitude": 50.28477,
         "longitude": 5.79236
     },
     {
-        "name": "Limbourg",
+        "name": "Лимбург",
         "latitude": 50.61222,
         "longitude": 5.9412
     },
     {
-        "name": "Lincent",
+        "name": "Линсент",
         "latitude": 50.71222,
         "longitude": 5.03654
     },
     {
-        "name": "Lobbes",
+        "name": "Лобби",
         "latitude": 50.35258,
         "longitude": 4.26716
     },
     {
-        "name": "Lontzen",
+        "name": "Лонц",
         "latitude": 50.68126,
         "longitude": 6.00712
     },
     {
-        "name": "Louvain-la-Neuve",
+        "name": "Лувен-ла-Нев",
         "latitude": 50.66829,
         "longitude": 4.61443
     },
     {
-        "name": "Malm\u00e9dy",
+        "name": "Мальмеди",
         "latitude": 50.42686,
         "longitude": 6.02794
     },
     {
-        "name": "Manage",
+        "name": "Управлять",
         "latitude": 50.50312,
         "longitude": 4.23589
     },
     {
-        "name": "Manhay",
+        "name": "Манчей",
         "latitude": 50.29219,
         "longitude": 5.67562
     },
     {
-        "name": "Marche-en-Famenne",
+        "name": "Марш-ан-Фамен",
         "latitude": 50.22678,
         "longitude": 5.34416
     },
     {
-        "name": "Marchin",
+        "name": "Марцин",
         "latitude": 50.46707,
         "longitude": 5.2428
     },
     {
-        "name": "Martelange",
+        "name": "Мартеланж",
         "latitude": 49.83195,
         "longitude": 5.73655
     },
     {
-        "name": "Meix-devant-Virton",
+        "name": "МЕШ-ДВАН-ВИНГ",
         "latitude": 49.60581,
         "longitude": 5.48045
     },
     {
-        "name": "Merbes-le-Ch\u00e2teau",
+        "name": "Мерб-ле-Шато",
         "latitude": 50.32449,
         "longitude": 4.16489
     },
     {
-        "name": "Messancy",
+        "name": "Мессанси",
         "latitude": 49.59201,
         "longitude": 5.81879
     },
     {
-        "name": "Mettet",
+        "name": "Насыщенный",
         "latitude": 50.32119,
         "longitude": 4.66232
     },
     {
-        "name": "Modave",
+        "name": "Модаве",
         "latitude": 50.44614,
         "longitude": 5.29532
     },
     {
-        "name": "Momignies",
+        "name": "Моминьи",
         "latitude": 50.0271,
         "longitude": 4.16519
     },
     {
-        "name": "Mons",
+        "name": "монсеньор",
         "latitude": 50.45413,
         "longitude": 3.95229
     },
     {
-        "name": "Mons-lez-Li\u00e8ge",
+        "name": "Монс-лез-Льеж",
         "latitude": 50.61667,
         "longitude": 5.46667
     },
     {
-        "name": "Mont-Saint-Guibert",
+        "name": "Мон-Сен-Гиберт",
         "latitude": 50.63427,
         "longitude": 4.61061
     },
     {
-        "name": "Morlanwelz-Mariemont",
+        "name": "Морланвельц-Маримонт",
         "latitude": 50.45502,
         "longitude": 4.24519
     },
     {
-        "name": "Mouscron",
+        "name": "Мускрон",
         "latitude": 50.74497,
         "longitude": 3.20639
     },
     {
-        "name": "Musson",
+        "name": "Муссон",
         "latitude": 49.55835,
         "longitude": 5.70525
     },
     {
-        "name": "Namur",
+        "name": "Намюр",
         "latitude": 50.4669,
         "longitude": 4.86746
     },
     {
-        "name": "Nandrin",
+        "name": "Нандрин",
         "latitude": 50.50675,
         "longitude": 5.41905
     },
     {
-        "name": "Nassogne",
+        "name": "Нассон",
         "latitude": 50.12849,
         "longitude": 5.34274
     },
     {
-        "name": "Neufch\u00e2teau",
+        "name": "Нефшато",
         "latitude": 49.84074,
         "longitude": 5.43535
     },
     {
-        "name": "Nivelles",
+        "name": "Нивель",
         "latitude": 50.59833,
         "longitude": 4.32848
     },
     {
-        "name": "Noville-les-Bois",
+        "name": "Noville-le-bua",
         "latitude": 50.55702,
         "longitude": 4.98466
     },
     {
-        "name": "Ohey",
+        "name": "Охей",
         "latitude": 50.4357,
         "longitude": 5.12375
     },
     {
-        "name": "Olne",
+        "name": "Вольное",
         "latitude": 50.58994,
         "longitude": 5.74662
     },
     {
-        "name": "Onhaye",
+        "name": "Вот и все",
         "latitude": 50.24148,
         "longitude": 4.84069
     },
     {
-        "name": "Oreye",
+        "name": "Орее",
         "latitude": 50.71749,
         "longitude": 5.3488
     },
     {
-        "name": "Ottignies",
+        "name": "Дрова",
         "latitude": 50.66535,
         "longitude": 4.56679
     },
     {
-        "name": "Ouffet",
+        "name": "открыть",
         "latitude": 50.4387,
         "longitude": 5.4657
     },
     {
-        "name": "Oupeye",
+        "name": "Счет",
         "latitude": 50.71184,
         "longitude": 5.6468
     },
     {
-        "name": "Paliseul",
+        "name": "Палисёль",
         "latitude": 49.90395,
         "longitude": 5.13537
     },
     {
-        "name": "Pecq",
+        "name": "Пек",
         "latitude": 50.68619,
         "longitude": 3.33789
     },
     {
-        "name": "Pepinster",
+        "name": "Пепинстер",
         "latitude": 50.57375,
         "longitude": 5.8049
     },
     {
-        "name": "P\u00e9ruwelz",
+        "name": "Перувельц",
         "latitude": 50.50819,
         "longitude": 3.59373
     },
     {
-        "name": "Perwez",
+        "name": "Первез",
         "latitude": 50.62426,
         "longitude": 4.81354
     },
     {
-        "name": "Philippeville",
+        "name": "Филиппвиль",
         "latitude": 50.19612,
         "longitude": 4.54374
     },
     {
-        "name": "Plombi\u00e8res",
+        "name": "Сантехники",
         "latitude": 50.73656,
         "longitude": 5.95922
     },
     {
-        "name": "Pont-\u00e0-Celles",
+        "name": "Пон-а-Сель",
         "latitude": 50.50518,
         "longitude": 4.36887
     },
     {
-        "name": "Profondeville",
+        "name": "Профондевиль",
         "latitude": 50.37581,
         "longitude": 4.86506
     },
     {
-        "name": "Province de Li\u00e8ge",
+        "name": "Провинция Льеж",
         "latitude": 50.63427,
         "longitude": 5.56543
     },
     {
-        "name": "Province de Namur",
+        "name": "Провинция Намюр",
         "latitude": 50.33333,
         "longitude": 4.83333
     },
     {
-        "name": "Province du Brabant Wallon",
+        "name": "Провинция Валлонский Брабант",
         "latitude": 50.75,
         "longitude": 4.58333
     },
     {
-        "name": "Province du Hainaut",
+        "name": "Провинция Эно",
         "latitude": 50.5,
         "longitude": 3.83333
     },
     {
-        "name": "Province du Luxembourg",
+        "name": "Провинция Люксембург",
         "latitude": 50.0,
         "longitude": 5.5
     },
     {
-        "name": "Quaregnon",
+        "name": "Квареннон",
         "latitude": 50.44067,
         "longitude": 3.8653
     },
     {
-        "name": "Qu\u00e9vy-le-Petit",
+        "name": "Kevi-le-ptya",
         "latitude": 50.36879,
         "longitude": 3.93602
     },
     {
-        "name": "Qui\u00e9vrain",
+        "name": "Кеврен",
         "latitude": 50.40737,
         "longitude": 3.68351
     },
     {
-        "name": "Raeren",
+        "name": "Рэй",
         "latitude": 50.6672,
         "longitude": 6.11535
     },
     {
-        "name": "Ramillies",
+        "name": "Рамиллиес",
         "latitude": 50.63395,
         "longitude": 4.90119
     },
     {
-        "name": "Rebecq-Rognon",
+        "name": "Ребек-Роньон",
         "latitude": 50.65147,
         "longitude": 4.10683
     },
     {
-        "name": "Remicourt",
+        "name": "Ремикорт",
         "latitude": 50.68069,
         "longitude": 5.32785
     },
     {
-        "name": "Rendeux",
+        "name": "рандо",
         "latitude": 50.23423,
         "longitude": 5.50414
     },
     {
-        "name": "Rixensart",
+        "name": "Риксенсарт",
         "latitude": 50.71229,
         "longitude": 4.52529
     },
     {
-        "name": "Rochefort",
+        "name": "Рошфор",
         "latitude": 50.1631,
         "longitude": 5.2216
     },
     {
-        "name": "Roeulx",
+        "name": "Ралкс",
         "latitude": 50.50365,
         "longitude": 4.11163
     },
     {
-        "name": "Rouvroy",
+        "name": "Руврой",
         "latitude": 49.53771,
         "longitude": 5.49031
     },
     {
-        "name": "Rumes",
+        "name": "Ромы",
         "latitude": 50.5545,
         "longitude": 3.30535
     },
     {
-        "name": "Saint-Ghislain",
+        "name": "Ты, Гислон",
         "latitude": 50.44816,
         "longitude": 3.81886
     },
     {
-        "name": "Saint-Hubert",
+        "name": "Сен-Юбер",
         "latitude": 50.02668,
         "longitude": 5.37401
     },
     {
-        "name": "Saint-L\u00e9ger",
+        "name": "Святой",
         "latitude": 49.61196,
         "longitude": 5.65688
     },
     {
-        "name": "Saint-Nicolas",
+        "name": "Святой Николай",
         "latitude": 50.62837,
         "longitude": 5.53243
     },
     {
-        "name": "Saint-Vith",
+        "name": "Сен-Вит",
         "latitude": 50.28146,
         "longitude": 6.12724
     },
     {
-        "name": "Sainte-Ode",
+        "name": "Сен-Фор",
         "latitude": 50.01723,
         "longitude": 5.51926
     },
     {
-        "name": "Seneffe",
+        "name": "Горчица",
         "latitude": 50.53135,
         "longitude": 4.26301
     },
     {
-        "name": "Seraing",
+        "name": "Сераинг",
         "latitude": 50.58362,
         "longitude": 5.50115
     },
     {
-        "name": "Silly",
+        "name": "Глупый",
         "latitude": 50.64877,
         "longitude": 3.92363
     },
     {
-        "name": "Soignies",
+        "name": "Суаньи",
         "latitude": 50.57904,
         "longitude": 4.07129
     },
     {
-        "name": "Sombreffe",
+        "name": "Сомбреффе",
         "latitude": 50.52865,
         "longitude": 4.60087
     },
     {
-        "name": "Somme-Leuze",
+        "name": "Сомата Лоуэз",
         "latitude": 50.33699,
         "longitude": 5.36705
     },
     {
-        "name": "Soumagne",
+        "name": "Сумань",
         "latitude": 50.61385,
         "longitude": 5.74679
     },
     {
-        "name": "Spa",
+        "name": "спа",
         "latitude": 50.48375,
         "longitude": 5.86674
     },
     {
-        "name": "Sprimont",
+        "name": "Спримонт",
         "latitude": 50.50922,
         "longitude": 5.6595
     },
     {
-        "name": "Stavelot",
+        "name": "Ставло",
         "latitude": 50.395,
         "longitude": 5.93124
     },
     {
-        "name": "Stoumont",
+        "name": "Стумон",
         "latitude": 50.40667,
         "longitude": 5.80838
     },
     {
-        "name": "Tellin",
+        "name": "Теллин",
         "latitude": 50.08038,
         "longitude": 5.21638
     },
     {
-        "name": "Tenneville",
+        "name": "Тенневиль",
         "latitude": 50.09501,
         "longitude": 5.52895
     },
     {
-        "name": "Theux",
+        "name": "Они",
         "latitude": 50.53323,
         "longitude": 5.81245
     },
     {
-        "name": "Thuin",
+        "name": "Близнец",
         "latitude": 50.33933,
         "longitude": 4.28604
     },
     {
-        "name": "Tinlot",
+        "name": "Тонлот",
         "latitude": 50.47493,
         "longitude": 5.37755
     },
     {
-        "name": "Tintigny",
+        "name": "Тинтиньи",
         "latitude": 49.68326,
         "longitude": 5.51349
     },
     {
-        "name": "Tournai",
+        "name": "Тур",
         "latitude": 50.60715,
         "longitude": 3.38932
     },
     {
-        "name": "Trois-Ponts",
+        "name": "Труа-Пон",
         "latitude": 50.37128,
         "longitude": 5.87146
     },
     {
-        "name": "Trooz",
+        "name": "Трооз",
         "latitude": 50.57026,
         "longitude": 5.69521
     },
     {
-        "name": "Tubize",
+        "name": "Тюбез",
         "latitude": 50.69059,
         "longitude": 4.2009
     },
     {
-        "name": "Vaux-sur-S\u00fbre",
+        "name": "Во-сюр-Сюр",
         "latitude": 49.911,
         "longitude": 5.57848
     },
     {
-        "name": "Verlaine",
+        "name": "Верлен",
         "latitude": 50.60743,
         "longitude": 5.3174
     },
     {
-        "name": "Verviers",
+        "name": "Вервье",
         "latitude": 50.58907,
         "longitude": 5.86241
     },
     {
-        "name": "Vielsalm",
+        "name": "Вьельсальм",
         "latitude": 50.28407,
         "longitude": 5.91502
     },
     {
-        "name": "Villers-la-Ville",
+        "name": "Виллер-ла-Виль",
         "latitude": 50.56667,
         "longitude": 4.51667
     },
     {
-        "name": "Villers-le-Bouillet",
+        "name": "Виллер-ле-Буйе",
         "latitude": 50.57708,
         "longitude": 5.25945
     },
     {
-        "name": "Virton",
+        "name": "Достоинство",
         "latitude": 49.56824,
         "longitude": 5.53259
     },
     {
-        "name": "Vis\u00e9",
+        "name": "Направленный",
         "latitude": 50.7376,
         "longitude": 5.69907
     },
     {
-        "name": "Waimes",
+        "name": "Веймс",
         "latitude": 50.41488,
         "longitude": 6.11207
     },
     {
-        "name": "Walcourt",
+        "name": "Уолкорт",
         "latitude": 50.25401,
         "longitude": 4.43796
     },
     {
-        "name": "Walhain-Saint-Paul",
+        "name": "Вале-Сен-Поль",
         "latitude": 50.62627,
         "longitude": 4.69837
     },
     {
-        "name": "Wanze",
+        "name": "Вы отказываетесь",
         "latitude": 50.53907,
         "longitude": 5.20846
     },
     {
-        "name": "Waremme",
+        "name": "Варемме",
         "latitude": 50.6976,
         "longitude": 5.25524
     },
     {
-        "name": "Wasseiges",
+        "name": "Водянистый",
         "latitude": 50.62186,
         "longitude": 5.00528
     },
     {
-        "name": "Waterloo",
+        "name": "Ватерлоо",
         "latitude": 50.71469,
         "longitude": 4.3991
     },
     {
-        "name": "Wavre",
+        "name": "Вавр",
         "latitude": 50.71717,
         "longitude": 4.60138
     },
     {
-        "name": "Welkenraedt",
+        "name": "Велькенрадт",
         "latitude": 50.6605,
         "longitude": 5.97034
     },
     {
-        "name": "Wellin",
+        "name": "Веллин",
         "latitude": 50.08133,
         "longitude": 5.11413
     },
     {
-        "name": "Yvoir",
+        "name": "Видеть это",
         "latitude": 50.3279,
         "longitude": 4.88059
     }

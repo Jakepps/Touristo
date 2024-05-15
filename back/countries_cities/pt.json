@@ -1,6566 +1,6566 @@
 [
     {
-        "name": "\u00c1gua de Pau",
+        "name": "Пау Уотер",
         "latitude": 37.72142,
         "longitude": -25.5117
     },
     {
-        "name": "Angra do Hero\u00edsmo",
+        "name": "Ангра-дю-Эроиджму",
         "latitude": 38.65483,
         "longitude": -27.21734
     },
     {
-        "name": "Ang\u00fastias",
+        "name": "Тоска",
         "latitude": 38.52547,
         "longitude": -28.63132
     },
     {
-        "name": "Arrifes",
+        "name": "Аррифес",
         "latitude": 37.76667,
         "longitude": -25.7
     },
     {
-        "name": "Biscoitos",
+        "name": "Печенье",
         "latitude": 38.78333,
         "longitude": -27.25
     },
     {
-        "name": "Cabouco",
+        "name": "Кабуко",
         "latitude": 37.76667,
         "longitude": -25.56667
     },
     {
-        "name": "Cais do Pico",
+        "name": "Пирс Пико",
         "latitude": 38.52531,
         "longitude": -28.32074
     },
     {
-        "name": "Calheta",
+        "name": "Кальета",
         "latitude": 38.60186,
         "longitude": -28.01792
     },
     {
-        "name": "Calheta de S\u00e3o Jorge",
+        "name": "Калле де Сан Хорхе",
         "latitude": 38.59767,
         "longitude": -27.91459
     },
     {
-        "name": "Castelo Branco",
+        "name": "белый замок",
         "latitude": 38.52198,
         "longitude": -28.71365
     },
     {
-        "name": "Corvo",
+        "name": "Корво",
         "latitude": 39.69771,
         "longitude": -31.1055
     },
     {
-        "name": "Faj\u00e3 de Baixo",
+        "name": "Фахан де Байчу",
         "latitude": 37.75,
         "longitude": -25.65
     },
     {
-        "name": "Fenais da Ajuda",
+        "name": "Фене да Ажуда",
         "latitude": 37.85128,
         "longitude": -25.32406
     },
     {
-        "name": "Fenais da Luz",
+        "name": "Фенн-да-Луш",
         "latitude": 37.8249,
         "longitude": -25.64229
     },
     {
-        "name": "Feteira",
+        "name": "Фетейра",
         "latitude": 38.65429,
         "longitude": -27.14995
     },
     {
-        "name": "Fonte Bastardo",
+        "name": "Шрифт Бастардо",
         "latitude": 38.69201,
         "longitude": -27.07942
     },
     {
-        "name": "Furnas",
+        "name": "Фурнаш",
         "latitude": 37.77567,
         "longitude": -25.31035
     },
     {
-        "name": "Horta",
+        "name": "Орта",
         "latitude": 38.53737,
         "longitude": -28.62615
     },
     {
-        "name": "Lagoa",
+        "name": "лагуна",
         "latitude": 37.74486,
         "longitude": -25.57184
     },
     {
-        "name": "Lajes",
+        "name": "Плиты",
         "latitude": 38.76352,
         "longitude": -27.10336
     },
     {
-        "name": "Lajes das Flores",
+        "name": "Ты лжешь-дас-Флорес",
         "latitude": 39.41619,
         "longitude": -31.21725
     },
     {
-        "name": "Lajes do Pico",
+        "name": "Ты лжешь-дю-Пик",
         "latitude": 38.42797,
         "longitude": -28.17402
     },
     {
-        "name": "Madalena",
+        "name": "Мадалена",
         "latitude": 38.53642,
         "longitude": -28.5266
     },
     {
-        "name": "Maia",
+        "name": "Майя",
         "latitude": 37.83247,
         "longitude": -25.38976
     },
     {
-        "name": "Mosteiros",
+        "name": "Монастыри",
         "latitude": 37.89017,
         "longitude": -25.81999
     },
     {
-        "name": "Nordeste",
+        "name": "к северо-востоку",
         "latitude": 37.82721,
         "longitude": -25.22863
     },
     {
-        "name": "Ponta Delgada",
+        "name": "Тонкий кончик",
         "latitude": 37.7423,
         "longitude": -25.67093
     },
     {
-        "name": "Ponta Gar\u00e7a",
+        "name": "Понта Гарса",
         "latitude": 37.71667,
         "longitude": -25.36667
     },
     {
-        "name": "Porto Judeu",
+        "name": "Порто-Жуд",
         "latitude": 38.64814,
         "longitude": -27.11944
     },
     {
-        "name": "Porto Martins",
+        "name": "Порто Мартинс",
         "latitude": 38.68146,
         "longitude": -27.05835
     },
     {
-        "name": "Povoa\u00e7\u00e3o",
+        "name": "Деревня",
         "latitude": 37.76471,
         "longitude": -25.24487
     },
     {
-        "name": "Praia da Vit\u00f3ria",
+        "name": "Пляж Витория",
         "latitude": 38.73333,
         "longitude": -27.06667
     },
     {
-        "name": "Rabo de Peixe",
+        "name": "Рыбий хвост",
         "latitude": 37.81022,
         "longitude": -25.58263
     },
     {
-        "name": "Relva",
+        "name": "Оружие",
         "latitude": 37.75271,
         "longitude": -25.71848
     },
     {
-        "name": "Ribeira Grande",
+        "name": "Рибейра Гранде",
         "latitude": 38.51667,
         "longitude": -28.7
     },
     {
-        "name": "Ribeira Seca",
+        "name": "Рибейра Сека",
         "latitude": 37.81667,
         "longitude": -25.53333
     },
     {
-        "name": "Ribeirinha",
+        "name": "берег реки",
         "latitude": 38.66203,
         "longitude": -27.18093
     },
     {
-        "name": "Rosto de C\u00e3o",
+        "name": "Морда",
         "latitude": 37.75,
         "longitude": -25.65
     },
     {
-        "name": "Santa B\u00e1rbara",
+        "name": "Святая Варвара",
         "latitude": 38.69608,
         "longitude": -27.33907
     },
     {
-        "name": "Santa Cruz da Graciosa",
+        "name": "Санта-Крус-да-Грасиоза",
         "latitude": 39.04946,
         "longitude": -28.00432
     },
     {
-        "name": "Santa Cruz das Flores",
+        "name": "Санта-Крус-дас-Флорес",
         "latitude": 39.46984,
         "longitude": -31.18514
     },
     {
-        "name": "S\u00e3o Bartolomeu",
+        "name": "Святой Варфоломей",
         "latitude": 38.67491,
         "longitude": -27.29349
     },
     {
-        "name": "S\u00e3o Mateus",
+        "name": "Святой Матфей",
         "latitude": 38.6563,
         "longitude": -27.26935
     },
     {
-        "name": "S\u00e3o Roque",
+        "name": "Сан-Рок",
         "latitude": 37.75418,
         "longitude": -25.64127
     },
     {
-        "name": "S\u00e3o Roque do Pico",
+        "name": "Сан-Роке-ду-Пику",
         "latitude": 38.51631,
         "longitude": -28.30752
     },
     {
-        "name": "S\u00e3o Sebasti\u00e3o",
+        "name": "Сан-Себастьян",
         "latitude": 38.66584,
         "longitude": -27.08976
     },
     {
-        "name": "S\u00e3o Vicente",
+        "name": "Сент-Винсент",
         "latitude": 37.81829,
         "longitude": -25.66583
     },
     {
-        "name": "Senhora do Ros\u00e1rio",
+        "name": "Леди Розария",
         "latitude": 37.83333,
         "longitude": -25.15
     },
     {
-        "name": "Velas",
+        "name": "Свечи",
         "latitude": 38.67995,
         "longitude": -28.15155
     },
     {
-        "name": "Vila do Porto",
+        "name": "Порту Виллидж",
         "latitude": 36.97454,
         "longitude": -25.09967
     },
     {
-        "name": "Vila Franca do Campo",
+        "name": "Вилла-Франка-дю-Кампо",
         "latitude": 37.71667,
         "longitude": -25.43333
     },
     {
-        "name": "Aguada de Cima",
+        "name": "Сима Агуада",
         "latitude": 40.52291,
         "longitude": -8.427
     },
     {
-        "name": "\u00c1gueda",
+        "name": "Агеда",
         "latitude": 40.5772,
         "longitude": -8.44442
     },
     {
-        "name": "Albergaria-a-Velha",
+        "name": "Альбергария-а-Велья",
         "latitude": 40.68706,
         "longitude": -8.50399
     },
     {
-        "name": "Anadia",
+        "name": "Анадия",
         "latitude": 40.43841,
         "longitude": -8.43352
     },
     {
-        "name": "Aradas",
+        "name": "плуги",
         "latitude": 40.62084,
         "longitude": -8.64195
     },
     {
-        "name": "Arcos",
+        "name": "Луки",
         "latitude": 40.44779,
         "longitude": -8.44171
     },
     {
-        "name": "Argoncilhe",
+        "name": "Аргонсилье",
         "latitude": 41.02541,
         "longitude": -8.53885
     },
     {
-        "name": "Arouca",
+        "name": "Арока",
         "latitude": 40.92658,
         "longitude": -8.27251
     },
     {
-        "name": "Arrifana",
+        "name": "Аррифана",
         "latitude": 40.91565,
         "longitude": -8.49657
     },
     {
-        "name": "Avanca",
+        "name": "передовой",
         "latitude": 40.80771,
         "longitude": -8.5722
     },
     {
-        "name": "Aveiro",
+        "name": "Авейру",
         "latitude": 40.64427,
         "longitude": -8.64554
     },
     {
-        "name": "Beduido",
+        "name": "Значение",
         "latitude": 40.76427,
         "longitude": -8.5611
     },
     {
-        "name": "Branca",
+        "name": "Бранка",
         "latitude": 40.76653,
         "longitude": -8.48262
     },
     {
-        "name": "Castelo de Paiva",
+        "name": "Замок Пайва",
         "latitude": 41.03353,
         "longitude": -8.29822
     },
     {
-        "name": "Cortega\u00e7a",
+        "name": "Кортегаса",
         "latitude": 40.94883,
         "longitude": -8.6213
     },
     {
-        "name": "Cucuj\u00e3es",
+        "name": "Кукухайнш",
         "latitude": 40.87413,
         "longitude": -8.50687
     },
     {
-        "name": "Eixo",
+        "name": "Ось",
         "latitude": 40.62758,
         "longitude": -8.56922
     },
     {
-        "name": "Esgueira",
+        "name": "Красться",
         "latitude": 40.64899,
         "longitude": -8.62943
     },
     {
-        "name": "Esmoriz",
+        "name": "Эсмориз",
         "latitude": 40.95773,
         "longitude": -8.62753
     },
     {
-        "name": "Espargo",
+        "name": "Эспарго",
         "latitude": 40.92462,
         "longitude": -8.57495
     },
     {
-        "name": "Espinho",
+        "name": "Торн",
         "latitude": 41.00763,
         "longitude": -8.64125
     },
     {
-        "name": "Estarreja",
+        "name": "Эстаррея",
         "latitude": 40.75463,
         "longitude": -8.57917
     },
     {
-        "name": "Feira",
+        "name": "Справедливый",
         "latitude": 40.92535,
         "longitude": -8.54277
     },
     {
-        "name": "Fi\u00e3es",
+        "name": "Фиайнс",
         "latitude": 40.99446,
         "longitude": -8.52537
     },
     {
-        "name": "Gafanha da Encarna\u00e7\u00e3o",
+        "name": "Гафанха Воплощения",
         "latitude": 40.61806,
         "longitude": -8.73303
     },
     {
-        "name": "Gafanha da Nazar\u00e9",
+        "name": "Гафанья да Назаре",
         "latitude": 40.63621,
         "longitude": -8.71338
     },
     {
-        "name": "\u00cdlhavo",
+        "name": "Ильхаво",
         "latitude": 40.60188,
         "longitude": -8.67021
     },
     {
-        "name": "Lamas",
+        "name": "Ламы",
         "latitude": 40.98597,
         "longitude": -8.56923
     },
     {
-        "name": "Lob\u00e3o",
+        "name": "Лобао",
         "latitude": 40.98664,
         "longitude": -8.48566
     },
     {
-        "name": "Lourosa",
+        "name": "Луроса",
         "latitude": 40.9842,
         "longitude": -8.55142
     },
     {
-        "name": "Luso",
+        "name": "Навык",
         "latitude": 40.38429,
         "longitude": -8.37845
     },
     {
-        "name": "Macieira de Cambra",
+        "name": "Яблоня Камбра",
         "latitude": 40.85939,
         "longitude": -8.37338
     },
     {
-        "name": "Mealhada",
+        "name": "Меальхада",
         "latitude": 40.36273,
         "longitude": -8.44781
     },
     {
-        "name": "Milheir\u00f3s de Poiares",
+        "name": "Милейрос де Поярес",
         "latitude": 40.92163,
         "longitude": -8.46788
     },
     {
-        "name": "Mosteir\u00f4",
+        "name": "Монастырь",
         "latitude": 40.89843,
         "longitude": -8.53196
     },
     {
-        "name": "Murtosa",
+        "name": "Муртоса",
         "latitude": 40.74301,
         "longitude": -8.64023
     },
     {
-        "name": "Nogueira da Regedoura",
+        "name": "Ногейра-да-Регедура",
         "latitude": 41.0053,
         "longitude": -8.59195
     },
     {
-        "name": "Oi\u00e3",
+        "name": "Привет",
         "latitude": 40.54264,
         "longitude": -8.53856
     },
     {
-        "name": "Oliveira de Azemeis",
+        "name": "Оливейра де Аземейш",
         "latitude": 40.84101,
         "longitude": -8.47555
     },
     {
-        "name": "Oliveira do Bairro",
+        "name": "Оливейра-ду-Байру",
         "latitude": 40.50977,
         "longitude": -8.56374
     },
     {
-        "name": "Oliveirinha",
+        "name": "Оливейринья",
         "latitude": 40.60715,
         "longitude": -8.59198
     },
     {
-        "name": "Ovar",
+        "name": "яичник",
         "latitude": 40.85862,
         "longitude": -8.62513
     },
     {
-        "name": "Pa\u00e7os de Brand\u00e3o",
+        "name": "Пасуш-де-Брандон",
         "latitude": 40.97541,
         "longitude": -8.5835
     },
     {
-        "name": "Pampilhosa do Bot\u00e3o",
+        "name": "Пампилоса-ду-Ботау",
         "latitude": 40.3358,
         "longitude": -8.42738
     },
     {
-        "name": "Pardilh\u00f3",
+        "name": "Пардильо",
         "latitude": 40.79925,
         "longitude": -8.62598
     },
     {
-        "name": "Rio Me\u00e3o",
+        "name": "Река Меан",
         "latitude": 40.95775,
         "longitude": -8.57818
     },
     {
-        "name": "Salreu",
+        "name": "Салреу",
         "latitude": 40.73971,
         "longitude": -8.5572
     },
     {
-        "name": "Sanfins",
+        "name": "Святые",
         "latitude": 40.92979,
         "longitude": -8.52563
     },
     {
-        "name": "Sangalhos",
+        "name": "Сангальюс",
         "latitude": 40.48678,
         "longitude": -8.46968
     },
     {
-        "name": "Santa Maria da Feira",
+        "name": "Санта-Мария-да-Фейра",
         "latitude": 40.96043,
         "longitude": -8.51545
     },
     {
-        "name": "S\u00e3o Jo\u00e3o",
+        "name": "Сент-Джон",
         "latitude": 40.86802,
         "longitude": -8.60672
     },
     {
-        "name": "S\u00e3o Jo\u00e3o da Madeira",
+        "name": "Сан-Хуан-да-Мадейра",
         "latitude": 40.9007,
         "longitude": -8.4902
     },
     {
-        "name": "S\u00e3o Jo\u00e3o de Ver",
+        "name": "Святой Иоанн Верский",
         "latitude": 40.95527,
         "longitude": -8.55117
     },
     {
-        "name": "S\u00e3o Roque",
+        "name": "Сан-Рок",
         "latitude": 40.87216,
         "longitude": -8.47149
     },
     {
-        "name": "Sever do Vouga",
+        "name": "Север-дю-Вуж",
         "latitude": 40.73156,
         "longitude": -8.35493
     },
     {
-        "name": "Silvalde",
+        "name": "Сильвальде",
         "latitude": 40.99205,
         "longitude": -8.62567
     },
     {
-        "name": "Souto",
+        "name": "роща",
         "latitude": 40.98496,
         "longitude": -8.62185
     },
     {
-        "name": "Vagos",
+        "name": "Вакансии",
         "latitude": 40.49943,
         "longitude": -8.6783
     },
     {
-        "name": "Vale de Cambra",
+        "name": "Вале де Камбра",
         "latitude": 40.845,
         "longitude": -8.36022
     },
     {
-        "name": "V\u00e1lega",
+        "name": "Плохо",
         "latitude": 40.83629,
         "longitude": -8.58061
     },
     {
-        "name": "Valongo",
+        "name": "Валонго",
         "latitude": 40.61667,
         "longitude": -8.45
     },
     {
-        "name": "Vila Ch\u00e3",
+        "name": "Вила Ча",
         "latitude": 40.86667,
         "longitude": -8.46667
     },
     {
-        "name": "Aldeia Nova de S\u00e3o Bento",
+        "name": "Алдея-Нова-де-Сан-Бенту",
         "latitude": 37.92603,
         "longitude": -7.40804
     },
     {
-        "name": "Aljustrel",
+        "name": "Алжустрель",
         "latitude": 37.87759,
         "longitude": -8.16516
     },
     {
-        "name": "Almod\u00f4var",
+        "name": "Альмодовар",
         "latitude": 37.4959,
         "longitude": -8.09372
     },
     {
-        "name": "Almograve",
+        "name": "Альмогрейв",
         "latitude": 37.65665,
         "longitude": -8.79214
     },
     {
-        "name": "Alvito",
+        "name": "Альвито",
         "latitude": 38.24653,
         "longitude": -8.05038
     },
     {
-        "name": "Barrancos",
+        "name": "Каньоны",
         "latitude": 38.13446,
         "longitude": -6.97604
     },
     {
-        "name": "Beja",
+        "name": "судно",
         "latitude": 38.01506,
         "longitude": -7.86323
     },
     {
-        "name": "Beringel",
+        "name": "Берингель",
         "latitude": 38.05656,
         "longitude": -7.98427
     },
     {
-        "name": "Boavista dos Pinheiros",
+        "name": "Боавишта-дус-Пинеруш",
         "latitude": 37.58058,
         "longitude": -8.66441
     },
     {
-        "name": "Cabe\u00e7a Gorda",
+        "name": "Толстая голова",
         "latitude": 37.92401,
         "longitude": -7.7929
     },
     {
-        "name": "Castro Verde",
+        "name": "Кастро Верде",
         "latitude": 37.69828,
         "longitude": -8.08581
     },
     {
-        "name": "Cuba",
+        "name": "Куба",
         "latitude": 38.21972,
         "longitude": -7.92114
     },
     {
-        "name": "Ferreira do Alentejo",
+        "name": "Феррейра-ду-Алентежу",
         "latitude": 38.05,
         "longitude": -8.03333
     },
     {
-        "name": "M\u00e9rtola",
+        "name": "Мертола",
         "latitude": 37.65918,
         "longitude": -7.66434
     },
     {
-        "name": "Minas de S\u00e3o Domingos",
+        "name": "Сан-Домингос Майнс",
         "latitude": 37.67322,
         "longitude": -7.49765
     },
     {
-        "name": "Moura",
+        "name": "Моура",
         "latitude": 38.1401,
         "longitude": -7.44856
     },
     {
-        "name": "Neves",
+        "name": "Невес",
         "latitude": 38.0227,
         "longitude": -7.81344
     },
     {
-        "name": "Odemira",
+        "name": "Одемира",
         "latitude": 37.59798,
         "longitude": -8.63972
     },
     {
-        "name": "Ourique",
+        "name": "Орике",
         "latitude": 37.69156,
         "longitude": -8.31031
     },
     {
-        "name": "Penedo Gordo",
+        "name": "Пенедо Гордо",
         "latitude": 37.98477,
         "longitude": -7.91651
     },
     {
-        "name": "Salvada",
+        "name": "Сохранено",
         "latitude": 37.93771,
         "longitude": -7.77448
     },
     {
-        "name": "S\u00e3o Luis",
+        "name": "Сент-Луис",
         "latitude": 37.71556,
         "longitude": -8.66472
     },
     {
-        "name": "S\u00e3o Teot\u00f3nio",
+        "name": "Святой Теотонио",
         "latitude": 37.51282,
         "longitude": -8.70708
     },
     {
-        "name": "Serpa",
+        "name": "Серпа",
         "latitude": 37.95201,
         "longitude": -7.47534
     },
     {
-        "name": "Vidigueira",
+        "name": "Видигейра",
         "latitude": 38.18448,
         "longitude": -7.74469
     },
     {
-        "name": "Vila Nova de Milfontes",
+        "name": "Вилла Нова де Милфонтес",
         "latitude": 37.72377,
         "longitude": -8.78278
     },
     {
-        "name": "Zambujeira do Mar",
+        "name": "Замбужейра-ду-Мар",
         "latitude": 37.52799,
         "longitude": -8.78483
     },
     {
-        "name": "Ada\u00fafe",
+        "name": "Адауфе",
         "latitude": 41.58732,
         "longitude": -8.39817
     },
     {
-        "name": "Amares",
+        "name": "Амарес",
         "latitude": 41.64718,
         "longitude": -8.35558
     },
     {
-        "name": "Ap\u00falia",
+        "name": "Апулия",
         "latitude": 41.48512,
         "longitude": -8.76413
     },
     {
-        "name": "Ap\u00falia e F\u00e3o",
+        "name": "Апулия и Фао",
         "latitude": 41.51194,
         "longitude": -8.77288
     },
     {
-        "name": "Arcos",
+        "name": "Луки",
         "latitude": 41.52185,
         "longitude": -8.42151
     },
     {
-        "name": "Ar\u00f5es",
+        "name": "Ааронс",
         "latitude": 41.45553,
         "longitude": -8.21419
     },
     {
-        "name": "Aveleda",
+        "name": "Авеледа",
         "latitude": 41.52113,
         "longitude": -8.46682
     },
     {
-        "name": "Barcelos",
+        "name": "Барселона",
         "latitude": 41.53174,
         "longitude": -8.61843
     },
     {
-        "name": "Barqueiros",
+        "name": "Лодочники",
         "latitude": 41.49111,
         "longitude": -8.73192
     },
     {
-        "name": "Braga",
+        "name": "Брага",
         "latitude": 41.55032,
         "longitude": -8.42005
     },
     {
-        "name": "Brito",
+        "name": "Брито",
         "latitude": 41.45821,
         "longitude": -8.36103
     },
     {
-        "name": "Cabeceiras de Basto",
+        "name": "Истоки Басто",
         "latitude": 41.52079,
         "longitude": -7.97198
     },
     {
-        "name": "Caldas das Taipas",
+        "name": "Кальдас-дас-Тайпас",
         "latitude": 41.48465,
         "longitude": -8.3485
     },
     {
-        "name": "Caldas de Vizela",
+        "name": "Кальдас-де-Визела",
         "latitude": 41.38212,
         "longitude": -8.3089
     },
     {
-        "name": "Caldelas",
+        "name": "Котлы",
         "latitude": 41.67101,
         "longitude": -8.38148
     },
     {
-        "name": "Calend\u00e1rio",
+        "name": "Календарь",
         "latitude": 41.40361,
         "longitude": -8.52967
     },
     {
-        "name": "Candoso",
+        "name": "Кандосо",
         "latitude": 41.42768,
         "longitude": -8.32166
     },
     {
-        "name": "Celorico de Basto",
+        "name": "Селорико де Басто",
         "latitude": 41.40278,
         "longitude": -8.03346
     },
     {
-        "name": "Chav\u00e3o",
+        "name": "модное словечко",
         "latitude": 41.45235,
         "longitude": -8.60194
     },
     {
-        "name": "Cristelo",
+        "name": "Кристело",
         "latitude": 41.47964,
         "longitude": -8.69785
     },
     {
-        "name": "Espor\u00f5es",
+        "name": "подстегивает",
         "latitude": 41.51006,
         "longitude": -8.41729
     },
     {
-        "name": "Esposende",
+        "name": "Эшпозенде",
         "latitude": 41.5361,
         "longitude": -8.78201
     },
     {
-        "name": "Fafe",
+        "name": "Фафе",
         "latitude": 41.46837,
         "longitude": -8.15863
     },
     {
-        "name": "Faria",
+        "name": "Фария",
         "latitude": 41.48298,
         "longitude": -8.67152
     },
     {
-        "name": "Ferreiros",
+        "name": "Кузнецы",
         "latitude": 41.35,
         "longitude": -8.55
     },
     {
-        "name": "Fradelos",
+        "name": "Фраделос",
         "latitude": 41.36846,
         "longitude": -8.59887
     },
     {
-        "name": "Frossos",
+        "name": "Фроссос",
         "latitude": 41.5659,
         "longitude": -8.45134
     },
     {
-        "name": "Galegos",
+        "name": "Галичане",
         "latitude": 41.56268,
         "longitude": -8.57204
     },
     {
-        "name": "Gandra",
+        "name": "Гандра",
         "latitude": 41.52185,
         "longitude": -8.76185
     },
     {
-        "name": "Gondizalves",
+        "name": "Гондисалвес",
         "latitude": 41.54158,
         "longitude": -8.4557
     },
     {
-        "name": "Gueral",
+        "name": "Гераль",
         "latitude": 41.45859,
         "longitude": -8.62946
     },
     {
-        "name": "Guimar\u00e3es",
+        "name": "Гимарайнш",
         "latitude": 41.44384,
         "longitude": -8.28918
     },
     {
-        "name": "Guisande",
+        "name": "горох",
         "latitude": 41.48264,
         "longitude": -8.44564
     },
     {
-        "name": "Joane",
+        "name": "Джоан",
         "latitude": 41.43906,
         "longitude": -8.40846
     },
     {
-        "name": "Lago",
+        "name": "Лаго",
         "latitude": 41.62148,
         "longitude": -8.41258
     },
     {
-        "name": "Lordelo",
+        "name": "Лордело",
         "latitude": 41.37411,
         "longitude": -8.38016
     },
     {
-        "name": "Macieira de Rates",
+        "name": "Яблоня ставок",
         "latitude": 41.44092,
         "longitude": -8.63426
     },
     {
-        "name": "Marinhas",
+        "name": "Военно-Морской Флот",
         "latitude": 41.55906,
         "longitude": -8.78297
     },
     {
-        "name": "Mariz",
+        "name": "Мэри",
         "latitude": 41.52823,
         "longitude": -8.67081
     },
     {
-        "name": "Merelim",
+        "name": "Мерелим",
         "latitude": 41.58568,
         "longitude": -8.46555
     },
     {
-        "name": "Moreira de Conegos",
+        "name": "Морейра де Конегош",
         "latitude": 41.3868,
         "longitude": -8.3394
     },
     {
-        "name": "Negreiros",
+        "name": "рабы",
         "latitude": 41.43552,
         "longitude": -8.61398
     },
     {
-        "name": "Oliveira",
+        "name": "Оливейра",
         "latitude": 41.47819,
         "longitude": -8.46965
     },
     {
-        "name": "Perelhal",
+        "name": "Перельхаль",
         "latitude": 41.53075,
         "longitude": -8.68982
     },
     {
-        "name": "Ponte",
+        "name": "Понте",
         "latitude": 41.47057,
         "longitude": -8.3299
     },
     {
-        "name": "P\u00f3voa de Lanhoso",
+        "name": "Повуа-де-Ланьозо",
         "latitude": 41.57599,
         "longitude": -8.27008
     },
     {
-        "name": "Prado",
+        "name": "Прадо",
         "latitude": 41.60246,
         "longitude": -8.46297
     },
     {
-        "name": "Real",
+        "name": "Настоящий",
         "latitude": 41.55841,
         "longitude": -8.4433
     },
     {
-        "name": "Refojos de Basto",
+        "name": "Рефохос де Басто",
         "latitude": 41.51318,
         "longitude": -7.99517
     },
     {
-        "name": "Rendufe",
+        "name": "Сдаваться",
         "latitude": 41.62898,
         "longitude": -8.40858
     },
     {
-        "name": "Riba de Ave",
+        "name": "Риба де Аве",
         "latitude": 41.39648,
         "longitude": -8.38685
     },
     {
-        "name": "Ribeir\u00e3o",
+        "name": "Рибейран",
         "latitude": 41.36081,
         "longitude": -8.56774
     },
     {
-        "name": "Ronfe",
+        "name": "Храп",
         "latitude": 41.44146,
         "longitude": -8.38412
     },
     {
-        "name": "Sande",
+        "name": "Санде",
         "latitude": 41.7019,
         "longitude": -8.39246
     },
     {
-        "name": "Selho",
+        "name": "Сельхо",
         "latitude": 41.41938,
         "longitude": -8.34599
     },
     {
-        "name": "Semelhe",
+        "name": "Похожий",
         "latitude": 41.55437,
         "longitude": -8.46281
     },
     {
-        "name": "Serzedelo",
+        "name": "Серседело",
         "latitude": 41.40128,
         "longitude": -8.36888
     },
     {
-        "name": "Serzedo",
+        "name": "Серседо",
         "latitude": 41.40502,
         "longitude": -8.22926
     },
     {
-        "name": "Tebosa",
+        "name": "Фивы",
         "latitude": 41.48253,
         "longitude": -8.48399
     },
     {
-        "name": "Terras de Bouro",
+        "name": "Земли Буру",
         "latitude": 41.73914,
         "longitude": -8.19109
     },
     {
-        "name": "Urgeses",
+        "name": "призывает",
         "latitude": 41.4272,
         "longitude": -8.29796
     },
     {
-        "name": "V\u00e1rzea",
+        "name": "Варзеа",
         "latitude": 41.51512,
         "longitude": -8.584
     },
     {
-        "name": "Vieira do Minho",
+        "name": "Виейра-ду-Миньо",
         "latitude": 41.63557,
         "longitude": -8.13244
     },
     {
-        "name": "Vila Cova",
+        "name": "Вила Кова",
         "latitude": 41.55107,
         "longitude": -8.71645
     },
     {
-        "name": "Vila Frescainha",
+        "name": "Вилла Фрескаинья",
         "latitude": 41.53846,
         "longitude": -8.63971
     },
     {
-        "name": "Vila Nova de Famalic\u00e3o",
+        "name": "Вила-Нова-де-Фамаликан",
         "latitude": 41.40797,
         "longitude": -8.51978
     },
     {
-        "name": "Vila Seca",
+        "name": "Вила Сека",
         "latitude": 41.50031,
         "longitude": -8.68525
     },
     {
-        "name": "Vila Verde",
+        "name": "Грин Вилле",
         "latitude": 41.64869,
         "longitude": -8.43628
     },
     {
-        "name": "Vila\u00e7a",
+        "name": "Виласа",
         "latitude": 41.51787,
         "longitude": -8.48357
     },
     {
-        "name": "Vilar de Figos",
+        "name": "Деревня Фигос",
         "latitude": 41.47555,
         "longitude": -8.65382
     },
     {
-        "name": "Vizela",
+        "name": "Визела",
         "latitude": 41.37529,
         "longitude": -8.2931
     },
     {
-        "name": "Alf\u00e2ndega da F\u00e9",
+        "name": "Обычаи веры",
         "latitude": 41.34315,
         "longitude": -6.96112
     },
     {
-        "name": "Belver",
+        "name": "Бельвер",
         "latitude": 41.24696,
         "longitude": -7.27594
     },
     {
-        "name": "Bragan\u00e7a Municipality",
+        "name": "Муниципалитет Браганса",
         "latitude": 41.75608,
         "longitude": -6.75535
     },
     {
-        "name": "Carrazeda de Anci\u00e3es",
+        "name": "Карразеда-де-Ансиайнш",
         "latitude": 41.24247,
         "longitude": -7.30721
     },
     {
-        "name": "Carrazeda de Ansi\u00e3es",
+        "name": "Карразеда де Ансиайнш",
         "latitude": 41.23424,
         "longitude": -7.31129
     },
     {
-        "name": "Freixo de Espada \u00e0 Cinta",
+        "name": "Меч-ремешок Эш",
         "latitude": 41.09033,
         "longitude": -6.80648
     },
     {
-        "name": "Macedo de Cavaleiros",
+        "name": "Маседо де Кавалейрос",
         "latitude": 41.55132,
         "longitude": -6.93355
     },
     {
-        "name": "Miranda do Douro",
+        "name": "Миранда ду Дору",
         "latitude": 41.49692,
         "longitude": -6.27308
     },
     {
-        "name": "Mirandela",
+        "name": "Мирандела",
         "latitude": 41.50098,
         "longitude": -7.19185
     },
     {
-        "name": "Mogadouro",
+        "name": "Могадору",
         "latitude": 41.34034,
         "longitude": -6.71187
     },
     {
-        "name": "Samil",
+        "name": "Самил",
         "latitude": 41.77632,
         "longitude": -6.75698
     },
     {
-        "name": "Sendim",
+        "name": "Мы отправляем",
         "latitude": 41.38739,
         "longitude": -6.42625
     },
     {
-        "name": "Torre de Moncorvo",
+        "name": "Башня Монкорво",
         "latitude": 41.17454,
         "longitude": -7.05364
     },
     {
-        "name": "Vila Flor",
+        "name": "Вилла Флор",
         "latitude": 41.31429,
         "longitude": -7.15071
     },
     {
-        "name": "Vimioso",
+        "name": "Вимиозо",
         "latitude": 41.57287,
         "longitude": -6.52087
     },
     {
-        "name": "Vinhais",
+        "name": "Винэ",
         "latitude": 41.83509,
         "longitude": -7.00501
     },
     {
-        "name": "Aldeia de Joanes",
+        "name": "Джоанес Виллидж",
         "latitude": 40.13905,
         "longitude": -7.51694
     },
     {
-        "name": "Belmonte",
+        "name": "Бельмонте",
         "latitude": 40.36181,
         "longitude": -7.35157
     },
     {
-        "name": "Castelo Branco",
+        "name": "белый замок",
         "latitude": 39.82219,
         "longitude": -7.49087
     },
     {
-        "name": "Covilh\u00e3",
+        "name": "Ковильян",
         "latitude": 40.28106,
         "longitude": -7.50504
     },
     {
-        "name": "Fund\u00e3o",
+        "name": "Фундао",
         "latitude": 40.12412,
         "longitude": -7.49542
     },
     {
-        "name": "Idanha-A-Nova",
+        "name": "Иданья-А-Нова",
         "latitude": 39.92957,
         "longitude": -7.2369
     },
     {
-        "name": "Oleiros",
+        "name": "гончары",
         "latitude": 39.94948,
         "longitude": -7.88592
     },
     {
-        "name": "Penamacor",
+        "name": "Пенамакор",
         "latitude": 40.15495,
         "longitude": -7.17149
     },
     {
-        "name": "Proen\u00e7a-a-Nova",
+        "name": "Проэнса-а-Нова",
         "latitude": 39.757,
         "longitude": -7.92595
     },
     {
-        "name": "Sert\u00e3",
+        "name": "Серта",
         "latitude": 39.80205,
         "longitude": -8.09589
     },
     {
-        "name": "Teixoso",
+        "name": "Тейшосо",
         "latitude": 40.31448,
         "longitude": -7.45759
     },
     {
-        "name": "Vila de Rei",
+        "name": "Королевская деревня",
         "latitude": 39.70685,
         "longitude": -8.12836
     },
     {
-        "name": "Vila Velha de R\u00f3d\u00e3o",
+        "name": "Вила-Велья-де-Родао",
         "latitude": 39.68709,
         "longitude": -7.65987
     },
     {
-        "name": "Alfarelos",
+        "name": "Альфарелос",
         "latitude": 40.15057,
         "longitude": -8.65326
     },
     {
-        "name": "Alhadas",
+        "name": "Альхадас",
         "latitude": 40.18607,
         "longitude": -8.79057
     },
     {
-        "name": "An\u00e7\u00e3",
+        "name": "Бедро",
         "latitude": 40.27161,
         "longitude": -8.5209
     },
     {
-        "name": "Arazede",
+        "name": "Аразеде",
         "latitude": 40.28627,
         "longitude": -8.64999
     },
     {
-        "name": "Arganil",
+        "name": "Арганил",
         "latitude": 40.21826,
         "longitude": -8.05403
     },
     {
-        "name": "Assafarge",
+        "name": "Ассафарж",
         "latitude": 40.15895,
         "longitude": -8.43167
     },
     {
-        "name": "Buarcos",
+        "name": "Буаркос",
         "latitude": 40.16604,
         "longitude": -8.8768
     },
     {
-        "name": "Cantanhede",
+        "name": "Кантанхеде",
         "latitude": 40.36354,
         "longitude": -8.60549
     },
     {
-        "name": "Carapinheira",
+        "name": "Карапинейра",
         "latitude": 40.2062,
         "longitude": -8.6481
     },
     {
-        "name": "Coimbra",
+        "name": "Коимбра",
         "latitude": 40.20564,
         "longitude": -8.41955
     },
     {
-        "name": "Condeixa-a-Nova",
+        "name": "Кондейша-а-Нова",
         "latitude": 40.10639,
         "longitude": -8.49632
     },
     {
-        "name": "Figueira da Foz",
+        "name": "Фигейра-да-Фош",
         "latitude": 40.15085,
         "longitude": -8.86179
     },
     {
-        "name": "G\u00f3is",
+        "name": "Гойс",
         "latitude": 40.12535,
         "longitude": -8.0834
     },
     {
-        "name": "Lavos",
+        "name": "Лава",
         "latitude": 40.09363,
         "longitude": -8.82826
     },
     {
-        "name": "Lorv\u00e3o",
+        "name": "Лорван",
         "latitude": 40.25938,
         "longitude": -8.31683
     },
     {
-        "name": "Lous\u00e3",
+        "name": "доска",
         "latitude": 40.11673,
         "longitude": -8.24921
     },
     {
-        "name": "Mira",
+        "name": "Мира",
         "latitude": 40.44559,
         "longitude": -8.73849
     },
     {
-        "name": "Miranda do Corvo",
+        "name": "Миранда ду Корву",
         "latitude": 40.09318,
         "longitude": -8.33261
     },
     {
-        "name": "Montemor-o-Velho",
+        "name": "Монтемор-о-Велью",
         "latitude": 40.19385,
         "longitude": -8.66696
     },
     {
-        "name": "Oliveira do Hospital",
+        "name": "Больница Оливейра-дю-дю",
         "latitude": 40.35522,
         "longitude": -7.86481
     },
     {
-        "name": "Oliveira do Mondego",
+        "name": "Оливейра-ду-Мондегу",
         "latitude": 40.32305,
         "longitude": -8.22367
     },
     {
-        "name": "Pampilhosa da Serra",
+        "name": "Пампилоса да Серра",
         "latitude": 40.0462,
         "longitude": -7.95182
     },
     {
-        "name": "Penacova",
+        "name": "Одной ногой в могиле",
         "latitude": 40.26884,
         "longitude": -8.28237
     },
     {
-        "name": "Penela",
+        "name": "щетка",
         "latitude": 40.03333,
         "longitude": -8.38333
     },
     {
-        "name": "Poiares",
+        "name": "Пуарес",
         "latitude": 40.21026,
         "longitude": -8.25746
     },
     {
-        "name": "Santa Clara",
+        "name": "Сент-Клер",
         "latitude": 40.19985,
         "longitude": -8.44018
     },
     {
-        "name": "Santo Ant\u00f3nio dos Olivais",
+        "name": "Санту-Антониу-дус-Оливаис",
         "latitude": 40.21805,
         "longitude": -8.40523
     },
     {
-        "name": "S\u00e3o Pedro de Alva",
+        "name": "Святой Петр Альва",
         "latitude": 40.30044,
         "longitude": -8.16623
     },
     {
-        "name": "Soure",
+        "name": "Сур",
         "latitude": 40.05989,
         "longitude": -8.62605
     },
     {
-        "name": "T\u00e1bua",
+        "name": "Доска",
         "latitude": 40.36207,
         "longitude": -8.02936
     },
     {
-        "name": "Tavarede",
+        "name": "Таваред",
         "latitude": 40.16692,
         "longitude": -8.84568
     },
     {
-        "name": "Tocha",
+        "name": "Факел",
         "latitude": 40.31308,
         "longitude": -8.75339
     },
     {
-        "name": "Travanca",
+        "name": "Замок",
         "latitude": 40.32357,
         "longitude": -8.18687
     },
     {
-        "name": "Vila Nova de Poiares",
+        "name": "Вила-Нова-де-Пойарес",
         "latitude": 40.22129,
         "longitude": -8.24105
     },
     {
-        "name": "Alandroal",
+        "name": "Аландроаль",
         "latitude": 38.62924,
         "longitude": -7.36599
     },
     {
-        "name": "Arraiolos",
+        "name": "Аррайолос",
         "latitude": 38.76774,
         "longitude": -7.95831
     },
     {
-        "name": "Borba",
+        "name": "Драться",
         "latitude": 38.80553,
         "longitude": -7.45465
     },
     {
-        "name": "Estremoz",
+        "name": "Эштремоз",
         "latitude": 38.84996,
         "longitude": -7.60117
     },
     {
-        "name": "\u00c9vora",
+        "name": "Эвора",
         "latitude": 38.56667,
         "longitude": -7.9
     },
     {
-        "name": "Montemor-o-Novo",
+        "name": "Монтемор-о-Нуво",
         "latitude": 38.67103,
         "longitude": -8.29956
     },
     {
-        "name": "Mora",
+        "name": "Мора",
         "latitude": 38.92174,
         "longitude": -8.09972
     },
     {
-        "name": "Mour\u00e3o",
+        "name": "Мурао",
         "latitude": 38.29778,
         "longitude": -7.2223
     },
     {
-        "name": "Portel",
+        "name": "Портал",
         "latitude": 38.29385,
         "longitude": -7.72762
     },
     {
-        "name": "Redondo",
+        "name": "Редондо",
         "latitude": 38.5801,
         "longitude": -7.59659
     },
     {
-        "name": "Reguengos de Monsaraz",
+        "name": "Регенгос де Монсараш",
         "latitude": 38.42529,
         "longitude": -7.53494
     },
     {
-        "name": "Vendas Novas",
+        "name": "Новые продажи",
         "latitude": 38.63975,
         "longitude": -8.54702
     },
     {
-        "name": "Viana do Alentejo",
+        "name": "Виана-ду-Алентежу",
         "latitude": 38.33645,
         "longitude": -8.00011
     },
     {
-        "name": "Vila Vi\u00e7osa",
+        "name": "Вила Висоза",
         "latitude": 38.7879,
         "longitude": -7.41852
     },
     {
-        "name": "Albufeira",
+        "name": "Албуфейра",
         "latitude": 37.08819,
         "longitude": -8.2503
     },
     {
-        "name": "Alcantarilha",
+        "name": "Алькантарилья",
         "latitude": 37.13044,
         "longitude": -8.34623
     },
     {
-        "name": "Alcoutim",
+        "name": "Алкутим",
         "latitude": 37.424,
         "longitude": -7.65456
     },
     {
-        "name": "Algoz",
+        "name": "палач",
         "latitude": 37.16301,
         "longitude": -8.30359
     },
     {
-        "name": "Aljezur",
+        "name": "Алжезур",
         "latitude": 37.31745,
         "longitude": -8.80147
     },
     {
-        "name": "Almancil",
+        "name": "альмансил",
         "latitude": 37.08686,
         "longitude": -8.03074
     },
     {
-        "name": "Altura",
+        "name": "Высота",
         "latitude": 37.1756,
         "longitude": -7.50064
     },
     {
-        "name": "Alvor",
+        "name": "Серьезно",
         "latitude": 37.12994,
         "longitude": -8.59174
     },
     {
-        "name": "Arma\u00e7\u00e3o de P\u00eara",
+        "name": "Армасан-де-Пера",
         "latitude": 37.10256,
         "longitude": -8.35695
     },
     {
-        "name": "Bensafrim",
+        "name": "Бенсафрим",
         "latitude": 37.15583,
         "longitude": -8.7352
     },
     {
-        "name": "Boliqueime",
+        "name": "Боликейме",
         "latitude": 37.13718,
         "longitude": -8.1582
     },
     {
-        "name": "Cabanas de Tavira",
+        "name": "Тавира: коттеджи",
         "latitude": 37.13521,
         "longitude": -7.60048
     },
     {
-        "name": "Carvoeiro",
+        "name": "Карвоейру",
         "latitude": 37.09736,
         "longitude": -8.46846
     },
     {
-        "name": "Castro Marim",
+        "name": "Кастро Марим",
         "latitude": 37.25865,
         "longitude": -7.50732
     },
     {
-        "name": "Concei\u00e7\u00e3o",
+        "name": "Консейсан",
         "latitude": 37.14789,
         "longitude": -7.60426
     },
     {
-        "name": "Est\u00f3i",
+        "name": "Вечер",
         "latitude": 37.09503,
         "longitude": -7.89445
     },
     {
-        "name": "Est\u00f4mbar",
+        "name": "Эстомбар",
         "latitude": 37.14629,
         "longitude": -8.48505
     },
     {
-        "name": "Faro",
+        "name": "Фаро",
         "latitude": 37.01869,
         "longitude": -7.92716
     },
     {
-        "name": "Ferragudo",
+        "name": "Феррагудо",
         "latitude": 37.12474,
         "longitude": -8.51915
     },
     {
-        "name": "Ferreiras",
+        "name": "Феррейрас",
         "latitude": 37.12926,
         "longitude": -8.23759
     },
     {
-        "name": "Fuzeta",
+        "name": "Фузета",
         "latitude": 37.05429,
         "longitude": -7.74699
     },
     {
-        "name": "Guia",
+        "name": "Гид",
         "latitude": 37.12959,
         "longitude": -8.29963
     },
     {
-        "name": "Lagoa",
+        "name": "лагуна",
         "latitude": 37.10505,
         "longitude": -8.45974
     },
     {
-        "name": "Lagos",
+        "name": "Лагос",
         "latitude": 37.10202,
         "longitude": -8.67422
     },
     {
-        "name": "Laranjeiro",
+        "name": "апельсиновое дерево",
         "latitude": 37.06799,
         "longitude": -7.8078
     },
     {
-        "name": "Loul\u00e9",
+        "name": "Лоле",
         "latitude": 37.14399,
         "longitude": -8.02345
     },
     {
-        "name": "Luz",
+        "name": "Луз",
         "latitude": 37.09216,
         "longitude": -7.70433
     },
     {
-        "name": "Manta Rota",
+        "name": "Рваное одеяло",
         "latitude": 37.16849,
         "longitude": -7.51804
     },
     {
-        "name": "Marmelete",
+        "name": "Мармелете",
         "latitude": 37.31014,
         "longitude": -8.66813
     },
     {
-        "name": "Mexilhoeira Grande",
+        "name": "Месильоейра Гранде",
         "latitude": 37.15858,
         "longitude": -8.61487
     },
     {
-        "name": "Moncarapacho",
+        "name": "Монкарапачо",
         "latitude": 37.0836,
         "longitude": -7.78763
     },
     {
-        "name": "Monchique",
+        "name": "Моншике",
         "latitude": 37.31664,
         "longitude": -8.5834
     },
     {
-        "name": "Monte Gordo",
+        "name": "Гора Гордо",
         "latitude": 37.18192,
         "longitude": -7.45225
     },
     {
-        "name": "Olh\u00e3o",
+        "name": "Ольян",
         "latitude": 37.04509,
         "longitude": -7.81032
     },
     {
-        "name": "Olhos de \u00c1gua",
+        "name": "Водяные глаза",
         "latitude": 37.09024,
         "longitude": -8.19168
     },
     {
-        "name": "Paderne",
+        "name": "Падерна",
         "latitude": 37.17935,
         "longitude": -8.2015
     },
     {
-        "name": "Parchal",
+        "name": "Фрагмент",
         "latitude": 37.13827,
         "longitude": -8.51703
     },
     {
-        "name": "P\u00eara",
+        "name": "Груша",
         "latitude": 37.12296,
         "longitude": -8.34115
     },
     {
-        "name": "Porches",
+        "name": "Подъезды",
         "latitude": 37.12665,
         "longitude": -8.40162
     },
     {
-        "name": "Portim\u00e3o",
+        "name": "Портиман",
         "latitude": 37.17544,
         "longitude": -8.5842
     },
     {
-        "name": "Quarteira",
+        "name": "Картейра",
         "latitude": 37.06946,
         "longitude": -8.10064
     },
     {
-        "name": "Sagres",
+        "name": "Сагреш",
         "latitude": 37.00864,
         "longitude": -8.94311
     },
     {
-        "name": "Santa B\u00e1rbara de Nexe",
+        "name": "Санта-Барбара-де-Нексе",
         "latitude": 37.10619,
         "longitude": -7.96648
     },
     {
-        "name": "Santa Luzia",
+        "name": "Санта-Люсия",
         "latitude": 37.10224,
         "longitude": -7.66202
     },
     {
-        "name": "S\u00e3o Bartolomeu de Messines",
+        "name": "Святой Варфоломей Мессинский",
         "latitude": 37.25648,
         "longitude": -8.28672
     },
     {
-        "name": "S\u00e3o Br\u00e1s de Alportel",
+        "name": "Сан-Брас-де-Альпортель",
         "latitude": 37.19564,
         "longitude": -7.87546
     },
     {
-        "name": "S\u00e3o Marcos da Serra",
+        "name": "Сан-Маркос-да-Серра",
         "latitude": 37.361,
         "longitude": -8.37764
     },
     {
-        "name": "Senhora da Luz",
+        "name": "Леди Света",
         "latitude": 37.08771,
         "longitude": -8.72649
     },
     {
-        "name": "Silves",
+        "name": "Силвеш",
         "latitude": 37.20343,
         "longitude": -8.33472
     },
     {
-        "name": "Tavira",
+        "name": "Тавира",
         "latitude": 37.12734,
         "longitude": -7.64861
     },
     {
-        "name": "Tunes",
+        "name": "Мелодии",
         "latitude": 37.16592,
         "longitude": -8.25919
     },
     {
-        "name": "Vila do Bispo",
+        "name": "Вила-ду-Биспо",
         "latitude": 37.08317,
         "longitude": -8.91144
     },
     {
-        "name": "Vila Nova De Cacela",
+        "name": "Вилла Нова де Казелья",
         "latitude": 37.17391,
         "longitude": -7.53169
     },
     {
-        "name": "Vila Real de Santo Ant\u00f3nio",
+        "name": "Вила-Реал-де-Санто-Антонио",
         "latitude": 37.19232,
         "longitude": -7.42538
     },
     {
-        "name": "Vilamoura",
+        "name": "Виламоура",
         "latitude": 37.08728,
         "longitude": -8.11701
     },
     {
-        "name": "Abrigada",
+        "name": "защищенный",
         "latitude": 39.14472222,
         "longitude": -9.01861111
     },
     {
-        "name": "A\u00e7ores",
+        "name": "Азорские острова",
         "latitude": 40.645,
         "longitude": -7.30527778
     },
     {
-        "name": "Ad\u00e3o",
+        "name": "Адам",
         "latitude": 40.45916667,
         "longitude": -7.165
     },
     {
-        "name": "Agualva",
+        "name": "Агуальва",
         "latitude": 38.77004444,
         "longitude": -9.29881111
     },
     {
-        "name": "\u00c1guas Belas",
+        "name": "Красивые воды",
         "latitude": 40.37472222,
         "longitude": -7.16694444
     },
     {
-        "name": "Aguiar da Beira",
+        "name": "Агиар-да-Бейра",
         "latitude": 40.81726,
         "longitude": -7.54431
     },
     {
-        "name": "Ajuda",
+        "name": "Помощь",
         "latitude": 38.7075,
         "longitude": -9.19833333
     },
     {
-        "name": "Albardo",
+        "name": "Альбардо",
         "latitude": 40.51145,
         "longitude": -7.13028
     },
     {
-        "name": "Alcabideche",
+        "name": "Алькабидече",
         "latitude": 38.73361111,
         "longitude": -9.40916667
     },
     {
-        "name": "Alcains",
+        "name": "Алкаины",
         "latitude": 39.91540278,
         "longitude": -7.46107778
     },
     {
-        "name": "Alc\u00e2ntara",
+        "name": "Алькантара",
         "latitude": 38.70638889,
         "longitude": -9.17416667
     },
     {
-        "name": "Alcoentre",
+        "name": "Алкоентре",
         "latitude": 39.20861111,
         "longitude": -8.95944444
     },
     {
-        "name": "Aldeia da Ponte",
+        "name": "Бридж-Виллидж",
         "latitude": 40.41348889,
         "longitude": -6.86908333
     },
     {
-        "name": "Aldeia da Ribeira",
+        "name": "Деревня Рибейра",
         "latitude": 40.45666667,
         "longitude": -6.89777778
     },
     {
-        "name": "Aldeia de Santo Ant\u00f3nio",
+        "name": "Деревня Санто-Антониу",
         "latitude": 40.34305556,
         "longitude": -7.13638889
     },
     {
-        "name": "Aldeia do Bispo",
+        "name": "Епископская деревня",
         "latitude": 40.32333333,
         "longitude": -6.84805556
     },
     {
-        "name": "Aldeia Galega da Merceana",
+        "name": "Галицкая деревня Мерчана",
         "latitude": 39.08222222,
         "longitude": -9.11194444
     },
     {
-        "name": "Aldeia Gavinha",
+        "name": "Деревня Гавинья",
         "latitude": 39.08444444,
         "longitude": -9.09638889
     },
     {
-        "name": "Aldeia Nova Miranda do Douro",
+        "name": "Деревня Нова-Миранда-ду-Дору",
         "latitude": 40.72584,
         "longitude": -7.42384
     },
     {
-        "name": "Aldeia Velha",
+        "name": "Старая деревня",
         "latitude": 40.34333333,
         "longitude": -6.8675
     },
     {
-        "name": "Aldeia Vi\u00e7osa",
+        "name": "Деревня Висоза",
         "latitude": 40.57888889,
         "longitude": -7.31777778
     },
     {
-        "name": "Aldeias",
+        "name": "Деревни",
         "latitude": 40.46861111,
         "longitude": -7.59805556
     },
     {
-        "name": "Alenquer",
+        "name": "Аленкер",
         "latitude": 39.05,
         "longitude": -9.01666667
     },
     {
-        "name": "Alfaiates",
+        "name": "Портные",
         "latitude": 40.39111111,
         "longitude": -6.91333333
     },
     {
-        "name": "Alfornelos",
+        "name": "Альфорнелос",
         "latitude": 38.76333333,
         "longitude": -9.20638889
     },
     {
-        "name": "Alfragide",
+        "name": "Альфрагид",
         "latitude": 38.73203,
         "longitude": -9.2192
     },
     {
-        "name": "Alg\u00e9s",
+        "name": "Альжес",
         "latitude": 38.69949722,
         "longitude": -9.22927222
     },
     {
-        "name": "Algodres",
+        "name": "Альгодрес",
         "latitude": 40.9525,
         "longitude": -7.05472222
     },
     {
-        "name": "Alguber",
+        "name": "Альгубер",
         "latitude": 39.27583333,
         "longitude": -9.01888889
     },
     {
-        "name": "Algueir\u00e3o",
+        "name": "Алгейран",
         "latitude": 38.79764,
         "longitude": -9.3437
     },
     {
-        "name": "Algueir\u00e3o\u2013Mem Martins",
+        "name": "Альгейран – Мем Мартинс",
         "latitude": 38.79411389,
         "longitude": -9.34510833
     },
     {
-        "name": "Alhandra",
+        "name": "Альхандра",
         "latitude": 38.92732,
         "longitude": -9.00864
     },
     {
-        "name": "Almargem",
+        "name": "Альмаргем",
         "latitude": 38.84472222,
         "longitude": -9.27305556
     },
     {
-        "name": "Almargem do Bispo",
+        "name": "Епископский Альмаргем",
         "latitude": 38.8475,
         "longitude": -9.27138889
     },
     {
-        "name": "Almeida",
+        "name": "Алмейда",
         "latitude": 40.7307,
         "longitude": -6.90594
     },
     {
-        "name": "Almendra",
+        "name": "Миндаль",
         "latitude": 40.99284444,
         "longitude": -7.05756944
     },
     {
-        "name": "Almofala",
+        "name": "Подушка",
         "latitude": 40.86027778,
         "longitude": -6.84861111
     },
     {
-        "name": "Alto do Pina",
+        "name": "Альту-ду-Пина",
         "latitude": 38.74027778,
         "longitude": -9.12805556
     },
     {
-        "name": "Alvalade",
+        "name": "Альваладе",
         "latitude": 38.74694444,
         "longitude": -9.13611111
     },
     {
-        "name": "Alvendre",
+        "name": "Альвендер",
         "latitude": 40.585,
         "longitude": -7.25833333
     },
     {
-        "name": "Alverca da Beira",
+        "name": "Алверка-да-Бейра",
         "latitude": 40.70055556,
         "longitude": -7.2175
     },
     {
-        "name": "Alverca do Ribatejo",
+        "name": "Альверка-дю-Рибатежу",
         "latitude": 38.89866111,
         "longitude": -9.03947778
     },
     {
-        "name": "Alvoco da Serra",
+        "name": "Альвоко да Серра",
         "latitude": 40.29555556,
         "longitude": -7.67027778
     },
     {
-        "name": "Amadora",
+        "name": "любительский",
         "latitude": 38.75,
         "longitude": -9.23333333
     },
     {
-        "name": "Ameixoeira",
+        "name": "Амейшуэйра",
         "latitude": 38.78777778,
         "longitude": -9.1525
     },
     {
-        "name": "Amoreira",
+        "name": "Шелковица",
         "latitude": 40.58805556,
         "longitude": -7.01555556
     },
     {
-        "name": "Anjos",
+        "name": "Аньос",
         "latitude": 38.72388889,
         "longitude": -9.13638889
     },
     {
-        "name": "Apela\u00e7\u00e3o",
+        "name": "Обращаться",
         "latitude": 38.815,
         "longitude": -9.13249
     },
     {
-        "name": "Arcozelo",
+        "name": "Аркозело",
         "latitude": 40.54055556,
         "longitude": -7.62722222
     },
     {
-        "name": "Arranh\u00f3",
+        "name": "Царапать",
         "latitude": 38.95371667,
         "longitude": -9.13497778
     },
     {
-        "name": "Arrifana",
+        "name": "Аррифана",
         "latitude": 40.56972222,
         "longitude": -7.21027778
     },
     {
-        "name": "Arruda Dos Vinhos",
+        "name": "Арруда Дос Виньюс",
         "latitude": 38.97172,
         "longitude": -9.08807
     },
     {
-        "name": "Atalaia",
+        "name": "Аталая",
         "latitude": 40.66,
         "longitude": -7.03305556
     },
     {
-        "name": "Aveiras de Baixo",
+        "name": "Также из Байсо",
         "latitude": 39.11138889,
         "longitude": -8.86916667
     },
     {
-        "name": "Aveiras de Cima",
+        "name": "Лучшие переулки",
         "latitude": 39.13769444,
         "longitude": -8.89995556
     },
     {
-        "name": "Avel\u00e3s da Ribeira",
+        "name": "Фундук из Рибейры",
         "latitude": 40.67773,
         "longitude": -7.21492
     },
     {
-        "name": "Aveloso",
+        "name": "Авелозо",
         "latitude": 40.93111111,
         "longitude": -7.31666667
     },
     {
-        "name": "Azambuja",
+        "name": "Азамбуджа",
         "latitude": 39.06666667,
         "longitude": -8.86666667
     },
     {
-        "name": "Azambuja (town)",
+        "name": "Азамбуджа (город)",
         "latitude": 39.07027778,
         "longitude": -8.86833333
     },
     {
-        "name": "Azenhas do Mar",
+        "name": "Азеньяш до Мар",
         "latitude": 38.84055556,
         "longitude": -9.46
     },
     {
-        "name": "Azevo",
+        "name": "Азево",
         "latitude": 40.85166667,
         "longitude": -7.13138889
     },
     {
-        "name": "Azueira",
+        "name": "Азуейра",
         "latitude": 39.00653,
         "longitude": -9.27475
     },
     {
-        "name": "Bara\u00e7al",
+        "name": "Барасал",
         "latitude": 40.39357,
         "longitude": -7.08522
     },
     {
-        "name": "Barcarena",
+        "name": "Баркарена",
         "latitude": 38.7325,
         "longitude": -9.28
     },
     {
-        "name": "Barreira",
+        "name": "Барьер",
         "latitude": 40.91111111,
         "longitude": -7.18638889
     },
     {
-        "name": "Beato",
+        "name": "Благословенный",
         "latitude": 38.73472222,
         "longitude": -9.10583333
     },
     {
-        "name": "Belas",
+        "name": "Двенадцать",
         "latitude": 38.76666667,
         "longitude": -9.26666667
     },
     {
-        "name": "Bendada",
+        "name": "Бенда",
         "latitude": 40.37083333,
         "longitude": -7.25472222
     },
     {
-        "name": "Benespera",
+        "name": "Ну надеюсь",
         "latitude": 40.44027778,
         "longitude": -7.27638889
     },
     {
-        "name": "Benfica",
+        "name": "Бенфика",
         "latitude": 38.75111111,
         "longitude": -9.20222222
     },
     {
-        "name": "Bismula",
+        "name": "Бисмула",
         "latitude": 40.44694444,
         "longitude": -6.96444444
     },
     {
-        "name": "Bobadela",
+        "name": "Они жертвуют ими",
         "latitude": 38.80663,
         "longitude": -9.09731
     },
     {
-        "name": "Bou\u00e7a Cova",
+        "name": "Буса Кова",
         "latitude": 40.70464,
         "longitude": -7.2383
     },
     {
-        "name": "Brandoa",
+        "name": "Брандо",
         "latitude": 38.76611111,
         "longitude": -9.21444444
     },
     {
-        "name": "Bucelas",
+        "name": "Буселас",
         "latitude": 38.9,
         "longitude": -9.11666667
     },
     {
-        "name": "Buraca",
+        "name": "бурака",
         "latitude": 38.74222222,
         "longitude": -9.20944444
     },
     {
-        "name": "Cabanas de Torres",
+        "name": "Коттеджи Торрес",
         "latitude": 39.15631,
         "longitude": -9.06328
     },
     {
-        "name": "Cabe\u00e7a",
+        "name": "Голова",
         "latitude": 40.31916667,
         "longitude": -7.73527778
     },
     {
-        "name": "Cacem",
+        "name": "Касем",
         "latitude": 38.77042,
         "longitude": -9.30809
     },
     {
-        "name": "Cachoeiras",
+        "name": "Водопады",
         "latitude": 38.98583333,
         "longitude": -9.01638889
     },
     {
-        "name": "Cadafais",
+        "name": "каждый день",
         "latitude": 39.00444444,
         "longitude": -9.00416667
     },
     {
-        "name": "Cadafaz",
+        "name": "Кадафаз",
         "latitude": 40.58472222,
         "longitude": -7.36194444
     },
     {
-        "name": "Cadaval",
+        "name": "Кадавал",
         "latitude": 39.24621,
         "longitude": -9.06738
     },
     {
-        "name": "Calhandriz",
+        "name": "Кальхандрис",
         "latitude": 38.925,
         "longitude": -9.06777778
     },
     {
-        "name": "Camarate",
+        "name": "Камарате",
         "latitude": 38.80358,
         "longitude": -9.12809
     },
     {
-        "name": "Campelos",
+        "name": "Кампелос",
         "latitude": 39.2,
         "longitude": -9.23333333
     },
     {
-        "name": "Campo Grande",
+        "name": "Большое поле",
         "latitude": 38.75694444,
         "longitude": -9.15361111
     },
     {
-        "name": "Campolide",
+        "name": "Камполид",
         "latitude": 38.72638889,
         "longitude": -9.16333333
     },
     {
-        "name": "Cane\u00e7as",
+        "name": "Канешас",
         "latitude": 38.81666667,
         "longitude": -9.23333333
     },
     {
-        "name": "Carapito",
+        "name": "Карапито",
         "latitude": 40.76759,
         "longitude": -7.45447
     },
     {
-        "name": "Carcavelos",
+        "name": "Каркавелуш",
         "latitude": 38.6922,
         "longitude": -9.33327
     },
     {
-        "name": "Cardosas",
+        "name": "Кардосас",
         "latitude": 38.97722222,
         "longitude": -9.04083333
     },
     {
-        "name": "Carm\u00f5es",
+        "name": "Кармоэнс",
         "latitude": 39.05777778,
         "longitude": -9.13416667
     },
     {
-        "name": "Carnaxide",
+        "name": "Карнаксид",
         "latitude": 38.72666667,
         "longitude": -9.24166667
     },
     {
-        "name": "Carnic\u00e3es",
+        "name": "Карникайнс",
         "latitude": 40.73333333,
         "longitude": -7.31833333
     },
     {
-        "name": "Carnide",
+        "name": "Карнид",
         "latitude": 38.76083333,
         "longitude": -9.18361111
     },
     {
-        "name": "Carnota",
+        "name": "Карнота",
         "latitude": 39.03361111,
         "longitude": -9.07166667
     },
     {
-        "name": "Carragozela",
+        "name": "Каррагозела",
         "latitude": 40.40572,
         "longitude": -7.76077
     },
     {
-        "name": "Carrapichana",
+        "name": "Каррапичана",
         "latitude": 40.56194444,
         "longitude": -7.48694444
     },
     {
-        "name": "Carregado",
+        "name": "Загружено",
         "latitude": 39.02334,
         "longitude": -8.9645
     },
     {
-        "name": "Carvalhal",
+        "name": "Карвальял",
         "latitude": 40.88361111,
         "longitude": -7.28361111
     },
     {
-        "name": "Carvoeira",
+        "name": "Бункер",
         "latitude": 39.08055556,
         "longitude": -9.16222222
     },
     {
-        "name": "Casal de Cambra",
+        "name": "Казаль де Камбра",
         "latitude": 38.80236,
         "longitude": -9.23188
     },
     {
-        "name": "Casal de Cinza",
+        "name": "Серая пара",
         "latitude": 40.54416667,
         "longitude": -7.16416667
     },
     {
-        "name": "Casal Vasco",
+        "name": "Пара Васко",
         "latitude": 40.63792,
         "longitude": -7.55538
     },
     {
-        "name": "Casas do Soeiro",
+        "name": "Дома Соэйро",
         "latitude": 40.61888889,
         "longitude": -7.40638889
     },
     {
-        "name": "Cascais",
+        "name": "Кашкайш",
         "latitude": 38.69681,
         "longitude": -9.42147
     },
     {
-        "name": "Castanheira",
+        "name": "каштан",
         "latitude": 40.57472222,
         "longitude": -7.07944444
     },
     {
-        "name": "Castanheira do Ribatejo",
+        "name": "Кастанейра-ду-Рибатежу",
         "latitude": 38.98333333,
         "longitude": -8.96666667
     },
     {
-        "name": "Castei\u00e7\u00e3o",
+        "name": "Кастиация",
         "latitude": 40.88083333,
         "longitude": -7.32583333
     },
     {
-        "name": "Casteleiro",
+        "name": "Кастельейро",
         "latitude": 40.30222222,
         "longitude": -7.23166667
     },
     {
-        "name": "Castelo (Lisbon)",
+        "name": "Замок (Лиссабон)",
         "latitude": 38.71361111,
         "longitude": -9.13333333
     },
     {
-        "name": "Castelo Bom",
+        "name": "Хороший замок",
         "latitude": 40.62027778,
         "longitude": -6.90055556
     },
     {
-        "name": "Castelo Melhor",
+        "name": "Лучший замок",
         "latitude": 41.0275,
         "longitude": -7.065
     },
     {
-        "name": "Castelo Rodrigo",
+        "name": "Замок Родриго",
         "latitude": 40.87555556,
         "longitude": -6.96388889
     },
     {
-        "name": "Cativelos",
+        "name": "Кативелос",
         "latitude": 40.53083333,
         "longitude": -7.68194444
     },
     {
-        "name": "Cavadoude",
+        "name": "Кавадуд",
         "latitude": 40.58472222,
         "longitude": -7.28666667
     },
     {
-        "name": "Caxias",
+        "name": "Кашиас",
         "latitude": 38.7,
         "longitude": -9.28333333
     },
     {
-        "name": "Cedovim",
+        "name": "Цедова",
         "latitude": 41.03333333,
         "longitude": -7.31666667
     },
     {
-        "name": "Celorico da Beira",
+        "name": "Селорико-да-Бейра",
         "latitude": 40.63333333,
         "longitude": -7.4
     },
     {
-        "name": "Cercal",
+        "name": "Серкаль",
         "latitude": 39.23388889,
         "longitude": -8.99833333
     },
     {
-        "name": "Cerdeira",
+        "name": "Вишневое дерево",
         "latitude": 40.51416667,
         "longitude": -7.04666667
     },
     {
-        "name": "Cerejo",
+        "name": "Вишневое дерево",
         "latitude": 40.72944444,
         "longitude": -7.22361111
     },
     {
-        "name": "Charneca",
+        "name": "Хит",
         "latitude": 38.78527778,
         "longitude": -9.145
     },
     {
-        "name": "Ch\u00e3s",
+        "name": "Час",
         "latitude": 40.98972222,
         "longitude": -7.17027778
     },
     {
-        "name": "Cheleiros",
+        "name": "Челейрос",
         "latitude": 38.88972222,
         "longitude": -9.32888889
     },
     {
-        "name": "Codesseiro",
+        "name": "Кодировщик",
         "latitude": 40.65111111,
         "longitude": -7.205
     },
     {
-        "name": "Cogula",
+        "name": "Когула",
         "latitude": 40.81277778,
         "longitude": -7.26138889
     },
     {
-        "name": "Colares",
+        "name": "ожерелья",
         "latitude": 38.80206,
         "longitude": -9.46305
     },
     {
-        "name": "Cora\u00e7\u00e3o de Jesus",
+        "name": "Сердце Иисуса",
         "latitude": 38.72416667,
         "longitude": -9.145
     },
     {
-        "name": "Coriscada",
+        "name": "Корискада",
         "latitude": 40.86197,
         "longitude": -7.20372
     },
     {
-        "name": "Corti\u00e7ada",
+        "name": "Корк",
         "latitude": 40.765,
         "longitude": -7.54222222
     },
     {
-        "name": "Corti\u00e7\u00f4",
+        "name": "Многоквартирный дом",
         "latitude": 40.66305556,
         "longitude": -7.49472222
     },
     {
-        "name": "Corti\u00e7\u00f4 da Serra",
+        "name": "Кортисо да Серра",
         "latitude": 40.60124,
         "longitude": -7.43426
     },
     {
-        "name": "Coruche",
+        "name": "Корюш",
         "latitude": 40.79361111,
         "longitude": -7.54083333
     },
     {
-        "name": "Corujeira",
+        "name": "Сова",
         "latitude": 40.50609,
         "longitude": -7.32803
     },
     {
-        "name": "C\u00f3timos",
+        "name": "Котимос",
         "latitude": 40.8275,
         "longitude": -7.23972222
     },
     {
-        "name": "Cruz Quebrada - Dafundo",
+        "name": "Сломанный крест - Дафундо",
         "latitude": 38.70611111,
         "longitude": -9.25055556
     },
     {
-        "name": "Custoias",
+        "name": "Охранники",
         "latitude": 41.10527778,
         "longitude": -7.32083333
     },
     {
-        "name": "Damaia",
+        "name": "Мирный",
         "latitude": 38.74527778,
         "longitude": -9.21833333
     },
     {
-        "name": "Dois Portos",
+        "name": "Два порта",
         "latitude": 39.0384,
         "longitude": -9.18556
     },
     {
-        "name": "Dornelas",
+        "name": "Дорнелас",
         "latitude": 40.73105,
         "longitude": -7.55894
     },
     {
-        "name": "Eirado",
+        "name": "Эйрадо",
         "latitude": 40.77333333,
         "longitude": -7.49
     },
     {
-        "name": "Encarna\u00e7\u00e3o",
+        "name": "Воплощение",
         "latitude": 39.03333333,
         "longitude": -9.36805556
     },
     {
-        "name": "Enxara do Bispo",
+        "name": "Мотыга епископа",
         "latitude": 38.99194444,
         "longitude": -9.24083333
     },
     {
-        "name": "Ericeira",
+        "name": "Эрисейра",
         "latitude": 38.96277778,
         "longitude": -9.41527778
     },
     {
-        "name": "Ervas Tenras",
+        "name": "Нежные травы",
         "latitude": 40.74055556,
         "longitude": -7.18611111
     },
     {
-        "name": "Ervedosa",
+        "name": "Эрведоса",
         "latitude": 40.84694444,
         "longitude": -7.17611111
     },
     {
-        "name": "Escalh\u00e3o",
+        "name": "Эскальян",
         "latitude": 40.94944444,
         "longitude": -6.92611111
     },
     {
-        "name": "Estoril",
+        "name": "Эшторил",
         "latitude": 38.70571,
         "longitude": -9.39773
     },
     {
-        "name": "Faia",
+        "name": "Сделанный",
         "latitude": 40.56055556,
         "longitude": -7.31027778
     },
     {
-        "name": "Falagueira",
+        "name": "Фалагейра",
         "latitude": 38.75903,
         "longitude": -9.21988
     },
     {
-        "name": "Famalic\u00e3o",
+        "name": "Фамаликан",
         "latitude": 40.44361111,
         "longitude": -7.37722222
     },
     {
-        "name": "Fam\u00f5es",
+        "name": "Фамойнс",
         "latitude": 38.78333333,
         "longitude": -9.21666667
     },
     {
-        "name": "Fanh\u00f5es",
+        "name": "Фанхойнс",
         "latitude": 38.88111111,
         "longitude": -9.1525
     },
     {
-        "name": "Fern\u00e3o Joanes",
+        "name": "Фернан Жоанес",
         "latitude": 40.48694444,
         "longitude": -7.35527778
     },
     {
-        "name": "Fi\u00e3es",
+        "name": "Фиайнс",
         "latitude": 40.73305556,
         "longitude": -7.37305556
     },
     {
-        "name": "Figueira de Castelo Rodrigo",
+        "name": "Фигейра де Кастелу Родриго",
         "latitude": 40.9,
         "longitude": -6.96666667
     },
     {
-        "name": "Figueira do Guincho",
+        "name": "Фигейра-ду-Гиншу",
         "latitude": 38.75,
         "longitude": -9.46666667
     },
     {
-        "name": "Figueir\u00f3 da Granja",
+        "name": "Фигейра-да-Гранха",
         "latitude": 40.62805556,
         "longitude": -7.49916667
     },
     {
-        "name": "Figueir\u00f3 da Serra",
+        "name": "Фигейра-да-Серра",
         "latitude": 40.54055556,
         "longitude": -7.48888889
     },
     {
-        "name": "Figueiros",
+        "name": "Фигейрос",
         "latitude": 39.27946,
         "longitude": -9.05083
     },
     {
-        "name": "F\u00f3ios",
+        "name": "Также",
         "latitude": 40.28666667,
         "longitude": -6.8925
     },
     {
-        "name": "Folgosinho",
+        "name": "Фольгозиньо",
         "latitude": 40.50944444,
         "longitude": -7.51388889
     },
     {
-        "name": "Folhadosa",
+        "name": "Лиственный",
         "latitude": 40.37944444,
         "longitude": -7.78472222
     },
     {
-        "name": "Fontanelas",
+        "name": "Фонтанелас",
         "latitude": 38.85,
         "longitude": -9.43333333
     },
     {
-        "name": "Fonte Longa",
+        "name": "Длинный шрифт",
         "latitude": 41.01305556,
         "longitude": -7.23361111
     },
     {
-        "name": "Forninhos",
+        "name": "Духовки",
         "latitude": 40.70472222,
         "longitude": -7.55416667
     },
     {
-        "name": "Forno Telheiro",
+        "name": "Тельейру Духовка",
         "latitude": 40.67333333,
         "longitude": -7.39777778
     },
     {
-        "name": "Fornos de Algodres",
+        "name": "Альгодрес Духовки",
         "latitude": 40.61666667,
         "longitude": -7.53333333
     },
     {
-        "name": "Forte da Casa",
+        "name": "Дом Форт",
         "latitude": 38.87391,
         "longitude": -9.05216
     },
     {
-        "name": "Freches",
+        "name": "Непослушный",
         "latitude": 40.73166667,
         "longitude": -7.34638889
     },
     {
-        "name": "Freineda",
+        "name": "Фрейнеда",
         "latitude": 40.58305556,
         "longitude": -6.89111111
     },
     {
-        "name": "Freiria",
+        "name": "монастырь",
         "latitude": 39.02739,
         "longitude": -9.31995
     },
     {
-        "name": "Freixeda do Torr\u00e3o",
+        "name": "Фрейшеда-ду-Торран",
         "latitude": 40.89027778,
         "longitude": -7.03222222
     },
     {
-        "name": "Freixedas",
+        "name": "Фрейшедас",
         "latitude": 40.69194444,
         "longitude": -7.16305556
     },
     {
-        "name": "Freixo",
+        "name": "Пепел",
         "latitude": 40.61861111,
         "longitude": -7.01027778
     },
     {
-        "name": "Freixo de Num\u00e3o",
+        "name": "Нумао ясень",
         "latitude": 41.06666667,
         "longitude": -7.21666667
     },
     {
-        "name": "Frielas",
+        "name": "Фрилас",
         "latitude": 38.82583333,
         "longitude": -9.14444444
     },
     {
-        "name": "Gagos",
+        "name": "Гага",
         "latitude": 40.58388889,
         "longitude": -7.11472222
     },
     {
-        "name": "Girabolhos",
+        "name": "Жирабблс",
         "latitude": 40.50944444,
         "longitude": -7.73666667
     },
     {
-        "name": "Gon\u00e7alo",
+        "name": "Гонсалу",
         "latitude": 40.41666667,
         "longitude": -7.35
     },
     {
-        "name": "Gon\u00e7alo Bocas",
+        "name": "Гонсалу Бокас",
         "latitude": 40.57666667,
         "longitude": -7.1775
     },
     {
-        "name": "Gouveia",
+        "name": "Гувейя",
         "latitude": 40.5,
         "longitude": -7.6
     },
     {
-        "name": "Gra\u00e7a",
+        "name": "Милость",
         "latitude": 38.71722222,
         "longitude": -9.13083333
     },
     {
-        "name": "Gradil",
+        "name": "Он строил",
         "latitude": 38.98222222,
         "longitude": -9.28083333
     },
     {
-        "name": "Gradiz",
+        "name": "Градиз",
         "latitude": 40.85944444,
         "longitude": -7.52861111
     },
     {
-        "name": "Granja",
+        "name": "Ферма",
         "latitude": 40.75201,
         "longitude": -7.20428
     },
     {
-        "name": "Guarda",
+        "name": "Сторожить",
         "latitude": 40.53638889,
         "longitude": -7.26833333
     },
     {
-        "name": "Guilheiro",
+        "name": "Гилейро",
         "latitude": 40.89805556,
         "longitude": -7.40972222
     },
     {
-        "name": "Horta",
+        "name": "Орта",
         "latitude": 41.06777778,
         "longitude": -7.31055556
     },
     {
-        "name": "Igreja Nova",
+        "name": "Новая церковь",
         "latitude": 38.91694444,
         "longitude": -9.31944444
     },
     {
-        "name": "Infias",
+        "name": "Инфияс",
         "latitude": 40.63,
         "longitude": -7.53944444
     },
     {
-        "name": "Jarmelo S\u00e3o Miguel",
+        "name": "Ярмело Сан-Мигель",
         "latitude": 40.6004,
         "longitude": -7.14915
     },
     {
-        "name": "Jarmelo S\u00e3o Pedro",
+        "name": "Ярмело Сан-Педро",
         "latitude": 40.59447,
         "longitude": -7.13016
     },
     {
-        "name": "Jo\u00e3o Ant\u00e3o",
+        "name": "Жуан Антан",
         "latitude": 40.46443,
         "longitude": -7.2394
     },
     {
-        "name": "Jun\u00e7a",
+        "name": "Осока",
         "latitude": 40.68138889,
         "longitude": -6.88555556
     },
     {
-        "name": "Juncais",
+        "name": "Жункес",
         "latitude": 40.60944444,
         "longitude": -7.5075
     },
     {
-        "name": "Lagarinhos",
+        "name": "Лагариньос",
         "latitude": 40.48583333,
         "longitude": -7.66944444
     },
     {
-        "name": "Lajeosa",
+        "name": "Лахеоса",
         "latitude": 40.34353,
         "longitude": -6.81621
     },
     {
-        "name": "Lajeosa do Mondego",
+        "name": "Лазеоза-дю-Мондегу",
         "latitude": 40.6275,
         "longitude": -7.3375
     },
     {
-        "name": "Lajes",
+        "name": "Плиты",
         "latitude": 40.48361111,
         "longitude": -7.71638889
     },
     {
-        "name": "Lamas",
+        "name": "Ламы",
         "latitude": 39.21114,
         "longitude": -9.06151
     },
     {
-        "name": "Lamegal",
+        "name": "Ламегаль",
         "latitude": 40.665,
         "longitude": -7.07972222
     },
     {
-        "name": "Lameiras",
+        "name": "лижет",
         "latitude": 40.71138889,
         "longitude": -7.10444444
     },
     {
-        "name": "Lapa",
+        "name": "Лапа",
         "latitude": 38.71189,
         "longitude": -9.16007
     },
     {
-        "name": "Lapa Dos Dinheiros",
+        "name": "Лапа Дос Динейрос",
         "latitude": 40.37888889,
         "longitude": -7.70944444
     },
     {
-        "name": "Leomil",
+        "name": "Леомил",
         "latitude": 40.63527778,
         "longitude": -6.96416667
     },
     {
-        "name": "Linda-a-Velha",
+        "name": "Линда-а-Велья",
         "latitude": 38.71446,
         "longitude": -9.2422
     },
     {
-        "name": "Linhares (Celorico da Beira)",
+        "name": "Линарес (Селорико-да-Бейра)",
         "latitude": 40.54083333,
         "longitude": -7.46111111
     },
     {
-        "name": "Lisbon",
+        "name": "Лиссабон",
         "latitude": 38.71666667,
         "longitude": -9.16666667
     },
     {
-        "name": "Longroiva",
+        "name": "Тоска",
         "latitude": 40.98103,
         "longitude": -7.20334
     },
     {
-        "name": "Loriga",
+        "name": "Лорига",
         "latitude": 40.31666667,
         "longitude": -7.68333333
     },
     {
-        "name": "Loures",
+        "name": "Лурес",
         "latitude": 38.83333333,
         "longitude": -9.16666667
     },
     {
-        "name": "Lourinh\u00e3",
+        "name": "Лориньян",
         "latitude": 39.25,
         "longitude": -9.31666667
     },
     {
-        "name": "Lousa",
+        "name": "доска",
         "latitude": 38.89171,
         "longitude": -9.20972
     },
     {
-        "name": "Lumiar",
+        "name": "Люмиар",
         "latitude": 38.76527778,
         "longitude": -9.15861111
     },
     {
-        "name": "Ma\u00e7ainhas",
+        "name": "яблоки",
         "latitude": 40.53666667,
         "longitude": -7.3025
     },
     {
-        "name": "Ma\u00e7al do Ch\u00e3o",
+        "name": "Масал-дю-Чао",
         "latitude": 40.69171,
         "longitude": -7.29178
     },
     {
-        "name": "Maceira",
+        "name": "яблоня",
         "latitude": 40.68555556,
         "longitude": -7.47166667
     },
     {
-        "name": "Ma\u00e7ussa",
+        "name": "Макусса",
         "latitude": 39.19472222,
         "longitude": -8.86722222
     },
     {
-        "name": "Madalena",
+        "name": "Мадалена",
         "latitude": 38.71,
         "longitude": -9.13472222
     },
     {
-        "name": "Mafra",
+        "name": "Мафра",
         "latitude": 38.93333333,
         "longitude": -9.33333333
     },
     {
-        "name": "Malcata",
+        "name": "Мальката",
         "latitude": 40.2999,
         "longitude": -7.06147
     },
     {
-        "name": "Malhada Sorda",
+        "name": "Малхада Сорда",
         "latitude": 40.53638889,
         "longitude": -6.91444444
     },
     {
-        "name": "Malpartida",
+        "name": "Несоответствие",
         "latitude": 40.76,
         "longitude": -6.86666667
     },
     {
-        "name": "Malveira",
+        "name": "Мальвейра",
         "latitude": 38.93059,
         "longitude": -9.26165
     },
     {
-        "name": "Mangualde da Serra",
+        "name": "Мангуальде да Серра",
         "latitude": 40.46638889,
         "longitude": -7.62166667
     },
     {
-        "name": "Manigoto",
+        "name": "Манигото",
         "latitude": 40.70833333,
         "longitude": -7.07583333
     },
     {
-        "name": "Manique do Intendente",
+        "name": "Маникюр интенданта",
         "latitude": 39.22111111,
         "longitude": -8.89361111
     },
     {
-        "name": "Manteigas",
+        "name": "Баттерс",
         "latitude": 40.4,
         "longitude": -7.53333333
     },
     {
-        "name": "Manteigas (S\u00e3o Pedro)",
+        "name": "Мантейгас (Сан-Педро)",
         "latitude": 40.36611111,
         "longitude": -7.54611111
     },
     {
-        "name": "Marialva",
+        "name": "Мариальва",
         "latitude": 40.91,
         "longitude": -7.23166667
     },
     {
-        "name": "Marmeleiro",
+        "name": "Айва",
         "latitude": 40.46861111,
         "longitude": -7.11416667
     },
     {
-        "name": "Marteleira",
+        "name": "молоток",
         "latitude": 39.21305556,
         "longitude": -9.28333333
     },
     {
-        "name": "M\u00e1rtires",
+        "name": "Мученики",
         "latitude": 38.70861111,
         "longitude": -9.14166667
     },
     {
-        "name": "Marvila",
+        "name": "Марвила",
         "latitude": 38.74527778,
         "longitude": -9.10416667
     },
     {
-        "name": "Massam\u00e1",
+        "name": "Массама",
         "latitude": 38.75564,
         "longitude": -9.28427
     },
     {
-        "name": "Mata de Lobos",
+        "name": "Убийство волков",
         "latitude": 40.91691,
         "longitude": -6.88804
     },
     {
-        "name": "Matac\u00e3es",
+        "name": "Матакайнс",
         "latitude": 39.09277778,
         "longitude": -9.21222222
     },
     {
-        "name": "Matan\u00e7a",
+        "name": "Матанса",
         "latitude": 40.67888889,
         "longitude": -7.52888889
     },
     {
-        "name": "Maxial",
+        "name": "Максиальный",
         "latitude": 39.14301,
         "longitude": -9.16898
     },
     {
-        "name": "Meca",
+        "name": "Мека",
         "latitude": 39.08972222,
         "longitude": -9.02555556
     },
     {
-        "name": "M\u00eada",
+        "name": "Я из",
         "latitude": 40.96666667,
         "longitude": -7.26666667
     },
     {
-        "name": "Meios",
+        "name": "Означает",
         "latitude": 40.49361111,
         "longitude": -7.35916667
     },
     {
-        "name": "Melo",
+        "name": "Мело",
         "latitude": 40.51944444,
         "longitude": -7.53361111
     },
     {
-        "name": "Mem Martins",
+        "name": "Мем Мартинс",
         "latitude": 38.79443,
         "longitude": -9.34284
     },
     {
-        "name": "Merc\u00eas",
+        "name": "Мерсес",
         "latitude": 38.71611111,
         "longitude": -9.14888889
     },
     {
-        "name": "Mesquitela",
+        "name": "Мескительа",
         "latitude": 40.58805556,
         "longitude": -7.48944444
     },
     {
-        "name": "Milharado",
+        "name": "Мильярадо",
         "latitude": 38.94722222,
         "longitude": -9.19916667
     },
     {
-        "name": "Mina",
+        "name": "Мина",
         "latitude": 38.76166667,
         "longitude": -9.23611111
     },
     {
-        "name": "Minhocal",
+        "name": "Минхокаль",
         "latitude": 40.68944444,
         "longitude": -7.34666667
     },
     {
-        "name": "Mira-Sintra",
+        "name": "Мира-Синтра",
         "latitude": 38.78417,
         "longitude": -9.30148
     },
     {
-        "name": "Miragaia",
+        "name": "Мирагайя",
         "latitude": 39.23583333,
         "longitude": -9.265
     },
     {
-        "name": "Miuzela",
+        "name": "Иди ко мне",
         "latitude": 40.51055556,
         "longitude": -7.005
     },
     {
-        "name": "Mizarela",
+        "name": "Невзгоды",
         "latitude": 40.55746,
         "longitude": -7.34107
     },
     {
-        "name": "Moimenta da Serra",
+        "name": "Моймента да Серра",
         "latitude": 40.47359,
         "longitude": -7.63839
     },
     {
-        "name": "Moimentinha",
+        "name": "Мойментинья",
         "latitude": 40.74555556,
         "longitude": -7.22777778
     },
     {
-        "name": "Moita",
+        "name": "много",
         "latitude": 40.3,
         "longitude": -7.1975
     },
     {
-        "name": "Moita dos Ferreiros",
+        "name": "Большая часть кузнецов",
         "latitude": 39.24825,
         "longitude": -9.22355
     },
     {
-        "name": "Moledo",
+        "name": "Моледо",
         "latitude": 39.28388889,
         "longitude": -9.25722222
     },
     {
-        "name": "Monte Abra\u00e3o",
+        "name": "Гора Авраама",
         "latitude": 38.7584,
         "longitude": -9.26527
     },
     {
-        "name": "Monte Estoril",
+        "name": "Гора Эшторил",
         "latitude": 38.70636,
         "longitude": -9.40595
     },
     {
-        "name": "Monte Redondo",
+        "name": "Гора Редондо",
         "latitude": 39.115,
         "longitude": -9.20444444
     },
     {
-        "name": "Montelavar",
+        "name": "Монтелавар",
         "latitude": 38.86968,
         "longitude": -9.31581
     },
     {
-        "name": "Moreira de Rei",
+        "name": "Морейра де Рей",
         "latitude": 40.83915,
         "longitude": -7.32316
     },
     {
-        "name": "M\u00f3s",
+        "name": "Моисей",
         "latitude": 41.11306,
         "longitude": -7.19717
     },
     {
-        "name": "Moscavide",
+        "name": "Москва",
         "latitude": 38.77929,
         "longitude": -9.10222
     },
     {
-        "name": "Mur\u00e7a",
+        "name": "Мурса",
         "latitude": 41.10055556,
         "longitude": -7.23138889
     },
     {
-        "name": "Muxagata",
+        "name": "Муксагата",
         "latitude": 41.03611111,
         "longitude": -7.15
     },
     {
-        "name": "Nabais",
+        "name": "Набайцы",
         "latitude": 40.52,
         "longitude": -7.55555556
     },
     {
-        "name": "Nave",
+        "name": "Неф",
         "latitude": 40.39821,
         "longitude": -6.9603
     },
     {
-        "name": "Nave de Haver",
+        "name": "Нав-де-Хавер",
         "latitude": 40.52166667,
         "longitude": -6.83416667
     },
     {
-        "name": "Nespereira",
+        "name": "Медлар",
         "latitude": 40.51722222,
         "longitude": -7.60972222
     },
     {
-        "name": "Nossa Senhora de F\u00e1tima",
+        "name": "Богоматерь Фатима",
         "latitude": 38.73916667,
         "longitude": -9.15083333
     },
     {
-        "name": "Num\u00e3o",
+        "name": "Нуман",
         "latitude": 41.0975,
         "longitude": -7.29111111
     },
     {
-        "name": "Odivelas",
+        "name": "Одивелас",
         "latitude": 38.8,
         "longitude": -9.18333333
     },
     {
-        "name": "Odivelas Municipality",
+        "name": "Муниципалитет Одивелаш",
         "latitude": 38.79705,
         "longitude": -9.19108
     },
     {
-        "name": "Oeiras",
+        "name": "Оэйрас",
         "latitude": 38.69704444,
         "longitude": -9.30165278
     },
     {
-        "name": "Oeiras e S\u00e3o Juli\u00e3o da Barra",
+        "name": "Оэйрас и Сан-Жулиан-да-Барра",
         "latitude": 38.69722222,
         "longitude": -9.30833333
     },
     {
-        "name": "Olhalvo",
+        "name": "Ольхалво",
         "latitude": 39.09861111,
         "longitude": -9.06388889
     },
     {
-        "name": "Olival de Basto",
+        "name": "Оливковая роща Басто",
         "latitude": 38.79083333,
         "longitude": -9.16722222
     },
     {
-        "name": "Olival do Basto",
+        "name": "Оливковая роща Басто",
         "latitude": 38.79083333,
         "longitude": -9.16611111
     },
     {
-        "name": "Ota",
+        "name": "Ота",
         "latitude": 39.11,
         "longitude": -8.98972222
     },
     {
-        "name": "Outeiro da Cabe\u00e7a",
+        "name": "Оутейра-да-Кабеса",
         "latitude": 39.19222222,
         "longitude": -9.18222222
     },
     {
-        "name": "Outeiro de Gatos",
+        "name": "Оутейро-де-Гатос",
         "latitude": 40.95222222,
         "longitude": -7.30222222
     },
     {
-        "name": "Pa\u00e7o de Arcos",
+        "name": "Пасу де Аркос",
         "latitude": 38.695,
         "longitude": -9.29361111
     },
     {
-        "name": "Pa\u00e7os da Serra",
+        "name": "Пастёр-да-Серра",
         "latitude": 40.45972222,
         "longitude": -7.65055556
     },
     {
-        "name": "Painho",
+        "name": "Пайно",
         "latitude": 39.30222222,
         "longitude": -9.04944444
     },
     {
-        "name": "Pala",
+        "name": "Пала",
         "latitude": 40.76305556,
         "longitude": -7.15111111
     },
     {
-        "name": "Palhais",
+        "name": "Палайс",
         "latitude": 40.81666667,
         "longitude": -7.43
     },
     {
-        "name": "Panoias de Cima",
+        "name": "Панохас-де-Сима",
         "latitude": 40.49777778,
         "longitude": -7.23277778
     },
     {
-        "name": "Parada",
+        "name": "Останавливаться",
         "latitude": 40.53972222,
         "longitude": -7.03777778
     },
     {
-        "name": "Paranhos",
+        "name": "Параньос",
         "latitude": 40.48635,
         "longitude": -7.79454
     },
     {
-        "name": "Parede",
+        "name": "Стена",
         "latitude": 38.69328,
         "longitude": -9.35695
     },
     {
-        "name": "Pega",
+        "name": "Пега",
         "latitude": 40.42861111,
         "longitude": -7.14444444
     },
     {
-        "name": "Pena",
+        "name": "Пена",
         "latitude": 38.72138889,
         "longitude": -9.14
     },
     {
-        "name": "Pena Lobo",
+        "name": "Пенья Вольф",
         "latitude": 40.39277778,
         "longitude": -7.20388889
     },
     {
-        "name": "Pena Verde",
+        "name": "Зеленое перо",
         "latitude": 40.72833333,
         "longitude": -7.50527778
     },
     {
-        "name": "Penha de \u00c1guia",
+        "name": "Орел Пенья",
         "latitude": 40.86636,
         "longitude": -7.06814
     },
     {
-        "name": "Penha de Fran\u00e7a",
+        "name": "Пенья де Франс",
         "latitude": 38.73,
         "longitude": -9.13166667
     },
     {
-        "name": "P\u00eara do Mo\u00e7o",
+        "name": "Пера-ду-Мосо",
         "latitude": 40.61305556,
         "longitude": -7.20972222
     },
     {
-        "name": "Peral",
+        "name": "грушевое дерево",
         "latitude": 39.26166667,
         "longitude": -9.07444444
     },
     {
-        "name": "Pereiro",
+        "name": "Перейро",
         "latitude": 40.735,
         "longitude": -7.01305556
     },
     {
-        "name": "Pereiro de Palhacana",
+        "name": "Перейро де Палхакана",
         "latitude": 39.04277778,
         "longitude": -9.10888889
     },
     {
-        "name": "P\u00earo Moniz",
+        "name": "Перо Мониш",
         "latitude": 39.22138889,
         "longitude": -9.12361111
     },
     {
-        "name": "Pero Pinheiro",
+        "name": "Перо Пиньейру",
         "latitude": 38.8399,
         "longitude": -9.32066
     },
     {
-        "name": "Peva",
+        "name": "Пева",
         "latitude": 40.66472222,
         "longitude": -6.99083333
     },
     {
-        "name": "Pinhan\u00e7os",
+        "name": "кедровые орехи",
         "latitude": 40.46638889,
         "longitude": -7.68305556
     },
     {
-        "name": "Pinheiro",
+        "name": "Пиньейру",
         "latitude": 40.80083333,
         "longitude": -7.59833333
     },
     {
-        "name": "Pinhel",
+        "name": "Пинхель",
         "latitude": 40.78333333,
         "longitude": -7.06666667
     },
     {
-        "name": "P\u00ednzio",
+        "name": "Пинцио",
         "latitude": 40.6025,
         "longitude": -7.06527778
     },
     {
-        "name": "Po\u00e7o do Canto",
+        "name": "Посу-ду-Канто",
         "latitude": 40.99944444,
         "longitude": -7.26833333
     },
     {
-        "name": "Pomares",
+        "name": "Сады",
         "latitude": 40.64305556,
         "longitude": -7.13805556
     },
     {
-        "name": "Ponte do Rol",
+        "name": "Роль мост",
         "latitude": 39.09277778,
         "longitude": -9.31916667
     },
     {
-        "name": "Pontinha",
+        "name": "Понтинья",
         "latitude": 38.777,
         "longitude": -9.20377
     },
     {
-        "name": "Portela",
+        "name": "Портела",
         "latitude": 38.78277778,
         "longitude": -9.11111111
     },
     {
-        "name": "Porto da Carne",
+        "name": "я приношу мясо",
         "latitude": 40.60527778,
         "longitude": -7.29222222
     },
     {
-        "name": "Porto Salvo",
+        "name": "Порто-Сальво",
         "latitude": 38.71722222,
         "longitude": -9.29916667
     },
     {
-        "name": "Pousada",
+        "name": "гостиница",
         "latitude": 40.54722222,
         "longitude": -7.12611111
     },
     {
-        "name": "Pousafoles do Bispo",
+        "name": "Пусафолы епископа",
         "latitude": 40.41222222,
         "longitude": -7.17916667
     },
     {
-        "name": "P\u00f3voa de Santa Iria",
+        "name": "Повуа-де-Санта-Ирия",
         "latitude": 38.86111111,
         "longitude": -9.06444444
     },
     {
-        "name": "P\u00f3voa de Santo Adri\u00e3o",
+        "name": "Повуа-ди-Санту-Адриан",
         "latitude": 38.80016,
         "longitude": -9.16395
     },
     {
-        "name": "P\u00f3voa do Concelho",
+        "name": "Повуа-ду-Конселью",
         "latitude": 40.75972222,
         "longitude": -7.26638889
     },
     {
-        "name": "Prados",
+        "name": "Луга",
         "latitude": 40.56138889,
         "longitude": -7.37666667
     },
     {
-        "name": "Prazeres",
+        "name": "Удовольствия",
         "latitude": 38.70888889,
         "longitude": -9.16888889
     },
     {
-        "name": "Prior Velho",
+        "name": "Приор Велью",
         "latitude": 38.79194444,
         "longitude": -9.12083333
     },
     {
-        "name": "Prova",
+        "name": "Пробный",
         "latitude": 40.9125,
         "longitude": -7.34194444
     },
     {
-        "name": "Quadrazais",
+        "name": "Квадрасе",
         "latitude": 40.32472222,
         "longitude": -6.99833333
     },
     {
-        "name": "Queijas",
+        "name": "Сыры",
         "latitude": 38.72236,
         "longitude": -9.26593
     },
     {
-        "name": "Queiriz",
+        "name": "Кейрис",
         "latitude": 40.73596,
         "longitude": -7.44999
     },
     {
-        "name": "Queluz",
+        "name": "Келуш",
         "latitude": 38.75657,
         "longitude": -9.25451
     },
     {
-        "name": "Quint\u00e3 de P\u00earo Martins",
+        "name": "Кинта де Перо Мартинс",
         "latitude": 40.88194444,
         "longitude": -7.08305556
     },
     {
-        "name": "Quintas de S\u00e3o Bartolomeu",
+        "name": "Кинтас де Сан Бартоломео",
         "latitude": 40.37138889,
         "longitude": -7.09861111
     },
     {
-        "name": "Raba\u00e7al",
+        "name": "Рабасал",
         "latitude": 40.8625,
         "longitude": -7.24941
     },
     {
-        "name": "Ramada",
+        "name": "Рамада",
         "latitude": 38.80361111,
         "longitude": -9.19111111
     },
     {
-        "name": "Ramalhal",
+        "name": "Рамалхал",
         "latitude": 39.14472222,
         "longitude": -9.23222222
     },
     {
-        "name": "Ramela",
+        "name": "Рамела",
         "latitude": 40.47777778,
         "longitude": -7.25888889
     },
     {
-        "name": "Ranhados",
+        "name": "Ранхадос",
         "latitude": 40.99527778,
         "longitude": -7.32944444
     },
     {
-        "name": "Rapa",
+        "name": "Рапа",
         "latitude": 40.58416667,
         "longitude": -7.34555556
     },
     {
-        "name": "Rapoula do C\u00f4a",
+        "name": "Рапула-дю-Коа",
         "latitude": 40.42111111,
         "longitude": -7.0475
     },
     {
-        "name": "Ratoeira",
+        "name": "Мышеловка",
         "latitude": 40.64027778,
         "longitude": -7.35361111
     },
     {
-        "name": "Reboleira",
+        "name": "Реболейра",
         "latitude": 38.75083333,
         "longitude": -9.23027778
     },
     {
-        "name": "Reboleiro",
+        "name": "Реболейро",
         "latitude": 40.8325,
         "longitude": -7.41888889
     },
     {
-        "name": "Rebolosa",
+        "name": "Реболоса",
         "latitude": 40.42361111,
         "longitude": -6.91111111
     },
     {
-        "name": "Reguengo Grande",
+        "name": "Регенго Гранде",
         "latitude": 39.28722222,
         "longitude": -9.21472222
     },
     {
-        "name": "Reigada",
+        "name": "Рейгада",
         "latitude": 40.80444444,
         "longitude": -6.94805556
     },
     {
-        "name": "Rendo",
+        "name": "я возвращаюсь",
         "latitude": 40.37972222,
         "longitude": -7.04444444
     },
     {
-        "name": "Ribafria",
+        "name": "Рибафрия",
         "latitude": 39.06194444,
         "longitude": -9.09472222
     },
     {
-        "name": "Ribamar",
+        "name": "Рибамар",
         "latitude": 39.2025,
         "longitude": -9.3325
     },
     {
-        "name": "Ribamondego",
+        "name": "Рибамондего",
         "latitude": 40.56805556,
         "longitude": -7.58138889
     },
     {
-        "name": "Ribeira Dos Carinhos",
+        "name": "Рибейра душ Кариньос",
         "latitude": 40.62138889,
         "longitude": -7.14222222
     },
     {
-        "name": "Rio de Mel",
+        "name": "Рио-де-Мель",
         "latitude": 40.80777778,
         "longitude": -7.39361111
     },
     {
-        "name": "Rio de Mouro",
+        "name": "Рио-де-Муро",
         "latitude": 38.76889,
         "longitude": -9.33273
     },
     {
-        "name": "Rio Torto",
+        "name": "Кривая река",
         "latitude": 40.50916667,
         "longitude": -7.65694444
     },
     {
-        "name": "Rochoso",
+        "name": "Рокки",
         "latitude": 40.51638889,
         "longitude": -7.09333333
     },
     {
-        "name": "Runa",
+        "name": "Речь",
         "latitude": 39.06527778,
         "longitude": -9.20888889
     },
     {
-        "name": "Ruvina",
+        "name": "Руины",
         "latitude": 40.415,
         "longitude": -7.01055556
     },
     {
-        "name": "Sabugal",
+        "name": "Сабугал",
         "latitude": 40.35,
         "longitude": -7.08333333
     },
     {
-        "name": "Sabugueiro",
+        "name": "Бузина",
         "latitude": 40.40194444,
         "longitude": -7.63972222
     },
     {
-        "name": "Sacav\u00e9m",
+        "name": "Сакавем",
         "latitude": 38.79442,
         "longitude": -9.10533
     },
     {
-        "name": "Sacramento",
+        "name": "Сакраменто",
         "latitude": 38.71222222,
         "longitude": -9.14
     },
     {
-        "name": "Safurd\u00e3o",
+        "name": "Сафурдао",
         "latitude": 40.63694444,
         "longitude": -7.06888889
     },
     {
-        "name": "Salgueirais",
+        "name": "Ивы",
         "latitude": 40.57445,
         "longitude": -7.42247
     },
     {
-        "name": "Sameice",
+        "name": "Самице",
         "latitude": 40.43444444,
         "longitude": -7.77611111
     },
     {
-        "name": "Sameiro",
+        "name": "Самейро",
         "latitude": 40.40916667,
         "longitude": -7.49
     },
     {
-        "name": "Sandomil",
+        "name": "Сандомил",
         "latitude": 40.35805556,
         "longitude": -7.78277778
     },
     {
-        "name": "Santa B\u00e1rbara",
+        "name": "Святая Варвара",
         "latitude": 39.21,
         "longitude": -9.31388889
     },
     {
-        "name": "Santa Catarina",
+        "name": "Святая Катарина",
         "latitude": 38.71138889,
         "longitude": -9.14805556
     },
     {
-        "name": "Santa Comba",
+        "name": "Санта-Комб",
         "latitude": 40.45055556,
         "longitude": -7.71472222
     },
     {
-        "name": "Santa Engr\u00e1cia",
+        "name": "Санта-Энграсия",
         "latitude": 38.71916667,
         "longitude": -9.11972222
     },
     {
-        "name": "Santa Euf\u00e9mia",
+        "name": "Святая Евфимия",
         "latitude": 40.79833333,
         "longitude": -7.18083333
     },
     {
-        "name": "Santa Eul\u00e1lia",
+        "name": "Санта-Эулалия",
         "latitude": 40.41439,
         "longitude": -7.78717
     },
     {
-        "name": "Santa Iria da Az\u00f3ia",
+        "name": "Санта-Ириа-да-Азоя",
         "latitude": 38.84629,
         "longitude": -9.08748
     },
     {
-        "name": "Santa Iria de Azoia",
+        "name": "Святая Ирия Азойская",
         "latitude": 38.84638889,
         "longitude": -9.08805556
     },
     {
-        "name": "Santa Isabel",
+        "name": "Святая Елизавета",
         "latitude": 38.71861111,
         "longitude": -9.15833333
     },
     {
-        "name": "Santa Justa",
+        "name": "Сен-Жюст",
         "latitude": 38.71555556,
         "longitude": -9.13638889
     },
     {
-        "name": "Santa Maria",
+        "name": "Санта Мария",
         "latitude": 40.42388889,
         "longitude": -7.52138889
     },
     {
-        "name": "Santa Maria de Bel\u00e9m",
+        "name": "Святая Мария Вифлеемская",
         "latitude": 38.69911,
         "longitude": -9.20867
     },
     {
-        "name": "Santa Maria do Castelo e S\u00e3o Miguel",
+        "name": "Санта-Мария-ду-Каштелу и Сан-Мигель",
         "latitude": 39.10864,
         "longitude": -9.23907
     },
     {
-        "name": "Santa Maria dos Olivais",
+        "name": "Санта-Мария-дос-Оливаис",
         "latitude": 38.76989,
         "longitude": -9.12073
     },
     {
-        "name": "Santa Maria e S\u00e3o Miguel",
+        "name": "Санта-Мария и Сан-Мигель",
         "latitude": 38.80083333,
         "longitude": -9.37944444
     },
     {
-        "name": "Santa Marinha",
+        "name": "Санта-Маринья",
         "latitude": 40.45027778,
         "longitude": -7.66333333
     },
     {
-        "name": "Santana da Azinha",
+        "name": "Сантана-да-Азинья",
         "latitude": 40.47361111,
         "longitude": -7.20916667
     },
     {
-        "name": "Santiago",
+        "name": "Сантьяго",
         "latitude": 40.42388889,
         "longitude": -7.72916667
     },
     {
-        "name": "Santiago dos Velhos",
+        "name": "Сантьяго-дус-Велуш",
         "latitude": 38.94166667,
         "longitude": -9.10361111
     },
     {
-        "name": "Santo Ant\u00e3o do Tojal",
+        "name": "Санту-Антан-ду-Тоджал",
         "latitude": 38.85361111,
         "longitude": -9.14305556
     },
     {
-        "name": "Santo Ant\u00f3nio dos Cavaleiros",
+        "name": "Святой Антоний Рыцарский",
         "latitude": 38.81166667,
         "longitude": -9.16111111
     },
     {
-        "name": "Santo Condest\u00e1vel",
+        "name": "Святой Констебль",
         "latitude": 38.71527778,
         "longitude": -9.16694444
     },
     {
-        "name": "Santo Est\u00eav\u00e3o",
+        "name": "Святой Стефан",
         "latitude": 39.04222222,
         "longitude": -9.01583333
     },
     {
-        "name": "Santo Est\u00eav\u00e3o das Gal\u00e9s",
+        "name": "Святой Стефан Уэльский",
         "latitude": 38.89008,
         "longitude": -9.25066
     },
     {
-        "name": "Santo Isidoro",
+        "name": "Святой Исидор",
         "latitude": 38.99361111,
         "longitude": -9.39861111
     },
     {
-        "name": "Santo Quintino",
+        "name": "Святой Квинтин",
         "latitude": 39.00611111,
         "longitude": -9.14972222
     },
     {
-        "name": "Santos-o-Velho",
+        "name": "Сантос-о-Велью",
         "latitude": 38.70694444,
         "longitude": -9.15638889
     },
     {
-        "name": "S\u00e3o Bartolomeu",
+        "name": "Святой Варфоломей",
         "latitude": 39.27511,
         "longitude": -9.27885
     },
     {
-        "name": "S\u00e3o Bartolomeu dos Galegos",
+        "name": "Святой Варфоломей Галегос",
         "latitude": 39.27583333,
         "longitude": -9.27944444
     },
     {
-        "name": "S\u00e3o Br\u00e1s",
+        "name": "Сан-Блас",
         "latitude": 38.7675,
         "longitude": -9.23305556
     },
     {
-        "name": "S\u00e3o Crist\u00f3v\u00e3o e S\u00e3o Louren\u00e7o",
+        "name": "Сент-Китс и Сент-Лоуренс",
         "latitude": 38.71277778,
         "longitude": -9.13555556
     },
     {
-        "name": "S\u00e3o Domingos de Benfica",
+        "name": "Сан-Домингуш де Бенфика",
         "latitude": 38.74361111,
         "longitude": -9.17
     },
     {
-        "name": "S\u00e3o Domingos de Rana",
+        "name": "Сан Домингес де Рана",
         "latitude": 38.70123,
         "longitude": -9.3276
     },
     {
-        "name": "S\u00e3o Francisco Xavier",
+        "name": "Святой Франциск Ксаверий",
         "latitude": 38.70722222,
         "longitude": -9.21722222
     },
     {
-        "name": "S\u00e3o Jo\u00e3o",
+        "name": "Сент-Джон",
         "latitude": 38.72888889,
         "longitude": -9.12277778
     },
     {
-        "name": "S\u00e3o Jo\u00e3o da Talha",
+        "name": "Сан-Хуан-да-Талья",
         "latitude": 38.82583333,
         "longitude": -9.09222222
     },
     {
-        "name": "S\u00e3o Jo\u00e3o das Lampas",
+        "name": "Святой Иоанн Светильников",
         "latitude": 38.87,
         "longitude": -9.42111111
     },
     {
-        "name": "S\u00e3o Jo\u00e3o de Brito",
+        "name": "Святой Иоанн Британский",
         "latitude": 38.755,
         "longitude": -9.13777778
     },
     {
-        "name": "S\u00e3o Jo\u00e3o de Deus",
+        "name": "Святой Иоанн Божий",
         "latitude": 38.74027778,
         "longitude": -9.13777778
     },
     {
-        "name": "S\u00e3o Jo\u00e3o Dos Montes",
+        "name": "Сан-Жуан-дус-Монтес",
         "latitude": 38.95166,
         "longitude": -9.05449
     },
     {
-        "name": "S\u00e3o Jorge de Arroios",
+        "name": "Сан-Хорхе де Арройос",
         "latitude": 38.72888889,
         "longitude": -9.13888889
     },
     {
-        "name": "S\u00e3o Jos\u00e9",
+        "name": "Сан - Хосе",
         "latitude": 38.71805556,
         "longitude": -9.1425
     },
     {
-        "name": "S\u00e3o Juli\u00e3o",
+        "name": "Сент-Джулиан",
         "latitude": 40.48757,
         "longitude": -7.59498
     },
     {
-        "name": "S\u00e3o Juli\u00e3o do Tojal",
+        "name": "Сан-Жулиан-ду-Тоджал",
         "latitude": 38.85805556,
         "longitude": -9.13555556
     },
     {
-        "name": "S\u00e3o Mamede",
+        "name": "Святой Мамед",
         "latitude": 38.72023,
         "longitude": -9.15298
     },
     {
-        "name": "S\u00e3o Marcos",
+        "name": "Святой Марк",
         "latitude": 38.75624,
         "longitude": -9.29731
     },
     {
-        "name": "S\u00e3o Martinho",
+        "name": "Сен-Мартен",
         "latitude": 40.44305556,
         "longitude": -7.67194444
     },
     {
-        "name": "S\u00e3o Miguel",
+        "name": "Сент-Майкл",
         "latitude": 38.71111111,
         "longitude": -9.12944444
     },
     {
-        "name": "S\u00e3o Miguel da Guarda",
+        "name": "Сан-Мигель да Гуарда",
         "latitude": 40.55555556,
         "longitude": -7.24611111
     },
     {
-        "name": "S\u00e3o Miguel de Alcain\u00e7a",
+        "name": "Сан-Мигель-де-Алькаинка",
         "latitude": 38.92111111,
         "longitude": -9.29583333
     },
     {
-        "name": "S\u00e3o Nicolau",
+        "name": "Святого Николая",
         "latitude": 38.7075,
         "longitude": -9.13666667
     },
     {
-        "name": "S\u00e3o Paio",
+        "name": "Сан-Пайо",
         "latitude": 40.51527778,
         "longitude": -7.58222222
     },
     {
-        "name": "S\u00e3o Paulo",
+        "name": "Сан-Паулу",
         "latitude": 38.7076,
         "longitude": -9.14707
     },
     {
-        "name": "S\u00e3o Pedro",
+        "name": "Святой Петр",
         "latitude": 40.63222222,
         "longitude": -7.38138889
     },
     {
-        "name": "S\u00e3o Pedro da Cadeira",
+        "name": "Святой Петр Кафедральный",
         "latitude": 39.06972222,
         "longitude": -9.37166667
     },
     {
-        "name": "S\u00e3o Pedro de Penaferrim",
+        "name": "Святой Петр Пенаферримский",
         "latitude": 38.76947,
         "longitude": -9.38963
     },
     {
-        "name": "S\u00e3o Pedro de Rio Seco",
+        "name": "Сан-Педро-де-Риу-Секо",
         "latitude": 40.66194444,
         "longitude": -6.83916667
     },
     {
-        "name": "S\u00e3o Rom\u00e3o",
+        "name": "Сан-Ромао",
         "latitude": 40.40194444,
         "longitude": -7.71694444
     },
     {
-        "name": "S\u00e3o Sebasti\u00e3o da Pedreira",
+        "name": "Сан-Себастьян-да-Педрейра",
         "latitude": 38.73083333,
         "longitude": -9.14916667
     },
     {
-        "name": "S\u00e3o Vicente",
+        "name": "Сент-Винсент",
         "latitude": 40.53979,
         "longitude": -7.23536
     },
     {
-        "name": "S\u00e3o Vicente de Fora",
+        "name": "Сан-Висенте-де-Фора",
         "latitude": 38.71583333,
         "longitude": -9.12416667
     },
     {
-        "name": "Sapataria",
+        "name": "Обувной магазин",
         "latitude": 38.97188,
         "longitude": -9.20195
     },
     {
-        "name": "Sazes da Beira",
+        "name": "Сазес-да-Бейра",
         "latitude": 40.34888889,
         "longitude": -7.73527778
     },
     {
-        "name": "S\u00e9",
+        "name": "Видеть",
         "latitude": 40.53861111,
         "longitude": -7.26916667
     },
     {
-        "name": "Sebadelhe",
+        "name": "Они сдались",
         "latitude": 41.05222222,
         "longitude": -7.26972222
     },
     {
-        "name": "Sebadelhe da Serra",
+        "name": "Себаделье-да-Серра",
         "latitude": 40.87111111,
         "longitude": -7.39833333
     },
     {
-        "name": "Seia",
+        "name": "До",
         "latitude": 40.42027778,
         "longitude": -7.70333333
     },
     {
-        "name": "Seixas",
+        "name": "Сейшас",
         "latitude": 41.11196,
         "longitude": -7.25251
     },
     {
-        "name": "Seixo do C\u00f4a",
+        "name": "Сейшу-ду-Коа",
         "latitude": 40.46305556,
         "longitude": -7.02666667
     },
     {
-        "name": "Sequeira",
+        "name": "Секейра",
         "latitude": 40.55361111,
         "longitude": -7.22583333
     },
     {
-        "name": "Sequeiros",
+        "name": "Земснаряды",
         "latitude": 40.83714,
         "longitude": -7.49803
     },
     {
-        "name": "Silveira",
+        "name": "Сильвейра",
         "latitude": 39.11111111,
         "longitude": -9.36416667
     },
     {
-        "name": "Sintra",
+        "name": "Синтра",
         "latitude": 38.79736111,
         "longitude": -9.39041667
     },
     {
-        "name": "Sintra (town)",
+        "name": "Синтра (город)",
         "latitude": 38.81439,
         "longitude": -9.3837
     },
     {
-        "name": "Sobral da Abelheira",
+        "name": "Собрал да Абелейра",
         "latitude": 38.99833333,
         "longitude": -9.32916667
     },
     {
-        "name": "Sobral da Serra",
+        "name": "Собрал да Серра",
         "latitude": 40.61916667,
         "longitude": -7.27972222
     },
     {
-        "name": "Sobral de Monte Agra\u00e7o",
+        "name": "Собрал де Монте Аграсо",
         "latitude": 39.01666667,
         "longitude": -9.15
     },
     {
-        "name": "Sobral Pichorro",
+        "name": "Собрал Пичорро",
         "latitude": 40.69073,
         "longitude": -7.45598
     },
     {
-        "name": "Sobralinho",
+        "name": "Собралиньо",
         "latitude": 38.9175,
         "longitude": -9.02611111
     },
     {
-        "name": "Socorro",
+        "name": "Сокорро",
         "latitude": 38.71666667,
         "longitude": -9.13444444
     },
     {
-        "name": "Sortelha",
+        "name": "Сортелья",
         "latitude": 40.33138889,
         "longitude": -7.21138889
     },
     {
-        "name": "Souro Pires",
+        "name": "Суро Пирес",
         "latitude": 40.745,
         "longitude": -7.12472222
     },
     {
-        "name": "Souto",
+        "name": "роща",
         "latitude": 40.35666667,
         "longitude": -6.95833333
     },
     {
-        "name": "Souto de Aguiar da Beira",
+        "name": "К югу от Агиар-да-Бейра",
         "latitude": 40.81075,
         "longitude": -7.49244
     },
     {
-        "name": "Souto Maior",
+        "name": "Соуто Майор",
         "latitude": 40.79686,
         "longitude": -7.3141
     },
     {
-        "name": "Tamanhos",
+        "name": "Размеры",
         "latitude": 40.76166667,
         "longitude": -7.31555556
     },
     {
-        "name": "Teixeira",
+        "name": "Тейшейра",
         "latitude": 40.25333333,
         "longitude": -7.74166667
     },
     {
-        "name": "Terrenho",
+        "name": "Земля",
         "latitude": 40.86611111,
         "longitude": -7.35416667
     },
     {
-        "name": "Terrugem",
+        "name": "Боюсь",
         "latitude": 38.85111111,
         "longitude": -9.37472222
     },
     {
-        "name": "Torre do Terrenho",
+        "name": "Рельефная башня",
         "latitude": 40.88888889,
         "longitude": -7.35944444
     },
     {
-        "name": "Torres",
+        "name": "Торрес",
         "latitude": 40.74833333,
         "longitude": -7.31916667
     },
     {
-        "name": "Torres Vedras",
+        "name": "Торреш Ведрас",
         "latitude": 39.08333333,
         "longitude": -9.26666667
     },
     {
-        "name": "Torrozelo",
+        "name": "Торрозело",
         "latitude": 40.38611111,
         "longitude": -7.76027778
     },
     {
-        "name": "Tou\u00e7a",
+        "name": "Кепка",
         "latitude": 41.04722222,
         "longitude": -7.23388889
     },
     {
-        "name": "Tourais",
+        "name": "Туре",
         "latitude": 40.47138889,
         "longitude": -7.75083333
     },
     {
-        "name": "Trancoso",
+        "name": "Транкозо",
         "latitude": 40.7833,
         "longitude": -7.35
     },
     {
-        "name": "Travancinha",
+        "name": "Травансинья",
         "latitude": 40.42234,
         "longitude": -7.82175
     },
     {
-        "name": "Triana",
+        "name": "Триана",
         "latitude": 39.06988,
         "longitude": -8.9866
     },
     {
-        "name": "Trinta",
+        "name": "Тридцать",
         "latitude": 40.50444444,
         "longitude": -7.35527778
     },
     {
-        "name": "Turcifal",
+        "name": "Турцифаль",
         "latitude": 39.03578,
         "longitude": -9.26017
     },
     {
-        "name": "Unhos",
+        "name": "гвозди",
         "latitude": 38.82583333,
         "longitude": -9.12138889
     },
     {
-        "name": "Valbom",
+        "name": "Валбом",
         "latitude": 40.78055556,
         "longitude": -7.12888889
     },
     {
-        "name": "Valdujo",
+        "name": "Правило",
         "latitude": 40.845,
         "longitude": -7.26694444
     },
     {
-        "name": "Vale da Mula",
+        "name": "Это действительно из Мулы.",
         "latitude": 40.70361111,
         "longitude": -6.82361111
     },
     {
-        "name": "Vale de Amoreira",
+        "name": "Долина Аморейра",
         "latitude": 40.41416667,
         "longitude": -7.44138889
     },
     {
-        "name": "Vale de Azares",
+        "name": "Азарская долина",
         "latitude": 40.60492,
         "longitude": -7.36421
     },
     {
-        "name": "Vale de Espinho",
+        "name": "Эспиньо Вэлли",
         "latitude": 40.29694444,
         "longitude": -6.95055556
     },
     {
-        "name": "Vale de Estrela",
+        "name": "Долина Эштрела",
         "latitude": 40.49944444,
         "longitude": -7.30777778
     },
     {
-        "name": "Vale do Para\u00edso",
+        "name": "Райская долина",
         "latitude": 39.11555556,
         "longitude": -8.88583333
     },
     {
-        "name": "Vale do Seixo",
+        "name": "Долина Сейшо",
         "latitude": 40.79291,
         "longitude": -7.27266
     },
     {
-        "name": "Vale Flor",
+        "name": "Хорошо, цветок",
         "latitude": 40.91277778,
         "longitude": -7.28222222
     },
     {
-        "name": "Valezim",
+        "name": "Пойдем",
         "latitude": 40.35889,
         "longitude": -7.70831
     },
     {
-        "name": "Valhelhas",
+        "name": "Вальельяс",
         "latitude": 40.40722222,
         "longitude": -7.40305556
     },
     {
-        "name": "Valverde",
+        "name": "Вальверде",
         "latitude": 40.78416667,
         "longitude": -7.52194444
     },
     {
-        "name": "V\u00e1rzea de Meruge",
+        "name": "Пойма Меруге",
         "latitude": 40.39527778,
         "longitude": -7.78361111
     },
     {
-        "name": "Vascoveiro",
+        "name": "Васковейро",
         "latitude": 40.73416667,
         "longitude": -7.06972222
     },
     {
-        "name": "Vela",
+        "name": "Вела",
         "latitude": 40.43585,
         "longitude": -7.30369
     },
     {
-        "name": "Velosa",
+        "name": "Велоза",
         "latitude": 40.6525,
         "longitude": -7.29
     },
     {
-        "name": "Venda do Pinheiro",
+        "name": "Пиньейру Продажа",
         "latitude": 38.92527778,
         "longitude": -9.23222222
     },
     {
-        "name": "Venda Nova",
+        "name": "Новая распродажа",
         "latitude": 38.75422,
         "longitude": -9.21452
     },
     {
-        "name": "Venteira",
+        "name": "Вентейра",
         "latitude": 38.75944444,
         "longitude": -9.24111111
     },
     {
-        "name": "Ventosa",
+        "name": "присоска",
         "latitude": 39.12694444,
         "longitude": -9.08416667
     },
     {
-        "name": "Vermelha",
+        "name": "Красный",
         "latitude": 39.27277778,
         "longitude": -9.10555556
     },
     {
-        "name": "Vermiosa",
+        "name": "Вермиоза",
         "latitude": 40.82722222,
         "longitude": -6.8775
     },
     {
-        "name": "Vialonga",
+        "name": "Виа Лонга",
         "latitude": 38.87094,
         "longitude": -9.06823
     },
     {
-        "name": "Vide",
+        "name": "Видео",
         "latitude": 40.29444444,
         "longitude": -7.78416667
     },
     {
-        "name": "Vide Entre Vinhas",
+        "name": "Смотри между лозами",
         "latitude": 40.59722222,
         "longitude": -7.40416667
     },
     {
-        "name": "Videmonte",
+        "name": "Видемонте",
         "latitude": 40.51388889,
         "longitude": -7.39
     },
     {
-        "name": "Vila Boa",
+        "name": "Вила Боа",
         "latitude": 40.38305556,
         "longitude": -7.00388889
     },
     {
-        "name": "Vila Boa do Mondego",
+        "name": "Вилла Буа-дю-Мондего",
         "latitude": 40.62694444,
         "longitude": -7.43777778
     },
     {
-        "name": "Vila Cort\u00eas da Serra",
+        "name": "Вила Кортес да Серра",
         "latitude": 40.55083333,
         "longitude": -7.52944444
     },
     {
-        "name": "Vila Cort\u00eas do Mondego",
+        "name": "Вила Кортес-ду-Мондего",
         "latitude": 40.60593,
         "longitude": -7.31236
     },
     {
-        "name": "Vila Cova \u00e0 Coelheira",
+        "name": "Вилла Кова в Коэльейре",
         "latitude": 40.38333333,
         "longitude": -7.73416667
     },
     {
-        "name": "Vila do Touro",
+        "name": "Деревня Туро",
         "latitude": 40.41638889,
         "longitude": -7.10555556
     },
     {
-        "name": "Vila Fernando",
+        "name": "Вилла Фернандо",
         "latitude": 40.49472222,
         "longitude": -7.15444444
     },
     {
-        "name": "Vila Franca da Serra",
+        "name": "Вила Франка да Серра",
         "latitude": 40.58722222,
         "longitude": -7.53944444
     },
     {
-        "name": "Vila Franca das Naves",
+        "name": "Вилла Франка-дас-Навес",
         "latitude": 40.72392,
         "longitude": -7.26206
     },
     {
-        "name": "Vila Franca de Xira",
+        "name": "Вила Франка де Ксира",
         "latitude": 38.95,
         "longitude": -8.98333333
     },
     {
-        "name": "Vila Franca do De\u00e3o",
+        "name": "Вилла-Франка-дю-Дан",
         "latitude": 40.65277778,
         "longitude": -7.24222222
     },
     {
-        "name": "Vila Franca do Ros\u00e1rio",
+        "name": "Вила-Франка-ду-Росарио",
         "latitude": 38.97472222,
         "longitude": -9.25611111
     },
     {
-        "name": "Vila Garcia",
+        "name": "Вила Гарсия",
         "latitude": 40.79414,
         "longitude": -7.23318
     },
     {
-        "name": "Vila Nova da Rainha",
+        "name": "Вила-Нова-да-Раинья",
         "latitude": 39.03722222,
         "longitude": -8.93361111
     },
     {
-        "name": "Vila Nova de Foz C\u00f4a",
+        "name": "Вила-Нова-де-Фос-Коа",
         "latitude": 41.08333333,
         "longitude": -7.13333333
     },
     {
-        "name": "Vila Nova de S\u00e3o Pedro",
+        "name": "Вила-Нова-де-Сан-Педро",
         "latitude": 39.2198,
         "longitude": -8.84037
     },
     {
-        "name": "Vila Nova de Tazem",
+        "name": "Вила-Нова-де-Тазем",
         "latitude": 40.5025,
         "longitude": -7.70305556
     },
     {
-        "name": "Vila Ruiva",
+        "name": "Вила Руива",
         "latitude": 40.56944444,
         "longitude": -7.51416667
     },
     {
-        "name": "Vila Soeiro do Ch\u00e3o",
+        "name": "Вила Соэйру-ду-Чау",
         "latitude": 40.61036,
         "longitude": -7.48202
     },
     {
-        "name": "Vila Verde",
+        "name": "Грин Вилле",
         "latitude": 39.15489,
         "longitude": -9.11512
     },
     {
-        "name": "Vila Verde dos Francos",
+        "name": "Вила Верде дос Франкос",
         "latitude": 39.15444444,
         "longitude": -9.11333333
     },
     {
-        "name": "Vilar",
+        "name": "Вилар",
         "latitude": 39.18671,
         "longitude": -9.10687
     },
     {
-        "name": "Vilar de Amargo",
+        "name": "Деревня Амарго",
         "latitude": 40.94636,
         "longitude": -7.00157
     },
     {
-        "name": "Vilar Formoso",
+        "name": "Вилла Формозо",
         "latitude": 40.61382,
         "longitude": -6.83493
     },
     {
-        "name": "Vilar Maior",
+        "name": "Вилар Майор",
         "latitude": 40.48473,
         "longitude": -6.91999
     },
     {
-        "name": "Vilar Torpim",
+        "name": "Вилар Торпим",
         "latitude": 40.82555556,
         "longitude": -6.95194444
     },
     {
-        "name": "Vilares",
+        "name": "деревни",
         "latitude": 40.72062,
         "longitude": -7.28348
     },
     {
-        "name": "Vimeiro",
+        "name": "Ивня",
         "latitude": 39.17777778,
         "longitude": -9.31777778
     },
     {
-        "name": "Vinh\u00f3",
+        "name": "Виньо",
         "latitude": 40.49583333,
         "longitude": -7.62694444
     },
     {
-        "name": "A dos Francos",
+        "name": "Два франка",
         "latitude": 39.32272,
         "longitude": -9.04743
     },
     {
-        "name": "Alcoba\u00e7a",
+        "name": "Алькобаса",
         "latitude": 39.55223,
         "longitude": -8.97749
     },
     {
-        "name": "Alfeizer\u00e3o",
+        "name": "Алфейзерао",
         "latitude": 39.49971,
         "longitude": -9.10341
     },
     {
-        "name": "Aljubarrota",
+        "name": "Альжубаррота",
         "latitude": 39.56715,
         "longitude": -8.92925
     },
     {
-        "name": "Alvai\u00e1zere",
+        "name": "Апноэ во сне",
         "latitude": 39.81951,
         "longitude": -8.38858
     },
     {
-        "name": "Alvorninha",
+        "name": "Алворнинья",
         "latitude": 39.38224,
         "longitude": -9.03674
     },
     {
-        "name": "Amor",
+        "name": "Амор",
         "latitude": 39.80404,
         "longitude": -8.85984
     },
     {
-        "name": "Ansi\u00e3o",
+        "name": "Ансиан",
         "latitude": 39.93424,
         "longitude": -8.42045
     },
     {
-        "name": "Atouguia da Baleia",
+        "name": "Атугия да Балейя",
         "latitude": 39.33814,
         "longitude": -9.3263
     },
     {
-        "name": "Batalha",
+        "name": "Боевой",
         "latitude": 39.66025,
         "longitude": -8.82475
     },
     {
-        "name": "Benedita",
+        "name": "Бенедита",
         "latitude": 39.4247,
         "longitude": -8.96996
     },
     {
-        "name": "Bombarral",
+        "name": "Бомбаррал",
         "latitude": 39.26723,
         "longitude": -9.15795
     },
     {
-        "name": "Caldas da Rainha",
+        "name": "Королевский сироп",
         "latitude": 39.40326,
         "longitude": -9.13839
     },
     {
-        "name": "Caranguejeira",
+        "name": "Краб",
         "latitude": 39.74619,
         "longitude": -8.7074
     },
     {
-        "name": "Castanheira de P\u00eara",
+        "name": "Груша Каштан",
         "latitude": 40.00717,
         "longitude": -8.21048
     },
     {
-        "name": "Cela",
+        "name": "Что",
         "latitude": 39.54075,
         "longitude": -9.03449
     },
     {
-        "name": "Famalic\u00e3o",
+        "name": "Фамаликан",
         "latitude": 39.53642,
         "longitude": -9.08308
     },
     {
-        "name": "Ferrel",
+        "name": "С Фер",
         "latitude": 39.36398,
         "longitude": -9.31541
     },
     {
-        "name": "Figueir\u00f3 Dos Vinhos",
+        "name": "Фигейро дос Виньюс",
         "latitude": 39.90617,
         "longitude": -8.27753
     },
     {
-        "name": "Foz do Arelho",
+        "name": "Фос-ду-Арейлло",
         "latitude": 39.43672,
         "longitude": -9.21374
     },
     {
-        "name": "Leiria",
+        "name": "Лейрия",
         "latitude": 39.74362,
         "longitude": -8.80705
     },
     {
-        "name": "Louri\u00e7al",
+        "name": "Лурисаль",
         "latitude": 40.0039,
         "longitude": -8.73736
     },
     {
-        "name": "Maceira",
+        "name": "яблоня",
         "latitude": 39.68853,
         "longitude": -8.89423
     },
     {
-        "name": "Marinha Grande",
+        "name": "Маринья Гранде",
         "latitude": 39.77681,
         "longitude": -8.95005
     },
     {
-        "name": "Mira",
+        "name": "Мира",
         "latitude": 39.54315,
         "longitude": -8.71505
     },
     {
-        "name": "Monte Real",
+        "name": "Монте-Реаль",
         "latitude": 39.8521,
         "longitude": -8.86349
     },
     {
-        "name": "Monte Redondo",
+        "name": "Гора Редондо",
         "latitude": 39.8993,
         "longitude": -8.83171
     },
     {
-        "name": "Nadadouro",
+        "name": "Бассейн",
         "latitude": 39.41927,
         "longitude": -9.19091
     },
     {
-        "name": "Nazar\u00e9",
+        "name": "Назарет",
         "latitude": 39.59965,
         "longitude": -9.07162
     },
     {
-        "name": "\u00d3bidos",
+        "name": "Обидуш",
         "latitude": 39.35854,
         "longitude": -9.17603
     },
     {
-        "name": "Pataias",
+        "name": "Патайас",
         "latitude": 39.66978,
         "longitude": -8.9958
     },
     {
-        "name": "Pedr\u00f3g\u00e3o Grande",
+        "name": "Педроган-Гранде",
         "latitude": 39.92682,
         "longitude": -8.20093
     },
     {
-        "name": "Peniche",
+        "name": "Пенише",
         "latitude": 39.3558,
         "longitude": -9.38112
     },
     {
-        "name": "Pombal",
+        "name": "Помбал",
         "latitude": 39.90735,
         "longitude": -8.66949
     },
     {
-        "name": "Porto de M\u00f3s",
+        "name": "Порту-де-Мош",
         "latitude": 39.60191,
         "longitude": -8.81839
     },
     {
-        "name": "Salir de Matos",
+        "name": "Оставить Матоса",
         "latitude": 39.43186,
         "longitude": -9.09479
     },
     {
-        "name": "Santa Catarina da Serra",
+        "name": "Санта-Катарина-да-Серра",
         "latitude": 39.6796,
         "longitude": -8.68679
     },
     {
-        "name": "S\u00e3o Martinho do Porto",
+        "name": "Сан-Мартиньо-ду-Порту",
         "latitude": 39.51444,
         "longitude": -9.13111
     },
     {
-        "name": "Serra de El-Rei",
+        "name": "Серра-де-Эль-Рей",
         "latitude": 39.33291,
         "longitude": -9.26843
     },
     {
-        "name": "Souto da Carpalhosa",
+        "name": "Суту-да-Карпальоса",
         "latitude": 39.84867,
         "longitude": -8.83506
     },
     {
-        "name": "Turquel",
+        "name": "Тюркель",
         "latitude": 39.46411,
         "longitude": -8.97743
     },
     {
-        "name": "Valado de Frades",
+        "name": "Забор монахов",
         "latitude": 39.58432,
         "longitude": -9.0229
     },
     {
-        "name": "Vestiaria",
+        "name": "Одежда",
         "latitude": 39.55271,
         "longitude": -8.9979
     },
     {
-        "name": "Vidais",
+        "name": "Видайс",
         "latitude": 39.36886,
         "longitude": -9.04916
     },
     {
-        "name": "Vieira de Leiria",
+        "name": "Виейра-де-Лейрия",
         "latitude": 39.86945,
         "longitude": -8.93238
     },
     {
-        "name": "A dos Cunhados",
+        "name": "Зятья",
         "latitude": 39.15237,
         "longitude": -9.2972
     },
     {
-        "name": "Abrigada",
+        "name": "защищенный",
         "latitude": 39.14416,
         "longitude": -9.01853
     },
     {
-        "name": "Alcabideche",
+        "name": "Алькабидече",
         "latitude": 38.73366,
         "longitude": -9.40928
     },
     {
-        "name": "Alcoentre",
+        "name": "Алкоентре",
         "latitude": 39.20857,
         "longitude": -8.95953
     },
     {
-        "name": "Alenquer",
+        "name": "Аленкер",
         "latitude": 39.05315,
         "longitude": -9.00928
     },
     {
-        "name": "Alfragide",
+        "name": "Альфрагид",
         "latitude": 38.73203,
         "longitude": -9.2192
     },
     {
-        "name": "Alg\u00e9s",
+        "name": "Альжес",
         "latitude": 38.70245,
         "longitude": -9.22936
     },
     {
-        "name": "Algueir\u00e3o",
+        "name": "Алгейран",
         "latitude": 38.79764,
         "longitude": -9.3437
     },
     {
-        "name": "Alhandra",
+        "name": "Альхандра",
         "latitude": 38.92732,
         "longitude": -9.00864
     },
     {
-        "name": "Almargem",
+        "name": "Альмаргем",
         "latitude": 38.84485,
         "longitude": -9.27315
     },
     {
-        "name": "Alvalade",
+        "name": "Альваладе",
         "latitude": 38.75328,
         "longitude": -9.14397
     },
     {
-        "name": "Amadora",
+        "name": "любительский",
         "latitude": 38.75382,
         "longitude": -9.23083
     },
     {
-        "name": "Apela\u00e7\u00e3o",
+        "name": "Обращаться",
         "latitude": 38.81387,
         "longitude": -9.13225
     },
     {
-        "name": "Arranh\u00f3",
+        "name": "Царапать",
         "latitude": 38.95378,
         "longitude": -9.13465
     },
     {
-        "name": "Arruda dos Vinhos",
+        "name": "Арруда дос Виньюс",
         "latitude": 38.97172,
         "longitude": -9.08807
     },
     {
-        "name": "Aveiras de Cima",
+        "name": "Лучшие переулки",
         "latitude": 39.13796,
         "longitude": -8.89932
     },
     {
-        "name": "Azambuja",
+        "name": "Азамбуджа",
         "latitude": 39.07029,
         "longitude": -8.86822
     },
     {
-        "name": "Barcarena",
+        "name": "Баркарена",
         "latitude": 38.73245,
         "longitude": -9.28
     },
     {
-        "name": "Beato Ant\u00f3nio",
+        "name": "Блаженный Антоний",
         "latitude": 38.73327,
         "longitude": -9.10335
     },
     {
-        "name": "Belas",
+        "name": "Двенадцать",
         "latitude": 38.7767,
         "longitude": -9.26353
     },
     {
-        "name": "Benfica",
+        "name": "Бенфика",
         "latitude": 38.75087,
         "longitude": -9.20282
     },
     {
-        "name": "Bobadela",
+        "name": "Они жертвуют ими",
         "latitude": 38.80774,
         "longitude": -9.09925
     },
     {
-        "name": "Bucelas",
+        "name": "Буселас",
         "latitude": 38.90193,
         "longitude": -9.11885
     },
     {
-        "name": "Cabanas de Torres",
+        "name": "Коттеджи Торрес",
         "latitude": 39.15581,
         "longitude": -9.06588
     },
     {
-        "name": "Cac\u00e9m",
+        "name": "Касем",
         "latitude": 38.76698,
         "longitude": -9.29793
     },
     {
-        "name": "Cadafais",
+        "name": "каждый день",
         "latitude": 39.00461,
         "longitude": -9.00419
     },
     {
-        "name": "Cadaval",
+        "name": "Кадавал",
         "latitude": 39.24621,
         "longitude": -9.06738
     },
     {
-        "name": "Camarate",
+        "name": "Камарате",
         "latitude": 38.80358,
         "longitude": -9.12809
     },
     {
-        "name": "Campelos",
+        "name": "Кампелос",
         "latitude": 39.19678,
         "longitude": -9.23519
     },
     {
-        "name": "Cane\u00e7as",
+        "name": "Канешас",
         "latitude": 38.81321,
         "longitude": -9.22679
     },
     {
-        "name": "Carcavelos",
+        "name": "Каркавелуш",
         "latitude": 38.69105,
         "longitude": -9.32215
     },
     {
-        "name": "Carnaxide",
+        "name": "Карнаксид",
         "latitude": 38.72706,
         "longitude": -9.24671
     },
     {
-        "name": "Carregado",
+        "name": "Загружено",
         "latitude": 39.02362,
         "longitude": -8.97692
     },
     {
-        "name": "Cascais",
+        "name": "Кашкайш",
         "latitude": 38.69681,
         "longitude": -9.42147
     },
     {
-        "name": "Castanheira do Ribatejo",
+        "name": "Кастанейра-ду-Рибатежу",
         "latitude": 38.99298,
         "longitude": -8.97346
     },
     {
-        "name": "Caxias",
+        "name": "Кашиас",
         "latitude": 38.70314,
         "longitude": -9.27666
     },
     {
-        "name": "Charneca",
+        "name": "Хит",
         "latitude": 38.78351,
         "longitude": -9.14348
     },
     {
-        "name": "Colares",
+        "name": "ожерелья",
         "latitude": 38.79921,
         "longitude": -9.44691
     },
     {
-        "name": "Ericeira",
+        "name": "Эрисейра",
         "latitude": 38.96275,
         "longitude": -9.41563
     },
     {
-        "name": "Estoril",
+        "name": "Эшторил",
         "latitude": 38.70571,
         "longitude": -9.39773
     },
     {
-        "name": "Fam\u00f5es",
+        "name": "Фамойнс",
         "latitude": 38.78804,
         "longitude": -9.21033
     },
     {
-        "name": "Fontanelas",
+        "name": "Фонтанелас",
         "latitude": 38.84806,
         "longitude": -9.43942
     },
     {
-        "name": "Linda-a-Velha",
+        "name": "Линда-а-Велья",
         "latitude": 38.71446,
         "longitude": -9.2422
     },
     {
-        "name": "Lisbon",
+        "name": "Лиссабон",
         "latitude": 38.72635,
         "longitude": -9.14843
     },
     {
-        "name": "Loures",
+        "name": "Лурес",
         "latitude": 38.83091,
         "longitude": -9.16845
     },
     {
-        "name": "Lourinh\u00e3",
+        "name": "Лориньян",
         "latitude": 39.24745,
         "longitude": -9.31194
     },
     {
-        "name": "Mafra",
+        "name": "Мафра",
         "latitude": 38.94107,
         "longitude": -9.32636
     },
     {
-        "name": "Malveira",
+        "name": "Мальвейра",
         "latitude": 38.93213,
         "longitude": -9.25779
     },
     {
-        "name": "Massam\u00e1",
+        "name": "Массама",
         "latitude": 38.75279,
         "longitude": -9.2811
     },
     {
-        "name": "Meca",
+        "name": "Мека",
         "latitude": 39.08178,
         "longitude": -9.03459
     },
     {
-        "name": "Mem Martins",
+        "name": "Мем Мартинс",
         "latitude": 38.79443,
         "longitude": -9.34284
     },
     {
-        "name": "Milharado",
+        "name": "Мильярадо",
         "latitude": 38.94732,
         "longitude": -9.19914
     },
     {
-        "name": "Moita dos Ferreiros",
+        "name": "Большая часть кузнецов",
         "latitude": 39.24825,
         "longitude": -9.22355
     },
     {
-        "name": "Monte Estoril",
+        "name": "Гора Эшторил",
         "latitude": 38.70636,
         "longitude": -9.40595
     },
     {
-        "name": "Moscavide e Portela",
+        "name": "Москавиде и Портела",
         "latitude": 38.77929,
         "longitude": -9.10222
     },
     {
-        "name": "Odivelas",
+        "name": "Одивелас",
         "latitude": 38.79269,
         "longitude": -9.1838
     },
     {
-        "name": "Oeiras",
+        "name": "Оэйрас",
         "latitude": 38.71371,
         "longitude": -9.26832
     },
     {
-        "name": "Olivais",
+        "name": "оливковые рощи",
         "latitude": 38.76994,
         "longitude": -9.10674
     },
     {
-        "name": "Olival do Basto",
+        "name": "Оливковая роща Басто",
         "latitude": 38.79079,
         "longitude": -9.16621
     },
     {
-        "name": "Ota",
+        "name": "Ота",
         "latitude": 39.11199,
         "longitude": -8.99105
     },
     {
-        "name": "Pa\u00e7o de Arcos",
+        "name": "Пасу де Аркос",
         "latitude": 38.69569,
         "longitude": -9.29143
     },
     {
-        "name": "Parede",
+        "name": "Стена",
         "latitude": 38.69282,
         "longitude": -9.35412
     },
     {
-        "name": "Pero Pinheiro",
+        "name": "Перо Пиньейру",
         "latitude": 38.85783,
         "longitude": -9.32352
     },
     {
-        "name": "Pontinha",
+        "name": "Понтинья",
         "latitude": 38.76771,
         "longitude": -9.19935
     },
     {
-        "name": "Porto Salvo",
+        "name": "Порто-Сальво",
         "latitude": 38.72293,
         "longitude": -9.30473
     },
     {
-        "name": "P\u00f3voa de Santa Iria",
+        "name": "Повуа-де-Санта-Ирия",
         "latitude": 38.86101,
         "longitude": -9.06453
     },
     {
-        "name": "P\u00f3voa de Santo Adri\u00e3o",
+        "name": "Повуа-ди-Санту-Адриан",
         "latitude": 38.8,
         "longitude": -9.16667
     },
     {
-        "name": "Prior Velho",
+        "name": "Приор Велью",
         "latitude": 38.79174,
         "longitude": -9.12119
     },
     {
-        "name": "Queijas",
+        "name": "Сыры",
         "latitude": 38.71925,
         "longitude": -9.26255
     },
     {
-        "name": "Queluz",
+        "name": "Келуш",
         "latitude": 38.75657,
         "longitude": -9.25451
     },
     {
-        "name": "Ramada",
+        "name": "Рамада",
         "latitude": 38.80368,
         "longitude": -9.1877
     },
     {
-        "name": "Rio de Mouro",
+        "name": "Рио-де-Муро",
         "latitude": 38.76613,
         "longitude": -9.32804
     },
     {
-        "name": "Sacav\u00e9m",
+        "name": "Сакавем",
         "latitude": 38.79202,
         "longitude": -9.10801
     },
     {
-        "name": "Santa Iria da Az\u00f3ia",
+        "name": "Санта-Ириа-да-Азоя",
         "latitude": 38.8411,
         "longitude": -9.09908
     },
     {
-        "name": "Santo Ant\u00e3o do Tojal",
+        "name": "Санту-Антан-ду-Тоджал",
         "latitude": 38.85151,
         "longitude": -9.13975
     },
     {
-        "name": "Santo Isidoro",
+        "name": "Святой Исидор",
         "latitude": 38.99593,
         "longitude": -9.3994
     },
     {
-        "name": "Santos-o-Velho",
+        "name": "Сантос-о-Велью",
         "latitude": 38.7069,
         "longitude": -9.15611
     },
     {
-        "name": "S\u00e3o Bartolomeu",
+        "name": "Святой Варфоломей",
         "latitude": 39.27511,
         "longitude": -9.27885
     },
     {
-        "name": "S\u00e3o Domingos de Rana",
+        "name": "Сан Домингес де Рана",
         "latitude": 38.70194,
         "longitude": -9.34083
     },
     {
-        "name": "S\u00e3o Jo\u00e3o da Talha",
+        "name": "Сан-Хуан-да-Талья",
         "latitude": 38.82378,
         "longitude": -9.09719
     },
     {
-        "name": "S\u00e3o Jo\u00e3o das Lampas",
+        "name": "Святой Иоанн Светильников",
         "latitude": 38.87376,
         "longitude": -9.39842
     },
     {
-        "name": "S\u00e3o Jo\u00e3o dos Montes",
+        "name": "Сан-Жуан-дус-Монтес",
         "latitude": 38.93944,
         "longitude": -9.01892
     },
     {
-        "name": "S\u00e3o Pedro da Cadeira",
+        "name": "Святой Петр Кафедральный",
         "latitude": 39.06983,
         "longitude": -9.37174
     },
     {
-        "name": "Silveira",
+        "name": "Сильвейра",
         "latitude": 39.1112,
         "longitude": -9.3643
     },
     {
-        "name": "Sintra",
+        "name": "Синтра",
         "latitude": 38.81439,
         "longitude": -9.3837
     },
     {
-        "name": "Sobral de Monte Agra\u00e7o",
+        "name": "Собрал де Монте Аграсо",
         "latitude": 39.01958,
         "longitude": -9.15081
     },
     {
-        "name": "Sobralinho",
+        "name": "Собралиньо",
         "latitude": 38.91703,
         "longitude": -9.02656
     },
     {
-        "name": "Terrugem",
+        "name": "Боюсь",
         "latitude": 38.70647,
         "longitude": -9.28693
     },
     {
-        "name": "Torres Vedras",
+        "name": "Торреш Ведрас",
         "latitude": 39.09109,
         "longitude": -9.2586
     },
     {
-        "name": "Unhos",
+        "name": "гвозди",
         "latitude": 38.81958,
         "longitude": -9.12007
     },
     {
-        "name": "Venda do Pinheiro",
+        "name": "Пиньейру Продажа",
         "latitude": 38.92365,
         "longitude": -9.23178
     },
     {
-        "name": "Ventosa",
+        "name": "присоска",
         "latitude": 39.12696,
         "longitude": -9.08423
     },
     {
-        "name": "Vialonga",
+        "name": "Виа Лонга",
         "latitude": 38.87206,
         "longitude": -9.07805
     },
     {
-        "name": "Vila Franca de Xira",
+        "name": "Вила Франка де Ксира",
         "latitude": 38.92137,
         "longitude": -9.0322
     },
     {
-        "name": "Vila Verde",
+        "name": "Грин Вилле",
         "latitude": 39.15489,
         "longitude": -9.11512
     },
     {
-        "name": "Vimeiro",
+        "name": "Ивня",
         "latitude": 39.17768,
         "longitude": -9.31702
     },
     {
-        "name": "\u00c1gua de Pena",
+        "name": "Перо Воды",
         "latitude": 32.70143,
         "longitude": -16.77874
     },
     {
-        "name": "Arco da Calheta",
+        "name": "Арка Кальета",
         "latitude": 32.71502,
         "longitude": -17.14974
     },
     {
-        "name": "Boaventura",
+        "name": "Бонавентура",
         "latitude": 32.81846,
         "longitude": -16.97268
     },
     {
-        "name": "Calheta",
+        "name": "Кальета",
         "latitude": 32.71667,
         "longitude": -17.18333
     },
     {
-        "name": "Camacha",
+        "name": "Камача",
         "latitude": 32.67919,
         "longitude": -16.84462
     },
     {
-        "name": "C\u00e2mara de Lobos",
+        "name": "Палата волков",
         "latitude": 32.65043,
         "longitude": -16.97718
     },
     {
-        "name": "Campan\u00e1rio",
+        "name": "Колокольня",
         "latitude": 32.66578,
         "longitude": -17.03576
     },
     {
-        "name": "Canhas",
+        "name": "Каньяс",
         "latitude": 32.69465,
         "longitude": -17.09867
     },
     {
-        "name": "Cani\u00e7al",
+        "name": "Канисал",
         "latitude": 32.73834,
         "longitude": -16.73836
     },
     {
-        "name": "Cani\u00e7o",
+        "name": "Рид",
         "latitude": 32.65078,
         "longitude": -16.83749
     },
     {
-        "name": "Curral das Freiras",
+        "name": "Куррал дас Фрейрас",
         "latitude": 32.72029,
         "longitude": -16.96993
     },
     {
-        "name": "Estreito da Calheta",
+        "name": "Пролив Кальета",
         "latitude": 32.73704,
         "longitude": -17.18674
     },
     {
-        "name": "Faial",
+        "name": "Фаял",
         "latitude": 32.78333,
         "longitude": -16.85
     },
     {
-        "name": "Faj\u00e3 da Ovelha",
+        "name": "Фажан-да-Овелья",
         "latitude": 32.77457,
         "longitude": -17.23412
     },
     {
-        "name": "Funchal",
+        "name": "Фуншал",
         "latitude": 32.66568,
         "longitude": -16.92547
     },
     {
-        "name": "Machico",
+        "name": "Машику",
         "latitude": 32.7162,
         "longitude": -16.76758
     },
     {
-        "name": "Nossa Senhora do Monte",
+        "name": "Богоматерь горы",
         "latitude": 32.66667,
         "longitude": -16.9
     },
     {
-        "name": "Ponta do Sol",
+        "name": "Понта-ду-Соль",
         "latitude": 32.6798,
         "longitude": -17.1
     },
     {
-        "name": "Porto da Cruz",
+        "name": "Порту-да-Крус",
         "latitude": 32.76667,
         "longitude": -16.83333
     },
     {
-        "name": "Porto Moniz",
+        "name": "Порту-Мониш",
         "latitude": 32.86681,
         "longitude": -17.16667
     },
     {
-        "name": "Porto Santo",
+        "name": "Порто Санто",
         "latitude": 33.07145,
         "longitude": -16.34304
     },
     {
-        "name": "Ribeira Brava",
+        "name": "Рибейра Брава",
         "latitude": 32.67483,
         "longitude": -17.06288
     },
     {
-        "name": "Santa Cruz",
+        "name": "Санта Круз",
         "latitude": 32.68806,
         "longitude": -16.79388
     },
     {
-        "name": "Santana",
+        "name": "Сантана",
         "latitude": 32.8,
         "longitude": -16.88333
     },
     {
-        "name": "S\u00e3o Jorge",
+        "name": "Святой Георгий",
         "latitude": 32.81667,
         "longitude": -16.9
     },
     {
-        "name": "S\u00e3o Martinho",
+        "name": "Сен-Мартен",
         "latitude": 32.6448,
         "longitude": -16.93843
     },
     {
-        "name": "S\u00e3o Roque",
+        "name": "Сан-Рок",
         "latitude": 32.66667,
         "longitude": -16.91667
     },
     {
-        "name": "S\u00e3o Vicente",
+        "name": "Сент-Винсент",
         "latitude": 32.79673,
         "longitude": -17.04323
     },
     {
-        "name": "Alter do Ch\u00e3o",
+        "name": "Альтер-ду-Чао",
         "latitude": 39.23098,
         "longitude": -7.7443
     },
     {
-        "name": "Arronches",
+        "name": "Арронш",
         "latitude": 39.12242,
         "longitude": -7.28619
     },
     {
-        "name": "Atalaia",
+        "name": "Аталая",
         "latitude": 39.45551,
         "longitude": -7.87295
     },
     {
-        "name": "Avis",
+        "name": "Авис",
         "latitude": 39.06448,
         "longitude": -7.8956
     },
     {
-        "name": "Campo Maior",
+        "name": "Большее поле",
         "latitude": 39.02935,
         "longitude": -7.06479
     },
     {
-        "name": "Castelo de Vide",
+        "name": "Кастелло де Виде",
         "latitude": 39.41624,
         "longitude": -7.4568
     },
     {
-        "name": "Crato",
+        "name": "Крато",
         "latitude": 39.28657,
         "longitude": -7.64408
     },
     {
-        "name": "Elvas",
+        "name": "В Эльве",
         "latitude": 38.8815,
         "longitude": -7.16282
     },
     {
-        "name": "Fronteira",
+        "name": "Граница",
         "latitude": 39.07179,
         "longitude": -7.61052
     },
     {
-        "name": "Gavi\u00e3o",
+        "name": "Ястреб",
         "latitude": 39.44462,
         "longitude": -7.89532
     },
     {
-        "name": "Marv\u00e3o",
+        "name": "Марван",
         "latitude": 39.39377,
         "longitude": -7.37663
     },
     {
-        "name": "Monforte",
+        "name": "Монфорт",
         "latitude": 39.0496,
         "longitude": -7.44428
     },
     {
-        "name": "Montargil",
+        "name": "Монтаржил",
         "latitude": 39.07771,
         "longitude": -8.17044
     },
     {
-        "name": "Nisa",
+        "name": "Ниса",
         "latitude": 39.51828,
         "longitude": -7.67496
     },
     {
-        "name": "Ponte de Sor",
+        "name": "Понте де Сор",
         "latitude": 39.21441,
         "longitude": -8.0542
     },
     {
-        "name": "Portalegre",
+        "name": "Порталегре",
         "latitude": 39.2974,
         "longitude": -7.41538
     },
     {
-        "name": "Santo Andr\u00e9",
+        "name": "Святой Андрей",
         "latitude": 39.05532,
         "longitude": -8.24414
     },
     {
-        "name": "Sousel",
+        "name": "Сеул",
         "latitude": 38.96685,
         "longitude": -7.71788
     },
     {
-        "name": "Vale da Amoreira",
+        "name": "Долина Аморейра",
         "latitude": 39.06969,
         "longitude": -7.69849
     },
     {
-        "name": "\u00c1gua Longa",
+        "name": "Длинная вода",
         "latitude": 41.24972,
         "longitude": -8.49285
     },
     {
-        "name": "\u00c1guas Santas",
+        "name": "Святые воды",
         "latitude": 41.21017,
         "longitude": -8.57599
     },
     {
-        "name": "Agu\u00e7adoura",
+        "name": "Точилка",
         "latitude": 41.43116,
         "longitude": -8.77844
     },
     {
-        "name": "Alfena",
+        "name": "Бирючина",
         "latitude": 41.23671,
         "longitude": -8.52454
     },
     {
-        "name": "Alpendurada",
+        "name": "Порог",
         "latitude": 41.08944,
         "longitude": -8.24643
     },
     {
-        "name": "Amarante",
+        "name": "Амаранте",
         "latitude": 41.27271,
         "longitude": -8.08245
     },
     {
-        "name": "Amorim",
+        "name": "Аморим",
         "latitude": 41.40503,
         "longitude": -8.75046
     },
     {
-        "name": "Anta",
+        "name": "Анта",
         "latitude": 41.26634,
         "longitude": -8.62844
     },
     {
-        "name": "Arcozelo",
+        "name": "Аркозело",
         "latitude": 41.06187,
         "longitude": -8.63192
     },
     {
-        "name": "Argivai",
+        "name": "Аргивай",
         "latitude": 41.37744,
         "longitude": -8.72987
     },
     {
-        "name": "\u00c1rvore",
+        "name": "Дерево",
         "latitude": 41.33922,
         "longitude": -8.71806
     },
     {
-        "name": "Aver-o-Mar",
+        "name": "Авер-о-Мар",
         "latitude": 41.40607,
         "longitude": -8.77958
     },
     {
-        "name": "Aves",
+        "name": "Авес",
         "latitude": 41.37034,
         "longitude": -8.4101
     },
     {
-        "name": "Avintes",
+        "name": "Авинтес",
         "latitude": 41.10711,
         "longitude": -8.55131
     },
     {
-        "name": "Azenha",
+        "name": "Азенья",
         "latitude": 41.07651,
         "longitude": -8.62468
     },
     {
-        "name": "Baguim do Monte",
+        "name": "Багим-дю-Монте",
         "latitude": 41.19203,
         "longitude": -8.54118
     },
     {
-        "name": "Bai\u00e3o",
+        "name": "Байан",
         "latitude": 41.16384,
         "longitude": -8.03581
     },
     {
-        "name": "Balazar",
+        "name": "Балазар",
         "latitude": 41.40435,
         "longitude": -8.62386
     },
     {
-        "name": "Baltar",
+        "name": "Балтар",
         "latitude": 41.19272,
         "longitude": -8.38768
     },
     {
-        "name": "Barrosas",
+        "name": "Барросас",
         "latitude": 41.35534,
         "longitude": -8.29943
     },
     {
-        "name": "Beiriz de Baixo",
+        "name": "Бейрис де Байшо",
         "latitude": 41.39727,
         "longitude": -8.72385
     },
     {
-        "name": "Bougado",
+        "name": "Бугадо",
         "latitude": 41.33979,
         "longitude": -8.5518
     },
     {
-        "name": "Campo",
+        "name": "Кампо",
         "latitude": 41.18516,
         "longitude": -8.46493
     },
     {
-        "name": "Canelas",
+        "name": "Канелас",
         "latitude": 41.08333,
         "longitude": -8.6
     },
     {
-        "name": "Canidelo",
+        "name": "питомник",
         "latitude": 41.12314,
         "longitude": -8.64654
     },
     {
-        "name": "Carvalhosa",
+        "name": "Карвальоса",
         "latitude": 41.30057,
         "longitude": -8.3608
     },
     {
-        "name": "Castel\u00f5es de Cepeda",
+        "name": "Кастеляны Сепеды",
         "latitude": 41.20265,
         "longitude": -8.33516
     },
     {
-        "name": "Ermesinde",
+        "name": "Эрмесинде",
         "latitude": 41.21653,
         "longitude": -8.55318
     },
     {
-        "name": "Estela",
+        "name": "Будить",
         "latitude": 41.44944,
         "longitude": -8.75166
     },
     {
-        "name": "F\u00e2nzeres",
+        "name": "Фанзерес",
         "latitude": 41.16754,
         "longitude": -8.52981
     },
     {
-        "name": "Felgueiras",
+        "name": "Фельгейрас",
         "latitude": 41.34774,
         "longitude": -8.20808
     },
     {
-        "name": "Ferreira",
+        "name": "Феррейра",
         "latitude": 41.26718,
         "longitude": -8.34434
     },
     {
-        "name": "Figueir\u00f3",
+        "name": "Фигейро",
         "latitude": 41.29922,
         "longitude": -8.16779
     },
     {
-        "name": "Foz do Douro",
+        "name": "Фос-дю-Дору",
         "latitude": 41.15119,
         "longitude": -8.67125
     },
     {
-        "name": "Foz do Sousa",
+        "name": "Фос-дю-Суза",
         "latitude": 41.09668,
         "longitude": -8.50184
     },
     {
-        "name": "Fraz\u00e3o",
+        "name": "Фразао",
         "latitude": 41.25866,
         "longitude": -8.40014
     },
     {
-        "name": "Freamunde",
+        "name": "Фреамунде",
         "latitude": 41.28835,
         "longitude": -8.33533
     },
     {
-        "name": "Gandra",
+        "name": "Гандра",
         "latitude": 41.20116,
         "longitude": -8.43376
     },
     {
-        "name": "Gemunde",
+        "name": "Гемунде",
         "latitude": 41.26766,
         "longitude": -8.64515
     },
     {
-        "name": "Gondomar",
+        "name": "Гондомар",
         "latitude": 41.12015,
         "longitude": -8.49595
     },
     {
-        "name": "Grij\u00f3",
+        "name": "Грихо",
         "latitude": 41.02836,
         "longitude": -8.58017
     },
     {
-        "name": "Guif\u00f5es",
+        "name": "Гифоны",
         "latitude": 41.19748,
         "longitude": -8.66899
     },
     {
-        "name": "Gulpilhares",
+        "name": "Гульпильярес",
         "latitude": 41.08292,
         "longitude": -8.62679
     },
     {
-        "name": "Jovim",
+        "name": "Йовим",
         "latitude": 41.11102,
         "longitude": -8.51903
     },
     {
-        "name": "Lavra",
+        "name": "Добыча",
         "latitude": 41.25935,
         "longitude": -8.71849
     },
     {
-        "name": "Le\u00e7a da Palmeira",
+        "name": "Леса да Палмейра",
         "latitude": 41.191,
         "longitude": -8.70027
     },
     {
-        "name": "Le\u00e7a do Bailio",
+        "name": "Леса-ду-Балио",
         "latitude": 41.21201,
         "longitude": -8.63422
     },
     {
-        "name": "Lordelo",
+        "name": "Лордело",
         "latitude": 41.23451,
         "longitude": -8.40297
     },
     {
-        "name": "Lousada",
+        "name": "Лусада",
         "latitude": 41.28355,
         "longitude": -8.27437
     },
     {
-        "name": "Lustosa",
+        "name": "Глянцевый",
         "latitude": 41.34081,
         "longitude": -8.31715
     },
     {
-        "name": "Madalena",
+        "name": "Мадалена",
         "latitude": 41.21616,
         "longitude": -8.33451
     },
     {
-        "name": "Maia",
+        "name": "Майя",
         "latitude": 41.24254,
         "longitude": -8.60257
     },
     {
-        "name": "Marco de Canaveses",
+        "name": "Марко де Канавесес",
         "latitude": 41.15545,
         "longitude": -8.16954
     },
     {
-        "name": "Marco de Canavezes",
+        "name": "Марко де Канавезес",
         "latitude": 41.18389,
         "longitude": -8.14864
     },
     {
-        "name": "Margaride",
+        "name": "Дейзи",
         "latitude": 41.36478,
         "longitude": -8.19999
     },
     {
-        "name": "Matosinhos",
+        "name": "Матозиньюш",
         "latitude": 41.18207,
         "longitude": -8.68908
     },
     {
-        "name": "Meinedo",
+        "name": "Мейнедо",
         "latitude": 41.24827,
         "longitude": -8.25807
     },
     {
-        "name": "Melres",
+        "name": "Мельрес",
         "latitude": 41.06989,
         "longitude": -8.40091
     },
     {
-        "name": "Milheir\u00f3s",
+        "name": "Милейрос",
         "latitude": 41.21478,
         "longitude": -8.58837
     },
     {
-        "name": "Mindelo",
+        "name": "Минделу",
         "latitude": 41.31527,
         "longitude": -8.72124
     },
     {
-        "name": "Moreira",
+        "name": "Морейра",
         "latitude": 41.056,
         "longitude": -8.38939
     },
     {
-        "name": "Negrelos",
+        "name": "Негрелос",
         "latitude": 41.34946,
         "longitude": -8.40145
     },
     {
-        "name": "Nogueira",
+        "name": "Ногейра",
         "latitude": 41.24246,
         "longitude": -8.58685
     },
     {
-        "name": "Olival",
+        "name": "Оливаль",
         "latitude": 41.05024,
         "longitude": -8.54416
     },
     {
-        "name": "Oliveira do Douro",
+        "name": "Оливейра-ду-Дору",
         "latitude": 41.12466,
         "longitude": -8.58463
     },
     {
-        "name": "Pa\u00e7os de Ferreira",
+        "name": "Пасуш де Феррейра",
         "latitude": 41.28964,
         "longitude": -8.37584
     },
     {
-        "name": "Paredes",
+        "name": "Паредес",
         "latitude": 41.20501,
         "longitude": -8.37506
     },
     {
-        "name": "Pedroso",
+        "name": "Педросо",
         "latitude": 41.41103,
         "longitude": -8.74897
     },
     {
-        "name": "Pedrou\u00e7os",
+        "name": "Педрусос",
         "latitude": 41.1888,
         "longitude": -8.58624
     },
     {
-        "name": "Penafiel",
+        "name": "Пенафиэль",
         "latitude": 41.20931,
         "longitude": -8.26996
     },
     {
-        "name": "Perafita",
+        "name": "Перафита",
         "latitude": 41.18252,
         "longitude": -8.2545
     },
     {
-        "name": "Perozinho",
+        "name": "Перозиньо",
         "latitude": 41.06513,
         "longitude": -8.58531
     },
     {
-        "name": "Porto",
+        "name": "Порту",
         "latitude": 41.14961,
         "longitude": -8.61099
     },
     {
-        "name": "P\u00f3voa de Varzim",
+        "name": "Повуа-де-Варзим",
         "latitude": 41.38344,
         "longitude": -8.76364
     },
     {
-        "name": "Rebord\u00f5es",
+        "name": "Ребордоэс",
         "latitude": 41.35509,
         "longitude": -8.42355
     },
     {
-        "name": "Rebordosa",
+        "name": "Ребордоса",
         "latitude": 41.22405,
         "longitude": -8.40669
     },
     {
-        "name": "Recarei",
+        "name": "Я повторю",
         "latitude": 41.15356,
         "longitude": -8.41178
     },
     {
-        "name": "Rio Mau",
+        "name": "Рио-Мау",
         "latitude": 41.40422,
         "longitude": -8.67994
     },
     {
-        "name": "Rio Tinto",
+        "name": "Рио Тинто",
         "latitude": 41.17872,
         "longitude": -8.55953
     },
     {
-        "name": "Sandim",
+        "name": "Сандим",
         "latitude": 41.03508,
         "longitude": -8.507
     },
     {
-        "name": "Santa Cruz do Bispo",
+        "name": "Санта-Крус-ду-Биспо",
         "latitude": 41.21462,
         "longitude": -8.67406
     },
     {
-        "name": "Santo Izidoro",
+        "name": "Санто Изидоро",
         "latitude": 41.21083,
         "longitude": -8.14224
     },
     {
-        "name": "Santo Tirso",
+        "name": "Сен-Тирсо",
         "latitude": 41.33014,
         "longitude": -8.43827
     },
     {
-        "name": "S\u00e3o F\u00e9lix da Marinha",
+        "name": "Сан-Феликс-да-Маринья",
         "latitude": 41.03555,
         "longitude": -8.62259
     },
     {
-        "name": "S\u00e3o Mamede de Infesta",
+        "name": "Сан-Мамеде-де-Инфеста",
         "latitude": 41.19183,
         "longitude": -8.61105
     },
     {
-        "name": "S\u00e3o Miguel do Couto",
+        "name": "Сан-Мигель-ду-Коуту",
         "latitude": 41.33167,
         "longitude": -8.46185
     },
     {
-        "name": "S\u00e3o Pedro da Cova",
+        "name": "Сан-Педро-да-Кова",
         "latitude": 41.14331,
         "longitude": -8.50033
     },
     {
-        "name": "S\u00e3o Rom\u00e3o do Coronado",
+        "name": "Сан-Ромау-ду-Коронадо",
         "latitude": 41.28544,
         "longitude": -8.5632
     },
     {
-        "name": "Senhora da Hora",
+        "name": "Леди часа",
         "latitude": 41.18641,
         "longitude": -8.65172
     },
     {
-        "name": "Sermonde",
+        "name": "Сермонд",
         "latitude": 41.04712,
         "longitude": -8.58449
     },
     {
-        "name": "Seroa",
+        "name": "сыворотка",
         "latitude": 41.26511,
         "longitude": -8.42892
     },
     {
-        "name": "Serzedo",
+        "name": "Серседо",
         "latitude": 41.05105,
         "longitude": -8.61605
     },
     {
-        "name": "Sobrado",
+        "name": "чердак",
         "latitude": 41.21041,
         "longitude": -8.45488
     },
     {
-        "name": "Tel\u00f5es",
+        "name": "Большие экраны",
         "latitude": 41.31054,
         "longitude": -8.11101
     },
     {
-        "name": "Trofa",
+        "name": "трофей",
         "latitude": 41.30646,
         "longitude": -8.5764
     },
     {
-        "name": "Vair\u00e3o",
+        "name": "Пескарь",
         "latitude": 41.3329,
         "longitude": -8.66657
     },
     {
-        "name": "Valadares",
+        "name": "Валадарес",
         "latitude": 41.14737,
         "longitude": -7.9812
     },
     {
-        "name": "Valbom",
+        "name": "Валбом",
         "latitude": 41.12921,
         "longitude": -8.56199
     },
     {
-        "name": "Valongo",
+        "name": "Валонго",
         "latitude": 41.20797,
         "longitude": -8.50086
     },
     {
-        "name": "Vila do Conde",
+        "name": "Вилла дю Конде",
         "latitude": 41.35326,
         "longitude": -8.74516
     },
     {
-        "name": "Vila Me\u00e3",
+        "name": "Вила Меан",
         "latitude": 41.25116,
         "longitude": -8.18397
     },
     {
-        "name": "Vila Nova da Telha",
+        "name": "Вила-Нова-да-Телья",
         "latitude": 41.0717,
         "longitude": -8.64146
     },
     {
-        "name": "Vila Nova de Gaia",
+        "name": "Вила-Нова-де-Гайя",
         "latitude": 41.12401,
         "longitude": -8.61241
     },
     {
-        "name": "Vilar de Andorinho",
+        "name": "Деревня Андориньо",
         "latitude": 41.10574,
         "longitude": -8.58622
     },
     {
-        "name": "Vilar do Para\u00edso",
+        "name": "Райская деревня",
         "latitude": 41.08974,
         "longitude": -8.6211
     },
     {
-        "name": "Vilarinho",
+        "name": "Виларинью",
         "latitude": 41.35955,
         "longitude": -8.33123
     },
     {
-        "name": "Vizela",
+        "name": "Визела",
         "latitude": 41.38242,
         "longitude": -8.24887
     },
     {
-        "name": "Abrantes",
+        "name": "Абрантес",
         "latitude": 39.46667,
         "longitude": -8.2
     },
     {
-        "name": "Alcanede",
+        "name": "Альканеде",
         "latitude": 39.41501,
         "longitude": -8.82189
     },
     {
-        "name": "Alcanena",
+        "name": "Альканена",
         "latitude": 39.459,
         "longitude": -8.66892
     },
     {
-        "name": "Alcanh\u00f5es",
+        "name": "Альканойнс",
         "latitude": 39.29603,
         "longitude": -8.65847
     },
     {
-        "name": "Alferrarede",
+        "name": "Ленивый",
         "latitude": 39.48333,
         "longitude": -8.16667
     },
     {
-        "name": "Almeirim",
+        "name": "Альмейрим",
         "latitude": 39.20837,
         "longitude": -8.62635
     },
     {
-        "name": "Alpiar\u00e7a",
+        "name": "Альпиарса",
         "latitude": 39.25712,
         "longitude": -8.58187
     },
     {
-        "name": "Ami\u00e3es de Baixo",
+        "name": "Друзья де Байшу",
         "latitude": 39.44296,
         "longitude": -8.73358
     },
     {
-        "name": "Azinhaga",
+        "name": "Им все равно",
         "latitude": 39.34877,
         "longitude": -8.53005
     },
     {
-        "name": "Bemfica",
+        "name": "Бемфика",
         "latitude": 39.14325,
         "longitude": -8.68717
     },
     {
-        "name": "Benavente",
+        "name": "Бенавенте",
         "latitude": 38.908,
         "longitude": -8.76898
     },
     {
-        "name": "Cartaxo",
+        "name": "Карташо",
         "latitude": 39.15377,
         "longitude": -8.81373
     },
     {
-        "name": "Chamusca",
+        "name": "Скорч",
         "latitude": 39.299,
         "longitude": -8.39933
     },
     {
-        "name": "Const\u00e2ncia",
+        "name": "Постоянство",
         "latitude": 39.45718,
         "longitude": -8.30368
     },
     {
-        "name": "Coruche",
+        "name": "Корюш",
         "latitude": 38.9595,
         "longitude": -8.52745
     },
     {
-        "name": "Entroncamento",
+        "name": "перекресток",
         "latitude": 39.46667,
         "longitude": -8.46667
     },
     {
-        "name": "F\u00e1tima",
+        "name": "Фатима",
         "latitude": 39.62071,
         "longitude": -8.65237
     },
     {
-        "name": "Fazendas de Almeirim",
+        "name": "Фермы Альмейрима",
         "latitude": 39.17553,
         "longitude": -8.56927
     },
     {
-        "name": "Ferreira do Z\u00eazere",
+        "name": "Феррейра-ду-Зезере",
         "latitude": 39.72303,
         "longitude": -8.31661
     },
     {
-        "name": "Goleg\u00e3",
+        "name": "Голеган",
         "latitude": 39.38683,
         "longitude": -8.50591
     },
     {
-        "name": "Ma\u00e7\u00e3o",
+        "name": "Масао",
         "latitude": 39.59331,
         "longitude": -7.99772
     },
     {
-        "name": "Madalena",
+        "name": "Мадалена",
         "latitude": 39.57133,
         "longitude": -8.44635
     },
     {
-        "name": "Marinhais",
+        "name": "Военно-морской",
         "latitude": 39.0473,
         "longitude": -8.70236
     },
     {
-        "name": "Minde",
+        "name": "Память",
         "latitude": 39.51631,
         "longitude": -8.68799
     },
     {
-        "name": "Monsanto",
+        "name": "Монсанто",
         "latitude": 39.46203,
         "longitude": -8.7118
     },
     {
-        "name": "Montalvinho",
+        "name": "Монтальвиньо",
         "latitude": 39.48333,
         "longitude": -8.3
     },
     {
-        "name": "Montalvo",
+        "name": "Монтальво",
         "latitude": 39.48333,
         "longitude": -8.3
     },
     {
-        "name": "Our\u00e9m",
+        "name": "Оурем",
         "latitude": 39.66179,
         "longitude": -8.57895
     },
     {
-        "name": "Paialvo",
+        "name": "Паялова",
         "latitude": 39.56399,
         "longitude": -8.46835
     },
     {
-        "name": "Pego",
+        "name": "Пойманный",
         "latitude": 39.46146,
         "longitude": -8.14955
     },
     {
-        "name": "Pinheiro Grande",
+        "name": "Большая Сосна",
         "latitude": 39.39212,
         "longitude": -8.4341
     },
     {
-        "name": "Poceir\u00e3o",
+        "name": "Посейран",
         "latitude": 38.83095,
         "longitude": -8.79365
     },
     {
-        "name": "Pont\u00e9vel",
+        "name": "С точкой",
         "latitude": 39.14945,
         "longitude": -8.8388
     },
     {
-        "name": "Praia do Ribatejo",
+        "name": "Пляж Рибатехо",
         "latitude": 39.46667,
         "longitude": -8.35
     },
     {
-        "name": "Riachos",
+        "name": "Ручьи",
         "latitude": 39.44472,
         "longitude": -8.5142
     },
     {
-        "name": "Rio Maior",
+        "name": "Рио-Майор",
         "latitude": 39.34288,
         "longitude": -8.93806
     },
     {
-        "name": "Salvaterra de Magos",
+        "name": "Сальватерра-де-Магос",
         "latitude": 39.04482,
         "longitude": -8.68903
     },
     {
-        "name": "Samora Correia",
+        "name": "Самора Коррейя",
         "latitude": 38.93709,
         "longitude": -8.87178
     },
     {
-        "name": "Santa Margarida da Coutada",
+        "name": "Санта-Маргарида-да-Кутада",
         "latitude": 39.45,
         "longitude": -8.31667
     },
     {
-        "name": "Santar\u00e9m",
+        "name": "Сантарен",
         "latitude": 39.23333,
         "longitude": -8.68333
     },
     {
-        "name": "S\u00e3o Miguel de Rio Torto",
+        "name": "Сан-Мигель-де-Рио-Торто",
         "latitude": 39.43333,
         "longitude": -8.21667
     },
     {
-        "name": "S\u00e3o Vicente do Paul",
+        "name": "Сан-Висенте-ду-Поль",
         "latitude": 39.34946,
         "longitude": -8.62221
     },
     {
-        "name": "Sardoal",
+        "name": "Сардоал",
         "latitude": 39.55643,
         "longitude": -8.14323
     },
     {
-        "name": "Tomar",
+        "name": "Брать",
         "latitude": 39.60199,
         "longitude": -8.40924
     },
     {
-        "name": "Torres Novas",
+        "name": "Торрес Новас",
         "latitude": 39.4916,
         "longitude": -8.54796
     },
     {
-        "name": "Tramagal",
+        "name": "Трамагал",
         "latitude": 39.45,
         "longitude": -8.25
     },
     {
-        "name": "Vale de Figueira",
+        "name": "Долина Фигейра",
         "latitude": 39.30569,
         "longitude": -8.62876
     },
     {
-        "name": "Vale de Santar\u00e9m",
+        "name": "Долина Сантарен",
         "latitude": 39.19052,
         "longitude": -8.72735
     },
     {
-        "name": "Vila Ch\u00e3 de Ourique",
+        "name": "Вила Ча де Орике",
         "latitude": 39.17219,
         "longitude": -8.76658
     },
     {
-        "name": "Vila Nova da Barquinha",
+        "name": "Вилла Нова да Баркинья",
         "latitude": 39.46081,
         "longitude": -8.43588
     },
     {
-        "name": "Alc\u00e1cer do Sal",
+        "name": "Алькасер-ду-Сал",
         "latitude": 38.37326,
         "longitude": -8.51444
     },
     {
-        "name": "Alcochete",
+        "name": "Алкочете",
         "latitude": 38.73827,
         "longitude": -8.97936
     },
     {
-        "name": "Aldeia de Paio Pires",
+        "name": "Деревня Пайо Пирес",
         "latitude": 38.61667,
         "longitude": -9.08333
     },
     {
-        "name": "Alhos Vedros",
+        "name": "Чеснок Ведрос",
         "latitude": 38.65486,
         "longitude": -9.02368
     },
     {
-        "name": "Almada",
+        "name": "Алмада",
         "latitude": 38.67902,
         "longitude": -9.1569
     },
     {
-        "name": "Amora",
+        "name": "Ежевика",
         "latitude": 38.62961,
         "longitude": -9.11557
     },
     {
-        "name": "Arrentela",
+        "name": "Аррентела",
         "latitude": 38.625,
         "longitude": -9.10151
     },
     {
-        "name": "Azeit\u00e3o",
+        "name": "Азейтан",
         "latitude": 38.51919,
         "longitude": -9.0139
     },
     {
-        "name": "Barreiro",
+        "name": "барьер",
         "latitude": 38.66314,
         "longitude": -9.0724
     },
     {
-        "name": "Cacilhas",
+        "name": "Касильяс",
         "latitude": 38.68638,
         "longitude": -9.14938
     },
     {
-        "name": "Caparica",
+        "name": "Капарика",
         "latitude": 38.66179,
         "longitude": -9.20032
     },
     {
-        "name": "Cercal",
+        "name": "Серкаль",
         "latitude": 37.80129,
         "longitude": -8.674
     },
     {
-        "name": "Charneca de Caparica",
+        "name": "Капарика Чарнека",
         "latitude": 38.62032,
         "longitude": -9.19426
     },
     {
-        "name": "Comporta",
+        "name": "лиды",
         "latitude": 38.38059,
         "longitude": -8.78608
     },
     {
-        "name": "Corroios",
+        "name": "Корройос",
         "latitude": 38.64004,
         "longitude": -9.1508
     },
     {
-        "name": "Costa de Caparica",
+        "name": "Коста де Капарика",
         "latitude": 38.64458,
         "longitude": -9.23556
     },
     {
-        "name": "Gr\u00e2ndola",
+        "name": "Грандола",
         "latitude": 38.18999,
         "longitude": -8.61197
     },
     {
-        "name": "Laranjeira",
+        "name": "Апельсин",
         "latitude": 38.65599,
         "longitude": -9.15376
     },
     {
-        "name": "Lavradio",
+        "name": "Лаврадио",
         "latitude": 38.66808,
         "longitude": -9.05204
     },
     {
-        "name": "Moita",
+        "name": "много",
         "latitude": 38.65854,
         "longitude": -9.0104
     },
     {
-        "name": "Montijo",
+        "name": "Монтихо",
         "latitude": 38.7299,
         "longitude": -8.69364
     },
     {
-        "name": "Palmela",
+        "name": "Палмела",
         "latitude": 38.56902,
         "longitude": -8.90126
     },
     {
-        "name": "Piedade",
+        "name": "Благочестие",
         "latitude": 38.67005,
         "longitude": -9.15852
     },
     {
-        "name": "Pinhal Novo",
+        "name": "Пинхал Ново",
         "latitude": 38.63106,
         "longitude": -8.91376
     },
     {
-        "name": "Porto Covo",
+        "name": "Порто Ково",
         "latitude": 37.85256,
         "longitude": -8.79018
     },
     {
-        "name": "Pragal",
+        "name": "Прагал",
         "latitude": 38.67459,
         "longitude": -9.16981
     },
     {
-        "name": "Quinta do Anjo",
+        "name": "Кинта-ду-Анжу",
         "latitude": 38.56753,
         "longitude": -8.94228
     },
     {
-        "name": "Quinta Do Conde",
+        "name": "Кинта До Конде",
         "latitude": 38.56528,
         "longitude": -9.04316
     },
     {
-        "name": "Rosairinho",
+        "name": "Росайринью",
         "latitude": 38.67734,
         "longitude": -9.00836
     },
     {
-        "name": "Samouco",
+        "name": "Самоко",
         "latitude": 38.72035,
         "longitude": -9.00471
     },
     {
-        "name": "Santiago do Cac\u00e9m",
+        "name": "Сантьяго-ду-Касем",
         "latitude": 38.02502,
         "longitude": -8.67577
     },
     {
-        "name": "Santo Andr\u00e9",
+        "name": "Святой Андрей",
         "latitude": 38.06078,
         "longitude": -8.7822
     },
     {
-        "name": "Santo Ant\u00f3nio da Charneca",
+        "name": "Санто-Антонио-да-Шарнека",
         "latitude": 38.62561,
         "longitude": -9.03043
     },
     {
-        "name": "Sarilhos Pequenos",
+        "name": "Маленькая проблема",
         "latitude": 38.68176,
         "longitude": -8.98231
     },
     {
-        "name": "Seixal",
+        "name": "Сейшал",
         "latitude": 38.61173,
         "longitude": -9.10371
     },
     {
-        "name": "Sesimbra",
+        "name": "Сезимбра",
         "latitude": 38.49486,
         "longitude": -9.12011
     },
     {
-        "name": "Set\u00fabal",
+        "name": "Сетубал",
         "latitude": 38.5244,
         "longitude": -8.8882
     },
     {
-        "name": "Sines",
+        "name": "синусы",
         "latitude": 37.95622,
         "longitude": -8.86979
     },
     {
-        "name": "Sobreda",
+        "name": "Окружение",
         "latitude": 38.64961,
         "longitude": -9.18977
     },
     {
-        "name": "Trafaria",
+        "name": "Трафария",
         "latitude": 38.67222,
         "longitude": -9.23268
     },
     {
-        "name": "Arcos de Valdevez",
+        "name": "Аркос де Вальдевес",
         "latitude": 41.84668,
         "longitude": -8.41905
     },
     {
-        "name": "Caminha",
+        "name": "Ходить",
         "latitude": 41.84647,
         "longitude": -8.80133
     },
     {
-        "name": "Melga\u00e7o",
+        "name": "Мельгасо",
         "latitude": 42.08067,
         "longitude": -8.24844
     },
     {
-        "name": "Mon\u00e7\u00e3o",
+        "name": "Муссон",
         "latitude": 42.07892,
         "longitude": -8.48076
     },
     {
-        "name": "Paredes de Coura",
+        "name": "Стены Куры",
         "latitude": 41.90995,
         "longitude": -8.57034
     },
     {
-        "name": "Ponte da Barca",
+        "name": "Лодочный мост",
         "latitude": 41.80669,
         "longitude": -8.31014
     },
     {
-        "name": "Ponte de Lima",
+        "name": "Лимский мост",
         "latitude": 41.74682,
         "longitude": -8.57637
     },
     {
-        "name": "Valen\u00e7a",
+        "name": "Валенса",
         "latitude": 42.02821,
         "longitude": -8.63388
     },
     {
-        "name": "Viana do Castelo",
+        "name": "Виана-ду-Каштелу",
         "latitude": 41.69371,
         "longitude": -8.83456
     },
     {
-        "name": "Alij\u00f3",
+        "name": "Алихо",
         "latitude": 41.28447,
         "longitude": -7.48545
     },
     {
-        "name": "Boticas",
+        "name": "Ботикас",
         "latitude": 41.68939,
         "longitude": -7.66914
     },
     {
-        "name": "Chaves",
+        "name": "Шавес",
         "latitude": 41.73961,
         "longitude": -7.4503
     },
     {
-        "name": "Favaios",
+        "name": "Фавайос",
         "latitude": 41.26876,
         "longitude": -7.50465
     },
     {
-        "name": "Godim",
+        "name": "Мой год",
         "latitude": 41.17104,
         "longitude": -7.80303
     },
     {
-        "name": "Mes\u00e3o Frio",
+        "name": "Месан Фриу",
         "latitude": 41.1619,
         "longitude": -7.87284
     },
     {
-        "name": "Mondim de Basto",
+        "name": "Мондим де Басто",
         "latitude": 41.41347,
         "longitude": -7.95479
     },
     {
-        "name": "Montalegre",
+        "name": "Монталегре",
         "latitude": 41.8318,
         "longitude": -7.78999
     },
     {
-        "name": "Mur\u00e7a",
+        "name": "Мурса",
         "latitude": 41.41825,
         "longitude": -7.45121
     },
     {
-        "name": "Peso da R\u00e9gua",
+        "name": "Вес линейки",
         "latitude": 41.19157,
         "longitude": -7.83668
     },
     {
-        "name": "Ribeira de Pena",
+        "name": "Рибейра-де-Пенья",
         "latitude": 41.51021,
         "longitude": -7.79673
     },
     {
-        "name": "Sabrosa",
+        "name": "Вкусный",
         "latitude": 41.26702,
         "longitude": -7.57601
     },
     {
-        "name": "Santa Cruz",
+        "name": "Санта Круз",
         "latitude": 41.76007,
         "longitude": -7.46834
     },
     {
-        "name": "Santa Marta de Penagui\u00e3o",
+        "name": "Санта-Марта-де-Пенагиан",
         "latitude": 41.20991,
         "longitude": -7.78386
     },
     {
-        "name": "Sobreira",
+        "name": "Собрейра",
         "latitude": 41.52371,
         "longitude": -7.80234
     },
     {
-        "name": "Valpa\u00e7os",
+        "name": "Вальпасос",
         "latitude": 41.62082,
         "longitude": -7.33607
     },
     {
-        "name": "Vila Pouca de Aguiar",
+        "name": "Вила Пука де Агиар",
         "latitude": 41.52079,
         "longitude": -7.63671
     },
     {
-        "name": "Vila Real",
+        "name": "Настоящая деревня",
         "latitude": 41.30021,
         "longitude": -7.73985
     },
     {
-        "name": "Vilela",
+        "name": "Вилела",
         "latitude": 41.22511,
         "longitude": -7.60338
     },
     {
-        "name": "Abraveses",
+        "name": "Абравесы",
         "latitude": 40.68137,
         "longitude": -7.92102
     },
     {
-        "name": "Armamar",
+        "name": "Армамар",
         "latitude": 41.09718,
         "longitude": -7.68553
     },
     {
-        "name": "Cabanas de Viriato",
+        "name": "Хижины Вириато",
         "latitude": 40.47662,
         "longitude": -7.97445
     },
     {
-        "name": "Campo",
+        "name": "Кампо",
         "latitude": 40.71086,
         "longitude": -7.91445
     },
     {
-        "name": "Campo de Besteiros",
+        "name": "Поле Бестейроса",
         "latitude": 40.55655,
         "longitude": -8.13432
     },
     {
-        "name": "Canas de Senhorim",
+        "name": "Канас-де-Сеньорим",
         "latitude": 40.50012,
         "longitude": -7.89874
     },
     {
-        "name": "Carregal do Sal",
+        "name": "Каррегаль-ду-Сал",
         "latitude": 40.45007,
         "longitude": -7.99819
     },
     {
-        "name": "Castro Daire",
+        "name": "Кастро Дайре",
         "latitude": 40.92279,
         "longitude": -7.93878
     },
     {
-        "name": "Cinf\u00e3es",
+        "name": "Синфайнс",
         "latitude": 41.03986,
         "longitude": -8.11218
     },
     {
-        "name": "Ervedosa do Douro",
+        "name": "Эрведоса-ду-Доро",
         "latitude": 41.16626,
         "longitude": -7.47305
     },
     {
-        "name": "Lamego",
+        "name": "Ламего",
         "latitude": 41.10229,
         "longitude": -7.81025
     },
     {
-        "name": "Mangualde",
+        "name": "Мангуальде",
         "latitude": 40.60425,
         "longitude": -7.76115
     },
     {
-        "name": "Moimenta da Beira",
+        "name": "Моймента да Бейра",
         "latitude": 40.97134,
         "longitude": -7.62959
     },
     {
-        "name": "Mort\u00e1gua",
+        "name": "Мортагуа",
         "latitude": 40.39434,
         "longitude": -8.25811
     },
     {
-        "name": "Nelas",
+        "name": "В них",
         "latitude": 40.53216,
         "longitude": -7.85152
     },
     {
-        "name": "Oliveira de Frades",
+        "name": "Оливейра де Фрадес",
         "latitude": 40.73357,
         "longitude": -8.17481
     },
     {
-        "name": "Penalva do Castelo",
+        "name": "Замок Пенальти",
         "latitude": 40.66791,
         "longitude": -7.66015
     },
     {
-        "name": "Penedono",
+        "name": "Пенедоно",
         "latitude": 40.98875,
         "longitude": -7.39386
     },
     {
-        "name": "Resende",
+        "name": "Повторить",
         "latitude": 41.07688,
         "longitude": -7.95123
     },
     {
-        "name": "Rio de Loba",
+        "name": "Рио-де-Лоба",
         "latitude": 40.66596,
         "longitude": -7.87781
     },
     {
-        "name": "Santa Comba D\u00e3o",
+        "name": "Санта Комба Дао",
         "latitude": 40.40442,
         "longitude": -8.1138
     },
     {
-        "name": "S\u00e3o Jo\u00e3o da Pesqueira",
+        "name": "Сан-Хуан-да-Пескейра",
         "latitude": 41.14805,
         "longitude": -7.40489
     },
     {
-        "name": "S\u00e3o Jo\u00e3o de Areias",
+        "name": "Святой Иоанн Арейский",
         "latitude": 40.38722,
         "longitude": -8.06783
     },
     {
-        "name": "S\u00e3o Pedro do Sul",
+        "name": "Сан-Педро-ду-Сул",
         "latitude": 40.80073,
         "longitude": -8.09023
     },
     {
-        "name": "S\u00e1t\u00e3o",
+        "name": "Сатана",
         "latitude": 40.76246,
         "longitude": -7.676
     },
     {
-        "name": "Sernancelhe",
+        "name": "Сернанселье",
         "latitude": 40.92097,
         "longitude": -7.51226
     },
     {
-        "name": "Tabua\u00e7o",
+        "name": "Табуасу",
         "latitude": 41.09555,
         "longitude": -7.56735
     },
     {
-        "name": "Tarouca",
+        "name": "Тарока",
         "latitude": 41.02651,
         "longitude": -7.74998
     },
     {
-        "name": "Tondela",
+        "name": "Тондела",
         "latitude": 40.54052,
         "longitude": -8.1004
     },
     {
-        "name": "Treixedo",
+        "name": "Трейкседо",
         "latitude": 40.43246,
         "longitude": -8.09428
     },
     {
-        "name": "Vila Nova de Paiva",
+        "name": "Вилла Нова де Пайва",
         "latitude": 40.8659,
         "longitude": -7.76127
     },
     {
-        "name": "Viseu",
+        "name": "Визеу",
         "latitude": 40.6745,
         "longitude": -7.91721
     },
     {
-        "name": "Vouzela",
+        "name": "Вузела",
         "latitude": 40.68944,
         "longitude": -8.1136
     }

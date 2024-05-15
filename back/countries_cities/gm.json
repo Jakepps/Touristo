@@ -1,116 +1,116 @@
 [
     {
-        "name": "Bakau",
+        "name": "Мангровые заросли",
         "latitude": 13.47806,
         "longitude": -16.68194
     },
     {
-        "name": "Banjul",
+        "name": "Банжул",
         "latitude": 13.45274,
         "longitude": -16.57803
     },
     {
-        "name": "Kombo Saint Mary District",
+        "name": "Комбо, округ Сент-Мэри",
         "latitude": 13.44389,
         "longitude": -16.64583
     },
     {
-        "name": "Serekunda",
+        "name": "Серекунда",
         "latitude": 13.43833,
         "longitude": -16.67806
     },
     {
-        "name": "Bansang",
+        "name": "Страна",
         "latitude": 13.43333,
         "longitude": -14.65
     },
     {
-        "name": "Brikama Nding",
+        "name": "Брикама Ндинг",
         "latitude": 13.53333,
         "longitude": -14.93333
     },
     {
-        "name": "Dankunku",
+        "name": "Твой сын",
         "latitude": 13.56667,
         "longitude": -15.31667
     },
     {
-        "name": "Denton",
+        "name": "Дентон",
         "latitude": 13.5,
         "longitude": -14.93333
     },
     {
-        "name": "Fulladu West",
+        "name": "Фулладу Вест",
         "latitude": 13.5,
         "longitude": -14.75
     },
     {
-        "name": "Galleh Manda",
+        "name": "Галле Манда",
         "latitude": 13.43333,
         "longitude": -14.78333
     },
     {
-        "name": "Georgetown",
+        "name": "Джорджтаун",
         "latitude": 13.54039,
         "longitude": -14.76374
     },
     {
-        "name": "Jakhaly",
+        "name": "Джахалы",
         "latitude": 13.55,
         "longitude": -14.96667
     },
     {
-        "name": "Janjanbureh",
+        "name": "Джанджанбурех",
         "latitude": 13.53564,
         "longitude": -14.76515
     },
     {
-        "name": "Jarreng",
+        "name": "Джарренг",
         "latitude": 13.61667,
         "longitude": -15.18333
     },
     {
-        "name": "Karantaba",
+        "name": "Учиться",
         "latitude": 13.66667,
         "longitude": -15.03333
     },
     {
-        "name": "Kass Wollof",
+        "name": "Касс Воллоф",
         "latitude": 13.78333,
         "longitude": -14.93333
     },
     {
-        "name": "Kuntaur",
+        "name": "Кунтаур",
         "latitude": 13.67085,
         "longitude": -14.88977
     },
     {
-        "name": "Kunting",
+        "name": "Маленький",
         "latitude": 13.53333,
         "longitude": -14.66667
     },
     {
-        "name": "Lower Saloum",
+        "name": "Нижний Салум",
         "latitude": 13.71667,
         "longitude": -15.36667
     },
     {
-        "name": "Niamina East District",
+        "name": "Ниамина Восточный округ",
         "latitude": 13.63333,
         "longitude": -15.08333
     },
     {
-        "name": "Niamina West District",
+        "name": "Я верю, что Западный округ",
         "latitude": 13.58333,
         "longitude": -15.25
     },
     {
-        "name": "Niani",
+        "name": "В этом",
         "latitude": 13.66667,
         "longitude": -14.91667
     },
     {
-        "name": "Nianija District",
+        "name": "Ниания Район",
         "latitude": 13.729,
         "longitude": -15.091
     },
@@ -120,402 +120,402 @@
         "longitude": -15.06667
     },
     {
-        "name": "Sami",
+        "name": "Сами",
         "latitude": 13.58333,
         "longitude": -15.2
     },
     {
-        "name": "Sami District",
+        "name": "Саамский район",
         "latitude": 13.58333,
         "longitude": -14.58333
     },
     {
-        "name": "Saruja",
+        "name": "Саруха",
         "latitude": 13.55,
         "longitude": -14.91667
     },
     {
-        "name": "Sukuta",
+        "name": "Сукута",
         "latitude": 13.61667,
         "longitude": -14.91667
     },
     {
-        "name": "Upper Saloum",
+        "name": "Верхний Салум",
         "latitude": 13.75,
         "longitude": -15.2
     },
     {
-        "name": "Wassu",
+        "name": "Некоторый",
         "latitude": 13.69094,
         "longitude": -14.87884
     },
     {
-        "name": "Baro Kunda",
+        "name": "Баро Кунда",
         "latitude": 13.48333,
         "longitude": -15.26667
     },
     {
-        "name": "Bureng",
+        "name": "Птица",
         "latitude": 13.41667,
         "longitude": -15.28333
     },
     {
-        "name": "Jali",
+        "name": "Ну давай же",
         "latitude": 13.35,
         "longitude": -15.96667
     },
     {
-        "name": "Jarra Central",
+        "name": "Центральный кувшин",
         "latitude": 13.41667,
         "longitude": -15.41667
     },
     {
-        "name": "Jarra East",
+        "name": "Восточный Питчер",
         "latitude": 13.41667,
         "longitude": -15.25
     },
     {
-        "name": "Jarra West",
+        "name": "Западный Джар",
         "latitude": 13.41667,
         "longitude": -15.53333
     },
     {
-        "name": "Jenoi",
+        "name": "Дженой",
         "latitude": 13.48333,
         "longitude": -15.56667
     },
     {
-        "name": "Jifarong",
+        "name": "Джифаронг",
         "latitude": 13.3,
         "longitude": -15.86667
     },
     {
-        "name": "Kaiaf",
+        "name": "Кайаф",
         "latitude": 13.4,
         "longitude": -15.61667
     },
     {
-        "name": "Karantaba",
+        "name": "Учиться",
         "latitude": 13.43333,
         "longitude": -15.51667
     },
     {
-        "name": "Keneba",
+        "name": "Кенба",
         "latitude": 13.32889,
         "longitude": -16.015
     },
     {
-        "name": "Kiang Central",
+        "name": "Кианг Центральный",
         "latitude": 13.4,
         "longitude": -15.75
     },
     {
-        "name": "Kiang East",
+        "name": "Кианг Восток",
         "latitude": 13.41667,
         "longitude": -15.63333
     },
     {
-        "name": "Kiang West District",
+        "name": "Кианг Западный округ",
         "latitude": 13.33333,
         "longitude": -16.0
     },
     {
-        "name": "Mansa Konko",
+        "name": "Манса Конго",
         "latitude": 13.44325,
         "longitude": -15.5357
     },
     {
-        "name": "Nioro",
+        "name": "Ниоро",
         "latitude": 13.35,
         "longitude": -15.75
     },
     {
-        "name": "Sankwia",
+        "name": "Санквия",
         "latitude": 13.46667,
         "longitude": -15.51667
     },
     {
-        "name": "Si Kunda",
+        "name": "Ты Кунда",
         "latitude": 13.43333,
         "longitude": -15.56667
     },
     {
-        "name": "Soma",
+        "name": "Сома",
         "latitude": 13.43333,
         "longitude": -15.53333
     },
     {
-        "name": "Sutukung",
+        "name": "Сутукунг",
         "latitude": 13.46667,
         "longitude": -15.26667
     },
     {
-        "name": "Toniataba",
+        "name": "Тониатаба",
         "latitude": 13.43333,
         "longitude": -15.58333
     },
     {
-        "name": "Wellingara Ba",
+        "name": "Веллингара Ба",
         "latitude": 13.41667,
         "longitude": -15.4
     },
     {
-        "name": "Bambali",
+        "name": "Бамбали",
         "latitude": 13.48333,
         "longitude": -15.33333
     },
     {
-        "name": "Barra",
+        "name": "Барра",
         "latitude": 13.48278,
         "longitude": -16.54556
     },
     {
-        "name": "Central Baddibu",
+        "name": "Центральный Баддибу",
         "latitude": 13.53333,
         "longitude": -15.91667
     },
     {
-        "name": "Chilla",
+        "name": "Расслабляться",
         "latitude": 13.55,
         "longitude": -16.28333
     },
     {
-        "name": "Daru Rilwan",
+        "name": "Дару Рилван",
         "latitude": 13.55,
         "longitude": -15.98333
     },
     {
-        "name": "Essau",
+        "name": "Эссау",
         "latitude": 13.48389,
         "longitude": -16.53472
     },
     {
-        "name": "Farafenni",
+        "name": "Фарафенни",
         "latitude": 13.56667,
         "longitude": -15.6
     },
     {
-        "name": "Gunjur",
+        "name": "Гунджур",
         "latitude": 13.52278,
         "longitude": -16.02778
     },
     {
-        "name": "Jokadu",
+        "name": "Джокаду",
         "latitude": 13.53333,
         "longitude": -16.18333
     },
     {
-        "name": "Katchang",
+        "name": "Катчанг",
         "latitude": 13.5,
         "longitude": -15.75
     },
     {
-        "name": "Kerewan",
+        "name": "Создание",
         "latitude": 13.4898,
         "longitude": -16.08879
     },
     {
-        "name": "Lamin",
+        "name": "Ламин",
         "latitude": 13.35222,
         "longitude": -16.43389
     },
     {
-        "name": "Lower Baddibu District",
+        "name": "Нижний район Баддибу",
         "latitude": 13.5,
         "longitude": -16.05
     },
     {
-        "name": "Lower Niumi District",
+        "name": "Нижний Ниумиский район",
         "latitude": 13.53333,
         "longitude": -16.41667
     },
     {
-        "name": "No Kunda",
+        "name": "Нет Кунда",
         "latitude": 13.56667,
         "longitude": -15.83333
     },
     {
-        "name": "Saba",
+        "name": "Саба",
         "latitude": 13.51639,
         "longitude": -16.04917
     },
     {
-        "name": "Sara Kunda",
+        "name": "Сара Кунда",
         "latitude": 13.53333,
         "longitude": -15.41667
     },
     {
-        "name": "Upper Baddibu",
+        "name": "Верхний Баддибу",
         "latitude": 13.55,
         "longitude": -15.66667
     },
     {
-        "name": "Upper Niumi District",
+        "name": "Район Верхний Ниуми",
         "latitude": 13.4,
         "longitude": -16.33333
     },
     {
-        "name": "Bakadagy",
+        "name": "Бакадаги",
         "latitude": 13.3,
         "longitude": -14.38333
     },
     {
-        "name": "Basse Santa Su",
+        "name": "Бассе Санта Су",
         "latitude": 13.30995,
         "longitude": -14.21373
     },
     {
-        "name": "Brifu",
+        "name": "Брифу",
         "latitude": 13.5,
         "longitude": -13.93333
     },
     {
-        "name": "Daba Kunda",
+        "name": "Нажмите Кунда",
         "latitude": 13.31667,
         "longitude": -14.3
     },
     {
-        "name": "Demba Kunda",
+        "name": "Демба Кунда",
         "latitude": 13.25,
         "longitude": -14.26667
     },
     {
-        "name": "Diabugu",
+        "name": "Избитый",
         "latitude": 13.38333,
         "longitude": -14.4
     },
     {
-        "name": "Diabugu Basilla",
+        "name": "Дьявол Базилла",
         "latitude": 13.33333,
         "longitude": -13.95
     },
     {
-        "name": "Fulladu East",
+        "name": "Фулладу Восток",
         "latitude": 13.33333,
         "longitude": -14.25
     },
     {
-        "name": "Gunjur Kuta",
+        "name": "Гунджур Кута",
         "latitude": 13.53333,
         "longitude": -14.11667
     },
     {
-        "name": "Kantora",
+        "name": "Кантор",
         "latitude": 13.41667,
         "longitude": -13.91667
     },
     {
-        "name": "Koina",
+        "name": "Расходы",
         "latitude": 13.48333,
         "longitude": -13.86667
     },
     {
-        "name": "Kumbija",
+        "name": "Кумбия",
         "latitude": 13.26667,
         "longitude": -14.18333
     },
     {
-        "name": "Nyamanari",
+        "name": "Ньяманари",
         "latitude": 13.33333,
         "longitude": -13.86667
     },
     {
-        "name": "Perai",
+        "name": "Перай",
         "latitude": 13.38333,
         "longitude": -14.03333
     },
     {
-        "name": "Sabi",
+        "name": "Сказал",
         "latitude": 13.23333,
         "longitude": -14.2
     },
     {
-        "name": "Sandu",
+        "name": "песок",
         "latitude": 13.41667,
         "longitude": -14.36667
     },
     {
-        "name": "Sudowol",
+        "name": "Судовол",
         "latitude": 13.36667,
         "longitude": -13.96667
     },
     {
-        "name": "Sun Kunda",
+        "name": "Сунь Кунда",
         "latitude": 13.38333,
         "longitude": -13.85
     },
     {
-        "name": "Sutukoba",
+        "name": "Чемодан",
         "latitude": 13.5,
         "longitude": -14.01667
     },
     {
-        "name": "Wuli",
+        "name": "Вули",
         "latitude": 13.5,
         "longitude": -14.08333
     },
     {
-        "name": "Abuko",
+        "name": "Абуко",
         "latitude": 13.40417,
         "longitude": -16.65583
     },
     {
-        "name": "Brikama",
+        "name": "Брикама",
         "latitude": 13.27136,
         "longitude": -16.64944
     },
     {
-        "name": "Foni Bondali",
+        "name": "Телефон Бондали",
         "latitude": 13.21667,
         "longitude": -15.93333
     },
     {
-        "name": "Foni Brefet",
+        "name": "Фони Брефет",
         "latitude": 13.21667,
         "longitude": -16.33333
     },
     {
-        "name": "Foni Jarrol",
+        "name": "Фони Джаррол",
         "latitude": 13.23333,
         "longitude": -15.83333
     },
     {
-        "name": "Foni Kansala",
+        "name": "Телефон советника",
         "latitude": 13.21667,
         "longitude": -16.05
     },
     {
-        "name": "Gunjur",
+        "name": "Гунджур",
         "latitude": 13.20194,
         "longitude": -16.73389
     },
     {
-        "name": "Kombo Central District",
+        "name": "Центральный район Комбо",
         "latitude": 13.25,
         "longitude": -16.66667
     },
     {
-        "name": "Kombo East District",
+        "name": "Комбо Восточный округ",
         "latitude": 13.21667,
         "longitude": -16.51667
     },
     {
-        "name": "Kombo North District",
+        "name": "Комбо Северный округ",
         "latitude": 13.36667,
         "longitude": -16.66667
     },
     {
-        "name": "Kombo South District",
+        "name": "Комбо Южный округ",
         "latitude": 13.25,
         "longitude": -16.75
     },
     {
-        "name": "Somita",
+        "name": "Сомита",
         "latitude": 13.20583,
         "longitude": -16.30556
     },
     {
-        "name": "Sukuta",
+        "name": "Сукута",
         "latitude": 13.41033,
         "longitude": -16.70815
     }

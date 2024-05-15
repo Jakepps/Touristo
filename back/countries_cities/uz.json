@@ -1,676 +1,676 @@
 [
     {
-        "name": "Andijon",
+        "name": "Андижан",
         "latitude": 40.78206,
         "longitude": 72.34424
     },
     {
-        "name": "Andijon Tumani",
+        "name": "Андижанский район",
         "latitude": 40.8,
         "longitude": 72.41667
     },
     {
-        "name": "Asaka",
+        "name": "Асака",
         "latitude": 40.64153,
         "longitude": 72.23868
     },
     {
-        "name": "Asaka Tumani",
+        "name": "Асакинский район",
         "latitude": 40.66667,
         "longitude": 72.25
     },
     {
-        "name": "Baliqchi Tumani",
+        "name": "Рыбацкий район",
         "latitude": 40.86667,
         "longitude": 72.0
     },
     {
-        "name": "Bo\u2018z Tumani",
+        "name": "Бозский район",
         "latitude": 40.66667,
         "longitude": 71.91667
     },
     {
-        "name": "Buloqboshi Tumani",
+        "name": "Булагбошинский район",
         "latitude": 40.61667,
         "longitude": 72.46667
     },
     {
-        "name": "Izboskan Tumani",
+        "name": "Избосканский район",
         "latitude": 40.91667,
         "longitude": 72.25
     },
     {
-        "name": "Jalolkuduk Tumani",
+        "name": "Джалалкудукский район",
         "latitude": 40.75,
         "longitude": 72.66667
     },
     {
-        "name": "Kh\u016djaobod Tumani",
+        "name": "Ходжаабадский район",
         "latitude": 40.66667,
         "longitude": 72.58333
     },
     {
-        "name": "Marhamat",
+        "name": "Спасибо",
         "latitude": 40.48048,
         "longitude": 72.31388
     },
     {
-        "name": "Marhamat Tumani",
+        "name": "Грейс Район",
         "latitude": 40.5,
         "longitude": 72.31667
     },
     {
-        "name": "Oltink\u016dl Tumani",
+        "name": "Золотой район",
         "latitude": 40.8,
         "longitude": 72.16667
     },
     {
-        "name": "Pakhtaobod Tumani",
+        "name": "Пахтабадский район",
         "latitude": 40.93333,
         "longitude": 72.5
     },
     {
-        "name": "Paxtaobod",
+        "name": "Пахтабад",
         "latitude": 40.92936,
         "longitude": 72.49687
     },
     {
-        "name": "Qo\u2018rg\u2018ontepa",
+        "name": "Кургантепа",
         "latitude": 40.73192,
         "longitude": 72.76177
     },
     {
-        "name": "Q\u016drghontepa Tumani",
+        "name": "Кургонтепинский район",
         "latitude": 40.75,
         "longitude": 72.83333
     },
     {
-        "name": "Shahrikhon Tumani",
+        "name": "Шахриханский район",
         "latitude": 40.71667,
         "longitude": 72.06667
     },
     {
-        "name": "Shahrixon",
+        "name": "Шахри Хан",
         "latitude": 40.71331,
         "longitude": 72.05706
     },
     {
-        "name": "Ulug\u2018nor Tumani",
+        "name": "Большой район",
         "latitude": 40.75,
         "longitude": 71.7
     },
     {
-        "name": "Xo\u2018jaobod",
+        "name": "Ходжаабад",
         "latitude": 40.66886,
         "longitude": 72.56002
     },
     {
-        "name": "Bukhara",
+        "name": "Бухара",
         "latitude": 39.77472,
         "longitude": 64.42861
     },
     {
-        "name": "Galaosiyo",
+        "name": "Галасио",
         "latitude": 39.85778,
         "longitude": 64.44833
     },
     {
-        "name": "Gazli",
+        "name": "Газообразный",
         "latitude": 40.13333,
         "longitude": 63.45
     },
     {
-        "name": "Ghijduwon",
+        "name": "Гиждувон",
         "latitude": 40.1,
         "longitude": 64.68333
     },
     {
-        "name": "Karakul\u2019",
+        "name": "Каракуль",
         "latitude": 39.53333,
         "longitude": 63.83333
     },
     {
-        "name": "Kogon",
+        "name": "Пещера",
         "latitude": 39.72278,
         "longitude": 64.55167
     },
     {
-        "name": "Olot",
+        "name": "Олот",
         "latitude": 39.415,
         "longitude": 63.80333
     },
     {
-        "name": "Peshku Tumani",
+        "name": "Пешкуский район",
         "latitude": 40.41667,
         "longitude": 63.83333
     },
     {
-        "name": "Qorako\u2019l",
+        "name": "Каракол",
         "latitude": 39.49944,
         "longitude": 63.85389
     },
     {
-        "name": "Qorovulbozor",
+        "name": "Охранный рынок",
         "latitude": 39.50056,
         "longitude": 64.79361
     },
     {
-        "name": "Romiton",
+        "name": "Ромитон",
         "latitude": 39.92944,
         "longitude": 64.37944
     },
     {
-        "name": "Shofirkon",
+        "name": "Шафиркон",
         "latitude": 40.12,
         "longitude": 64.50139
     },
     {
-        "name": "Wobkent",
+        "name": "Вобкент",
         "latitude": 40.03028,
         "longitude": 64.515
     },
     {
-        "name": "Wobkent Tumani",
+        "name": "Вобкентский район",
         "latitude": 40.0,
         "longitude": 64.5
     },
     {
-        "name": "Beshariq",
+        "name": "Бешарик",
         "latitude": 40.43583,
         "longitude": 70.61028
     },
     {
-        "name": "Fergana",
+        "name": "Фергана",
         "latitude": 40.38421,
         "longitude": 71.78432
     },
     {
-        "name": "Hamza",
+        "name": "Хамза",
         "latitude": 40.42762,
         "longitude": 71.50534
     },
     {
-        "name": "Kirguli",
+        "name": "Киргули",
         "latitude": 40.43553,
         "longitude": 71.76721
     },
     {
-        "name": "Marg\u2018ilon",
+        "name": "Маргилон",
         "latitude": 40.47237,
         "longitude": 71.72463
     },
     {
-        "name": "Oltiariq",
+        "name": "Шесть",
         "latitude": 40.39194,
         "longitude": 71.47417
     },
     {
-        "name": "Qo\u2018qon",
+        "name": "Кокан",
         "latitude": 40.52861,
         "longitude": 70.9425
     },
     {
-        "name": "Quva",
+        "name": "Гнаться",
         "latitude": 40.52204,
         "longitude": 72.07292
     },
     {
-        "name": "Quvasoy",
+        "name": "Кувасой",
         "latitude": 40.29721,
         "longitude": 71.98026
     },
     {
-        "name": "Rishton",
+        "name": "Риштон",
         "latitude": 40.35667,
         "longitude": 71.28472
     },
     {
-        "name": "Shohimardon",
+        "name": "Шахимардан",
         "latitude": 39.98322,
         "longitude": 71.80512
     },
     {
-        "name": "So\u2018x Tumani",
+        "name": "Со'кс Тумани",
         "latitude": 40.04417,
         "longitude": 71.09417
     },
     {
-        "name": "Toshloq",
+        "name": "Камень",
         "latitude": 40.47722,
         "longitude": 71.76778
     },
     {
-        "name": "Yangi Marg\u2018ilon",
+        "name": "Новый Маргилан",
         "latitude": 40.42722,
         "longitude": 71.71889
     },
     {
-        "name": "Yaypan",
+        "name": "Яйпан",
         "latitude": 40.37583,
         "longitude": 70.81556
     },
     {
-        "name": "Dashtobod",
+        "name": "Даштабад",
         "latitude": 40.12694,
         "longitude": 68.49444
     },
     {
-        "name": "D\u016dstlik",
+        "name": "Дасти",
         "latitude": 40.52472,
         "longitude": 68.03583
     },
     {
-        "name": "Gagarin",
+        "name": "Гагарин",
         "latitude": 40.66194,
         "longitude": 68.17222
     },
     {
-        "name": "Jizzax",
+        "name": "Джизак",
         "latitude": 40.11583,
         "longitude": 67.84222
     },
     {
-        "name": "Paxtakor",
+        "name": "Производитель хлопка",
         "latitude": 40.31528,
         "longitude": 67.95444
     },
     {
-        "name": "Zomin",
+        "name": "Зомин",
         "latitude": 39.96056,
         "longitude": 68.39583
     },
     {
-        "name": "Beruniy",
+        "name": "Беруни",
         "latitude": 41.69111,
         "longitude": 60.7525
     },
     {
-        "name": "Kegeyli Shahar",
+        "name": "Кегейли Сити",
         "latitude": 42.77667,
         "longitude": 59.60778
     },
     {
-        "name": "Kh\u016djayli",
+        "name": "Ходжейли",
         "latitude": 42.40043,
         "longitude": 59.46005
     },
     {
-        "name": "Manghit",
+        "name": "скупой",
         "latitude": 42.11556,
         "longitude": 60.05972
     },
     {
-        "name": "M\u016dynoq",
+        "name": "Муйнок",
         "latitude": 43.76833,
         "longitude": 59.02139
     },
     {
-        "name": "Novyy Turtkul\u2019",
+        "name": "Novyy Turtkul’",
         "latitude": 41.55,
         "longitude": 61.01667
     },
     {
-        "name": "Nukus",
+        "name": "Дефект",
         "latitude": 42.45306,
         "longitude": 59.61028
     },
     {
-        "name": "Oltinko\u2018l",
+        "name": "Олтинко'л",
         "latitude": 43.06874,
         "longitude": 58.90372
     },
     {
-        "name": "Chortoq",
+        "name": "Чорток",
         "latitude": 41.06924,
         "longitude": 71.82372
     },
     {
-        "name": "Chust",
+        "name": "Тихий",
         "latitude": 41.00329,
         "longitude": 71.23791
     },
     {
-        "name": "Haqqulobod",
+        "name": "Хаккулобод",
         "latitude": 40.91667,
         "longitude": 72.11667
     },
     {
-        "name": "Kosonsoy",
+        "name": "Косонсой",
         "latitude": 41.24944,
         "longitude": 71.54738
     },
     {
-        "name": "Namangan",
+        "name": "Наманган",
         "latitude": 40.9983,
         "longitude": 71.67257
     },
     {
-        "name": "Pop",
+        "name": "Поп",
         "latitude": 40.87361,
         "longitude": 71.10889
     },
     {
-        "name": "To\u2018rqao\u2018rg\u2018on",
+        "name": "Торкао'рон",
         "latitude": 40.99984,
         "longitude": 71.51162
     },
     {
-        "name": "Toshbuloq",
+        "name": "Камень",
         "latitude": 40.91617,
         "longitude": 71.57819
     },
     {
-        "name": "Uchq\u016drghon Shahri",
+        "name": "Учкургон город",
         "latitude": 41.11371,
         "longitude": 72.07915
     },
     {
-        "name": "Uychi",
+        "name": "Домашний",
         "latitude": 41.08073,
         "longitude": 71.92331
     },
     {
-        "name": "Yangiqo\u2018rg\u2018on",
+        "name": "Янгикурган",
         "latitude": 41.19474,
         "longitude": 71.72385
     },
     {
-        "name": "Navoiy",
+        "name": "Навои",
         "latitude": 40.08444,
         "longitude": 65.37917
     },
     {
-        "name": "Nurota",
+        "name": "Свет",
         "latitude": 40.56139,
         "longitude": 65.68861
     },
     {
-        "name": "Qiziltepa",
+        "name": "Кизилтепа",
         "latitude": 40.03306,
         "longitude": 64.85
     },
     {
-        "name": "Yangirabot",
+        "name": "Мне жаль",
         "latitude": 40.02539,
         "longitude": 65.96095
     },
     {
-        "name": "Beshkent",
+        "name": "Бешкент",
         "latitude": 38.82139,
         "longitude": 65.65306
     },
     {
-        "name": "Chiroqchi",
+        "name": "Лампа",
         "latitude": 39.03361,
         "longitude": 66.57222
     },
     {
-        "name": "G\u2018uzor",
+        "name": "Гузар",
         "latitude": 38.62083,
         "longitude": 66.24806
     },
     {
-        "name": "Kitob",
+        "name": "Книга",
         "latitude": 39.08425,
         "longitude": 66.83318
     },
     {
-        "name": "Koson",
+        "name": "Корпус",
         "latitude": 39.0375,
         "longitude": 65.585
     },
     {
-        "name": "Muborak",
+        "name": "Благословенный",
         "latitude": 39.25528,
         "longitude": 65.15278
     },
     {
-        "name": "Nishon Tumani",
+        "name": "Целевой туман",
         "latitude": 38.69395,
         "longitude": 65.67512
     },
     {
-        "name": "Qarshi",
+        "name": "Противоположный",
         "latitude": 38.86056,
         "longitude": 65.78905
     },
     {
-        "name": "Shahrisabz",
+        "name": "Шахрисабз",
         "latitude": 39.05778,
         "longitude": 66.83417
     },
     {
-        "name": "Bulung\u2019ur",
+        "name": "Бурунгур",
         "latitude": 39.76472,
         "longitude": 67.27139
     },
     {
-        "name": "Charxin",
+        "name": "Чарсин",
         "latitude": 39.69667,
         "longitude": 66.76861
     },
     {
-        "name": "Chelak",
+        "name": "Ведро",
         "latitude": 39.92028,
         "longitude": 66.86111
     },
     {
-        "name": "Daxbet",
+        "name": "Даксбет",
         "latitude": 39.76389,
         "longitude": 66.9125
     },
     {
-        "name": "Ishtixon",
+        "name": "Истихан",
         "latitude": 39.96639,
         "longitude": 66.48611
     },
     {
-        "name": "Jomboy",
+        "name": "Джомбой",
         "latitude": 39.69889,
         "longitude": 67.09333
     },
     {
-        "name": "Juma",
+        "name": "Джума",
         "latitude": 39.71611,
         "longitude": 66.66417
     },
     {
-        "name": "Kattaqo\u2018rg\u2018on",
+        "name": "Каттакурган",
         "latitude": 39.89889,
         "longitude": 66.25611
     },
     {
-        "name": "Oqtosh",
+        "name": "белый камень",
         "latitude": 39.92139,
         "longitude": 65.92528
     },
     {
-        "name": "Payshanba",
+        "name": "Четверг",
         "latitude": 40.00778,
         "longitude": 66.23694
     },
     {
-        "name": "Samarkand",
+        "name": "Самарканд",
         "latitude": 39.65417,
         "longitude": 66.95972
     },
     {
-        "name": "Urgut",
+        "name": "Ургут",
         "latitude": 39.40222,
         "longitude": 67.24306
     },
     {
-        "name": "Guliston",
+        "name": "Гулистан",
         "latitude": 40.48972,
         "longitude": 68.78417
     },
     {
-        "name": "Sirdaryo",
+        "name": "Сырдарья",
         "latitude": 40.84361,
         "longitude": 68.66167
     },
     {
-        "name": "Yangiyer",
+        "name": "Нью-Йорк",
         "latitude": 40.275,
         "longitude": 68.8225
     },
     {
-        "name": "Boysun",
+        "name": "Мальчики",
         "latitude": 38.20835,
         "longitude": 67.20664
     },
     {
-        "name": "Denov",
+        "name": "Денов",
         "latitude": 38.26746,
         "longitude": 67.89886
     },
     {
-        "name": "Sho\u2018rchi",
+        "name": "Шорчи",
         "latitude": 37.99944,
         "longitude": 67.7875
     },
     {
-        "name": "Tirmiz",
+        "name": "Мы устали",
         "latitude": 37.22417,
         "longitude": 67.27833
     },
     {
-        "name": "Bektemir",
+        "name": "Бектемир",
         "latitude": 41.20972,
         "longitude": 69.33417
     },
     {
-        "name": "Tashkent",
+        "name": "Ташкент",
         "latitude": 41.26465,
         "longitude": 69.21627
     },
     {
-        "name": "Angren",
+        "name": "Ангрен",
         "latitude": 41.01667,
         "longitude": 70.14361
     },
     {
-        "name": "Bekobod",
+        "name": "Навсегда",
         "latitude": 40.22083,
         "longitude": 69.26972
     },
     {
-        "name": "Bo\u2018ka",
+        "name": "Бока",
         "latitude": 40.81108,
         "longitude": 69.19417
     },
     {
-        "name": "Chinoz",
+        "name": "Китайский",
         "latitude": 40.93633,
         "longitude": 68.76128
     },
     {
-        "name": "Chirchiq",
+        "name": "Сгнивший",
         "latitude": 41.46889,
         "longitude": 69.58222
     },
     {
-        "name": "G\u2018azalkent",
+        "name": "Газалкент",
         "latitude": 41.55806,
         "longitude": 69.77083
     },
     {
-        "name": "Iskandar",
+        "name": "Искандар",
         "latitude": 41.55389,
         "longitude": 69.70083
     },
     {
-        "name": "Kyzyldzhar",
+        "name": "Кызылджар",
         "latitude": 41.56667,
         "longitude": 70.01667
     },
     {
-        "name": "Ohangaron",
+        "name": "Железный человек",
         "latitude": 40.90639,
         "longitude": 69.63833
     },
     {
-        "name": "Olmaliq",
+        "name": "Немецкий",
         "latitude": 40.84472,
         "longitude": 69.59833
     },
     {
-        "name": "Parkent",
+        "name": "Паркент",
         "latitude": 41.29444,
         "longitude": 69.67639
     },
     {
-        "name": "Piskent",
+        "name": "Пискент",
         "latitude": 40.89722,
         "longitude": 69.35056
     },
     {
-        "name": "Qibray",
+        "name": "Кибрай",
         "latitude": 41.38972,
         "longitude": 69.465
     },
     {
-        "name": "Salor",
+        "name": "Салор",
         "latitude": 41.37222,
         "longitude": 69.38167
     },
     {
-        "name": "T\u016dytepa",
+        "name": "Tŭytepa",
         "latitude": 41.0321,
         "longitude": 69.36253
     },
     {
-        "name": "\u016crtaowul",
+        "name": "Эртаовул",
         "latitude": 41.18667,
         "longitude": 69.14528
     },
     {
-        "name": "Yangiobod",
+        "name": "Янгиабад",
         "latitude": 41.11919,
         "longitude": 70.09406
     },
     {
-        "name": "Yangiy\u016dl",
+        "name": "Новый год",
         "latitude": 41.11202,
         "longitude": 69.0471
     },
     {
-        "name": "Zafar",
+        "name": "Зафар",
         "latitude": 40.98333,
         "longitude": 68.9
     },
     {
-        "name": "Boghot Tumani",
+        "name": "Боготский район",
         "latitude": 41.31495,
         "longitude": 60.85327
     },
     {
-        "name": "Gurlan",
+        "name": "Установлен",
         "latitude": 41.84472,
         "longitude": 60.39194
     },
     {
-        "name": "Hazorasp",
+        "name": "Хазорасп",
         "latitude": 41.31944,
         "longitude": 61.07417
     },
     {
-        "name": "Khiwa",
+        "name": "Хива",
         "latitude": 41.37833,
         "longitude": 60.36389
     },
     {
-        "name": "Q\u016dshk\u016dpir",
+        "name": "Кушкупир",
         "latitude": 41.535,
         "longitude": 60.34556
     },
     {
-        "name": "Showot",
+        "name": "Шоуот",
         "latitude": 41.65583,
         "longitude": 60.3025
     },
     {
-        "name": "Urganch",
+        "name": "Ургенч",
         "latitude": 41.55,
         "longitude": 60.63333
     }

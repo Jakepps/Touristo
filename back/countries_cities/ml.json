@@ -1,236 +1,236 @@
 [
     {
-        "name": "Bamako",
+        "name": "Бамако",
         "latitude": 12.65,
         "longitude": -8.0
     },
     {
-        "name": "Ansongo",
+        "name": "Ансонги",
         "latitude": 15.6597,
         "longitude": 0.5022
     },
     {
-        "name": "Cercle de Bourem",
+        "name": "Серкль де Бурем",
         "latitude": 17.71192,
         "longitude": -0.34284
     },
     {
-        "name": "Gao",
+        "name": "Гао",
         "latitude": 16.27167,
         "longitude": -0.04472
     },
     {
-        "name": "Gao Cercle",
+        "name": "Гао Серкл",
         "latitude": 16.72237,
         "longitude": 0.43984
     },
     {
-        "name": "In\u00e9kar",
+        "name": "Экипаж",
         "latitude": 15.95944,
         "longitude": 3.14111
     },
     {
-        "name": "Bafoulab\u00e9",
+        "name": "Бафулабе",
         "latitude": 13.8065,
         "longitude": -10.8321
     },
     {
-        "name": "Kayes",
+        "name": "Кайес",
         "latitude": 14.44693,
         "longitude": -11.44448
     },
     {
-        "name": "Kita",
+        "name": "Мы",
         "latitude": 13.0349,
         "longitude": -9.4895
     },
     {
-        "name": "Kokofata",
+        "name": "Кокофата",
         "latitude": 12.88333,
         "longitude": -9.95
     },
     {
-        "name": "Sagalo",
+        "name": "Сагало",
         "latitude": 12.2,
         "longitude": -10.7
     },
     {
-        "name": "Abe\u00efbara",
+        "name": "Абейбара",
         "latitude": 19.11667,
         "longitude": 1.75
     },
     {
-        "name": "Cercle d\u2019Abe\u00efbara",
+        "name": "Круг Абейбара",
         "latitude": 19.48878,
         "longitude": 2.20025
     },
     {
-        "name": "Kidal",
+        "name": "Левша",
         "latitude": 18.44111,
         "longitude": 1.40778
     },
     {
-        "name": "Banamba",
+        "name": "Они считают",
         "latitude": 13.54773,
         "longitude": -7.44808
     },
     {
-        "name": "Kangaba",
+        "name": "Краб",
         "latitude": 11.93333,
         "longitude": -8.41667
     },
     {
-        "name": "Kati",
+        "name": "Середина",
         "latitude": 12.74409,
         "longitude": -8.07257
     },
     {
-        "name": "Kolokani",
+        "name": "Раскраска",
         "latitude": 13.5728,
         "longitude": -8.0339
     },
     {
-        "name": "Koulikoro",
+        "name": "Куликоро",
         "latitude": 12.86273,
         "longitude": -7.55985
     },
     {
-        "name": "Bandiagara",
+        "name": "Бандиагара",
         "latitude": 14.35005,
         "longitude": -3.61038
     },
     {
-        "name": "Dj\u00e9nn\u00e9",
+        "name": "Дженне",
         "latitude": 13.90608,
         "longitude": -4.55332
     },
     {
-        "name": "Douentza",
+        "name": "Дуэнца",
         "latitude": 15.00155,
         "longitude": -2.94978
     },
     {
-        "name": "Douentza Cercle",
+        "name": "Дуэнца Серкль",
         "latitude": 15.06947,
         "longitude": -2.40875
     },
     {
-        "name": "Mopti",
+        "name": "Мопти",
         "latitude": 14.4843,
         "longitude": -4.18296
     },
     {
-        "name": "T\u00e9nenkou",
+        "name": "Тененка",
         "latitude": 14.45722,
         "longitude": -4.9169
     },
     {
-        "name": "Baroueli",
+        "name": "Баруэли",
         "latitude": 13.07489,
         "longitude": -6.57171
     },
     {
-        "name": "Cercle de San",
+        "name": "Серкль де Сан",
         "latitude": 13.17895,
         "longitude": -5.01617
     },
     {
-        "name": "K\u00e9-Macina",
+        "name": "Ке-Машина",
         "latitude": 13.9641,
         "longitude": -5.35791
     },
     {
-        "name": "Kinmparana",
+        "name": "Кинмпарана",
         "latitude": 12.84217,
         "longitude": -4.9245
     },
     {
-        "name": "Markala",
+        "name": "Бренд",
         "latitude": 13.7021,
         "longitude": -6.0659
     },
     {
-        "name": "San",
+        "name": "Сан",
         "latitude": 13.30335,
         "longitude": -4.89562
     },
     {
-        "name": "S\u00e9gou",
+        "name": "Сегу",
         "latitude": 13.4317,
         "longitude": -6.2157
     },
     {
-        "name": "Sokolo",
+        "name": "Сокол",
         "latitude": 14.7328,
         "longitude": -6.1219
     },
     {
-        "name": "Bougouni",
+        "name": "Бугуни",
         "latitude": 11.41769,
         "longitude": -7.48323
     },
     {
-        "name": "Kolondi\u00e9ba",
+        "name": "Колондьеба",
         "latitude": 11.08943,
         "longitude": -6.8929
     },
     {
-        "name": "Koutiala",
+        "name": "Кутиала",
         "latitude": 12.39173,
         "longitude": -5.46421
     },
     {
-        "name": "Koutiala Cercle",
+        "name": "Коутиала Круг",
         "latitude": 12.35311,
         "longitude": -5.5839
     },
     {
-        "name": "Ntossoni",
+        "name": "Нтоссони",
         "latitude": 12.5304,
         "longitude": -5.77003
     },
     {
-        "name": "Sikasso",
+        "name": "Сикассо",
         "latitude": 11.31755,
         "longitude": -5.66654
     },
     {
-        "name": "Yorosso",
+        "name": "Йороссо",
         "latitude": 12.35811,
         "longitude": -4.77688
     },
     {
-        "name": "Araouane",
+        "name": "Арауан",
         "latitude": 18.90476,
         "longitude": -3.52649
     },
     {
-        "name": "Cercle de Goundam",
+        "name": "Серкль де Гундам",
         "latitude": 18.60035,
         "longitude": -4.99306
     },
     {
-        "name": "Dire",
+        "name": "Ужасный",
         "latitude": 16.28017,
         "longitude": -3.31302
     },
     {
-        "name": "Goundam",
+        "name": "Гундам",
         "latitude": 16.41453,
         "longitude": -3.67075
     },
     {
-        "name": "Gourma-Rharous Cercle",
+        "name": "Круг Гурма-Рарус",
         "latitude": 16.07979,
         "longitude": -1.76981
     },
     {
-        "name": "Niafunk\u00e9",
+        "name": "Ниафунке",
         "latitude": 15.9322,
         "longitude": -3.9906
     },
     {
-        "name": "Timbuktu",
+        "name": "Тимбукту",
         "latitude": 16.77348,
         "longitude": -3.00742
     }

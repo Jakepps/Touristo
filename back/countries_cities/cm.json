@@ -1,696 +1,696 @@
 [
     {
-        "name": "Bankim",
+        "name": "Банким",
         "latitude": 6.08303,
         "longitude": 11.4905
     },
     {
-        "name": "Banyo",
+        "name": "ванная комната",
         "latitude": 6.75,
         "longitude": 11.81667
     },
     {
-        "name": "B\u00e9lel",
+        "name": "Оболочка",
         "latitude": 7.05,
         "longitude": 14.43333
     },
     {
-        "name": "Djohong",
+        "name": "Джохонг",
         "latitude": 6.83333,
         "longitude": 14.7
     },
     {
-        "name": "Kontcha",
+        "name": "Конча",
         "latitude": 7.96667,
         "longitude": 12.23333
     },
     {
-        "name": "Mayo-Banyo",
+        "name": "Май-Ванная",
         "latitude": 6.58138,
         "longitude": 11.73522
     },
     {
-        "name": "Me\u00efganga",
+        "name": "Владелец",
         "latitude": 6.51667,
         "longitude": 14.3
     },
     {
-        "name": "Ngaound\u00e9r\u00e9",
+        "name": "Нгаундере",
         "latitude": 7.32765,
         "longitude": 13.58472
     },
     {
-        "name": "Somi\u00e9",
+        "name": "финский",
         "latitude": 6.45843,
         "longitude": 11.43299
     },
     {
-        "name": "Tibati",
+        "name": "Тибетцы",
         "latitude": 6.46504,
         "longitude": 12.62843
     },
     {
-        "name": "Tign\u00e8re",
+        "name": "мельче",
         "latitude": 7.36667,
         "longitude": 12.65
     },
     {
-        "name": "Vina",
+        "name": "Вина",
         "latitude": 7.16365,
         "longitude": 13.72711
     },
     {
-        "name": "Akono",
+        "name": "Обучение",
         "latitude": 3.5,
         "longitude": 11.33333
     },
     {
-        "name": "Akonolinga",
+        "name": "Послушай меня",
         "latitude": 3.76667,
         "longitude": 12.25
     },
     {
-        "name": "Bafia",
+        "name": "Бафия",
         "latitude": 4.75,
         "longitude": 11.23333
     },
     {
-        "name": "Es\u00e9ka",
+        "name": "Эзека",
         "latitude": 3.65,
         "longitude": 10.76667
     },
     {
-        "name": "Ess\u00e9",
+        "name": "Быть",
         "latitude": 4.1,
         "longitude": 11.9
     },
     {
-        "name": "\u00c9vodoula",
+        "name": "Эводула",
         "latitude": 4.08333,
         "longitude": 11.2
     },
     {
-        "name": "Mbalmayo",
+        "name": "Мбалмайо",
         "latitude": 3.51667,
         "longitude": 11.5
     },
     {
-        "name": "Mbam-Et-Inoubou",
+        "name": "Мбам-э-Инубу",
         "latitude": 4.73754,
         "longitude": 10.96972
     },
     {
-        "name": "Mbandjok",
+        "name": "Мбанджок",
         "latitude": 4.45,
         "longitude": 11.9
     },
     {
-        "name": "Mbankomo",
+        "name": "Это верно",
         "latitude": 3.78333,
         "longitude": 11.38333
     },
     {
-        "name": "Mefou-et-Akono",
+        "name": "MAI-E-AKONO",
         "latitude": 3.58706,
         "longitude": 11.36089
     },
     {
-        "name": "Mfoundi",
+        "name": "Фанди",
         "latitude": 3.8667,
         "longitude": 11.5167
     },
     {
-        "name": "Minta",
+        "name": "Запрос",
         "latitude": 4.58333,
         "longitude": 12.8
     },
     {
-        "name": "Nanga Eboko",
+        "name": "моя рука",
         "latitude": 4.68333,
         "longitude": 12.36667
     },
     {
-        "name": "Ndikinim\u00e9ki",
+        "name": "Я с тобой",
         "latitude": 4.76667,
         "longitude": 10.83333
     },
     {
-        "name": "Ngomedzap",
+        "name": "Нгомедзап",
         "latitude": 3.25,
         "longitude": 11.2
     },
     {
-        "name": "Ngoro",
+        "name": "Дом",
         "latitude": 4.95,
         "longitude": 11.38333
     },
     {
-        "name": "Nkoteng",
+        "name": "Послушание",
         "latitude": 4.51667,
         "longitude": 12.03333
     },
     {
-        "name": "Ntui",
+        "name": "Нтуи",
         "latitude": 4.45,
         "longitude": 11.63333
     },
     {
-        "name": "Obala",
+        "name": "Очевидный",
         "latitude": 4.16667,
         "longitude": 11.53333
     },
     {
-        "name": "Okoa",
+        "name": "Другой",
         "latitude": 3.98333,
         "longitude": 11.6
     },
     {
-        "name": "Okola",
+        "name": "Ты работаешь",
         "latitude": 4.01667,
         "longitude": 11.38333
     },
     {
-        "name": "Omb\u00e9sa",
+        "name": "ожирение",
         "latitude": 4.6,
         "longitude": 11.25
     },
     {
-        "name": "Saa",
+        "name": "Погода",
         "latitude": 4.36667,
         "longitude": 11.45
     },
     {
-        "name": "Yaound\u00e9",
+        "name": "Яунде",
         "latitude": 3.86667,
         "longitude": 11.51667
     },
     {
-        "name": "Yoko",
+        "name": "Йоко",
         "latitude": 5.53333,
         "longitude": 12.31667
     },
     {
-        "name": "Abong Mbang",
+        "name": "Абонг Мбанг",
         "latitude": 3.98333,
         "longitude": 13.18333
     },
     {
-        "name": "Batouri",
+        "name": "Батуры",
         "latitude": 4.43333,
         "longitude": 14.36667
     },
     {
-        "name": "B\u00e9labo",
+        "name": "Беллабо",
         "latitude": 4.93333,
         "longitude": 13.3
     },
     {
-        "name": "Bertoua",
+        "name": "Берту",
         "latitude": 4.57728,
         "longitude": 13.68459
     },
     {
-        "name": "B\u00e9tar\u00e9 Oya",
+        "name": "Лучше Ойя",
         "latitude": 5.6,
         "longitude": 14.08333
     },
     {
-        "name": "Dimako",
+        "name": "Димако",
         "latitude": 4.38333,
         "longitude": 13.56667
     },
     {
-        "name": "Doum\u00e9",
+        "name": "Слово",
         "latitude": 4.23333,
         "longitude": 13.45
     },
     {
-        "name": "Garoua Boula\u00ef",
+        "name": "Гаруа, вот и все",
         "latitude": 5.88333,
         "longitude": 14.55
     },
     {
-        "name": "Mbang",
+        "name": "Мбанг",
         "latitude": 4.58333,
         "longitude": 13.33333
     },
     {
-        "name": "Ndelele",
+        "name": "Презирай меня",
         "latitude": 4.04065,
         "longitude": 14.92501
     },
     {
-        "name": "Yokadouma",
+        "name": "Йокадума",
         "latitude": 3.51667,
         "longitude": 15.05
     },
     {
-        "name": "Bogo",
+        "name": "Бог",
         "latitude": 10.7336,
         "longitude": 14.60928
     },
     {
-        "name": "Ka\u00e9l\u00e9",
+        "name": "Каеле",
         "latitude": 10.10917,
         "longitude": 14.45083
     },
     {
-        "name": "Kouss\u00e9ri",
+        "name": "Куссери",
         "latitude": 12.07689,
         "longitude": 15.03063
     },
     {
-        "name": "Koza",
+        "name": "Кожа",
         "latitude": 10.86846,
         "longitude": 13.88205
     },
     {
-        "name": "Makary",
+        "name": "Макарий",
         "latitude": 12.57535,
         "longitude": 14.45483
     },
     {
-        "name": "Maroua",
+        "name": "Маруа",
         "latitude": 10.59095,
         "longitude": 14.31593
     },
     {
-        "name": "Mayo-Sava",
+        "name": "Майонез",
         "latitude": 11.10682,
         "longitude": 14.2056
     },
     {
-        "name": "Mayo-Tsanaga",
+        "name": "MAY-TG",
         "latitude": 10.58221,
         "longitude": 13.79351
     },
     {
-        "name": "Mindif",
+        "name": "Не возражаешь, если",
         "latitude": 10.39757,
         "longitude": 14.43626
     },
     {
-        "name": "Mokolo",
+        "name": "Старый",
         "latitude": 10.74244,
         "longitude": 13.80227
     },
     {
-        "name": "Mora",
+        "name": "Должен",
         "latitude": 11.04611,
         "longitude": 14.14011
     },
     {
-        "name": "Yagoua",
+        "name": "Ягуар",
         "latitude": 10.34107,
         "longitude": 15.23288
     },
     {
-        "name": "Bonab\u00e9ri",
+        "name": "Бонаберри",
         "latitude": 4.07142,
         "longitude": 9.68177
     },
     {
-        "name": "Diang",
+        "name": "Дианг",
         "latitude": 4.25,
         "longitude": 10.01667
     },
     {
-        "name": "Dibombari",
+        "name": "Бомбардировка",
         "latitude": 4.1787,
         "longitude": 9.6561
     },
     {
-        "name": "Dizangu\u00e9",
+        "name": "Дизанж",
         "latitude": 3.76667,
         "longitude": 9.98333
     },
     {
-        "name": "Douala",
+        "name": "Дуала",
         "latitude": 4.04827,
         "longitude": 9.70428
     },
     {
-        "name": "Ed\u00e9a",
+        "name": "Эдеа",
         "latitude": 3.8,
         "longitude": 10.13333
     },
     {
-        "name": "Loum",
+        "name": "Люм",
         "latitude": 4.7182,
         "longitude": 9.7351
     },
     {
-        "name": "Manjo",
+        "name": "Бывает",
         "latitude": 4.8428,
         "longitude": 9.8217
     },
     {
-        "name": "Mbanga",
+        "name": "Челюсть",
         "latitude": 4.5016,
         "longitude": 9.5671
     },
     {
-        "name": "Melong",
+        "name": "смотреть",
         "latitude": 5.12181,
         "longitude": 9.96143
     },
     {
-        "name": "Mouanko",
+        "name": "Муанко",
         "latitude": 3.63972,
         "longitude": 9.77694
     },
     {
-        "name": "Ndom",
+        "name": "Ндом",
         "latitude": 4.4978,
         "longitude": 9.5628
     },
     {
-        "name": "Ngamb\u00e9",
+        "name": "козел",
         "latitude": 4.23343,
         "longitude": 10.61532
     },
     {
-        "name": "Nkongsamba",
+        "name": "Это ванная комната",
         "latitude": 4.9547,
         "longitude": 9.9404
     },
     {
-        "name": "Penja",
+        "name": "оно висит",
         "latitude": 4.63911,
         "longitude": 9.67987
     },
     {
-        "name": "Yabassi",
+        "name": "Ябасси",
         "latitude": 4.45697,
         "longitude": 9.96822
     },
     {
-        "name": "Faro Department",
+        "name": "Департамент Фаро",
         "latitude": 8.25014,
         "longitude": 12.87829
     },
     {
-        "name": "Garoua",
+        "name": "Гару",
         "latitude": 9.30143,
         "longitude": 13.39771
     },
     {
-        "name": "Guider",
+        "name": "Вести",
         "latitude": 9.9333,
         "longitude": 13.94671
     },
     {
-        "name": "Lagdo",
+        "name": "Лагдо",
         "latitude": 9.05828,
         "longitude": 13.66605
     },
     {
-        "name": "Mayo-Louti",
+        "name": "Мейо-любовь",
         "latitude": 9.96577,
         "longitude": 13.72738
     },
     {
-        "name": "Mayo-Rey",
+        "name": "Мэй-Король",
         "latitude": 8.1263,
         "longitude": 14.61456
     },
     {
-        "name": "Pitoa",
+        "name": "Подожди",
         "latitude": 9.3839,
         "longitude": 13.50231
     },
     {
-        "name": "Poli",
+        "name": "Полли",
         "latitude": 8.4756,
         "longitude": 13.24097
     },
     {
-        "name": "Rey Bouba",
+        "name": "Рэй Бубба",
         "latitude": 8.6724,
         "longitude": 14.1786
     },
     {
-        "name": "Tchollir\u00e9",
+        "name": "Шоллир",
         "latitude": 8.4022,
         "longitude": 14.1698
     },
     {
-        "name": "Babanki",
+        "name": "Твой отец",
         "latitude": 6.11667,
         "longitude": 10.25
     },
     {
-        "name": "Bali",
+        "name": "Баллы",
         "latitude": 5.88737,
         "longitude": 10.01176
     },
     {
-        "name": "Bamenda",
+        "name": "В Баменде",
         "latitude": 5.9597,
         "longitude": 10.14597
     },
     {
-        "name": "Batibo",
+        "name": "Батибо",
         "latitude": 5.8358,
         "longitude": 9.8553
     },
     {
-        "name": "Belo",
+        "name": "Белый",
         "latitude": 6.13333,
         "longitude": 10.25
     },
     {
-        "name": "Boyo",
+        "name": "Богатый",
         "latitude": 6.36365,
         "longitude": 10.3554
     },
     {
-        "name": "Fundong",
+        "name": "Фундонг",
         "latitude": 6.25,
         "longitude": 10.26667
     },
     {
-        "name": "Jakiri",
+        "name": "Джакири",
         "latitude": 6.1,
         "longitude": 10.65
     },
     {
-        "name": "Kumbo",
+        "name": "Кумбо",
         "latitude": 6.2,
         "longitude": 10.66667
     },
     {
-        "name": "Mbengwi",
+        "name": "Мбенгве",
         "latitude": 6.01667,
         "longitude": 10.0
     },
     {
-        "name": "Mme-Bafumen",
+        "name": "Мать-Бафумен",
         "latitude": 6.33333,
         "longitude": 10.23333
     },
     {
-        "name": "Njinikom",
+        "name": "Я",
         "latitude": 6.23333,
         "longitude": 10.28333
     },
     {
-        "name": "Wum",
+        "name": "Вуум",
         "latitude": 6.38333,
         "longitude": 10.06667
     },
     {
-        "name": "Akom II",
+        "name": "Как II",
         "latitude": 2.78333,
         "longitude": 10.56667
     },
     {
-        "name": "Ambam",
+        "name": "Амб",
         "latitude": 2.38333,
         "longitude": 11.28333
     },
     {
-        "name": "\u00c9bolowa",
+        "name": "Вперед, продолжать",
         "latitude": 2.9,
         "longitude": 11.15
     },
     {
-        "name": "Kribi",
+        "name": "Криби",
         "latitude": 2.93725,
         "longitude": 9.90765
     },
     {
-        "name": "Lolodorf",
+        "name": "Лолодорф",
         "latitude": 3.23333,
         "longitude": 10.73333
     },
     {
-        "name": "Mvangu\u00e9",
+        "name": "Мванге",
         "latitude": 2.96667,
         "longitude": 11.51667
     },
     {
-        "name": "Mvila",
+        "name": "Мвила",
         "latitude": 2.79796,
         "longitude": 11.39434
     },
     {
-        "name": "Sangm\u00e9lima",
+        "name": "Сангмелима",
         "latitude": 2.93333,
         "longitude": 11.98333
     },
     {
-        "name": "Bamusso",
+        "name": "Бамуссо",
         "latitude": 4.4591,
         "longitude": 8.9027
     },
     {
-        "name": "Bekondo",
+        "name": "В беконе",
         "latitude": 4.6819,
         "longitude": 9.3214
     },
     {
-        "name": "Buea",
+        "name": "Буа",
         "latitude": 4.15342,
         "longitude": 9.24231
     },
     {
-        "name": "Fako Division",
+        "name": "Отдел мусора",
         "latitude": 4.16667,
         "longitude": 9.16667
     },
     {
-        "name": "Fontem",
+        "name": "Фонтан",
         "latitude": 5.4685,
         "longitude": 9.8818
     },
     {
-        "name": "Kumba",
+        "name": "Дома",
         "latitude": 4.6363,
         "longitude": 9.4469
     },
     {
-        "name": "Lebialem",
+        "name": "Лебийский",
         "latitude": 5.56043,
         "longitude": 9.92316
     },
     {
-        "name": "Limbe",
+        "name": "Лимбо",
         "latitude": 4.02356,
         "longitude": 9.20607
     },
     {
-        "name": "Mamfe",
+        "name": "Свинка",
         "latitude": 5.75132,
         "longitude": 9.3137
     },
     {
-        "name": "Mundemba",
+        "name": "Мундемба",
         "latitude": 4.9479,
         "longitude": 8.8724
     },
     {
-        "name": "Mutengene",
+        "name": "Купите его",
         "latitude": 4.0913,
         "longitude": 9.3144
     },
     {
-        "name": "Muyuka",
+        "name": "Муюк",
         "latitude": 4.2898,
         "longitude": 9.4103
     },
     {
-        "name": "Nguti",
+        "name": "торопиться",
         "latitude": 5.3299,
         "longitude": 9.4185
     },
     {
-        "name": "Tiko",
+        "name": "Сторона",
         "latitude": 4.075,
         "longitude": 9.36005
     },
     {
-        "name": "Bafang",
+        "name": "Бафанг",
         "latitude": 5.15705,
         "longitude": 10.1771
     },
     {
-        "name": "Bafoussam",
+        "name": "я бафусс",
         "latitude": 5.47775,
         "longitude": 10.41759
     },
     {
-        "name": "Bamendjou",
+        "name": "Баменью",
         "latitude": 5.38988,
         "longitude": 10.33014
     },
     {
-        "name": "Bana",
+        "name": "Мне",
         "latitude": 5.14655,
         "longitude": 10.27545
     },
     {
-        "name": "Bandjoun",
+        "name": "группа",
         "latitude": 5.37568,
         "longitude": 10.41326
     },
     {
-        "name": "Bangangt\u00e9",
+        "name": "Банганг",
         "latitude": 5.14079,
         "longitude": 10.52535
     },
     {
-        "name": "Bansoa",
+        "name": "Бансоа",
         "latitude": 5.44836,
         "longitude": 10.31355
     },
     {
-        "name": "Bazou",
+        "name": "базука",
         "latitude": 5.06001,
         "longitude": 10.46751
     },
     {
-        "name": "Dschang",
+        "name": "Дшанг",
         "latitude": 5.44397,
         "longitude": 10.05332
     },
     {
-        "name": "Foumban",
+        "name": "в Фуме",
         "latitude": 5.72662,
         "longitude": 10.89865
     },
     {
-        "name": "Foumbot",
+        "name": "Фумбот",
         "latitude": 5.50803,
         "longitude": 10.6325
     },
     {
-        "name": "Hauts-Plateaux",
+        "name": "Хайлендс",
         "latitude": 5.29632,
         "longitude": 10.34314
     },
     {
-        "name": "Koung-Khi",
+        "name": "Кунг-Хи",
         "latitude": 5.33848,
         "longitude": 10.47453
     },
     {
-        "name": "Mbouda",
+        "name": "Мбуда",
         "latitude": 5.62611,
         "longitude": 10.25421
     },
     {
-        "name": "Ngou",
+        "name": "Нгоу",
         "latitude": 5.19685,
         "longitude": 10.38595
     },
     {
-        "name": "Noun",
+        "name": "Существительное",
         "latitude": 5.64123,
         "longitude": 10.9184
     },
     {
-        "name": "Tonga",
+        "name": "Тонга",
         "latitude": 4.96667,
         "longitude": 10.7
     }

@@ -1,371 +1,371 @@
 [
     {
-        "name": "Bogale",
+        "name": "Острый",
         "latitude": 16.29415,
         "longitude": 95.39742
     },
     {
-        "name": "Hinthada",
+        "name": "Хинтада",
         "latitude": 17.64944,
         "longitude": 95.45705
     },
     {
-        "name": "Kyaiklat",
+        "name": "Почему?",
         "latitude": 16.44502,
         "longitude": 95.72373
     },
     {
-        "name": "Maubin",
+        "name": "Мобен",
         "latitude": 16.73148,
         "longitude": 95.65441
     },
     {
-        "name": "Mawlamyinegyunn",
+        "name": "Моламьенгюнн",
         "latitude": 16.3772,
         "longitude": 95.26488
     },
     {
-        "name": "Myanaung",
+        "name": "Мьянаунг",
         "latitude": 18.28651,
         "longitude": 95.32014
     },
     {
-        "name": "Nyaungdon",
+        "name": "Ньяунгдон",
         "latitude": 17.04459,
         "longitude": 95.63957
     },
     {
-        "name": "Pathein",
+        "name": "Патейн",
         "latitude": 16.77919,
         "longitude": 94.73212
     },
     {
-        "name": "Pyapon",
+        "name": "Пяпон",
         "latitude": 16.28543,
         "longitude": 95.67882
     },
     {
-        "name": "Wakema",
+        "name": "Вакема",
         "latitude": 16.60333,
         "longitude": 95.18278
     },
     {
-        "name": "Bago",
+        "name": "Новый",
         "latitude": 17.33521,
         "longitude": 96.48135
     },
     {
-        "name": "Letpandan",
+        "name": "Летпандан",
         "latitude": 17.78664,
         "longitude": 95.75076
     },
     {
-        "name": "Nyaunglebin",
+        "name": "Няунглебин",
         "latitude": 17.95363,
         "longitude": 96.72247
     },
     {
-        "name": "Paungde",
+        "name": "Паунгде",
         "latitude": 18.49167,
         "longitude": 95.50591
     },
     {
-        "name": "Pyay",
+        "name": "ура",
         "latitude": 18.82464,
         "longitude": 95.22216
     },
     {
-        "name": "Pyu",
+        "name": "Пью",
         "latitude": 18.4813,
         "longitude": 96.43742
     },
     {
-        "name": "Taungoo",
+        "name": "Таунгу",
         "latitude": 18.94291,
         "longitude": 96.43408
     },
     {
-        "name": "Thanatpin",
+        "name": "Танатпин",
         "latitude": 17.29136,
         "longitude": 96.57523
     },
     {
-        "name": "Tharyarwady",
+        "name": "Тарьярвади",
         "latitude": 17.65399,
         "longitude": 95.78813
     },
     {
-        "name": "Falam",
+        "name": "Они говорят",
         "latitude": 22.91335,
         "longitude": 93.67779
     },
     {
-        "name": "Hakha",
+        "name": "Хаха",
         "latitude": 22.64452,
         "longitude": 93.61076
     },
     {
-        "name": "Bhamo",
+        "name": "Бхамо",
         "latitude": 24.25256,
         "longitude": 97.23357
     },
     {
-        "name": "Myitkyina",
+        "name": "Мьичина",
         "latitude": 25.38327,
         "longitude": 97.39637
     },
     {
-        "name": "Loikaw",
+        "name": "Верность",
         "latitude": 19.67798,
         "longitude": 97.20975
     },
     {
-        "name": "Dellok",
+        "name": "Деллс",
         "latitude": 16.04072,
         "longitude": 97.91773
     },
     {
-        "name": "Hpa-An",
+        "name": "Хпа-Ан",
         "latitude": 16.88953,
         "longitude": 97.63482
     },
     {
-        "name": "Klonhtoug",
+        "name": "Клонтуг",
         "latitude": 15.95411,
         "longitude": 98.4325
     },
     {
-        "name": "Kyain Seikgyi Township",
+        "name": "Городок Кьяин Сейкги",
         "latitude": 15.82288,
         "longitude": 98.25257
     },
     {
-        "name": "Mikenaungea",
+        "name": "Микены",
         "latitude": 15.95846,
         "longitude": 98.42721
     },
     {
-        "name": "Myawadi",
+        "name": "Миавади",
         "latitude": 16.68911,
         "longitude": 98.50893
     },
     {
-        "name": "Pulei",
+        "name": "я прыгнул",
         "latitude": 16.06243,
         "longitude": 97.8828
     },
     {
-        "name": "Tagondaing",
+        "name": "Тагондаинг",
         "latitude": 16.0675,
         "longitude": 97.90694
     },
     {
-        "name": "Tamoowoug",
+        "name": "Тамовуг",
         "latitude": 16.03447,
         "longitude": 97.91458
     },
     {
-        "name": "Chauk",
+        "name": "Чаук",
         "latitude": 20.89921,
         "longitude": 94.81784
     },
     {
-        "name": "Magway",
+        "name": "Волна",
         "latitude": 20.14956,
         "longitude": 94.93246
     },
     {
-        "name": "Minbu",
+        "name": "Минбу",
         "latitude": 20.18059,
         "longitude": 94.87595
     },
     {
-        "name": "Myaydo",
+        "name": "Мяйдо",
         "latitude": 19.36838,
         "longitude": 95.21512
     },
     {
-        "name": "Pakokku",
+        "name": "Пакокку",
         "latitude": 21.33489,
         "longitude": 95.08438
     },
     {
-        "name": "Taungdwingyi",
+        "name": "Таунгдвинги",
         "latitude": 20.0065,
         "longitude": 95.54531
     },
     {
-        "name": "Thayetmyo",
+        "name": "Тайетмио",
         "latitude": 19.32076,
         "longitude": 95.18272
     },
     {
-        "name": "Yenangyaung",
+        "name": "Йенангьяун",
         "latitude": 20.46504,
         "longitude": 94.8712
     },
     {
-        "name": "Kyaukse",
+        "name": "Почему?",
         "latitude": 21.6056,
         "longitude": 96.13508
     },
     {
-        "name": "Mandalay",
+        "name": "Мандалай",
         "latitude": 21.97473,
         "longitude": 96.08359
     },
     {
-        "name": "Meiktila",
+        "name": "Мейктила",
         "latitude": 20.87776,
         "longitude": 95.85844
     },
     {
-        "name": "Mogok",
+        "name": "Ударять",
         "latitude": 22.91766,
         "longitude": 96.50982
     },
     {
-        "name": "Myingyan",
+        "name": "Мьингьян",
         "latitude": 21.46002,
         "longitude": 95.3884
     },
     {
-        "name": "Nyaungshwe",
+        "name": "Ньяунгшве",
         "latitude": 20.66084,
         "longitude": 96.93405
     },
     {
-        "name": "Pyin Oo Lwin",
+        "name": "Пьин Оо Лвин",
         "latitude": 22.03501,
         "longitude": 96.45683
     },
     {
-        "name": "Yamethin",
+        "name": "Яметин",
         "latitude": 20.43189,
         "longitude": 96.13875
     },
     {
-        "name": "Kyaikkami",
+        "name": "Почему?",
         "latitude": 16.07686,
         "longitude": 97.56388
     },
     {
-        "name": "Kyaikto",
+        "name": "Кьяикто",
         "latitude": 17.30858,
         "longitude": 97.01124
     },
     {
-        "name": "Martaban",
+        "name": "Его Величество",
         "latitude": 16.52834,
         "longitude": 97.6157
     },
     {
-        "name": "Mawlamyine",
+        "name": "Моламьяйн",
         "latitude": 16.49051,
         "longitude": 97.62825
     },
     {
-        "name": "Mudon",
+        "name": "Мудон",
         "latitude": 16.25624,
         "longitude": 97.7246
     },
     {
-        "name": "Thaton",
+        "name": "Татон",
         "latitude": 16.91867,
         "longitude": 97.37001
     },
     {
-        "name": "Nay Pyi Taw",
+        "name": "Нэй Пьи Тау",
         "latitude": 19.745,
         "longitude": 96.12972
     },
     {
-        "name": "Pyinmana",
+        "name": "Мне жаль",
         "latitude": 19.7381,
         "longitude": 96.20742
     },
     {
-        "name": "Sittwe",
+        "name": "Ситуэ",
         "latitude": 20.14624,
         "longitude": 92.89835
     },
     {
-        "name": "Mawlaik",
+        "name": "Маулайк",
         "latitude": 23.64254,
         "longitude": 94.40478
     },
     {
-        "name": "Monywa",
+        "name": "Монива",
         "latitude": 22.10856,
         "longitude": 95.13583
     },
     {
-        "name": "Sagaing",
+        "name": "Сагаинг",
         "latitude": 21.8787,
         "longitude": 95.97965
     },
     {
-        "name": "Shwebo",
+        "name": "Швебо",
         "latitude": 22.56925,
         "longitude": 95.69818
     },
     {
-        "name": "Lashio",
+        "name": "Лашио",
         "latitude": 22.9359,
         "longitude": 97.7498
     },
     {
-        "name": "Tachilek",
+        "name": "Тачилек",
         "latitude": 20.4475,
         "longitude": 99.88083
     },
     {
-        "name": "Taunggyi",
+        "name": "Таунгги",
         "latitude": 20.78919,
         "longitude": 97.03776
     },
     {
-        "name": "Dawei",
+        "name": "Давэй",
         "latitude": 14.0823,
         "longitude": 98.19151
     },
     {
-        "name": "Kawthoung",
+        "name": "Каутунг",
         "latitude": 9.98238,
         "longitude": 98.55034
     },
     {
-        "name": "Myeik",
+        "name": "Мек",
         "latitude": 12.43954,
         "longitude": 98.60028
     },
     {
-        "name": "Kanbe",
+        "name": "Канбэ",
         "latitude": 16.70728,
         "longitude": 96.00168
     },
     {
-        "name": "Kayan",
+        "name": "Товары",
         "latitude": 16.90802,
         "longitude": 96.56037
     },
     {
-        "name": "Syriam",
+        "name": "Сирия",
         "latitude": 16.76887,
         "longitude": 96.24503
     },
     {
-        "name": "Thongwa",
+        "name": "Не волнуйся",
         "latitude": 16.75998,
         "longitude": 96.52498
     },
     {
-        "name": "Twante",
+        "name": "Тванте",
         "latitude": 16.71047,
         "longitude": 95.92866
     },
     {
-        "name": "Yangon",
+        "name": "Янгон",
         "latitude": 16.80528,
         "longitude": 96.15611
     }

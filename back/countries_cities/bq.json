@@ -1,31 +1,31 @@
 [
     {
-        "name": "Boven Bolivia",
+        "name": "Над Боливией",
         "latitude": 12.1819,
         "longitude": -68.2181
     },
     {
-        "name": "Dorp Tera Kora",
+        "name": "Бросить они",
         "latitude": 12.13333,
         "longitude": -68.26667
     },
     {
-        "name": "Oranjestad",
+        "name": "Орангестад",
         "latitude": 17.48333333,
         "longitude": -62.98333333
     },
     {
-        "name": "Rincon",
+        "name": "Ринкон",
         "latitude": 12.23833333,
         "longitude": -68.3325
     },
     {
-        "name": "St. Johns",
+        "name": "Сент -Джонс",
         "latitude": 17.6210075,
         "longitude": -63.2431683
     },
     {
-        "name": "The Bottom",
+        "name": "Нижний",
         "latitude": 17.62611111,
         "longitude": -63.24916667
     },
@@ -35,7 +35,7 @@
         "longitude": -63.23136
     },
     {
-        "name": "Zion's Hill",
+        "name": "Сион Хилл",
         "latitude": 17.643,
         "longitude": -63.22649
     }

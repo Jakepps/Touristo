@@ -1,36 +1,36 @@
 [
     {
-        "name": "Tulagi",
+        "name": "Тулаги",
         "latitude": -9.10306,
         "longitude": 160.15056
     },
     {
-        "name": "Honiara",
+        "name": "Хониара",
         "latitude": -9.43333,
         "longitude": 159.95
     },
     {
-        "name": "Buala",
+        "name": "Буала",
         "latitude": -8.14497,
         "longitude": 159.59212
     },
     {
-        "name": "Kirakira",
+        "name": "О",
         "latitude": -10.45442,
         "longitude": 161.92045
     },
     {
-        "name": "Auki",
+        "name": "Дополнительный",
         "latitude": -8.76778,
         "longitude": 160.69778
     },
     {
-        "name": "Lata",
+        "name": "Лата",
         "latitude": -10.725,
         "longitude": 165.79722
     },
     {
-        "name": "Gizo",
+        "name": "Гиза",
         "latitude": -8.10303,
         "longitude": 156.84186
     }

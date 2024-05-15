@@ -1,1571 +1,1571 @@
 [
     {
-        "name": "Adelaide",
+        "name": "Аделаида",
         "latitude": -32.70747,
         "longitude": 26.29564
     },
     {
-        "name": "Alfred Nzo District Municipality",
+        "name": "Муниципалитет района Альфред Нзо",
         "latitude": -30.66803,
         "longitude": 29.1549
     },
     {
-        "name": "Alice",
+        "name": "Алиса",
         "latitude": -32.78749,
         "longitude": 26.8344
     },
     {
-        "name": "Aliwal North",
+        "name": "Аливал Норт",
         "latitude": -30.69366,
         "longitude": 26.71141
     },
     {
-        "name": "Amathole District Municipality",
+        "name": "Муниципалитет района Аматхоле",
         "latitude": -32.55895,
         "longitude": 27.45919
     },
     {
-        "name": "Bhisho",
+        "name": "Бхишо",
         "latitude": -32.84721,
         "longitude": 27.44218
     },
     {
-        "name": "Buffalo City Metropolitan Municipality",
+        "name": "Муниципалитет Буффало-Сити",
         "latitude": -32.95141,
         "longitude": 27.61164
     },
     {
-        "name": "Burgersdorp",
+        "name": "Бургерсдорп",
         "latitude": -30.99766,
         "longitude": 26.32862
     },
     {
-        "name": "Butterworth",
+        "name": "Баттерворт",
         "latitude": -32.33083,
         "longitude": 28.14981
     },
     {
-        "name": "Cacadu District Municipality",
+        "name": "Муниципалитет района Какаду",
         "latitude": -33.06583,
         "longitude": 24.77583
     },
     {
-        "name": "Chris Hani District Municipality",
+        "name": "Муниципалитет района Крис-Хани",
         "latitude": -31.79033,
         "longitude": 26.43965
     },
     {
-        "name": "Cradock",
+        "name": "Крэдок",
         "latitude": -32.16422,
         "longitude": 25.61918
     },
     {
-        "name": "Dordrecht",
+        "name": "Дордрехт",
         "latitude": -31.372,
         "longitude": 27.04878
     },
     {
-        "name": "East London",
+        "name": "Восточный Лондон",
         "latitude": -33.01529,
         "longitude": 27.91162
     },
     {
-        "name": "Elliot",
+        "name": "Эллиот",
         "latitude": -31.33333,
         "longitude": 27.85
     },
     {
-        "name": "Fort Beaufort",
+        "name": "Форт Бофорт",
         "latitude": -32.77477,
         "longitude": 26.63376
     },
     {
-        "name": "Graaff-Reinet",
+        "name": "Грааф-Рейне",
         "latitude": -32.25215,
         "longitude": 24.53075
     },
     {
-        "name": "Grahamstown",
+        "name": "Грэмстаун",
         "latitude": -33.30422,
         "longitude": 26.53276
     },
     {
-        "name": "Ilinge",
+        "name": "Эксперимент",
         "latitude": -31.97676,
         "longitude": 27.04267
     },
     {
-        "name": "Joe Gqabi District Municipality",
+        "name": "Муниципалитет района Джо Гкаби",
         "latitude": -30.94178,
         "longitude": 27.06053
     },
     {
-        "name": "Kirkwood",
+        "name": "Кирквуд",
         "latitude": -33.39829,
         "longitude": 25.44279
     },
     {
-        "name": "Kruisfontein",
+        "name": "Круисфонтейн",
         "latitude": -34.00333,
         "longitude": 24.73142
     },
     {
-        "name": "Lady Frere",
+        "name": "Леди Фрер",
         "latitude": -31.70312,
         "longitude": 27.2329
     },
     {
-        "name": "Middelburg",
+        "name": "Мидделбург",
         "latitude": -31.49285,
         "longitude": 25.00633
     },
     {
-        "name": "Molteno",
+        "name": "Молтено",
         "latitude": -31.39675,
         "longitude": 26.36246
     },
     {
-        "name": "Mthatha",
+        "name": "Мтата",
         "latitude": -31.58893,
         "longitude": 28.78443
     },
     {
-        "name": "Nelson Mandela Bay Metropolitan Municipality",
+        "name": "Муниципалитет Нельсона Манделы Бэй",
         "latitude": -33.80399,
         "longitude": 25.49213
     },
     {
-        "name": "OR Tambo District Municipality",
+        "name": "ИЛИ Муниципалитет района Тамбо",
         "latitude": -31.4674,
         "longitude": 29.05247
     },
     {
-        "name": "Port Alfred",
+        "name": "Порт-Альфред",
         "latitude": -33.58601,
         "longitude": 26.88329
     },
     {
-        "name": "Port Elizabeth",
+        "name": "Порт-Элизабет",
         "latitude": -33.96109,
         "longitude": 25.61494
     },
     {
-        "name": "Port Saint John\u2019s",
+        "name": "Порт-Сент-Джонс",
         "latitude": -31.62291,
         "longitude": 29.54477
     },
     {
-        "name": "Queensdale",
+        "name": "Квинсдейл",
         "latitude": -31.87101,
         "longitude": 26.97862
     },
     {
-        "name": "Queenstown",
+        "name": "Квинстаун",
         "latitude": -31.89756,
         "longitude": 26.87533
     },
     {
-        "name": "Somerset East",
+        "name": "Сомерсет Ист",
         "latitude": -32.72173,
         "longitude": 25.58804
     },
     {
-        "name": "Stutterheim",
+        "name": "Штуттерхайм",
         "latitude": -32.57076,
         "longitude": 27.42396
     },
     {
-        "name": "Uitenhage",
+        "name": "Уитенхаге",
         "latitude": -33.75757,
         "longitude": 25.3971
     },
     {
-        "name": "Whittlesea",
+        "name": "Уиттлси",
         "latitude": -32.17588,
         "longitude": 26.82437
     },
     {
-        "name": "Willowmore",
+        "name": "Уиллоумор",
         "latitude": -33.29265,
         "longitude": 23.48954
     },
     {
-        "name": "Allanridge",
+        "name": "Алланридж",
         "latitude": -27.75431,
         "longitude": 26.64382
     },
     {
-        "name": "Bethlehem",
+        "name": "Вифлеем",
         "latitude": -28.23078,
         "longitude": 28.30707
     },
     {
-        "name": "Bloemfontein",
+        "name": "Блумфонтейн",
         "latitude": -29.12107,
         "longitude": 26.214
     },
     {
-        "name": "Bothaville",
+        "name": "Ботавилль",
         "latitude": -27.3887,
         "longitude": 26.61701
     },
     {
-        "name": "Botshabelo",
+        "name": "Ботшабело",
         "latitude": -29.26737,
         "longitude": 26.72595
     },
     {
-        "name": "Brandfort",
+        "name": "Бренд Форт",
         "latitude": -28.70008,
         "longitude": 26.45968
     },
     {
-        "name": "Clocolan",
+        "name": "Клоколан",
         "latitude": -28.91367,
         "longitude": 27.56555
     },
     {
-        "name": "Deneysville",
+        "name": "Денисвилл",
         "latitude": -26.8908,
         "longitude": 28.09707
     },
     {
-        "name": "Fezile Dabi District Municipality",
+        "name": "Муниципалитет района Фезиле-Даби",
         "latitude": -27.33918,
         "longitude": 27.71927
     },
     {
-        "name": "Frankfort",
+        "name": "Франкфурт",
         "latitude": -27.27888,
         "longitude": 28.49696
     },
     {
-        "name": "Harrismith",
+        "name": "Гаррисмит",
         "latitude": -28.27276,
         "longitude": 29.12946
     },
     {
-        "name": "Heilbron",
+        "name": "источник исцеления",
         "latitude": -27.28115,
         "longitude": 27.9709
     },
     {
-        "name": "Hennenman",
+        "name": "Хеннеман",
         "latitude": -27.97654,
         "longitude": 27.02423
     },
     {
-        "name": "Hoopstad",
+        "name": "город надежды",
         "latitude": -27.83273,
         "longitude": 25.90833
     },
     {
-        "name": "Koppies",
+        "name": "Кубки",
         "latitude": -27.24179,
         "longitude": 27.57422
     },
     {
-        "name": "Kroonstad",
+        "name": "Краун-Сити",
         "latitude": -27.65036,
         "longitude": 27.23488
     },
     {
-        "name": "Kutloanong",
+        "name": "В гармонии",
         "latitude": -27.83333,
         "longitude": 26.75
     },
     {
-        "name": "Ladybrand",
+        "name": "Ледибранд",
         "latitude": -29.19448,
         "longitude": 27.45739
     },
     {
-        "name": "Lejweleputswa District Municipality",
+        "name": "Муниципалитет Лейвелепутского района",
         "latitude": -28.23982,
         "longitude": 26.12649
     },
     {
-        "name": "Lindley",
+        "name": "Линдли",
         "latitude": -27.8791,
         "longitude": 27.91348
     },
     {
-        "name": "Mangaung Metropolitan Municipality",
+        "name": "Столичный муниципалитет Мангаунг",
         "latitude": -29.15627,
         "longitude": 26.35116
     },
     {
-        "name": "Marquard",
+        "name": "Марквардт",
         "latitude": -28.66449,
         "longitude": 27.43048
     },
     {
-        "name": "Parys",
+        "name": "Париж",
         "latitude": -26.9033,
         "longitude": 27.45727
     },
     {
-        "name": "Phuthaditjhaba",
+        "name": "Пхутадитжхаба",
         "latitude": -28.52423,
         "longitude": 28.81582
     },
     {
-        "name": "Reitz",
+        "name": "Райц",
         "latitude": -27.80138,
         "longitude": 28.42726
     },
     {
-        "name": "Sasolburg",
+        "name": "Сасольбург",
         "latitude": -26.81358,
         "longitude": 27.81695
     },
     {
-        "name": "Senekal",
+        "name": "Сенекаль",
         "latitude": -28.31971,
         "longitude": 27.62082
     },
     {
-        "name": "Thaba Nchu",
+        "name": "Гора Нчу",
         "latitude": -29.20932,
         "longitude": 26.83898
     },
     {
-        "name": "Thabo Mofutsanyana District Municipality",
+        "name": "Муниципалитет бедного района Табо",
         "latitude": -28.24378,
         "longitude": 28.34077
     },
     {
-        "name": "Theunissen",
+        "name": "Теуниссен",
         "latitude": -28.41098,
         "longitude": 26.70107
     },
     {
-        "name": "Ventersburg",
+        "name": "Вентерсбург",
         "latitude": -28.08561,
         "longitude": 27.13814
     },
     {
-        "name": "Viljoenskroon",
+        "name": "Вильоэнскрон",
         "latitude": -27.20841,
         "longitude": 26.94855
     },
     {
-        "name": "Villiers",
+        "name": "Вильерс",
         "latitude": -27.03026,
         "longitude": 28.60061
     },
     {
-        "name": "Virginia",
+        "name": "Вирджиния",
         "latitude": -28.10391,
         "longitude": 26.86593
     },
     {
-        "name": "Vrede",
+        "name": "Мир",
         "latitude": -27.42573,
         "longitude": 29.16585
     },
     {
-        "name": "Vredefort",
+        "name": "Форт Мира",
         "latitude": -27.00805,
         "longitude": 27.3646
     },
     {
-        "name": "Welkom",
+        "name": "Добро пожаловать",
         "latitude": -27.97742,
         "longitude": 26.73506
     },
     {
-        "name": "Wesselsbron",
+        "name": "Вессельсброн",
         "latitude": -27.8549,
         "longitude": 26.36583
     },
     {
-        "name": "Winburg",
+        "name": "Винбург",
         "latitude": -28.51805,
         "longitude": 27.00933
     },
     {
-        "name": "Xhariep District Municipality",
+        "name": "Муниципалитет Харипского района",
         "latitude": -29.84311,
         "longitude": 25.83286
     },
     {
-        "name": "Zastron",
+        "name": "Застрон",
         "latitude": -30.30225,
         "longitude": 27.08395
     },
     {
-        "name": "Alberton",
+        "name": "Альбертон",
         "latitude": -26.26786,
         "longitude": 28.12225
     },
     {
-        "name": "Benoni",
+        "name": "Бенони",
         "latitude": -26.18848,
         "longitude": 28.32078
     },
     {
-        "name": "Boksburg",
+        "name": "Боксбург",
         "latitude": -26.21197,
         "longitude": 28.25958
     },
     {
-        "name": "Brakpan",
+        "name": "Солоноватая кастрюля",
         "latitude": -26.23656,
         "longitude": 28.36938
     },
     {
-        "name": "Bronkhorstspruit",
+        "name": "Бронкхорстспрут",
         "latitude": -25.81015,
         "longitude": 28.74248
     },
     {
-        "name": "Carletonville",
+        "name": "Карлтонвилл",
         "latitude": -26.36094,
         "longitude": 27.39767
     },
     {
-        "name": "Centurion",
+        "name": "Центурион",
         "latitude": -25.85891,
         "longitude": 28.18577
     },
     {
-        "name": "City of Johannesburg Metropolitan Municipality",
+        "name": "Муниципалитет города Йоханнесбург",
         "latitude": -26.17673,
         "longitude": 27.96353
     },
     {
-        "name": "City of Tshwane Metropolitan Municipality",
+        "name": "Муниципалитет города Цване",
         "latitude": -25.65985,
         "longitude": 28.44343
     },
     {
-        "name": "Cullinan",
+        "name": "Куллинан",
         "latitude": -25.67088,
         "longitude": 28.52364
     },
     {
-        "name": "Diepsloot",
+        "name": "Дипслот",
         "latitude": -25.93312,
         "longitude": 28.01213
     },
     {
-        "name": "Eastleigh",
+        "name": "Истли",
         "latitude": -26.12965,
         "longitude": 28.15541
     },
     {
-        "name": "Eden Glen",
+        "name": "Иден Глен",
         "latitude": -26.1323,
         "longitude": 28.16859
     },
     {
-        "name": "Eden Glen Ext 60",
+        "name": "Иден Глен Экст 60",
         "latitude": -26.12593,
         "longitude": 28.165
     },
     {
-        "name": "Edenvale",
+        "name": "Эденвейл",
         "latitude": -26.14095,
         "longitude": 28.15247
     },
     {
-        "name": "Ekangala",
+        "name": "Экагала",
         "latitude": -25.69619,
         "longitude": 28.74918
     },
     {
-        "name": "Ekurhuleni Metropolitan Municipality",
+        "name": "Муниципалитет Экурхулени",
         "latitude": -26.1989,
         "longitude": 28.31262
     },
     {
-        "name": "Heidelberg",
+        "name": "Гейдельберг",
         "latitude": -26.50476,
         "longitude": 28.35921
     },
     {
-        "name": "Johannesburg",
+        "name": "Йоханнесбург",
         "latitude": -26.20227,
         "longitude": 28.04363
     },
     {
-        "name": "Krugersdorp",
+        "name": "Крюгерсдорп",
         "latitude": -26.08577,
         "longitude": 27.77515
     },
     {
-        "name": "Mabopane",
+        "name": "Мабопане",
         "latitude": -25.49768,
         "longitude": 28.10065
     },
     {
-        "name": "Midrand",
+        "name": "средний край",
         "latitude": -25.98953,
         "longitude": 28.12843
     },
     {
-        "name": "Midstream",
+        "name": "Мидстрим",
         "latitude": -25.91849,
         "longitude": 28.19881
     },
     {
-        "name": "Modderfontein",
+        "name": "Грязевой фонтан",
         "latitude": -26.08909,
         "longitude": 28.16534
     },
     {
-        "name": "Muldersdriseloop",
+        "name": "Малдерсдриселуп",
         "latitude": -26.03673,
         "longitude": 27.83798
     },
     {
-        "name": "Nigel",
+        "name": "Найджел",
         "latitude": -26.43138,
         "longitude": 28.47713
     },
     {
-        "name": "Orange Farm",
+        "name": "Оранжевая ферма",
         "latitude": -26.48333,
         "longitude": 27.86667
     },
     {
-        "name": "Pretoria",
+        "name": "Претория",
         "latitude": -25.74486,
         "longitude": 28.18783
     },
     {
-        "name": "Randburg",
+        "name": "Рандбург",
         "latitude": -26.0941,
         "longitude": 28.00123
     },
     {
-        "name": "Randfontein",
+        "name": "Рандфонтейн",
         "latitude": -26.1844,
         "longitude": 27.70203
     },
     {
-        "name": "Roodepoort",
+        "name": "Рудепорт",
         "latitude": -26.1625,
         "longitude": 27.8725
     },
     {
-        "name": "Sedibeng District Municipality",
+        "name": "Муниципалитет района Седибенг",
         "latitude": -26.56686,
         "longitude": 28.18277
     },
     {
-        "name": "Soweto",
+        "name": "Соуэто",
         "latitude": -26.26781,
         "longitude": 27.85849
     },
     {
-        "name": "Springs",
+        "name": "Пружины",
         "latitude": -26.25,
         "longitude": 28.4
     },
     {
-        "name": "Tembisa",
+        "name": "Поверьте мне",
         "latitude": -25.99636,
         "longitude": 28.2268
     },
     {
-        "name": "Vanderbijlpark",
+        "name": "Вандербейлпарк",
         "latitude": -26.71171,
         "longitude": 27.83795
     },
     {
-        "name": "Vereeniging",
+        "name": "Ассоциация",
         "latitude": -26.67313,
         "longitude": 27.92615
     },
     {
-        "name": "West Rand District Municipality",
+        "name": "Муниципалитет округа Вест-Рэнд",
         "latitude": -26.24565,
         "longitude": 27.55538
     },
     {
-        "name": "Westonaria",
+        "name": "Вестонария",
         "latitude": -26.31905,
         "longitude": 27.6486
     },
     {
-        "name": "Amajuba District Municipality",
+        "name": "Муниципалитет района Амахуба",
         "latitude": -27.73558,
         "longitude": 30.13537
     },
     {
-        "name": "Ballito",
+        "name": "Баллито",
         "latitude": -29.53897,
         "longitude": 31.21439
     },
     {
-        "name": "Berea",
+        "name": "Верия",
         "latitude": -29.85185,
         "longitude": 30.99337
     },
     {
-        "name": "Dundee",
+        "name": "Данди",
         "latitude": -28.16678,
         "longitude": 30.23371
     },
     {
-        "name": "Durban",
+        "name": "Дурбан",
         "latitude": -29.8579,
         "longitude": 31.0292
     },
     {
-        "name": "Ekuvukeni",
+        "name": "В пробуждении",
         "latitude": -28.46752,
         "longitude": 30.15513
     },
     {
-        "name": "eMkhomazi",
+        "name": "в Мхомази",
         "latitude": -30.20674,
         "longitude": 30.79776
     },
     {
-        "name": "Empangeni",
+        "name": "В добыче",
         "latitude": -28.76197,
         "longitude": 31.89329
     },
     {
-        "name": "Eshowe",
+        "name": "Он появился",
         "latitude": -28.88649,
         "longitude": 31.4699
     },
     {
-        "name": "eSikhaleni",
+        "name": "в космосе",
         "latitude": -28.87097,
         "longitude": 31.89961
     },
     {
-        "name": "eThekwini Metropolitan Municipality",
+        "name": "Муниципалитет этеквини",
         "latitude": -29.8667,
         "longitude": 31.0167
     },
     {
-        "name": "Glencoe",
+        "name": "Гленко",
         "latitude": -28.17827,
         "longitude": 30.14702
     },
     {
-        "name": "Greytown",
+        "name": "Грейтаун",
         "latitude": -29.06415,
         "longitude": 30.59279
     },
     {
-        "name": "Hluhluwe",
+        "name": "Быть поверженным",
         "latitude": -28.01895,
         "longitude": 32.26762
     },
     {
-        "name": "Howick",
+        "name": "Хоуик",
         "latitude": -29.47795,
         "longitude": 30.23057
     },
     {
-        "name": "iLembe District Municipality",
+        "name": "Муниципалитет района Лембе",
         "latitude": -29.27326,
         "longitude": 31.14253
     },
     {
-        "name": "Kokstad",
+        "name": "Кокстад",
         "latitude": -30.54723,
         "longitude": 29.42412
     },
     {
-        "name": "KwaDukuza",
+        "name": "В Дукудза",
         "latitude": -29.32816,
         "longitude": 31.28954
     },
     {
-        "name": "Margate",
+        "name": "Маргейт",
         "latitude": -30.8636,
         "longitude": 30.37052
     },
     {
-        "name": "Mondlo",
+        "name": "Мондло",
         "latitude": -27.98299,
         "longitude": 30.71769
     },
     {
-        "name": "Mooirivier",
+        "name": "Река Муи",
         "latitude": -29.20824,
         "longitude": 29.9946
     },
     {
-        "name": "Mpophomeni",
+        "name": "Мне жаль",
         "latitude": -29.56822,
         "longitude": 30.18618
     },
     {
-        "name": "Mpumalanga",
+        "name": "Мпумаланга",
         "latitude": -29.81292,
         "longitude": 30.63646
     },
     {
-        "name": "Mtubatuba",
+        "name": "Мтубатуба",
         "latitude": -28.41789,
         "longitude": 32.18483
     },
     {
-        "name": "Ndwedwe",
+        "name": "я уже в пути",
         "latitude": -29.51686,
         "longitude": 30.92687
     },
     {
-        "name": "Newcastle",
+        "name": "Ньюкасл",
         "latitude": -27.75796,
         "longitude": 29.9318
     },
     {
-        "name": "Pietermaritzburg",
+        "name": "Питермарицбург",
         "latitude": -29.61679,
         "longitude": 30.39278
     },
     {
-        "name": "Port Shepstone",
+        "name": "Порт-Шепстон",
         "latitude": -30.74137,
         "longitude": 30.45499
     },
     {
-        "name": "Richards Bay",
+        "name": "Ричардс Бэй",
         "latitude": -28.78301,
         "longitude": 32.03768
     },
     {
-        "name": "Richmond",
+        "name": "Ричмонд",
         "latitude": -29.87196,
         "longitude": 30.27235
     },
     {
-        "name": "Scottburgh",
+        "name": "Скоттбург",
         "latitude": -30.28666,
         "longitude": 30.75316
     },
     {
-        "name": "Sisonke District Municipality",
+        "name": "Муниципалитет Сисонкского района",
         "latitude": -30.11082,
         "longitude": 29.66009
     },
     {
-        "name": "Sundumbili",
+        "name": "сундумбили",
         "latitude": -29.13371,
         "longitude": 31.39752
     },
     {
-        "name": "Ugu District Municipality",
+        "name": "Муниципалитет Угуского района",
         "latitude": -30.54365,
         "longitude": 30.2748
     },
     {
-        "name": "Ulundi",
+        "name": "Вы ждете",
         "latitude": -28.33523,
         "longitude": 31.41617
     },
     {
-        "name": "uMgungundlovu",
+        "name": "Питермарицбург",
         "latitude": -29.50927,
         "longitude": 30.19838
     },
     {
-        "name": "uMkhanyakude District Municipality",
+        "name": "Муниципалитет Мханьякудского района",
         "latitude": -27.62236,
         "longitude": 32.32945
     },
     {
-        "name": "uMzinyathi District Municipality",
+        "name": "Муниципалитет района Мзиньяти",
         "latitude": -28.5857,
         "longitude": 30.55883
     },
     {
-        "name": "uThukela District Municipality",
+        "name": "Муниципалитет района Тукела",
         "latitude": -28.7192,
         "longitude": 29.65799
     },
     {
-        "name": "uThungulu District Municipality",
+        "name": "Муниципалитет района Тунгулу",
         "latitude": -28.70046,
         "longitude": 31.51527
     },
     {
-        "name": "Utrecht",
+        "name": "Утрехт",
         "latitude": -27.65862,
         "longitude": 30.32166
     },
     {
-        "name": "Vryheid",
+        "name": "Свобода",
         "latitude": -27.76952,
         "longitude": 30.79165
     },
     {
-        "name": "Zululand District Municipality",
+        "name": "Муниципалитет округа Зулуленд",
         "latitude": -27.81139,
         "longitude": 31.29426
     },
     {
-        "name": "Bochum",
+        "name": "Бохум",
         "latitude": -23.28609,
         "longitude": 29.13964
     },
     {
-        "name": "Capricorn District Municipality",
+        "name": "Муниципалитет района Козерог",
         "latitude": -23.48163,
         "longitude": 29.1835
     },
     {
-        "name": "Duiwelskloof",
+        "name": "Дьявольское ущелье",
         "latitude": -23.69339,
         "longitude": 30.14002
     },
     {
-        "name": "Ga-Kgapane",
+        "name": "Га-Кгапане",
         "latitude": -23.64378,
         "longitude": 30.22324
     },
     {
-        "name": "Giyani",
+        "name": "Гияни",
         "latitude": -23.30246,
         "longitude": 30.71868
     },
     {
-        "name": "Lebowakgomo",
+        "name": "Лебовакгомо",
         "latitude": -24.2,
         "longitude": 29.5
     },
     {
-        "name": "Louis Trichardt",
+        "name": "Луи Тришардт",
         "latitude": -23.04385,
         "longitude": 29.90319
     },
     {
-        "name": "Mankoeng",
+        "name": "Манкоенг",
         "latitude": -23.9,
         "longitude": 29.81667
     },
     {
-        "name": "Modimolle",
+        "name": "Мод кроты",
         "latitude": -24.7,
         "longitude": 28.4
     },
     {
-        "name": "Mokopane",
+        "name": "Мокопане",
         "latitude": -24.19436,
         "longitude": 29.00974
     },
     {
-        "name": "Mopani District Municipality",
+        "name": "Муниципалитет района Мопани",
         "latitude": -23.76661,
         "longitude": 30.836
     },
     {
-        "name": "Musina",
+        "name": "Никто",
         "latitude": -22.34881,
         "longitude": 30.04074
     },
     {
-        "name": "Nkowakowa",
+        "name": "Нковакова",
         "latitude": -23.88782,
         "longitude": 30.28708
     },
     {
-        "name": "Phalaborwa",
+        "name": "Это обсуждалось",
         "latitude": -23.94299,
         "longitude": 31.14107
     },
     {
-        "name": "Polokwane",
+        "name": "Полокване",
         "latitude": -23.90449,
         "longitude": 29.46885
     },
     {
-        "name": "Sekhukhune District Municipality",
+        "name": "Муниципалитет Сехухунского района",
         "latitude": -24.82806,
         "longitude": 29.83803
     },
     {
-        "name": "Thabazimbi",
+        "name": "Радуйтесь",
         "latitude": -24.59165,
         "longitude": 27.41155
     },
     {
-        "name": "Thohoyandou",
+        "name": "Тохоянду",
         "latitude": -22.94564,
         "longitude": 30.48497
     },
     {
-        "name": "Thulamahashi",
+        "name": "Туламахаши",
         "latitude": -24.72459,
         "longitude": 31.19939
     },
     {
-        "name": "Tzaneen",
+        "name": "Тзанин",
         "latitude": -23.83322,
         "longitude": 30.16351
     },
     {
-        "name": "Vhembe District Municipality",
+        "name": "Муниципалитет района Вембе",
         "latitude": -22.75467,
         "longitude": 30.1936
     },
     {
-        "name": "Warmbaths",
+        "name": "Теплые ванны",
         "latitude": -24.88333,
         "longitude": 28.28333
     },
     {
-        "name": "Waterberg District Municipality",
+        "name": "Муниципалитет района Ватерберг",
         "latitude": -24.20514,
         "longitude": 27.9787
     },
     {
-        "name": "Balfour",
+        "name": "Бальфур",
         "latitude": -26.66331,
         "longitude": 28.59016
     },
     {
-        "name": "Barberton",
+        "name": "Барбертон",
         "latitude": -25.78842,
         "longitude": 31.05319
     },
     {
-        "name": "Belfast",
+        "name": "Белфаст",
         "latitude": -25.68991,
         "longitude": 30.03504
     },
     {
-        "name": "Bethal",
+        "name": "Бетал",
         "latitude": -26.45794,
         "longitude": 29.46553
     },
     {
-        "name": "Breyten",
+        "name": "Брейтен",
         "latitude": -26.30176,
         "longitude": 29.98696
     },
     {
-        "name": "Carolina",
+        "name": "Каролина",
         "latitude": -26.06927,
         "longitude": 30.11489
     },
     {
-        "name": "Delmas",
+        "name": "Дельмас",
         "latitude": -26.1466,
         "longitude": 28.68322
     },
     {
-        "name": "Driefontein",
+        "name": "Дрифонтейн",
         "latitude": -27.0177,
         "longitude": 30.44979
     },
     {
-        "name": "Ehlanzeni District",
+        "name": "Эланзенский район",
         "latitude": -25.351,
         "longitude": 31.361
     },
     {
-        "name": "eMbalenhle",
+        "name": "ЭМбаленхле",
         "latitude": -26.53333,
         "longitude": 29.06667
     },
     {
-        "name": "Ermelo",
+        "name": "Эрмело",
         "latitude": -26.53333,
         "longitude": 29.98333
     },
     {
-        "name": "Gert Sibande District Municipality",
+        "name": "Муниципалитет округа Герт-Сибанде",
         "latitude": -26.671,
         "longitude": 29.92953
     },
     {
-        "name": "Hendrina",
+        "name": "Хендрина",
         "latitude": -26.15881,
         "longitude": 29.71528
     },
     {
-        "name": "Komatipoort",
+        "name": "Коматипоорт",
         "latitude": -25.43321,
         "longitude": 31.95478
     },
     {
-        "name": "Kriel",
+        "name": "Петух",
         "latitude": -26.27391,
         "longitude": 29.2253
     },
     {
-        "name": "Lydenburg",
+        "name": "Лиденбург",
         "latitude": -25.09598,
         "longitude": 30.44393
     },
     {
-        "name": "Middelburg",
+        "name": "Мидделбург",
         "latitude": -25.77507,
         "longitude": 29.46482
     },
     {
-        "name": "Nelspruit",
+        "name": "Нельспрут",
         "latitude": -25.47448,
         "longitude": 30.97033
     },
     {
-        "name": "Nkangala District Municipality",
+        "name": "Муниципалитет района Нкангала",
         "latitude": -25.71222,
         "longitude": 29.42431
     },
     {
-        "name": "Piet Retief",
+        "name": "Пит Ретиф",
         "latitude": -27.00706,
         "longitude": 30.81323
     },
     {
-        "name": "Secunda",
+        "name": "Второй",
         "latitude": -26.55,
         "longitude": 29.16667
     },
     {
-        "name": "Siyabuswa",
+        "name": "Сиябусва",
         "latitude": -25.11319,
         "longitude": 29.04454
     },
     {
-        "name": "Standerton",
+        "name": "Стандарттон",
         "latitude": -26.93366,
         "longitude": 29.24152
     },
     {
-        "name": "Volksrust",
+        "name": "Народный мир",
         "latitude": -27.36541,
         "longitude": 29.88175
     },
     {
-        "name": "White River",
+        "name": "Белая река",
         "latitude": -25.33177,
         "longitude": 31.01166
     },
     {
-        "name": "Witbank",
+        "name": "белый диван",
         "latitude": -25.87133,
         "longitude": 29.23323
     },
     {
-        "name": "Bloemhof",
+        "name": "Блумхоф",
         "latitude": -27.64685,
         "longitude": 25.60697
     },
     {
-        "name": "Bojanala Platinum District Municipality",
+        "name": "Муниципалитет района Божанала Платинум",
         "latitude": -25.42612,
         "longitude": 27.2243
     },
     {
-        "name": "Brits",
+        "name": "Британцы",
         "latitude": -25.63473,
         "longitude": 27.78022
     },
     {
-        "name": "Christiana",
+        "name": "Кристиана",
         "latitude": -27.91402,
         "longitude": 25.16111
     },
     {
-        "name": "Dr Kenneth Kaunda District Municipality",
+        "name": "Д-р Кеннет Муниципалитет округа Каунда",
         "latitude": -26.80678,
         "longitude": 26.56926
     },
     {
-        "name": "Dr Ruth Segomotsi Mompati District Municipality",
+        "name": "Доктор Рут Сегомоци - Лучшее от доктора Рут Сегомоци",
         "latitude": -26.63765,
         "longitude": 24.27462
     },
     {
-        "name": "Fochville",
+        "name": "Фошвилль",
         "latitude": -26.48862,
         "longitude": 27.49387
     },
     {
-        "name": "Ga-Rankuwa",
+        "name": "Га-Ранкува",
         "latitude": -25.61692,
         "longitude": 27.99471
     },
     {
-        "name": "Jan Kempdorp",
+        "name": "Ян Кемпдорп",
         "latitude": -27.92246,
         "longitude": 24.83051
     },
     {
-        "name": "Klerksdorp",
+        "name": "Клерксдорп",
         "latitude": -26.85213,
         "longitude": 26.66672
     },
     {
-        "name": "Koster",
+        "name": "Костер",
         "latitude": -25.86301,
         "longitude": 26.89756
     },
     {
-        "name": "Lichtenburg",
+        "name": "Лихтенбург",
         "latitude": -26.152,
         "longitude": 26.15968
     },
     {
-        "name": "Mahikeng",
+        "name": "Махикенг",
         "latitude": -25.86522,
         "longitude": 25.64421
     },
     {
-        "name": "Maile",
+        "name": "Почта",
         "latitude": -25.44152,
         "longitude": 27.28165
     },
     {
-        "name": "Mmabatho",
+        "name": "Одежда",
         "latitude": -25.85,
         "longitude": 25.63333
     },
     {
-        "name": "Ngaka Modiri Molema District Municipality",
+        "name": "Муниципалитет района доктора Модири Молема",
         "latitude": -25.95559,
         "longitude": 25.80782
     },
     {
-        "name": "Orkney",
+        "name": "Оркнейские острова",
         "latitude": -26.98023,
         "longitude": 26.67272
     },
     {
-        "name": "Potchefstroom",
+        "name": "Почефструм",
         "latitude": -26.71667,
         "longitude": 27.1
     },
     {
-        "name": "Rustenburg",
+        "name": "Рюстенбург",
         "latitude": -25.66756,
         "longitude": 27.24208
     },
     {
-        "name": "Schweizer-Reneke",
+        "name": "Швейцарский Ренеке",
         "latitude": -27.18871,
         "longitude": 25.32931
     },
     {
-        "name": "Stilfontein",
+        "name": "Стилфонтейн",
         "latitude": -26.84493,
         "longitude": 26.76829
     },
     {
-        "name": "Vryburg",
+        "name": "Фрибург",
         "latitude": -26.95659,
         "longitude": 24.7284
     },
     {
-        "name": "Wolmaransstad",
+        "name": "Вольмарансстад",
         "latitude": -27.1974,
         "longitude": 25.98311
     },
     {
-        "name": "Zeerust",
+        "name": "Морское спокойствие",
         "latitude": -25.53695,
         "longitude": 26.07512
     },
     {
-        "name": "Barkly West",
+        "name": "Баркли Уэст",
         "latitude": -28.53537,
         "longitude": 24.52151
     },
     {
-        "name": "Brandvlei",
+        "name": "Брандвлей",
         "latitude": -30.46532,
         "longitude": 20.48659
     },
     {
-        "name": "Calvinia",
+        "name": "Кальвиния",
         "latitude": -31.47069,
         "longitude": 19.77601
     },
     {
-        "name": "Carnarvon",
+        "name": "Карнарвон",
         "latitude": -30.96827,
         "longitude": 22.13303
     },
     {
-        "name": "Colesberg",
+        "name": "Колесберг",
         "latitude": -30.71999,
         "longitude": 25.09718
     },
     {
-        "name": "Dani\u00eblskuil",
+        "name": "Убежище Дэниела",
         "latitude": -28.18873,
         "longitude": 23.53951
     },
     {
-        "name": "De Aar",
+        "name": "Аар",
         "latitude": -30.64966,
         "longitude": 24.0123
     },
     {
-        "name": "Frances Baard District Municipality",
+        "name": "Муниципалитет округа Фрэнсис Баард",
         "latitude": -28.30003,
         "longitude": 24.38188
     },
     {
-        "name": "Fraserburg",
+        "name": "Фрейзербург",
         "latitude": -31.91566,
         "longitude": 21.51335
     },
     {
-        "name": "John Taolo Gaetsewe District Municipality",
+        "name": "Муниципалитет района Джон Таоло Гаетсеве",
         "latitude": -27.04549,
         "longitude": 23.04706
     },
     {
-        "name": "Kathu",
+        "name": "Кату",
         "latitude": -27.69569,
         "longitude": 23.04929
     },
     {
-        "name": "Kenhardt",
+        "name": "Кенхардт",
         "latitude": -29.34574,
         "longitude": 21.15786
     },
     {
-        "name": "Kimberley",
+        "name": "Кимберли",
         "latitude": -28.73226,
         "longitude": 24.76232
     },
     {
-        "name": "Kuruman",
+        "name": "Куруман",
         "latitude": -27.4524,
         "longitude": 23.43246
     },
     {
-        "name": "Namakwa District Municipality",
+        "name": "Муниципалитет района Намаква",
         "latitude": -30.53561,
         "longitude": 19.42892
     },
     {
-        "name": "Noupoort",
+        "name": "Нупорт",
         "latitude": -31.18736,
         "longitude": 24.94991
     },
     {
-        "name": "Orania",
+        "name": "Орания",
         "latitude": -29.81381,
         "longitude": 24.41205
     },
     {
-        "name": "Pampierstad",
+        "name": "Пампьерстад",
         "latitude": -27.78324,
         "longitude": 24.68768
     },
     {
-        "name": "Pixley ka Seme District Municipality",
+        "name": "Муниципалитет находится в районе Пиксли-ка-См.",
         "latitude": -30.2892,
         "longitude": 23.25818
     },
     {
-        "name": "Pofadder",
+        "name": "слоеная сумматор",
         "latitude": -29.1283,
         "longitude": 19.39492
     },
     {
-        "name": "Postmasburg",
+        "name": "Постмасбург",
         "latitude": -28.33392,
         "longitude": 23.06541
     },
     {
-        "name": "Prieska",
+        "name": "Приска",
         "latitude": -29.66803,
         "longitude": 22.74251
     },
     {
-        "name": "Ritchie",
+        "name": "Ричи",
         "latitude": -29.03801,
         "longitude": 24.60278
     },
     {
-        "name": "Siyanda District Municipality",
+        "name": "Муниципалитет Сияндского района",
         "latitude": -28.00013,
         "longitude": 21.18459
     },
     {
-        "name": "Springbok",
+        "name": "Газель",
         "latitude": -29.66434,
         "longitude": 17.8865
     },
     {
-        "name": "Upington",
+        "name": "Апингтон",
         "latitude": -28.44776,
         "longitude": 21.25612
     },
     {
-        "name": "Van Wyksvlei",
+        "name": "Из Выксвлей",
         "latitude": -30.35101,
         "longitude": 21.82498
     },
     {
-        "name": "Warrenton",
+        "name": "Уоррентон",
         "latitude": -28.11396,
         "longitude": 24.84753
     },
     {
-        "name": "Albertina",
+        "name": "Альбертина",
         "latitude": -34.20544,
         "longitude": 21.58001
     },
     {
-        "name": "Arniston",
+        "name": "Арнистон",
         "latitude": -34.66739,
         "longitude": 20.23086
     },
     {
-        "name": "Atlantis",
+        "name": "Атлантида",
         "latitude": -33.56668,
         "longitude": 18.48335
     },
     {
-        "name": "Beaufort West",
+        "name": "Бофорт Уэст",
         "latitude": -32.35671,
         "longitude": 22.58295
     },
     {
-        "name": "Bergvliet",
+        "name": "Бергвлит",
         "latitude": -34.04746,
         "longitude": 18.4525
     },
     {
-        "name": "Bredasdorp",
+        "name": "Бредасдорп",
         "latitude": -34.53215,
         "longitude": 20.04031
     },
     {
-        "name": "Caledon",
+        "name": "Каледон",
         "latitude": -34.22997,
         "longitude": 19.4265
     },
     {
-        "name": "Calitzdorp",
+        "name": "Калицдорп",
         "latitude": -33.52755,
         "longitude": 21.6762
     },
     {
-        "name": "Cape Town",
+        "name": "Кейптаун",
         "latitude": -33.92584,
         "longitude": 18.42322
     },
     {
-        "name": "Cape Winelands District Municipality",
+        "name": "Муниципалитет округа Кейп-Вайнлендс",
         "latitude": -33.32249,
         "longitude": 19.68998
     },
     {
-        "name": "Central Karoo District Municipality",
+        "name": "Муниципалитет Центрального района Кару",
         "latitude": -32.62812,
         "longitude": 22.21192
     },
     {
-        "name": "Ceres",
+        "name": "Церера",
         "latitude": -33.36889,
         "longitude": 19.31095
     },
     {
-        "name": "City of Cape Town",
+        "name": "Город Кейптаун",
         "latitude": -33.91667,
         "longitude": 18.41667
     },
     {
-        "name": "Clanwilliam",
+        "name": "Кланвильям",
         "latitude": -32.18173,
         "longitude": 18.89217
     },
     {
-        "name": "Claremont",
+        "name": "Клермонт",
         "latitude": -33.98056,
         "longitude": 18.46528
     },
     {
-        "name": "Constantia",
+        "name": "Констанция",
         "latitude": -34.03139,
         "longitude": 18.41833
     },
     {
-        "name": "De Rust",
+        "name": "Остальные",
         "latitude": -33.49035,
         "longitude": 22.53523
     },
     {
-        "name": "Eden District Municipality",
+        "name": "Муниципалитет Иденского района",
         "latitude": -33.82139,
         "longitude": 22.01263
     },
     {
-        "name": "George",
+        "name": "Джордж",
         "latitude": -33.963,
         "longitude": 22.46173
     },
     {
-        "name": "Grabouw",
+        "name": "Могильное здание",
         "latitude": -34.15152,
         "longitude": 19.01509
     },
     {
-        "name": "Hardys Memories of Africa",
+        "name": "Воспоминания Харди об Африке",
         "latitude": -33.90539,
         "longitude": 20.7169
     },
     {
-        "name": "Hermanus",
+        "name": "Германус",
         "latitude": -34.4187,
         "longitude": 19.23446
     },
     {
-        "name": "Knysna",
+        "name": "Найсна",
         "latitude": -34.03627,
         "longitude": 23.04713
     },
     {
-        "name": "Kraaifontein",
+        "name": "Краайфонтейн",
         "latitude": -33.84808,
         "longitude": 18.71723
     },
     {
-        "name": "Ladismith",
+        "name": "Ледисмит",
         "latitude": -33.49331,
         "longitude": 21.26755
     },
     {
-        "name": "Lansdowne",
+        "name": "Лэнсдаун",
         "latitude": -33.98735,
         "longitude": 18.49746
     },
     {
-        "name": "Malmesbury",
+        "name": "Малмсбери",
         "latitude": -33.4608,
         "longitude": 18.72714
     },
     {
-        "name": "Montagu",
+        "name": "Монтегю",
         "latitude": -33.78664,
         "longitude": 20.12106
     },
     {
-        "name": "Moorreesburg",
+        "name": "Муррисбург",
         "latitude": -33.15388,
         "longitude": 18.66031
     },
     {
-        "name": "Mossel Bay",
+        "name": "Моссел Бэй",
         "latitude": -34.18307,
         "longitude": 22.14605
     },
     {
-        "name": "Newlands",
+        "name": "Ньюлендс",
         "latitude": -33.97846,
         "longitude": 18.4481
     },
     {
-        "name": "Oudtshoorn",
+        "name": "Оудсхорн",
         "latitude": -33.60047,
         "longitude": 22.19955
     },
     {
-        "name": "Overberg District Municipality",
+        "name": "Муниципалитет Овербергского района",
         "latitude": -34.26131,
         "longitude": 19.93985
     },
     {
-        "name": "Paarl",
+        "name": "Паарл",
         "latitude": -33.73378,
         "longitude": 18.97523
     },
     {
-        "name": "Piketberg",
+        "name": "Пикет Хилл",
         "latitude": -32.90323,
         "longitude": 18.75704
     },
     {
-        "name": "Plettenberg Bay",
+        "name": "Плеттенберг Бэй",
         "latitude": -34.05274,
         "longitude": 23.3716
     },
     {
-        "name": "Prince Albert",
+        "name": "Принц Альберт",
         "latitude": -33.22476,
         "longitude": 22.02673
     },
     {
-        "name": "Retreat",
+        "name": "Отступление",
         "latitude": -34.05515,
         "longitude": 18.47617
     },
     {
-        "name": "Riversdale",
+        "name": "Риверсдейл",
         "latitude": -34.09345,
         "longitude": 21.25725
     },
     {
-        "name": "Robertson",
+        "name": "Робертсон",
         "latitude": -33.80342,
         "longitude": 19.88537
     },
     {
-        "name": "Rondebosch",
+        "name": "Рондебош",
         "latitude": -33.96333,
         "longitude": 18.47639
     },
     {
-        "name": "Rosebank",
+        "name": "Роузбанк",
         "latitude": -33.95556,
         "longitude": 18.47417
     },
     {
-        "name": "Saldanha",
+        "name": "Салданья",
         "latitude": -33.01167,
         "longitude": 17.9442
     },
     {
-        "name": "Stellenbosch",
+        "name": "Стелленбош",
         "latitude": -33.93462,
         "longitude": 18.86676
     },
     {
-        "name": "Sunset Beach",
+        "name": "Сансет Бич",
         "latitude": -33.85395,
         "longitude": 18.49231
     },
     {
-        "name": "Swellendam",
+        "name": "набухающая плотина",
         "latitude": -34.02262,
         "longitude": 20.44171
     },
     {
-        "name": "Vredenburg",
+        "name": "Фреденбург",
         "latitude": -32.90719,
         "longitude": 17.98997
     },
     {
-        "name": "Vredendal",
+        "name": "Фредендаль",
         "latitude": -31.66833,
         "longitude": 18.50119
     },
     {
-        "name": "Wellington",
+        "name": "Веллингтон",
         "latitude": -33.63981,
         "longitude": 19.0112
     },
     {
-        "name": "West Coast District Municipality",
+        "name": "Муниципалитет округа Западного побережья",
         "latitude": -32.09506,
         "longitude": 18.62695
     },
     {
-        "name": "Worcester",
+        "name": "Вустер",
         "latitude": -33.64651,
         "longitude": 19.44852
     },
     {
-        "name": "Zoar",
+        "name": "Шутить",
         "latitude": -33.4956,
         "longitude": 21.44373
     }

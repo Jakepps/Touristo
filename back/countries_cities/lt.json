@@ -1,646 +1,646 @@
 [
     {
-        "name": "Alytus",
+        "name": "Алитус",
         "latitude": 54.39635,
         "longitude": 24.04142
     },
     {
-        "name": "Daugai",
+        "name": "Много",
         "latitude": 54.36667,
         "longitude": 24.33333
     },
     {
-        "name": "Druskininkai",
+        "name": "Друскининкай",
         "latitude": 54.01573,
         "longitude": 23.98703
     },
     {
-        "name": "Lazdijai",
+        "name": "Для палочек",
         "latitude": 54.23333,
         "longitude": 23.51667
     },
     {
-        "name": "Simnas",
+        "name": "Симнас",
         "latitude": 54.382,
         "longitude": 23.646
     },
     {
-        "name": "Var\u0117na",
+        "name": "Варена",
         "latitude": 54.21667,
         "longitude": 24.56667
     },
     {
-        "name": "Veisiejai",
+        "name": "Заводчики",
         "latitude": 54.1011,
         "longitude": 23.69614
     },
     {
-        "name": "Akademija (Kaunas)",
+        "name": "Академия (Каунас)",
         "latitude": 54.8964,
         "longitude": 23.82411
     },
     {
-        "name": "Aleksotas",
+        "name": "Алексот",
         "latitude": 54.88037,
         "longitude": 23.90842
     },
     {
-        "name": "Ariogala",
+        "name": "Арёгала",
         "latitude": 55.262,
         "longitude": 23.477
     },
     {
-        "name": "Bir\u0161tonas",
+        "name": "Бирштон",
         "latitude": 54.61667,
         "longitude": 24.03333
     },
     {
-        "name": "Dainava (Kaunas)",
+        "name": "Дайнава (Каунас)",
         "latitude": 54.91525,
         "longitude": 23.96831
     },
     {
-        "name": "Eiguliai",
+        "name": "Эгулий",
         "latitude": 54.93133,
         "longitude": 23.93243
     },
     {
-        "name": "E\u017eer\u0117lis",
+        "name": "Озеро",
         "latitude": 54.88315,
         "longitude": 23.60396
     },
     {
-        "name": "Garliava",
+        "name": "Гарлива",
         "latitude": 54.82139,
         "longitude": 23.8713
     },
     {
-        "name": "Jieznas",
+        "name": "Езна",
         "latitude": 54.59937,
         "longitude": 24.17593
     },
     {
-        "name": "Jonava",
+        "name": "Йонава",
         "latitude": 55.08333,
         "longitude": 24.28333
     },
     {
-        "name": "Kai\u0161iadorys",
+        "name": "Кашиадоры",
         "latitude": 54.86667,
         "longitude": 24.45
     },
     {
-        "name": "Karm\u0117lava",
+        "name": "Кармелава",
         "latitude": 54.97055,
         "longitude": 24.06182
     },
     {
-        "name": "Kaunas",
+        "name": "Каунас",
         "latitude": 54.90272,
         "longitude": 23.90961
     },
     {
-        "name": "K\u0117dainiai",
+        "name": "Стулья",
         "latitude": 55.28333,
         "longitude": 23.96667
     },
     {
-        "name": "Kulautuva",
+        "name": "Расходный материал",
         "latitude": 54.94212,
         "longitude": 23.64218
     },
     {
-        "name": "Mastaiciai",
+        "name": "Художники",
         "latitude": 54.81998,
         "longitude": 23.84462
     },
     {
-        "name": "Prienai",
+        "name": "Ну давай же",
         "latitude": 54.63333,
         "longitude": 23.95
     },
     {
-        "name": "Ramu\u010diai",
+        "name": "Спокойствие духа",
         "latitude": 54.9483,
         "longitude": 24.0305
     },
     {
-        "name": "Raseiniai",
+        "name": "Гонки",
         "latitude": 55.36667,
         "longitude": 23.11667
     },
     {
-        "name": "Sarg\u0117nai",
+        "name": "Опекуны",
         "latitude": 54.94933,
         "longitude": 23.88316
     },
     {
-        "name": "\u0160ilainiai",
+        "name": "Силанияй",
         "latitude": 54.92911,
         "longitude": 23.88599
     },
     {
-        "name": "Vilkija",
+        "name": "Волк",
         "latitude": 55.04609,
         "longitude": 23.58552
     },
     {
-        "name": "\u017die\u017emariai",
+        "name": "Жежмарис",
         "latitude": 54.80725,
         "longitude": 24.44073
     },
     {
-        "name": "Garg\u017edai",
+        "name": "Гаргжд",
         "latitude": 55.70951,
         "longitude": 21.39441
     },
     {
-        "name": "Klaip\u0117da",
+        "name": "Клайпеда",
         "latitude": 55.71667,
         "longitude": 21.11667
     },
     {
-        "name": "Kretinga",
+        "name": "Противный",
         "latitude": 55.8888,
         "longitude": 21.24448
     },
     {
-        "name": "Neringa",
+        "name": "Это не хорошо",
         "latitude": 55.36667,
         "longitude": 21.06667
     },
     {
-        "name": "Nida",
+        "name": "Нида",
         "latitude": 55.3086,
         "longitude": 20.99651
     },
     {
-        "name": "Palanga",
+        "name": "Паланга",
         "latitude": 55.9175,
         "longitude": 21.06861
     },
     {
-        "name": "Priekul\u0117",
+        "name": "Предшественник",
         "latitude": 55.55427,
         "longitude": 21.31903
     },
     {
-        "name": "Rusn\u0117",
+        "name": "Русне",
         "latitude": 55.2982,
         "longitude": 21.3712
     },
     {
-        "name": "Salantai",
+        "name": "Салантай",
         "latitude": 56.0565,
         "longitude": 21.5689
     },
     {
-        "name": "Silute",
+        "name": "Шилуте",
         "latitude": 55.34889,
         "longitude": 21.48306
     },
     {
-        "name": "Skuodas",
+        "name": "Чесотка",
         "latitude": 56.26667,
         "longitude": 21.53333
     },
     {
-        "name": "\u0160ventoji",
+        "name": "Святой",
         "latitude": 56.0261,
         "longitude": 21.08411
     },
     {
-        "name": "\u017demai\u010di\u0173 Naumiestis",
+        "name": "Город Жемайчай",
         "latitude": 55.35941,
         "longitude": 21.70364
     },
     {
-        "name": "Gelgaudi\u0161kis",
+        "name": "Гельгаудишкис",
         "latitude": 55.07688,
         "longitude": 22.97699
     },
     {
-        "name": "Kalvarija",
+        "name": "Голгофа",
         "latitude": 54.417,
         "longitude": 23.223
     },
     {
-        "name": "Kalvarija Municipality",
+        "name": "Муниципалитет Калвария",
         "latitude": 54.41468,
         "longitude": 23.22484
     },
     {
-        "name": "Kazl\u0173 R\u016bda",
+        "name": "Казлу Руда",
         "latitude": 54.749,
         "longitude": 23.49
     },
     {
-        "name": "Kazl\u0173 R\u016bda Municipality",
+        "name": "Казлу-Рудский край",
         "latitude": 54.74751,
         "longitude": 23.49272
     },
     {
-        "name": "Kudirkos Naumiestis",
+        "name": "Город Кудирка",
         "latitude": 54.77353,
         "longitude": 22.86138
     },
     {
-        "name": "Kybartai",
+        "name": "Кибарц",
         "latitude": 54.63858,
         "longitude": 22.76316
     },
     {
-        "name": "Marijampol\u0117",
+        "name": "Мариямполе",
         "latitude": 54.55991,
         "longitude": 23.35412
     },
     {
-        "name": "Marijampol\u0117 Municipality",
+        "name": "Мариямпольский край",
         "latitude": 54.56667,
         "longitude": 23.35
     },
     {
-        "name": "Sakiai",
+        "name": "Сакиай",
         "latitude": 54.95,
         "longitude": 23.05
     },
     {
-        "name": "Vilkaviskis",
+        "name": "Вилкавишкис",
         "latitude": 54.65167,
         "longitude": 23.03222
     },
     {
-        "name": "Vilkavi\u0161kis District Municipality",
+        "name": "Самоуправление Вилкавишкисского района",
         "latitude": 54.65,
         "longitude": 23.03333
     },
     {
-        "name": "Virbalis",
+        "name": "Штанга",
         "latitude": 54.62858,
         "longitude": 22.82272
     },
     {
-        "name": "Birzai",
+        "name": "Биржай",
         "latitude": 56.2,
         "longitude": 24.75
     },
     {
-        "name": "Juodup\u0117",
+        "name": "Юодупе",
         "latitude": 56.087,
         "longitude": 25.607
     },
     {
-        "name": "Kupiskis",
+        "name": "Купинский",
         "latitude": 55.84027,
         "longitude": 24.97976
     },
     {
-        "name": "Obeliai",
+        "name": "Яблоки",
         "latitude": 55.96895,
         "longitude": 25.15648
     },
     {
-        "name": "Panev\u0117\u017eys",
+        "name": "Паневежис",
         "latitude": 55.73333,
         "longitude": 24.35
     },
     {
-        "name": "Panev\u0117\u017eys City",
+        "name": "Паневежис город",
         "latitude": 55.736,
         "longitude": 24.34347
     },
     {
-        "name": "Panev\u0117\u017eys District Municipality",
+        "name": "Самоуправление Паневежского района",
         "latitude": 55.73301,
         "longitude": 24.37609
     },
     {
-        "name": "Pasvalys",
+        "name": "Убираться",
         "latitude": 56.06667,
         "longitude": 24.4
     },
     {
-        "name": "Ramygala",
+        "name": "Мирный",
         "latitude": 55.514,
         "longitude": 24.3
     },
     {
-        "name": "Roki\u0161kis",
+        "name": "Рокишкис",
         "latitude": 55.96667,
         "longitude": 25.58333
     },
     {
-        "name": "Vabalninkas",
+        "name": "Жук",
         "latitude": 55.98151,
         "longitude": 24.74828
     },
     {
-        "name": "Akmen\u0117",
+        "name": "Камень",
         "latitude": 56.25,
         "longitude": 22.75
     },
     {
-        "name": "Joni\u0161kis",
+        "name": "Джона",
         "latitude": 56.23333,
         "longitude": 23.61667
     },
     {
-        "name": "Kelm\u0117",
+        "name": "Пень",
         "latitude": 55.63333,
         "longitude": 22.93333
     },
     {
-        "name": "Kur\u0161\u0117nai",
+        "name": "Проклятия",
         "latitude": 56.00318,
         "longitude": 22.93662
     },
     {
-        "name": "Linkuva",
+        "name": "Линкува",
         "latitude": 56.08596,
         "longitude": 23.97061
     },
     {
-        "name": "Naujoji Akmene",
+        "name": "Новое Акмяне",
         "latitude": 56.31667,
         "longitude": 22.9
     },
     {
-        "name": "Pakruojis",
+        "name": "Загрузите",
         "latitude": 55.96667,
         "longitude": 23.86667
     },
     {
-        "name": "Radviliskis",
+        "name": "Радвилишкис",
         "latitude": 55.81667,
         "longitude": 23.53333
     },
     {
-        "name": "\u0160eduva",
+        "name": "Шедува",
         "latitude": 55.7493,
         "longitude": 23.7561
     },
     {
-        "name": "\u0160iauliai",
+        "name": "Шяуляй",
         "latitude": 55.93333,
         "longitude": 23.31667
     },
     {
-        "name": "Tytuv\u0117n\u0117liai",
+        "name": "Девочки",
         "latitude": 55.62345,
         "longitude": 23.17162
     },
     {
-        "name": "Venta",
+        "name": "Распродажа",
         "latitude": 56.19162,
         "longitude": 22.69528
     },
     {
-        "name": "\u017dagar\u0117",
+        "name": "Загара",
         "latitude": 56.36149,
         "longitude": 23.25094
     },
     {
-        "name": "B\u016bgai",
+        "name": "Вы были",
         "latitude": 55.41387,
         "longitude": 22.60894
     },
     {
-        "name": "Jurbarkas",
+        "name": "Юрбаркас",
         "latitude": 55.10859,
         "longitude": 22.79885
     },
     {
-        "name": "Pag\u0117giai",
+        "name": "Удачи",
         "latitude": 55.134,
         "longitude": 21.90446
     },
     {
-        "name": "\u0160ilal\u0117",
+        "name": "Шилале",
         "latitude": 55.46667,
         "longitude": 22.2
     },
     {
-        "name": "Taurage",
+        "name": "Таураг",
         "latitude": 55.25222,
         "longitude": 22.28972
     },
     {
-        "name": "Mazeikiai",
+        "name": "Мажейки",
         "latitude": 56.31667,
         "longitude": 22.33333
     },
     {
-        "name": "Plateliai",
+        "name": "Тромбоциты",
         "latitude": 56.04657,
         "longitude": 21.81615
     },
     {
-        "name": "Plunge",
+        "name": "Окунитесь",
         "latitude": 55.91139,
         "longitude": 21.84417
     },
     {
-        "name": "Rietavas",
+        "name": "Ритау",
         "latitude": 55.72375,
         "longitude": 21.93266
     },
     {
-        "name": "Seda",
+        "name": "Что",
         "latitude": 56.16854,
         "longitude": 22.09071
     },
     {
-        "name": "Telsiai",
+        "name": "Телси",
         "latitude": 55.98139,
         "longitude": 22.24722
     },
     {
-        "name": "Varniai",
+        "name": "Вороны",
         "latitude": 55.74435,
         "longitude": 22.37251
     },
     {
-        "name": "Viek\u0161niai",
+        "name": "Подорожники",
         "latitude": 56.23598,
         "longitude": 22.51667
     },
     {
-        "name": "Anyksciai",
+        "name": "Неважно",
         "latitude": 55.52557,
         "longitude": 25.10264
     },
     {
-        "name": "D\u016bk\u0161tas",
+        "name": "Тысячи",
         "latitude": 55.522,
         "longitude": 26.321
     },
     {
-        "name": "Ignalina",
+        "name": "Игналина",
         "latitude": 55.35,
         "longitude": 26.16667
     },
     {
-        "name": "Moletai",
+        "name": "Молетай",
         "latitude": 55.23333,
         "longitude": 25.41667
     },
     {
-        "name": "Utena",
+        "name": "Утена",
         "latitude": 55.49764,
         "longitude": 25.59918
     },
     {
-        "name": "Visaginas",
+        "name": "Висагинас",
         "latitude": 55.6,
         "longitude": 26.41667
     },
     {
-        "name": "Zarasai",
+        "name": "Вредители",
         "latitude": 55.73333,
         "longitude": 26.25
     },
     {
-        "name": "Aukstadvaris",
+        "name": "Холодная погода",
         "latitude": 54.57946,
         "longitude": 24.52683
     },
     {
-        "name": "Baltoji Vok\u0117",
+        "name": "Белый конверт",
         "latitude": 54.60002,
         "longitude": 25.19318
     },
     {
-        "name": "Ei\u0161i\u0161k\u0117s",
+        "name": "Эйшишке",
         "latitude": 54.17414,
         "longitude": 24.99917
     },
     {
-        "name": "Elektr\u0117nai",
+        "name": "Электрички",
         "latitude": 54.78544,
         "longitude": 24.66302
     },
     {
-        "name": "Fabijoni\u0161k\u0117s",
+        "name": "Фабийонишкес",
         "latitude": 54.73333,
         "longitude": 25.24167
     },
     {
-        "name": "Grigi\u0161k\u0117s",
+        "name": "Григишкес",
         "latitude": 54.68333,
         "longitude": 25.08333
     },
     {
-        "name": "Justini\u0161k\u0117s",
+        "name": "Юстинишкес",
         "latitude": 54.71664,
         "longitude": 25.2174
     },
     {
-        "name": "Lazdynai",
+        "name": "Фундук",
         "latitude": 54.66815,
         "longitude": 25.20684
     },
     {
-        "name": "Lentvaris",
+        "name": "Лентвари",
         "latitude": 54.64364,
         "longitude": 25.05162
     },
     {
-        "name": "Naujamiestis",
+        "name": "Новый город",
         "latitude": 54.67951,
         "longitude": 25.26855
     },
     {
-        "name": "Nemen\u010din\u0117",
+        "name": "Неменчине",
         "latitude": 54.84776,
         "longitude": 25.46992
     },
     {
-        "name": "Pabrad\u0117",
+        "name": "начал",
         "latitude": 54.981,
         "longitude": 25.761
     },
     {
-        "name": "Pa\u0161ilai\u010diai",
+        "name": "Преступники",
         "latitude": 54.73429,
         "longitude": 25.21912
     },
     {
-        "name": "Pilait\u0117",
+        "name": "Пилайт",
         "latitude": 54.69981,
         "longitude": 25.18393
     },
     {
-        "name": "Rasos",
+        "name": "Роса",
         "latitude": 54.67877,
         "longitude": 25.31173
     },
     {
-        "name": "R\u016bdi\u0161k\u0117s",
+        "name": "Рудишкес",
         "latitude": 54.51609,
         "longitude": 24.83084
     },
     {
-        "name": "\u0160al\u010dininkai",
+        "name": "Производители мороженого",
         "latitude": 54.3,
         "longitude": 25.38333
     },
     {
-        "name": "Senieji Trakai",
+        "name": "Старый Тракай",
         "latitude": 54.609,
         "longitude": 24.98
     },
     {
-        "name": "\u0160e\u0161kin\u0117",
+        "name": "Хорек",
         "latitude": 54.70972,
         "longitude": 25.25053
     },
     {
-        "name": "Sirvintos",
+        "name": "Порции",
         "latitude": 55.05,
         "longitude": 24.95
     },
     {
-        "name": "Skaidi\u0161k\u0117s",
+        "name": "Скайдишкес",
         "latitude": 54.61398,
         "longitude": 25.39573
     },
     {
-        "name": "\u0160ven\u010dion\u0117liai",
+        "name": "Счастливых праздников",
         "latitude": 55.16163,
         "longitude": 26.00177
     },
     {
-        "name": "Svencionys",
+        "name": "Свенсёнис",
         "latitude": 55.15,
         "longitude": 26.16667
     },
     {
-        "name": "Trakai",
+        "name": "Треки",
         "latitude": 54.63783,
         "longitude": 24.93433
     },
     {
-        "name": "Ukmerge",
+        "name": "Укмерге",
         "latitude": 55.25,
         "longitude": 24.75
     },
     {
-        "name": "Vievis",
+        "name": "Вевис",
         "latitude": 54.76667,
         "longitude": 24.8
     },
     {
-        "name": "Vilkp\u0117d\u0117",
+        "name": "Волконогий",
         "latitude": 54.66969,
         "longitude": 25.2477
     },
     {
-        "name": "Vilnius",
+        "name": "Вильнюс",
         "latitude": 54.68916,
         "longitude": 25.2798
     },
     {
-        "name": "Vilnius District Municipality",
+        "name": "Муниципалитет Вильнюсского района",
         "latitude": 54.73333,
         "longitude": 25.38333
     }

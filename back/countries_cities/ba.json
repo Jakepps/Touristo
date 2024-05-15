@@ -1,61 +1,61 @@
 [
     {
-        "name": "Br\u010dko",
+        "name": "Бркко",
         "latitude": 44.86995,
         "longitude": 18.81012
     },
     {
-        "name": "Brka",
+        "name": "Доли",
         "latitude": 44.82837,
         "longitude": 18.7242
     },
     {
-        "name": "Banovi\u0107i",
+        "name": "Банания",
         "latitude": 44.40596,
         "longitude": 18.52648
     },
     {
-        "name": "Barice",
+        "name": "Барис",
         "latitude": 44.54065,
         "longitude": 18.48069
     },
     {
-        "name": "Biha\u0107",
+        "name": "Бихак",
         "latitude": 44.81694,
         "longitude": 15.87083
     },
     {
-        "name": "Bijela",
+        "name": "Белый",
         "latitude": 43.60871,
         "longitude": 17.95078
     },
     {
-        "name": "Bila",
+        "name": "Был",
         "latitude": 43.78265,
         "longitude": 16.92676
     },
     {
-        "name": "Blagaj",
+        "name": "Благословение",
         "latitude": 43.25892,
         "longitude": 17.88815
     },
     {
-        "name": "Bosanska Krupa",
+        "name": "Боснийская Крупа",
         "latitude": 44.8825,
         "longitude": 16.15139
     },
     {
-        "name": "Bosanski Petrovac",
+        "name": "Петровак",
         "latitude": 44.55537,
         "longitude": 16.36897
     },
     {
-        "name": "Bosansko Grahovo",
+        "name": "Боснийский горох",
         "latitude": 44.17944,
         "longitude": 16.36389
     },
     {
-        "name": "Breza",
+        "name": "Береза",
         "latitude": 44.01862,
         "longitude": 18.26063
     },
@@ -65,57 +65,57 @@
         "longitude": 17.45083
     },
     {
-        "name": "Busova\u010da",
+        "name": "Бусувака",
         "latitude": 44.09769,
         "longitude": 17.8783
     },
     {
-        "name": "Bu\u017eim",
+        "name": "Бузим",
         "latitude": 45.05361,
         "longitude": 16.03254
     },
     {
-        "name": "\u010capljina",
+        "name": "Каплжина",
         "latitude": 43.12139,
         "longitude": 17.68444
     },
     {
-        "name": "Cazin",
+        "name": "Казин",
         "latitude": 44.96694,
         "longitude": 15.94306
     },
     {
-        "name": "\u010celi\u0107",
+        "name": "Сэл",
         "latitude": 44.72524,
         "longitude": 18.81474
     },
     {
-        "name": "Cim",
+        "name": "Пожизненный",
         "latitude": 43.35401,
         "longitude": 17.78045
     },
     {
-        "name": "\u010citluk",
+        "name": "Цитизм",
         "latitude": 43.22861,
         "longitude": 17.70083
     },
     {
-        "name": "\u0106orali\u0107i",
+        "name": "Коралл",
         "latitude": 45.00694,
         "longitude": 15.87194
     },
     {
-        "name": "Crni\u0107i",
+        "name": "Судно",
         "latitude": 43.13156,
         "longitude": 17.86452
     },
     {
-        "name": "Divi\u010dani",
+        "name": "Подразделения",
         "latitude": 44.36682,
         "longitude": 17.32678
     },
     {
-        "name": "Dobrinje",
+        "name": "Добринджа",
         "latitude": 44.05008,
         "longitude": 18.11958
     },
@@ -130,22 +130,22 @@
         "longitude": 18.41023
     },
     {
-        "name": "Donja Mahala",
+        "name": "Нижняя Махала",
         "latitude": 45.04327,
         "longitude": 18.66996
     },
     {
-        "name": "Donja Me\u0111i\u0111a",
+        "name": "Нижняя Межида",
         "latitude": 44.80235,
         "longitude": 18.40477
     },
     {
-        "name": "Donji Vakuf",
+        "name": "Город Донджи Вакуф",
         "latitude": 44.14361,
         "longitude": 17.4
     },
     {
-        "name": "Dre\u017enica",
+        "name": "Dreznica",
         "latitude": 43.52891,
         "longitude": 17.2812
     },
@@ -155,22 +155,22 @@
         "longitude": 17.32536
     },
     {
-        "name": "Drvar",
+        "name": "Дрвар",
         "latitude": 44.37389,
         "longitude": 16.38083
     },
     {
-        "name": "Dubrave Donje",
+        "name": "Нижний дуб",
         "latitude": 44.4806,
         "longitude": 18.69709
     },
     {
-        "name": "Dubrave Gornje",
+        "name": "Дубрав Горнье",
         "latitude": 44.47229,
         "longitude": 18.72685
     },
     {
-        "name": "Dubravica",
+        "name": "Дубравика",
         "latitude": 44.44131,
         "longitude": 18.11883
     },
@@ -180,982 +180,982 @@
         "longitude": 17.90288
     },
     {
-        "name": "Glamo\u010d",
+        "name": "Гламок",
         "latitude": 44.04583,
         "longitude": 16.84861
     },
     {
-        "name": "Gnojnica",
+        "name": "Подвески",
         "latitude": 44.62058,
         "longitude": 18.44684
     },
     {
-        "name": "Gora\u017ede",
+        "name": "Goražde",
         "latitude": 43.66795,
         "longitude": 18.97564
     },
     {
-        "name": "Gorica",
+        "name": "Гора",
         "latitude": 43.41833,
         "longitude": 17.285
     },
     {
-        "name": "Gornja Breza",
+        "name": "Верхняя береза",
         "latitude": 44.03758,
         "longitude": 18.24564
     },
     {
-        "name": "Gornja Koprivna",
+        "name": "Верхний Копривно",
         "latitude": 45.01091,
         "longitude": 15.95487
     },
     {
-        "name": "Gornja Tuzla",
+        "name": "Гордза Тузла",
         "latitude": 44.55659,
         "longitude": 18.76159
     },
     {
-        "name": "Gornje Mo\u0161tre",
+        "name": "Верхний Мостр",
         "latitude": 44.01911,
         "longitude": 18.15477
     },
     {
-        "name": "Gornje \u017divinice",
+        "name": "Верхняя žvinice",
         "latitude": 44.42921,
         "longitude": 18.61667
     },
     {
-        "name": "Gornji Vakuf",
+        "name": "Гундзи Вакуф",
         "latitude": 43.93806,
         "longitude": 17.58833
     },
     {
-        "name": "Gostovi\u0107i",
+        "name": "Больница",
         "latitude": 44.41124,
         "longitude": 18.17029
     },
     {
-        "name": "Gra\u010danica",
+        "name": "Граканика",
         "latitude": 43.73333,
         "longitude": 18.28333
     },
     {
-        "name": "Grada\u010dac",
+        "name": "Градакак",
         "latitude": 44.87851,
         "longitude": 18.42764
     },
     {
-        "name": "Gromiljak",
+        "name": "Громилиак",
         "latitude": 43.96668,
         "longitude": 18.05504
     },
     {
-        "name": "Grude",
+        "name": "Грудь",
         "latitude": 43.37208,
         "longitude": 17.41449
     },
     {
-        "name": "Had\u017ei\u0107i",
+        "name": "Хаджичи",
         "latitude": 43.82222,
         "longitude": 18.20667
     },
     {
-        "name": "Hercegova\u010dko-Neretvanski Kanton",
+        "name": "Герцеговино-Неретванский кантон",
         "latitude": 43.45722,
         "longitude": 17.8125
     },
     {
-        "name": "Hotonj",
+        "name": "Города",
         "latitude": 43.89341,
         "longitude": 18.37751
     },
     {
-        "name": "Ili\u0107i",
+        "name": "Иличи",
         "latitude": 43.34765,
         "longitude": 17.76848
     },
     {
-        "name": "Ilija\u0161",
+        "name": "Ильжаш",
         "latitude": 43.95128,
         "longitude": 18.27128
     },
     {
-        "name": "Iza\u010di\u0107",
+        "name": "Изачич",
         "latitude": 44.87485,
         "longitude": 15.78256
     },
     {
-        "name": "Jablanica",
+        "name": "яблоня",
         "latitude": 43.66028,
         "longitude": 17.76167
     },
     {
-        "name": "Jajce",
+        "name": "Яйца",
         "latitude": 44.34203,
         "longitude": 17.27059
     },
     {
-        "name": "Jelah",
+        "name": "Знай это",
         "latitude": 44.654,
         "longitude": 17.95897
     },
     {
-        "name": "Jezerski",
+        "name": "Озеро",
         "latitude": 44.98172,
         "longitude": 16.09447
     },
     {
-        "name": "Ka\u010duni",
+        "name": "Качус",
         "latitude": 44.06433,
         "longitude": 17.93894
     },
     {
-        "name": "Kakanj",
+        "name": "Какань",
         "latitude": 44.13311,
         "longitude": 18.12292
     },
     {
-        "name": "Kanton Sarajevo",
+        "name": "Сараевский кантон",
         "latitude": 43.84333,
         "longitude": 18.24222
     },
     {
-        "name": "Karadaglije",
+        "name": "Карадальо",
         "latitude": 44.57065,
         "longitude": 18.01775
     },
     {
-        "name": "Kiseljak",
+        "name": "щавель",
         "latitude": 44.48904,
         "longitude": 18.56982
     },
     {
-        "name": "Kladanj",
+        "name": "кладок",
         "latitude": 44.22669,
         "longitude": 18.69274
     },
     {
-        "name": "Klju\u010d",
+        "name": "Ключ",
         "latitude": 44.53251,
         "longitude": 16.77682
     },
     {
-        "name": "Kobilja Glava",
+        "name": "Голова кобылы",
         "latitude": 43.88188,
         "longitude": 18.38864
     },
     {
-        "name": "Ko\u010derin",
+        "name": "Кочерин",
         "latitude": 43.39005,
         "longitude": 17.48552
     },
     {
-        "name": "Konjic",
+        "name": "Кавалерия",
         "latitude": 43.65126,
         "longitude": 17.96082
     },
     {
-        "name": "Kova\u010di",
+        "name": "Кузнецы",
         "latitude": 44.44874,
         "longitude": 18.20521
     },
     {
-        "name": "Lije\u0161nica",
+        "name": "Лесной орех",
         "latitude": 44.49497,
         "longitude": 18.07644
     },
     {
-        "name": "Livno",
+        "name": "Литейный завод",
         "latitude": 43.82695,
         "longitude": 17.00746
     },
     {
-        "name": "Ljubu\u0161ki",
+        "name": "Любушки",
         "latitude": 43.19694,
         "longitude": 17.545
     },
     {
-        "name": "Lokvine",
+        "name": "Локвин",
         "latitude": 44.20466,
         "longitude": 17.85665
     },
     {
-        "name": "Lukavac",
+        "name": "Трикстер",
         "latitude": 44.54245,
         "longitude": 18.52618
     },
     {
-        "name": "Lukavica",
+        "name": "Лукавица",
         "latitude": 44.76452,
         "longitude": 18.16887
     },
     {
-        "name": "Maglaj",
+        "name": "Туман",
         "latitude": 44.54771,
         "longitude": 18.10003
     },
     {
-        "name": "Mahala",
+        "name": "Бесплатно",
         "latitude": 44.01194,
         "longitude": 18.25528
     },
     {
-        "name": "Mala Kladu\u0161a",
+        "name": "Маленькая Кладуша",
         "latitude": 45.13443,
         "longitude": 15.85217
     },
     {
-        "name": "Male\u0161i\u0107i",
+        "name": "Малешичи",
         "latitude": 44.73824,
         "longitude": 18.27335
     },
     {
-        "name": "Mionica",
+        "name": "Мионика",
         "latitude": 44.86646,
         "longitude": 18.46603
     },
     {
-        "name": "Mostar",
+        "name": "Мостар",
         "latitude": 43.34333,
         "longitude": 17.80806
     },
     {
-        "name": "Mramor",
+        "name": "Мрамор",
         "latitude": 44.59234,
         "longitude": 18.56458
     },
     {
-        "name": "Neum",
+        "name": "Тупой",
         "latitude": 42.92333,
         "longitude": 17.61556
     },
     {
-        "name": "Novi \u0160eher",
+        "name": "Новый Шехер",
         "latitude": 44.51031,
         "longitude": 18.02624
     },
     {
-        "name": "Novi Travnik",
+        "name": "Новый Травник",
         "latitude": 44.17133,
         "longitude": 17.65816
     },
     {
-        "name": "Od\u017eak",
+        "name": "камин",
         "latitude": 45.02461,
         "longitude": 18.32107
     },
     {
-        "name": "Olovo",
+        "name": "Вести",
         "latitude": 44.1277,
         "longitude": 18.58065
     },
     {
-        "name": "Omanjska",
+        "name": "Оманский",
         "latitude": 44.69831,
         "longitude": 17.95757
     },
     {
-        "name": "Orahovica Donja",
+        "name": "Ораховица Доня",
         "latitude": 44.65345,
         "longitude": 18.36951
     },
     {
-        "name": "Ora\u0161ac",
+        "name": "грецкий орех",
         "latitude": 44.63039,
         "longitude": 16.07443
     },
     {
-        "name": "Ora\u0161je",
+        "name": "грецкий орех",
         "latitude": 45.03366,
         "longitude": 18.69334
     },
     {
-        "name": "Orguz",
+        "name": "Оргуз",
         "latitude": 43.77414,
         "longitude": 16.86329
     },
     {
-        "name": "Ostro\u017eac",
+        "name": "Острозац",
         "latitude": 44.90866,
         "longitude": 15.94045
     },
     {
-        "name": "Otoka",
+        "name": "остров",
         "latitude": 44.96,
         "longitude": 16.17917
     },
     {
-        "name": "Paji\u0107 Polje",
+        "name": "Паич Поле",
         "latitude": 43.97583,
         "longitude": 17.5275
     },
     {
-        "name": "Pazari\u0107",
+        "name": "Пазарич",
         "latitude": 43.78882,
         "longitude": 18.16049
     },
     {
-        "name": "Pe\u0107i",
+        "name": "Выпекать",
         "latitude": 44.63139,
         "longitude": 16.7825
     },
     {
-        "name": "Pe\u0107igrad",
+        "name": "Пейград",
         "latitude": 45.05444,
         "longitude": 15.89694
     },
     {
-        "name": "Pjani\u0107i",
+        "name": "Планы",
         "latitude": 44.98568,
         "longitude": 15.82304
     },
     {
-        "name": "Podhum",
+        "name": "Под капотом",
         "latitude": 43.72295,
         "longitude": 16.99887
     },
     {
-        "name": "Podzvizd",
+        "name": "Подъзвизд",
         "latitude": 45.17417,
         "longitude": 15.87361
     },
     {
-        "name": "Polje",
+        "name": "Поле",
         "latitude": 43.88014,
         "longitude": 18.07452
     },
     {
-        "name": "Polje-Bijela",
+        "name": "Поле-Биела",
         "latitude": 43.63299,
         "longitude": 17.97216
     },
     {
-        "name": "Potoci",
+        "name": "Потоки",
         "latitude": 43.40953,
         "longitude": 17.87855
     },
     {
-        "name": "Prozor",
+        "name": "Окно",
         "latitude": 43.82222,
         "longitude": 17.60917
     },
     {
-        "name": "Pura\u010di\u0107",
+        "name": "Турция",
         "latitude": 44.54562,
         "longitude": 18.47865
     },
     {
-        "name": "Radi\u0161i\u0107i",
+        "name": "Редис",
         "latitude": 43.22302,
         "longitude": 17.54056
     },
     {
-        "name": "Rodo\u010d",
+        "name": "Родной",
         "latitude": 43.31453,
         "longitude": 17.8029
     },
     {
-        "name": "Rumboci",
+        "name": "Румбочи",
         "latitude": 43.83154,
         "longitude": 17.50273
     },
     {
-        "name": "Sanica",
+        "name": "Сани",
         "latitude": 44.61354,
         "longitude": 16.64062
     },
     {
-        "name": "Sanski Most",
+        "name": "Санский Мост",
         "latitude": 44.7667,
         "longitude": 16.667
     },
     {
-        "name": "Sapna",
+        "name": "Мечтать",
         "latitude": 44.5038,
         "longitude": 18.99818
     },
     {
-        "name": "Sarajevo",
+        "name": "Сараево",
         "latitude": 43.84864,
         "longitude": 18.35644
     },
     {
-        "name": "\u0160eri\u0107i",
+        "name": "Сирень",
         "latitude": 44.46674,
         "longitude": 18.5637
     },
     {
-        "name": "\u0160iroki Brijeg",
+        "name": "Широки Бриг",
         "latitude": 43.3829,
         "longitude": 17.59416
     },
     {
-        "name": "Skokovi",
+        "name": "Прыжки",
         "latitude": 45.03139,
         "longitude": 15.91444
     },
     {
-        "name": "Sladna",
+        "name": "Хорошо",
         "latitude": 44.72897,
         "longitude": 18.42575
     },
     {
-        "name": "Solina",
+        "name": "Солина",
         "latitude": 44.56226,
         "longitude": 18.69322
     },
     {
-        "name": "Srebrenik",
+        "name": "Сребреник",
         "latitude": 44.70819,
         "longitude": 18.48834
     },
     {
-        "name": "Stijena",
+        "name": "Камень",
         "latitude": 44.9363,
         "longitude": 16.02224
     },
     {
-        "name": "Stjepan-Polje",
+        "name": "Степан-Поле",
         "latitude": 44.71634,
         "longitude": 18.25783
     },
     {
-        "name": "Stolac",
+        "name": "Кресло",
         "latitude": 43.084,
         "longitude": 17.95995
     },
     {
-        "name": "\u0160turli\u0107",
+        "name": "Стурлих",
         "latitude": 45.06389,
         "longitude": 15.77806
     },
     {
-        "name": "\u0160umatac",
+        "name": "Шуматац",
         "latitude": 45.09743,
         "longitude": 15.85818
     },
     {
-        "name": "Tasov\u010di\u0107i",
+        "name": "Тасовчичи",
         "latitude": 43.11333,
         "longitude": 17.72
     },
     {
-        "name": "Te\u0161anj",
+        "name": "Тесан",
         "latitude": 44.61191,
         "longitude": 17.98552
     },
     {
-        "name": "Te\u0161anjka",
+        "name": "Тешанка",
         "latitude": 44.67228,
         "longitude": 18.01109
     },
     {
-        "name": "Todorovo",
+        "name": "Тодорово",
         "latitude": 45.08833,
         "longitude": 15.93083
     },
     {
-        "name": "Toj\u0161i\u0107i",
+        "name": "Тоишичи",
         "latitude": 44.50133,
         "longitude": 18.78523
     },
     {
-        "name": "Tomislavgrad",
+        "name": "Томиславград",
         "latitude": 43.71849,
         "longitude": 17.22515
     },
     {
-        "name": "Travnik",
+        "name": "Травник",
         "latitude": 44.22637,
         "longitude": 17.66583
     },
     {
-        "name": "Tr\u017ea\u010dka Ra\u0161tela",
+        "name": "Тржачка Растела",
         "latitude": 44.97597,
         "longitude": 15.78489
     },
     {
-        "name": "Turbe",
+        "name": "Толпы",
         "latitude": 44.24352,
         "longitude": 17.57499
     },
     {
-        "name": "Tuzla",
+        "name": "Тузла",
         "latitude": 44.53842,
         "longitude": 18.66709
     },
     {
-        "name": "Ustikolina",
+        "name": "Устиколина",
         "latitude": 43.58338,
         "longitude": 18.79106
     },
     {
-        "name": "Vare\u0161",
+        "name": "Ты готовишь",
         "latitude": 44.16444,
         "longitude": 18.32833
     },
     {
-        "name": "Varo\u0161ka Rijeka",
+        "name": "Варошка Риека",
         "latitude": 45.08936,
         "longitude": 16.01906
     },
     {
-        "name": "Velagi\u0107i",
+        "name": "Велагичи",
         "latitude": 44.55618,
         "longitude": 16.73349
     },
     {
-        "name": "Velika Kladu\u0161a",
+        "name": "Велика Кладуша",
         "latitude": 45.18497,
         "longitude": 15.80579
     },
     {
-        "name": "Vido\u0161i",
+        "name": "Середина",
         "latitude": 43.77139,
         "longitude": 17.02833
     },
     {
-        "name": "Visoko",
+        "name": "Высокий",
         "latitude": 43.98889,
         "longitude": 18.17806
     },
     {
-        "name": "Vitez",
+        "name": "Рыцарь",
         "latitude": 44.15424,
         "longitude": 17.79009
     },
     {
-        "name": "Vitina",
+        "name": "Сделанный",
         "latitude": 43.2375,
         "longitude": 17.48389
     },
     {
-        "name": "Vogo\u0161\u0107a",
+        "name": "Вогоща",
         "latitude": 43.90225,
         "longitude": 18.34438
     },
     {
-        "name": "Voljevac",
+        "name": "Волевац",
         "latitude": 43.87873,
         "longitude": 17.65861
     },
     {
-        "name": "Vrnogra\u010d",
+        "name": "Вереск",
         "latitude": 45.16369,
         "longitude": 15.95444
     },
     {
-        "name": "Vukovije Donje",
+        "name": "Вуковые Донье",
         "latitude": 44.46209,
         "longitude": 18.74941
     },
     {
-        "name": "Zabri\u0161\u0107e",
+        "name": "Это будет размыто",
         "latitude": 43.79224,
         "longitude": 16.94224
     },
     {
-        "name": "Zavidovi\u0107i",
+        "name": "Завидовичи",
         "latitude": 44.44583,
         "longitude": 18.14972
     },
     {
-        "name": "Zbori\u0161te",
+        "name": "Станция",
         "latitude": 45.14593,
         "longitude": 16.01728
     },
     {
-        "name": "\u017deljezno Polje",
+        "name": "Железное поле",
         "latitude": 44.39875,
         "longitude": 17.94103
     },
     {
-        "name": "Zenica",
+        "name": "Студент",
         "latitude": 44.20169,
         "longitude": 17.90397
     },
     {
-        "name": "\u017dep\u010de",
+        "name": "Зепче",
         "latitude": 44.42667,
         "longitude": 18.03778
     },
     {
-        "name": "\u017divinice",
+        "name": "Домашний скот",
         "latitude": 44.44929,
         "longitude": 18.64978
     },
     {
-        "name": "Balatun",
+        "name": "Балатун",
         "latitude": 44.86332,
         "longitude": 19.33931
     },
     {
-        "name": "Banja Luka",
+        "name": "Баня-Лука",
         "latitude": 44.77842,
         "longitude": 17.19386
     },
     {
-        "name": "Bijeljina",
+        "name": "Белина",
         "latitude": 44.76583,
         "longitude": 19.15083
     },
     {
-        "name": "Bile\u0107a",
+        "name": "Билеча",
         "latitude": 42.87645,
         "longitude": 18.42967
     },
     {
-        "name": "Blatnica",
+        "name": "Брызговик",
         "latitude": 44.48677,
         "longitude": 17.82278
     },
     {
-        "name": "Brod",
+        "name": "Корабль",
         "latitude": 45.13747,
         "longitude": 17.98722
     },
     {
-        "name": "Bronzani Majdan",
+        "name": "Бронзовый Майдан",
         "latitude": 44.79237,
         "longitude": 16.94039
     },
     {
-        "name": "\u010cajni\u010de",
+        "name": "Заварочный чайник",
         "latitude": 43.55712,
         "longitude": 19.07186
     },
     {
-        "name": "\u010ce\u010dava",
+        "name": "Чечава",
         "latitude": 44.67961,
         "longitude": 17.7578
     },
     {
-        "name": "\u010celinac",
+        "name": "Все это",
         "latitude": 44.72453,
         "longitude": 17.32431
     },
     {
-        "name": "Derventa",
+        "name": "Дервент",
         "latitude": 44.97839,
         "longitude": 17.90779
     },
     {
-        "name": "Doboj",
+        "name": "Возьми",
         "latitude": 44.75944,
         "longitude": 18.065
     },
     {
-        "name": "Dobrljin",
+        "name": "Доброта",
         "latitude": 45.15106,
         "longitude": 16.47869
     },
     {
-        "name": "Dvorovi",
+        "name": "Вода",
         "latitude": 44.80753,
         "longitude": 19.25999
     },
     {
-        "name": "Fo\u010da",
+        "name": "Тюлень",
         "latitude": 43.50646,
         "longitude": 18.77854
     },
     {
-        "name": "Gacko",
+        "name": "Гакко",
         "latitude": 43.16722,
         "longitude": 18.53528
     },
     {
-        "name": "Gradi\u0161ka",
+        "name": "Градишка",
         "latitude": 45.14484,
         "longitude": 17.25453
     },
     {
-        "name": "Hiseti",
+        "name": "Хиссети",
         "latitude": 44.76111,
         "longitude": 17.17944
     },
     {
-        "name": "Isto\u010dni Mostar",
+        "name": "Восточный Мостар",
         "latitude": 43.42056,
         "longitude": 18.00833
     },
     {
-        "name": "Janja",
+        "name": "Обманывать",
         "latitude": 44.66554,
         "longitude": 19.24691
     },
     {
-        "name": "Kalenderovci Donji",
+        "name": "Календеровцы Дони",
         "latitude": 44.94673,
         "longitude": 17.83785
     },
     {
-        "name": "Kne\u017eevo",
+        "name": "Герцога",
         "latitude": 44.49071,
         "longitude": 17.38161
     },
     {
-        "name": "Kne\u017eica",
+        "name": "Принцесса",
         "latitude": 45.10548,
         "longitude": 16.67668
     },
     {
-        "name": "Koran",
+        "name": "Коран",
         "latitude": 43.81038,
         "longitude": 18.56999
     },
     {
-        "name": "Kostajnica",
+        "name": "Костаиница",
         "latitude": 45.21956,
         "longitude": 16.53929
     },
     {
-        "name": "Kotor Varo\u0161",
+        "name": "Котор Варош",
         "latitude": 44.61831,
         "longitude": 17.37204
     },
     {
-        "name": "Kozarska Dubica",
+        "name": "Козарска Дубица",
         "latitude": 45.17667,
         "longitude": 16.80944
     },
     {
-        "name": "Krupa na Vrbasu",
+        "name": "Крупа из Врбасе",
         "latitude": 44.61875,
         "longitude": 17.14351
     },
     {
-        "name": "Lakta\u0161i",
+        "name": "локти",
         "latitude": 44.90857,
         "longitude": 17.30135
     },
     {
-        "name": "Lamovita",
+        "name": "Ламовита",
         "latitude": 44.92018,
         "longitude": 16.89933
     },
     {
-        "name": "Ljubinje",
+        "name": "Любинье",
         "latitude": 42.9512,
         "longitude": 18.08702
     },
     {
-        "name": "Lopare",
+        "name": "Ракетки",
         "latitude": 44.63498,
         "longitude": 18.8434
     },
     {
-        "name": "Maglajani",
+        "name": "Туманность",
         "latitude": 44.94975,
         "longitude": 17.35014
     },
     {
-        "name": "Mari\u0107ka",
+        "name": "Маричка",
         "latitude": 44.86801,
         "longitude": 16.8551
     },
     {
-        "name": "Maslovare",
+        "name": "Масловаре",
         "latitude": 44.56594,
         "longitude": 17.53216
     },
     {
-        "name": "Mejdan - Obili\u0107evo",
+        "name": "Мидан - Котель",
         "latitude": 44.76324,
         "longitude": 17.19012
     },
     {
-        "name": "Mili\u0107i",
+        "name": "Полиция",
         "latitude": 44.17016,
         "longitude": 19.09195
     },
     {
-        "name": "Modri\u010da",
+        "name": "Синяк",
         "latitude": 44.95444,
         "longitude": 18.30361
     },
     {
-        "name": "Mrkonji\u0107 Grad",
+        "name": "Мрконич Сити",
         "latitude": 44.41729,
         "longitude": 17.08288
     },
     {
-        "name": "Nevesinje",
+        "name": "невесты",
         "latitude": 43.25861,
         "longitude": 18.11333
     },
     {
-        "name": "Novi Grad",
+        "name": "Новый Град",
         "latitude": 45.04643,
         "longitude": 16.37782
     },
     {
-        "name": "Obudovac",
+        "name": "Обудовац",
         "latitude": 44.95215,
         "longitude": 18.59869
     },
     {
-        "name": "Omarska",
+        "name": "Омарска",
         "latitude": 44.8917,
         "longitude": 16.89814
     },
     {
-        "name": "Op\u0161tina O\u0161tra Luka",
+        "name": "Муниципалитет Оштра Лука",
         "latitude": 44.73278,
         "longitude": 16.82861
     },
     {
-        "name": "Op\u0161tina Vi\u0161egrad",
+        "name": "Муниципалитет Вышеграда",
         "latitude": 43.72167,
         "longitude": 19.31361
     },
     {
-        "name": "O\u0161tra Luka",
+        "name": "Остра Лука",
         "latitude": 44.99724,
         "longitude": 18.58464
     },
     {
-        "name": "Pale",
+        "name": "Бледный",
         "latitude": 43.81664,
         "longitude": 18.56949
     },
     {
-        "name": "Pelagi\u0107evo",
+        "name": "Пелагичево",
         "latitude": 44.90105,
         "longitude": 18.59185
     },
     {
-        "name": "Petkovci",
+        "name": "Петковци",
         "latitude": 44.46849,
         "longitude": 19.07466
     },
     {
-        "name": "Piskavica",
+        "name": "пажитник",
         "latitude": 44.86717,
         "longitude": 16.97464
     },
     {
-        "name": "Podbrdo",
+        "name": "Субхилл",
         "latitude": 44.44189,
         "longitude": 17.01495
     },
     {
-        "name": "Popovi",
+        "name": "Попс",
         "latitude": 44.76547,
         "longitude": 19.28667
     },
     {
-        "name": "Pribini\u0107",
+        "name": "Прибинич",
         "latitude": 44.6101,
         "longitude": 17.68981
     },
     {
-        "name": "Priboj",
+        "name": "Ноготь",
         "latitude": 44.60233,
         "longitude": 18.93165
     },
     {
-        "name": "Prijedor",
+        "name": "Приедор",
         "latitude": 44.97991,
         "longitude": 16.71401
     },
     {
-        "name": "Rogatica",
+        "name": "Рогатица",
         "latitude": 43.79894,
         "longitude": 19.00363
     },
     {
-        "name": "Rudo",
+        "name": "Любовь",
         "latitude": 43.61781,
         "longitude": 19.36719
     },
     {
-        "name": "\u0160amac",
+        "name": "Одинокий",
         "latitude": 45.05987,
         "longitude": 18.46756
     },
     {
-        "name": "\u0160ekovi\u0107i",
+        "name": "Шековичи",
         "latitude": 44.29896,
         "longitude": 18.85532
     },
     {
-        "name": "\u0160ipovo",
+        "name": "Шипово",
         "latitude": 44.28237,
         "longitude": 17.08597
     },
     {
-        "name": "Sokolac",
+        "name": "Сокольничий",
         "latitude": 43.93817,
         "longitude": 18.80079
     },
     {
-        "name": "Srbac",
+        "name": "сербский",
         "latitude": 45.0973,
         "longitude": 17.52331
     },
     {
-        "name": "Srebrenica",
+        "name": "Сребреница",
         "latitude": 44.10748,
         "longitude": 19.29669
     },
     {
-        "name": "Stanari",
+        "name": "Арендаторы",
         "latitude": 44.74475,
         "longitude": 17.82714
     },
     {
-        "name": "Starcevica",
+        "name": "Старая женщина",
         "latitude": 44.75708,
         "longitude": 17.21178
     },
     {
-        "name": "Svodna",
+        "name": "Сводна",
         "latitude": 45.0377,
         "longitude": 16.54019
     },
     {
-        "name": "Tesli\u0107",
+        "name": "Теслич",
         "latitude": 44.60639,
         "longitude": 17.85972
     },
     {
-        "name": "Trebinje",
+        "name": "Потребности",
         "latitude": 42.71197,
         "longitude": 18.34362
     },
     {
-        "name": "Trn",
+        "name": "Торн",
         "latitude": 44.85829,
         "longitude": 17.23583
     },
     {
-        "name": "Ugljevik",
+        "name": "Углерод",
         "latitude": 44.66361,
         "longitude": 19.02028
     },
     {
-        "name": "Velika Obarska",
+        "name": "Велика Обарска",
         "latitude": 44.80461,
         "longitude": 19.16183
     },
     {
-        "name": "Vi\u0161egrad",
+        "name": "Вышеград",
         "latitude": 43.7826,
         "longitude": 19.29256
     },
     {
-        "name": "Vlasenica",
+        "name": "Владелец",
         "latitude": 44.18183,
         "longitude": 18.94096
     },
     {
-        "name": "\u017divinice",
+        "name": "Домашний скот",
         "latitude": 44.54765,
         "longitude": 17.37357
     },
     {
-        "name": "Zvornik",
+        "name": "Зворник",
         "latitude": 44.38605,
         "longitude": 19.10247
     }

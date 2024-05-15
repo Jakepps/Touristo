@@ -1,6481 +1,6481 @@
 [
     {
-        "name": "Anqing",
+        "name": "Аньцин",
         "latitude": 30.51365,
         "longitude": 117.04723
     },
     {
-        "name": "Anqing Shi",
+        "name": "Аньцинши",
         "latitude": 30.66266,
         "longitude": 116.55911
     },
     {
-        "name": "Bengbu",
+        "name": "Бенгбу",
         "latitude": 32.94083,
         "longitude": 117.36083
     },
     {
-        "name": "Bozhou",
+        "name": "Бочжоу",
         "latitude": 33.87722,
         "longitude": 115.77028
     },
     {
-        "name": "Chaohu",
+        "name": "Чаоху",
         "latitude": 31.6,
         "longitude": 117.86667
     },
     {
-        "name": "Chizhou",
+        "name": "Чичжоу",
         "latitude": 30.66134,
         "longitude": 117.47783
     },
     {
-        "name": "Chizhou Shi",
+        "name": "Чичжоу Ши",
         "latitude": 30.30431,
         "longitude": 117.41388
     },
     {
-        "name": "Chuzhou",
+        "name": "Чучжоу",
         "latitude": 32.32194,
         "longitude": 118.29778
     },
     {
-        "name": "Chuzhou Shi",
+        "name": "Чучжоу Ши",
         "latitude": 32.60084,
         "longitude": 118.08813
     },
     {
-        "name": "Datong",
+        "name": "богатый",
         "latitude": 32.62082,
         "longitude": 117.06319
     },
     {
-        "name": "Fuyang",
+        "name": "Фуян",
         "latitude": 32.9,
         "longitude": 115.81667
     },
     {
-        "name": "Fuyang Shi",
+        "name": "Фуян Ши",
         "latitude": 32.93718,
         "longitude": 115.70778
     },
     {
-        "name": "Gushu",
+        "name": "Гушу",
         "latitude": 31.56055,
         "longitude": 118.48147
     },
     {
-        "name": "Hefei",
+        "name": "Хэфэй",
         "latitude": 31.86389,
         "longitude": 117.28083
     },
     {
-        "name": "Hefei Shi",
+        "name": "Хэфэй Ши",
         "latitude": 31.94665,
         "longitude": 117.27805
     },
     {
-        "name": "Huaibei",
+        "name": "Хуайбэй",
         "latitude": 33.97444,
         "longitude": 116.79167
     },
     {
-        "name": "Huainan",
+        "name": "Хуайнань",
         "latitude": 32.62639,
         "longitude": 116.99694
     },
     {
-        "name": "Huainan Shi",
+        "name": "Хуайнань Ши",
         "latitude": 32.73824,
         "longitude": 116.78813
     },
     {
-        "name": "Huaiyuan Chengguanzhen",
+        "name": "Хуайюань Чэнгуаньчжэнь",
         "latitude": 32.95893,
         "longitude": 117.16566
     },
     {
-        "name": "Huangshan",
+        "name": "Хуаншань",
         "latitude": 29.71139,
         "longitude": 118.3125
     },
     {
-        "name": "Huangshan Shi",
+        "name": "Хуаншань Ши",
         "latitude": 29.89195,
         "longitude": 118.10553
     },
     {
-        "name": "Huoqiu Chengguanzhen",
+        "name": "Хуцю Чэнгуаньчжэнь",
         "latitude": 32.35473,
         "longitude": 116.2939
     },
     {
-        "name": "Jieshou",
+        "name": "Цзешоу",
         "latitude": 33.26338,
         "longitude": 115.36108
     },
     {
-        "name": "Lu\u2019an",
+        "name": "Луань",
         "latitude": 31.73561,
         "longitude": 116.51688
     },
     {
-        "name": "Lucheng",
+        "name": "Лучэн",
         "latitude": 31.23357,
         "longitude": 117.28057
     },
     {
-        "name": "Mengcheng Chengguanzhen",
+        "name": "Мэнчэн Чэнгуаньчжэнь",
         "latitude": 33.26611,
         "longitude": 116.56605
     },
     {
-        "name": "Mingguang",
+        "name": "Мингуань",
         "latitude": 32.78017,
         "longitude": 117.96378
     },
     {
-        "name": "Suixi",
+        "name": "Суйси",
         "latitude": 33.89067,
         "longitude": 116.77473
     },
     {
-        "name": "Suzhou",
+        "name": "Сучжоу",
         "latitude": 33.63611,
         "longitude": 116.97889
     },
     {
-        "name": "Suzhou Shi",
+        "name": "Сучжоу Ши",
         "latitude": 33.8697,
         "longitude": 117.20569
     },
     {
-        "name": "Tangzhai",
+        "name": "Танчжай",
         "latitude": 34.43278,
         "longitude": 116.59111
     },
     {
-        "name": "Wucheng",
+        "name": "Учэн",
         "latitude": 29.60077,
         "longitude": 118.17495
     },
     {
-        "name": "Wuhu",
+        "name": "Уху",
         "latitude": 31.33728,
         "longitude": 118.37351
     },
     {
-        "name": "Wusong",
+        "name": "Усонг",
         "latitude": 30.95,
         "longitude": 117.78333
     },
     {
-        "name": "Wuyang",
+        "name": "Уян",
         "latitude": 31.9925,
         "longitude": 116.24722
     },
     {
-        "name": "Xuanzhou",
+        "name": "Сюаньчжоу",
         "latitude": 30.9525,
         "longitude": 118.75528
     },
     {
-        "name": "Yingshang Chengguanzhen",
+        "name": "Иншан Чэнгуаньчжэнь",
         "latitude": 32.62945,
         "longitude": 116.27013
     },
     {
-        "name": "Beijing",
+        "name": "Пекин",
         "latitude": 39.9075,
         "longitude": 116.39723
     },
     {
-        "name": "Changping",
+        "name": "Чанпин",
         "latitude": 40.21612,
         "longitude": 116.23471
     },
     {
-        "name": "Daxing",
+        "name": "Дасин",
         "latitude": 39.74025,
         "longitude": 116.32693
     },
     {
-        "name": "Fangshan",
+        "name": "Фаншань",
         "latitude": 39.68699,
         "longitude": 115.99658
     },
     {
-        "name": "Liangxiang",
+        "name": "Лянсян",
         "latitude": 39.73598,
         "longitude": 116.13295
     },
     {
-        "name": "Mentougou",
+        "name": "Ментугу",
         "latitude": 39.93819,
         "longitude": 116.09307
     },
     {
-        "name": "Shunyi",
+        "name": "Шуньи",
         "latitude": 40.12175,
         "longitude": 116.64783
     },
     {
-        "name": "Tongzhou",
+        "name": "Тунчжоу",
         "latitude": 39.90395,
         "longitude": 116.66183
     },
     {
-        "name": "Beibei",
+        "name": "Бэйбэй",
         "latitude": 29.82739,
         "longitude": 106.43645
     },
     {
-        "name": "Caijia",
+        "name": "Кайцзя",
         "latitude": 28.90889,
         "longitude": 106.3404
     },
     {
-        "name": "Chongqing",
+        "name": "Чунцин",
         "latitude": 29.56278,
         "longitude": 106.55278
     },
     {
-        "name": "Dongxi",
+        "name": "Дунси",
         "latitude": 28.76139,
         "longitude": 106.66111
     },
     {
-        "name": "Fuling",
+        "name": "Фулин",
         "latitude": 29.706,
         "longitude": 107.39575
     },
     {
-        "name": "Ganshui",
+        "name": "Ганьшуй",
         "latitude": 28.74222,
         "longitude": 106.71111
     },
     {
-        "name": "Guofuchang",
+        "name": "Гофучанг",
         "latitude": 28.85,
         "longitude": 106.60139
     },
     {
-        "name": "Hechuan",
+        "name": "Хэчуань",
         "latitude": 29.99228,
         "longitude": 106.26461
     },
     {
-        "name": "Jijiang",
+        "name": "Цзицзян",
         "latitude": 29.28993,
         "longitude": 106.25001
     },
     {
-        "name": "Liangping District",
+        "name": "Лянпинский район",
         "latitude": 30.67409,
         "longitude": 107.7938
     },
     {
-        "name": "Puhechang",
+        "name": "Пухэчан",
         "latitude": 28.9525,
         "longitude": 106.83111
     },
     {
-        "name": "Shapingba District",
+        "name": "Шапингбинский район",
         "latitude": 29.54166,
         "longitude": 106.45547
     },
     {
-        "name": "Shijiaochang",
+        "name": "Шицзяочан",
         "latitude": 28.92444,
         "longitude": 106.75611
     },
     {
-        "name": "Wanxian",
+        "name": "Ваньсянь",
         "latitude": 30.81544,
         "longitude": 108.37089
     },
     {
-        "name": "Wanzhou District",
+        "name": "Ваньчжоу район",
         "latitude": 30.70576,
         "longitude": 108.40202
     },
     {
-        "name": "Yongchuan",
+        "name": "Юнчуань",
         "latitude": 29.35376,
         "longitude": 105.89392
     },
     {
-        "name": "Yudong",
+        "name": "Юдонг",
         "latitude": 29.385,
         "longitude": 106.51944
     },
     {
-        "name": "Yuzhong District",
+        "name": "Юйчжунский район",
         "latitude": 29.55208,
         "longitude": 106.53814
     },
     {
-        "name": "Badu",
+        "name": "Баду",
         "latitude": 26.81028,
         "longitude": 119.56417
     },
     {
-        "name": "Baiqi",
+        "name": "Байци",
         "latitude": 24.88244,
         "longitude": 118.70869
     },
     {
-        "name": "Baiyun",
+        "name": "Байюнь",
         "latitude": 26.03648,
         "longitude": 118.90622
     },
     {
-        "name": "Beishancun",
+        "name": "Бэйшанькунь",
         "latitude": 26.43732,
         "longitude": 119.63372
     },
     {
-        "name": "Changqiao",
+        "name": "Чанцяо",
         "latitude": 26.82139,
         "longitude": 118.84361
     },
     {
-        "name": "Chengmen",
+        "name": "Чэнмэнь",
         "latitude": 25.99339,
         "longitude": 119.36136
     },
     {
-        "name": "Chixi",
+        "name": "Чиси",
         "latitude": 26.91111,
         "longitude": 119.48306
     },
     {
-        "name": "Chongru",
+        "name": "Чонгру",
         "latitude": 26.95111,
         "longitude": 119.92528
     },
     {
-        "name": "Dadeng",
+        "name": "Брат",
         "latitude": 24.54386,
         "longitude": 118.32753
     },
     {
-        "name": "Daixi",
+        "name": "Дайси",
         "latitude": 26.8125,
         "longitude": 119.11417
     },
     {
-        "name": "Danyang",
+        "name": "И это",
         "latitude": 26.35102,
         "longitude": 119.4803
     },
     {
-        "name": "Daqiao",
+        "name": "Дацяо",
         "latitude": 26.615,
         "longitude": 118.90639
     },
     {
-        "name": "Dazuo",
+        "name": "Дазуо",
         "latitude": 24.88616,
         "longitude": 118.96433
     },
     {
-        "name": "Dinghaicun",
+        "name": "Дингайкун",
         "latitude": 26.28022,
         "longitude": 119.78964
     },
     {
-        "name": "Dingtoucun",
+        "name": "Дингтукунь",
         "latitude": 26.83977,
         "longitude": 119.66111
     },
     {
-        "name": "Dongchongcun",
+        "name": "Дунчунцунь",
         "latitude": 26.54001,
         "longitude": 119.83257
     },
     {
-        "name": "Dongdai",
+        "name": "Донгдай",
         "latitude": 26.24366,
         "longitude": 119.61566
     },
     {
-        "name": "Donghu",
+        "name": "Дунху",
         "latitude": 26.23453,
         "longitude": 119.5143
     },
     {
-        "name": "Dongling",
+        "name": "Дунлин",
         "latitude": 24.98271,
         "longitude": 118.8979
     },
     {
-        "name": "Dongyuan",
+        "name": "Дунгюань",
         "latitude": 24.91738,
         "longitude": 118.75236
     },
     {
-        "name": "Feiluan",
+        "name": "Фейлуань",
         "latitude": 26.5625,
         "longitude": 119.5975
     },
     {
-        "name": "Fengpu",
+        "name": "Фэнпу",
         "latitude": 26.68276,
         "longitude": 118.76006
     },
     {
-        "name": "Fengzhou",
+        "name": "Фэнчжоу",
         "latitude": 24.95762,
         "longitude": 118.53365
     },
     {
-        "name": "Fu\u2019an",
+        "name": "Фуань",
         "latitude": 27.06372,
         "longitude": 119.6528
     },
     {
-        "name": "Fuding",
+        "name": "Фудин",
         "latitude": 27.32734,
         "longitude": 120.21399
     },
     {
-        "name": "Fuqing",
+        "name": "Фуцин",
         "latitude": 25.725,
         "longitude": 119.37944
     },
     {
-        "name": "Fuzhou",
+        "name": "Фучжоу",
         "latitude": 26.06139,
         "longitude": 119.30611
     },
     {
-        "name": "Gantang",
+        "name": "бушель",
         "latitude": 26.92,
         "longitude": 119.63333
     },
     {
-        "name": "Guantou",
+        "name": "Гуаньтоу",
         "latitude": 26.13593,
         "longitude": 119.56162
     },
     {
-        "name": "Gufeng",
+        "name": "Гуфэн",
         "latitude": 26.90833,
         "longitude": 118.98194
     },
     {
-        "name": "Hetang",
+        "name": "Хэтанг",
         "latitude": 26.66276,
         "longitude": 119.11062
     },
     {
-        "name": "Hongtang",
+        "name": "Хунтан",
         "latitude": 26.07056,
         "longitude": 119.23083
     },
     {
-        "name": "Hongyang",
+        "name": "Хунъян",
         "latitude": 26.52861,
         "longitude": 119.4625
     },
     {
-        "name": "Houyu",
+        "name": "Хоую",
         "latitude": 26.05958,
         "longitude": 119.53502
     },
     {
-        "name": "Huai\u2019an",
+        "name": "Хуайань",
         "latitude": 26.09899,
         "longitude": 119.22171
     },
     {
-        "name": "Huangtian",
+        "name": "Хуантянь",
         "latitude": 26.43851,
         "longitude": 118.62398
     },
     {
-        "name": "Huotong",
+        "name": "Хуотун",
         "latitude": 26.84972,
         "longitude": 119.41806
     },
     {
-        "name": "Jian\u2019ou",
+        "name": "Цзяньоу",
         "latitude": 27.04694,
         "longitude": 118.32528
     },
     {
-        "name": "Jiangkou",
+        "name": "Цзянкоу",
         "latitude": 25.48694,
         "longitude": 119.19834
     },
     {
-        "name": "Jianjiang",
+        "name": "Цзяньцзян",
         "latitude": 26.54972,
         "longitude": 119.755
     },
     {
-        "name": "Jingfeng",
+        "name": "Цзинфэн",
         "latitude": 24.97441,
         "longitude": 118.96486
     },
     {
-        "name": "Jinjiang",
+        "name": "Цзиньцзян",
         "latitude": 24.81978,
         "longitude": 118.57415
     },
     {
-        "name": "Jinjing",
+        "name": "Тотализатор",
         "latitude": 24.575,
         "longitude": 118.59722
     },
     {
-        "name": "Jitoucun",
+        "name": "Житукун",
         "latitude": 26.47681,
         "longitude": 119.60517
     },
     {
-        "name": "Kengyuan",
+        "name": "Кенъюань",
         "latitude": 26.33964,
         "longitude": 119.76476
     },
     {
-        "name": "Kerencun",
+        "name": "Путаница",
         "latitude": 24.58213,
         "longitude": 118.66046
     },
     {
-        "name": "Kuai\u2019an",
+        "name": "Куайан",
         "latitude": 26.03417,
         "longitude": 119.41639
     },
     {
-        "name": "Lianhecun",
+        "name": "Лианхекунь",
         "latitude": 24.58932,
         "longitude": 118.33903
     },
     {
-        "name": "Liuwudiancun",
+        "name": "Люудяньцунь",
         "latitude": 24.56923,
         "longitude": 118.19064
     },
     {
-        "name": "Longmen",
+        "name": "Лунмэнь",
         "latitude": 24.95972,
         "longitude": 118.08889
     },
     {
-        "name": "Longyan",
+        "name": "Лунъянь",
         "latitude": 25.10722,
         "longitude": 117.0225
     },
     {
-        "name": "Luoqiao",
+        "name": "Луоцяо",
         "latitude": 26.47265,
         "longitude": 119.00392
     },
     {
-        "name": "Luoyang",
+        "name": "Лоян",
         "latitude": 24.95938,
         "longitude": 118.683
     },
     {
-        "name": "Luxia",
+        "name": "Люсия",
         "latitude": 26.93,
         "longitude": 118.80722
     },
     {
-        "name": "Maping",
+        "name": "карта",
         "latitude": 24.68722,
         "longitude": 118.55278
     },
     {
-        "name": "Meipu",
+        "name": "Мейпу",
         "latitude": 26.2112,
         "longitude": 118.89561
     },
     {
-        "name": "Min\u2019an",
+        "name": "Минань",
         "latitude": 26.04962,
         "longitude": 119.49964
     },
     {
-        "name": "Nanping",
+        "name": "Наньпин",
         "latitude": 26.645,
         "longitude": 118.17361
     },
     {
-        "name": "Neikeng",
+        "name": "Нейкенг",
         "latitude": 24.78544,
         "longitude": 118.46037
     },
     {
-        "name": "Ningde",
+        "name": "Нингде",
         "latitude": 26.66167,
         "longitude": 119.52278
     },
     {
-        "name": "Pandu",
+        "name": "Панду",
         "latitude": 26.23639,
         "longitude": 119.45026
     },
     {
-        "name": "Pucheng",
+        "name": "Пучэн",
         "latitude": 27.92333,
         "longitude": 118.53333
     },
     {
-        "name": "Putian",
+        "name": "Путин",
         "latitude": 25.43944,
         "longitude": 119.01028
     },
     {
-        "name": "Qibu",
+        "name": "Цибу",
         "latitude": 26.5075,
         "longitude": 119.545
     },
     {
-        "name": "Qidu",
+        "name": "Киду",
         "latitude": 26.76528,
         "longitude": 119.54722
     },
     {
-        "name": "Quanzhou",
+        "name": "Цюаньчжоу",
         "latitude": 24.91389,
         "longitude": 118.58583
     },
     {
-        "name": "Rong\u2019an",
+        "name": "Жунъань",
         "latitude": 26.12472,
         "longitude": 119.12139
     },
     {
-        "name": "Sanming",
+        "name": "Саньмин",
         "latitude": 26.24861,
         "longitude": 117.61861
     },
     {
-        "name": "Shajiang",
+        "name": "Шацзян",
         "latitude": 26.7825,
         "longitude": 119.96694
     },
     {
-        "name": "Shangjie",
+        "name": "Шанцзе",
         "latitude": 26.08679,
         "longitude": 119.18494
     },
     {
-        "name": "Shanxia",
+        "name": "Шанься",
         "latitude": 24.93802,
         "longitude": 118.8817
     },
     {
-        "name": "Shanyang",
+        "name": "Шаньян",
         "latitude": 26.67019,
         "longitude": 119.20509
     },
     {
-        "name": "Shaowu",
+        "name": "Шаову",
         "latitude": 27.34089,
         "longitude": 117.4831
     },
     {
-        "name": "Shijing",
+        "name": "Шицзин",
         "latitude": 24.61956,
         "longitude": 118.42437
     },
     {
-        "name": "Shima",
+        "name": "Сима",
         "latitude": 24.44647,
         "longitude": 117.81216
     },
     {
-        "name": "Shoushan",
+        "name": "Шушань",
         "latitude": 26.96444,
         "longitude": 119.16167
     },
     {
-        "name": "Shuangxi",
+        "name": "Шуанси",
         "latitude": 27.02248,
         "longitude": 119.0414
     },
     {
-        "name": "Shuangzhu",
+        "name": "Шуанчжу",
         "latitude": 26.63114,
         "longitude": 118.6457
     },
     {
-        "name": "Shuikou",
+        "name": "Шуйкоу",
         "latitude": 26.3836,
         "longitude": 118.73027
     },
     {
-        "name": "Tangkou",
+        "name": "Танкоу",
         "latitude": 26.95417,
         "longitude": 119.01278
     },
     {
-        "name": "Tantou",
+        "name": "Тантоу",
         "latitude": 26.03033,
         "longitude": 119.59739
     },
     {
-        "name": "Tatou",
+        "name": "Мы",
         "latitude": 24.61732,
         "longitude": 118.52672
     },
     {
-        "name": "Tingjiang",
+        "name": "Тинцзян",
         "latitude": 26.07401,
         "longitude": 119.50574
     },
     {
-        "name": "Tuzhai",
+        "name": "Тужай",
         "latitude": 24.98301,
         "longitude": 118.83194
     },
     {
-        "name": "Wubao",
+        "name": "Убао",
         "latitude": 24.59589,
         "longitude": 118.55359
     },
     {
-        "name": "Wuyishan",
+        "name": "Уишань",
         "latitude": 27.75995,
         "longitude": 118.03066
     },
     {
-        "name": "Wuyucun",
+        "name": "Уюцунь",
         "latitude": 24.33551,
         "longitude": 118.14489
     },
     {
-        "name": "Xiabaishi",
+        "name": "Сябайши",
         "latitude": 26.81528,
         "longitude": 119.67917
     },
     {
-        "name": "Xiahu",
+        "name": "Сяоху",
         "latitude": 26.61056,
         "longitude": 119.94833
     },
     {
-        "name": "Xiamen",
+        "name": "Сямынь",
         "latitude": 24.47979,
         "longitude": 118.08187
     },
     {
-        "name": "Xiancun",
+        "name": "Сяньцунь",
         "latitude": 26.93861,
         "longitude": 119.36028
     },
     {
-        "name": "Xiangyun",
+        "name": "Сянюнь",
         "latitude": 24.97111,
         "longitude": 118.16028
     },
     {
-        "name": "Xibing",
+        "name": "Сибин",
         "latitude": 26.98139,
         "longitude": 119.72472
     },
     {
-        "name": "Xiling",
+        "name": "Силин",
         "latitude": 26.81444,
         "longitude": 119.04722
     },
     {
-        "name": "Ximei",
+        "name": "Симэй",
         "latitude": 24.98773,
         "longitude": 118.3858
     },
     {
-        "name": "Xinan",
+        "name": "Синань",
         "latitude": 26.72,
         "longitude": 119.85556
     },
     {
-        "name": "Xindian",
+        "name": "Синьдянь",
         "latitude": 24.61006,
         "longitude": 118.24068
     },
     {
-        "name": "Yakou",
+        "name": "Якоу",
         "latitude": 24.67194,
         "longitude": 118.63722
     },
     {
-        "name": "Yanghou",
+        "name": "Янхоу",
         "latitude": 26.64083,
         "longitude": 118.50806
     },
     {
-        "name": "Yangzhong",
+        "name": "Янчжун",
         "latitude": 26.70556,
         "longitude": 119.37444
     },
     {
-        "name": "Yantian",
+        "name": "Яньтянь",
         "latitude": 26.85333,
         "longitude": 119.8575
     },
     {
-        "name": "Yingdu",
+        "name": "Инду",
         "latitude": 24.97167,
         "longitude": 118.24417
     },
     {
-        "name": "Yinglin",
+        "name": "Инлинь",
         "latitude": 24.63222,
         "longitude": 118.58056
     },
     {
-        "name": "Yongning",
+        "name": "Юннин",
         "latitude": 24.68,
         "longitude": 118.69
     },
     {
-        "name": "Yushan",
+        "name": "Юшань",
         "latitude": 26.90863,
         "longitude": 118.56713
     },
     {
-        "name": "Zhangwan",
+        "name": "Чжанвань",
         "latitude": 26.71139,
         "longitude": 119.59194
     },
     {
-        "name": "Zhangzhou",
+        "name": "Чжанчжоу",
         "latitude": 24.51333,
         "longitude": 117.65556
     },
     {
-        "name": "Zhenhaicun",
+        "name": "Чжэньхайкунь",
         "latitude": 24.25894,
         "longitude": 118.09186
     },
     {
-        "name": "Zhongfang",
+        "name": "Чжунфан",
         "latitude": 26.60083,
         "longitude": 119.42583
     },
     {
-        "name": "Zhuoyang",
+        "name": "Чжоян",
         "latitude": 26.63003,
         "longitude": 119.0215
     },
     {
-        "name": "Zhuqi",
+        "name": "Чжуци",
         "latitude": 26.1486,
         "longitude": 119.10216
     },
     {
-        "name": "Baiyin",
+        "name": "Байинь",
         "latitude": 36.54696,
         "longitude": 104.17023
     },
     {
-        "name": "Beidao",
+        "name": "Бэйдао",
         "latitude": 34.56861,
         "longitude": 105.89333
     },
     {
-        "name": "Dingxi Shi",
+        "name": "Динси Ши",
         "latitude": 35.0371,
         "longitude": 104.38623
     },
     {
-        "name": "Hezuo",
+        "name": "Хэцзо",
         "latitude": 34.98556,
         "longitude": 102.90944
     },
     {
-        "name": "Jiayuguan",
+        "name": "Цзяюгуань",
         "latitude": 39.81121,
         "longitude": 98.28618
     },
     {
-        "name": "Jinchang",
+        "name": "Цзиньчан",
         "latitude": 38.50062,
         "longitude": 102.19379
     },
     {
-        "name": "Jiuquan",
+        "name": "Цзюцюань",
         "latitude": 39.74318,
         "longitude": 98.51736
     },
     {
-        "name": "Lanzhou",
+        "name": "Ланьчжоу",
         "latitude": 36.05701,
         "longitude": 103.83987
     },
     {
-        "name": "Laojunmiao",
+        "name": "Лаоцзюньмяо",
         "latitude": 39.83333,
         "longitude": 97.73333
     },
     {
-        "name": "Linxia Chengguanzhen",
+        "name": "Линься Чэнгуаньчжэнь",
         "latitude": 35.60028,
         "longitude": 103.20639
     },
     {
-        "name": "Linxia Huizu Zizhizhou",
+        "name": "Линься Хуэйцзу Цзыжичжоу",
         "latitude": 35.66597,
         "longitude": 103.2408
     },
     {
-        "name": "Longnan Shi",
+        "name": "Луннань Ши",
         "latitude": 33.53451,
         "longitude": 105.34947
     },
     {
-        "name": "Mawu",
+        "name": "Слова",
         "latitude": 34.42639,
         "longitude": 104.91472
     },
     {
-        "name": "Pingliang",
+        "name": "Пинлян",
         "latitude": 35.53917,
         "longitude": 106.68611
     },
     {
-        "name": "Qincheng",
+        "name": "Циньчэн",
         "latitude": 34.58028,
         "longitude": 105.72722
     },
     {
-        "name": "Qingyang Shi",
+        "name": "Цинъян Ши",
         "latitude": 36.23598,
         "longitude": 107.58113
     },
     {
-        "name": "Tianshui",
+        "name": "Тяньшуй",
         "latitude": 34.57952,
         "longitude": 105.74238
     },
     {
-        "name": "Wuwei",
+        "name": "Ух ты",
         "latitude": 37.92672,
         "longitude": 102.63202
     },
     {
-        "name": "Zhangye",
+        "name": "Чжанъе",
         "latitude": 38.93417,
         "longitude": 100.45167
     },
     {
-        "name": "Zhangye Shi",
+        "name": "Чжанъе Ши",
         "latitude": 39.12183,
         "longitude": 99.92495
     },
     {
-        "name": "Anbu",
+        "name": "Анбу",
         "latitude": 23.44895,
         "longitude": 116.68092
     },
     {
-        "name": "Chaozhou",
+        "name": "Чаочжоу",
         "latitude": 23.65396,
         "longitude": 116.62262
     },
     {
-        "name": "Chenghua",
+        "name": "Чэнхуа",
         "latitude": 23.46132,
         "longitude": 116.77007
     },
     {
-        "name": "Daliang",
+        "name": "Чеснок",
         "latitude": 22.84067,
         "longitude": 113.2503
     },
     {
-        "name": "Danshui",
+        "name": "Даньшуй",
         "latitude": 22.7984,
         "longitude": 114.46716
     },
     {
-        "name": "Dasha",
+        "name": "Даша",
         "latitude": 23.11037,
         "longitude": 113.4418
     },
     {
-        "name": "Dongguan",
+        "name": "Дунгуань",
         "latitude": 23.01797,
         "longitude": 113.74866
     },
     {
-        "name": "Donghai",
+        "name": "Дунхай",
         "latitude": 22.94593,
         "longitude": 115.64204
     },
     {
-        "name": "Ducheng",
+        "name": "Дученг",
         "latitude": 23.24212,
         "longitude": 111.5284
     },
     {
-        "name": "Encheng",
+        "name": "Энченг",
         "latitude": 22.18659,
         "longitude": 112.30424
     },
     {
-        "name": "Foshan",
+        "name": "Фошань",
         "latitude": 23.02677,
         "longitude": 113.13148
     },
     {
-        "name": "Foshan Shi",
+        "name": "Фошань Ши",
         "latitude": 23.02264,
         "longitude": 112.96302
     },
     {
-        "name": "Gaoyao",
+        "name": "Гаояо",
         "latitude": 23.02432,
         "longitude": 112.44555
     },
     {
-        "name": "Gaozhou",
+        "name": "Гаочжоу",
         "latitude": 21.93924,
         "longitude": 110.84607
     },
     {
-        "name": "Guangzhou",
+        "name": "Гуанчжоу",
         "latitude": 23.11667,
         "longitude": 113.25
     },
     {
-        "name": "Guangzhou Shi",
+        "name": "Гуанчжоу Ши",
         "latitude": 23.37327,
         "longitude": 113.51219
     },
     {
-        "name": "Haikuotiankong",
+        "name": "Хайкуотяньконг",
         "latitude": 22.52881,
         "longitude": 113.9399
     },
     {
-        "name": "Haimen",
+        "name": "Хаймень",
         "latitude": 23.19346,
         "longitude": 116.61219
     },
     {
-        "name": "Hepo",
+        "name": "Скаг",
         "latitude": 23.43077,
         "longitude": 115.82991
     },
     {
-        "name": "Heyuan",
+        "name": "Хэюань",
         "latitude": 23.73333,
         "longitude": 114.68333
     },
     {
-        "name": "Huaicheng",
+        "name": "Хуайчэн",
         "latitude": 23.91952,
         "longitude": 112.17629
     },
     {
-        "name": "Huanggang",
+        "name": "Хуанган",
         "latitude": 23.67704,
         "longitude": 116.99961
     },
     {
-        "name": "Huazhou",
+        "name": "Хуачжоу",
         "latitude": 21.63333,
         "longitude": 110.58333
     },
     {
-        "name": "Huicheng",
+        "name": "Хуэйчэн",
         "latitude": 23.03845,
         "longitude": 116.28988
     },
     {
-        "name": "Huizhou",
+        "name": "Хуэйчжоу",
         "latitude": 23.11147,
         "longitude": 114.41523
     },
     {
-        "name": "Humen",
+        "name": "Человек",
         "latitude": 22.81899,
         "longitude": 113.67306
     },
     {
-        "name": "Jiangmen",
+        "name": "Цзянмэнь",
         "latitude": 22.58333,
         "longitude": 113.08333
     },
     {
-        "name": "Jiazi",
+        "name": "Цзяцзы",
         "latitude": 22.87932,
         "longitude": 116.07318
     },
     {
-        "name": "Jieshi",
+        "name": "Цзеши",
         "latitude": 22.81027,
         "longitude": 115.83058
     },
     {
-        "name": "Jieyang",
+        "name": "Цзеян",
         "latitude": 23.5418,
         "longitude": 116.36581
     },
     {
-        "name": "Lecheng",
+        "name": "Леченг",
         "latitude": 25.128,
         "longitude": 113.35041
     },
     {
-        "name": "Lianjiang",
+        "name": "Ляньцзян",
         "latitude": 21.64673,
         "longitude": 110.28172
     },
     {
-        "name": "Lianzhou",
+        "name": "Ляньчжоу",
         "latitude": 24.78186,
         "longitude": 112.3712
     },
     {
-        "name": "Licheng",
+        "name": "Личэн",
         "latitude": 23.29549,
         "longitude": 113.82465
     },
     {
-        "name": "Lubu",
+        "name": "Любу",
         "latitude": 23.17233,
         "longitude": 112.28298
     },
     {
-        "name": "Luocheng",
+        "name": "Луочэн",
         "latitude": 22.76953,
         "longitude": 111.56882
     },
     {
-        "name": "Luoyang",
+        "name": "Лоян",
         "latitude": 23.16244,
         "longitude": 114.27342
     },
     {
-        "name": "Maba",
+        "name": "Никогда",
         "latitude": 24.68413,
         "longitude": 113.59839
     },
     {
-        "name": "Maoming",
+        "name": "Маомин",
         "latitude": 21.65,
         "longitude": 110.9
     },
     {
-        "name": "Meizhou",
+        "name": "Мэйчжоу",
         "latitude": 24.28859,
         "longitude": 116.11768
     },
     {
-        "name": "Nanfeng",
+        "name": "Наньфэн",
         "latitude": 23.72695,
         "longitude": 111.79723
     },
     {
-        "name": "Pingshan",
+        "name": "Пиншань",
         "latitude": 22.99376,
         "longitude": 114.71311
     },
     {
-        "name": "Puning",
+        "name": "Пунинг",
         "latitude": 23.31072,
         "longitude": 116.16869
     },
     {
-        "name": "Qingyuan",
+        "name": "Цинъюань",
         "latitude": 23.7,
         "longitude": 113.03333
     },
     {
-        "name": "Sanshui",
+        "name": "Саньшуй",
         "latitude": 23.15486,
         "longitude": 112.89161
     },
     {
-        "name": "Shantou",
+        "name": "Шаньтоу",
         "latitude": 23.36814,
         "longitude": 116.71479
     },
     {
-        "name": "Shanwei",
+        "name": "Шаньвэй",
         "latitude": 22.78199,
         "longitude": 115.3475
     },
     {
-        "name": "Shaoguan",
+        "name": "Шаогуань",
         "latitude": 24.8,
         "longitude": 113.58333
     },
     {
-        "name": "Shaping",
+        "name": "Формирование",
         "latitude": 22.77019,
         "longitude": 112.95776
     },
     {
-        "name": "Shenzhen",
+        "name": "Шэньчжэнь",
         "latitude": 22.55653,
         "longitude": 113.9859
     },
     {
-        "name": "Shilong",
+        "name": "Шилонг",
         "latitude": 23.11444,
         "longitude": 113.84722
     },
     {
-        "name": "Shiqi",
+        "name": "Шици",
         "latitude": 22.51682,
         "longitude": 113.38521
     },
     {
-        "name": "Shiqiao",
+        "name": "Шицяо",
         "latitude": 22.9464,
         "longitude": 113.35769
     },
     {
-        "name": "Shiwan",
+        "name": "Шиван",
         "latitude": 23.00107,
         "longitude": 113.077
     },
     {
-        "name": "Shixing",
+        "name": "Шиксинг",
         "latitude": 24.94824,
         "longitude": 114.06572
     },
     {
-        "name": "Taishan",
+        "name": "Тайшань",
         "latitude": 22.25135,
         "longitude": 112.7799
     },
     {
-        "name": "Tangping",
+        "name": "Танпин",
         "latitude": 22.03177,
         "longitude": 111.93537
     },
     {
-        "name": "Wuchuan",
+        "name": "Учуань",
         "latitude": 21.45713,
         "longitude": 110.76591
     },
     {
-        "name": "Xingning",
+        "name": "Синнин",
         "latitude": 24.1483,
         "longitude": 115.72272
     },
     {
-        "name": "Xinhui",
+        "name": "Синьхуэй",
         "latitude": 22.456,
         "longitude": 113.0482
     },
     {
-        "name": "Xinyi",
+        "name": "Синьи",
         "latitude": 22.37303,
         "longitude": 110.94746
     },
     {
-        "name": "Xiongzhou",
+        "name": "Сюнчжоу",
         "latitude": 25.11667,
         "longitude": 114.3
     },
     {
-        "name": "Xucheng",
+        "name": "Сюйчэн",
         "latitude": 20.32917,
         "longitude": 110.16712
     },
     {
-        "name": "Yangchun",
+        "name": "Янчунь",
         "latitude": 22.16667,
         "longitude": 111.78333
     },
     {
-        "name": "Yangjiang",
+        "name": "Янцзян",
         "latitude": 21.85563,
         "longitude": 111.96272
     },
     {
-        "name": "Yingcheng",
+        "name": "Инчэн",
         "latitude": 24.16588,
         "longitude": 113.41267
     },
     {
-        "name": "Yunfu",
+        "name": "Юнфу",
         "latitude": 22.92833,
         "longitude": 112.03954
     },
     {
-        "name": "Zhanjiang",
+        "name": "Чжаньцзян",
         "latitude": 21.28145,
         "longitude": 110.34271
     },
     {
-        "name": "Zhaoqing",
+        "name": "Чжаоцин",
         "latitude": 23.04893,
         "longitude": 112.46091
     },
     {
-        "name": "Zhongshan",
+        "name": "Чжуншань",
         "latitude": 21.31992,
         "longitude": 110.5723
     },
     {
-        "name": "Zhongshan Prefecture",
+        "name": "Префектура Чжуншань",
         "latitude": 22.55358,
         "longitude": 113.3755
     },
     {
-        "name": "Zhuhai",
+        "name": "Чжухай",
         "latitude": 22.27694,
         "longitude": 113.56778
     },
     {
-        "name": "Babu",
+        "name": "Бабу",
         "latitude": 24.41667,
         "longitude": 111.51667
     },
     {
-        "name": "Baihe",
+        "name": "Байхэ",
         "latitude": 22.1343,
         "longitude": 107.232
     },
     {
-        "name": "Baise City",
+        "name": "ебать город",
         "latitude": 23.89972,
         "longitude": 106.61333
     },
     {
-        "name": "Baise Shi",
+        "name": "Байсэ Ши",
         "latitude": 23.9,
         "longitude": 106.61667
     },
     {
-        "name": "Beihai",
+        "name": "Бэйхай",
         "latitude": 21.48333,
         "longitude": 109.1
     },
     {
-        "name": "Chongzuo Shi",
+        "name": "Чунцзуо Ши",
         "latitude": 22.46541,
         "longitude": 107.39622
     },
     {
-        "name": "Dazhai",
+        "name": "Дажай",
         "latitude": 25.8098,
         "longitude": 110.15
     },
     {
-        "name": "Fangchenggang Shi",
+        "name": "Фанчэнган Ши",
         "latitude": 21.9358,
         "longitude": 107.95932
     },
     {
-        "name": "Guigang",
+        "name": "Гуйган",
         "latitude": 23.09639,
         "longitude": 109.60917
     },
     {
-        "name": "Guilin",
+        "name": "Гуйлинь",
         "latitude": 25.28194,
         "longitude": 110.28639
     },
     {
-        "name": "Guilin Shi",
+        "name": "Гуйлинь Ши",
         "latitude": 25.28333,
         "longitude": 110.28333
     },
     {
-        "name": "Guiping",
+        "name": "Гипинг",
         "latitude": 23.39336,
         "longitude": 110.07437
     },
     {
-        "name": "Hechi Shi",
+        "name": "Хечи Ши",
         "latitude": 24.7,
         "longitude": 108.03
     },
     {
-        "name": "Jinji",
+        "name": "Чувство",
         "latitude": 23.22806,
         "longitude": 110.82611
     },
     {
-        "name": "Laibin",
+        "name": "Лол",
         "latitude": 23.7,
         "longitude": 109.26667
     },
     {
-        "name": "Lianzhou",
+        "name": "Ляньчжоу",
         "latitude": 21.66621,
         "longitude": 109.20116
     },
     {
-        "name": "Lingcheng",
+        "name": "Линчэн",
         "latitude": 22.70722,
         "longitude": 110.34917
     },
     {
-        "name": "Liuzhou Shi",
+        "name": "Лючжоу Ши",
         "latitude": 24.31667,
         "longitude": 109.4
     },
     {
-        "name": "Luorong",
+        "name": "Луоронг",
         "latitude": 24.40583,
         "longitude": 109.60861
     },
     {
-        "name": "Nandu",
+        "name": "Нанда",
         "latitude": 22.8525,
         "longitude": 110.82333
     },
     {
-        "name": "Nanning",
+        "name": "Наньнин",
         "latitude": 22.81667,
         "longitude": 108.31667
     },
     {
-        "name": "Pingnan",
+        "name": "Пиннань",
         "latitude": 23.54218,
         "longitude": 110.38946
     },
     {
-        "name": "Pumiao",
+        "name": "Пумяо",
         "latitude": 22.75867,
         "longitude": 108.48111
     },
     {
-        "name": "Qinzhou",
+        "name": "Циньчжоу",
         "latitude": 21.97296,
         "longitude": 108.62612
     },
     {
-        "name": "Wuzhou",
+        "name": "Учжоу",
         "latitude": 23.48333,
         "longitude": 111.31667
     },
     {
-        "name": "Yangshuo",
+        "name": "Яншо",
         "latitude": 24.78081,
         "longitude": 110.48967
     },
     {
-        "name": "Yashan",
+        "name": "Живой",
         "latitude": 22.1975,
         "longitude": 109.94194
     },
     {
-        "name": "Yulin",
+        "name": "Юлин",
         "latitude": 22.63333,
         "longitude": 110.15
     },
     {
-        "name": "Anshun",
+        "name": "Аньшунь",
         "latitude": 26.25,
         "longitude": 105.93333
     },
     {
-        "name": "Aoshi",
+        "name": "Аоши",
         "latitude": 26.40167,
         "longitude": 109.07111
     },
     {
-        "name": "Bahuang",
+        "name": "Бахуанг",
         "latitude": 27.71806,
         "longitude": 109.01889
     },
     {
-        "name": "Baishi",
+        "name": "Байши",
         "latitude": 26.97361,
         "longitude": 109.44333
     },
     {
-        "name": "Bangdong",
+        "name": "Бандонг",
         "latitude": 26.97556,
         "longitude": 109.18583
     },
     {
-        "name": "Benchu",
+        "name": "Бенчу",
         "latitude": 26.77111,
         "longitude": 109.29056
     },
     {
-        "name": "Bijie",
+        "name": "Биджие",
         "latitude": 27.30193,
         "longitude": 105.28627
     },
     {
-        "name": "Chadian",
+        "name": "Чадский",
         "latitude": 27.58194,
         "longitude": 109.13278
     },
     {
-        "name": "Changsha",
+        "name": "Чанша",
         "latitude": 28.68778,
         "longitude": 105.98972
     },
     {
-        "name": "Chumi",
+        "name": "",
         "latitude": 28.23361,
         "longitude": 106.83278
     },
     {
-        "name": "Dabachang",
+        "name": "Дабачан",
         "latitude": 27.7425,
         "longitude": 108.34333
     },
     {
-        "name": "Darong",
+        "name": "Даронг",
         "latitude": 25.785,
         "longitude": 108.864
     },
     {
-        "name": "Dundong",
+        "name": "Дундун",
         "latitude": 26.0119,
         "longitude": 109.141
     },
     {
-        "name": "Duyun",
+        "name": "Дуюнь",
         "latitude": 26.26667,
         "longitude": 107.51667
     },
     {
-        "name": "Gaoniang",
+        "name": "Гаонян",
         "latitude": 26.8425,
         "longitude": 109.17889
     },
     {
-        "name": "Gaowu",
+        "name": "Гаову",
         "latitude": 25.5625,
         "longitude": 108.908
     },
     {
-        "name": "Gaozeng",
+        "name": "Гаозэн",
         "latitude": 25.80167,
         "longitude": 108.9375
     },
     {
-        "name": "Guandu",
+        "name": "Гуанду",
         "latitude": 28.56833,
         "longitude": 106.10255
     },
     {
-        "name": "Guiyang",
+        "name": "Гуйян",
         "latitude": 26.58333,
         "longitude": 106.71667
     },
     {
-        "name": "Huaqiu",
+        "name": "Хуацю",
         "latitude": 28.11665,
         "longitude": 106.60225
     },
     {
-        "name": "Lantian",
+        "name": "Ланьтянь",
         "latitude": 27.025,
         "longitude": 109.29472
     },
     {
-        "name": "Liangcunchang",
+        "name": "Лянкуньчан",
         "latitude": 28.40667,
         "longitude": 106.42444
     },
     {
-        "name": "Liupanshui",
+        "name": "Люпаньшуй",
         "latitude": 26.59444,
         "longitude": 104.83333
     },
     {
-        "name": "Longlisuo",
+        "name": "Лонглисуо",
         "latitude": 26.41417,
         "longitude": 109.10222
     },
     {
-        "name": "Loushanguan",
+        "name": "Лоушангуань",
         "latitude": 28.1368,
         "longitude": 106.822
     },
     {
-        "name": "Maoping",
+        "name": "Маопин",
         "latitude": 26.73694,
         "longitude": 109.22111
     },
     {
-        "name": "Ouyang",
+        "name": "Оуян",
         "latitude": 26.4191,
         "longitude": 109.216
     },
     {
-        "name": "Pingjiang",
+        "name": "Пинцзян",
         "latitude": 25.97056,
         "longitude": 108.39528
     },
     {
-        "name": "Qiandongnan Miao and Dong Autonomous Prefecture",
+        "name": "Цяньдуннань Мяо и Донгский автономный округ",
         "latitude": 26.5738,
         "longitude": 108.59914
     },
     {
-        "name": "Qianxinan Bouyeizu Miaozu Zizhizhou",
+        "name": "Цяньсинань Буэйцзу Мяозу Цзычжичжоу",
         "latitude": 25.38808,
         "longitude": 105.3874
     },
     {
-        "name": "Qimeng",
+        "name": "Цимэн",
         "latitude": 26.48472,
         "longitude": 108.99944
     },
     {
-        "name": "Qinglang",
+        "name": "Цинлан",
         "latitude": 27.12472,
         "longitude": 108.73278
     },
     {
-        "name": "Runsong",
+        "name": "Рансонг",
         "latitude": 26.87,
         "longitude": 109.097
     },
     {
-        "name": "Sanchahe",
+        "name": "Санчахе",
         "latitude": 28.49528,
         "longitude": 106.42833
     },
     {
-        "name": "Sangmu",
+        "name": "Санму",
         "latitude": 28.21528,
         "longitude": 106.26889
     },
     {
-        "name": "Shiqian",
+        "name": "Шицянь",
         "latitude": 27.5225,
         "longitude": 108.22806
     },
     {
-        "name": "Songkan",
+        "name": "Сонгкан",
         "latitude": 28.54972,
         "longitude": 106.85972
     },
     {
-        "name": "Tingdong",
+        "name": "Тиндун",
         "latitude": 25.82444,
         "longitude": 108.6125
     },
     {
-        "name": "Tonggu",
+        "name": "Тонгу",
         "latitude": 26.57222,
         "longitude": 109.30944
     },
     {
-        "name": "Tongren",
+        "name": "Тонгрен",
         "latitude": 27.71722,
         "longitude": 109.18528
     },
     {
-        "name": "Tongren Diqu",
+        "name": "Тонгрен Дикю",
         "latitude": 27.74188,
         "longitude": 109.19312
     },
     {
-        "name": "Weining",
+        "name": "Вейнинг",
         "latitude": 26.85,
         "longitude": 104.23333
     },
     {
-        "name": "Wenshui",
+        "name": "Вэньшуй",
         "latitude": 28.45056,
         "longitude": 106.52667
     },
     {
-        "name": "Xiajiang",
+        "name": "Сяоцзян",
         "latitude": 25.75556,
         "longitude": 108.69194
     },
     {
-        "name": "Xiaoweizhai",
+        "name": "Сяовэйчжай",
         "latitude": 26.19028,
         "longitude": 107.5125
     },
     {
-        "name": "Xinzhan",
+        "name": "Синьчжан",
         "latitude": 28.38833,
         "longitude": 106.85667
     },
     {
-        "name": "Xishan",
+        "name": "Сишань",
         "latitude": 25.68528,
         "longitude": 108.96389
     },
     {
-        "name": "Xujiaba",
+        "name": "Сюйцзяба",
         "latitude": 27.88472,
         "longitude": 108.11361
     },
     {
-        "name": "Yangtou",
+        "name": "Янтоу",
         "latitude": 27.68944,
         "longitude": 109.41389
     },
     {
-        "name": "Youyupu",
+        "name": "Ююпу",
         "latitude": 27.5517,
         "longitude": 109.135
     },
     {
-        "name": "Zhongchao",
+        "name": "Чжунчао",
         "latitude": 26.1375,
         "longitude": 109.22
     },
     {
-        "name": "Zhujiachang",
+        "name": "Чжуцзячан",
         "latitude": 27.3575,
         "longitude": 108.93833
     },
     {
-        "name": "Zunyi",
+        "name": "Цзуньи",
         "latitude": 27.68667,
         "longitude": 106.90722
     },
     {
-        "name": "Basuo",
+        "name": "Басуо",
         "latitude": 19.0939,
         "longitude": 108.65456
     },
     {
-        "name": "Chongshan",
+        "name": "Чуншань",
         "latitude": 18.78229,
         "longitude": 109.5013
     },
     {
-        "name": "Dadonghai",
+        "name": "Дадунхай",
         "latitude": 18.22056,
         "longitude": 109.51028
     },
     {
-        "name": "Haikou",
+        "name": "Хайкоу",
         "latitude": 20.04583,
         "longitude": 110.34167
     },
     {
-        "name": "Jinjiang",
+        "name": "Цзиньцзян",
         "latitude": 19.72878,
         "longitude": 110.00851
     },
     {
-        "name": "Lincheng",
+        "name": "Линченг",
         "latitude": 19.90778,
         "longitude": 109.68583
     },
     {
-        "name": "Nada",
+        "name": "Что-либо",
         "latitude": 19.52257,
         "longitude": 109.5786
     },
     {
-        "name": "Qionghai",
+        "name": "Кьонгхай",
         "latitude": 19.2425,
         "longitude": 110.46417
     },
     {
-        "name": "Qiongshan",
+        "name": "Цюншань",
         "latitude": 20.00583,
         "longitude": 110.35417
     },
     {
-        "name": "Sansha",
+        "name": "Санша",
         "latitude": 16.83387,
         "longitude": 112.33435
     },
     {
-        "name": "Sanya",
+        "name": "Поместите это",
         "latitude": 18.24306,
         "longitude": 109.505
     },
     {
-        "name": "Wanning",
+        "name": "Желание",
         "latitude": 18.79931,
         "longitude": 110.3841
     },
     {
-        "name": "Wenchang",
+        "name": "Вэньчан",
         "latitude": 19.6157,
         "longitude": 110.74894
     },
     {
-        "name": "Xiuying",
+        "name": "Сюин",
         "latitude": 20.00073,
         "longitude": 110.29359
     },
     {
-        "name": "Baoding",
+        "name": "Баодин",
         "latitude": 38.85111,
         "longitude": 115.49028
     },
     {
-        "name": "Beidaihehaibin",
+        "name": "Бэйдайхэхайбин",
         "latitude": 39.82222,
         "longitude": 119.51806
     },
     {
-        "name": "Botou",
+        "name": "Помещать",
         "latitude": 38.06667,
         "longitude": 116.5666
     },
     {
-        "name": "Cangzhou",
+        "name": "Цанчжоу",
         "latitude": 38.31667,
         "longitude": 116.86667
     },
     {
-        "name": "Cangzhou Shi",
+        "name": "Цанчжоу Ши",
         "latitude": 38.31,
         "longitude": 116.86
     },
     {
-        "name": "Changli",
+        "name": "Дасти",
         "latitude": 39.70417,
         "longitude": 119.15056
     },
     {
-        "name": "Chengde",
+        "name": "Чэнду",
         "latitude": 40.9519,
         "longitude": 117.95883
     },
     {
-        "name": "Chengde Prefecture",
+        "name": "Префектура Чэндэ",
         "latitude": 40.97,
         "longitude": 117.93
     },
     {
-        "name": "Dingzhou",
+        "name": "Динчжоу",
         "latitude": 38.51306,
         "longitude": 114.99556
     },
     {
-        "name": "Fengrun",
+        "name": "Фенжун",
         "latitude": 39.83333,
         "longitude": 118.11667
     },
     {
-        "name": "Guye",
+        "name": "Гай",
         "latitude": 39.73054,
         "longitude": 118.44085
     },
     {
-        "name": "Handan",
+        "name": "Вне",
         "latitude": 36.60056,
         "longitude": 114.46778
     },
     {
-        "name": "Hecun",
+        "name": "Гекун",
         "latitude": 36.53333,
         "longitude": 114.11111
     },
     {
-        "name": "Hengshui",
+        "name": "Хэншуй",
         "latitude": 37.73222,
         "longitude": 115.70111
     },
     {
-        "name": "Langfang",
+        "name": "Ланфанг",
         "latitude": 39.50972,
         "longitude": 116.69472
     },
     {
-        "name": "Langfang Shi",
+        "name": "Ланфанг Ши",
         "latitude": 39.51667,
         "longitude": 116.68333
     },
     {
-        "name": "Linshui",
+        "name": "Линьшуй",
         "latitude": 36.42472,
         "longitude": 114.20472
     },
     {
-        "name": "Linxi",
+        "name": "Линьси",
         "latitude": 39.71183,
         "longitude": 118.44954
     },
     {
-        "name": "Luancheng",
+        "name": "Луанчэн",
         "latitude": 37.87917,
         "longitude": 114.65167
     },
     {
-        "name": "Nangong",
+        "name": "Нанг",
         "latitude": 37.35806,
         "longitude": 115.37444
     },
     {
-        "name": "Pengcheng",
+        "name": "Пенчхенг",
         "latitude": 36.43111,
         "longitude": 114.17
     },
     {
-        "name": "Qinhuangdao",
+        "name": "Циньхуандао",
         "latitude": 39.93167,
         "longitude": 119.58833
     },
     {
-        "name": "Renqiu",
+        "name": "Ренцю",
         "latitude": 38.69889,
         "longitude": 116.09361
     },
     {
-        "name": "Shahecheng",
+        "name": "Шахеченг",
         "latitude": 36.93833,
         "longitude": 114.50583
     },
     {
-        "name": "Shanhaiguan",
+        "name": "Шаньхайгуань",
         "latitude": 40.0025,
         "longitude": 119.74889
     },
     {
-        "name": "Shijiazhuang",
+        "name": "Шицзячжуан",
         "latitude": 38.04139,
         "longitude": 114.47861
     },
     {
-        "name": "Shijiazhuang Shi",
+        "name": "Шицзячжуан Ши",
         "latitude": 38.04,
         "longitude": 114.47
     },
     {
-        "name": "Songling",
+        "name": "Сунлинг",
         "latitude": 40.29303,
         "longitude": 118.26908
     },
     {
-        "name": "Tangjiazhuang",
+        "name": "Танцзячжуан",
         "latitude": 39.74326,
         "longitude": 118.45099
     },
     {
-        "name": "Tangshan",
+        "name": "Таншань",
         "latitude": 39.63333,
         "longitude": 118.18333
     },
     {
-        "name": "Tangshan Shi",
+        "name": "Таншань Ши",
         "latitude": 39.63,
         "longitude": 118.18
     },
     {
-        "name": "Tianchang",
+        "name": "Тяньчан",
         "latitude": 37.99806,
         "longitude": 114.01556
     },
     {
-        "name": "Xingtai",
+        "name": "Синтай",
         "latitude": 37.06306,
         "longitude": 114.49417
     },
     {
-        "name": "Xinji",
+        "name": "Синьцзи",
         "latitude": 37.90278,
         "longitude": 115.20361
     },
     {
-        "name": "Zhangjiakou",
+        "name": "Чжанцзякоу",
         "latitude": 40.81,
         "longitude": 114.87944
     },
     {
-        "name": "Zhangjiakou Shi",
+        "name": "Чжанцзякоу Ши",
         "latitude": 40.83333,
         "longitude": 114.93333
     },
     {
-        "name": "Zhangjiakou Shi Xuanhua Qu",
+        "name": "Чжанцзякоу Ши Сюаньхуа Цюй",
         "latitude": 40.61028,
         "longitude": 115.04472
     },
     {
-        "name": "Zhaogezhuang",
+        "name": "Чжаогэчжуан",
         "latitude": 39.76538,
         "longitude": 118.41191
     },
     {
-        "name": "Zunhua",
+        "name": "Цзуньхуа",
         "latitude": 40.17917,
         "longitude": 117.95861
     },
     {
-        "name": "Acheng",
+        "name": "Аченг",
         "latitude": 45.54545,
         "longitude": 126.97703
     },
     {
-        "name": "Anda",
+        "name": "Ты",
         "latitude": 46.40202,
         "longitude": 125.31454
     },
     {
-        "name": "Baiquan",
+        "name": "Байцюань",
         "latitude": 47.60605,
         "longitude": 126.08481
     },
     {
-        "name": "Bamiantong",
+        "name": "Бамиантонг",
         "latitude": 44.91738,
         "longitude": 130.52
     },
     {
-        "name": "Baoqing",
+        "name": "Баоцин",
         "latitude": 46.33167,
         "longitude": 132.21111
     },
     {
-        "name": "Baoshan",
+        "name": "Баошань",
         "latitude": 46.55861,
         "longitude": 131.42444
     },
     {
-        "name": "Bayan",
+        "name": "Позади",
         "latitude": 46.07556,
         "longitude": 127.3984
     },
     {
-        "name": "Bei\u2019an",
+        "name": "Бэйан",
         "latitude": 48.26667,
         "longitude": 126.6
     },
     {
-        "name": "Binzhou",
+        "name": "Биньчжоу",
         "latitude": 45.75281,
         "longitude": 127.47986
     },
     {
-        "name": "Boli",
+        "name": "Они были",
         "latitude": 45.75279,
         "longitude": 130.57211
     },
     {
-        "name": "Chaihe",
+        "name": "Чайхэ",
         "latitude": 44.7598,
         "longitude": 129.67826
     },
     {
-        "name": "Chengzihe",
+        "name": "Чэнцзихэ",
         "latitude": 45.33333,
         "longitude": 131.06667
     },
     {
-        "name": "Daqing",
+        "name": "Дацин",
         "latitude": 46.58333,
         "longitude": 125.0
     },
     {
-        "name": "Dongning",
+        "name": "Дуннин",
         "latitude": 44.06219,
         "longitude": 131.12075
     },
     {
-        "name": "Dongxing",
+        "name": "Дунсин",
         "latitude": 45.36088,
         "longitude": 130.78679
     },
     {
-        "name": "Fendou",
+        "name": "Фендо",
         "latitude": 46.64142,
         "longitude": 124.86283
     },
     {
-        "name": "Fengxiang",
+        "name": "Фэнсян",
         "latitude": 47.57549,
         "longitude": 130.82306
     },
     {
-        "name": "Fujin",
+        "name": "Фуджин",
         "latitude": 47.26,
         "longitude": 132.03222
     },
     {
-        "name": "Fuli",
+        "name": "Перевернуть",
         "latitude": 46.72167,
         "longitude": 131.13944
     },
     {
-        "name": "Fuyu",
+        "name": "Фую",
         "latitude": 47.79756,
         "longitude": 124.45731
     },
     {
-        "name": "Fuyuan",
+        "name": "Фуюань",
         "latitude": 48.36306,
         "longitude": 134.28917
     },
     {
-        "name": "Gannan",
+        "name": "Ганьнан",
         "latitude": 47.91472,
         "longitude": 123.50306
     },
     {
-        "name": "Hailin",
+        "name": "Хайлин",
         "latitude": 44.57149,
         "longitude": 129.38539
     },
     {
-        "name": "Hailun",
+        "name": "Хайлун",
         "latitude": 47.4565,
         "longitude": 126.95368
     },
     {
-        "name": "Harbin",
+        "name": "Харбин",
         "latitude": 45.75,
         "longitude": 126.65
     },
     {
-        "name": "Hegang",
+        "name": "Хеган",
         "latitude": 47.35118,
         "longitude": 130.30012
     },
     {
-        "name": "Heihe",
+        "name": "Улей",
         "latitude": 50.24413,
         "longitude": 127.49016
     },
     {
-        "name": "Honggang",
+        "name": "Хунган",
         "latitude": 46.40124,
         "longitude": 124.88322
     },
     {
-        "name": "Huanan",
+        "name": "Хуанань",
         "latitude": 46.2207,
         "longitude": 130.525
     },
     {
-        "name": "Hulan",
+        "name": "Улан",
         "latitude": 45.98333,
         "longitude": 126.6
     },
     {
-        "name": "Hulan Ergi",
+        "name": "Хулан Эрги",
         "latitude": 47.20417,
         "longitude": 123.63333
     },
     {
-        "name": "Jiamusi",
+        "name": "Цзямусы",
         "latitude": 46.79927,
         "longitude": 130.31633
     },
     {
-        "name": "Jidong",
+        "name": "Цзидун",
         "latitude": 45.21667,
         "longitude": 131.08333
     },
     {
-        "name": "Jixi",
+        "name": "Цзиси",
         "latitude": 45.30109,
         "longitude": 130.95718
     },
     {
-        "name": "Langxiang",
+        "name": "Лансян",
         "latitude": 46.94985,
         "longitude": 128.86849
     },
     {
-        "name": "Lanxi",
+        "name": "Ланьси",
         "latitude": 46.25785,
         "longitude": 126.28269
     },
     {
-        "name": "Lianhe",
+        "name": "Ляньхэ",
         "latitude": 47.13333,
         "longitude": 129.27426
     },
     {
-        "name": "Lingdong",
+        "name": "Линдун",
         "latitude": 46.56694,
         "longitude": 131.14528
     },
     {
-        "name": "Linkou",
+        "name": "По строке",
         "latitude": 45.28606,
         "longitude": 130.26151
     },
     {
-        "name": "Longfeng",
+        "name": "Лунфэн",
         "latitude": 46.53168,
         "longitude": 125.1038
     },
     {
-        "name": "Longjiang",
+        "name": "Лунцзян",
         "latitude": 47.33072,
         "longitude": 123.17816
     },
     {
-        "name": "Mingshui",
+        "name": "Миншуй",
         "latitude": 47.1815,
         "longitude": 125.90027
     },
     {
-        "name": "Mishan",
+        "name": "Миссионер",
         "latitude": 45.55,
         "longitude": 131.88333
     },
     {
-        "name": "Mudanjiang",
+        "name": "Муданьцзян",
         "latitude": 44.58333,
         "longitude": 129.6
     },
     {
-        "name": "Nehe",
+        "name": "Старый",
         "latitude": 48.48333,
         "longitude": 124.83333
     },
     {
-        "name": "Nenjiang",
+        "name": "Нэньцзян",
         "latitude": 49.17414,
         "longitude": 125.21774
     },
     {
-        "name": "Nianzishan",
+        "name": "Позвольте мне начать",
         "latitude": 47.51667,
         "longitude": 122.88333
     },
     {
-        "name": "Ning\u2019an",
+        "name": "Нинань",
         "latitude": 44.34395,
         "longitude": 129.46556
     },
     {
-        "name": "Qinggang",
+        "name": "Цинган",
         "latitude": 46.68469,
         "longitude": 126.10595
     },
     {
-        "name": "Qiqihar",
+        "name": "Цицикар",
         "latitude": 47.34088,
         "longitude": 123.96045
     },
     {
-        "name": "Shangzhi",
+        "name": "Шанчжи",
         "latitude": 45.21406,
         "longitude": 127.97426
     },
     {
-        "name": "Shanhecun",
+        "name": "Шанхецунь",
         "latitude": 45.71131,
         "longitude": 128.58029
     },
     {
-        "name": "Shuangcheng",
+        "name": "Шуанчэн",
         "latitude": 45.35,
         "longitude": 126.28333
     },
     {
-        "name": "Shuangyashan",
+        "name": "Шуангьяшань",
         "latitude": 46.63611,
         "longitude": 131.15389
     },
     {
-        "name": "Suifenhe",
+        "name": "Суйфэньхэ",
         "latitude": 44.39982,
         "longitude": 131.14775
     },
     {
-        "name": "Suihua",
+        "name": "Суйхуа",
         "latitude": 46.63954,
         "longitude": 126.99508
     },
     {
-        "name": "Suileng",
+        "name": "Суйленг",
         "latitude": 47.24805,
         "longitude": 127.09535
     },
     {
-        "name": "Tahe",
+        "name": "Тахе",
         "latitude": 52.33333,
         "longitude": 124.73333
     },
     {
-        "name": "Taihecun",
+        "name": "Тайхекунь",
         "latitude": 45.76347,
         "longitude": 130.85048
     },
     {
-        "name": "Taikang",
+        "name": "Тайкан",
         "latitude": 46.86135,
         "longitude": 124.442
     },
     {
-        "name": "Tailai",
+        "name": "Тайлай",
         "latitude": 46.38909,
         "longitude": 123.41371
     },
     {
-        "name": "Tieli",
+        "name": "Тиели",
         "latitude": 46.98043,
         "longitude": 128.04497
     },
     {
-        "name": "Wangkui",
+        "name": "Ванкуй",
         "latitude": 46.83283,
         "longitude": 126.47768
     },
     {
-        "name": "Wuchang",
+        "name": "Учан",
         "latitude": 44.91428,
         "longitude": 127.15001
     },
     {
-        "name": "Xinqing",
+        "name": "Синьцин",
         "latitude": 48.28701,
         "longitude": 129.52337
     },
     {
-        "name": "Yichun",
+        "name": "Ичунь",
         "latitude": 47.72143,
         "longitude": 128.87529
     },
     {
-        "name": "Yilan",
+        "name": "Змея",
         "latitude": 46.31618,
         "longitude": 129.55455
     },
     {
-        "name": "Youhao",
+        "name": "Юхао",
         "latitude": 47.85306,
         "longitude": 128.83565
     },
     {
-        "name": "Zhaodong",
+        "name": "Чжаодун",
         "latitude": 46.06771,
         "longitude": 125.98263
     },
     {
-        "name": "Zhaoyuan",
+        "name": "Чжаоюань",
         "latitude": 45.5,
         "longitude": 125.13333
     },
     {
-        "name": "Zhaozhou",
+        "name": "Чжаочжоу",
         "latitude": 45.68333,
         "longitude": 125.31667
     },
     {
-        "name": "Anyang",
+        "name": "Вот и все",
         "latitude": 36.096,
         "longitude": 114.38278
     },
     {
-        "name": "Anyang Shi",
+        "name": "Аньян Ши",
         "latitude": 36.13639,
         "longitude": 114.33667
     },
     {
-        "name": "Binhe",
+        "name": "Биньхэ",
         "latitude": 32.68833,
         "longitude": 112.8275
     },
     {
-        "name": "Chengguan",
+        "name": "Чэнгуань",
         "latitude": 35.45861,
         "longitude": 113.79778
     },
     {
-        "name": "Chengjiao",
+        "name": "Чэнцзяо",
         "latitude": 35.40495,
         "longitude": 114.06043
     },
     {
-        "name": "Daokou",
+        "name": "Даокоу",
         "latitude": 35.56389,
         "longitude": 114.50583
     },
     {
-        "name": "Dingcheng",
+        "name": "Динчэн",
         "latitude": 32.12722,
         "longitude": 115.03944
     },
     {
-        "name": "Hancheng",
+        "name": "Ханьчэн",
         "latitude": 32.51861,
         "longitude": 112.35222
     },
     {
-        "name": "Hebi",
+        "name": "Хеби",
         "latitude": 35.89917,
         "longitude": 114.1925
     },
     {
-        "name": "Huaidian",
+        "name": "Хуайдянь",
         "latitude": 33.43333,
         "longitude": 115.03333
     },
     {
-        "name": "Huazhou",
+        "name": "Хуачжоу",
         "latitude": 32.68222,
         "longitude": 112.08194
     },
     {
-        "name": "Huichang",
+        "name": "Хуэйчан",
         "latitude": 34.90376,
         "longitude": 112.78426
     },
     {
-        "name": "Jianshe",
+        "name": "Цзяньше",
         "latitude": 34.2175,
         "longitude": 113.76889
     },
     {
-        "name": "Jiaozuo",
+        "name": "Цзяоцзо",
         "latitude": 35.23972,
         "longitude": 113.23306
     },
     {
-        "name": "Jishui",
+        "name": "Цзишуй",
         "latitude": 33.73333,
         "longitude": 115.4
     },
     {
-        "name": "Jiyuan",
+        "name": "Цзиюань",
         "latitude": 35.09,
         "longitude": 112.58
     },
     {
-        "name": "Kaifeng",
+        "name": "Кайфэн",
         "latitude": 34.7986,
         "longitude": 114.30742
     },
     {
-        "name": "Kaiyuan",
+        "name": "Кайюань",
         "latitude": 36.06813,
         "longitude": 113.82209
     },
     {
-        "name": "Lingbao Chengguanzhen",
+        "name": "Линбао Чэнгуаньчжэнь",
         "latitude": 34.51972,
         "longitude": 110.86444
     },
     {
-        "name": "Luohe",
+        "name": "Луохэ",
         "latitude": 33.56394,
         "longitude": 114.04272
     },
     {
-        "name": "Luohe Shi",
+        "name": "Луохэ Ши",
         "latitude": 33.68806,
         "longitude": 113.91306
     },
     {
-        "name": "Luoyang",
+        "name": "Лоян",
         "latitude": 34.68361,
         "longitude": 112.45361
     },
     {
-        "name": "Minggang",
+        "name": "Минган",
         "latitude": 32.45861,
         "longitude": 114.04861
     },
     {
-        "name": "Nanyang",
+        "name": "Наньян",
         "latitude": 32.99472,
         "longitude": 112.53278
     },
     {
-        "name": "Pingdingshan",
+        "name": "Пиндиншань",
         "latitude": 33.73847,
         "longitude": 113.30119
     },
     {
-        "name": "Puyang Chengguanzhen",
+        "name": "Пуян Чэнгуаньчжэнь",
         "latitude": 35.70506,
         "longitude": 115.01409
     },
     {
-        "name": "Puyang Shi",
+        "name": "Пуян Ши",
         "latitude": 35.81333,
         "longitude": 115.155
     },
     {
-        "name": "Qingping",
+        "name": "Цинпин",
         "latitude": 34.53656,
         "longitude": 113.37526
     },
     {
-        "name": "Runing",
+        "name": "Бег",
         "latitude": 33.00111,
         "longitude": 114.35417
     },
     {
-        "name": "Ruzhou",
+        "name": "Ручжоу",
         "latitude": 34.16167,
         "longitude": 112.82972
     },
     {
-        "name": "Shangqiu",
+        "name": "Шанцю",
         "latitude": 34.45,
         "longitude": 115.65
     },
     {
-        "name": "Songyang",
+        "name": "Сунъян",
         "latitude": 34.45528,
         "longitude": 113.02806
     },
     {
-        "name": "Suohe",
+        "name": "Суохэ",
         "latitude": 34.78722,
         "longitude": 113.35806
     },
     {
-        "name": "Tanbei",
+        "name": "Танбэй",
         "latitude": 35.08806,
         "longitude": 112.93944
     },
     {
-        "name": "Wacheng",
+        "name": "Ваченг",
         "latitude": 33.78333,
         "longitude": 114.51667
     },
     {
-        "name": "Xiangcheng Chengguanzhen",
+        "name": "Сянчэн Чэнгуаньчжэнь",
         "latitude": 33.84703,
         "longitude": 113.4778
     },
     {
-        "name": "Xincheng",
+        "name": "Синьчэн",
         "latitude": 33.63333,
         "longitude": 115.18333
     },
     {
-        "name": "Xinhualu",
+        "name": "Синьхуалу",
         "latitude": 34.39633,
         "longitude": 113.72466
     },
     {
-        "name": "Xinxiang",
+        "name": "Синьсян",
         "latitude": 35.19033,
         "longitude": 113.80151
     },
     {
-        "name": "Xinxiang Shi",
+        "name": "Синьсян Ши",
         "latitude": 35.30861,
         "longitude": 114.05111
     },
     {
-        "name": "Xinyang",
+        "name": "Синьян",
         "latitude": 32.12278,
         "longitude": 114.06556
     },
     {
-        "name": "Xixiang",
+        "name": "Сисян",
         "latitude": 35.16278,
         "longitude": 112.865
     },
     {
-        "name": "Xuchang",
+        "name": "Сюйчан",
         "latitude": 34.03189,
         "longitude": 113.86299
     },
     {
-        "name": "Xuchang Shi",
+        "name": "Сюйчан Ши",
         "latitude": 34.14778,
         "longitude": 113.71472
     },
     {
-        "name": "Yakou",
+        "name": "Якоу",
         "latitude": 33.29649,
         "longitude": 113.52351
     },
     {
-        "name": "Yanshi Chengguanzhen",
+        "name": "Янши Чэнгуаньчжэнь",
         "latitude": 34.71601,
         "longitude": 112.79568
     },
     {
-        "name": "Yigou",
+        "name": "Йиго",
         "latitude": 35.81139,
         "longitude": 114.31667
     },
     {
-        "name": "Yima",
+        "name": "Сделай это",
         "latitude": 34.73806,
         "longitude": 111.88389
     },
     {
-        "name": "Yingchuan",
+        "name": "Инчуань",
         "latitude": 34.16278,
         "longitude": 113.46389
     },
     {
-        "name": "Yunyang",
+        "name": "Юньян",
         "latitude": 33.44743,
         "longitude": 112.71422
     },
     {
-        "name": "Zhengzhou",
+        "name": "Чжэнчжоу",
         "latitude": 34.75778,
         "longitude": 113.64861
     },
     {
-        "name": "Zhoukou",
+        "name": "Чжоукоу",
         "latitude": 33.63333,
         "longitude": 114.63333
     },
     {
-        "name": "Zhumadian",
+        "name": "Жумадянь",
         "latitude": 32.97944,
         "longitude": 114.02944
     },
     {
-        "name": "Zhumadian Shi",
+        "name": "Жумадянь Ши",
         "latitude": 32.99417,
         "longitude": 114.06167
     },
     {
-        "name": "Zijinglu",
+        "name": "Цзыджинглу",
         "latitude": 34.76,
         "longitude": 112.97139
     },
     {
-        "name": "Anlu",
+        "name": "Анлу",
         "latitude": 31.2575,
         "longitude": 113.67833
     },
     {
-        "name": "Buhe",
+        "name": "Блохи",
         "latitude": 30.28757,
         "longitude": 112.22979
     },
     {
-        "name": "Caidian",
+        "name": "Кайдиан",
         "latitude": 30.58333,
         "longitude": 114.03333
     },
     {
-        "name": "Caohe",
+        "name": "Цаохэ",
         "latitude": 30.2297,
         "longitude": 115.43346
     },
     {
-        "name": "Chengzhong",
+        "name": "Чэнчжун",
         "latitude": 30.94454,
         "longitude": 113.55284
     },
     {
-        "name": "Danjiangkou",
+        "name": "Даньцзянкоу",
         "latitude": 32.54278,
         "longitude": 111.50861
     },
     {
-        "name": "Daye",
+        "name": "Дайе",
         "latitude": 30.08333,
         "longitude": 114.95
     },
     {
-        "name": "Duobao",
+        "name": "Дуобао",
         "latitude": 30.67,
         "longitude": 112.68952
     },
     {
-        "name": "Enshi",
+        "name": "Энши",
         "latitude": 30.3,
         "longitude": 109.48333
     },
     {
-        "name": "Enshi Tujiazu Miaozu Zizhizhou",
+        "name": "Энши Туцзязу Мяозу Цзычжичжоу",
         "latitude": 30.1981,
         "longitude": 109.67555
     },
     {
-        "name": "Ezhou",
+        "name": "Эчжоу",
         "latitude": 30.4,
         "longitude": 114.83333
     },
     {
-        "name": "Ezhou Shi",
+        "name": "Эчжоу Ши",
         "latitude": 30.48832,
         "longitude": 114.77979
     },
     {
-        "name": "Fengkou",
+        "name": "Фэнкоу",
         "latitude": 30.08268,
         "longitude": 113.33346
     },
     {
-        "name": "Guangshui",
+        "name": "Гуаншуй",
         "latitude": 31.6199,
         "longitude": 113.9978
     },
     {
-        "name": "Gucheng Chengguanzhen",
+        "name": "Гучэн Чэнгуаньчжэнь",
         "latitude": 32.26604,
         "longitude": 111.63476
     },
     {
-        "name": "Hanchuan",
+        "name": "Ханьчуань",
         "latitude": 30.65,
         "longitude": 113.76667
     },
     {
-        "name": "Huanggang",
+        "name": "Хуанган",
         "latitude": 30.45143,
         "longitude": 114.87035
     },
     {
-        "name": "Huangmei",
+        "name": "Хуанмэй",
         "latitude": 30.19235,
         "longitude": 116.02496
     },
     {
-        "name": "Huangpi",
+        "name": "Хуанпи",
         "latitude": 30.88453,
         "longitude": 114.37789
     },
     {
-        "name": "Huangshi",
+        "name": "Хуанши",
         "latitude": 30.24706,
         "longitude": 115.04814
     },
     {
-        "name": "Huangzhou",
+        "name": "Хуанчжоу",
         "latitude": 30.45,
         "longitude": 114.8
     },
     {
-        "name": "Jingling",
+        "name": "звон",
         "latitude": 30.65,
         "longitude": 113.1
     },
     {
-        "name": "Jingmen",
+        "name": "Цзинмэнь",
         "latitude": 31.03361,
         "longitude": 112.20472
     },
     {
-        "name": "Jingmen Shi",
+        "name": "Цзинмэньши",
         "latitude": 31.11244,
         "longitude": 112.6431
     },
     {
-        "name": "Jingzhou",
+        "name": "Цзинчжоу",
         "latitude": 30.35028,
         "longitude": 112.19028
     },
     {
-        "name": "Laohekou",
+        "name": "Лаохекоу",
         "latitude": 32.38583,
         "longitude": 111.66778
     },
     {
-        "name": "Lichuan",
+        "name": "Личуань",
         "latitude": 30.3,
         "longitude": 108.85
     },
     {
-        "name": "Macheng",
+        "name": "Маченг",
         "latitude": 31.18013,
         "longitude": 115.02213
     },
     {
-        "name": "Nanzhang Chengguanzhen",
+        "name": "Наньчжан Чэнгуаньчжэнь",
         "latitude": 31.78394,
         "longitude": 111.82752
     },
     {
-        "name": "Puqi",
+        "name": "Пуки",
         "latitude": 29.71667,
         "longitude": 113.88333
     },
     {
-        "name": "Qianjiang",
+        "name": "Цяньцзян",
         "latitude": 30.421,
         "longitude": 112.8919
     },
     {
-        "name": "Qingquan",
+        "name": "Цинцюань",
         "latitude": 30.45113,
         "longitude": 115.25593
     },
     {
-        "name": "Shashi",
+        "name": "Шаши",
         "latitude": 30.30722,
         "longitude": 112.24472
     },
     {
-        "name": "Shennongjia",
+        "name": "Шэннунцзя",
         "latitude": 31.58339,
         "longitude": 110.4972
     },
     {
-        "name": "Shiyan",
+        "name": "Шиян",
         "latitude": 32.6475,
         "longitude": 110.77806
     },
     {
-        "name": "Suizhou",
+        "name": "Суйчжоу",
         "latitude": 31.71111,
         "longitude": 113.36306
     },
     {
-        "name": "Wuhan",
+        "name": "Ухань",
         "latitude": 30.58333,
         "longitude": 114.26667
     },
     {
-        "name": "Wuxue",
+        "name": "Усюэ",
         "latitude": 29.85058,
         "longitude": 115.5525
     },
     {
-        "name": "Xiangyang",
+        "name": "Сянъян",
         "latitude": 32.0422,
         "longitude": 112.14479
     },
     {
-        "name": "Xianning",
+        "name": "Сяньнин",
         "latitude": 29.84347,
         "longitude": 114.32201
     },
     {
-        "name": "Xianning Prefecture",
+        "name": "Префектура Сяньнин",
         "latitude": 29.66609,
         "longitude": 114.26389
     },
     {
-        "name": "Xiantao",
+        "name": "Сяньтао",
         "latitude": 30.3708,
         "longitude": 113.44294
     },
     {
-        "name": "Xiaogan",
+        "name": "Сяогань",
         "latitude": 30.92689,
         "longitude": 113.92221
     },
     {
-        "name": "Xihe",
+        "name": "Сихэ",
         "latitude": 31.68635,
         "longitude": 113.46585
     },
     {
-        "name": "Xindi",
+        "name": "Зинди",
         "latitude": 29.81667,
         "longitude": 113.46667
     },
     {
-        "name": "Xinshi",
+        "name": "Синьши",
         "latitude": 31.04704,
         "longitude": 113.14098
     },
     {
-        "name": "Xinzhou",
+        "name": "Синьчжоу",
         "latitude": 30.86667,
         "longitude": 114.8
     },
     {
-        "name": "Xiulin",
+        "name": "Сюлин",
         "latitude": 29.71667,
         "longitude": 112.4
     },
     {
-        "name": "Yichang",
+        "name": "Ичан",
         "latitude": 30.71444,
         "longitude": 111.28472
     },
     {
-        "name": "Yicheng",
+        "name": "Ичэн",
         "latitude": 31.70472,
         "longitude": 112.25611
     },
     {
-        "name": "Yunmeng Chengguanzhen",
+        "name": "Юньмэн Чэнгуаньчжэнь",
         "latitude": 31.06251,
         "longitude": 113.76545
     },
     {
-        "name": "Zaoyang",
+        "name": "Цзаоян",
         "latitude": 32.12722,
         "longitude": 112.75417
     },
     {
-        "name": "Zhicheng",
+        "name": "Чжичэн",
         "latitude": 30.29556,
         "longitude": 111.50472
     },
     {
-        "name": "Zhijiang",
+        "name": "Чжицзян",
         "latitude": 30.42139,
         "longitude": 111.75333
     },
     {
-        "name": "Zhongxiang",
+        "name": "Чжунсян",
         "latitude": 31.16611,
         "longitude": 112.58306
     },
     {
-        "name": "Anjiang",
+        "name": "Анцзян",
         "latitude": 27.31944,
         "longitude": 110.10306
     },
     {
-        "name": "Anping",
+        "name": "Аньпин",
         "latitude": 27.86639,
         "longitude": 110.11611
     },
     {
-        "name": "Anxiang",
+        "name": "Аньсян",
         "latitude": 29.4,
         "longitude": 112.15
     },
     {
-        "name": "Baisha",
+        "name": "Байша",
         "latitude": 26.52222,
         "longitude": 110.93111
     },
     {
-        "name": "Biyong",
+        "name": "Бийонг",
         "latitude": 27.18722,
         "longitude": 109.51
     },
     {
-        "name": "Bojia",
+        "name": "Боджиа",
         "latitude": 26.46722,
         "longitude": 111.96806
     },
     {
-        "name": "Boyang",
+        "name": "Боян",
         "latitude": 26.21167,
         "longitude": 109.52056
     },
     {
-        "name": "Bozhou",
+        "name": "Бочжоу",
         "latitude": 27.37889,
         "longitude": 109.27778
     },
     {
-        "name": "Changde",
+        "name": "Чандэ",
         "latitude": 29.04638,
         "longitude": 111.6783
     },
     {
-        "name": "Changsha",
+        "name": "Чанша",
         "latitude": 28.19874,
         "longitude": 112.97087
     },
     {
-        "name": "Changsha Shi",
+        "name": "Чанша Ши",
         "latitude": 28.14582,
         "longitude": 113.22967
     },
     {
-        "name": "Chatian",
+        "name": "Чатянь",
         "latitude": 27.80222,
         "longitude": 109.37361
     },
     {
-        "name": "Chenzhou",
+        "name": "Чэньчжоу",
         "latitude": 25.8,
         "longitude": 113.03333
     },
     {
-        "name": "Dabaozi",
+        "name": "Дабаози",
         "latitude": 26.69556,
         "longitude": 109.44778
     },
     {
-        "name": "Dehang",
+        "name": "Дехан",
         "latitude": 28.3071,
         "longitude": 109.79668
     },
     {
-        "name": "Dengjiapu",
+        "name": "Дэнцзяпу",
         "latitude": 26.90444,
         "longitude": 110.92
     },
     {
-        "name": "Dengyuantai",
+        "name": "Денгюаньтай",
         "latitude": 26.68806,
         "longitude": 110.54222
     },
     {
-        "name": "Dongshan Dongzuxiang",
+        "name": "Дуншань Дунцзусян",
         "latitude": 26.595,
         "longitude": 109.89667
     },
     {
-        "name": "Fenghuang",
+        "name": "Фэнхуан",
         "latitude": 27.93557,
         "longitude": 109.59961
     },
     {
-        "name": "Gangdong",
+        "name": "Кандон",
         "latitude": 27.91694,
         "longitude": 110.83417
     },
     {
-        "name": "Gaoqiao",
+        "name": "Гаоцяо",
         "latitude": 26.63361,
         "longitude": 110.9
     },
     {
-        "name": "Gaoyi",
+        "name": "Гаойи",
         "latitude": 26.95944,
         "longitude": 110.01556
     },
     {
-        "name": "Guankou",
+        "name": "Гуанькоу",
         "latitude": 28.15861,
         "longitude": 113.62709
     },
     {
-        "name": "Hengbanqiao",
+        "name": "Хэнбаньцяо",
         "latitude": 27.17167,
         "longitude": 110.86528
     },
     {
-        "name": "Hengyang",
+        "name": "Хэнъян",
         "latitude": 26.88946,
         "longitude": 112.61888
     },
     {
-        "name": "Hexiangqiao",
+        "name": "Хэсянцяо",
         "latitude": 27.22028,
         "longitude": 110.96333
     },
     {
-        "name": "Hongjiang",
+        "name": "Хунцзян",
         "latitude": 27.11,
         "longitude": 109.99556
     },
     {
-        "name": "Hongqiao",
+        "name": "Хунцяо",
         "latitude": 26.76837,
         "longitude": 112.10814
     },
     {
-        "name": "Huaihua",
+        "name": "Хуайхуа",
         "latitude": 27.56337,
         "longitude": 110.00404
     },
     {
-        "name": "Huangjinjing",
+        "name": "Хуанцзинцзин",
         "latitude": 27.58563,
         "longitude": 110.89133
     },
     {
-        "name": "Huanglong",
+        "name": "Хуанлун",
         "latitude": 26.54139,
         "longitude": 110.93444
     },
     {
-        "name": "Huangmaoyuan",
+        "name": "Хуанмаоюань",
         "latitude": 27.40417,
         "longitude": 110.47472
     },
     {
-        "name": "Huangqiao",
+        "name": "Хуанцяо",
         "latitude": 27.02194,
         "longitude": 110.84056
     },
     {
-        "name": "Huangtukuang",
+        "name": "Хуангтукуан",
         "latitude": 26.91528,
         "longitude": 110.40778
     },
     {
-        "name": "Huangxikou",
+        "name": "Хуансикоу",
         "latitude": 27.71889,
         "longitude": 110.385
     },
     {
-        "name": "Huaqiao",
+        "name": "Хуацяо",
         "latitude": 27.70806,
         "longitude": 110.14194
     },
     {
-        "name": "Huayuan",
+        "name": "Хуаюань",
         "latitude": 26.91361,
         "longitude": 110.53583
     },
     {
-        "name": "Huomachong",
+        "name": "Хуомачонг",
         "latitude": 27.88333,
         "longitude": 110.23
     },
     {
-        "name": "Jiangfang",
+        "name": "Цзянфан",
         "latitude": 26.50158,
         "longitude": 110.3464
     },
     {
-        "name": "Jiangkouxu",
+        "name": "Цзянкоусу",
         "latitude": 27.69417,
         "longitude": 109.73583
     },
     {
-        "name": "Jiangshi",
+        "name": "Цзянши",
         "latitude": 27.12333,
         "longitude": 109.73778
     },
     {
-        "name": "Jinhe",
+        "name": "Джинхэ",
         "latitude": 27.71694,
         "longitude": 109.60472
     },
     {
-        "name": "Jinshi",
+        "name": "Пол",
         "latitude": 29.60487,
         "longitude": 111.87012
     },
     {
-        "name": "Jinshiqiao",
+        "name": "Цзиньшицяо",
         "latitude": 27.58425,
         "longitude": 110.93634
     },
     {
-        "name": "Lanli",
+        "name": "Ланли",
         "latitude": 27.88694,
         "longitude": 109.91861
     },
     {
-        "name": "Leiyang",
+        "name": "Лэйян",
         "latitude": 26.40238,
         "longitude": 112.85908
     },
     {
-        "name": "Lengshuijiang",
+        "name": "Леншуйцзян",
         "latitude": 27.68806,
         "longitude": 111.42944
     },
     {
-        "name": "Lengshuitan",
+        "name": "Ленгшуйтан",
         "latitude": 26.4111,
         "longitude": 111.59559
     },
     {
-        "name": "Liangyaping",
+        "name": "Лянъяпин",
         "latitude": 27.71833,
         "longitude": 110.67083
     },
     {
-        "name": "Lianyuan",
+        "name": "Ляньюань",
         "latitude": 27.68833,
         "longitude": 111.66417
     },
     {
-        "name": "Linkou",
+        "name": "По строке",
         "latitude": 26.24806,
         "longitude": 109.86361
     },
     {
-        "name": "Liuduzhai",
+        "name": "Людужай",
         "latitude": 27.36611,
         "longitude": 110.935
     },
     {
-        "name": "Lixiqiao",
+        "name": "Лисицяо",
         "latitude": 26.79472,
         "longitude": 110.41806
     },
     {
-        "name": "Longtan",
+        "name": "Много времени",
         "latitude": 27.41139,
         "longitude": 110.53639
     },
     {
-        "name": "Longtou\u2019an",
+        "name": "Лунтуан",
         "latitude": 27.67028,
         "longitude": 110.33611
     },
     {
-        "name": "Loudi",
+        "name": "Лоуди",
         "latitude": 27.73444,
         "longitude": 111.99444
     },
     {
-        "name": "Luojiu",
+        "name": "Лоцзю",
         "latitude": 27.51583,
         "longitude": 109.80889
     },
     {
-        "name": "Luyang",
+        "name": "Луанг",
         "latitude": 27.62389,
         "longitude": 110.09889
     },
     {
-        "name": "Ma\u2019an",
+        "name": "Маан",
         "latitude": 26.9775,
         "longitude": 110.72111
     },
     {
-        "name": "Malin",
+        "name": "Малин",
         "latitude": 26.455,
         "longitude": 110.64167
     },
     {
-        "name": "Maoping",
+        "name": "Маопин",
         "latitude": 26.51972,
         "longitude": 110.41194
     },
     {
-        "name": "Nanmuping",
+        "name": "Наньмупин",
         "latitude": 27.31111,
         "longitude": 109.67861
     },
     {
-        "name": "Nanzhou",
+        "name": "Наньчжоу",
         "latitude": 29.35955,
         "longitude": 112.40243
     },
     {
-        "name": "Prefecture of Chenzhou",
+        "name": "Префектура Чэньчжоу",
         "latitude": 25.84347,
         "longitude": 113.05378
     },
     {
-        "name": "Pukou",
+        "name": "Назад",
         "latitude": 26.52222,
         "longitude": 109.55583
     },
     {
-        "name": "Puzi",
+        "name": "Пузи",
         "latitude": 26.98639,
         "longitude": 109.77639
     },
     {
-        "name": "Qiancheng",
+        "name": "Цяньчэн",
         "latitude": 27.18501,
         "longitude": 109.76543
     },
     {
-        "name": "Qianzhou",
+        "name": "Цяньчжоу",
         "latitude": 28.31925,
         "longitude": 109.73346
     },
     {
-        "name": "Qiaojiang",
+        "name": "Цяоцзян",
         "latitude": 27.93722,
         "longitude": 110.67639
     },
     {
-        "name": "Qingjiangqiao",
+        "name": "Цинцзянцяо",
         "latitude": 26.60444,
         "longitude": 110.98528
     },
     {
-        "name": "Qingxi",
+        "name": "Цинси",
         "latitude": 26.43114,
         "longitude": 110.35489
     },
     {
-        "name": "Qionghu",
+        "name": "Цюнху",
         "latitude": 28.84061,
         "longitude": 112.37399
     },
     {
-        "name": "Ruoshui",
+        "name": "Руошуй",
         "latitude": 27.00194,
         "longitude": 109.96667
     },
     {
-        "name": "Shangmei",
+        "name": "Шанмей",
         "latitude": 27.74278,
         "longitude": 111.29556
     },
     {
-        "name": "Shanmen",
+        "name": "Шаньмэнь",
         "latitude": 27.225,
         "longitude": 110.69278
     },
     {
-        "name": "Shijiang",
+        "name": "Шицзян",
         "latitude": 27.08194,
         "longitude": 110.79333
     },
     {
-        "name": "Shuangjiang",
+        "name": "Шуанцзян",
         "latitude": 26.15467,
         "longitude": 109.7138
     },
     {
-        "name": "Shuangxi",
+        "name": "Шуанси",
         "latitude": 27.22833,
         "longitude": 109.85583
     },
     {
-        "name": "Shuiche",
+        "name": "Шуйче",
         "latitude": 27.68694,
         "longitude": 110.99972
     },
     {
-        "name": "Shuidatian",
+        "name": "Шуйдатянь",
         "latitude": 27.85222,
         "longitude": 109.60472
     },
     {
-        "name": "Simenqian",
+        "name": "Сименкян",
         "latitude": 27.48722,
         "longitude": 110.88611
     },
     {
-        "name": "Tangjiafang",
+        "name": "Танцзяфан",
         "latitude": 26.84,
         "longitude": 110.36472
     },
     {
-        "name": "Tanwan",
+        "name": "Танван",
         "latitude": 27.96639,
         "longitude": 110.15028
     },
     {
-        "name": "Tongwan",
+        "name": "Тунвань",
         "latitude": 27.58111,
         "longitude": 110.27722
     },
     {
-        "name": "Tuokou",
+        "name": "Туоко",
         "latitude": 27.12472,
         "longitude": 109.62472
     },
     {
-        "name": "Wantouqiao",
+        "name": "Вантоуцяо",
         "latitude": 26.84111,
         "longitude": 110.61944
     },
     {
-        "name": "Wenxing",
+        "name": "Вэньсин",
         "latitude": 28.68208,
         "longitude": 112.87864
     },
     {
-        "name": "Wulingyuan",
+        "name": "Улинъюань",
         "latitude": 29.34936,
         "longitude": 110.54407
     },
     {
-        "name": "Wuxi",
+        "name": "Уси",
         "latitude": 26.5844,
         "longitude": 111.859
     },
     {
-        "name": "Wuyang",
+        "name": "Уян",
         "latitude": 26.74278,
         "longitude": 110.32833
     },
     {
-        "name": "Xiangtan",
+        "name": "Сянтань",
         "latitude": 27.85,
         "longitude": 112.9
     },
     {
-        "name": "Xiangxi Tujiazu Miaozu Zizhizhou",
+        "name": "Сянси Туцзяцзу Мяозу Цзычжичжоу",
         "latitude": 28.70573,
         "longitude": 109.73329
     },
     {
-        "name": "Xiangxiang",
+        "name": "Сянсян",
         "latitude": 27.73333,
         "longitude": 112.53333
     },
     {
-        "name": "Xianrenwan",
+        "name": "Сяньренвань",
         "latitude": 27.75444,
         "longitude": 110.32972
     },
     {
-        "name": "Xianxi",
+        "name": "Сяньси",
         "latitude": 26.33472,
         "longitude": 109.64306
     },
     {
-        "name": "Xiaohenglong",
+        "name": "Сяохэнлун",
         "latitude": 27.605,
         "longitude": 110.51694
     },
     {
-        "name": "Xiaolongmen",
+        "name": "Сяолунмэнь",
         "latitude": 27.80194,
         "longitude": 110.16056
     },
     {
-        "name": "Xiaoshajiang",
+        "name": "Сяошацзян",
         "latitude": 27.52139,
         "longitude": 110.74806
     },
     {
-        "name": "Xishan",
+        "name": "Сишань",
         "latitude": 27.66667,
         "longitude": 113.5
     },
     {
-        "name": "Xixi",
+        "name": "пописать",
         "latitude": 27.69375,
         "longitude": 110.95333
     },
     {
-        "name": "Xiyan",
+        "name": "Семь",
         "latitude": 26.61639,
         "longitude": 110.47361
     },
     {
-        "name": "Yanmen",
+        "name": "Янмэнь",
         "latitude": 27.855,
         "longitude": 109.74028
     },
     {
-        "name": "Yaoshi",
+        "name": "Яоши",
         "latitude": 26.29306,
         "longitude": 110.78917
     },
     {
-        "name": "Yatunpu",
+        "name": "Ятунпу",
         "latitude": 26.155,
         "longitude": 109.62667
     },
     {
-        "name": "Yiyang",
+        "name": "Иян",
         "latitude": 28.58917,
         "longitude": 112.32833
     },
     {
-        "name": "Yongfeng",
+        "name": "Юнфэн",
         "latitude": 27.42829,
         "longitude": 112.18338
     },
     {
-        "name": "Yongzhou",
+        "name": "Юнчжоу",
         "latitude": 26.44014,
         "longitude": 111.6029
     },
     {
-        "name": "Yueyang",
+        "name": "Юэян",
         "latitude": 29.37455,
         "longitude": 113.09481
     },
     {
-        "name": "Yueyang Shi",
+        "name": "Юэян Ши",
         "latitude": 29.32472,
         "longitude": 113.302
     },
     {
-        "name": "Yutan",
+        "name": "земной",
         "latitude": 28.25831,
         "longitude": 112.56048
     },
     {
-        "name": "Zhaishi Miaozu Dongzuxiang",
+        "name": "Чжайши Мяозу Дунцзусян",
         "latitude": 26.50083,
         "longitude": 110.04444
     },
     {
-        "name": "Zhangjiajie",
+        "name": "Чжанцзяцзе",
         "latitude": 29.12944,
         "longitude": 110.47833
     },
     {
-        "name": "Zhongfang",
+        "name": "Чжунфан",
         "latitude": 27.41139,
         "longitude": 109.93194
     },
     {
-        "name": "Zhongzhai",
+        "name": "Чжунчжай",
         "latitude": 27.19528,
         "longitude": 109.26861
     },
     {
-        "name": "Zhushi",
+        "name": "Чжуши",
         "latitude": 27.08778,
         "longitude": 110.67694
     },
     {
-        "name": "Zhuzhou",
+        "name": "Чжучжоу",
         "latitude": 27.83333,
         "longitude": 113.15
     },
     {
-        "name": "Zhuzhou Shi",
+        "name": "Чжучжоу Ши",
         "latitude": 27.8245,
         "longitude": 113.08228
     },
     {
-        "name": "Zhuzhoujiang Miaozuxiang",
+        "name": "Чжучжоуцзян Мяозусян",
         "latitude": 26.67528,
         "longitude": 110.07194
     },
     {
-        "name": "Baotou",
+        "name": "Баотоу",
         "latitude": 40.65222,
         "longitude": 109.82222
     },
     {
-        "name": "Bayan Nur",
+        "name": "После Нура",
         "latitude": 40.74143,
         "longitude": 107.38599
     },
     {
-        "name": "Bayannur Shi",
+        "name": "Информация о Нем",
         "latitude": 41.56958,
         "longitude": 107.49485
     },
     {
-        "name": "Beichengqu",
+        "name": "Бэйчэнцюй",
         "latitude": 40.43944,
         "longitude": 113.15361
     },
     {
-        "name": "Chifeng",
+        "name": "Чифэн",
         "latitude": 42.26833,
         "longitude": 118.96361
     },
     {
-        "name": "Dongsheng",
+        "name": "Дуншэн",
         "latitude": 39.81609,
         "longitude": 109.97763
     },
     {
-        "name": "E\u2019erguna",
+        "name": "Ээргуна",
         "latitude": 50.22362,
         "longitude": 120.17092
     },
     {
-        "name": "Erenhot",
+        "name": "Эренхот",
         "latitude": 43.6475,
         "longitude": 111.97667
     },
     {
-        "name": "Genhe",
+        "name": "Генхэ",
         "latitude": 50.78333,
         "longitude": 121.51667
     },
     {
-        "name": "Hailar",
+        "name": "Менструация",
         "latitude": 49.2,
         "longitude": 119.7
     },
     {
-        "name": "Hohhot",
+        "name": "Преследовать",
         "latitude": 40.81056,
         "longitude": 111.65222
     },
     {
-        "name": "Hulunbuir Region",
+        "name": "Хулунбуирский регион",
         "latitude": 49.70989,
         "longitude": 121.72176
     },
     {
-        "name": "Jalai Nur",
+        "name": "Джалай Нур",
         "latitude": 49.45,
         "longitude": 117.7
     },
     {
-        "name": "Jiagedaqi",
+        "name": "Цзягедаки",
         "latitude": 50.41667,
         "longitude": 124.11667
     },
     {
-        "name": "Jining",
+        "name": "Цзинин",
         "latitude": 41.0275,
         "longitude": 113.10583
     },
     {
-        "name": "Manzhouli",
+        "name": "Маньчжурия",
         "latitude": 49.6,
         "longitude": 117.43333
     },
     {
-        "name": "Mositai",
+        "name": "Моситай",
         "latitude": 45.53538,
         "longitude": 119.66698
     },
     {
-        "name": "Mujiayingzi",
+        "name": "Муцзяингзи",
         "latitude": 42.11667,
         "longitude": 118.78333
     },
     {
-        "name": "Ordos",
+        "name": "Полчища",
         "latitude": 39.6086,
         "longitude": 109.78157
     },
     {
-        "name": "Ordos Shi",
+        "name": "Ордос Ши",
         "latitude": 39.46142,
         "longitude": 108.80946
     },
     {
-        "name": "Oroqen Zizhiqi",
+        "name": "Орокен Зижики",
         "latitude": 50.56667,
         "longitude": 123.71667
     },
     {
-        "name": "Pingzhuang",
+        "name": "Пинчжуан",
         "latitude": 42.03722,
         "longitude": 119.28889
     },
     {
-        "name": "Salaqi",
+        "name": "Салаки",
         "latitude": 40.54139,
         "longitude": 110.51083
     },
     {
-        "name": "Shiguai",
+        "name": "Сигуай",
         "latitude": 40.70583,
         "longitude": 110.28556
     },
     {
-        "name": "Tongliao",
+        "name": "Тунляо",
         "latitude": 43.6125,
         "longitude": 122.26528
     },
     {
-        "name": "Ulanhot",
+        "name": "Уланхот",
         "latitude": 46.08333,
         "longitude": 122.08333
     },
     {
-        "name": "Wenquan",
+        "name": "Вэньцюань",
         "latitude": 47.1756,
         "longitude": 119.94809
     },
     {
-        "name": "Wuda",
+        "name": "Вуда",
         "latitude": 39.49944,
         "longitude": 106.71167
     },
     {
-        "name": "Wuhai",
+        "name": "Ухай",
         "latitude": 39.68442,
         "longitude": 106.81583
     },
     {
-        "name": "Xilin Gol Meng",
+        "name": "Силин Гол Мэн",
         "latitude": 44.85493,
         "longitude": 115.72789
     },
     {
-        "name": "Xilin Hot",
+        "name": "Силинь Хот",
         "latitude": 43.96667,
         "longitude": 116.03333
     },
     {
-        "name": "Yakeshi",
+        "name": "Якеши",
         "latitude": 49.28333,
         "longitude": 120.73333
     },
     {
-        "name": "Zhalantun",
+        "name": "Жалантун",
         "latitude": 48.00945,
         "longitude": 122.73651
     },
     {
-        "name": "ChangZhou",
+        "name": "Чанчжоу",
         "latitude": 31.72322,
         "longitude": 119.59794
     },
     {
-        "name": "HuaiAn",
+        "name": "Хуайань",
         "latitude": 33.29433,
         "longitude": 118.8735
     },
     {
-        "name": "LianYunGang",
+        "name": "ЛианЮньГанг",
         "latitude": 34.84065,
         "longitude": 119.1773
     },
     {
-        "name": "NanJing",
+        "name": "Нанкин",
         "latitude": 31.32751,
         "longitude": 118.8921
     },
     {
-        "name": "NanTong",
+        "name": "НаньТонг",
         "latitude": 32.00986,
         "longitude": 120.85737
     },
     {
-        "name": "SuQian",
+        "name": "Суцянь",
         "latitude": 33.96271,
         "longitude": 118.24239
     },
     {
-        "name": "SuZhou",
+        "name": "Сучжоу",
         "latitude": 31.30227,
         "longitude": 120.63132
     },
     {
-        "name": "TaiZhou",
+        "name": "Тайчжоу",
         "latitude": 32.31841,
         "longitude": 119.88116
     },
     {
-        "name": "WuXi",
+        "name": "Уси",
         "latitude": 31.52853,
         "longitude": 120.28429
     },
     {
-        "name": "XuZhou",
+        "name": "Сюйчжоу",
         "latitude": 34.28823,
         "longitude": 117.18554
     },
     {
-        "name": "YanCheng",
+        "name": "ЯньЧэн",
         "latitude": 33.20107,
         "longitude": 120.50102
     },
     {
-        "name": "YangZhou",
+        "name": "Янчжоу",
         "latitude": 32.39463,
         "longitude": 119.43157
     },
     {
-        "name": "ZhenJiang",
+        "name": "ЧжэньЦзян",
         "latitude": 32.13188,
         "longitude": 119.43396
     },
     {
-        "name": "Changleng",
+        "name": "Чанглэн",
         "latitude": 28.7,
         "longitude": 115.81667
     },
     {
-        "name": "Fenyi",
+        "name": "Феньи",
         "latitude": 27.81117,
         "longitude": 114.66805
     },
     {
-        "name": "Ganzhou",
+        "name": "Ганьчжоу",
         "latitude": 25.84664,
         "longitude": 114.9326
     },
     {
-        "name": "Ganzhou Shi",
+        "name": "Ганьчжоу Ши",
         "latitude": 25.70387,
         "longitude": 115.34822
     },
     {
-        "name": "Guixi",
+        "name": "Гуйси",
         "latitude": 28.28857,
         "longitude": 117.21329
     },
     {
-        "name": "Ji\u2019an",
+        "name": "Цзиань",
         "latitude": 27.11716,
         "longitude": 114.97927
     },
     {
-        "name": "Jianguang",
+        "name": "Цзянгуан",
         "latitude": 28.19377,
         "longitude": 115.7836
     },
     {
-        "name": "Jingdezhen",
+        "name": "Цзиндэчжэнь",
         "latitude": 29.2947,
         "longitude": 117.20789
     },
     {
-        "name": "Jingdezhen Shi",
+        "name": "Цзиндэчжэнь Ши",
         "latitude": 29.31682,
         "longitude": 117.24688
     },
     {
-        "name": "Jiujiang",
+        "name": "Цзюцзян",
         "latitude": 29.70475,
         "longitude": 116.00206
     },
     {
-        "name": "Nanchang",
+        "name": "Наньчан",
         "latitude": 28.68396,
         "longitude": 115.85306
     },
     {
-        "name": "Pingxiang",
+        "name": "Пинсян",
         "latitude": 27.61672,
         "longitude": 113.85353
     },
     {
-        "name": "Poyang",
+        "name": "Поян",
         "latitude": 28.99242,
         "longitude": 116.66754
     },
     {
-        "name": "Shangrao",
+        "name": "Шанграо",
         "latitude": 28.45179,
         "longitude": 117.94287
     },
     {
-        "name": "Xinyu",
+        "name": "Синьюй",
         "latitude": 27.80429,
         "longitude": 114.93335
     },
     {
-        "name": "Yichun",
+        "name": "Ичунь",
         "latitude": 27.83333,
         "longitude": 114.4
     },
     {
-        "name": "Baicheng",
+        "name": "Байчэн",
         "latitude": 45.60746,
         "longitude": 122.82076
     },
     {
-        "name": "Baishan",
+        "name": "Байшань",
         "latitude": 41.93853,
         "longitude": 126.41965
     },
     {
-        "name": "Baishishan",
+        "name": "Байшишань",
         "latitude": 43.58333,
         "longitude": 127.56667
     },
     {
-        "name": "Changchun",
+        "name": "Чанчунь",
         "latitude": 43.88,
         "longitude": 125.32278
     },
     {
-        "name": "Changling",
+        "name": "Чанлин",
         "latitude": 44.26532,
         "longitude": 124.00045
     },
     {
-        "name": "Chaoyang",
+        "name": "Чаоян",
         "latitude": 42.66223,
         "longitude": 126.0263
     },
     {
-        "name": "Dalai",
+        "name": "Далай",
         "latitude": 45.5,
         "longitude": 124.3
     },
     {
-        "name": "Dashitou",
+        "name": "Дасито",
         "latitude": 43.30667,
         "longitude": 128.51139
     },
     {
-        "name": "Dehui",
+        "name": "Дэхуэй",
         "latitude": 44.53333,
         "longitude": 125.7
     },
     {
-        "name": "Dongfeng",
+        "name": "Дунфэн",
         "latitude": 42.64031,
         "longitude": 125.51176
     },
     {
-        "name": "Dunhua",
+        "name": "Дуньхуа",
         "latitude": 43.3725,
         "longitude": 128.2425
     },
     {
-        "name": "Erdaojiang",
+        "name": "Эрдаоцзян",
         "latitude": 41.77639,
         "longitude": 126.03194
     },
     {
-        "name": "Fuyu",
+        "name": "Фую",
         "latitude": 45.18333,
         "longitude": 124.81667
     },
     {
-        "name": "Gongzhuling",
+        "name": "Гунчжулин",
         "latitude": 43.50075,
         "longitude": 124.81979
     },
     {
-        "name": "Guangming",
+        "name": "Гуанмин",
         "latitude": 45.33333,
         "longitude": 122.78333
     },
     {
-        "name": "Helong",
+        "name": "Хелонг",
         "latitude": 42.53974,
         "longitude": 128.99722
     },
     {
-        "name": "Hepingjie",
+        "name": "Хэпинцзе",
         "latitude": 42.05972,
         "longitude": 126.91583
     },
     {
-        "name": "Huadian",
+        "name": "Хуадянь",
         "latitude": 42.96333,
         "longitude": 126.74778
     },
     {
-        "name": "Huangnihe",
+        "name": "Хуаннихэ",
         "latitude": 43.55833,
         "longitude": 128.02389
     },
     {
-        "name": "Huinan",
+        "name": "Хуэйнань",
         "latitude": 42.6225,
         "longitude": 126.26139
     },
     {
-        "name": "Hunchun",
+        "name": "Хуньчунь",
         "latitude": 42.8675,
         "longitude": 130.35806
     },
     {
-        "name": "Ji\u2019an",
+        "name": "Цзиань",
         "latitude": 41.12349,
         "longitude": 126.17631
     },
     {
-        "name": "Jilin",
+        "name": "Цзилинь",
         "latitude": 43.85083,
         "longitude": 126.56028
     },
     {
-        "name": "Jishu",
+        "name": "Цзишу",
         "latitude": 44.31667,
         "longitude": 126.8
     },
     {
-        "name": "Jiutai",
+        "name": "Цзютай",
         "latitude": 44.1525,
         "longitude": 125.83278
     },
     {
-        "name": "Kaitong",
+        "name": "Кайтонг",
         "latitude": 44.81351,
         "longitude": 123.15
     },
     {
-        "name": "Liaoyuan",
+        "name": "Ляоюань",
         "latitude": 42.90361,
         "longitude": 125.13583
     },
     {
-        "name": "Linjiang",
+        "name": "Линьцзян",
         "latitude": 41.80694,
         "longitude": 126.90778
     },
     {
-        "name": "Lishu",
+        "name": "Лишу",
         "latitude": 43.30472,
         "longitude": 124.32778
     },
     {
-        "name": "Liuhe",
+        "name": "Люхэ",
         "latitude": 42.24007,
         "longitude": 125.71717
     },
     {
-        "name": "Longjing",
+        "name": "Лунцзин",
         "latitude": 42.77139,
         "longitude": 129.42333
     },
     {
-        "name": "Meihekou",
+        "name": "Мэйхекоу",
         "latitude": 42.52722,
         "longitude": 125.67528
     },
     {
-        "name": "Mingyue",
+        "name": "Мингюэ",
         "latitude": 43.10694,
         "longitude": 128.92167
     },
     {
-        "name": "Minzhu",
+        "name": "Минжу",
         "latitude": 43.72145,
         "longitude": 127.33401
     },
     {
-        "name": "Panshi",
+        "name": "Панши",
         "latitude": 42.94222,
         "longitude": 126.05611
     },
     {
-        "name": "Sanchazi",
+        "name": "Санчази",
         "latitude": 42.08167,
         "longitude": 126.60028
     },
     {
-        "name": "Shuangyang",
+        "name": "Шуанъян",
         "latitude": 43.52417,
         "longitude": 125.67361
     },
     {
-        "name": "Shulan",
+        "name": "Шулан",
         "latitude": 44.41667,
         "longitude": 126.95
     },
     {
-        "name": "Siping",
+        "name": "Цитировать",
         "latitude": 43.16143,
         "longitude": 124.37785
     },
     {
-        "name": "Songjianghe",
+        "name": "Сунцзянхэ",
         "latitude": 42.1859,
         "longitude": 127.47895
     },
     {
-        "name": "Songyuan",
+        "name": "Сунъюань",
         "latitude": 45.12902,
         "longitude": 124.82769
     },
     {
-        "name": "Tonghua",
+        "name": "Тунхуа",
         "latitude": 41.71972,
         "longitude": 125.92639
     },
     {
-        "name": "Tonghua Shi",
+        "name": "Тунхуа Ши",
         "latitude": 42.12389,
         "longitude": 125.84833
     },
     {
-        "name": "Tumen",
+        "name": "Тюмень",
         "latitude": 42.96611,
         "longitude": 129.8425
     },
     {
-        "name": "Wangqing",
+        "name": "Ванцин",
         "latitude": 43.32179,
         "longitude": 129.76342
     },
     {
-        "name": "Xinglongshan",
+        "name": "Синлуншань",
         "latitude": 43.95611,
         "longitude": 125.46611
     },
     {
-        "name": "Yanbian Chaoxianzu Zizhizhou",
+        "name": "Яньбянь Чаосяньцзу Цзыжичжоу",
         "latitude": 43.12583,
         "longitude": 129.12833
     },
     {
-        "name": "Yanji",
+        "name": "Который из",
         "latitude": 42.9075,
         "longitude": 129.50778
     },
     {
-        "name": "Yantongshan",
+        "name": "Яньтуншань",
         "latitude": 43.29194,
         "longitude": 126.00944
     },
     {
-        "name": "Yushu",
+        "name": "Юшу",
         "latitude": 44.8,
         "longitude": 126.53333
     },
     {
-        "name": "Zhengjiatun",
+        "name": "Чжэнцзятунь",
         "latitude": 43.50639,
         "longitude": 123.50639
     },
     {
-        "name": "Zhenlai",
+        "name": "Женлай",
         "latitude": 45.84955,
         "longitude": 123.2973
     },
     {
-        "name": "Anshan",
+        "name": "Аньшань",
         "latitude": 41.12361,
         "longitude": 122.99
     },
     {
-        "name": "Beipiao",
+        "name": "Бэйпяо",
         "latitude": 41.79194,
         "longitude": 120.77917
     },
     {
-        "name": "Benxi",
+        "name": "Бэньси",
         "latitude": 41.28861,
         "longitude": 123.765
     },
     {
-        "name": "Changtu",
+        "name": "Чангту",
         "latitude": 42.77884,
         "longitude": 124.09545
     },
     {
-        "name": "Chaoyang",
+        "name": "Чаоян",
         "latitude": 41.57028,
         "longitude": 120.45861
     },
     {
-        "name": "Dalian",
+        "name": "Далянь",
         "latitude": 38.91222,
         "longitude": 121.60222
     },
     {
-        "name": "Dalianwan",
+        "name": "С Далянем",
         "latitude": 39.02861,
         "longitude": 121.695
     },
     {
-        "name": "Dandong",
+        "name": "Даньдун",
         "latitude": 40.12917,
         "longitude": 124.39472
     },
     {
-        "name": "Dashiqiao",
+        "name": "Дашицяо",
         "latitude": 40.63732,
         "longitude": 122.50251
     },
     {
-        "name": "Dongling",
+        "name": "Дунлин",
         "latitude": 41.81444,
         "longitude": 123.57583
     },
     {
-        "name": "Fengcheng",
+        "name": "Фэнчэн",
         "latitude": 40.45361,
         "longitude": 124.07167
     },
     {
-        "name": "Fushun",
+        "name": "Фушунь",
         "latitude": 41.88669,
         "longitude": 123.94363
     },
     {
-        "name": "Fuxin",
+        "name": "Фусинь",
         "latitude": 42.01556,
         "longitude": 121.65889
     },
     {
-        "name": "Gaizhou",
+        "name": "Гайчжоу",
         "latitude": 40.39417,
         "longitude": 122.36861
     },
     {
-        "name": "Gongchangling",
+        "name": "Гунчанлин",
         "latitude": 41.11667,
         "longitude": 123.45
     },
     {
-        "name": "Haicheng",
+        "name": "Хайчэн",
         "latitude": 40.85158,
         "longitude": 122.74754
     },
     {
-        "name": "Heishan",
+        "name": "Хэйшань",
         "latitude": 41.68917,
         "longitude": 122.11278
     },
     {
-        "name": "Huanren",
+        "name": "Хуанжэнь",
         "latitude": 41.26472,
         "longitude": 125.36667
     },
     {
-        "name": "Huludao",
+        "name": "Хулудао",
         "latitude": 40.75243,
         "longitude": 120.83552
     },
     {
-        "name": "Huludao Shi",
+        "name": "Хулудао Ши",
         "latitude": 40.74528,
         "longitude": 120.21972
     },
     {
-        "name": "Hushitai",
+        "name": "Хуситай",
         "latitude": 41.94175,
         "longitude": 123.50266
     },
     {
-        "name": "Jinzhou",
+        "name": "Цзиньчжоу",
         "latitude": 41.10778,
         "longitude": 121.14167
     },
     {
-        "name": "Jiupu",
+        "name": "Джиупу",
         "latitude": 41.06667,
         "longitude": 122.95
     },
     {
-        "name": "Kaiyuan",
+        "name": "Кайюань",
         "latitude": 42.53306,
         "longitude": 124.04028
     },
     {
-        "name": "Kuandian",
+        "name": "Куандиан",
         "latitude": 40.72861,
         "longitude": 124.78472
     },
     {
-        "name": "Langtoucun",
+        "name": "Лангтукун",
         "latitude": 40.04068,
         "longitude": 124.33525
     },
     {
-        "name": "Lianshan",
+        "name": "Ляньшань",
         "latitude": 40.76432,
         "longitude": 120.85327
     },
     {
-        "name": "Liaoyang",
+        "name": "Ляоян",
         "latitude": 41.27194,
         "longitude": 123.17306
     },
     {
-        "name": "Liaozhong",
+        "name": "Ляочжун",
         "latitude": 41.50611,
         "longitude": 122.72417
     },
     {
-        "name": "Linghai",
+        "name": "Линхай",
         "latitude": 41.16528,
         "longitude": 121.36667
     },
     {
-        "name": "Lingyuan",
+        "name": "Линъюань",
         "latitude": 41.24,
         "longitude": 119.40111
     },
     {
-        "name": "L\u00fcshun",
+        "name": "Люшунь",
         "latitude": 38.8,
         "longitude": 121.26667
     },
     {
-        "name": "Nanpiao",
+        "name": "Наньпяо",
         "latitude": 41.09822,
         "longitude": 120.74792
     },
     {
-        "name": "Nantai",
+        "name": "Нантай",
         "latitude": 40.9241,
         "longitude": 122.80437
     },
     {
-        "name": "Panjin Shi",
+        "name": "Паньцзинь Ши",
         "latitude": 41.13167,
         "longitude": 121.99361
     },
     {
-        "name": "Panshan",
+        "name": "Паньшань",
         "latitude": 41.18806,
         "longitude": 122.04944
     },
     {
-        "name": "Pulandian",
+        "name": "Пуландян",
         "latitude": 39.39528,
         "longitude": 121.96694
     },
     {
-        "name": "Shenyang",
+        "name": "Шэньян",
         "latitude": 41.79222,
         "longitude": 123.43278
     },
     {
-        "name": "Sujiatun",
+        "name": "Суцзятунь",
         "latitude": 41.65917,
         "longitude": 123.33917
     },
     {
-        "name": "Tieling",
+        "name": "Тилинг",
         "latitude": 42.29306,
         "longitude": 123.84139
     },
     {
-        "name": "Tieling Shi",
+        "name": "Тилин Ши",
         "latitude": 42.62583,
         "longitude": 124.32361
     },
     {
-        "name": "Wafangdian",
+        "name": "Вафандянь",
         "latitude": 39.61833,
         "longitude": 122.00806
     },
     {
-        "name": "Xiaoshi",
+        "name": "Сяоши",
         "latitude": 41.29711,
         "longitude": 124.12092
     },
     {
-        "name": "Xifeng",
+        "name": "Сифэн",
         "latitude": 42.73722,
         "longitude": 124.72222
     },
     {
-        "name": "Xingcheng",
+        "name": "Синчэн",
         "latitude": 40.61667,
         "longitude": 120.71667
     },
     {
-        "name": "Xinmin",
+        "name": "Синьминь",
         "latitude": 41.99083,
         "longitude": 122.82528
     },
     {
-        "name": "Xinxing",
+        "name": "Синьсин",
         "latitude": 39.86694,
         "longitude": 124.12304
     },
     {
-        "name": "Xiuyan",
+        "name": "Сюянь",
         "latitude": 40.29278,
         "longitude": 123.27444
     },
     {
-        "name": "Yebaishou",
+        "name": "Ебайшоу",
         "latitude": 41.3975,
         "longitude": 119.64083
     },
     {
-        "name": "Yingkou",
+        "name": "Инкоу",
         "latitude": 40.63897,
         "longitude": 122.24762
     },
     {
-        "name": "Zhuanghe",
+        "name": "Чжуанхэ",
         "latitude": 39.70083,
         "longitude": 122.99111
     },
     {
-        "name": "Dawukou",
+        "name": "Давуку",
         "latitude": 39.04194,
         "longitude": 106.39583
     },
     {
-        "name": "Dongta",
+        "name": "Донгта",
         "latitude": 38.0814,
         "longitude": 106.34444
     },
     {
-        "name": "Shitanjing",
+        "name": "Шитаньцзин",
         "latitude": 39.23417,
         "longitude": 106.34389
     },
     {
-        "name": "Shizuishan",
+        "name": "Сидзуйшань",
         "latitude": 39.23333,
         "longitude": 106.76944
     },
     {
-        "name": "Wuzhong",
+        "name": "Учжун",
         "latitude": 37.9867,
         "longitude": 106.201
     },
     {
-        "name": "Yinchuan",
+        "name": "Иньчуань",
         "latitude": 38.46806,
         "longitude": 106.27306
     },
     {
-        "name": "Zhongwei",
+        "name": "Чжунвэй",
         "latitude": 37.51129,
         "longitude": 105.19067
     },
     {
-        "name": "Delingha",
+        "name": "Делингха",
         "latitude": 37.376,
         "longitude": 97.37457
     },
     {
-        "name": "Golmud",
+        "name": "Голмуд",
         "latitude": 36.40672,
         "longitude": 94.90061
     },
     {
-        "name": "Golog Tibetan Autonomous Prefecture",
+        "name": "Голог Тибетский автономный округ",
         "latitude": 34.08595,
         "longitude": 99.55181
     },
     {
-        "name": "Haibei Tibetan Autonomous Prefecture",
+        "name": "Хайбэй-Тибетский автономный округ",
         "latitude": 37.71919,
         "longitude": 100.45656
     },
     {
-        "name": "Huangnan Zangzu Zizhizhou",
+        "name": "Хуаннань Занцзу Цзыжичжоу",
         "latitude": 35.06316,
         "longitude": 101.65149
     },
     {
-        "name": "Xining",
+        "name": "Синин",
         "latitude": 36.62554,
         "longitude": 101.75739
     },
     {
-        "name": "Xireg",
+        "name": "Хириг",
         "latitude": 36.91866,
         "longitude": 98.44463
     },
     {
-        "name": "Yushu Zangzu Zizhizhou",
+        "name": "Юшу Зангзу Цзыжичжоу",
         "latitude": 34.39802,
         "longitude": 94.19021
     },
     {
-        "name": "Ankang",
+        "name": "Анькан",
         "latitude": 32.68,
         "longitude": 109.01722
     },
     {
-        "name": "Baoji Shi",
+        "name": "Баоцзиши",
         "latitude": 34.36944,
         "longitude": 107.13635
     },
     {
-        "name": "Guozhen",
+        "name": "Гочжэнь",
         "latitude": 34.36591,
         "longitude": 107.35904
     },
     {
-        "name": "Hancheng",
+        "name": "Ханьчэн",
         "latitude": 35.46028,
         "longitude": 110.42917
     },
     {
-        "name": "Hanzhong",
+        "name": "Ханьчжун",
         "latitude": 33.07507,
         "longitude": 107.02214
     },
     {
-        "name": "Huayin",
+        "name": "Хуайинь",
         "latitude": 34.56528,
         "longitude": 110.06639
     },
     {
-        "name": "Lintong",
+        "name": "Линтун",
         "latitude": 34.37803,
         "longitude": 109.20892
     },
     {
-        "name": "Tongchuanshi",
+        "name": "Тунчуаньши",
         "latitude": 35.07474,
         "longitude": 109.08495
     },
     {
-        "name": "Weinan",
+        "name": "Вэйнань",
         "latitude": 34.50355,
         "longitude": 109.50891
     },
     {
-        "name": "Xi\u2019an",
+        "name": "Сиань",
         "latitude": 34.25833,
         "longitude": 108.92861
     },
     {
-        "name": "Xianyang",
+        "name": "Сяньян",
         "latitude": 34.33778,
         "longitude": 108.70261
     },
     {
-        "name": "Yanliang",
+        "name": "Яньлян",
         "latitude": 34.65918,
         "longitude": 109.22921
     },
     {
-        "name": "Yulinshi",
+        "name": "Юлиньши",
         "latitude": 38.29181,
         "longitude": 109.73753
     },
     {
-        "name": "Yuxia",
+        "name": "Юся",
         "latitude": 34.06153,
         "longitude": 108.62905
     },
     {
-        "name": "Anqiu",
+        "name": "Аньцю",
         "latitude": 36.43417,
         "longitude": 119.1925
     },
     {
-        "name": "Beizhai",
+        "name": "Бэйжай",
         "latitude": 36.21972,
         "longitude": 120.52889
     },
     {
-        "name": "Bianzhuang",
+        "name": "Бяньчжуан",
         "latitude": 34.84861,
         "longitude": 118.04472
     },
     {
-        "name": "Binzhou",
+        "name": "Биньчжоу",
         "latitude": 37.36667,
         "longitude": 118.01667
     },
     {
-        "name": "Boshan",
+        "name": "Бошан",
         "latitude": 36.48333,
         "longitude": 117.83333
     },
     {
-        "name": "Changqing",
+        "name": "Чанцин",
         "latitude": 36.5575,
         "longitude": 116.72722
     },
     {
-        "name": "Chengqu",
+        "name": "Чэнцюй",
         "latitude": 36.9106,
         "longitude": 121.52504
     },
     {
-        "name": "Chengtangcun",
+        "name": "Чэнтанцунь",
         "latitude": 35.08357,
         "longitude": 117.19071
     },
     {
-        "name": "Chengyang",
+        "name": "Чэнъян",
         "latitude": 35.57944,
         "longitude": 118.83278
     },
     {
-        "name": "Dengying",
+        "name": "Денъин",
         "latitude": 36.13889,
         "longitude": 120.57417
     },
     {
-        "name": "Dengzhou",
+        "name": "Дэнчжоу",
         "latitude": 37.80822,
         "longitude": 120.75908
     },
     {
-        "name": "Dezhou",
+        "name": "Дэчжоу",
         "latitude": 37.45127,
         "longitude": 116.31046
     },
     {
-        "name": "Dingtao",
+        "name": "Динтао",
         "latitude": 35.07436,
         "longitude": 115.56582
     },
     {
-        "name": "Dongcun",
+        "name": "Дункунь",
         "latitude": 36.77667,
         "longitude": 121.15972
     },
     {
-        "name": "Dongdu",
+        "name": "Дунду",
         "latitude": 35.85,
         "longitude": 117.7
     },
     {
-        "name": "Feicheng",
+        "name": "Фейчэн",
         "latitude": 36.24861,
         "longitude": 116.76583
     },
     {
-        "name": "Gaomi",
+        "name": "Гаоми",
         "latitude": 36.38333,
         "longitude": 119.75278
     },
     {
-        "name": "Hanting",
+        "name": "Хантинг",
         "latitude": 36.77083,
         "longitude": 119.21083
     },
     {
-        "name": "Heze",
+        "name": "влажный",
         "latitude": 35.23929,
         "longitude": 115.47358
     },
     {
-        "name": "Jiamaying",
+        "name": "Цзямайинг",
         "latitude": 37.20806,
         "longitude": 115.95
     },
     {
-        "name": "Jiaozhou",
+        "name": "Цзяочжоу",
         "latitude": 36.28389,
         "longitude": 120.00333
     },
     {
-        "name": "Jiehu",
+        "name": "Он берет",
         "latitude": 35.54278,
         "longitude": 118.455
     },
     {
-        "name": "Jimo",
+        "name": "двойняшки",
         "latitude": 36.38972,
         "longitude": 120.46222
     },
     {
-        "name": "Jinan",
+        "name": "женщины",
         "latitude": 36.66833,
         "longitude": 116.99722
     },
     {
-        "name": "Jining",
+        "name": "Цзинин",
         "latitude": 35.405,
         "longitude": 116.58139
     },
     {
-        "name": "Juye",
+        "name": "Перенаправить",
         "latitude": 35.39472,
         "longitude": 116.08833
     },
     {
-        "name": "Kuiju",
+        "name": "Куиджу",
         "latitude": 36.85361,
         "longitude": 119.39083
     },
     {
-        "name": "Kutao",
+        "name": "Кутао",
         "latitude": 36.145,
         "longitude": 120.48778
     },
     {
-        "name": "Laiwu",
+        "name": "Лайу",
         "latitude": 36.19278,
         "longitude": 117.65694
     },
     {
-        "name": "Laixi",
+        "name": "Лайси",
         "latitude": 36.85917,
         "longitude": 120.52694
     },
     {
-        "name": "Laiyang",
+        "name": "Лайян",
         "latitude": 36.97583,
         "longitude": 120.71361
     },
     {
-        "name": "Laizhou",
+        "name": "Лайчжоу",
         "latitude": 37.18073,
         "longitude": 119.94217
     },
     {
-        "name": "Laocheng",
+        "name": "Лаочэн",
         "latitude": 37.14278,
         "longitude": 115.88833
     },
     {
-        "name": "Liaocheng",
+        "name": "Ляочэн",
         "latitude": 36.45596,
         "longitude": 115.97766
     },
     {
-        "name": "Linqu",
+        "name": "Линьцюй",
         "latitude": 36.51556,
         "longitude": 118.53972
     },
     {
-        "name": "Linyi",
+        "name": "Линия",
         "latitude": 35.06306,
         "longitude": 118.34278
     },
     {
-        "name": "Longgang",
+        "name": "Лунган",
         "latitude": 37.65181,
         "longitude": 120.33063
     },
     {
-        "name": "Mengyin",
+        "name": "Менгин",
         "latitude": 35.70694,
         "longitude": 117.92639
     },
     {
-        "name": "Mingshui",
+        "name": "Миншуй",
         "latitude": 36.71667,
         "longitude": 117.5
     },
     {
-        "name": "Mizhou",
+        "name": "Мичжоу",
         "latitude": 35.99472,
         "longitude": 119.3975
     },
     {
-        "name": "Nanding",
+        "name": "Нандин",
         "latitude": 36.74833,
         "longitude": 118.05583
     },
     {
-        "name": "Nanma",
+        "name": "Нама",
         "latitude": 36.18478,
         "longitude": 118.15486
     },
     {
-        "name": "Ninghai",
+        "name": "Нинхай",
         "latitude": 37.38422,
         "longitude": 121.60859
     },
     {
-        "name": "Ningyang",
+        "name": "Нинъян",
         "latitude": 35.76417,
         "longitude": 116.79139
     },
     {
-        "name": "Pingdu",
+        "name": "Пинду",
         "latitude": 36.78444,
         "longitude": 119.94639
     },
     {
-        "name": "Pingyi",
+        "name": "Пиньи",
         "latitude": 35.50056,
         "longitude": 117.63083
     },
     {
-        "name": "Pingyin",
+        "name": "Пинъинь",
         "latitude": 36.28306,
         "longitude": 116.44528
     },
     {
-        "name": "Qingdao",
+        "name": "Циндао",
         "latitude": 36.06488,
         "longitude": 120.38042
     },
     {
-        "name": "Qingnian",
+        "name": "Циннянь",
         "latitude": 36.84032,
         "longitude": 115.71183
     },
     {
-        "name": "Qingshancun",
+        "name": "Циншаньцунь",
         "latitude": 36.15415,
         "longitude": 120.6824
     },
     {
-        "name": "Qingyang",
+        "name": "Цинъян",
         "latitude": 37.49583,
         "longitude": 121.25806
     },
     {
-        "name": "Qingzhou",
+        "name": "Цинчжоу",
         "latitude": 36.69667,
         "longitude": 118.47972
     },
     {
-        "name": "Qufu",
+        "name": "Цюйфу",
         "latitude": 35.59667,
         "longitude": 116.99111
     },
     {
-        "name": "Rizhao",
+        "name": "Жичжао",
         "latitude": 35.4275,
         "longitude": 119.45528
     },
     {
-        "name": "Shancheng",
+        "name": "Шаньчэн",
         "latitude": 34.79528,
         "longitude": 116.08167
     },
     {
-        "name": "Shanting",
+        "name": "Шантинг",
         "latitude": 35.07528,
         "longitude": 117.45778
     },
     {
-        "name": "Shazikou",
+        "name": "Шазику",
         "latitude": 36.115,
         "longitude": 120.53722
     },
     {
-        "name": "Shengli",
+        "name": "Шэнли",
         "latitude": 37.46271,
         "longitude": 118.49165
     },
     {
-        "name": "Shilaorencun",
+        "name": "Шилаоренкун",
         "latitude": 36.09723,
         "longitude": 120.4891
     },
     {
-        "name": "Shizilu",
+        "name": "Шизилу",
         "latitude": 35.17111,
         "longitude": 118.82889
     },
     {
-        "name": "Shouguang",
+        "name": "Шоугуан",
         "latitude": 36.88,
         "longitude": 118.7375
     },
     {
-        "name": "Sishui",
+        "name": "Сишуй",
         "latitude": 35.64889,
         "longitude": 117.27583
     },
     {
-        "name": "Suozhen",
+        "name": "Суожэнь",
         "latitude": 36.95389,
         "longitude": 118.10472
     },
     {
-        "name": "Tai\u2019an",
+        "name": "Тайань",
         "latitude": 36.18528,
         "longitude": 117.12
     },
     {
-        "name": "Taozhuang",
+        "name": "Таочжуан",
         "latitude": 34.85,
         "longitude": 117.33333
     },
     {
-        "name": "Tianfu",
+        "name": "Тяньфу",
         "latitude": 37.19723,
         "longitude": 122.05228
     },
     {
-        "name": "Weifang",
+        "name": "Вэйфан",
         "latitude": 36.71,
         "longitude": 119.10194
     },
     {
-        "name": "Weihai",
+        "name": "Вэйхай",
         "latitude": 37.50914,
         "longitude": 122.11356
     },
     {
-        "name": "Wenshang",
+        "name": "Вэньшан",
         "latitude": 35.7275,
         "longitude": 116.49611
     },
     {
-        "name": "Xiazhen",
+        "name": "Сячжэнь",
         "latitude": 34.80222,
         "longitude": 117.11167
     },
     {
-        "name": "Xiazhuang",
+        "name": "Сячжуан",
         "latitude": 34.91611,
         "longitude": 118.63889
     },
     {
-        "name": "Xiliguantun",
+        "name": "Сезон",
         "latitude": 37.07833,
         "longitude": 115.94139
     },
     {
-        "name": "Xindian",
+        "name": "Синьдянь",
         "latitude": 36.7975,
         "longitude": 118.29444
     },
     {
-        "name": "Xintai",
+        "name": "Синтай",
         "latitude": 35.90056,
         "longitude": 117.75194
     },
     {
-        "name": "Yanggu",
+        "name": "Янгу",
         "latitude": 36.11056,
         "longitude": 115.77528
     },
     {
-        "name": "Yanta",
+        "name": "Свобода",
         "latitude": 36.24111,
         "longitude": 115.66722
     },
     {
-        "name": "Yantai",
+        "name": "Яньтай",
         "latitude": 37.47649,
         "longitude": 121.44081
     },
     {
-        "name": "Yanzhou",
+        "name": "Яньчжоу",
         "latitude": 35.55278,
         "longitude": 116.82861
     },
     {
-        "name": "Yatou",
+        "name": "Ято",
         "latitude": 37.1566,
         "longitude": 122.43762
     },
     {
-        "name": "Yinzhu",
+        "name": "Иньчжу",
         "latitude": 35.87861,
         "longitude": 119.97528
     },
     {
-        "name": "Yishui",
+        "name": "Ишуй",
         "latitude": 35.78472,
         "longitude": 118.62806
     },
     {
-        "name": "Yucheng",
+        "name": "Юйчэн",
         "latitude": 34.92889,
         "longitude": 116.46528
     },
     {
-        "name": "Zaozhuang",
+        "name": "Цзаочжуан",
         "latitude": 34.86472,
         "longitude": 117.55417
     },
     {
-        "name": "Zhaoyuan",
+        "name": "Чжаоюань",
         "latitude": 37.36497,
         "longitude": 120.40997
     },
     {
-        "name": "Zhoucheng",
+        "name": "Чжоучэн",
         "latitude": 35.91222,
         "longitude": 116.31167
     },
     {
-        "name": "Zhoucun",
+        "name": "Чжоуцунь",
         "latitude": 36.81667,
         "longitude": 117.81667
     },
     {
-        "name": "Zhu Cheng City",
+        "name": "Чжу Ченг Сити",
         "latitude": 35.99502,
         "longitude": 119.40259
     },
     {
-        "name": "Zhuangyuan",
+        "name": "Чжуангюань",
         "latitude": 37.30553,
         "longitude": 120.82747
     },
     {
-        "name": "Zibo",
+        "name": "Цзыбо",
         "latitude": 36.79056,
         "longitude": 118.06333
     },
     {
-        "name": "Zoucheng",
+        "name": "Зоучэн",
         "latitude": 35.40056,
         "longitude": 116.96556
     },
     {
-        "name": "Shanghai",
+        "name": "Шанхай",
         "latitude": 31.22222,
         "longitude": 121.45806
     },
     {
-        "name": "Songjiang",
+        "name": "Сунцзян",
         "latitude": 31.03595,
         "longitude": 121.2146
     },
     {
-        "name": "Zhabei",
+        "name": "Жабей",
         "latitude": 31.25861,
         "longitude": 121.45972
     },
     {
-        "name": "Zhujiajiao",
+        "name": "Чжуцзяцзяо",
         "latitude": 31.10757,
         "longitude": 121.05696
     },
     {
-        "name": "Changzhi",
+        "name": "Чанчжи",
         "latitude": 36.18389,
         "longitude": 113.10528
     },
     {
-        "name": "Datong",
+        "name": "богатый",
         "latitude": 40.09361,
         "longitude": 113.29139
     },
     {
-        "name": "Datong Shi",
+        "name": "Датун Ши",
         "latitude": 40.10484,
         "longitude": 113.63334
     },
     {
-        "name": "Gutao",
+        "name": "Проглотил",
         "latitude": 37.2025,
         "longitude": 112.17806
     },
     {
-        "name": "Jiexiu",
+        "name": "Цзесю",
         "latitude": 37.02444,
         "longitude": 111.9125
     },
     {
-        "name": "Jincheng",
+        "name": "Цзиньчэн",
         "latitude": 35.50222,
         "longitude": 112.83278
     },
     {
-        "name": "Jinzhong Shi",
+        "name": "Цзиньчжун Ши",
         "latitude": 37.43597,
         "longitude": 113.08783
     },
     {
-        "name": "Linfen",
+        "name": "Линьфэнь",
         "latitude": 36.08889,
         "longitude": 111.51889
     },
     {
-        "name": "L\u00fcliang",
+        "name": "Люлян",
         "latitude": 37.73563,
         "longitude": 111.30538
     },
     {
-        "name": "Shuozhou",
+        "name": "Шуочжоу",
         "latitude": 39.31583,
         "longitude": 112.4225
     },
     {
-        "name": "Taiyuan",
+        "name": "Тайюань",
         "latitude": 37.86944,
         "longitude": 112.56028
     },
     {
-        "name": "Xintian",
+        "name": "Синьтянь",
         "latitude": 35.61358,
         "longitude": 111.3566
     },
     {
-        "name": "Xinzhi",
+        "name": "Синьчжи",
         "latitude": 36.49889,
         "longitude": 111.70472
     },
     {
-        "name": "Xinzhou",
+        "name": "Синьчжоу",
         "latitude": 38.40917,
         "longitude": 112.73333
     },
     {
-        "name": "Yangquan",
+        "name": "Янцюань",
         "latitude": 37.8575,
         "longitude": 113.56333
     },
     {
-        "name": "Yuanping",
+        "name": "Юаньпин",
         "latitude": 38.71528,
         "longitude": 112.7575
     },
     {
-        "name": "Yuci",
+        "name": "Юси",
         "latitude": 37.68028,
         "longitude": 112.73194
     },
     {
-        "name": "Yuncheng",
+        "name": "Юньчэн",
         "latitude": 35.02306,
         "longitude": 110.99278
     },
     {
-        "name": "Aba Zangzu Qiangzu Zizhizhou",
+        "name": "Аба Зангзу Цянцзу Цзыжичжоу",
         "latitude": 32.41875,
         "longitude": 102.63664
     },
     {
-        "name": "Barkam",
+        "name": "Баркам",
         "latitude": 31.90059,
         "longitude": 102.22092
     },
     {
-        "name": "Bazhong Shi",
+        "name": "Бажонг Ши",
         "latitude": 32.04025,
         "longitude": 107.0623
     },
     {
-        "name": "Changchi",
+        "name": "Чанчи",
         "latitude": 32.16377,
         "longitude": 106.65814
     },
     {
-        "name": "Chengdu",
+        "name": "Чэнду",
         "latitude": 30.66667,
         "longitude": 104.06667
     },
     {
-        "name": "Chonglong",
+        "name": "Чунлун",
         "latitude": 29.78062,
         "longitude": 104.85224
     },
     {
-        "name": "Dadukou",
+        "name": "Дадукоу",
         "latitude": 26.5479,
         "longitude": 101.70539
     },
     {
-        "name": "Dazhou",
+        "name": "Дачжоу",
         "latitude": 31.21592,
         "longitude": 107.50092
     },
     {
-        "name": "Deyang",
+        "name": "Дэян",
         "latitude": 31.13019,
         "longitude": 104.38198
     },
     {
-        "name": "Dongxi",
+        "name": "Дунси",
         "latitude": 32.06577,
         "longitude": 106.24843
     },
     {
-        "name": "Fangting",
+        "name": "Фангтинг",
         "latitude": 31.12766,
         "longitude": 104.16649
     },
     {
-        "name": "Fubao",
+        "name": "Фубао",
         "latitude": 28.76905,
         "longitude": 106.07667
     },
     {
-        "name": "Gaoping",
+        "name": "Гаопин",
         "latitude": 30.77576,
         "longitude": 106.10294
     },
     {
-        "name": "Garz\u00ea Zangzu Zizhizhou",
+        "name": "Гарзе Зангзу Цзыжичжоу",
         "latitude": 31.02407,
         "longitude": 100.40553
     },
     {
-        "name": "Guang\u2019an",
+        "name": "Гуанъань",
         "latitude": 30.47413,
         "longitude": 106.63696
     },
     {
-        "name": "Guangyuan",
+        "name": "Гуанъюань",
         "latitude": 32.44201,
         "longitude": 105.823
     },
     {
-        "name": "Jiancheng",
+        "name": "Цзяньчэн",
         "latitude": 30.39097,
         "longitude": 104.54912
     },
     {
-        "name": "Jiangyou",
+        "name": "Цзянъю",
         "latitude": 31.76667,
         "longitude": 104.71667
     },
     {
-        "name": "Jiannan",
+        "name": "Цзяннан",
         "latitude": 31.34355,
         "longitude": 104.19588
     },
     {
-        "name": "Kangding",
+        "name": "Кандин",
         "latitude": 30.00222,
         "longitude": 101.9569
     },
     {
-        "name": "Langzhong",
+        "name": "Ланчжун",
         "latitude": 31.55037,
         "longitude": 105.99381
     },
     {
-        "name": "Leshan",
+        "name": "Лэшань",
         "latitude": 29.56227,
         "longitude": 103.76386
     },
     {
-        "name": "Liangshan Yizu Zizhizhou",
+        "name": "Ляншань Идзу Цзыжичжоу",
         "latitude": 27.87644,
         "longitude": 102.1018
     },
     {
-        "name": "Linqiong",
+        "name": "Линьцюн",
         "latitude": 30.41587,
         "longitude": 103.46089
     },
     {
-        "name": "Luocheng",
+        "name": "Луочэн",
         "latitude": 30.98021,
         "longitude": 104.28081
     },
     {
-        "name": "Luzhou",
+        "name": "Лучжоу",
         "latitude": 28.8903,
         "longitude": 105.42575
     },
     {
-        "name": "Meishan Shi",
+        "name": "Мэйшань Ши",
         "latitude": 30.03,
         "longitude": 104.04
     },
     {
-        "name": "Mianyang",
+        "name": "Мяньян",
         "latitude": 31.46784,
         "longitude": 104.68168
     },
     {
-        "name": "Nanchong",
+        "name": "Наньчун",
         "latitude": 30.79508,
         "longitude": 106.08473
     },
     {
-        "name": "Nanlong",
+        "name": "Наньлун",
         "latitude": 31.35333,
         "longitude": 106.06309
     },
     {
-        "name": "Neijiang",
+        "name": "Нэйцзянь",
         "latitude": 29.58354,
         "longitude": 105.06216
     },
     {
-        "name": "Panzhihua",
+        "name": "Паньчжихуа",
         "latitude": 26.58509,
         "longitude": 101.71276
     },
     {
-        "name": "Puji",
+        "name": "Хвалить",
         "latitude": 32.23908,
         "longitude": 106.45478
     },
     {
-        "name": "Shuanghejiedao",
+        "name": "Шуанхэцзедао",
         "latitude": 30.37448,
         "longitude": 106.77266
     },
     {
-        "name": "Suining",
+        "name": "Судиться",
         "latitude": 30.50802,
         "longitude": 105.57332
     },
     {
-        "name": "Taihe",
+        "name": "Тайхэ",
         "latitude": 30.87123,
         "longitude": 105.38454
     },
     {
-        "name": "Taiping",
+        "name": "Тайпин",
         "latitude": 28.14083,
         "longitude": 106.03771
     },
     {
-        "name": "Tianpeng",
+        "name": "Тяньпэн",
         "latitude": 30.98664,
         "longitude": 103.93933
     },
     {
-        "name": "Tongchuan",
+        "name": "Тунчуань",
         "latitude": 31.09407,
         "longitude": 105.08731
     },
     {
-        "name": "Xialiang",
+        "name": "Сялян",
         "latitude": 32.07673,
         "longitude": 106.77151
     },
     {
-        "name": "Xiantan",
+        "name": "Сяньтань",
         "latitude": 28.81859,
         "longitude": 106.1927
     },
     {
-        "name": "Xichang",
+        "name": "Сичан",
         "latitude": 27.89642,
         "longitude": 102.26341
     },
     {
-        "name": "Xunchang",
+        "name": "Сюньчан",
         "latitude": 28.45433,
         "longitude": 104.71498
     },
     {
-        "name": "Yanjiang",
+        "name": "Яньцзян",
         "latitude": 30.12108,
         "longitude": 104.64811
     },
     {
-        "name": "Yibin",
+        "name": "Ибинь",
         "latitude": 28.76667,
         "longitude": 104.62383
     },
     {
-        "name": "Yucheng",
+        "name": "Юйчэн",
         "latitude": 29.98521,
         "longitude": 102.999
     },
     {
-        "name": "Zengjia",
+        "name": "Цзэнцзя",
         "latitude": 32.61957,
         "longitude": 106.10118
     },
     {
-        "name": "Zhongba",
+        "name": "Чжунба",
         "latitude": 31.77819,
         "longitude": 104.73932
     },
     {
-        "name": "Zigong",
+        "name": "Цзыгун",
         "latitude": 29.34162,
         "longitude": 104.77689
     },
     {
-        "name": "Baoying",
+        "name": "Баоин",
         "latitude": 33.22917,
         "longitude": 119.30917
     },
     {
-        "name": "Changshu City",
+        "name": "город Чаншу",
         "latitude": 31.64615,
         "longitude": 120.74221
     },
     {
-        "name": "Changzhou",
+        "name": "Чанчжоу",
         "latitude": 31.77359,
         "longitude": 119.95401
     },
     {
-        "name": "Chengxiang",
+        "name": "Чэнсян",
         "latitude": 31.44778,
         "longitude": 121.09389
     },
     {
-        "name": "Dazhong",
+        "name": "Дачжун",
         "latitude": 33.19973,
         "longitude": 120.4578
     },
     {
-        "name": "Dongkan",
+        "name": "Не волнуйся",
         "latitude": 33.99972,
         "longitude": 119.83083
     },
     {
-        "name": "Dongtai",
+        "name": "Донгтай",
         "latitude": 32.85231,
         "longitude": 120.30947
     },
     {
-        "name": "Fengxian",
+        "name": "Фэнсянь",
         "latitude": 34.70388,
         "longitude": 116.58717
     },
     {
-        "name": "Gaogou",
+        "name": "Гаогоу",
         "latitude": 34.0175,
         "longitude": 119.18861
     },
     {
-        "name": "Gaoyou",
+        "name": "Гаою",
         "latitude": 32.78933,
         "longitude": 119.44182
     },
     {
-        "name": "Guiren",
+        "name": "Гирен",
         "latitude": 33.66972,
         "longitude": 118.18889
     },
     {
-        "name": "Haizhou",
+        "name": "Хайчжоу",
         "latitude": 34.58167,
         "longitude": 119.12889
     },
     {
-        "name": "Hede",
+        "name": "Подарок",
         "latitude": 33.7722,
         "longitude": 120.26176
     },
     {
-        "name": "Huai'an",
+        "name": "Хуайань",
         "latitude": 33.58861,
         "longitude": 119.01917
     },
     {
-        "name": "Huai\u2019an Shi",
+        "name": "Хуайань Ши",
         "latitude": 33.31162,
         "longitude": 119.04559
     },
     {
-        "name": "Huilong",
+        "name": "Хуэйлун",
         "latitude": 31.81111,
         "longitude": 121.655
     },
     {
-        "name": "Hutang",
+        "name": "Долг",
         "latitude": 31.53429,
         "longitude": 119.49
     },
     {
-        "name": "Jiangyan",
+        "name": "Цзянъянь",
         "latitude": 32.50611,
         "longitude": 120.14278
     },
     {
-        "name": "Jiangyin",
+        "name": "Цзянъинь",
         "latitude": 31.91102,
         "longitude": 120.26302
     },
     {
-        "name": "Jingjiang",
+        "name": "Цзинцзян",
         "latitude": 32.01417,
         "longitude": 120.2625
     },
     {
-        "name": "Jinsha",
+        "name": "Цзиньша",
         "latitude": 32.08982,
         "longitude": 121.07355
     },
     {
-        "name": "Juegang",
+        "name": "Джуган",
         "latitude": 32.31737,
         "longitude": 121.18552
     },
     {
-        "name": "Kunshan",
+        "name": "Куньшань",
         "latitude": 31.37762,
         "longitude": 120.95431
     },
     {
-        "name": "Lianyungang Shi",
+        "name": "Ляньюньган Ши",
         "latitude": 34.54844,
         "longitude": 119.11228
     },
     {
-        "name": "Licheng",
+        "name": "Личэн",
         "latitude": 31.42813,
         "longitude": 119.48353
     },
     {
-        "name": "Mudu",
+        "name": "Мы оба",
         "latitude": 31.25597,
         "longitude": 120.51857
     },
     {
-        "name": "Nanjing",
+        "name": "Нанкин",
         "latitude": 32.06167,
         "longitude": 118.77778
     },
     {
-        "name": "Nantong",
+        "name": "Наньтун",
         "latitude": 32.03028,
         "longitude": 120.87472
     },
     {
-        "name": "Pizhou",
+        "name": "Пичжоу",
         "latitude": 34.31139,
         "longitude": 117.95028
     },
     {
-        "name": "Qinnan",
+        "name": "Циннан",
         "latitude": 33.25306,
         "longitude": 119.91333
     },
     {
-        "name": "Rucheng",
+        "name": "Рученг",
         "latitude": 32.38833,
         "longitude": 120.55528
     },
     {
-        "name": "Sanmao",
+        "name": "Саньмао",
         "latitude": 32.23931,
         "longitude": 119.81536
     },
     {
-        "name": "Songling",
+        "name": "Сунлинг",
         "latitude": 31.1933,
         "longitude": 120.71758
     },
     {
-        "name": "Suicheng",
+        "name": "Суйчэн",
         "latitude": 33.8963,
         "longitude": 117.93307
     },
     {
-        "name": "Suzhou",
+        "name": "Сучжоу",
         "latitude": 31.30408,
         "longitude": 120.59538
     },
     {
-        "name": "Taixing",
+        "name": "Тайсин",
         "latitude": 32.16667,
         "longitude": 120.01361
     },
     {
-        "name": "Taizhou",
+        "name": "Тайчжоу",
         "latitude": 32.49069,
         "longitude": 119.90812
     },
     {
-        "name": "Tongshan",
+        "name": "Туншань",
         "latitude": 34.18045,
         "longitude": 117.15707
     },
     {
-        "name": "Wuxi",
+        "name": "Уси",
         "latitude": 31.56887,
         "longitude": 120.28857
     },
     {
-        "name": "Xiann\u00fc",
+        "name": "Сяннюй",
         "latitude": 32.42806,
         "longitude": 119.56048
     },
     {
-        "name": "Xiaolingwei",
+        "name": "Сяолинвэй",
         "latitude": 32.03244,
         "longitude": 118.854
     },
     {
-        "name": "Xinghua",
+        "name": "Синхуа",
         "latitude": 32.93917,
         "longitude": 119.83417
     },
     {
-        "name": "Xinpu",
+        "name": "Синьпу",
         "latitude": 34.59972,
         "longitude": 119.15944
     },
     {
-        "name": "Yancheng",
+        "name": "Яньчэн",
         "latitude": 33.3575,
         "longitude": 120.1573
     },
     {
-        "name": "Yangzhou",
+        "name": "Янчжоу",
         "latitude": 32.39722,
         "longitude": 119.43583
     },
     {
-        "name": "Yicheng",
+        "name": "Ичэн",
         "latitude": 31.36059,
         "longitude": 119.82016
     },
     {
-        "name": "Yushan",
+        "name": "Юшань",
         "latitude": 31.67748,
         "longitude": 120.80134
     },
     {
-        "name": "Zhangjiagang",
+        "name": "Чжанцзяган",
         "latitude": 31.865,
         "longitude": 120.53889
     },
     {
-        "name": "Zhenjiang",
+        "name": "Чжэньцзян",
         "latitude": 32.21086,
         "longitude": 119.45508
     },
     {
-        "name": "Zhenzhou",
+        "name": "Чжэньчжоу",
         "latitude": 32.28034,
         "longitude": 119.16999
     },
     {
-        "name": "Zhongxing",
+        "name": "Чжунсин",
         "latitude": 33.70389,
         "longitude": 118.67917
     },
     {
-        "name": "Zhouzhuang",
+        "name": "Чжоучжуан",
         "latitude": 31.11788,
         "longitude": 120.84427
     },
     {
-        "name": "Badaogu",
+        "name": "Бадаогу",
         "latitude": 39.47333333,
         "longitude": 117.32972222
     },
     {
-        "name": "Baijian",
+        "name": "Байцзянь",
         "latitude": 39.99416667,
         "longitude": 117.20861111
     },
     {
-        "name": "Bamencheng",
+        "name": "Баменченг",
         "latitude": 39.57777778,
         "longitude": 117.60527778
     },
     {
-        "name": "Bangjun",
+        "name": "Банджун",
         "latitude": 39.98839,
         "longitude": 117.2685
     },
     {
-        "name": "Beicang",
+        "name": "Бэйкан",
         "latitude": 39.23007,
         "longitude": 117.11892
     },
     {
-        "name": "Beihuaidian",
+        "name": "Бэйхуэйдянь",
         "latitude": 39.2622,
         "longitude": 117.57485
     },
     {
-        "name": "Beilizigu",
+        "name": "Бейлизигу",
         "latitude": 39.49138889,
         "longitude": 117.465
     },
     {
-        "name": "Biaokou",
+        "name": "Бяокоу",
         "latitude": 39.3295,
         "longitude": 117.56914
     },
     {
-        "name": "Binhai New Area",
+        "name": "Новый район Биньхай",
         "latitude": 39.00333333,
         "longitude": 117.71083333
     },
     {
-        "name": "Caijiapu",
+        "name": "Кайджиапу",
         "latitude": 39.17305556,
         "longitude": 117.81055556
     },
     {
-        "name": "Caodian",
+        "name": "Каодиан",
         "latitude": 39.61194444,
         "longitude": 117.47166667
     },
     {
-        "name": "Chabaihu",
+        "name": "Чабайху",
         "latitude": 39.46555556,
         "longitude": 117.14833333
     },
     {
-        "name": "Changtun",
+        "name": "Чантунь",
         "latitude": 39.44333333,
         "longitude": 117.07055556
     },
     {
-        "name": "Chengtougu",
+        "name": "Чэнтогу",
         "latitude": 39.14,
         "longitude": 117.77888889
     },
     {
-        "name": "Chitu",
+        "name": "Покидать",
         "latitude": 39.20333333,
         "longitude": 117.40277778
     },
     {
-        "name": "Cuijiamatou",
+        "name": "Цуйзямату",
         "latitude": 39.07472222,
         "longitude": 117.30055556
     },
     {
-        "name": "Dadunqiu",
+        "name": "Дадунцю",
         "latitude": 39.40611111,
         "longitude": 117.03305556
     },
     {
-        "name": "Dakoutun",
+        "name": "Дакутун",
         "latitude": 39.58555556,
         "longitude": 117.23638889
     },
     {
-        "name": "Dashentang",
+        "name": "Дашентанг",
         "latitude": 39.21722222,
         "longitude": 117.9525
     },
     {
-        "name": "Dawangtai",
+        "name": "Давантай",
         "latitude": 39.275,
         "longitude": 117.485
     },
     {
-        "name": "Daxinzhuang",
+        "name": "Дасиньчжуан",
         "latitude": 39.50361111,
         "longitude": 117.68611111
     },
     {
-        "name": "Dazhongzhuang",
+        "name": "Дачжунчжуан",
         "latitude": 39.68083333,
         "longitude": 117.56416667
     },
     {
-        "name": "Dongditou",
+        "name": "Донгдитоу",
         "latitude": 39.26638889,
         "longitude": 117.37277778
     },
     {
-        "name": "Dongshigu",
+        "name": "Дуншигу",
         "latitude": 39.87889,
         "longitude": 117.33028
     },
     {
-        "name": "Erwangzhuang",
+        "name": "Эрванчжуан",
         "latitude": 39.39166667,
         "longitude": 117.35388889
     },
     {
-        "name": "Fanzhuang",
+        "name": "Фаньчжуан",
         "latitude": 39.19361111,
         "longitude": 117.335
     },
     {
-        "name": "Fengtai (Ninghe)",
+        "name": "Фанат (Ninny)",
         "latitude": 39.55805556,
         "longitude": 117.74916667
     },
     {
-        "name": "Fuzhuang",
+        "name": "Фучжуан",
         "latitude": 39.26611111,
         "longitude": 117.93444444
     },
     {
-        "name": "Gaojingzhuang",
+        "name": "Гаоцзинчжуан",
         "latitude": 39.41611111,
         "longitude": 117.63
     },
     {
-        "name": "Hanjiashu",
+        "name": "Ханцзяшу",
         "latitude": 39.1875,
         "longitude": 117.07305556
     },
     {
-        "name": "Hebeitun",
+        "name": "Хэбейтун",
         "latitude": 39.57472222,
         "longitude": 117.11333333
     },
     {
-        "name": "Hexiwu",
+        "name": "Хэсиу",
         "latitude": 39.62249,
         "longitude": 116.95398
     },
     {
-        "name": "Huangcaotuo",
+        "name": "Хуанцаотуо",
         "latitude": 39.17944444,
         "longitude": 117.32166667
     },
     {
-        "name": "Huantuo",
+        "name": "Хуантуо",
         "latitude": 39.22638889,
         "longitude": 117.32388889
     },
     {
-        "name": "Huogezhuang",
+        "name": "Хуогэчжуан",
         "latitude": 39.74388889,
         "longitude": 117.3675
     },
     {
-        "name": "Jiangwakou",
+        "name": "Цзянвакоу",
         "latitude": 39.5225,
         "longitude": 117.7025
     },
     {
-        "name": "Lianzhuang",
+        "name": "Ляньчжуан",
         "latitude": 39.41,
         "longitude": 117.75638889
     },
     {
-        "name": "Lintingkou",
+        "name": "Линтингкоу",
         "latitude": 39.63027778,
         "longitude": 117.50027778
     },
     {
-        "name": "Liujiading",
+        "name": "Люцзядин",
         "latitude": 39.96305556,
         "longitude": 117.19111111
     },
     {
-        "name": "Liukuaizhuang",
+        "name": "Люкуайчжуан",
         "latitude": 39.24777778,
         "longitude": 117.33944444
     },
     {
-        "name": "Liuzikou",
+        "name": "Люзику",
         "latitude": 39.87027778,
         "longitude": 117.34666667
     },
     {
-        "name": "Luotuofangzi",
+        "name": "Луотуофанцзы",
         "latitude": 39.08361111,
         "longitude": 117.37694444
     },
     {
-        "name": "Meichang",
+        "name": "Мэйчан",
         "latitude": 39.36611111,
         "longitude": 117.18055556
     },
     {
-        "name": "Mengquan",
+        "name": "Мэнцюань",
         "latitude": 39.82527778,
         "longitude": 117.47666667
     },
     {
-        "name": "Panzhuang",
+        "name": "Паньчжуан",
         "latitude": 39.33943,
         "longitude": 117.4682
     },
     {
-        "name": "Qingguang",
+        "name": "Цинггуан",
         "latitude": 39.19668,
         "longitude": 117.05475
     },
     {
-        "name": "Sangzi",
+        "name": "Сангзи",
         "latitude": 39.90853,
         "longitude": 117.16535
     },
     {
-        "name": "Shangcang",
+        "name": "Шанцан",
         "latitude": 39.90518,
         "longitude": 117.39553
     },
     {
-        "name": "Shimianzhuang",
+        "name": "Шимяньчжуан",
         "latitude": 39.418,
         "longitude": 117.1569
     },
     {
-        "name": "Shuangjiang",
+        "name": "Шуанцзян",
         "latitude": 39.0419,
         "longitude": 117.31235
     },
     {
-        "name": "Sigaozhuang",
+        "name": "Сигаочжуан",
         "latitude": 39.46713,
         "longitude": 117.25554
     },
     {
-        "name": "Tianjin",
+        "name": "Тяньцзинь",
         "latitude": 39.14666667,
         "longitude": 117.20555556
     },
     {
-        "name": "Touying",
+        "name": "Туйинг",
         "latitude": 39.96389,
         "longitude": 117.21833
     },
     {
-        "name": "Wangqinzhuang",
+        "name": "Ванцинчжуан",
         "latitude": 39.22942,
         "longitude": 117.08968
     },
     {
-        "name": "Weiwangzhuang",
+        "name": "Вэйванчжуан",
         "latitude": 39.025,
         "longitude": 117.44083
     },
     {
-        "name": "Xiawuqi",
+        "name": "Сяовуци",
         "latitude": 39.61551,
         "longitude": 117.05523
     },
     {
-        "name": "Xiditou",
+        "name": "Сидиту",
         "latitude": 39.2532,
         "longitude": 117.34709
     },
     {
-        "name": "Xinkaikou",
+        "name": "Синкайкоу",
         "latitude": 39.67996,
         "longitude": 117.18877
     },
     {
-        "name": "Xitazhuang",
+        "name": "Ситажжуан",
         "latitude": 39.93306,
         "longitude": 117.21083
     },
     {
-        "name": "Yangjinzhuang",
+        "name": "Янцзиньчжуан",
         "latitude": 39.86645,
         "longitude": 117.42592
     },
     {
-        "name": "Yangliuqing",
+        "name": "Янлюцин",
         "latitude": 39.1274,
         "longitude": 117.00885
     },
     {
-        "name": "Yinliu",
+        "name": "Иньлю",
         "latitude": 39.98349,
         "longitude": 117.39904
     },
     {
-        "name": "Yixingfu",
+        "name": "Исинфу",
         "latitude": 39.19917,
         "longitude": 117.21139
     },
     {
-        "name": "Youguzhuang",
+        "name": "Югучжуан",
         "latitude": 39.90802,
         "longitude": 117.24576
     },
     {
-        "name": "Yuelongzhuang",
+        "name": "Юэлунчжуан",
         "latitude": 39.56833,
         "longitude": 117.85417
     },
     {
-        "name": "Yuguzhuang",
+        "name": "Югучжуан",
         "latitude": 39.6429,
         "longitude": 117.3647
     },
     {
-        "name": "Zaojiacheng",
+        "name": "Цзаоцзячэн",
         "latitude": 39.28174,
         "longitude": 117.42516
     },
     {
-        "name": "Zhangjiawo",
+        "name": "Чжанцзяво",
         "latitude": 39.05675,
         "longitude": 117.03624
     },
     {
-        "name": "Zhaoguli",
+        "name": "Жаогули",
         "latitude": 39.16673,
         "longitude": 117.24191
     },
     {
-        "name": "Zhaoguli",
+        "name": "Жаогули",
         "latitude": 39.16673,
         "longitude": 117.24191
     },
     {
-        "name": "Ailan Mubage",
+        "name": "Айлан Мубаге",
         "latitude": 43.90845,
         "longitude": 81.33299
     },
     {
-        "name": "Aksu",
+        "name": "Аксу",
         "latitude": 41.18418,
         "longitude": 80.27921
     },
     {
-        "name": "Aksu Diqu",
+        "name": "Аксу Дикю",
         "latitude": 40.55689,
         "longitude": 81.84629
     },
     {
-        "name": "Altay",
+        "name": "Алтай",
         "latitude": 47.84864,
         "longitude": 88.13361
     },
     {
-        "name": "Altay Diqu",
+        "name": "Альта-дик",
         "latitude": 47.86667,
         "longitude": 88.11667
     },
     {
-        "name": "Aral",
+        "name": "Арал",
         "latitude": 40.54184,
         "longitude": 81.26566
     },
     {
-        "name": "Aykol",
+        "name": "Айколь",
         "latitude": 40.95759,
         "longitude": 80.13574
     },
     {
-        "name": "Baijiantan",
+        "name": "Байцзяньтан",
         "latitude": 45.69298,
         "longitude": 85.13942
     },
     {
-        "name": "Baluntaicun",
+        "name": "Балунтайкун",
         "latitude": 42.66842,
         "longitude": 86.32424
     },
     {
-        "name": "Bayingolin Mongol Zizhizhou",
+        "name": "Байинголин Монгол Цзыжичжоу",
         "latitude": 41.73333,
         "longitude": 86.15
     },
     {
-        "name": "Changji",
+        "name": "Чанцзи",
         "latitude": 44.00782,
         "longitude": 87.30461
     },
     {
-        "name": "Changji Huizu Zizhizhou",
+        "name": "Чанцзи Хуэйцзу Цзыжичжоу",
         "latitude": 44.01667,
         "longitude": 87.31667
     },
     {
-        "name": "Fukang",
+        "name": "Фукан",
         "latitude": 44.15874,
         "longitude": 87.97418
     },
     {
-        "name": "Hami",
+        "name": "Каждый",
         "latitude": 42.83393,
         "longitude": 93.50601
     },
     {
-        "name": "Hotan",
+        "name": "Изображение",
         "latitude": 37.1075,
         "longitude": 79.93548
     },
     {
-        "name": "Hoxtolgay",
+        "name": "Хокстолгай",
         "latitude": 46.51872,
         "longitude": 86.00214
     },
     {
-        "name": "Huocheng",
+        "name": "Хуочэн",
         "latitude": 44.05305,
         "longitude": 80.87173
     },
     {
-        "name": "Ili Kazak Zizhizhou",
+        "name": "Или Казак Зижичжоу",
         "latitude": 43.31211,
         "longitude": 82.27102
     },
     {
-        "name": "Karamay",
+        "name": "симпатия",
         "latitude": 45.58473,
         "longitude": 84.88724
     },
     {
-        "name": "Karamay Shi",
+        "name": "Сочувствие Ши",
         "latitude": 45.49989,
         "longitude": 84.91683
     },
     {
-        "name": "Kashgar",
+        "name": "Кашгар",
         "latitude": 39.47066,
         "longitude": 75.98951
     },
     {
-        "name": "Kaxgar Diqu",
+        "name": "Кашгар Дикю",
         "latitude": 39.47543,
         "longitude": 75.98968
     },
     {
-        "name": "Korla",
+        "name": "Злость",
         "latitude": 41.76055,
         "longitude": 86.15231
     },
     {
-        "name": "Kuqa",
+        "name": "Он прыгает",
         "latitude": 41.71707,
         "longitude": 82.93064
     },
     {
-        "name": "Kuytun",
+        "name": "Движение",
         "latitude": 44.42707,
         "longitude": 84.90069
     },
     {
-        "name": "Qapqal",
+        "name": "Крышка",
         "latitude": 43.80194,
         "longitude": 81.08722
     },
     {
-        "name": "Shache",
+        "name": "Шаче",
         "latitude": 38.41667,
         "longitude": 77.24056
     },
     {
-        "name": "Shihezi",
+        "name": "Шихези",
         "latitude": 44.3023,
         "longitude": 86.03694
     },
     {
-        "name": "Sishilichengzi",
+        "name": "Это изменение",
         "latitude": 41.96194,
         "longitude": 86.47667
     },
     {
-        "name": "Tacheng",
+        "name": "Таченг",
         "latitude": 46.74535,
         "longitude": 82.95847
     },
     {
-        "name": "Tacheng Diqu",
+        "name": "Таченг Дикю",
         "latitude": 46.75,
         "longitude": 82.95
     },
     {
-        "name": "Turpan",
+        "name": "Турфан",
         "latitude": 42.94769,
         "longitude": 89.17886
     },
     {
-        "name": "Turpan Diqu",
+        "name": "Турфан Дикю",
         "latitude": 42.93333,
         "longitude": 89.16667
     },
     {
-        "name": "\u00dcr\u00fcmqi",
+        "name": "Урумчи",
         "latitude": 43.80096,
         "longitude": 87.60046
     },
     {
-        "name": "Urumqi Shi",
+        "name": "Урумчи Ши",
         "latitude": 43.8,
         "longitude": 87.58333
     },
     {
-        "name": "Xinyuan",
+        "name": "Синьюань",
         "latitude": 43.42649,
         "longitude": 83.24959
     },
     {
-        "name": "Zangguy",
+        "name": "Зангги",
         "latitude": 37.28333,
         "longitude": 78.76667
     },
     {
-        "name": "Burang",
+        "name": "К черту это",
         "latitude": 30.29559,
         "longitude": 81.17511
     },
     {
-        "name": "D\u00eaq\u00ean",
+        "name": "Пятна",
         "latitude": 29.96178,
         "longitude": 90.71875
     },
     {
-        "name": "Jiangzi",
+        "name": "Цзянцзы",
         "latitude": 28.92026,
         "longitude": 89.59956
     },
     {
-        "name": "Lhasa",
+        "name": "Лхаса",
         "latitude": 29.65,
         "longitude": 91.1
     },
     {
-        "name": "Nagqu",
+        "name": "Нагку",
         "latitude": 31.47678,
         "longitude": 92.05729
     },
     {
-        "name": "Nagqu Diqu",
+        "name": "Нагку Дикю",
         "latitude": 32.66357,
         "longitude": 88.93146
     },
     {
-        "name": "Ngari Diqu",
+        "name": "Нгари Дику",
         "latitude": 33.21836,
         "longitude": 82.57507
     },
     {
-        "name": "Nyingchi Prefecture",
+        "name": "Префектура Нинчи",
         "latitude": 29.60092,
         "longitude": 94.42406
     },
     {
-        "name": "Qamdo",
+        "name": "Камдо",
         "latitude": 31.1304,
         "longitude": 97.17982
     },
     {
-        "name": "Qamdo Shi",
+        "name": "Камдо Ши",
         "latitude": 31.5837,
         "longitude": 97.22304
     },
     {
-        "name": "Rikaze",
+        "name": "Риказе",
         "latitude": 29.25,
         "longitude": 88.88333
     },
     {
-        "name": "Saga",
+        "name": "Сага",
         "latitude": 29.32367,
         "longitude": 85.22601
     },
     {
-        "name": "Shannan Diqu",
+        "name": "Шаннан Дикю",
         "latitude": 28.5563,
         "longitude": 92.55684
     },
     {
-        "name": "Chuxiong Yizu Zizhizhou",
+        "name": "Чусюн Идзу Цзыжичжоу",
         "latitude": 25.43204,
         "longitude": 101.70479
     },
     {
-        "name": "Dali",
+        "name": "Дали",
         "latitude": 25.58474,
         "longitude": 100.21229
     },
     {
-        "name": "Dali Baizu Zizhizhou",
+        "name": "Дали Байцзу Цзыжичжоу",
         "latitude": 25.68548,
         "longitude": 100.13104
     },
     {
-        "name": "Dehong Daizu Jingpozu Zizhizhou",
+        "name": "Дэхун Дайдзу Цзинпозу Цзычжичжоу",
         "latitude": 24.66347,
         "longitude": 98.03964
     },
     {
-        "name": "D\u00eaq\u00ean Tibetan Autonomous Prefecture",
+        "name": "Декен-Тибетский автономный округ",
         "latitude": 27.91694,
         "longitude": 99.54841
     },
     {
-        "name": "Gejiu",
+        "name": "Геджиу",
         "latitude": 23.36085,
         "longitude": 103.15372
     },
     {
-        "name": "Haikou",
+        "name": "Хайкоу",
         "latitude": 24.77985,
         "longitude": 102.57548
     },
     {
-        "name": "Honghe Hanizu Yizu Zizhizhou",
+        "name": "Хунхэ Ханизу Идзу Цзычжичжоу",
         "latitude": 23.51675,
         "longitude": 102.97389
     },
     {
-        "name": "Jinghong",
+        "name": "Цзинхун",
         "latitude": 21.99102,
         "longitude": 100.73409
     },
     {
-        "name": "Kaihua",
+        "name": "Кайхуа",
         "latitude": 23.3695,
         "longitude": 104.27721
     },
     {
-        "name": "Kaiyuan",
+        "name": "Кайюань",
         "latitude": 23.69767,
         "longitude": 103.30372
     },
     {
-        "name": "Kunming",
+        "name": "Куньмин",
         "latitude": 25.03889,
         "longitude": 102.71833
     },
     {
-        "name": "Lianran",
+        "name": "Лианран",
         "latitude": 24.92271,
         "longitude": 102.48496
     },
     {
-        "name": "Lijiang",
+        "name": "Лицзян",
         "latitude": 26.86879,
         "longitude": 100.22072
     },
     {
-        "name": "Lincang Shi",
+        "name": "Линцан Ши",
         "latitude": 23.94803,
         "longitude": 99.55124
     },
     {
-        "name": "Longquan",
+        "name": "Лунцюань",
         "latitude": 24.67193,
         "longitude": 102.1613
     },
     {
-        "name": "Mabai",
+        "name": "Мабай",
         "latitude": 23.01279,
         "longitude": 104.45081
     },
     {
-        "name": "Majie",
+        "name": "Торопиться",
         "latitude": 25.0319,
         "longitude": 102.638
     },
     {
-        "name": "Miyang",
+        "name": "Миян",
         "latitude": 24.40417,
         "longitude": 103.44278
     },
     {
-        "name": "Nujiang Lisuzu Zizhizhou",
+        "name": "Нуцзян Лисузу Цзыжичжоу",
         "latitude": 26.61738,
         "longitude": 99.14062
     },
     {
-        "name": "Qujing",
+        "name": "Цюйцзин",
         "latitude": 25.48333,
         "longitude": 103.78333
     },
     {
-        "name": "Shangri-La",
+        "name": "Шангри-Ла",
         "latitude": 27.82511,
         "longitude": 99.70779
     },
     {
-        "name": "Shilin",
+        "name": "Шилин",
         "latitude": 24.81878,
         "longitude": 103.33237
     },
     {
-        "name": "Wenlan",
+        "name": "Вэньлан",
         "latitude": 23.36002,
         "longitude": 103.43684
     },
     {
-        "name": "Wenshan City",
+        "name": "Вэньшань Сити",
         "latitude": 23.36306,
         "longitude": 104.25047
     },
     {
-        "name": "Wenshan Zhuangzu Miaozu Zizhizhou",
+        "name": "Вэньшань Чжуанцзу Мяозу Цзычжичжоу",
         "latitude": 23.6513,
         "longitude": 104.7083
     },
     {
-        "name": "Yuxi",
+        "name": "Юйси",
         "latitude": 24.355,
         "longitude": 102.54222
     },
     {
-        "name": "Zhaotong",
+        "name": "Чжаотун",
         "latitude": 27.31667,
         "longitude": 103.71667
     },
     {
-        "name": "Zhongshu",
+        "name": "Чжуншу",
         "latitude": 24.51667,
         "longitude": 103.76667
     },
     {
-        "name": "Deqing",
+        "name": "Дэцин",
         "latitude": 30.54485,
         "longitude": 119.9599
     },
     {
-        "name": "Dongyang",
+        "name": "Дунъян",
         "latitude": 29.26778,
         "longitude": 120.22528
     },
     {
-        "name": "Fenghua",
+        "name": "Фэнхуа",
         "latitude": 29.65628,
         "longitude": 121.4064
     },
     {
-        "name": "Fuyang",
+        "name": "Фуян",
         "latitude": 30.05333,
         "longitude": 119.95194
     },
     {
-        "name": "Guli",
+        "name": "лежа",
         "latitude": 28.88162,
         "longitude": 120.03308
     },
     {
-        "name": "Haining",
+        "name": "Хайнинг",
         "latitude": 30.53629,
         "longitude": 120.68638
     },
     {
-        "name": "Hangzhou",
+        "name": "Ханчжоу",
         "latitude": 30.29365,
         "longitude": 120.16142
     },
     {
-        "name": "Huangyan",
+        "name": "Хуанъянь",
         "latitude": 28.6501,
         "longitude": 121.26591
     },
     {
-        "name": "Huzhou",
+        "name": "Хучжоу",
         "latitude": 30.8703,
         "longitude": 120.0933
     },
     {
-        "name": "Jiaojiang",
+        "name": "Цзяоцзян",
         "latitude": 28.69844,
         "longitude": 121.47331
     },
     {
-        "name": "Jiashan",
+        "name": "Цзяшань",
         "latitude": 30.84918,
         "longitude": 120.92583
     },
     {
-        "name": "Jiaxing",
+        "name": "Цзясин",
         "latitude": 30.7522,
         "longitude": 120.75
     },
     {
-        "name": "Jiaxing Shi",
+        "name": "Цзясин Ши",
         "latitude": 30.7707,
         "longitude": 120.75238
     },
     {
-        "name": "Jinhua",
+        "name": "Цзиньхуа",
         "latitude": 29.10678,
         "longitude": 119.64421
     },
     {
-        "name": "Jinxiang",
+        "name": "Цзиньсян",
         "latitude": 27.43265,
         "longitude": 120.60625
     },
     {
-        "name": "Kunyang",
+        "name": "Куньянг",
         "latitude": 27.66583,
         "longitude": 120.56583
     },
     {
-        "name": "Lanxi",
+        "name": "Ланьси",
         "latitude": 29.21588,
         "longitude": 119.47156
     },
     {
-        "name": "Lianghu",
+        "name": "Лянху",
         "latitude": 29.99152,
         "longitude": 120.89845
     },
     {
-        "name": "Linhai",
+        "name": "Линьхай",
         "latitude": 28.85535,
         "longitude": 121.1447
     },
     {
-        "name": "Linping",
+        "name": "Линпин",
         "latitude": 30.4225,
         "longitude": 120.29722
     },
     {
-        "name": "Lishui",
+        "name": "Лишуй",
         "latitude": 28.46042,
         "longitude": 119.91029
     },
     {
-        "name": "Luqiao",
+        "name": "Луцяо",
         "latitude": 28.58023,
         "longitude": 121.37491
     },
     {
-        "name": "Ningbo",
+        "name": "Нинбо",
         "latitude": 29.87819,
         "longitude": 121.54945
     },
     {
-        "name": "Ninghai",
+        "name": "Нинхай",
         "latitude": 29.28917,
         "longitude": 121.42472
     },
     {
-        "name": "Puyang",
+        "name": "Пуян",
         "latitude": 29.45679,
         "longitude": 119.88872
     },
     {
-        "name": "Quzhou",
+        "name": "Цюйчжоу",
         "latitude": 28.95944,
         "longitude": 118.86861
     },
     {
-        "name": "Shangyu",
+        "name": "Шанъюй",
         "latitude": 30.01556,
         "longitude": 120.87111
     },
     {
-        "name": "Shaoxing",
+        "name": "Шаосин",
         "latitude": 30.00237,
         "longitude": 120.57864
     },
     {
-        "name": "Shenjiamen",
+        "name": "Шэньцзямэнь",
         "latitude": 29.95763,
         "longitude": 122.29802
     },
     {
-        "name": "Taizhou",
+        "name": "Тайчжоу",
         "latitude": 28.66266,
         "longitude": 121.43312
     },
     {
-        "name": "Wenling",
+        "name": "Вэньлин",
         "latitude": 28.37524,
         "longitude": 121.38416
     },
     {
-        "name": "Wenzhou",
+        "name": "Вэньчжоу",
         "latitude": 27.99942,
         "longitude": 120.66682
     },
     {
-        "name": "Wuzhen",
+        "name": "Вужен",
         "latitude": 30.74536,
         "longitude": 120.4851
     },
     {
-        "name": "Xianju",
+        "name": "Сянджу",
         "latitude": 28.8547,
         "longitude": 120.73168
     },
     {
-        "name": "Xiaoshan",
+        "name": "Сяошань",
         "latitude": 30.16746,
         "longitude": 120.25883
     },
     {
-        "name": "Yiwu",
+        "name": "Может",
         "latitude": 29.31506,
         "longitude": 120.07676
     },
     {
-        "name": "Yuyao",
+        "name": "Юяо",
         "latitude": 30.05,
         "longitude": 121.14944
     },
     {
-        "name": "Zhaobaoshan",
+        "name": "Чжаобаошань",
         "latitude": 29.9695,
         "longitude": 121.68753
     },
     {
-        "name": "Zhicheng",
+        "name": "Чжичэн",
         "latitude": 31.00751,
         "longitude": 119.90851
     },
     {
-        "name": "Zhoushan",
+        "name": "Чжоушань",
         "latitude": 29.98869,
         "longitude": 122.20488
     },
     {
-        "name": "Zhuji",
+        "name": "Чжуджи",
         "latitude": 29.71877,
         "longitude": 120.24233
     }

@@ -1,131 +1,131 @@
 [
     {
-        "name": "Bukit Timah",
+        "name": "Тин Хилл",
         "latitude": 1.3294,
         "longitude": 103.8021
     },
     {
-        "name": "Downtown Core",
+        "name": "Центр города Ядро",
         "latitude": 1.278,
         "longitude": 103.852
     },
     {
-        "name": "Geylang",
+        "name": "Гейланг",
         "latitude": 1.3182,
         "longitude": 103.8871
     },
     {
-        "name": "Kallang",
+        "name": "Калланг",
         "latitude": 1.3106,
         "longitude": 103.866
     },
     {
-        "name": "Marine Parade",
+        "name": "Морской парад",
         "latitude": 1.303,
         "longitude": 103.9072
     },
     {
-        "name": "Novena",
+        "name": "Новена",
         "latitude": 1.3201,
         "longitude": 103.8439
     },
     {
-        "name": "Orchard Road",
+        "name": "Орчард Роуд",
         "latitude": 1.3036,
         "longitude": 103.8318
     },
     {
-        "name": "Outram",
+        "name": "Аутрам",
         "latitude": 1.2819,
         "longitude": 103.839
     },
     {
-        "name": "Rochor",
+        "name": "Рочор",
         "latitude": 1.3049,
         "longitude": 103.852
     },
     {
-        "name": "Singapore",
+        "name": "Сингапур",
         "latitude": 1.28967,
         "longitude": 103.85007
     },
     {
-        "name": "Tanjong Pagar",
+        "name": "Танджонг Пагар",
         "latitude": 1.2764,
         "longitude": 103.8434
     },
     {
-        "name": "Toa Payoh",
+        "name": "Тоа Пайо",
         "latitude": 1.3354,
         "longitude": 103.8497
     },
     {
-        "name": "Ang Mo Kio",
+        "name": "Мо Кио",
         "latitude": 1.3698,
         "longitude": 103.8461
     },
     {
-        "name": "Hougang",
+        "name": "Хуган",
         "latitude": 1.3736,
         "longitude": 103.8867
     },
     {
-        "name": "Punggol",
+        "name": "Пунггол",
         "latitude": 1.4051,
         "longitude": 103.9023
     },
     {
-        "name": "Sengkang",
+        "name": "Сенгкан",
         "latitude": 1.3901,
         "longitude": 103.8952
     },
     {
-        "name": "Serangoon",
+        "name": "Серангун",
         "latitude": 1.3496,
         "longitude": 103.8737
     },
     {
-        "name": "Sembawang",
+        "name": "Сембаванг",
         "latitude": 1.4491,
         "longitude": 103.8201
     },
     {
-        "name": "Woodlands",
+        "name": "Вудлендс",
         "latitude": 1.43801,
         "longitude": 103.78877
     },
     {
-        "name": "Yishun",
+        "name": "Ишунь",
         "latitude": 1.4293,
         "longitude": 103.8355
     },
     {
-        "name": "Bedok",
+        "name": "Бедок",
         "latitude": 1.3236,
         "longitude": 103.9273
     },
     {
-        "name": "Pasir Ris",
+        "name": "Пасир Рис",
         "latitude": 1.3739,
         "longitude": 103.9493
     },
     {
-        "name": "Tampines",
+        "name": "Тампины",
         "latitude": 1.3547,
         "longitude": 103.9437
     },
     {
-        "name": "Bukit Batok",
+        "name": "Букит Баток",
         "latitude": 1.3496,
         "longitude": 103.7528
     },
     {
-        "name": "Bukit Panjang",
+        "name": "Лонг Хилл",
         "latitude": 1.3786,
         "longitude": 103.7626
     },
     {
-        "name": "Jurong West",
+        "name": "Джуронг Вест",
         "latitude": 1.3396,
         "longitude": 103.7073
     }

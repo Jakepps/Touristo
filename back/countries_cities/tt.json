@@ -1,126 +1,126 @@
 [
     {
-        "name": "Arima",
+        "name": "Арима",
         "latitude": 10.63737,
         "longitude": -61.28228
     },
     {
-        "name": "Chaguanas",
+        "name": "Чагуанас",
         "latitude": 10.51667,
         "longitude": -61.41667
     },
     {
-        "name": "Ward of Chaguanas",
+        "name": "Опека Чагуанаса",
         "latitude": 10.5,
         "longitude": -61.38333
     },
     {
-        "name": "Couva",
+        "name": "кува",
         "latitude": 10.42248,
         "longitude": -61.46748
     },
     {
-        "name": "Tabaquite",
+        "name": "Табак",
         "latitude": 10.38824,
         "longitude": -61.29704
     },
     {
-        "name": "Petit Valley",
+        "name": "Пети-Вэлли",
         "latitude": 10.69974,
         "longitude": -61.54717
     },
     {
-        "name": "Ward of Diego Martin",
+        "name": "Подопечный Диего Мартина",
         "latitude": 10.7,
         "longitude": -61.58333
     },
     {
-        "name": "Scarborough",
+        "name": "Скарборо",
         "latitude": 11.18229,
         "longitude": -60.73525
     },
     {
-        "name": "Debe",
+        "name": "Должен",
         "latitude": 10.20846,
         "longitude": -61.45273
     },
     {
-        "name": "Pe\u00f1al",
+        "name": "Ноготь",
         "latitude": 10.16667,
         "longitude": -61.46667
     },
     {
-        "name": "Point Fortin",
+        "name": "Пойнт Фортин",
         "latitude": 10.17411,
         "longitude": -61.68407
     },
     {
-        "name": "Mucurapo",
+        "name": "Он болен",
         "latitude": 10.66253,
         "longitude": -61.53697
     },
     {
-        "name": "Port of Spain",
+        "name": "Порт-оф-Спейн",
         "latitude": 10.66668,
         "longitude": -61.51889
     },
     {
-        "name": "Princes Town",
+        "name": "Принсес Таун",
         "latitude": 10.27184,
         "longitude": -61.37103
     },
     {
-        "name": "Marabella",
+        "name": "Марабелла",
         "latitude": 10.30618,
         "longitude": -61.44671
     },
     {
-        "name": "Mon Repos",
+        "name": "Мой отдых",
         "latitude": 10.27979,
         "longitude": -61.4459
     },
     {
-        "name": "San Fernando",
+        "name": "Сан -Фернандо",
         "latitude": 10.27969,
         "longitude": -61.46835
     },
     {
-        "name": "Laventille",
+        "name": "Для лаванды",
         "latitude": 10.64917,
         "longitude": -61.49889
     },
     {
-        "name": "Sangre Grande",
+        "name": "Большая Кровь",
         "latitude": 10.58705,
         "longitude": -61.13008
     },
     {
-        "name": "Siparia",
+        "name": "Сипария",
         "latitude": 10.14525,
         "longitude": -61.5074
     },
     {
-        "name": "Ward of Siparia",
+        "name": "Опека Сипарии",
         "latitude": 10.15,
         "longitude": -61.46667
     },
     {
-        "name": "Arouca",
+        "name": "Арока",
         "latitude": 10.62877,
         "longitude": -61.33487
     },
     {
-        "name": "Paradise",
+        "name": "Рай",
         "latitude": 10.65298,
         "longitude": -61.36298
     },
     {
-        "name": "Tunapuna",
+        "name": "Тунапуна",
         "latitude": 10.65245,
         "longitude": -61.38878
     },
     {
-        "name": "Rio Claro",
+        "name": "чистая река",
         "latitude": 10.30594,
         "longitude": -61.17556
     }

@@ -1,46 +1,46 @@
 [
     {
-        "name": "Devonshire",
+        "name": "Девонскир",
         "latitude": 32.293,
         "longitude": -64.8
     },
     {
-        "name": "Hamilton",
+        "name": "Гамильтон",
         "latitude": 32.294,
         "longitude": -64.783
     },
     {
-        "name": "Paget",
+        "name": "Страница",
         "latitude": 32.278,
         "longitude": -64.769
     },
     {
-        "name": "St. George's",
+        "name": "Святой Георгия",
         "latitude": 32.381,
         "longitude": -64.674
     },
     {
-        "name": "Tucker\u2019s Town",
+        "name": "Город Такера",
         "latitude": 32.3328,
         "longitude": 64.6881
     },
     {
-        "name": "Somerset",
+        "name": "Сомерсет",
         "latitude": 32.282,
         "longitude": -64.844
     },
     {
-        "name": "Flatts",
+        "name": "Флаттс",
         "latitude": 32.328,
         "longitude": -64.736
     },
     {
-        "name": "Southampton",
+        "name": "Саутгемптон",
         "latitude": 32.249,
         "longitude": -64.861
     },
     {
-        "name": "Warwick",
+        "name": "Уорик",
         "latitude": 32.267,
         "longitude": -64.806
     }
