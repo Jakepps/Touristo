@@ -1,21 +1,21 @@
 [
     {
-        "name": "Abrikosovka",
+        "name": "Абрикосовка",
         "latitude": 45.10759,
         "longitude": 35.10139
     },
     {
-        "name": "Абрикосово",
+        "name": "АБРИКОС",
         "latitude": 45.69236,
         "longitude": 34.10156
     },
     {
-        "name": "Aeroflotskiy",
+        "name": "Аэрофлотский",
         "latitude": 45.01816,
         "longitude": 33.99961
     },
     {
-        "name": "Agrarnoye",
+        "name": "Аграрное",
         "latitude": 45.01596,
         "longitude": 34.05725
     },
@@ -25,12 +25,12 @@
         "longitude": 34.82438
     },
     {
-        "name": "Александровка",
+        "name": "Александа",
         "latitude": 45.57654,
         "longitude": 34.09947
     },
     {
-        "name": "Alekseyevka",
+        "name": "Алексеевка",
         "latitude": 45.58194,
         "longitude": 33.6298
     },
@@ -40,32 +40,32 @@
         "longitude": 34.04531
     },
     {
-        "name": "Алушта",
+        "name": "Алуша",
         "latitude": 44.67728,
         "longitude": 34.4097
     },
     {
-        "name": "Amurskoye",
+        "name": "Амурское",
         "latitude": 45.27822,
         "longitude": 34.12823
     },
     {
-        "name": "Armyansk",
+        "name": "Армянск",
         "latitude": 46.10919,
         "longitude": 33.69206
     },
     {
-        "name": "Aromatnoye",
+        "name": "Ароматное",
         "latitude": 45.03678,
         "longitude": 34.39921
     },
     {
-        "name": "Azovskoye",
+        "name": "Азовское",
         "latitude": 45.58604,
         "longitude": 34.5668
     },
     {
-        "name": "Бахерово",
+        "name": "Бахерве",
         "latitude": 45.37417,
         "longitude": 36.29705
     },
@@ -75,67 +75,67 @@
         "longitude": 33.85782
     },
     {
-        "name": "Bakhchysarai Raion",
+        "name": "Бахчисарайский район",
         "latitude": 44.75002,
         "longitude": 33.8633
     },
     {
-        "name": "Batal’noye",
+        "name": "Мыть",
         "latitude": 45.19402,
         "longitude": 35.61583
     },
     {
-        "name": "Belinskoye",
+        "name": "Белинское",
         "latitude": 45.37465,
         "longitude": 36.08212
     },
     {
-        "name": "Белоглинка",
+        "name": "Beloglinka",
         "latitude": 44.9949,
         "longitude": 34.04167
     },
     {
-        "name": "Belogorskiy rayon",
+        "name": "Белогорский район",
         "latitude": 45.063,
         "longitude": 34.55675
     },
     {
-        "name": "Beregovoye",
+        "name": "Береговое",
         "latitude": 45.0947,
         "longitude": 35.43385
     },
     {
-        "name": "Березовка",
+        "name": "Прорастание",
         "latitude": 45.57471,
         "longitude": 33.34397
     },
     {
-        "name": "Белогорск",
+        "name": "Билахирск",
         "latitude": 45.05462,
         "longitude": 34.60185
     },
     {
-        "name": "Blizhneye",
+        "name": "Ближнее",
         "latitude": 45.05694,
         "longitude": 35.33056
     },
     {
-        "name": "Bogatoye",
+        "name": "Богатое",
         "latitude": 45.02933,
         "longitude": 34.76732
     },
     {
-        "name": "Botanicheskoye",
+        "name": "Ботаническое",
         "latitude": 45.78656,
         "longitude": 33.54856
     },
     {
-        "name": "Bratskoye",
+        "name": "Братское",
         "latitude": 45.8317,
         "longitude": 33.92151
     },
     {
-        "name": "Чапаевка",
+        "name": "Чапаеевка",
         "latitude": 45.28119,
         "longitude": 34.89428
     },
@@ -145,97 +145,97 @@
         "longitude": 34.08673
     },
     {
-        "name": "Chelyadinovo",
+        "name": "Челядиново",
         "latitude": 45.20729,
         "longitude": 36.3762
     },
     {
-        "name": "Chernomorskiy rayon",
+        "name": "Черноморский район",
         "latitude": 45.48798,
         "longitude": 32.92614
     },
     {
-        "name": "Chernomorskoye",
+        "name": "Черноморское",
         "latitude": 45.50657,
         "longitude": 32.69776
     },
     {
-        "name": "Chernopolye",
+        "name": "Чернополье",
         "latitude": 45.04399,
         "longitude": 34.63916
     },
     {
-        "name": "Черново",
+        "name": "черный",
         "latitude": 45.50833,
         "longitude": 33.93397
     },
     {
-        "name": "Chernozemnoye",
+        "name": "Черноземное",
         "latitude": 45.40808,
         "longitude": 34.8199
     },
     {
-        "name": "Chernyshevo",
+        "name": "Чернышево",
         "latitude": 45.78202,
         "longitude": 33.42825
     },
     {
-        "name": "Chervonoye",
+        "name": "Червоное",
         "latitude": 45.12294,
         "longitude": 33.68662
     },
     {
-        "name": "Chisten’koye",
+        "name": "Чисто",
         "latitude": 44.88152,
         "longitude": 34.04716
     },
     {
-        "name": "Chistopolye",
+        "name": "Чистополе",
         "latitude": 45.36541,
         "longitude": 36.18312
     },
     {
-        "name": "Чкалово",
+        "name": "Чкало",
         "latitude": 45.60474,
         "longitude": 34.83395
     },
     {
-        "name": "Dachnoye",
+        "name": "Дачное",
         "latitude": 44.88448,
         "longitude": 34.98333
     },
     {
-        "name": "Dalekoye",
+        "name": "Далекое",
         "latitude": 45.66006,
         "longitude": 33.08059
     },
     {
-        "name": "Дмитровка",
+        "name": "Dmetrovka",
         "latitude": 45.48411,
         "longitude": 35.0588
     },
     {
-        "name": "Dneprovka",
+        "name": "Днепровка",
         "latitude": 45.71373,
         "longitude": 34.36256
     },
     {
-        "name": "Dobroye",
+        "name": "Доброе",
         "latitude": 44.86632,
         "longitude": 34.22661
     },
     {
-        "name": "Добрушино",
+        "name": "ДОБРУШИНО",
         "latitude": 45.37441,
         "longitude": 33.36547
     },
     {
-        "name": "Dolinnoye",
+        "name": "Долинное",
         "latitude": 44.7532,
         "longitude": 33.77766
     },
     {
-        "name": "Donskoye",
+        "name": "Донское",
         "latitude": 45.04509,
         "longitude": 34.21413
     },
@@ -245,37 +245,37 @@
         "longitude": 34.61589
     },
     {
-        "name": "Черный",
+        "name": "Дубки",
         "latitude": 44.93581,
         "longitude": 34.02355
     },
     {
-        "name": "Dzhankoy",
+        "name": "Джанкой",
         "latitude": 45.71168,
         "longitude": 34.39274
     },
     {
-        "name": "Dzhankoyskiy rayon",
+        "name": "Джанкойский район",
         "latitude": 45.78706,
         "longitude": 34.39197
     },
     {
-        "name": "Феодосия",
+        "name": "Feevot",
         "latitude": 45.03677,
         "longitude": 35.37789
     },
     {
-        "name": "Филатовка",
+        "name": "Филат",
         "latitude": 46.08192,
         "longitude": 33.7851
     },
     {
-        "name": "Fontany",
+        "name": "Фонтаны",
         "latitude": 44.89717,
         "longitude": 34.07297
     },
     {
-        "name": "Форумы",
+        "name": "Форум",
         "latitude": 44.39214,
         "longitude": 33.78798
     },
@@ -285,12 +285,12 @@
         "longitude": 33.62956
     },
     {
-        "name": "Гаспра",
+        "name": "Газпра",
         "latitude": 44.43364,
         "longitude": 34.10297
     },
     {
-        "name": "Geroyskoye",
+        "name": "Геройское",
         "latitude": 45.13857,
         "longitude": 33.74675
     },
@@ -300,72 +300,72 @@
         "longitude": 36.57965
     },
     {
-        "name": "Голубь",
+        "name": "Голубинка",
         "latitude": 44.59382,
         "longitude": 33.91521
     },
     {
-        "name": "Gornostayevka",
+        "name": "Горностаевка",
         "latitude": 45.27819,
         "longitude": 36.18601
     },
     {
-        "name": "Gorodskoy okrug Alushta",
+        "name": "Городской округ Алушта",
         "latitude": 44.67256,
         "longitude": 34.41467
     },
     {
-        "name": "Gorodskoy okrug Armyansk",
+        "name": "Городской округ Армянск",
         "latitude": 46.10871,
         "longitude": 33.69095
     },
     {
-        "name": "Gorodskoy okrug Dzhankoy",
+        "name": "Городской округ Джанкой",
         "latitude": 45.7081,
         "longitude": 34.39407
     },
     {
-        "name": "Gorodskoy okrug Feodosiya",
+        "name": "Городской округ Феодосия",
         "latitude": 45.04612,
         "longitude": 35.37289
     },
     {
-        "name": "Gorodskoy okrug Krasnoperekopsk",
+        "name": "Городской округ Красноперекопск",
         "latitude": 45.9533,
         "longitude": 33.79669
     },
     {
-        "name": "Gorodskoy okrug Saki",
+        "name": "Городской округ Саки",
         "latitude": 45.1278,
         "longitude": 33.60134
     },
     {
-        "name": "Gorodskoy okrug Simferopol",
+        "name": "Городской округ Симферополь",
         "latitude": 44.94803,
         "longitude": 34.10912
     },
     {
-        "name": "Gorodskoy okrug Sudak",
+        "name": "Городской округ Судак",
         "latitude": 44.91667,
         "longitude": 35.00202
     },
     {
-        "name": "Gorodskoy okrug Yalta",
+        "name": "Городской округ Ялта",
         "latitude": 44.49638,
         "longitude": 34.16336
     },
     {
-        "name": "Gorodskoy okrug Yevpatoriya",
+        "name": "Городской округ Евпатория",
         "latitude": 45.19559,
         "longitude": 33.36342
     },
     {
-        "name": "Gresovskiy",
+        "name": "Грэсовский",
         "latitude": 45.00804,
         "longitude": 34.02657
     },
     {
-        "name": "Гришино",
+        "name": "Призрак",
         "latitude": 45.64219,
         "longitude": 33.83098
     },
@@ -380,27 +380,27 @@
         "longitude": 34.27841
     },
     {
-        "name": "Хвардейское",
+        "name": "Хвардиске",
         "latitude": 45.11692,
         "longitude": 34.02188
     },
     {
-        "name": "Ильичёво",
+        "name": "Ильчиово",
         "latitude": 45.28348,
         "longitude": 35.73864
     },
     {
-        "name": "Ильичево",
+        "name": "Ильейчево",
         "latitude": 45.24524,
         "longitude": 35.07127
     },
     {
-        "name": "Ильинка",
+        "name": "Илинка",
         "latitude": 45.81784,
         "longitude": 33.79482
     },
     {
-        "name": "Ишунь",
+        "name": "Активность '",
         "latitude": 45.92403,
         "longitude": 33.82364
     },
@@ -410,17 +410,17 @@
         "longitude": 33.6613
     },
     {
-        "name": "Izobil’noye",
+        "name": "Изобиль’ное",
         "latitude": 44.70276,
         "longitude": 34.35357
     },
     {
-        "name": "Izumrudnoye",
+        "name": "Изумрудное",
         "latitude": 45.73704,
         "longitude": 34.41299
     },
     {
-        "name": "Izyumovka",
+        "name": "Изюмовка",
         "latitude": 45.04437,
         "longitude": 35.13717
     },
@@ -430,17 +430,17 @@
         "longitude": 34.2203
     },
     {
-        "name": "Калиновка",
+        "name": "Божья коровка",
         "latitude": 45.31658,
         "longitude": 35.74643
     },
     {
-        "name": "Каменоломня",
+        "name": "Каменомни",
         "latitude": 45.24804,
         "longitude": 33.41773
     },
     {
-        "name": "Kashtanovoye",
+        "name": "Каштановое",
         "latitude": 44.8321,
         "longitude": 34.05912
     },
@@ -450,167 +450,167 @@
         "longitude": 33.78995
     },
     {
-        "name": "Керчь",
+        "name": "По -прежнему",
         "latitude": 45.3531,
         "longitude": 36.47429
     },
     {
-        "name": "Смешанный радар Керченса",
+        "name": "Экономика Керерна, я не смог.",
         "latitude": 45.35307,
         "longitude": 36.47414
     },
     {
-        "name": "Kholmovka",
+        "name": "Холмовка",
         "latitude": 44.6583,
         "longitude": 33.75456
     },
     {
-        "name": "Кирово",
+        "name": "Кирова",
         "latitude": 45.22106,
         "longitude": 35.84227
     },
     {
-        "name": "Kirovske Raion",
+        "name": "Кировске Район",
         "latitude": 45.15522,
         "longitude": 35.17696
     },
     {
-        "name": "Kirovskoye",
+        "name": "Кировское",
         "latitude": 45.22967,
         "longitude": 35.19987
     },
     {
-        "name": "Клепинино",
+        "name": "Клепина",
         "latitude": 45.528,
         "longitude": 34.18315
     },
     {
-        "name": "Коктейльный стол",
+        "name": "Cocontebel",
         "latitude": 44.96155,
         "longitude": 35.2466
     },
     {
-        "name": "Кольчугино",
+        "name": "Вызов",
         "latitude": 44.94367,
         "longitude": 33.78865
     },
     {
-        "name": "Кольцово",
+        "name": "Столбец",
         "latitude": 45.32807,
         "longitude": 33.44992
     },
     {
-        "name": "Kolodeznoye",
+        "name": "Колодезное",
         "latitude": 45.22682,
         "longitude": 34.33698
     },
     {
-        "name": "Колоски",
+        "name": "Колос",
         "latitude": 45.26936,
         "longitude": 33.29386
     },
     {
-        "name": "Komsomol’skoye",
+        "name": "Комсомол’ское",
         "latitude": 45.019,
         "longitude": 34.03049
     },
     {
-        "name": "Kondratyevo",
+        "name": "Кондратьево",
         "latitude": 45.63125,
         "longitude": 34.47387
     },
     {
-        "name": "Константиновка",
+        "name": "Константин",
         "latitude": 44.85511,
         "longitude": 34.12069
     },
     {
-        "name": "Кореиз",
+        "name": "Крей З.",
         "latitude": 44.43374,
         "longitude": 34.08516
     },
     {
-        "name": "Kormovoye",
+        "name": "Кормовое",
         "latitude": 45.50001,
         "longitude": 33.61192
     },
     {
-        "name": "Kostochkovka",
+        "name": "Косточковка",
         "latitude": 45.31747,
         "longitude": 34.67418
     },
     {
-        "name": "Котельниково",
+        "name": "Котел",
         "latitude": 45.36584,
         "longitude": 34.02575
     },
     {
-        "name": "Kovyl’noye",
+        "name": "Ковыль’ное",
         "latitude": 45.69028,
         "longitude": 33.52775
     },
     {
-        "name": "Прекрасная Зорка",
+        "name": "Красивый рассвет",
         "latitude": 45.13432,
         "longitude": 34.04015
     },
     {
-        "name": "Krasnaya Polyana",
+        "name": "Красная Поляна",
         "latitude": 45.48241,
         "longitude": 32.9379
     },
     {
-        "name": "Krasnoarmeyskoye",
+        "name": "Красноармейское",
         "latitude": 45.99103,
         "longitude": 34.03037
     },
     {
-        "name": "Krasnoflotskoye",
+        "name": "Краснофлотское",
         "latitude": 45.31572,
         "longitude": 34.94756
     },
     {
-        "name": "Krasnogorka",
+        "name": "Красногорка",
         "latitude": 45.24513,
         "longitude": 35.80739
     },
     {
-        "name": "Krasnogvardeyskoye",
+        "name": "Красногвардейское",
         "latitude": 45.50271,
         "longitude": 34.30134
     },
     {
-        "name": "Краснохвардейское Район",
+        "name": "КРАСНОГВАРДИСКЕСКИЙ ОБЩЕСТВО",
         "latitude": 45.4023,
         "longitude": 34.25464
     },
     {
-        "name": "Краснокаменка",
+        "name": "Крамманка",
         "latitude": 44.56383,
         "longitude": 34.28877
     },
     {
-        "name": "Krasnolesye",
+        "name": "Краснолесье",
         "latitude": 44.83259,
         "longitude": 34.23086
     },
     {
-        "name": "Красноперекопск",
+        "name": "Krasnoperekops'k",
         "latitude": 45.95716,
         "longitude": 33.7965
     },
     {
-        "name": "Красноперекопский район",
+        "name": "Краскопрак",
         "latitude": 45.96992,
         "longitude": 33.8799
     },
     {
-        "name": "Krasnoyarskoye",
+        "name": "Красноярское",
         "latitude": 45.50661,
         "longitude": 33.26641
     },
     {
-        "name": "Krasnoye",
+        "name": "Красное",
         "latitude": 45.13999,
         "longitude": 34.09452
     },
@@ -625,47 +625,47 @@
         "longitude": 33.7813
     },
     {
-        "name": "Krayneye",
+        "name": "Крайнее",
         "latitude": 45.22993,
         "longitude": 33.83239
     },
     {
-        "name": "Krest’yanovka",
+        "name": "Крест’яновка",
         "latitude": 45.72268,
         "longitude": 33.93938
     },
     {
-        "name": "Krinichnoye",
+        "name": "Криничное",
         "latitude": 45.02428,
         "longitude": 34.61202
     },
     {
-        "name": "Krymka",
+        "name": "Кромка",
         "latitude": 45.70453,
         "longitude": 34.18782
     },
     {
-        "name": "Krymskaya Roza",
+        "name": "Крымская Роза",
         "latitude": 45.05776,
         "longitude": 34.35631
     },
     {
-        "name": "Krymskoye",
+        "name": "Крымское",
         "latitude": 45.18836,
         "longitude": 33.80106
     },
     {
-        "name": "Kuibyshevo",
+        "name": "Куйбышево",
         "latitude": 44.629,
         "longitude": 33.86895
     },
     {
-        "name": "Kukushkino",
+        "name": "Кукушкино",
         "latitude": 45.71924,
         "longitude": 33.3903
     },
     {
-        "name": "Kurskoye",
+        "name": "Курское",
         "latitude": 45.02908,
         "longitude": 34.93623
     },
@@ -675,7 +675,7 @@
         "longitude": 34.9577
     },
     {
-        "name": "Lekarstvennoye",
+        "name": "Лекарственное",
         "latitude": 44.94194,
         "longitude": 33.82229
     },
@@ -690,22 +690,22 @@
         "longitude": 35.77708
     },
     {
-        "name": "Leninskoye",
+        "name": "Ленинское",
         "latitude": 45.26844,
         "longitude": 34.05023
     },
     {
-        "name": "Lesnovka",
+        "name": "Лесновка",
         "latitude": 45.1535,
         "longitude": 33.61889
     },
     {
-        "name": "Levadki",
+        "name": "Левадки",
         "latitude": 44.87083,
         "longitude": 34.04278
     },
     {
-        "name": "Listvennoye",
+        "name": "Лиственное",
         "latitude": 45.48086,
         "longitude": 34.81087
     },
@@ -725,22 +725,22 @@
         "longitude": 34.24236
     },
     {
-        "name": "Lozovoye",
+        "name": "Лозовое",
         "latitude": 44.906,
         "longitude": 34.16414
     },
     {
-        "name": "Luchistoye",
+        "name": "Лучистое",
         "latitude": 44.73646,
         "longitude": 34.40063
     },
     {
-        "name": "Luganskoye",
+        "name": "Луганское",
         "latitude": 45.8019,
         "longitude": 34.23786
     },
     {
-        "name": "Lugovoye",
+        "name": "Луговое",
         "latitude": 45.23469,
         "longitude": 35.72202
     },
@@ -750,17 +750,17 @@
         "longitude": 34.04969
     },
     {
-        "name": "Malen’koye",
+        "name": "Мален’кое",
         "latitude": 45.07585,
         "longitude": 33.99942
     },
     {
-        "name": "Malorechenskoye",
+        "name": "Малореченское",
         "latitude": 44.75888,
         "longitude": 34.55789
     },
     {
-        "name": "Maly Mayak",
+        "name": "У них был маяк",
         "latitude": 44.61356,
         "longitude": 34.36469
     },
@@ -770,12 +770,12 @@
         "longitude": 34.29474
     },
     {
-        "name": "Marfovka",
+        "name": "Марфовка",
         "latitude": 45.19853,
         "longitude": 36.09144
     },
     {
-        "name": "Maryevka",
+        "name": "Марьевка",
         "latitude": 45.1133,
         "longitude": 36.23992
     },
@@ -790,7 +790,7 @@
         "longitude": 34.18817
     },
     {
-        "name": "Mayskoye",
+        "name": "Майское",
         "latitude": 45.59555,
         "longitude": 34.55213
     },
@@ -810,22 +810,22 @@
         "longitude": 33.004
     },
     {
-        "name": "Mel’nichnoye",
+        "name": "Тел’ничное",
         "latitude": 45.19885,
         "longitude": 34.42012
     },
     {
-        "name": "Mezhvodnoye",
+        "name": "Межводное",
         "latitude": 45.58751,
         "longitude": 32.84501
     },
     {
-        "name": "Michurinskoye",
+        "name": "Мичуринское",
         "latitude": 45.0743,
         "longitude": 34.70672
     },
     {
-        "name": "Mikhaylovka",
+        "name": "Михайловка",
         "latitude": 45.11325,
         "longitude": 33.61071
     },
@@ -835,7 +835,7 @@
         "longitude": 34.30966
     },
     {
-        "name": "Mirnoye",
+        "name": "Мирное",
         "latitude": 44.9833,
         "longitude": 34.0616
     },
@@ -845,37 +845,37 @@
         "longitude": 33.03501
     },
     {
-        "name": "Mitrofanovka",
+        "name": "Митрофановка",
         "latitude": 45.45114,
         "longitude": 34.67883
     },
     {
-        "name": "Mityayevo",
+        "name": "Митяево",
         "latitude": 45.23423,
         "longitude": 33.7015
     },
     {
-        "name": "Molochnoye",
+        "name": "Молочное",
         "latitude": 45.1996,
         "longitude": 33.22233
     },
     {
-        "name": "Molodyozhnoye",
+        "name": "Молодёжное",
         "latitude": 45.00354,
         "longitude": 34.05634
     },
     {
-        "name": "Morskoye",
+        "name": "Морское",
         "latitude": 44.82593,
         "longitude": 34.80314
     },
     {
-        "name": "Muromskoye",
+        "name": "Муромское",
         "latitude": 45.09051,
         "longitude": 34.849
     },
     {
-        "name": "Muskatnoye",
+        "name": "Мускатное",
         "latitude": 45.46586,
         "longitude": 34.54316
     },
@@ -890,7 +890,7 @@
         "longitude": 35.29415
     },
     {
-        "name": "Naydenovka",
+        "name": "Найдёновка",
         "latitude": 45.27088,
         "longitude": 34.44898
     },
@@ -910,12 +910,12 @@
         "longitude": 34.2384
     },
     {
-        "name": "Nikolayevka",
+        "name": "Николаевка",
         "latitude": 44.96213,
         "longitude": 33.61061
     },
     {
-        "name": "Nizhnegorskiy",
+        "name": "Нижнегорский",
         "latitude": 45.44789,
         "longitude": 34.73839
     },
@@ -925,22 +925,22 @@
         "longitude": 34.76798
     },
     {
-        "name": "Novoandreyevka",
+        "name": "Новоандреевка",
         "latitude": 45.19904,
         "longitude": 34.09384
     },
     {
-        "name": "Novoestoniya",
+        "name": "Новоэстония",
         "latitude": 45.4996,
         "longitude": 34.24298
     },
     {
-        "name": "Novofedorovka",
+        "name": "Новофедоровка",
         "latitude": 45.09473,
         "longitude": 33.57211
     },
     {
-        "name": "Novogrigoryevka",
+        "name": "Новогригорьевка",
         "latitude": 45.452,
         "longitude": 34.60378
     },
@@ -950,17 +950,17 @@
         "longitude": 33.09833
     },
     {
-        "name": "Novokrymskoye",
+        "name": "Новокрымское",
         "latitude": 45.78007,
         "longitude": 34.15543
     },
     {
-        "name": "Novonikolayevka",
+        "name": "Новониколаевка",
         "latitude": 45.30855,
         "longitude": 36.05749
     },
     {
-        "name": "Novoozyornoye",
+        "name": "Новоозерное",
         "latitude": 45.38314,
         "longitude": 33.11715
     },
@@ -975,17 +975,17 @@
         "longitude": 35.25304
     },
     {
-        "name": "Novosel’skoye",
+        "name": "Новосел’ское",
         "latitude": 45.50357,
         "longitude": 32.7225
     },
     {
-        "name": "Novoselovskoye",
+        "name": "Новоселовское",
         "latitude": 45.44276,
         "longitude": 33.59795
     },
     {
-        "name": "Novostepnoye",
+        "name": "Новостепное",
         "latitude": 45.66206,
         "longitude": 34.387
     },
@@ -1010,17 +1010,17 @@
         "longitude": 33.59405
     },
     {
-        "name": "Okhotskoye",
+        "name": "Охотское",
         "latitude": 45.48612,
         "longitude": 34.86401
     },
     {
-        "name": "Oktyabr'skoye",
+        "name": "Октябрьское",
         "latitude": 45.36215,
         "longitude": 36.36803
     },
     {
-        "name": "Oktyabr’skoye",
+        "name": "Октябрь’ское",
         "latitude": 45.28866,
         "longitude": 34.13521
     },
@@ -1035,7 +1035,7 @@
         "longitude": 32.53333
     },
     {
-        "name": "Ordzhonikidze",
+        "name": "Орджоникидзе",
         "latitude": 44.96401,
         "longitude": 35.35576
     },
@@ -1045,7 +1045,7 @@
         "longitude": 33.6318
     },
     {
-        "name": "Orlovskoye",
+        "name": "Орловское",
         "latitude": 45.8107,
         "longitude": 33.97308
     },
@@ -1055,7 +1055,7 @@
         "longitude": 35.91295
     },
     {
-        "name": "Ostrovskoye",
+        "name": "Островское",
         "latitude": 45.74232,
         "longitude": 34.06607
     },
@@ -1070,17 +1070,17 @@
         "longitude": 34.34464
     },
     {
-        "name": "Partizanskoye",
+        "name": "Партизанское",
         "latitude": 44.83379,
         "longitude": 34.08465
     },
     {
-        "name": "Partizany",
+        "name": "Партизаны",
         "latitude": 45.14373,
         "longitude": 35.15509
     },
     {
-        "name": "Pereval'noye",
+        "name": "Перевальное",
         "latitude": 44.84838,
         "longitude": 34.31271
     },
@@ -1090,17 +1090,17 @@
         "longitude": 34.05753
     },
     {
-        "name": "Pervomayskiy rayon",
+        "name": "Первомайский район",
         "latitude": 45.59825,
         "longitude": 33.83249
     },
     {
-        "name": "Pervomayskoye",
+        "name": "Первомайское",
         "latitude": 45.71744,
         "longitude": 33.85596
     },
     {
-        "name": "Peschanoye",
+        "name": "Песчаное",
         "latitude": 44.84342,
         "longitude": 33.60921
     },
@@ -1110,22 +1110,22 @@
         "longitude": 34.28816
     },
     {
-        "name": "Pionerskoye",
+        "name": "Пионерское",
         "latitude": 44.88083,
         "longitude": 34.20194
     },
     {
-        "name": "Plodovoye",
+        "name": "Плодовое",
         "latitude": 44.87156,
         "longitude": 33.85615
     },
     {
-        "name": "Pobednoye",
+        "name": "Победное",
         "latitude": 45.70109,
         "longitude": 34.44805
     },
     {
-        "name": "Pochetnoye",
+        "name": "Почетное",
         "latitude": 45.99495,
         "longitude": 33.76588
     },
@@ -1140,7 +1140,7 @@
         "longitude": 33.96159
     },
     {
-        "name": "Pozharskoye",
+        "name": "Пожарское",
         "latitude": 44.93554,
         "longitude": 33.87109
     },
@@ -1150,27 +1150,27 @@
         "longitude": 33.84649
     },
     {
-        "name": "Primorskiy",
+        "name": "Приморский",
         "latitude": 45.11904,
         "longitude": 35.48025
     },
     {
-        "name": "Priozyornoye",
+        "name": "Приозерное",
         "latitude": 45.2699,
         "longitude": 36.33405
     },
     {
-        "name": "Privetnoye",
+        "name": "Приветное",
         "latitude": 45.11969,
         "longitude": 35.0596
     },
     {
-        "name": "Prostornoye",
+        "name": "Просторное",
         "latitude": 45.65597,
         "longitude": 34.69837
     },
     {
-        "name": "Prudovoye",
+        "name": "Прудовое",
         "latitude": 44.90424,
         "longitude": 33.78114
     },
@@ -1180,7 +1180,7 @@
         "longitude": 34.70217
     },
     {
-        "name": "Pshenichnoye",
+        "name": "Пшеничное",
         "latitude": 45.64627,
         "longitude": 34.83767
     },
@@ -1190,17 +1190,17 @@
         "longitude": 34.97642
     },
     {
-        "name": "Pyatikhatka",
+        "name": "Пятихатка",
         "latitude": 45.32347,
         "longitude": 34.25516
     },
     {
-        "name": "Razdol’nenskiy rayon",
+        "name": "Раздол’ненский район",
         "latitude": 45.67086,
         "longitude": 33.44075
     },
     {
-        "name": "Razdol’noye",
+        "name": "Раздол’ное",
         "latitude": 45.77083,
         "longitude": 33.48777
     },
@@ -1210,22 +1210,22 @@
         "longitude": 33.95407
     },
     {
-        "name": "Romashkino",
+        "name": "Ромашкино",
         "latitude": 45.25647,
         "longitude": 33.25517
     },
     {
-        "name": "Roshchino",
+        "name": "Рощино",
         "latitude": 45.60916,
         "longitude": 34.37992
     },
     {
-        "name": "Roskoshnoye",
+        "name": "Роскошное",
         "latitude": 45.65187,
         "longitude": 34.11552
     },
     {
-        "name": "Rovnoye",
+        "name": "Ровное",
         "latitude": 45.35134,
         "longitude": 34.3523
     },
@@ -1245,7 +1245,7 @@
         "longitude": 34.59609
     },
     {
-        "name": "Sadovoye",
+        "name": "Садовое",
         "latitude": 45.31037,
         "longitude": 34.6526
     },
@@ -1255,32 +1255,32 @@
         "longitude": 33.59996
     },
     {
-        "name": "Sakskiy rayon",
+        "name": "Сакский район",
         "latitude": 45.27799,
         "longitude": 33.52911
     },
     {
-        "name": "Сары-Баш",
+        "name": "Желтая голова",
         "latitude": 45.57142,
         "longitude": 33.78728
     },
     {
-        "name": "Semisotka",
+        "name": "Семисотка",
         "latitude": 45.24676,
         "longitude": 35.565
     },
     {
-        "name": "Senokosnoye",
+        "name": "Сенокосное",
         "latitude": 45.73277,
         "longitude": 33.51552
     },
     {
-        "name": "Serebryanka",
+        "name": "Серебрянка",
         "latitude": 45.63937,
         "longitude": 33.49632
     },
     {
-        "name": "Shchebetovka",
+        "name": "Щебетовка",
         "latitude": 44.93821,
         "longitude": 35.158
     },
@@ -1290,22 +1290,22 @@
         "longitude": 35.8225
     },
     {
-        "name": "Shelkovichnoye",
+        "name": "Шелковичное",
         "latitude": 45.18748,
         "longitude": 33.68807
     },
     {
-        "name": "Shirokoye",
+        "name": "Широкое",
         "latitude": 45.20029,
         "longitude": 34.05069
     },
     {
-        "name": "Shkol’noye",
+        "name": "Школ’ное",
         "latitude": 45.05758,
         "longitude": 33.89737
     },
     {
-        "name": "Shtormovoye",
+        "name": "Штормовое",
         "latitude": 45.26717,
         "longitude": 33.08693
     },
@@ -1325,7 +1325,7 @@
         "longitude": 34.10225
     },
     {
-        "name": "Sinitsyno",
+        "name": "Синицыно",
         "latitude": 45.23862,
         "longitude": 35.24659
     },
@@ -1335,7 +1335,7 @@
         "longitude": 33.87669
     },
     {
-        "name": "Skalistoye",
+        "name": "Скалистое",
         "latitude": 44.81686,
         "longitude": 33.97791
     },
@@ -1345,12 +1345,12 @@
         "longitude": 33.82084
     },
     {
-        "name": "Slavnoye",
+        "name": "Славное",
         "latitude": 45.72176,
         "longitude": 33.23689
     },
     {
-        "name": "Slavyanskoye",
+        "name": "Славянское",
         "latitude": 45.72768,
         "longitude": 33.32165
     },
@@ -1360,17 +1360,17 @@
         "longitude": 33.99887
     },
     {
-        "name": "Sokolinoye",
+        "name": "Соколиное",
         "latitude": 44.55041,
         "longitude": 33.95897
     },
     {
-        "name": "Solnechnaya Dolina",
+        "name": "Солнечная Долина",
         "latitude": 44.87185,
         "longitude": 35.10622
     },
     {
-        "name": "Solnechnogorskoye",
+        "name": "Солнечногорское",
         "latitude": 44.74722,
         "longitude": 34.53999
     },
@@ -1380,7 +1380,7 @@
         "longitude": 34.0838
     },
     {
-        "name": "Sovetskiy",
+        "name": "Советский",
         "latitude": 45.34267,
         "longitude": 34.92463
     },
@@ -1390,7 +1390,7 @@
         "longitude": 34.92914
     },
     {
-        "name": "Sovkhoznoye",
+        "name": "Совхозное",
         "latitude": 45.96005,
         "longitude": 33.77155
     },
@@ -1400,7 +1400,7 @@
         "longitude": 33.94883
     },
     {
-        "name": "Stal’noye",
+        "name": "Стал’ное",
         "latitude": 45.70814,
         "longitude": 34.56238
     },
@@ -1410,17 +1410,17 @@
         "longitude": 35.09174
     },
     {
-        "name": "Stepnoye",
+        "name": "Степное",
         "latitude": 45.65212,
         "longitude": 33.77441
     },
     {
-        "name": "Stolbovoye",
+        "name": "Столбовое",
         "latitude": 45.3627,
         "longitude": 33.49584
     },
     {
-        "name": "Strogonovka",
+        "name": "Строгоновка",
         "latitude": 44.9497,
         "longitude": 34.17924
     },
@@ -1440,27 +1440,27 @@
         "longitude": 33.688
     },
     {
-        "name": "Suvorovskoye",
+        "name": "Суворовское",
         "latitude": 45.25171,
         "longitude": 33.37194
     },
     {
-        "name": "Svetloye",
+        "name": "Светлое",
         "latitude": 45.6332,
         "longitude": 34.66264
     },
     {
-        "name": "Tabachnoye",
+        "name": "Табачное",
         "latitude": 44.90175,
         "longitude": 33.67638
     },
     {
-        "name": "Tankovoye",
+        "name": "Танковое",
         "latitude": 44.65829,
         "longitude": 33.80929
     },
     {
-        "name": "Tenistoye",
+        "name": "Тенистое",
         "latitude": 44.74303,
         "longitude": 33.66812
     },
@@ -1475,17 +1475,17 @@
         "longitude": 35.15244
     },
     {
-        "name": "Trudovoye",
+        "name": "Трудовое",
         "latitude": 44.99133,
         "longitude": 34.20311
     },
     {
-        "name": "Tselinnoye",
+        "name": "Целинное",
         "latitude": 45.90633,
         "longitude": 34.18063
     },
     {
-        "name": "Tsvetochnoye",
+        "name": "Цветочное",
         "latitude": 45.08655,
         "longitude": 34.38521
     },
@@ -1495,7 +1495,7 @@
         "longitude": 33.83007
     },
     {
-        "name": "Uglovoye",
+        "name": "Угловое",
         "latitude": 44.82146,
         "longitude": 33.60452
     },
@@ -1505,12 +1505,12 @@
         "longitude": 34.13973
     },
     {
-        "name": "Ukromnoye",
+        "name": "Укромное",
         "latitude": 45.04272,
         "longitude": 34.00312
     },
     {
-        "name": "Urozhaynoye",
+        "name": "Урожайное",
         "latitude": 45.04522,
         "longitude": 34.13511
     },
@@ -1525,22 +1525,22 @@
         "longitude": 35.66506
     },
     {
-        "name": "Uyutnoye",
+        "name": "Уютное",
         "latitude": 45.19769,
         "longitude": 33.29796
     },
     {
-        "name": "Vasilyevka",
+        "name": "Васильевка",
         "latitude": 45.13938,
         "longitude": 34.72291
     },
     {
-        "name": "Veresayevo",
+        "name": "Вересаево",
         "latitude": 45.30551,
         "longitude": 33.50004
     },
     {
-        "name": "Verkhorechye",
+        "name": "Верхоречье",
         "latitude": 44.69738,
         "longitude": 33.98696
     },
@@ -1560,12 +1560,12 @@
         "longitude": 33.67161
     },
     {
-        "name": "Vinnitskoye",
+        "name": "Винницкое",
         "latitude": 44.98129,
         "longitude": 33.7392
     },
     {
-        "name": "Vinogradnoye",
+        "name": "Виноградное",
         "latitude": 44.48149,
         "longitude": 34.12973
     },
@@ -1575,12 +1575,12 @@
         "longitude": 33.64668
     },
     {
-        "name": "Vishennoye",
+        "name": "Вышенное",
         "latitude": 45.14509,
         "longitude": 34.59691
     },
     {
-        "name": "Vishnyovka",
+        "name": "Вишневка",
         "latitude": 45.95966,
         "longitude": 33.95289
     },
@@ -1600,7 +1600,7 @@
         "longitude": 33.99138
     },
     {
-        "name": "Vol’noye",
+        "name": "Вол’ное",
         "latitude": 45.5657,
         "longitude": 34.3036
     },
@@ -1625,22 +1625,22 @@
         "longitude": 34.16624
     },
     {
-        "name": "Yantarnoye",
+        "name": "Янтарное",
         "latitude": 45.43473,
         "longitude": 34.22134
     },
     {
-        "name": "Yarkoye",
+        "name": "Яркое",
         "latitude": 45.6912,
         "longitude": 34.26323
     },
     {
-        "name": "Yarkoye Pole",
+        "name": "Яркое Поле",
         "latitude": 45.20581,
         "longitude": 35.19848
     },
     {
-        "name": "Yasnopolyanskoye",
+        "name": "Яснополянское",
         "latitude": 45.94097,
         "longitude": 34.35262
     },
@@ -1665,27 +1665,27 @@
         "longitude": 34.10168
     },
     {
-        "name": "Zaozyornoye",
+        "name": "Заозёрное",
         "latitude": 45.15816,
         "longitude": 33.27866
     },
     {
-        "name": "Zarechnoye",
+        "name": "Заречное",
         "latitude": 44.85048,
         "longitude": 34.26426
     },
     {
-        "name": "Zavet-Leninskiy",
+        "name": "Завет-Ленинский",
         "latitude": 45.86258,
         "longitude": 34.3916
     },
     {
-        "name": "Zavetnoye",
+        "name": "Заветное",
         "latitude": 45.32697,
         "longitude": 34.80837
     },
     {
-        "name": "Zelenogorskoye",
+        "name": "Зеленогорское",
         "latitude": 45.01249,
         "longitude": 34.46848
     },
@@ -1695,32 +1695,32 @@
         "longitude": 34.00921
     },
     {
-        "name": "Zemlyanichnoye",
+        "name": "Земляничное",
         "latitude": 44.97444,
         "longitude": 34.83553
     },
     {
-        "name": "Zernovoye",
+        "name": "Зерновое",
         "latitude": 45.32364,
         "longitude": 34.48099
     },
     {
-        "name": "Zheleznodorozhnoye",
+        "name": "Железнодорожное",
         "latitude": 44.7171,
         "longitude": 33.80417
     },
     {
-        "name": "Zhelyabovka",
+        "name": "Желябовка",
         "latitude": 45.39877,
         "longitude": 34.75776
     },
     {
-        "name": "Zhemchuzhina",
+        "name": "Жемчужина",
         "latitude": 45.27466,
         "longitude": 34.65778
     },
     {
-        "name": "Zhuravki",
+        "name": "Журавки",
         "latitude": 45.12629,
         "longitude": 35.21513
     },
@@ -1730,7 +1730,7 @@
         "longitude": 33.64104
     },
     {
-        "name": "Zhuravlyovka",
+        "name": "Журавлевка",
         "latitude": 45.1768,
         "longitude": 33.9968
     },
@@ -1740,7 +1740,7 @@
         "longitude": 33.51431
     },
     {
-        "name": "Zolotoye Pole",
+        "name": "Золотое Поле",
         "latitude": 45.12774,
         "longitude": 34.99148
     },
@@ -1750,7 +1750,7 @@
         "longitude": 34.71028
     },
     {
-        "name": "Zuya",
+        "name": "Зуя",
         "latitude": 45.05418,
         "longitude": 34.32152
     },
@@ -1770,7 +1770,7 @@
         "longitude": 30.40355
     },
     {
-        "name": "Cherkasy",
+        "name": "Черкасы",
         "latitude": 49.42854,
         "longitude": 32.06207
     },
@@ -1780,12 +1780,12 @@
         "longitude": 32.15742
     },
     {
-        "name": "Chornobay",
+        "name": "Чорнобай",
         "latitude": 49.66644,
         "longitude": 32.32932
     },
     {
-        "name": "Chyhyryn",
+        "name": "Chiirin",
         "latitude": 49.08376,
         "longitude": 32.65549
     },
@@ -1805,22 +1805,22 @@
         "longitude": 32.10396
     },
     {
-        "name": "Kaniv",
+        "name": "Канив",
         "latitude": 49.75182,
         "longitude": 31.46004
     },
     {
-        "name": "Khrystynivka",
+        "name": "Христинивра",
         "latitude": 48.81577,
         "longitude": 29.97703
     },
     {
-        "name": "Корсунь-Шевченковский",
+        "name": "Корсун-Шевченковский",
         "latitude": 49.41894,
         "longitude": 31.25865
     },
     {
-        "name": "Lebedyn",
+        "name": "Лебедин",
         "latitude": 48.96242,
         "longitude": 31.52696
     },
@@ -1830,7 +1830,7 @@
         "longitude": 30.82946
     },
     {
-        "name": "Mankivka",
+        "name": "Манкивка",
         "latitude": 48.96349,
         "longitude": 30.33366
     },
@@ -1840,17 +1840,17 @@
         "longitude": 31.51704
     },
     {
-        "name": "Monastyryshche",
+        "name": "Монастырище",
         "latitude": 48.9909,
         "longitude": 29.8047
     },
     {
-        "name": "Moshny",
+        "name": "Мощный",
         "latitude": 49.52754,
         "longitude": 31.73708
     },
     {
-        "name": "Нове-Мисто",
+        "name": "Но-мисто",
         "latitude": 48.98113,
         "longitude": 29.82813
     },
@@ -1865,7 +1865,7 @@
         "longitude": 31.39471
     },
     {
-        "name": "Smila",
+        "name": "Смила",
         "latitude": 49.22242,
         "longitude": 31.88714
     },
@@ -1900,7 +1900,7 @@
         "longitude": 31.06211
     },
     {
-        "name": "Verkhniachka",
+        "name": "Вершина",
         "latitude": 48.82849,
         "longitude": 30.03957
     },
@@ -1920,7 +1920,7 @@
         "longitude": 30.1102
     },
     {
-        "name": "Zolotonosha",
+        "name": "Золотоноша",
         "latitude": 49.66832,
         "longitude": 32.04047
     },
@@ -1945,12 +1945,12 @@
         "longitude": 32.87794
     },
     {
-        "name": "Berezna",
+        "name": "Березна",
         "latitude": 51.5716,
         "longitude": 31.78456
     },
     {
-        "name": "Bobrovytsya",
+        "name": "Бобровиця",
         "latitude": 50.74693,
         "longitude": 31.3948
     },
@@ -1985,7 +1985,7 @@
         "longitude": 32.77012
     },
     {
-        "name": "Dobryanka",
+        "name": "Добрянка",
         "latitude": 52.06314,
         "longitude": 31.18567
     },
@@ -1995,17 +1995,17 @@
         "longitude": 31.59741
     },
     {
-        "name": "Ichnya",
+        "name": "Ичня",
         "latitude": 50.86258,
         "longitude": 32.39425
     },
     {
-        "name": "Kholmy",
+        "name": "Холмы",
         "latitude": 51.87096,
         "longitude": 32.60063
     },
     {
-        "name": "Kobyzhcha",
+        "name": "Кобыжча",
         "latitude": 50.82854,
         "longitude": 31.50439
     },
@@ -2015,7 +2015,7 @@
         "longitude": 32.95861
     },
     {
-        "name": "Koryukivka",
+        "name": "Корюкивка",
         "latitude": 51.76877,
         "longitude": 32.24813
     },
@@ -2025,12 +2025,12 @@
         "longitude": 31.1214
     },
     {
-        "name": "Kruty",
+        "name": "Отвесный",
         "latitude": 51.05974,
         "longitude": 32.10634
     },
     {
-        "name": "Kulykivka",
+        "name": "Куликивка",
         "latitude": 51.37345,
         "longitude": 31.64661
     },
@@ -2045,7 +2045,7 @@
         "longitude": 32.32919
     },
     {
-        "name": "Lyubech",
+        "name": "Любеч",
         "latitude": 51.7026,
         "longitude": 30.65692
     },
@@ -2055,7 +2055,7 @@
         "longitude": 32.21568
     },
     {
-        "name": "Mens’kyy Rayon",
+        "name": "МНК область",
         "latitude": 51.52148,
         "longitude": 32.02166
     },
@@ -2070,7 +2070,7 @@
         "longitude": 31.58282
     },
     {
-        "name": "Novhorod-Sivers’kyy",
+        "name": "Новгород-Сиверский",
         "latitude": 52.00577,
         "longitude": 33.2615
     },
@@ -2085,7 +2085,7 @@
         "longitude": 30.88229
     },
     {
-        "name": "Pryluky",
+        "name": "Прилуки",
         "latitude": 50.59323,
         "longitude": 32.38761
     },
@@ -2120,7 +2120,7 @@
         "longitude": 32.49985
     },
     {
-        "name": "Sribne",
+        "name": "Серебро",
         "latitude": 50.66384,
         "longitude": 32.91867
     },
@@ -2130,7 +2130,7 @@
         "longitude": 32.71968
     },
     {
-        "name": "Zhuravka",
+        "name": "Журавка",
         "latitude": 50.48108,
         "longitude": 32.5949
     },
@@ -2170,7 +2170,7 @@
         "longitude": 25.56461
     },
     {
-        "name": "Hlyboka",
+        "name": "Глубокий",
         "latitude": 48.08971,
         "longitude": 25.92933
     },
@@ -2195,17 +2195,17 @@
         "longitude": 26.26231
     },
     {
-        "name": "Kostryzhivka",
+        "name": "Кострижевка",
         "latitude": 48.65455,
         "longitude": 25.71316
     },
     {
-        "name": "Luzhany",
+        "name": "Лужаны",
         "latitude": 48.36492,
         "longitude": 25.77173
     },
     {
-        "name": "Marshintsy",
+        "name": "Маршинцы",
         "latitude": 48.21751,
         "longitude": 26.29133
     },
@@ -2225,7 +2225,7 @@
         "longitude": 27.4407
     },
     {
-        "name": "Novoselytsya",
+        "name": "Новоселится",
         "latitude": 48.21931,
         "longitude": 26.26531
     },
@@ -2240,27 +2240,27 @@
         "longitude": 25.0
     },
     {
-        "name": "Ropcha",
+        "name": "Ропча",
         "latitude": 48.11988,
         "longitude": 25.77421
     },
     {
-        "name": "Shypyntsi",
+        "name": "Шипы",
         "latitude": 48.37677,
         "longitude": 25.74664
     },
     {
-        "name": "Sokyryany",
+        "name": "Сокиряны",
         "latitude": 48.44747,
         "longitude": 27.41678
     },
     {
-        "name": "Вашковцы",
+        "name": "Вашивци",
         "latitude": 48.38491,
         "longitude": 25.51023
     },
     {
-        "name": "Verenchanka",
+        "name": "Веренчанка",
         "latitude": 48.54653,
         "longitude": 25.74533
     },
@@ -2325,7 +2325,7 @@
         "longitude": 34.99898
     },
     {
-        "name": "Hubynykha",
+        "name": "Хибиниха",
         "latitude": 48.8098,
         "longitude": 35.25602
     },
@@ -2335,7 +2335,7 @@
         "longitude": 34.73556
     },
     {
-        "name": "Каменское",
+        "name": "Камианске",
         "latitude": 48.51134,
         "longitude": 34.6021
     },
@@ -2350,17 +2350,17 @@
         "longitude": 34.46701
     },
     {
-        "name": "Кривирожка Мискрада",
+        "name": "Мисарада Кривовка",
         "latitude": 47.9473,
         "longitude": 33.42489
     },
     {
-        "name": "Кривой Риг",
+        "name": "Kryvyi Rih",
         "latitude": 47.90966,
         "longitude": 33.38044
     },
     {
-        "name": "Lykhivka",
+        "name": "Локнивка",
         "latitude": 48.68735,
         "longitude": 33.92279
     },
@@ -2370,22 +2370,22 @@
         "longitude": 34.91491
     },
     {
-        "name": "Mahdalynivs’kyy Rayon",
+        "name": "Район Махдалина",
         "latitude": 48.97612,
         "longitude": 34.96762
     },
     {
-        "name": "Marhanets’",
+        "name": "Манганет",
         "latitude": 47.63543,
         "longitude": 34.62769
     },
     {
-        "name": "Melioratyvne",
+        "name": "Мелиоративне",
         "latitude": 48.63009,
         "longitude": 35.41558
     },
     {
-        "name": "Межова",
+        "name": "Мужчина",
         "latitude": 48.25318,
         "longitude": 36.73468
     },
@@ -2400,7 +2400,7 @@
         "longitude": 35.24548
     },
     {
-        "name": "Новомосковский район",
+        "name": "Новомосковск Район",
         "latitude": 48.66667,
         "longitude": 35.41667
     },
@@ -2415,7 +2415,7 @@
         "longitude": 34.60619
     },
     {
-        "name": "Ordzhonikidze",
+        "name": "Орджоникидзе",
         "latitude": 47.66763,
         "longitude": 34.05957
     },
@@ -2430,17 +2430,17 @@
         "longitude": 35.87098
     },
     {
-        "name": "Петропавловка",
+        "name": "Бабочка",
         "latitude": 48.45643,
         "longitude": 36.4367
     },
     {
-        "name": "Петрыкивка",
+        "name": "Петрикивка",
         "latitude": 48.72933,
         "longitude": 34.63358
     },
     {
-        "name": "Petrykivs’kyy Rayon",
+        "name": "Петриковский район",
         "latitude": 48.68914,
         "longitude": 34.61098
     },
@@ -2450,17 +2450,17 @@
         "longitude": 33.71056
     },
     {
-        "name": "Подгородное",
+        "name": "Педородн",
         "latitude": 48.57528,
         "longitude": 35.1068
     },
     {
-        "name": "Sholokhove",
+        "name": "Шолохове",
         "latitude": 47.69453,
         "longitude": 34.03119
     },
     {
-        "name": "Shyroke",
+        "name": "Широкий",
         "latitude": 47.69173,
         "longitude": 33.25715
     },
@@ -2470,7 +2470,7 @@
         "longitude": 33.33333
     },
     {
-        "name": "Софиевка",
+        "name": "Софийевка",
         "latitude": 48.04865,
         "longitude": 33.87618
     },
@@ -2485,67 +2485,67 @@
         "longitude": 35.0
     },
     {
-        "name": "Спасское",
+        "name": "Говорит '",
         "latitude": 48.66667,
         "longitude": 35.05385
     },
     {
-        "name": "Surs’ko-Mykhaylivka",
+        "name": "Surskko и Mikhailivka",
         "latitude": 48.27202,
         "longitude": 34.72759
     },
     {
-        "name": "Синельниково",
+        "name": "НЕКОЛОВ",
         "latitude": 48.32044,
         "longitude": 35.51792
     },
     {
-        "name": "Томаковка",
+        "name": "Ты",
         "latitude": 47.81569,
         "longitude": 34.74137
     },
     {
-        "name": "Tsarychanka",
+        "name": "Царичанка",
         "latitude": 48.93697,
         "longitude": 34.4786
     },
     {
-        "name": "Tsarychans’kyy Rayon",
+        "name": "Цариканская область",
         "latitude": 48.93329,
         "longitude": 34.53043
     },
     {
-        "name": "Verkhn’odniprovs’k",
+        "name": "Верхн’однипровс’к",
         "latitude": 48.65242,
         "longitude": 34.33457
     },
     {
-        "name": "Уилл'н",
+        "name": "Воля",
         "latitude": 47.63645,
         "longitude": 34.81387
     },
     {
-        "name": "Vyshchetarasivka",
+        "name": "Выщетьарасёвка",
         "latitude": 47.56851,
         "longitude": 34.88096
     },
     {
-        "name": "Вышневе",
+        "name": "вишня",
         "latitude": 48.43611,
         "longitude": 33.91556
     },
     {
-        "name": "Yur'yivs’kyy Rayon",
+        "name": "Юр »Ивс'вский район",
         "latitude": 48.80743,
         "longitude": 35.91325
     },
     {
-        "name": "Жовти Воды",
+        "name": "Желтая вода",
         "latitude": 48.34493,
         "longitude": 33.50374
     },
     {
-        "name": "Амвросиевский район",
+        "name": "Амплитуда",
         "latitude": 47.75,
         "longitude": 38.5
     },
@@ -2565,7 +2565,7 @@
         "longitude": 37.99987
     },
     {
-        "name": "Бахмутский район",
+        "name": "Бахмут Район",
         "latitude": 48.58333,
         "longitude": 38.0
     },
@@ -2575,7 +2575,7 @@
         "longitude": 37.93815
     },
     {
-        "name": "Bilyts’ke",
+        "name": "Белитске",
         "latitude": 48.40642,
         "longitude": 37.18111
     },
@@ -2585,17 +2585,17 @@
         "longitude": 38.48492
     },
     {
-        "name": "Boykivske",
+        "name": "Бойкивске",
         "latitude": 47.40994,
         "longitude": 38.02476
     },
     {
-        "name": "Boykivske Raion",
+        "name": "Бойкивске Район",
         "latitude": 47.41667,
         "longitude": 38.0
     },
     {
-        "name": "Chasiv Yar",
+        "name": "Время оврага",
         "latitude": 48.59348,
         "longitude": 37.85724
     },
@@ -2605,7 +2605,7 @@
         "longitude": 38.59685
     },
     {
-        "name": "Debal’tseve",
+        "name": "Дебал’цевье",
         "latitude": 48.34072,
         "longitude": 38.4049
     },
@@ -2620,12 +2620,12 @@
         "longitude": 37.16667
     },
     {
-        "name": "Dobropillya",
+        "name": "Добропилля",
         "latitude": 48.46147,
         "longitude": 37.08524
     },
     {
-        "name": "Dokuchayevs’k",
+        "name": "Докучаевск",
         "latitude": 47.75046,
         "longitude": 37.67936
     },
@@ -2635,47 +2635,47 @@
         "longitude": 37.80224
     },
     {
-        "name": "Druzhkivka",
+        "name": "Дружкивка",
         "latitude": 48.63013,
         "longitude": 37.55259
     },
     {
-        "name": "Горловка",
+        "name": "Horlivka",
         "latitude": 48.33576,
         "longitude": 38.05325
     },
     {
-        "name": "Иловайск",
+        "name": "Ilovays’k",
         "latitude": 47.92498,
         "longitude": 38.20235
     },
     {
-        "name": "Khartsyz’k",
+        "name": "Харцыз’к",
         "latitude": 48.04243,
         "longitude": 38.14728
     },
     {
-        "name": "Костиантиновка Район",
+        "name": "КОНСТАНТАНТИНОВКА",
         "latitude": 48.5,
         "longitude": 37.75
     },
     {
-        "name": "Kostyantynivka",
+        "name": "Костянтинивка",
         "latitude": 48.5277,
         "longitude": 37.7069
     },
     {
-        "name": "Краматорск",
+        "name": "Краматор ''",
         "latitude": 48.72305,
         "longitude": 37.55629
     },
     {
-        "name": "Красноторка",
+        "name": "Крашер",
         "latitude": 48.68204,
         "longitude": 37.53266
     },
     {
-        "name": "Krinichnaya",
+        "name": "Криничная",
         "latitude": 48.12899,
         "longitude": 38.02597
     },
@@ -2685,7 +2685,7 @@
         "longitude": 37.2821
     },
     {
-        "name": "Kuteynykove",
+        "name": "Кутейникове",
         "latitude": 47.81227,
         "longitude": 38.28822
     },
@@ -2705,7 +2705,7 @@
         "longitude": 37.83333
     },
     {
-        "name": "Макеевка",
+        "name": "Машина",
         "latitude": 48.04782,
         "longitude": 37.92576
     },
@@ -2715,7 +2715,7 @@
         "longitude": 38.03075
     },
     {
-        "name": "Манхуш",
+        "name": "Манхуша",
         "latitude": 47.05582,
         "longitude": 37.31068
     },
@@ -2730,12 +2730,12 @@
         "longitude": 37.54131
     },
     {
-        "name": "Мелекин",
+        "name": "Мелс",
         "latitude": 46.95957,
         "longitude": 37.39981
     },
     {
-        "name": "Mospyne",
+        "name": "Моспине",
         "latitude": 47.89081,
         "longitude": 38.06395
     },
@@ -2775,7 +2775,7 @@
         "longitude": 38.09979
     },
     {
-        "name": "Pokrovsk",
+        "name": "Покровск",
         "latitude": 48.28198,
         "longitude": 37.17585
     },
@@ -2790,7 +2790,7 @@
         "longitude": 37.20602
     },
     {
-        "name": "Неряшливый",
+        "name": "Неуважительный",
         "latitude": 48.14966,
         "longitude": 38.57619
     },
@@ -2800,17 +2800,17 @@
         "longitude": 37.69266
     },
     {
-        "name": "Мискрада Селидива",
+        "name": "Селидивас «Мисс» Карда",
         "latitude": 48.1453,
         "longitude": 37.29962
     },
     {
-        "name": "Селидово",
+        "name": "Селидов",
         "latitude": 48.14708,
         "longitude": 37.30032
     },
     {
-        "name": "Serebryanka",
+        "name": "Серебрянка",
         "latitude": 48.91917,
         "longitude": 38.13494
     },
@@ -2820,12 +2820,12 @@
         "longitude": 38.43826
     },
     {
-        "name": "Shcherbynivka",
+        "name": "Щербинивка",
         "latitude": 48.39489,
         "longitude": 37.79102
     },
     {
-        "name": "Shyroke",
+        "name": "Широкий",
         "latitude": 47.95711,
         "longitude": 38.2316
     },
@@ -2860,12 +2860,12 @@
         "longitude": 38.03051
     },
     {
-        "name": "Staryy Krym",
+        "name": "Старый Крым",
         "latitude": 47.16146,
         "longitude": 37.48934
     },
     {
-        "name": "Стижковское",
+        "name": "Св.",
         "latitude": 48.11333,
         "longitude": 38.4925
     },
@@ -2890,7 +2890,7 @@
         "longitude": 36.98115
     },
     {
-        "name": "Toretsk",
+        "name": "Торецк",
         "latitude": 48.39869,
         "longitude": 37.84787
     },
@@ -2900,7 +2900,7 @@
         "longitude": 37.09961
     },
     {
-        "name": "Volnovakha",
+        "name": "Волноваха",
         "latitude": 47.60103,
         "longitude": 37.49674
     },
@@ -2915,7 +2915,7 @@
         "longitude": 37.27365
     },
     {
-        "name": "Yasynuvata",
+        "name": "Ясивати",
         "latitude": 48.1298,
         "longitude": 37.8594
     },
@@ -2940,7 +2940,7 @@
         "longitude": 24.70078
     },
     {
-        "name": "Бильшевцы",
+        "name": "Билевцы",
         "latitude": 49.18333,
         "longitude": 24.75
     },
@@ -2965,7 +2965,7 @@
         "longitude": 23.84339
     },
     {
-        "name": "Borshchevskiy Rayon",
+        "name": "Борщевский Район",
         "latitude": 48.75,
         "longitude": 26.0
     },
@@ -2980,7 +2980,7 @@
         "longitude": 24.62777
     },
     {
-        "name": "Burshtyns’ka Mis’krada",
+        "name": "Буртинск Мисарада",
         "latitude": 49.25217,
         "longitude": 24.6332
     },
@@ -3005,17 +3005,17 @@
         "longitude": 24.71388
     },
     {
-        "name": "Chernyatyn",
+        "name": "Чернятин",
         "latitude": 48.66034,
         "longitude": 25.44832
     },
     {
-        "name": "Чернолиццы",
+        "name": "Чернолизм",
         "latitude": 48.83034,
         "longitude": 24.89576
     },
     {
-        "name": "Delyatyn",
+        "name": "Делятин",
         "latitude": 48.52354,
         "longitude": 24.62466
     },
@@ -3085,12 +3085,12 @@
         "longitude": 25.03649
     },
     {
-        "name": "Kolomyys’kyy Rayon",
+        "name": "Коломийский район",
         "latitude": 48.58586,
         "longitude": 24.993
     },
     {
-        "name": "Kosiv",
+        "name": "Косив",
         "latitude": 48.31071,
         "longitude": 25.09575
     },
@@ -3140,7 +3140,7 @@
         "longitude": 24.50381
     },
     {
-        "name": "Ему было все равно",
+        "name": "Нет",
         "latitude": 48.81526,
         "longitude": 24.21657
     },
@@ -3160,7 +3160,7 @@
         "longitude": 24.86111
     },
     {
-        "name": "Пасечная",
+        "name": "Пиджи",
         "latitude": 48.57152,
         "longitude": 24.43003
     },
@@ -3190,12 +3190,12 @@
         "longitude": 24.65502
     },
     {
-        "name": "Rechka",
+        "name": "Речка",
         "latitude": 48.28034,
         "longitude": 24.9333
     },
     {
-        "name": "Rohatyn",
+        "name": "Рохатин",
         "latitude": 49.409,
         "longitude": 24.60927
     },
@@ -3220,12 +3220,12 @@
         "longitude": 24.07588
     },
     {
-        "name": "Саджавка",
+        "name": "Сайвка",
         "latitude": 48.56603,
         "longitude": 24.7882
     },
     {
-        "name": "Шешоры",
+        "name": "Шешори",
         "latitude": 48.33197,
         "longitude": 24.98329
     },
@@ -3235,12 +3235,12 @@
         "longitude": 25.56937
     },
     {
-        "name": "Snyatyns’kyy Rayon",
+        "name": "Сатинский район",
         "latitude": 48.47674,
         "longitude": 25.41153
     },
     {
-        "name": "Солотвын",
+        "name": "Солотвин",
         "latitude": 48.70212,
         "longitude": 24.42212
     },
@@ -3255,12 +3255,12 @@
         "longitude": 24.5243
     },
     {
-        "name": "Stari Kuty",
+        "name": "Старые углы",
         "latitude": 48.27093,
         "longitude": 25.17293
     },
     {
-        "name": "Stetseva",
+        "name": "Стецева",
         "latitude": 48.52767,
         "longitude": 25.57572
     },
@@ -3280,17 +3280,17 @@
         "longitude": 25.00325
     },
     {
-        "name": "Tlumats’kyy Rayon",
+        "name": "Тлумматсейский район",
         "latitude": 48.82924,
         "longitude": 25.09055
     },
     {
-        "name": "Тысменичаны",
+        "name": "ТыСмена",
         "latitude": 48.77168,
         "longitude": 24.66626
     },
     {
-        "name": "Tysmenyts’kyy Rayon",
+        "name": "Тюменитовый район",
         "latitude": 48.92246,
         "longitude": 24.74486
     },
@@ -3300,12 +3300,12 @@
         "longitude": 24.84482
     },
     {
-        "name": "Uhryniv",
+        "name": "Угринов",
         "latitude": 48.9552,
         "longitude": 24.69292
     },
     {
-        "name": "Великий Ключив",
+        "name": "Большие ключи",
         "latitude": 48.47092,
         "longitude": 24.94677
     },
@@ -3325,12 +3325,12 @@
         "longitude": 24.56536
     },
     {
-        "name": "Yabluniv",
+        "name": "Яблоко",
         "latitude": 48.40418,
         "longitude": 24.93874
     },
     {
-        "name": "Yablunytsya",
+        "name": "Яблоко",
         "latitude": 48.31742,
         "longitude": 24.48448
     },
@@ -3355,7 +3355,7 @@
         "longitude": 25.28571
     },
     {
-        "name": "Завиздя",
+        "name": "Ползучий",
         "latitude": 48.91836,
         "longitude": 24.65275
     },
@@ -3365,17 +3365,17 @@
         "longitude": 24.64857
     },
     {
-        "name": "Балаклея",
+        "name": "Балкалия",
         "latitude": 49.4627,
         "longitude": 36.85951
     },
     {
-        "name": "Барвинково",
+        "name": "Барвинс",
         "latitude": 48.9097,
         "longitude": 37.02051
     },
     {
-        "name": "Березовка",
+        "name": "Конкретно",
         "latitude": 49.43935,
         "longitude": 35.70736
     },
@@ -3400,7 +3400,7 @@
         "longitude": 37.62136
     },
     {
-        "name": "Буди",
+        "name": "Хижина",
         "latitude": 49.89133,
         "longitude": 36.02096
     },
@@ -3425,17 +3425,17 @@
         "longitude": 36.12112
     },
     {
-        "name": "Дворечная",
+        "name": "Площадка",
         "latitude": 49.85019,
         "longitude": 37.68262
     },
     {
-        "name": "Эсхар",
+        "name": "Камень",
         "latitude": 49.79614,
         "longitude": 36.59047
     },
     {
-        "name": "Металлургический завод",
+        "name": "Хута",
         "latitude": 50.13322,
         "longitude": 35.34394
     },
@@ -3455,12 +3455,12 @@
         "longitude": 36.25272
     },
     {
-        "name": "Khorosheve",
+        "name": "Хорошеве",
         "latitude": 49.85413,
         "longitude": 36.21704
     },
     {
-        "name": "Kivsharivka",
+        "name": "Кившарьвка",
         "latitude": 49.63096,
         "longitude": 37.68821
     },
@@ -3470,7 +3470,7 @@
         "longitude": 36.73723
     },
     {
-        "name": "голуби",
+        "name": "Колонны",
         "latitude": 49.83987,
         "longitude": 35.30441
     },
@@ -3480,7 +3480,7 @@
         "longitude": 36.03736
     },
     {
-        "name": "Красноград",
+        "name": "КРАСНОХРАД",
         "latitude": 49.38009,
         "longitude": 35.44186
     },
@@ -3515,7 +3515,7 @@
         "longitude": 36.4703
     },
     {
-        "name": "Lyubotyn",
+        "name": "Люботин",
         "latitude": 49.94691,
         "longitude": 35.92907
     },
@@ -3535,7 +3535,7 @@
         "longitude": 35.85835
     },
     {
-        "name": "Мерефа",
+        "name": "я говорю",
         "latitude": 49.82302,
         "longitude": 36.05069
     },
@@ -3570,7 +3570,7 @@
         "longitude": 36.21471
     },
     {
-        "name": "Петровское",
+        "name": "ПЕТВИВА",
         "latitude": 49.17695,
         "longitude": 36.89999
     },
@@ -3585,7 +3585,7 @@
         "longitude": 36.17511
     },
     {
-        "name": "Прудянка",
+        "name": "Прруянка",
         "latitude": 50.23606,
         "longitude": 36.16835
     },
@@ -3595,7 +3595,7 @@
         "longitude": 37.34524
     },
     {
-        "name": "Sakhnovshchyna",
+        "name": "Сахновщина",
         "latitude": 49.15166,
         "longitude": 35.87198
     },
@@ -3605,27 +3605,27 @@
         "longitude": 37.06266
     },
     {
-        "name": "Шевченковское",
+        "name": "Шевченко",
         "latitude": 49.69585,
         "longitude": 37.17348
     },
     {
-        "name": "Слатайн",
+        "name": "Слатин",
         "latitude": 50.21041,
         "longitude": 36.15376
     },
     {
-        "name": "Slobozhans’ke",
+        "name": "Слобожанское",
         "latitude": 49.59701,
         "longitude": 36.52618
     },
     {
-        "name": "Solonytsivka",
+        "name": "Солоницевка",
         "latitude": 49.99682,
         "longitude": 36.03464
     },
     {
-        "name": "Staryy Merchyk",
+        "name": "Старый Мерчик",
         "latitude": 49.98147,
         "longitude": 35.75904
     },
@@ -3640,7 +3640,7 @@
         "longitude": 37.48697
     },
     {
-        "name": "Utkivka",
+        "name": "Уткивка",
         "latitude": 49.78583,
         "longitude": 36.07528
     },
@@ -3665,12 +3665,12 @@
         "longitude": 35.53333
     },
     {
-        "name": "Vovchans’k",
+        "name": "Вовчанс’к",
         "latitude": 50.29078,
         "longitude": 36.94108
     },
     {
-        "name": "Vvedenka",
+        "name": "Введенко",
         "latitude": 49.82372,
         "longitude": 36.50264
     },
@@ -3715,7 +3715,7 @@
         "longitude": 32.44251
     },
     {
-        "name": "Brylivka",
+        "name": "Брилевка",
         "latitude": 46.42476,
         "longitude": 33.14721
     },
@@ -3725,12 +3725,12 @@
         "longitude": 33.54027
     },
     {
-        "name": "Chornobayivka",
+        "name": "Чернобайевка",
         "latitude": 46.69411,
         "longitude": 32.55371
     },
     {
-        "name": "Чернянка",
+        "name": "Черньянка",
         "latitude": 46.65222,
         "longitude": 33.35904
     },
@@ -3740,7 +3740,7 @@
         "longitude": 32.3514
     },
     {
-        "name": "Dnipryany",
+        "name": "Днепряны",
         "latitude": 46.74631,
         "longitude": 33.27288
     },
@@ -3765,7 +3765,7 @@
         "longitude": 32.52417
     },
     {
-        "name": "Горностаевка",
+        "name": "Горностайевка",
         "latitude": 47.00777,
         "longitude": 33.72899
     },
@@ -3780,7 +3780,7 @@
         "longitude": 33.48698
     },
     {
-        "name": "Каланчак",
+        "name": "Калькулярный",
         "latitude": 46.25623,
         "longitude": 33.2907
     },
@@ -3810,17 +3810,17 @@
         "longitude": 32.7691
     },
     {
-        "name": "Лазурный",
+        "name": "Лазир",
         "latitude": 46.084,
         "longitude": 32.52955
     },
     {
-        "name": "Lyubymivka",
+        "name": "Любомивка",
         "latitude": 46.81063,
         "longitude": 33.56862
     },
     {
-        "name": "Malokakhovka",
+        "name": "Малокаховка",
         "latitude": 46.78142,
         "longitude": 33.4479
     },
@@ -3830,12 +3830,12 @@
         "longitude": 33.34864
     },
     {
-        "name": "Nova Mayachka",
+        "name": "Нова Маячка",
         "latitude": 46.59996,
         "longitude": 33.22707
     },
     {
-        "name": "Novofedorivka",
+        "name": "Новофедоривка",
         "latitude": 46.17128,
         "longitude": 32.31781
     },
@@ -3850,7 +3850,7 @@
         "longitude": 33.91748
     },
     {
-        "name": "Nyzhni Sirohozy",
+        "name": "Нежные сирогозы",
         "latitude": 46.84842,
         "longitude": 34.38044
     },
@@ -3875,12 +3875,12 @@
         "longitude": 32.14777
     },
     {
-        "name": "Tsyurupyns’k",
+        "name": "Tsyurupins",
         "latitude": 46.61842,
         "longitude": 32.7189
     },
     {
-        "name": "Velyka Lepetykha",
+        "name": "Великолепная лептикха",
         "latitude": 47.17572,
         "longitude": 33.94362
     },
@@ -3895,7 +3895,7 @@
         "longitude": 32.97498
     },
     {
-        "name": "Verkhniy Rohachyk",
+        "name": "Верхний Рог",
         "latitude": 47.25053,
         "longitude": 34.33797
     },
@@ -3930,12 +3930,12 @@
         "longitude": 27.43382
     },
     {
-        "name": "Derazhnyans’kyy Rayon",
+        "name": "Деражнянский район",
         "latitude": 49.22676,
         "longitude": 27.46603
     },
     {
-        "name": "Дунаевцы",
+        "name": "Дунай",
         "latitude": 48.88909,
         "longitude": 26.85636
     },
@@ -3990,17 +3990,17 @@
         "longitude": 26.64178
     },
     {
-        "name": "Нетешин",
+        "name": "Интернет -",
         "latitude": 50.34004,
         "longitude": 26.64171
     },
     {
-        "name": "Nova Ushytsya",
+        "name": "Нова Ушиця",
         "latitude": 48.83716,
         "longitude": 27.27434
     },
     {
-        "name": "Novoselytsya",
+        "name": "Новоселится",
         "latitude": 50.0703,
         "longitude": 27.51955
     },
@@ -4020,7 +4020,7 @@
         "longitude": 27.06365
     },
     {
-        "name": "Славута",
+        "name": "Рабовладность",
         "latitude": 50.30155,
         "longitude": 26.86506
     },
@@ -4045,17 +4045,17 @@
         "longitude": 27.20342
     },
     {
-        "name": "Ярмолинцы",
+        "name": "Громадный",
         "latitude": 49.19236,
         "longitude": 26.83725
     },
     {
-        "name": "Сдан в аренду",
+        "name": "Арендовать",
         "latitude": 49.11944,
         "longitude": 26.33756
     },
     {
-        "name": "Жванец",
+        "name": "Можжевельник",
         "latitude": 48.54968,
         "longitude": 26.48744
     },
@@ -4070,7 +4070,7 @@
         "longitude": 30.25
     },
     {
-        "name": "Бобринец",
+        "name": "Бобринеты",
         "latitude": 48.05896,
         "longitude": 32.16641
     },
@@ -4080,12 +4080,12 @@
         "longitude": 32.71645
     },
     {
-        "name": "Добровеличкивка",
+        "name": "Добровичкивка",
         "latitude": 48.38778,
         "longitude": 31.18028
     },
     {
-        "name": "Dobrovelychkivs’kyy Rayon",
+        "name": "Добровичкивка район",
         "latitude": 48.36935,
         "longitude": 31.16354
     },
@@ -4100,7 +4100,7 @@
         "longitude": 32.88318
     },
     {
-        "name": "Хайворон",
+        "name": "Хейрон",
         "latitude": 48.33958,
         "longitude": 29.86791
     },
@@ -4110,7 +4110,7 @@
         "longitude": 31.71671
     },
     {
-        "name": "Кировоградская Miskrada",
+        "name": "Кировоградска Мисарада",
         "latitude": 48.52185,
         "longitude": 32.24367
     },
@@ -4135,12 +4135,12 @@
         "longitude": 31.07611
     },
     {
-        "name": "Малая Виска",
+        "name": "У нее была высота",
         "latitude": 48.64308,
         "longitude": 31.63657
     },
     {
-        "name": "Malovyskivs’kyy Rayon",
+        "name": "Малловисковский район",
         "latitude": 48.5768,
         "longitude": 31.57594
     },
@@ -4170,7 +4170,7 @@
         "longitude": 31.64204
     },
     {
-        "name": "Новоукраинка",
+        "name": "Новокраинка",
         "latitude": 48.32635,
         "longitude": 31.52852
     },
@@ -4195,7 +4195,7 @@
         "longitude": 32.98347
     },
     {
-        "name": "Onufriyivka",
+        "name": "Onufriveka",
         "latitude": 48.90716,
         "longitude": 33.44869
     },
@@ -4205,7 +4205,7 @@
         "longitude": 32.8841
     },
     {
-        "name": "Pavlysh",
+        "name": "Павлыш",
         "latitude": 48.91762,
         "longitude": 33.35691
     },
@@ -4235,12 +4235,12 @@
         "longitude": 33.07078
     },
     {
-        "name": "Rivne",
+        "name": "Ривн",
         "latitude": 48.24742,
         "longitude": 31.75432
     },
     {
-        "name": "Субботси",
+        "name": "Суботтс",
         "latitude": 48.65545,
         "longitude": 32.52093
     },
@@ -4255,7 +4255,7 @@
         "longitude": 30.94229
     },
     {
-        "name": "Устиновка",
+        "name": "Наклейка",
         "latitude": 47.95507,
         "longitude": 32.53674
     },
@@ -4265,7 +4265,7 @@
         "longitude": 32.4046
     },
     {
-        "name": "Zavallya",
+        "name": "Завалля",
         "latitude": 48.21354,
         "longitude": 30.01558
     },
@@ -4295,17 +4295,17 @@
         "longitude": 30.63194
     },
     {
-        "name": "Holosiiv Raion",
+        "name": "Голосивский район",
         "latitude": 50.32749,
         "longitude": 30.5674
     },
     {
-        "name": "Коцюбинское",
+        "name": "Коцюбиных",
         "latitude": 50.48836,
         "longitude": 30.32957
     },
     {
-        "name": "Киев",
+        "name": "Кив",
         "latitude": 50.45466,
         "longitude": 30.5238
     },
@@ -4360,7 +4360,7 @@
         "longitude": 30.08333
     },
     {
-        "name": "Богуслав",
+        "name": "Бохуслав",
         "latitude": 49.54939,
         "longitude": 30.8744
     },
@@ -4385,7 +4385,7 @@
         "longitude": 30.10429
     },
     {
-        "name": "Boryspil’",
+        "name": "Бориспил",
         "latitude": 50.35269,
         "longitude": 30.95501
     },
@@ -4415,7 +4415,7 @@
         "longitude": 30.42356
     },
     {
-        "name": "Chernyakhivka",
+        "name": "Черняхивка",
         "latitude": 50.21882,
         "longitude": 31.93082
     },
@@ -4425,12 +4425,12 @@
         "longitude": 30.3026
     },
     {
-        "name": "Fastiv",
+        "name": "Фасков",
         "latitude": 50.0767,
         "longitude": 29.9177
     },
     {
-        "name": "Fastiv Raion",
+        "name": "Фасковский район",
         "latitude": 50.08333,
         "longitude": 30.0
     },
@@ -4455,7 +4455,7 @@
         "longitude": 30.2651
     },
     {
-        "name": "Irpin",
+        "name": "Ирпин",
         "latitude": 50.52175,
         "longitude": 30.25055
     },
@@ -4480,7 +4480,7 @@
         "longitude": 30.82815
     },
     {
-        "name": "Кагарлыкский район",
+        "name": "Кахарлик Раоон",
         "latitude": 49.91667,
         "longitude": 30.75
     },
@@ -4550,7 +4550,7 @@
         "longitude": 30.19978
     },
     {
-        "name": "Kyyevo-Svyatoshyns’kyy Rayon",
+        "name": "Кив-Святошинский район",
         "latitude": 50.3853,
         "longitude": 30.23129
     },
@@ -4610,7 +4610,7 @@
         "longitude": 31.44969
     },
     {
-        "name": "Переяслав-Хмельницкий район",
+        "name": "Переяслав-Кхмельнитский район",
         "latitude": 50.08333,
         "longitude": 31.5
     },
@@ -4625,7 +4625,7 @@
         "longitude": 30.64455
     },
     {
-        "name": "Pukhivka",
+        "name": "Пукнивка",
         "latitude": 50.6097,
         "longitude": 30.7177
     },
@@ -4640,7 +4640,7 @@
         "longitude": 30.5
     },
     {
-        "name": "Roskoshnyy",
+        "name": "Роскошный",
         "latitude": 49.37087,
         "longitude": 30.18471
     },
@@ -4660,7 +4660,7 @@
         "longitude": 29.66569
     },
     {
-        "name": "Skvyrs’kyy Rayon",
+        "name": "Площадь",
         "latitude": 49.74177,
         "longitude": 29.70043
     },
@@ -4680,17 +4680,17 @@
         "longitude": 30.19022
     },
     {
-        "name": "Stayki",
+        "name": "Стайки",
         "latitude": 50.07818,
         "longitude": 30.9038
     },
     {
-        "name": "Тараща",
+        "name": "Латунь",
         "latitude": 49.55832,
         "longitude": 30.49259
     },
     {
-        "name": "Тетива",
+        "name": "Механизм",
         "latitude": 49.3767,
         "longitude": 29.66474
     },
@@ -4705,7 +4705,7 @@
         "longitude": 30.78141
     },
     {
-        "name": "Tsybli",
+        "name": "Цибли",
         "latitude": 49.99484,
         "longitude": 31.56281
     },
@@ -4725,32 +4725,32 @@
         "longitude": 30.31346
     },
     {
-        "name": "Vasylkiv Raion",
+        "name": "Василкивский район",
         "latitude": 50.16667,
         "longitude": 30.33333
     },
     {
-        "name": "Большая Димерка",
+        "name": "Большая димерка",
         "latitude": 50.59333,
         "longitude": 30.90313
     },
     {
-        "name": "Volodarka",
+        "name": "Володарка",
         "latitude": 49.52484,
         "longitude": 29.91222
     },
     {
-        "name": "Voronkov",
+        "name": "Воронков",
         "latitude": 50.22235,
         "longitude": 30.89967
     },
     {
-        "name": "Ворзель",
+        "name": "В городе '",
         "latitude": 50.5444,
         "longitude": 30.15305
     },
     {
-        "name": "Vyshgorodskiy Rayon",
+        "name": "Вышгородский Район",
         "latitude": 50.58333,
         "longitude": 30.5
     },
@@ -4760,7 +4760,7 @@
         "longitude": 30.4898
     },
     {
-        "name": "Вышневе",
+        "name": "вишня",
         "latitude": 50.38913,
         "longitude": 30.3705
     },
@@ -4775,7 +4775,7 @@
         "longitude": 31.89456
     },
     {
-        "name": "Z·hurivs’kyy Rayon",
+        "name": "С районом · Hurivskyi",
         "latitude": 50.47192,
         "longitude": 31.79423
     },
@@ -4785,7 +4785,7 @@
         "longitude": 31.78492
     },
     {
-        "name": "Алчевск",
+        "name": "Алчевс",
         "latitude": 48.46893,
         "longitude": 38.81669
     },
@@ -4800,7 +4800,7 @@
         "longitude": 39.09128
     },
     {
-        "name": "Antratsytivs’kyy Rayon",
+        "name": "Андонская область",
         "latitude": 48.1245,
         "longitude": 39.05683
     },
@@ -4815,7 +4815,7 @@
         "longitude": 38.60174
     },
     {
-        "name": "желчь",
+        "name": "Желчь",
         "latitude": 48.49523,
         "longitude": 39.05051
     },
@@ -4830,7 +4830,7 @@
         "longitude": 38.73067
     },
     {
-        "name": "Bilovods'k",
+        "name": "Биловодськ",
         "latitude": 49.20846,
         "longitude": 39.58975
     },
@@ -4855,7 +4855,7 @@
         "longitude": 39.79618
     },
     {
-        "name": "Chornukhyne",
+        "name": "Черный",
         "latitude": 48.32339,
         "longitude": 38.52272
     },
@@ -4885,7 +4885,7 @@
         "longitude": 38.64753
     },
     {
-        "name": "Klenovyy",
+        "name": "Кленовый",
         "latitude": 48.11934,
         "longitude": 39.4588
     },
@@ -4895,7 +4895,7 @@
         "longitude": 38.79765
     },
     {
-        "name": "Krasnyy Luch",
+        "name": "Красный Луч",
         "latitude": 48.13954,
         "longitude": 38.93715
     },
@@ -4905,7 +4905,7 @@
         "longitude": 38.21792
     },
     {
-        "name": "Kripens’kyy",
+        "name": "Квененей",
         "latitude": 48.07709,
         "longitude": 39.058
     },
@@ -4915,12 +4915,12 @@
         "longitude": 39.14556
     },
     {
-        "name": "Lozno-Oleksandrivka",
+        "name": "Лодж-Александровка",
         "latitude": 49.8391,
         "longitude": 38.74098
     },
     {
-        "name": "Мискрада Луханса",
+        "name": "Шушаннан не пропустил, атайя.",
         "latitude": 48.58083,
         "longitude": 39.35478
     },
@@ -4930,7 +4930,7 @@
         "longitude": 39.31706
     },
     {
-        "name": "Лутугино",
+        "name": "Лутугин",
         "latitude": 48.40507,
         "longitude": 39.22675
     },
@@ -4945,17 +4945,17 @@
         "longitude": 38.44207
     },
     {
-        "name": "Макарёв Яр",
+        "name": "Макарив Яар",
         "latitude": 48.57768,
         "longitude": 39.71944
     },
     {
-        "name": "Марковка",
+        "name": "Маркер",
         "latitude": 49.5229,
         "longitude": 39.57055
     },
     {
-        "name": "Миллерово",
+        "name": "Милрово",
         "latitude": 48.16829,
         "longitude": 39.16537
     },
@@ -4975,7 +4975,7 @@
         "longitude": 39.65244
     },
     {
-        "name": "Новопсков",
+        "name": "Новый",
         "latitude": 49.5464,
         "longitude": 39.08987
     },
@@ -4990,7 +4990,7 @@
         "longitude": 38.70917
     },
     {
-        "name": "Pereval’s’k",
+        "name": "Перевал’с’к",
         "latitude": 48.43779,
         "longitude": 38.84384
     },
@@ -5010,7 +5010,7 @@
         "longitude": 38.30457
     },
     {
-        "name": "Roven’ky",
+        "name": "Рувенс",
         "latitude": 48.08331,
         "longitude": 39.37764
     },
@@ -5020,12 +5020,12 @@
         "longitude": 39.27881
     },
     {
-        "name": "Rubizhans’ka Mis’krada",
+        "name": "Мисарада",
         "latitude": 49.0146,
         "longitude": 38.38909
     },
     {
-        "name": "Rubizhne",
+        "name": "Рубижне",
         "latitude": 49.01229,
         "longitude": 38.37967
     },
@@ -5035,12 +5035,12 @@
         "longitude": 39.2323
     },
     {
-        "name": "Simeykyne",
+        "name": "Симейкине",
         "latitude": 48.32643,
         "longitude": 39.53366
     },
     {
-        "name": "Slov`yanoserbsk",
+        "name": "Слов'яносербськ",
         "latitude": 48.69779,
         "longitude": 38.98133
     },
@@ -5055,7 +5055,7 @@
         "longitude": 39.75
     },
     {
-        "name": "Stanytsya Luhans’ka",
+        "name": "Деревня Луганск",
         "latitude": 48.65433,
         "longitude": 39.47943
     },
@@ -5080,7 +5080,7 @@
         "longitude": 39.58057
     },
     {
-        "name": "Syevyerodonets’k",
+        "name": "Северодонец’к",
         "latitude": 48.94832,
         "longitude": 38.49166
     },
@@ -5105,7 +5105,7 @@
         "longitude": 39.80302
     },
     {
-        "name": "Успенка",
+        "name": "Успех",
         "latitude": 48.39077,
         "longitude": 39.16284
     },
@@ -5130,7 +5130,7 @@
         "longitude": 24.00642
     },
     {
-        "name": "Бибрка",
+        "name": "БИБРКА",
         "latitude": 49.64093,
         "longitude": 24.28874
     },
@@ -5145,7 +5145,7 @@
         "longitude": 25.15027
     },
     {
-        "name": "Bryukhovychi",
+        "name": "Брюховичи",
         "latitude": 49.90467,
         "longitude": 23.95969
     },
@@ -5160,7 +5160,7 @@
         "longitude": 23.94607
     },
     {
-        "name": "Dobromyl’",
+        "name": "Добромиль’",
         "latitude": 49.57193,
         "longitude": 22.78629
     },
@@ -5170,7 +5170,7 @@
         "longitude": 23.50561
     },
     {
-        "name": "Dublyany",
+        "name": "Дубляны",
         "latitude": 49.90411,
         "longitude": 24.08637
     },
@@ -5180,7 +5180,7 @@
         "longitude": 23.81532
     },
     {
-        "name": "Dzvinogrud",
+        "name": "Дзвиногруд",
         "latitude": 49.73333,
         "longitude": 24.25
     },
@@ -5200,12 +5200,12 @@
         "longitude": 23.72913
     },
     {
-        "name": "Khodoriv",
+        "name": "Ходорив",
         "latitude": 49.40993,
         "longitude": 24.3047
     },
     {
-        "name": "Хыров",
+        "name": "Хороший",
         "latitude": 49.53417,
         "longitude": 22.85538
     },
@@ -5220,7 +5220,7 @@
         "longitude": 24.6134
     },
     {
-        "name": "Kulykiv",
+        "name": "Куликив",
         "latitude": 49.97954,
         "longitude": 24.07817
     },
@@ -5230,7 +5230,7 @@
         "longitude": 24.84831
     },
     {
-        "name": "Львов",
+        "name": "ЛЬВОВ",
         "latitude": 49.83826,
         "longitude": 24.02324
     },
@@ -5265,17 +5265,17 @@
         "longitude": 23.92746
     },
     {
-        "name": "Новояворовск",
+        "name": "Novoyavorivs'k",
         "latitude": 49.93023,
         "longitude": 23.57357
     },
     {
-        "name": "Новый Ярихив",
+        "name": "Новый Яричив",
         "latitude": 49.90444,
         "longitude": 24.30523
     },
     {
-        "name": "Obroshyne",
+        "name": "Оброшине",
         "latitude": 49.78333,
         "longitude": 23.86667
     },
@@ -5315,7 +5315,7 @@
         "longitude": 24.9307
     },
     {
-        "name": "Потелич",
+        "name": "Потельч",
         "latitude": 50.20804,
         "longitude": 23.54674
     },
@@ -5330,7 +5330,7 @@
         "longitude": 23.23739
     },
     {
-        "name": "Рава-Русская",
+        "name": "Рава-Россия",
         "latitude": 50.23079,
         "longitude": 23.62825
     },
@@ -5340,7 +5340,7 @@
         "longitude": 23.64617
     },
     {
-        "name": "Rodatychi",
+        "name": "Родатичи",
         "latitude": 49.79862,
         "longitude": 23.53336
     },
@@ -5360,7 +5360,7 @@
         "longitude": 23.48702
     },
     {
-        "name": "Грубый",
+        "name": "Красноватый",
         "latitude": 49.83333,
         "longitude": 23.9
     },
@@ -5370,7 +5370,7 @@
         "longitude": 23.55662
     },
     {
-        "name": "Sambir",
+        "name": "Самбир",
         "latitude": 49.5183,
         "longitude": 23.19752
     },
@@ -5385,7 +5385,7 @@
         "longitude": 23.54408
     },
     {
-        "name": "Силец",
+        "name": "Силеты",
         "latitude": 50.29712,
         "longitude": 24.20462
     },
@@ -5395,7 +5395,7 @@
         "longitude": 22.96467
     },
     {
-        "name": "Skhidnytsya",
+        "name": "Восток",
         "latitude": 49.22827,
         "longitude": 23.35016
     },
@@ -5425,12 +5425,12 @@
         "longitude": 24.1895
     },
     {
-        "name": "Старичи",
+        "name": "Старый",
         "latitude": 49.98001,
         "longitude": 23.55848
     },
     {
-        "name": "Staryy Dobrotvir",
+        "name": "Старый Добротир",
         "latitude": 50.23154,
         "longitude": 24.37701
     },
@@ -5440,7 +5440,7 @@
         "longitude": 23.00056
     },
     {
-        "name": "Стебник",
+        "name": "Стебьяк",
         "latitude": 49.29416,
         "longitude": 23.56357
     },
@@ -5450,22 +5450,22 @@
         "longitude": 23.85609
     },
     {
-        "name": "Судова Вышня",
+        "name": "Судебная вишня",
         "latitude": 49.78892,
         "longitude": 23.37218
     },
     {
-        "name": "Sukhovolya",
+        "name": "Суховоля",
         "latitude": 49.82426,
         "longitude": 23.8377
     },
     {
-        "name": "Truskavets’",
+        "name": "Трускаветы",
         "latitude": 49.27837,
         "longitude": 23.50618
     },
     {
-        "name": "Tukhlia",
+        "name": "Тухля",
         "latitude": 48.91218,
         "longitude": 23.47303
     },
@@ -5490,7 +5490,7 @@
         "longitude": 23.42189
     },
     {
-        "name": "Верхняя Рожанка",
+        "name": "Верхния Рожанка",
         "latitude": 48.7805,
         "longitude": 23.51545
     },
@@ -5505,7 +5505,7 @@
         "longitude": 24.30328
     },
     {
-        "name": "Voyutychi",
+        "name": "Воютичи",
         "latitude": 49.55135,
         "longitude": 23.10579
     },
@@ -5520,7 +5520,7 @@
         "longitude": 23.9726
     },
     {
-        "name": "Zhydachiv",
+        "name": "Жидачев",
         "latitude": 49.38468,
         "longitude": 24.14254
     },
@@ -5545,7 +5545,7 @@
         "longitude": 31.38802
     },
     {
-        "name": "Березнехувата",
+        "name": "Березнегуват",
         "latitude": 47.30783,
         "longitude": 32.84993
     },
@@ -5565,12 +5565,12 @@
         "longitude": 31.20804
     },
     {
-        "name": "Kostyantynivka",
+        "name": "Костянтинивка",
         "latitude": 47.8266,
         "longitude": 31.13551
     },
     {
-        "name": "Kryve Ozero",
+        "name": "Криве Озеро",
         "latitude": 47.95242,
         "longitude": 30.34928
     },
@@ -5585,12 +5585,12 @@
         "longitude": 30.95153
     },
     {
-        "name": "Mykolayiv",
+        "name": "Mykolaiv",
         "latitude": 46.96591,
         "longitude": 31.9974
     },
     {
-        "name": "Nova Odesa",
+        "name": "Нова Одеса",
         "latitude": 47.30778,
         "longitude": 31.78506
     },
@@ -5605,7 +5605,7 @@
         "longitude": 31.54982
     },
     {
-        "name": "Ol'shanskoye",
+        "name": "Ольшанское",
         "latitude": 47.18411,
         "longitude": 31.79375
     },
@@ -5615,7 +5615,7 @@
         "longitude": 32.76116
     },
     {
-        "name": "Парутино",
+        "name": "Parutyne",
         "latitude": 46.70538,
         "longitude": 31.89709
     },
@@ -5630,12 +5630,12 @@
         "longitude": 30.88953
     },
     {
-        "name": "Rybakivka",
+        "name": "Рыбакивка",
         "latitude": 46.61712,
         "longitude": 31.34995
     },
     {
-        "name": "Шевченковское",
+        "name": "Шевченко",
         "latitude": 46.86289,
         "longitude": 32.20387
     },
@@ -5645,12 +5645,12 @@
         "longitude": 32.80516
     },
     {
-        "name": "Veselynove",
+        "name": "Веселинове",
         "latitude": 47.35666,
         "longitude": 31.23488
     },
     {
-        "name": "Voznesensk",
+        "name": "Вознесенск",
         "latitude": 47.56494,
         "longitude": 31.33078
     },
@@ -5660,7 +5660,7 @@
         "longitude": 30.59195
     },
     {
-        "name": "Yuzhnoukrains'k",
+        "name": "Южноукраинськ",
         "latitude": 47.81777,
         "longitude": 31.18263
     },
@@ -5675,22 +5675,22 @@
         "longitude": 29.61982
     },
     {
-        "name": "Balts’kyy Rayon",
+        "name": "Бальцский район",
         "latitude": 47.99828,
         "longitude": 29.64835
     },
     {
-        "name": "Березовка",
+        "name": "Конкретно",
         "latitude": 47.20429,
         "longitude": 30.9078
     },
     {
-        "name": "Berezyne",
+        "name": "Березине",
         "latitude": 46.22968,
         "longitude": 29.20436
     },
     {
-        "name": "Белогород-Днистровский",
+        "name": "Белгород-Днестровский",
         "latitude": 46.1952,
         "longitude": 30.34938
     },
@@ -5710,7 +5710,7 @@
         "longitude": 29.24167
     },
     {
-        "name": "Broska",
+        "name": "Броска",
         "latitude": 45.37327,
         "longitude": 28.783
     },
@@ -5725,12 +5725,12 @@
         "longitude": 28.98639
     },
     {
-        "name": "Ваш шрифт",
+        "name": "Твое фото",
         "latitude": 46.56646,
         "longitude": 30.85965
     },
     {
-        "name": "Хородные",
+        "name": "Городн",
         "latitude": 45.89083,
         "longitude": 28.84833
     },
@@ -5745,17 +5745,17 @@
         "longitude": 28.84079
     },
     {
-        "name": "Кальчева",
+        "name": "Калчева",
         "latitude": 45.73746,
         "longitude": 28.81441
     },
     {
-        "name": "Kamyshevka Vtoraya",
+        "name": "Камышевка Вторая",
         "latitude": 46.23333,
         "longitude": 29.83333
     },
     {
-        "name": "Каролина Бухаз",
+        "name": "Кэролайн-Бухаз",
         "latitude": 46.14492,
         "longitude": 30.52609
     },
@@ -5770,12 +5770,12 @@
         "longitude": 29.12463
     },
     {
-        "name": "Kodyms’kyy Rayon",
+        "name": "Кодимский район",
         "latitude": 48.02284,
         "longitude": 29.1401
     },
     {
-        "name": "Krasnosilka",
+        "name": "Красносёлка",
         "latitude": 46.62258,
         "longitude": 30.77421
     },
@@ -5795,12 +5795,12 @@
         "longitude": 29.78937
     },
     {
-        "name": "Kulevcha",
+        "name": "Кулевча",
         "latitude": 46.03034,
         "longitude": 29.93614
     },
     {
-        "name": "Kurisove",
+        "name": "Курисове",
         "latitude": 46.96951,
         "longitude": 30.95914
     },
@@ -5810,7 +5810,7 @@
         "longitude": 29.96722
     },
     {
-        "name": "Lyubashivka",
+        "name": "Любашевка",
         "latitude": 47.83716,
         "longitude": 30.25976
     },
@@ -5820,12 +5820,12 @@
         "longitude": 30.27413
     },
     {
-        "name": "Mykolayivka",
+        "name": "Mykolaivka",
         "latitude": 47.54135,
         "longitude": 30.75615
     },
     {
-        "name": "Mykolayivs’kyy Rayon",
+        "name": "МИКОЛАЙВ РАЙОН",
         "latitude": 47.4672,
         "longitude": 30.60283
     },
@@ -5875,7 +5875,7 @@
         "longitude": 29.53205
     },
     {
-        "name": "Подольский район",
+        "name": "Помнск",
         "latitude": 47.71642,
         "longitude": 29.54509
     },
@@ -5920,12 +5920,12 @@
         "longitude": 30.38595
     },
     {
-        "name": "Шевченковское",
+        "name": "Шевченко",
         "latitude": 45.55604,
         "longitude": 29.33357
     },
     {
-        "name": "Shyryayeve",
+        "name": "Ширяеве",
         "latitude": 47.38052,
         "longitude": 30.19638
     },
@@ -5940,7 +5940,7 @@
         "longitude": 29.98528
     },
     {
-        "name": "Степановка",
+        "name": "Степанивка",
         "latitude": 46.79489,
         "longitude": 29.98684
     },
@@ -5965,7 +5965,7 @@
         "longitude": 30.64891
     },
     {
-        "name": "Теплодар",
+        "name": "Тилодар",
         "latitude": 46.50585,
         "longitude": 30.32521
     },
@@ -5990,7 +5990,7 @@
         "longitude": 29.58595
     },
     {
-        "name": "Новоградовка",
+        "name": "Виноградник",
         "latitude": 45.68119,
         "longitude": 28.57138
     },
@@ -6000,17 +6000,17 @@
         "longitude": 31.10131
     },
     {
-        "name": "Zagnitkiv",
+        "name": "Загниткив",
         "latitude": 48.04878,
         "longitude": 28.89234
     },
     {
-        "name": "Zakharivka",
+        "name": "Захаривка",
         "latitude": 47.33232,
         "longitude": 29.75903
     },
     {
-        "name": "Железных",
+        "name": "Железнодорожный",
         "latitude": 45.7489,
         "longitude": 28.61466
     },
@@ -6020,7 +6020,7 @@
         "longitude": 30.46538
     },
     {
-        "name": "Zatyshshya",
+        "name": "Спокойствие",
         "latitude": 47.33351,
         "longitude": 29.87327
     },
@@ -6030,27 +6030,27 @@
         "longitude": 29.69672
     },
     {
-        "name": "Абрамок",
+        "name": "Вне",
         "latitude": 50.63694444,
         "longitude": 27.9075
     },
     {
-        "name": "Адамовка",
+        "name": "Адамайвка",
         "latitude": 50.37694444,
         "longitude": 27.91527778
     },
     {
-        "name": "Адама",
+        "name": "Адам",
         "latitude": 50.83111111,
         "longitude": 27.48305556
     },
     {
-        "name": "Agativka",
+        "name": "Агативка",
         "latitude": 49.98611111,
         "longitude": 28.605
     },
     {
-        "name": "Андриевка",
+        "name": "Андревка",
         "latitude": 49.76293844,
         "longitude": 34.3003749
     },
@@ -6060,7 +6060,7 @@
         "longitude": 29.01666667
     },
     {
-        "name": "Autozavodskoy Raion",
+        "name": "Аутозаводской Район",
         "latitude": 49.07173,
         "longitude": 33.41552
     },
@@ -6100,22 +6100,22 @@
         "longitude": 29.29361111
     },
     {
-        "name": "बेखी",
+        "name": "Прощание",
         "latitude": 51.01972222,
         "longitude": 28.69333333
     },
     {
-        "name": "Berdychiv",
+        "name": "Бердичив",
         "latitude": 49.89194444,
         "longitude": 28.6
     },
     {
-        "name": "Берестовка",
+        "name": "Берестивка",
         "latitude": 50.34055556,
         "longitude": 27.47611111
     },
     {
-        "name": "Берестовец",
+        "name": "Берстовитс",
         "latitude": 51.02,
         "longitude": 28.87027778
     },
@@ -6125,7 +6125,7 @@
         "longitude": 29.45305556
     },
     {
-        "name": "Berezovii Grud",
+        "name": "Березовый Грудь",
         "latitude": 50.99666667,
         "longitude": 28.35888889
     },
@@ -6145,7 +6145,7 @@
         "longitude": 28.28277778
     },
     {
-        "name": "Bikiv",
+        "name": "Быки",
         "latitude": 50.17833333,
         "longitude": 29.29638889
     },
@@ -6155,7 +6155,7 @@
         "longitude": 29.46361111
     },
     {
-        "name": "Bilii Bereg",
+        "name": "Белый Берег",
         "latitude": 50.75638889,
         "longitude": 29.47888889
     },
@@ -6170,27 +6170,27 @@
         "longitude": 29.03
     },
     {
-        "name": "Бистрик",
+        "name": "Бистрок",
         "latitude": 49.85638889,
         "longitude": 28.56638889
     },
     {
-        "name": "Быстриевка",
+        "name": "Прозрачный",
         "latitude": 50.47777778,
         "longitude": 29.16472222
     },
     {
-        "name": "Борисовка",
+        "name": "Борисива",
         "latitude": 49.76934347,
         "longitude": 34.33837579
     },
     {
-        "name": "Броники",
+        "name": "Брона",
         "latitude": 50.55361111,
         "longitude": 27.80777778
     },
     {
-        "name": "Брониция",
+        "name": "Доспехи",
         "latitude": 50.94666667,
         "longitude": 27.34527778
     },
@@ -6200,12 +6200,12 @@
         "longitude": 27.31388889
     },
     {
-        "name": "Brovki Pershi",
+        "name": "Бровки Перши",
         "latitude": 49.93194444,
         "longitude": 29.1975
     },
     {
-        "name": "Brusyliv",
+        "name": "Брузилс",
         "latitude": 50.28333333,
         "longitude": 29.53333333
     },
@@ -6220,12 +6220,12 @@
         "longitude": 28.325
     },
     {
-        "name": "Бульдичев",
+        "name": "Булдичив",
         "latitude": 50.11361111,
         "longitude": 27.79666667
     },
     {
-        "name": "Буриаки",
+        "name": "Осень осени",
         "latitude": 49.81888889,
         "longitude": 28.28361111
     },
@@ -6235,7 +6235,7 @@
         "longitude": 28.04444444
     },
     {
-        "name": "Bykivka",
+        "name": "Букивка",
         "latitude": 50.29277778,
         "longitude": 27.98305556
     },
@@ -6245,7 +6245,7 @@
         "longitude": 34.59174
     },
     {
-        "name": "Cherniakhiv",
+        "name": "Черняхив",
         "latitude": 50.455,
         "longitude": 28.66527778
     },
@@ -6260,7 +6260,7 @@
         "longitude": 28.9525
     },
     {
-        "name": "Чернухи",
+        "name": "Чорнухи",
         "latitude": 50.26990573,
         "longitude": 32.94757796
     },
@@ -6295,7 +6295,7 @@
         "longitude": 28.40777778
     },
     {
-        "name": "Дергановка",
+        "name": "Derhanivka",
         "latitude": 49.69222222,
         "longitude": 29.06333333
     },
@@ -6310,12 +6310,12 @@
         "longitude": 28.83194444
     },
     {
-        "name": "Didovichi",
+        "name": "Дидович",
         "latitude": 50.60916667,
         "longitude": 27.35583333
     },
     {
-        "name": "Divochki",
+        "name": "Девочки",
         "latitude": 50.44694444,
         "longitude": 28.74972222
     },
@@ -6335,7 +6335,7 @@
         "longitude": 28.78444444
     },
     {
-        "name": "Dubnyki",
+        "name": "Дубники",
         "latitude": 50.87416667,
         "longitude": 27.34888889
     },
@@ -6355,12 +6355,12 @@
         "longitude": 34.53408003
     },
     {
-        "name": "Elivka",
+        "name": "Еливка",
         "latitude": 50.72722222,
         "longitude": 29.18388889
     },
     {
-        "name": "Fedorivka",
+        "name": "Федоривка",
         "latitude": 49.77617039,
         "longitude": 34.43944548
     },
@@ -6370,7 +6370,7 @@
         "longitude": 35.00298408
     },
     {
-        "name": "Глиновцы",
+        "name": "Глина",
         "latitude": 50.04611111,
         "longitude": 28.80416667
     },
@@ -6385,17 +6385,17 @@
         "longitude": 28.54388889
     },
     {
-        "name": "Golovki",
+        "name": "Головки",
         "latitude": 50.83972222,
         "longitude": 29.13333333
     },
     {
-        "name": "Golubyatin",
+        "name": "Голубятин",
         "latitude": 49.855,
         "longitude": 29.51361111
     },
     {
-        "name": "Горбулов",
+        "name": "Gorbulive",
         "latitude": 50.5375,
         "longitude": 28.92333333
     },
@@ -6405,17 +6405,17 @@
         "longitude": 27.875
     },
     {
-        "name": "Gorianshchina",
+        "name": "Горянщина",
         "latitude": 49.91185729,
         "longitude": 34.45818988
     },
     {
-        "name": "Gorodkivka",
+        "name": "Городкивка",
         "latitude": 49.90972222,
         "longitude": 28.99416667
     },
     {
-        "name": "Gorodok",
+        "name": "Городок",
         "latitude": 49.60027778,
         "longitude": 29.195
     },
@@ -6445,12 +6445,12 @@
         "longitude": 28.73055556
     },
     {
-        "name": "Grushki",
+        "name": "Грушки",
         "latitude": 50.49277778,
         "longitude": 28.455
     },
     {
-        "name": "Gubske",
+        "name": "Губске",
         "latitude": 50.09951906,
         "longitude": 32.83123218
     },
@@ -6460,7 +6460,7 @@
         "longitude": 27.72111111
     },
     {
-        "name": "Gumenniki",
+        "name": "Гуменники",
         "latitude": 50.39694444,
         "longitude": 28.92666667
     },
@@ -6475,7 +6475,7 @@
         "longitude": 29.41666667
     },
     {
-        "name": "Гадяч",
+        "name": "Хадиах",
         "latitude": 50.36666667,
         "longitude": 34.0
     },
@@ -6495,12 +6495,12 @@
         "longitude": 29.16059
     },
     {
-        "name": "Horishni Plavni",
+        "name": "Horishni гладкий",
         "latitude": 49.01066008,
         "longitude": 33.65624556
     },
     {
-        "name": "Городец",
+        "name": "Городетс",
         "latitude": 51.37,
         "longitude": 28.24138889
     },
@@ -6510,7 +6510,7 @@
         "longitude": 27.31833333
     },
     {
-        "name": "Градызк",
+        "name": "Замок",
         "latitude": 49.23306925,
         "longitude": 33.13203713
     },
@@ -6530,17 +6530,17 @@
         "longitude": 28.60166667
     },
     {
-        "name": "Емиловка",
+        "name": "Гранул",
         "latitude": 50.68777778,
         "longitude": 28.72805556
     },
     {
-        "name": "Евгеновка",
+        "name": "Евеновка",
         "latitude": 50.63833333,
         "longitude": 27.99833333
     },
     {
-        "name": "Иршанск",
+        "name": "Наставник",
         "latitude": 50.71666667,
         "longitude": 28.71666667
     },
@@ -6555,7 +6555,7 @@
         "longitude": 28.56888889
     },
     {
-        "name": "Иванополь",
+        "name": "Германопиль",
         "latitude": 49.85861111,
         "longitude": 28.21555556
     },
@@ -6565,7 +6565,7 @@
         "longitude": 33.5186261
     },
     {
-        "name": "Кардашьян",
+        "name": "Кардашивка",
         "latitude": 49.88384899,
         "longitude": 34.64044604
     },
@@ -6575,17 +6575,17 @@
         "longitude": 35.13079636
     },
     {
-        "name": "Ходаки",
+        "name": "Ходки",
         "latitude": 50.97805556,
         "longitude": 28.80666667
     },
     {
-        "name": "Khorol",
+        "name": "Хорол",
         "latitude": 49.784031,
         "longitude": 33.258861
     },
     {
-        "name": "Khoroshiv",
+        "name": "Хорошив",
         "latitude": 50.6,
         "longitude": 28.45
     },
@@ -6605,7 +6605,7 @@
         "longitude": 28.47638889
     },
     {
-        "name": "Корни",
+        "name": "Кукуруза",
         "latitude": 50.09527778,
         "longitude": 29.53583333
     },
@@ -6615,7 +6615,7 @@
         "longitude": 28.65
     },
     {
-        "name": "Korostyshiv",
+        "name": "Коростышев",
         "latitude": 50.31861111,
         "longitude": 29.05916667
     },
@@ -6650,7 +6650,7 @@
         "longitude": 34.29072744
     },
     {
-        "name": "Kupech",
+        "name": "Купеч",
         "latitude": 50.99611111,
         "longitude": 28.78472222
     },
@@ -6695,7 +6695,7 @@
         "longitude": 33.26517113
     },
     {
-        "name": "Lubny",
+        "name": "Смазывающий",
         "latitude": 50.01856413,
         "longitude": 32.98686035
     },
@@ -6725,7 +6725,7 @@
         "longitude": 34.38291991
     },
     {
-        "name": "Марковка",
+        "name": "Маркер",
         "latitude": 49.30247078,
         "longitude": 34.07348137
     },
@@ -6735,12 +6735,12 @@
         "longitude": 34.87575392
     },
     {
-        "name": "Морозивка",
+        "name": "Мороз",
         "latitude": 50.67138889,
         "longitude": 27.45166667
     },
     {
-        "name": "Миргород",
+        "name": "Мирород",
         "latitude": 49.96397912,
         "longitude": 33.61238091
     },
@@ -6750,12 +6750,12 @@
         "longitude": 27.70583333
     },
     {
-        "name": "Narodychi",
+        "name": "День рождения",
         "latitude": 51.20231667,
         "longitude": 29.08139444
     },
     {
-        "name": "берет на себя",
+        "name": "Неповрежден",
         "latitude": 49.169215,
         "longitude": 33.25495
     },
@@ -6810,7 +6810,7 @@
         "longitude": 34.35914676
     },
     {
-        "name": "Olefirshchina",
+        "name": "Олефирщина",
         "latitude": 49.8859865,
         "longitude": 34.58571058
     },
@@ -6825,7 +6825,7 @@
         "longitude": 34.46003707
     },
     {
-        "name": "Opishnia",
+        "name": "Опишна",
         "latitude": 49.95635316,
         "longitude": 34.61200414
     },
@@ -6835,7 +6835,7 @@
         "longitude": 32.7015265
     },
     {
-        "name": "Ovruch",
+        "name": "Овруч",
         "latitude": 51.32444444,
         "longitude": 28.80805556
     },
@@ -6845,7 +6845,7 @@
         "longitude": 28.73611111
     },
     {
-        "name": "Паволок",
+        "name": "Паволох",
         "latitude": 49.86916667,
         "longitude": 29.44916667
     },
@@ -6855,27 +6855,27 @@
         "longitude": 27.63388889
     },
     {
-        "name": "Pershotravneve",
+        "name": "Першотравневе",
         "latitude": 51.38916667,
         "longitude": 28.8625
     },
     {
-        "name": "Petrenki",
+        "name": "Петренки",
         "latitude": 49.7316474,
         "longitude": 34.33764355
     },
     {
-        "name": "Pisarivshchina",
+        "name": "Писаревщина",
         "latitude": 49.85532915,
         "longitude": 34.63195588
     },
     {
-        "name": "Pishchiv",
+        "name": "Пищив",
         "latitude": 50.60555556,
         "longitude": 27.31694444
     },
     {
-        "name": "Полянка",
+        "name": "Полианка",
         "latitude": 50.25620278,
         "longitude": 27.69518889
     },
@@ -6890,7 +6890,7 @@
         "longitude": 29.45944444
     },
     {
-        "name": "Поповка",
+        "name": "Впитывание",
         "latitude": 49.82284856,
         "longitude": 34.36835803
     },
@@ -6910,7 +6910,7 @@
         "longitude": 32.50929941
     },
     {
-        "name": "Радомышль",
+        "name": "Radomyshl",
         "latitude": 50.49472222,
         "longitude": 29.23333333
     },
@@ -6935,7 +6935,7 @@
         "longitude": 33.33073071
     },
     {
-        "name": "Ружин (село)",
+        "name": "Рузин (Salok)",
         "latitude": 49.72333333,
         "longitude": 29.22138889
     },
@@ -6965,7 +6965,7 @@
         "longitude": 28.35444444
     },
     {
-        "name": "Smolovivshchina",
+        "name": "Смоловивщина",
         "latitude": 49.0681,
         "longitude": 34.43803
     },
@@ -6975,12 +6975,12 @@
         "longitude": 34.36245495
     },
     {
-        "name": "Степановка",
+        "name": "Степанивка",
         "latitude": 49.75900311,
         "longitude": 34.42956716
     },
     {
-        "name": "Судовка",
+        "name": "Судека",
         "latitude": 49.75552151,
         "longitude": 34.49162461
     },
@@ -7005,7 +7005,7 @@
         "longitude": 29.08
     },
     {
-        "name": "Troiany",
+        "name": "Трояны",
         "latitude": 49.84137052,
         "longitude": 34.46811957
     },
@@ -7025,7 +7025,7 @@
         "longitude": 34.58307084
     },
     {
-        "name": "Velyka Bahachka",
+        "name": "Большая багачка",
         "latitude": 49.79438338,
         "longitude": 33.72074263
     },
@@ -7055,7 +7055,7 @@
         "longitude": 27.70083333
     },
     {
-        "name": "Vodiana Balka",
+        "name": "Водный луч",
         "latitude": 49.90247078,
         "longitude": 34.48073506
     },
@@ -7075,7 +7075,7 @@
         "longitude": 27.80277778
     },
     {
-        "name": "Забаро-Давидовка",
+        "name": "Запрет-Дэвид",
         "latitude": 50.97027778,
         "longitude": 27.45305556
     },
@@ -7100,12 +7100,12 @@
         "longitude": 28.52222222
     },
     {
-        "name": "Zaluzhne",
+        "name": "Залужне",
         "latitude": 50.23833333,
         "longitude": 27.96805556
     },
     {
-        "name": "Западня",
+        "name": "Западный",
         "latitude": 50.19055556,
         "longitude": 29.32916667
     },
@@ -7135,7 +7135,7 @@
         "longitude": 27.88611111
     },
     {
-        "name": "Zherdeli",
+        "name": "Жердели",
         "latitude": 49.89888889,
         "longitude": 28.97
     },
@@ -7145,7 +7145,7 @@
         "longitude": 27.57194444
     },
     {
-        "name": "Zhovte",
+        "name": "Желтый",
         "latitude": 50.40444444,
         "longitude": 27.82166667
     },
@@ -7170,7 +7170,7 @@
         "longitude": 28.65777778
     },
     {
-        "name": "Zinkiv",
+        "name": "Зинкив",
         "latitude": 50.20813908,
         "longitude": 34.36684182
     },
@@ -7180,7 +7180,7 @@
         "longitude": 28.69111111
     },
     {
-        "name": "Zoriane",
+        "name": "Звезда",
         "latitude": 49.64916667,
         "longitude": 29.24444444
     },
@@ -7205,17 +7205,17 @@
         "longitude": 29.24655
     },
     {
-        "name": "Demydivs’kyy Rayon",
+        "name": "Демидовский район",
         "latitude": 50.44302,
         "longitude": 25.29061
     },
     {
-        "name": "Dubno",
+        "name": "Дубно",
         "latitude": 50.41694,
         "longitude": 25.73432
     },
     {
-        "name": "Dubrovytsya",
+        "name": "Дубровиця",
         "latitude": 51.57438,
         "longitude": 26.56503
     },
@@ -7225,7 +7225,7 @@
         "longitude": 26.36573
     },
     {
-        "name": "Гоща",
+        "name": "Хошча",
         "latitude": 50.6003,
         "longitude": 26.67435
     },
@@ -7250,27 +7250,27 @@
         "longitude": 27.16055
     },
     {
-        "name": "Kostopil’",
+        "name": "Костопил’",
         "latitude": 50.87841,
         "longitude": 26.45192
     },
     {
-        "name": "Мизоч",
+        "name": "Мизох",
         "latitude": 50.4,
         "longitude": 26.15
     },
     {
-        "name": "Mlyniv",
+        "name": "Мельницы",
         "latitude": 50.509,
         "longitude": 25.61675
     },
     {
-        "name": "Mlynivs’kyy Rayon",
+        "name": "Млинвский район",
         "latitude": 50.55726,
         "longitude": 25.57715
     },
     {
-        "name": "Orzhiv",
+        "name": "Оржив",
         "latitude": 50.8,
         "longitude": 26.12
     },
@@ -7280,7 +7280,7 @@
         "longitude": 26.51425
     },
     {
-        "name": "Острожка Мискрада",
+        "name": "Остроб Мисарада",
         "latitude": 50.32726,
         "longitude": 26.51765
     },
@@ -7290,7 +7290,7 @@
         "longitude": 25.25576
     },
     {
-        "name": "Rivne",
+        "name": "Ривн",
         "latitude": 50.62308,
         "longitude": 26.22743
     },
@@ -7330,7 +7330,7 @@
         "longitude": 26.86626
     },
     {
-        "name": "Volodymyrets’",
+        "name": "Владимир",
         "latitude": 51.4213,
         "longitude": 26.14469
     },
@@ -7340,7 +7340,7 @@
         "longitude": 26.12902
     },
     {
-        "name": "Здолбунов",
+        "name": "Здольбунив",
         "latitude": 50.5206,
         "longitude": 26.24251
     },
@@ -7355,17 +7355,17 @@
         "longitude": 100.61755
     },
     {
-        "name": "Alarskiy Rayon",
+        "name": "Аларский Район",
         "latitude": 53.33333,
         "longitude": 103.0
     },
     {
-        "name": "Alekseyevskaya",
+        "name": "Алексеевская",
         "latitude": 57.85,
         "longitude": 108.4
     },
     {
-        "name": "Начать",
+        "name": "Инициатива",
         "latitude": 54.4009,
         "longitude": 100.255
     },
@@ -7375,7 +7375,7 @@
         "longitude": 98.6644
     },
     {
-        "name": "Andreyevka",
+        "name": "Андреевка",
         "latitude": 44.81663,
         "longitude": 33.56313
     },
@@ -7385,7 +7385,7 @@
         "longitude": 103.88639
     },
     {
-        "name": "Angarskiy Rayon",
+        "name": "Ангарский Район",
         "latitude": 52.33333,
         "longitude": 103.66667
     },
@@ -7410,12 +7410,12 @@
         "longitude": 103.05234
     },
     {
-        "name": "Balaganskiy Rayon",
+        "name": "Балаганский Район",
         "latitude": 54.66667,
         "longitude": 102.83333
     },
     {
-        "name": "Balakhninskiy",
+        "name": "Балахнинский",
         "latitude": 58.01056,
         "longitude": 114.27694
     },
@@ -7430,12 +7430,12 @@
         "longitude": 33.67035
     },
     {
-        "name": "Баяндай",
+        "name": "Заявление заявления",
         "latitude": 53.06611,
         "longitude": 105.51389
     },
     {
-        "name": "Bayandayevskiy Rayon",
+        "name": "Баяндаевский Район",
         "latitude": 53.08333,
         "longitude": 105.58333
     },
@@ -7455,7 +7455,7 @@
         "longitude": 97.8235
     },
     {
-        "name": "Бодайбо",
+        "name": "Радость",
         "latitude": 57.85056,
         "longitude": 114.19333
     },
@@ -7465,12 +7465,12 @@
         "longitude": 103.7714
     },
     {
-        "name": "Bokhanskiy Rayon",
+        "name": "Боханский Район",
         "latitude": 53.16667,
         "longitude": 104.0
     },
     {
-        "name": "Bol’shaya Rechka",
+        "name": "Боль’шая Речка",
         "latitude": 51.9536,
         "longitude": 104.7335
     },
@@ -7495,7 +7495,7 @@
         "longitude": 103.0675
     },
     {
-        "name": "Cheremkhovskiy Rayon",
+        "name": "Черемховский Район",
         "latitude": 52.66667,
         "longitude": 102.33333
     },
@@ -7510,7 +7510,7 @@
         "longitude": 104.38694
     },
     {
-        "name": "Ekhirit-Bulagatskiy Rayon",
+        "name": "Район Эхирит-Булагатски",
         "latitude": 53.0,
         "longitude": 104.83333
     },
@@ -7520,7 +7520,7 @@
         "longitude": 33.73841
     },
     {
-        "name": "Gadaley",
+        "name": "Гадали",
         "latitude": 54.40318,
         "longitude": 100.74093
     },
@@ -7530,7 +7530,7 @@
         "longitude": 100.64399
     },
     {
-        "name": "Гагаринский район",
+        "name": "Хахаринский район",
         "latitude": 44.59217,
         "longitude": 33.43925
     },
@@ -7540,7 +7540,7 @@
         "longitude": 100.08111
     },
     {
-        "name": "иллирийский",
+        "name": "Иллирийский",
         "latitude": 55.22473,
         "longitude": 100.68498
     },
@@ -7560,7 +7560,7 @@
         "longitude": 104.66667
     },
     {
-        "name": "Большинство",
+        "name": "Окончательный",
         "latitude": 44.77635,
         "longitude": 33.54387
     },
@@ -7570,17 +7570,17 @@
         "longitude": 105.88167
     },
     {
-        "name": "Kachugskiy Rayon",
+        "name": "Качугский Район",
         "latitude": 54.0,
         "longitude": 106.5
     },
     {
-        "name": "Katangskiy Rayon",
+        "name": "Катангский Район",
         "latitude": 61.0,
         "longitude": 108.0
     },
     {
-        "name": "Kazachinsko-Lenskiy Rayon",
+        "name": "Казачинско-Ленский Район",
         "latitude": 56.0,
         "longitude": 108.0
     },
@@ -7595,17 +7595,17 @@
         "longitude": 104.4025
     },
     {
-        "name": "Khrebtovaya",
+        "name": "Хребтовая",
         "latitude": 56.7032,
         "longitude": 104.2494
     },
     {
-        "name": "Khudoyelanskoye",
+        "name": "Худоеланское",
         "latitude": 54.70375,
         "longitude": 99.63042
     },
     {
-        "name": "Khuzhir",
+        "name": "Хужир",
         "latitude": 53.19389,
         "longitude": 107.33972
     },
@@ -7625,12 +7625,12 @@
         "longitude": 109.25
     },
     {
-        "name": "Ребенок",
+        "name": "Китой",
         "latitude": 52.6,
         "longitude": 103.9
     },
     {
-        "name": "Кортикальный",
+        "name": "Они",
         "latitude": 54.65057,
         "longitude": 100.45395
     },
@@ -7640,7 +7640,7 @@
         "longitude": 115.32167
     },
     {
-        "name": "Культы",
+        "name": "Культ",
         "latitude": 51.72083,
         "longitude": 103.69556
     },
@@ -7650,7 +7650,7 @@
         "longitude": 102.78389
     },
     {
-        "name": "Движение",
+        "name": "Кинту",
         "latitude": 54.34241,
         "longitude": 101.50917
     },
@@ -7660,7 +7660,7 @@
         "longitude": 101.66667
     },
     {
-        "name": "Kvitok",
+        "name": "Квиток",
         "latitude": 56.0724,
         "longitude": 98.4813
     },
@@ -7675,7 +7675,7 @@
         "longitude": 99.5136
     },
     {
-        "name": "Листвянка",
+        "name": "ЛИСКИВАНКА",
         "latitude": 51.8535,
         "longitude": 104.8693
     },
@@ -7690,7 +7690,7 @@
         "longitude": 112.89861
     },
     {
-        "name": "есть",
+        "name": "Плум",
         "latitude": 57.81611,
         "longitude": 114.00278
     },
@@ -7735,7 +7735,7 @@
         "longitude": 33.58092
     },
     {
-        "name": "Nizhneilimskiy Rayon",
+        "name": "Нижнеилимский Район",
         "latitude": 57.0,
         "longitude": 103.5
     },
@@ -7745,12 +7745,12 @@
         "longitude": 99.0276
     },
     {
-        "name": "Nizhneudinskiy Rayon",
+        "name": "Нижнеудинский Район",
         "latitude": 54.33333,
         "longitude": 98.5
     },
     {
-        "name": "Novaya Igirma",
+        "name": "Новая Игирма",
         "latitude": 57.1334,
         "longitude": 103.9112
     },
@@ -7770,7 +7770,7 @@
         "longitude": 106.5
     },
     {
-        "name": "Orlinoye",
+        "name": "Орлиное",
         "latitude": 44.44685,
         "longitude": 33.77588
     },
@@ -7785,7 +7785,7 @@
         "longitude": 104.45556
     },
     {
-        "name": "Pad’ Mel’nichnaya",
+        "name": "Пад’ Тел’ничная",
         "latitude": 52.16,
         "longitude": 104.38
     },
@@ -7805,7 +7805,7 @@
         "longitude": 101.05361
     },
     {
-        "name": "Polyushko",
+        "name": "Полюшко",
         "latitude": 44.74219,
         "longitude": 33.58913
     },
@@ -7815,7 +7815,7 @@
         "longitude": 103.7519
     },
     {
-        "name": "Sakharnaya Golovka",
+        "name": "Сахарная Головка",
         "latitude": 44.58362,
         "longitude": 33.64383
     },
@@ -7840,7 +7840,7 @@
         "longitude": 99.89209
     },
     {
-        "name": "Shelekhov",
+        "name": "Шелехов",
         "latitude": 52.21389,
         "longitude": 104.1
     },
@@ -7865,7 +7865,7 @@
         "longitude": 33.62245
     },
     {
-        "name": "Shumskiy",
+        "name": "Шумский",
         "latitude": 54.8318,
         "longitude": 99.1328
     },
@@ -7885,7 +7885,7 @@
         "longitude": 104.12806
     },
     {
-        "name": "Solnechniy",
+        "name": "Солнечный",
         "latitude": 44.78677,
         "longitude": 33.61786
     },
@@ -7905,7 +7905,7 @@
         "longitude": 98.0044
     },
     {
-        "name": "Tayshetskiy Rayon",
+        "name": "Тайшетский Район",
         "latitude": 56.0,
         "longitude": 98.0
     },
@@ -7915,7 +7915,7 @@
         "longitude": 103.46083
     },
     {
-        "name": "Тельма",
+        "name": "Язык",
         "latitude": 52.6981,
         "longitude": 103.7138
     },
@@ -7940,7 +7940,7 @@
         "longitude": 101.17054
     },
     {
-        "name": "Tyret’ Pervaya",
+        "name": "Тирет’ Первая",
         "latitude": 53.67028,
         "longitude": 102.31056
     },
@@ -7955,17 +7955,17 @@
         "longitude": 104.24016
     },
     {
-        "name": "Usol’skiy Rayon",
+        "name": "Усольский район",
         "latitude": 52.5,
         "longitude": 103.25
     },
     {
-        "name": "Usol’ye-Sibirskoye",
+        "name": "Усолье-Сибирское",
         "latitude": 52.75194,
         "longitude": 103.64528
     },
     {
-        "name": "Усть-Илимск",
+        "name": "УСТ-Илимск",
         "latitude": 58.00056,
         "longitude": 102.66194
     },
@@ -7990,12 +7990,12 @@
         "longitude": 103.0304
     },
     {
-        "name": "Ust’-Udinskiy Rayon",
+        "name": "Уст’-Удинский Район",
         "latitude": 55.0,
         "longitude": 103.66667
     },
     {
-        "name": "Verkhnesadovoye",
+        "name": "Верхнесадовое",
         "latitude": 44.68932,
         "longitude": 33.70207
     },
@@ -8005,7 +8005,7 @@
         "longitude": 103.1106
     },
     {
-        "name": "Vikhorevka",
+        "name": "Вихоревка",
         "latitude": 56.12128,
         "longitude": 101.17767
     },
@@ -8020,7 +8020,7 @@
         "longitude": 105.2542
     },
     {
-        "name": "Едогон",
+        "name": "Дегодого",
         "latitude": 54.2549,
         "longitude": 100.2385
     },
@@ -8035,7 +8035,7 @@
         "longitude": 108.01535
     },
     {
-        "name": "Yurty",
+        "name": "Юрты",
         "latitude": 56.0498,
         "longitude": 97.6348
     },
@@ -8055,7 +8055,7 @@
         "longitude": 102.77838
     },
     {
-        "name": "Zheleznogorsk-Ilimskiy",
+        "name": "Железногорск-Илимский",
         "latitude": 56.5768,
         "longitude": 104.1217
     },
@@ -8065,7 +8065,7 @@
         "longitude": 105.15808
     },
     {
-        "name": "Zhigalovskiy Rayon",
+        "name": "Жигаловский Район",
         "latitude": 55.0,
         "longitude": 105.5
     },
@@ -8075,7 +8075,7 @@
         "longitude": 102.0442
     },
     {
-        "name": "Ziminskiy Rayon",
+        "name": "Зиминский Район",
         "latitude": 55.83333,
         "longitude": 101.66667
     },
@@ -8085,12 +8085,12 @@
         "longitude": 106.4799
     },
     {
-        "name": "Bilopillya",
+        "name": "Вылупилля",
         "latitude": 51.15016,
         "longitude": 34.31287
     },
     {
-        "name": "Boromlya",
+        "name": "Боромля",
         "latitude": 50.61839,
         "longitude": 34.97042
     },
@@ -8125,12 +8125,12 @@
         "longitude": 33.38475
     },
     {
-        "name": "Kyrykivka",
+        "name": "Кырыкивка",
         "latitude": 50.36408,
         "longitude": 35.1149
     },
     {
-        "name": "Lebedyn",
+        "name": "Лебедин",
         "latitude": 50.58518,
         "longitude": 34.4849
     },
@@ -8140,7 +8140,7 @@
         "longitude": 33.79793
     },
     {
-        "name": "Mezenivka",
+        "name": "Мезенивка",
         "latitude": 50.63486,
         "longitude": 35.3134
     },
@@ -8170,12 +8170,12 @@
         "longitude": 33.48284
     },
     {
-        "name": "Ромны",
+        "name": "Римни",
         "latitude": 50.75104,
         "longitude": 33.47471
     },
     {
-        "name": "Seredyna-Buda",
+        "name": "Середина будда",
         "latitude": 52.18903,
         "longitude": 34.03639
     },
@@ -8220,7 +8220,7 @@
         "longitude": 34.95861
     },
     {
-        "name": "Ворожба",
+        "name": "Гадалка",
         "latitude": 51.17334,
         "longitude": 34.21917
     },
@@ -8235,7 +8235,7 @@
         "longitude": 34.06729
     },
     {
-        "name": "беспокоить",
+        "name": "В беде",
         "latitude": 49.029,
         "longitude": 25.77059
     },
@@ -8245,12 +8245,12 @@
         "longitude": 26.04347
     },
     {
-        "name": "Бучач",
+        "name": "Клавишка",
         "latitude": 49.06254,
         "longitude": 25.38798
     },
     {
-        "name": "Чортков",
+        "name": "Хорткив",
         "latitude": 49.01709,
         "longitude": 25.79804
     },
@@ -8275,7 +8275,7 @@
         "longitude": 25.92165
     },
     {
-        "name": "Копычинцы",
+        "name": "Копичцси",
         "latitude": 49.10441,
         "longitude": 25.91026
     },
@@ -8285,12 +8285,12 @@
         "longitude": 25.15086
     },
     {
-        "name": "Кременетс",
+        "name": "Кремнетс",
         "latitude": 50.09693,
         "longitude": 25.72459
     },
     {
-        "name": "Лановцы",
+        "name": "Лановеты",
         "latitude": 49.86328,
         "longitude": 26.09082
     },
@@ -8300,7 +8300,7 @@
         "longitude": 25.60518
     },
     {
-        "name": "Нырков",
+        "name": "Новый",
         "latitude": 48.81492,
         "longitude": 25.59989
     },
@@ -8380,17 +8380,17 @@
         "longitude": 25.77616
     },
     {
-        "name": "Зборов",
+        "name": "Зборив",
         "latitude": 49.66484,
         "longitude": 25.14097
     },
     {
-        "name": "Золотой Потик",
+        "name": "Золотой поток",
         "latitude": 48.9095,
         "longitude": 25.33926
     },
     {
-        "name": "Бережаны",
+        "name": "Бережани",
         "latitude": 49.45,
         "longitude": 24.93333
     },
@@ -8410,7 +8410,7 @@
         "longitude": 29.51726
     },
     {
-        "name": "Браилёв",
+        "name": "Баралив",
         "latitude": 49.10986,
         "longitude": 28.17459
     },
@@ -8505,7 +8505,7 @@
         "longitude": 27.7982
     },
     {
-        "name": "Мурафа",
+        "name": "Болезни",
         "latitude": 48.76763,
         "longitude": 28.21569
     },
@@ -8515,17 +8515,17 @@
         "longitude": 27.51892
     },
     {
-        "name": "Nemyriv",
+        "name": "Немирив",
         "latitude": 48.97076,
         "longitude": 28.83779
     },
     {
-        "name": "Nova Pryluka",
+        "name": "Новый Pryluk",
         "latitude": 49.37488,
         "longitude": 28.69955
     },
     {
-        "name": "Ободивка",
+        "name": "АНКУТ",
         "latitude": 48.40514,
         "longitude": 29.24775
     },
@@ -8545,7 +8545,7 @@
         "longitude": 29.26361
     },
     {
-        "name": "Pohrebyshchens’kyy Rayon",
+        "name": "ОБЛАСТИ ОБЕДИВАЕМА",
         "latitude": 49.48126,
         "longitude": 29.25953
     },
@@ -8625,7 +8625,7 @@
         "longitude": 28.47588
     },
     {
-        "name": "Vinnytsia",
+        "name": "Виннитса",
         "latitude": 49.23278,
         "longitude": 28.48097
     },
@@ -8645,7 +8645,7 @@
         "longitude": 28.28195
     },
     {
-        "name": "Zhmerynka",
+        "name": "Жмеринка",
         "latitude": 49.03705,
         "longitude": 28.11201
     },
@@ -8665,7 +8665,7 @@
         "longitude": 25.00767
     },
     {
-        "name": "Horokhiv",
+        "name": "Горох",
         "latitude": 50.50186,
         "longitude": 24.76149
     },
@@ -8685,7 +8685,7 @@
         "longitude": 24.70867
     },
     {
-        "name": "Ковельский промах",
+        "name": "Sleveld's \"пропустил\"",
         "latitude": 51.21198,
         "longitude": 24.70163
     },
@@ -8715,7 +8715,7 @@
         "longitude": 25.33133
     },
     {
-        "name": "Lyuboml’s’kyy Rayon",
+        "name": "Lyuboml'kyi District",
         "latitude": 51.25062,
         "longitude": 24.01161
     },
@@ -8755,7 +8755,7 @@
         "longitude": 24.92427
     },
     {
-        "name": "военное время",
+        "name": "Война",
         "latitude": 51.6683,
         "longitude": 24.5303
     },
@@ -8780,7 +8780,7 @@
         "longitude": 23.86522
     },
     {
-        "name": "Stara Vyzhivka",
+        "name": "Стара Выживка",
         "latitude": 51.43762,
         "longitude": 24.43997
     },
@@ -8825,7 +8825,7 @@
         "longitude": 23.474
     },
     {
-        "name": "Bilky",
+        "name": "Белки",
         "latitude": 48.31503,
         "longitude": 23.13248
     },
@@ -8835,7 +8835,7 @@
         "longitude": 22.89585
     },
     {
-        "name": "Богдан",
+        "name": "Бохдан",
         "latitude": 48.04122,
         "longitude": 24.35222
     },
@@ -8850,7 +8850,7 @@
         "longitude": 22.20555
     },
     {
-        "name": "Чинадиево",
+        "name": "Цинадиево",
         "latitude": 48.48179,
         "longitude": 22.8217
     },
@@ -8860,12 +8860,12 @@
         "longitude": 23.27904
     },
     {
-        "name": "Дорогой",
+        "name": "Драхово",
         "latitude": 48.23573,
         "longitude": 23.54914
     },
     {
-        "name": "Дубовое",
+        "name": "Дубов",
         "latitude": 48.17205,
         "longitude": 23.88954
     },
@@ -8900,7 +8900,7 @@
         "longitude": 22.3957
     },
     {
-        "name": "Khust",
+        "name": "Хуст",
         "latitude": 48.1793,
         "longitude": 23.29909
     },
@@ -8910,7 +8910,7 @@
         "longitude": 23.41667
     },
     {
-        "name": "Хустский городок",
+        "name": "Посадка",
         "latitude": 48.19058,
         "longitude": 23.30322
     },
@@ -8920,7 +8920,7 @@
         "longitude": 23.6959
     },
     {
-        "name": "Копашново",
+        "name": "Копание",
         "latitude": 48.2197,
         "longitude": 23.48457
     },
@@ -8940,12 +8940,12 @@
         "longitude": 23.23647
     },
     {
-        "name": "Kushnytsya",
+        "name": "Кушниця",
         "latitude": 48.43988,
         "longitude": 23.25816
     },
     {
-        "name": "Kvasy",
+        "name": "Квасы",
         "latitude": 48.14973,
         "longitude": 24.27995
     },
@@ -8960,32 +8960,32 @@
         "longitude": 24.23333
     },
     {
-        "name": "Lopukhiv",
+        "name": "Лопухив",
         "latitude": 48.36527,
         "longitude": 23.96382
     },
     {
-        "name": "Lypcha",
+        "name": "Липча",
         "latitude": 48.26107,
         "longitude": 23.38336
     },
     {
-        "name": "Lysychovo",
+        "name": "Лисичово",
         "latitude": 48.49677,
         "longitude": 23.28992
     },
     {
-        "name": "Мижрия",
+        "name": "Михахирья",
         "latitude": 48.52458,
         "longitude": 23.50563
     },
     {
-        "name": "Мижрия Район",
+        "name": "Михахирский район",
         "latitude": 48.58333,
         "longitude": 23.5
     },
     {
-        "name": "Mukacheve",
+        "name": "Мукачево",
         "latitude": 48.43919,
         "longitude": 22.71779
     },
@@ -8995,12 +8995,12 @@
         "longitude": 22.66667
     },
     {
-        "name": "Muzhiyevo",
+        "name": "Мужиево",
         "latitude": 48.17959,
         "longitude": 22.69943
     },
     {
-        "name": "Мой нет",
+        "name": "Залив",
         "latitude": 48.5888,
         "longitude": 22.27502
     },
@@ -9015,7 +9015,7 @@
         "longitude": 23.76588
     },
     {
-        "name": "Невицкое",
+        "name": "Навиц",
         "latitude": 48.67472,
         "longitude": 22.38813
     },
@@ -9025,12 +9025,12 @@
         "longitude": 22.62164
     },
     {
-        "name": "Нижне Селишче",
+        "name": "Нижняя деревня",
         "latitude": 48.19911,
         "longitude": 23.44757
     },
     {
-        "name": "Oleshnyk",
+        "name": "Олешник",
         "latitude": 48.16406,
         "longitude": 22.96167
     },
@@ -9045,7 +9045,7 @@
         "longitude": 22.482
     },
     {
-        "name": "Перечинский район",
+        "name": "Перехин Раоон",
         "latitude": 48.75,
         "longitude": 22.66667
     },
@@ -9060,7 +9060,7 @@
         "longitude": 22.75328
     },
     {
-        "name": "Pylypets",
+        "name": "Пилипетс",
         "latitude": 48.65899,
         "longitude": 23.28346
     },
@@ -9070,7 +9070,7 @@
         "longitude": 24.20089
     },
     {
-        "name": "Раховский район",
+        "name": "Ракхив",
         "latitude": 48.08333,
         "longitude": 24.33333
     },
@@ -9090,7 +9090,7 @@
         "longitude": 22.50696
     },
     {
-        "name": "Середные Водяне",
+        "name": "Средняя вода",
         "latitude": 47.98159,
         "longitude": 23.91041
     },
@@ -9105,12 +9105,12 @@
         "longitude": 22.23269
     },
     {
-        "name": "Страбычево",
+        "name": "Страбичово",
         "latitude": 48.39247,
         "longitude": 22.54308
     },
     {
-        "name": "Свалявский район",
+        "name": "Депозитный",
         "latitude": 48.55,
         "longitude": 23.0
     },
@@ -9140,12 +9140,12 @@
         "longitude": 23.57061
     },
     {
-        "name": "Uzhgorod",
+        "name": "Ужгород",
         "latitude": 48.61667,
         "longitude": 22.3
     },
     {
-        "name": "Ужгород Район",
+        "name": "Ужгородский район",
         "latitude": 48.58333,
         "longitude": 22.33333
     },
@@ -9160,17 +9160,17 @@
         "longitude": 22.74591
     },
     {
-        "name": "Великие Березные",
+        "name": "Великий Березни",
         "latitude": 48.88831,
         "longitude": 22.46052
     },
     {
-        "name": "Большой Березный Район",
+        "name": "Великий мартовский район",
         "latitude": 48.91667,
         "longitude": 22.58333
     },
     {
-        "name": "Воловец",
+        "name": "Воловецец",
         "latitude": 48.7109,
         "longitude": 23.1851
     },
@@ -9180,7 +9180,7 @@
         "longitude": 23.08333
     },
     {
-        "name": "Vylok",
+        "name": "Вилок",
         "latitude": 48.10915,
         "longitude": 22.83865
     },
@@ -9195,7 +9195,7 @@
         "longitude": 23.0
     },
     {
-        "name": "Вышково",
+        "name": "Вишково",
         "latitude": 48.04911,
         "longitude": 23.42113
     },
@@ -9220,12 +9220,12 @@
         "longitude": 36.77049
     },
     {
-        "name": "Бердянск",
+        "name": "Бердианск",
         "latitude": 46.76644,
         "longitude": 36.79872
     },
     {
-        "name": "Чапаевка",
+        "name": "Чапаеевка",
         "latitude": 47.47114,
         "longitude": 36.34507
     },
@@ -9245,7 +9245,7 @@
         "longitude": 34.61805
     },
     {
-        "name": "Энергодес",
+        "name": "Энергия",
         "latitude": 47.49865,
         "longitude": 34.6574
     },
@@ -9260,7 +9260,7 @@
         "longitude": 35.69512
     },
     {
-        "name": "Комыш-Зорья",
+        "name": "Комыш-Стар",
         "latitude": 47.32755,
         "longitude": 36.69298
     },
@@ -9270,7 +9270,7 @@
         "longitude": 35.52981
     },
     {
-        "name": "Kostyantynivka",
+        "name": "Костянтинивка",
         "latitude": 46.81673,
         "longitude": 35.42287
     },
@@ -9285,22 +9285,22 @@
         "longitude": 36.64908
     },
     {
-        "name": "Кирилловка",
+        "name": "Кирилл",
         "latitude": 46.37592,
         "longitude": 35.36753
     },
     {
-        "name": "Малая Белозерка",
+        "name": "Мала",
         "latitude": 47.24737,
         "longitude": 34.93457
     },
     {
-        "name": "Малая Токмачка",
+        "name": "Сапожник",
         "latitude": 47.53563,
         "longitude": 35.89293
     },
     {
-        "name": "Malokaterynivka",
+        "name": "Малокатеринивка",
         "latitude": 47.6555,
         "longitude": 35.25649
     },
@@ -9355,7 +9355,7 @@
         "longitude": 36.8253
     },
     {
-        "name": "Локации",
+        "name": "Позиция",
         "latitude": 47.48444,
         "longitude": 36.25361
     },
@@ -9370,7 +9370,7 @@
         "longitude": 35.66667
     },
     {
-        "name": "Prymors’k",
+        "name": "Примирск",
         "latitude": 46.73479,
         "longitude": 36.34425
     },
@@ -9380,27 +9380,27 @@
         "longitude": 36.25
     },
     {
-        "name": "Pryshyb",
+        "name": "Pryshib",
         "latitude": 47.25927,
         "longitude": 35.31953
     },
     {
-        "name": "Розовка",
+        "name": "Роза",
         "latitude": 47.38484,
         "longitude": 37.06792
     },
     {
-        "name": "Rozivs’kyy Rayon",
+        "name": "Розовский район",
         "latitude": 47.46956,
         "longitude": 36.97192
     },
     {
-        "name": "Тернувате",
+        "name": "Охватить",
         "latitude": 47.83049,
         "longitude": 36.12761
     },
     {
-        "name": "Терпения",
+        "name": "Терпение",
         "latitude": 46.96942,
         "longitude": 35.421
     },
@@ -9425,7 +9425,7 @@
         "longitude": 35.27417
     },
     {
-        "name": "Большая Белозерка",
+        "name": "Великий Белозер",
         "latitude": 47.27756,
         "longitude": 34.70616
     },
@@ -9440,12 +9440,12 @@
         "longitude": 34.91504
     },
     {
-        "name": "Вильнянский район",
+        "name": "Вильнианск Район",
         "latitude": 48.0,
         "longitude": 35.41667
     },
     {
-        "name": "Vodyane",
+        "name": "Вода",
         "latitude": 47.48746,
         "longitude": 34.49235
     },
@@ -9465,7 +9465,7 @@
         "longitude": 35.0
     },
     {
-        "name": "Железных",
+        "name": "Железнодорожный",
         "latitude": 47.65238,
         "longitude": 36.16524
     },
@@ -9495,12 +9495,12 @@
         "longitude": 27.6622
     },
     {
-        "name": "Berdychiv",
+        "name": "Бердичив",
         "latitude": 49.89928,
         "longitude": 28.60235
     },
     {
-        "name": "Бердычевский Район",
+        "name": "Бердичивский район",
         "latitude": 49.91667,
         "longitude": 28.58333
     },
@@ -9510,27 +9510,27 @@
         "longitude": 29.47041
     },
     {
-        "name": "Brusyliv",
+        "name": "Брузилс",
         "latitude": 50.28449,
         "longitude": 29.52626
     },
     {
-        "name": "Brusylivs’kyy Rayon",
+        "name": "Брузилливский район",
         "latitude": 50.25638,
         "longitude": 29.48742
     },
     {
-        "name": "Bykivka",
+        "name": "Букивка",
         "latitude": 50.29285,
         "longitude": 27.98314
     },
     {
-        "name": "Cherniakhiv",
+        "name": "Черняхив",
         "latitude": 50.45652,
         "longitude": 28.67018
     },
     {
-        "name": "Чернякивский Район",
+        "name": "Черньяхивский район",
         "latitude": 50.41667,
         "longitude": 28.66667
     },
@@ -9555,7 +9555,7 @@
         "longitude": 28.11745
     },
     {
-        "name": "Чудновский район",
+        "name": "Странный",
         "latitude": 50.0,
         "longitude": 28.16667
     },
@@ -9595,7 +9595,7 @@
         "longitude": 28.5
     },
     {
-        "name": "Корни",
+        "name": "Кукуруза",
         "latitude": 50.0953,
         "longitude": 29.53581
     },
@@ -9605,12 +9605,12 @@
         "longitude": 28.63855
     },
     {
-        "name": "Korostyshiv",
+        "name": "Коростышев",
         "latitude": 50.31723,
         "longitude": 29.0563
     },
     {
-        "name": "Korostyshiv Raion",
+        "name": "Коростышев Район",
         "latitude": 50.33333,
         "longitude": 29.08333
     },
@@ -9640,7 +9640,7 @@
         "longitude": 29.19926
     },
     {
-        "name": "Narodychi",
+        "name": "День рождения",
         "latitude": 51.20286,
         "longitude": 29.08228
     },
@@ -9670,7 +9670,7 @@
         "longitude": 27.65228
     },
     {
-        "name": "Ovruch",
+        "name": "Овруч",
         "latitude": 51.3246,
         "longitude": 28.80351
     },
@@ -9685,7 +9685,7 @@
         "longitude": 28.73384
     },
     {
-        "name": "Pershotravneve",
+        "name": "Першотравневе",
         "latitude": 51.39287,
         "longitude": 28.86837
     },
@@ -9710,7 +9710,7 @@
         "longitude": 28.25
     },
     {
-        "name": "Радомышль",
+        "name": "Radomyshl",
         "latitude": 50.49613,
         "longitude": 29.22911
     },
@@ -9740,7 +9740,7 @@
         "longitude": 29.31741
     },
     {
-        "name": "Емильчино",
+        "name": "Йемилхайн",
         "latitude": 50.87349,
         "longitude": 27.80604
     },

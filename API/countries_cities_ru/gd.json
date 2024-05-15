@@ -1,36 +1,36 @@
 [
     {
-        "name": "Хиллсборо",
+        "name": "Hillsborough",
         "latitude": 12.48292,
         "longitude": -61.45597
     },
     {
-        "name": "Гренвилл",
+        "name": "Grenville",
         "latitude": 12.12278,
         "longitude": -61.62498
     },
     {
-        "name": "Сент-Давиды",
+        "name": "Saint David\u2019s",
         "latitude": 12.04903,
         "longitude": -61.66875
     },
     {
-        "name": "Сент-Джордж",
+        "name": "Saint George's",
         "latitude": 12.05288,
         "longitude": -61.75226
     },
     {
-        "name": "Гуава",
+        "name": "Gouyave",
         "latitude": 12.16462,
         "longitude": -61.72965
     },
     {
-        "name": "Виктория",
+        "name": "Victoria",
         "latitude": 12.19021,
         "longitude": -61.70677
     },
     {
-        "name": "Джемперы",
+        "name": "Sauteurs",
         "latitude": 12.21833,
         "longitude": -61.63917
     }

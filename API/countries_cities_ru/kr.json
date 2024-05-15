@@ -1,1546 +1,1546 @@
 [
     {
-        "name": "Бук-гу",
+        "name": "Buk-gu",
         "latitude": 35.19724,
         "longitude": 128.99134
     },
     {
-        "name": "Пусан",
+        "name": "Busan",
         "latitude": 35.10168,
         "longitude": 129.03004
     },
     {
-        "name": "Тоннэ-гу",
+        "name": "Dongnae-gu",
         "latitude": 35.20447,
         "longitude": 129.078
     },
     {
-        "name": "Кансогу",
+        "name": "Gangseo-gu",
         "latitude": 35.1593,
         "longitude": 128.933
     },
     {
-        "name": "Кимджонг-гу",
+        "name": "Geumjeong-gu",
         "latitude": 35.25863,
         "longitude": 129.0901
     },
     {
-        "name": "Гиджанг",
+        "name": "Gijang",
         "latitude": 35.24417,
         "longitude": 129.21389
     },
     {
-        "name": "Уезд Киджан",
+        "name": "Gijang-gun",
         "latitude": 35.29721,
         "longitude": 129.20076
     },
     {
-        "name": "Хэундэгу",
+        "name": "Haeundae-gu",
         "latitude": 35.16665,
         "longitude": 129.16792
     },
     {
-        "name": "Юнг-гу",
+        "name": "Jung-gu",
         "latitude": 35.10594,
         "longitude": 129.03331
     },
     {
-        "name": "Нам-гу",
+        "name": "Nam-gu",
         "latitude": 35.13648,
         "longitude": 129.08266
     },
     {
-        "name": "Саха-гу",
+        "name": "Saha-gu",
         "latitude": 35.08552,
         "longitude": 128.98725
     },
     {
-        "name": "Сан-гу",
+        "name": "Sasang-gu",
         "latitude": 35.14479,
         "longitude": 128.97986
     },
     {
-        "name": "Сюда-туда",
+        "name": "Seo-gu",
         "latitude": 35.12529,
         "longitude": 129.01946
     },
     {
-        "name": "Суйонг",
+        "name": "Suyeong-gu",
         "latitude": 35.15627,
         "longitude": 129.11253
     },
     {
-        "name": "Ёндо-гу",
+        "name": "Yeongdo-gu",
         "latitude": 35.07849,
         "longitude": 129.06483
     },
     {
-        "name": "Тэгу",
+        "name": "Daegu",
         "latitude": 35.87028,
         "longitude": 128.59111
     },
     {
-        "name": "Далсео-гу",
+        "name": "Dalseo-gu",
         "latitude": 35.82569,
         "longitude": 128.52403
     },
     {
-        "name": "Уезд Дальсон",
+        "name": "Dalseong-gun",
         "latitude": 35.77467,
         "longitude": 128.42955
     },
     {
-        "name": "Донг-гу",
+        "name": "Dong-gu",
         "latitude": 35.88566,
         "longitude": 128.63296
     },
     {
-        "name": "Хвавон",
+        "name": "Hwaw\u014fn",
         "latitude": 35.80167,
         "longitude": 128.50083
     },
     {
-        "name": "Юнг-гу",
+        "name": "Jung-gu",
         "latitude": 35.86678,
         "longitude": 128.59538
     },
     {
-        "name": "Сюда-туда",
+        "name": "Seo-gu",
         "latitude": 35.87465,
         "longitude": 128.55109
     },
     {
-        "name": "Сусон-гу",
+        "name": "Suseong-gu",
         "latitude": 35.85905,
         "longitude": 128.62625
     },
     {
-        "name": "Тэджон",
+        "name": "Daejeon",
         "latitude": 36.34913,
         "longitude": 127.38493
     },
     {
-        "name": "Сюда-туда",
+        "name": "Seo-gu",
         "latitude": 36.27211,
         "longitude": 127.331
     },
     {
-        "name": "Синтанцин",
+        "name": "Sintansin",
         "latitude": 36.45361,
         "longitude": 127.43111
     },
     {
-        "name": "Сонгандон",
+        "name": "Songgangdong",
         "latitude": 36.43387,
         "longitude": 127.37587
     },
     {
-        "name": "Юсон-гу",
+        "name": "Yuseong-gu",
         "latitude": 36.36685,
         "longitude": 127.327
     },
     {
-        "name": "Уезд Чхорвон",
+        "name": "Cheorwon-gun",
         "latitude": 38.24391,
         "longitude": 127.44522
     },
     {
-        "name": "Чхунчхон",
+        "name": "Chuncheon",
         "latitude": 37.87472,
         "longitude": 127.73417
     },
     {
-        "name": "Чхунчхон",
+        "name": "Chuncheon-si",
         "latitude": 37.88048,
         "longitude": 127.72776
     },
     {
-        "name": "Донхэ-си",
+        "name": "Donghae-si",
         "latitude": 37.52345,
         "longitude": 129.11357
     },
     {
-        "name": "Каннын",
+        "name": "Gangneung",
         "latitude": 37.75266,
         "longitude": 128.87239
     },
     {
-        "name": "Каннын",
+        "name": "Gangneung-si",
         "latitude": 37.7519,
         "longitude": 128.87825
     },
     {
-        "name": "Уезд Косон",
+        "name": "Goseong-gun",
         "latitude": 38.37945,
         "longitude": 128.46755
     },
     {
-        "name": "Хвенсон-пушка",
+        "name": "Hoengseong-gun",
         "latitude": 37.48817,
         "longitude": 127.9857
     },
     {
-        "name": "Хончхон",
+        "name": "Hongch\u2019\u014fn",
         "latitude": 37.6918,
         "longitude": 127.8857
     },
     {
-        "name": "Уезд Хончхон",
+        "name": "Hongcheon-gun",
         "latitude": 37.76058,
         "longitude": 128.02823
     },
     {
-        "name": "Хвачхон",
+        "name": "Hwacheon",
         "latitude": 38.10705,
         "longitude": 127.70632
     },
     {
-        "name": "Уезд Хвачхон",
+        "name": "Hwacheon-gun",
         "latitude": 38.14212,
         "longitude": 127.67615
     },
     {
-        "name": "Индже-пистолет",
+        "name": "Inje-gun",
         "latitude": 38.04416,
         "longitude": 128.27876
     },
     {
-        "name": "Чонсон",
+        "name": "Jeongseon-gun",
         "latitude": 37.38911,
         "longitude": 128.72995
     },
     {
-        "name": "Пустой",
+        "name": "Kosong",
         "latitude": 38.37881,
         "longitude": 128.4676
     },
     {
-        "name": "Нэйэцу",
+        "name": "Neietsu",
         "latitude": 37.18447,
         "longitude": 128.46821
     },
     {
-        "name": "Пхенчхан",
+        "name": "Pyeongchang",
         "latitude": 37.37028,
         "longitude": 128.39306
     },
     {
-        "name": "Пхенчхан-гун",
+        "name": "Pyeongchang-gun",
         "latitude": 37.3682,
         "longitude": 128.3955
     },
     {
-        "name": "Ты Самчек",
+        "name": "Samcheok-si",
         "latitude": 37.45013,
         "longitude": 129.16626
     },
     {
-        "name": "Сантьоку",
+        "name": "Santyoku",
         "latitude": 37.44056,
         "longitude": 129.17083
     },
     {
-        "name": "Сокчо",
+        "name": "Sokcho",
         "latitude": 38.20701,
         "longitude": 128.59181
     },
     {
-        "name": "Сокчо-си",
+        "name": "Sokcho-si",
         "latitude": 38.20725,
         "longitude": 128.59275
     },
     {
-        "name": "Тэбек",
+        "name": "T\u2019aebaek",
         "latitude": 37.1759,
         "longitude": 128.9889
     },
     {
-        "name": "Таэбек-си",
+        "name": "Taebaek-si",
         "latitude": 37.1652,
         "longitude": 128.9857
     },
     {
-        "name": "Тонхэ",
+        "name": "Tonghae",
         "latitude": 37.54389,
         "longitude": 129.10694
     },
     {
-        "name": "Вонджу",
+        "name": "W\u014fnju",
         "latitude": 37.35139,
         "longitude": 127.94528
     },
     {
-        "name": "Вонджу-си",
+        "name": "Wonju-si",
         "latitude": 37.32104,
         "longitude": 127.92132
     },
     {
-        "name": "Янгу",
+        "name": "Yanggu",
         "latitude": 38.10583,
         "longitude": 127.98944
     },
     {
-        "name": "Огонь",
+        "name": "Yanggu-gun",
         "latitude": 38.1016,
         "longitude": 127.98555
     },
     {
-        "name": "Янъян-гун",
+        "name": "Yangyang-gun",
         "latitude": 38.06215,
         "longitude": 128.61471
     },
     {
-        "name": "Кванджу",
+        "name": "Gwangju",
         "latitude": 35.15472,
         "longitude": 126.91556
     },
     {
-        "name": "Квансан-гу",
+        "name": "Gwangsan-gu",
         "latitude": 35.16158,
         "longitude": 126.8081
     },
     {
-        "name": "Масан",
+        "name": "Masan",
         "latitude": 35.12725,
         "longitude": 126.83149
     },
     {
-        "name": "Вот и все",
+        "name": "Ansan-si",
         "latitude": 37.32361,
         "longitude": 126.82194
     },
     {
-        "name": "Ансон",
+        "name": "Anseong",
         "latitude": 37.01083,
         "longitude": 127.27028
     },
     {
-        "name": "Вот и все",
+        "name": "Anyang-si",
         "latitude": 37.3925,
         "longitude": 126.92694
     },
     {
-        "name": "Пучхон-си",
+        "name": "Bucheon-si",
         "latitude": 37.5044,
         "longitude": 126.76625
     },
     {
-        "name": "Тондушон",
+        "name": "Dongducheon",
         "latitude": 37.91889,
         "longitude": 127.06897
     },
     {
-        "name": "Капхён",
+        "name": "Gapyeong",
         "latitude": 37.83101,
         "longitude": 127.51059
     },
     {
-        "name": "Кафён-гун",
+        "name": "Gapyeong-gun",
         "latitude": 37.8308,
         "longitude": 127.51522
     },
     {
-        "name": "Гимпо-да",
+        "name": "Gimpo-si",
         "latitude": 37.63637,
         "longitude": 126.6927
     },
     {
-        "name": "Потряси",
+        "name": "Goyang-si",
         "latitude": 37.65639,
         "longitude": 126.835
     },
     {
-        "name": "Накапливать",
+        "name": "Gunpo-si",
         "latitude": 37.34261,
         "longitude": 126.92149
     },
     {
-        "name": "Гури-си",
+        "name": "Guri-si",
         "latitude": 37.5986,
         "longitude": 127.1394
     },
     {
-        "name": "Квачхон",
+        "name": "Gwacheon-si",
         "latitude": 37.43407,
         "longitude": 126.99989
     },
     {
-        "name": "Кванджу",
+        "name": "Gwangju",
         "latitude": 37.41,
         "longitude": 127.25722
     },
     {
-        "name": "Кванджу",
+        "name": "Gwangju-si",
         "latitude": 37.40329,
         "longitude": 127.29855
     },
     {
-        "name": "Кванмён-си",
+        "name": "Gwangmyeong-si",
         "latitude": 37.44435,
         "longitude": 126.86499
     },
     {
-        "name": "Ханам",
+        "name": "Hanam",
         "latitude": 37.54,
         "longitude": 127.20556
     },
     {
-        "name": "Ханам-си",
+        "name": "Hanam-si",
         "latitude": 37.53895,
         "longitude": 127.2125
     },
     {
-        "name": "Хвадо",
+        "name": "Hwado",
         "latitude": 37.6525,
         "longitude": 127.3075
     },
     {
-        "name": "Хвасон-си",
+        "name": "Hwaseong-si",
         "latitude": 37.20682,
         "longitude": 126.8169
     },
     {
-        "name": "Ичхон",
+        "name": "Icheon-si",
         "latitude": 37.27642,
         "longitude": 127.43692
     },
     {
-        "name": "Кванмён",
+        "name": "Kwangmy\u014fng",
         "latitude": 37.47722,
         "longitude": 126.86639
     },
     {
-        "name": "Не знаю",
+        "name": "Munsan",
         "latitude": 37.85944,
         "longitude": 126.785
     },
     {
-        "name": "Намянджу",
+        "name": "Namyangju",
         "latitude": 37.63667,
         "longitude": 127.21417
     },
     {
-        "name": "Назовите себя",
+        "name": "Namyangju-si",
         "latitude": 37.65217,
         "longitude": 127.2401
     },
     {
-        "name": "Часть",
+        "name": "Osan",
         "latitude": 37.15222,
         "longitude": 127.07056
     },
     {
-        "name": "Оранжевый-к",
+        "name": "Osan-si",
         "latitude": 37.1623,
         "longitude": 127.05246
     },
     {
-        "name": "Паджу-си",
+        "name": "Paju-si",
         "latitude": 37.75952,
         "longitude": 126.77772
     },
     {
-        "name": "Почеон-си",
+        "name": "Pocheon-si",
         "latitude": 37.8937,
         "longitude": 127.20028
     },
     {
-        "name": "Паб",
+        "name": "Pubal",
         "latitude": 37.29167,
         "longitude": 127.50778
     },
     {
-        "name": "Пхёнтэк",
+        "name": "Pyeongtaek",
         "latitude": 37.01372,
         "longitude": 126.98748
     },
     {
-        "name": "Соннамси",
+        "name": "Seongnam-si",
         "latitude": 37.41875,
         "longitude": 127.12877
     },
     {
-        "name": "Сихын",
+        "name": "Siheung",
         "latitude": 37.39067,
         "longitude": 126.7888
     },
     {
-        "name": "Сувон",
+        "name": "Suwon",
         "latitude": 37.29111,
         "longitude": 127.00889
     },
     {
-        "name": "Иджонгбу-си",
+        "name": "Uijeongbu-si",
         "latitude": 37.73865,
         "longitude": 127.0477
     },
     {
-        "name": "Ты здесь",
+        "name": "Uiwang-si",
         "latitude": 37.345,
         "longitude": 126.97575
     },
     {
-        "name": "Вабу",
+        "name": "Wabu",
         "latitude": 37.58972,
         "longitude": 127.22028
     },
     {
-        "name": "Янджу",
+        "name": "Yangju",
         "latitude": 37.83311,
         "longitude": 127.06169
     },
     {
-        "name": "Янджу-си",
+        "name": "Yangju-si",
         "latitude": 37.81732,
         "longitude": 127.046
     },
     {
-        "name": "Янпхён",
+        "name": "Yangp'y\u014fng",
         "latitude": 37.48972,
         "longitude": 127.49056
     },
     {
-        "name": "Янпхён-гун",
+        "name": "Yangpyeong-gun",
         "latitude": 37.4888,
         "longitude": 127.49222
     },
     {
-        "name": "Йоджу-си",
+        "name": "Yeoju-si",
         "latitude": 37.29562,
         "longitude": 127.63668
     },
     {
-        "name": "Ёнчхон-гун",
+        "name": "Yeoncheon-gun",
         "latitude": 38.09404,
         "longitude": 127.07577
     },
     {
-        "name": "Йонгинь-си",
+        "name": "Yongin-si",
         "latitude": 37.23825,
         "longitude": 127.17795
     },
     {
-        "name": "Бупён",
+        "name": "Bupyeong-gu",
         "latitude": 37.4972,
         "longitude": 126.71107
     },
     {
-        "name": "Инчхон",
+        "name": "Incheon",
         "latitude": 37.45646,
         "longitude": 126.70515
     },
     {
-        "name": "Мичухол",
+        "name": "Michuhol",
         "latitude": 37.46362,
         "longitude": 126.65
     },
     {
-        "name": "Ёнсу-гу",
+        "name": "Yeonsu-gu",
         "latitude": 37.41911,
         "longitude": 126.66489
     },
     {
-        "name": "Гайгетури",
+        "name": "Gaigeturi",
         "latitude": 33.46444,
         "longitude": 126.31833
     },
     {
-        "name": "Чеджу Сити",
+        "name": "Jeju City",
         "latitude": 33.50972,
         "longitude": 126.52194
     },
     {
-        "name": "Чеджу",
+        "name": "Jeju-si",
         "latitude": 33.45578,
         "longitude": 126.53928
     },
     {
-        "name": "Согвипхо",
+        "name": "Seogwipo",
         "latitude": 33.25333,
         "longitude": 126.56181
     },
     {
-        "name": "Шея и спина",
+        "name": "Boeun-gun",
         "latitude": 36.49489,
         "longitude": 127.72865
     },
     {
-        "name": "Чхонджу",
+        "name": "Cheongju-si",
         "latitude": 36.63722,
         "longitude": 127.48972
     },
     {
-        "name": "Чинч'он",
+        "name": "Chinch'\u014fn",
         "latitude": 36.85667,
         "longitude": 127.44333
     },
     {
-        "name": "Чхунджу",
+        "name": "Chungju-si",
         "latitude": 37.01791,
         "longitude": 127.87713
     },
     {
-        "name": "Уезд Даньян",
+        "name": "Danyang-gun",
         "latitude": 36.98615,
         "longitude": 128.36945
     },
     {
-        "name": "Уезд Ымсон",
+        "name": "Eumseong-gun",
         "latitude": 36.92602,
         "longitude": 127.6807
     },
     {
-        "name": "Уезд Кёсан",
+        "name": "Goesan-gun",
         "latitude": 36.77179,
         "longitude": 127.81426
     },
     {
-        "name": "Чечня",
+        "name": "Jecheon-si",
         "latitude": 37.06206,
         "longitude": 128.14065
     },
     {
-        "name": "Чонпхён-гун",
+        "name": "Jeungpyeong-gun",
         "latitude": 36.78377,
         "longitude": 127.59858
     },
     {
-        "name": "Джинчхон-гун",
+        "name": "Jincheon-gun",
         "latitude": 36.88281,
         "longitude": 127.42768
     },
     {
-        "name": "Коесан",
+        "name": "Koesan",
         "latitude": 36.81083,
         "longitude": 127.79472
     },
     {
-        "name": "Окчхон",
+        "name": "Okcheon",
         "latitude": 36.3012,
         "longitude": 127.568
     },
     {
-        "name": "Окчхон-гун",
+        "name": "Okcheon-gun",
         "latitude": 36.26642,
         "longitude": 127.58324
     },
     {
-        "name": "Йондон",
+        "name": "Yeongdong",
         "latitude": 36.175,
         "longitude": 127.77639
     },
     {
-        "name": "Ёндон-гун",
+        "name": "Yeongdong-gun",
         "latitude": 36.21658,
         "longitude": 127.79374
     },
     {
-        "name": "Андон",
+        "name": "Andong",
         "latitude": 36.56636,
         "longitude": 128.72275
     },
     {
-        "name": "Андон-си",
+        "name": "Andong-si",
         "latitude": 36.56667,
         "longitude": 128.71667
     },
     {
-        "name": "Бонхва-гун",
+        "name": "Bonghwa-gun",
         "latitude": 36.88951,
         "longitude": 128.73573
     },
     {
-        "name": "Уезд Чхондо",
+        "name": "Cheongdo-gun",
         "latitude": 35.67166,
         "longitude": 128.78509
     },
     {
-        "name": "Пистолет Чхонсон",
+        "name": "Cheongsong gun",
         "latitude": 36.43351,
         "longitude": 129.057
     },
     {
-        "name": "Уезд Чхонсон",
+        "name": "Cheongsong-gun",
         "latitude": 36.43288,
         "longitude": 129.05159
     },
     {
-        "name": "Уезд Чильгок",
+        "name": "Chilgok-gun",
         "latitude": 36.01512,
         "longitude": 128.46138
     },
     {
-        "name": "Эйзен",
+        "name": "Eisen",
         "latitude": 36.82167,
         "longitude": 128.63083
     },
     {
-        "name": "Кимчхон",
+        "name": "Gimcheon",
         "latitude": 36.12176,
         "longitude": 128.11981
     },
     {
-        "name": "Кимчхон",
+        "name": "Gimcheon-si",
         "latitude": 36.14481,
         "longitude": 128.11157
     },
     {
-        "name": "Корён-пушка",
+        "name": "Goryeong-gun",
         "latitude": 35.74959,
         "longitude": 128.29707
     },
     {
-        "name": "Шины",
+        "name": "Gumi-si",
         "latitude": 36.21009,
         "longitude": 128.35442
     },
     {
-        "name": "Гунви-гун",
+        "name": "Gunwi-gun",
         "latitude": 36.16995,
         "longitude": 128.64705
     },
     {
-        "name": "Кёнджу",
+        "name": "Gyeongju",
         "latitude": 35.84278,
         "longitude": 129.21167
     },
     {
-        "name": "Кёнсан-си",
+        "name": "Gyeongsan-si",
         "latitude": 35.83333,
         "longitude": 128.8
     },
     {
-        "name": "хотеть",
+        "name": "Hayang",
         "latitude": 35.91333,
         "longitude": 128.82
     },
     {
-        "name": "Хынхэ",
+        "name": "Heunghae",
         "latitude": 36.10945,
         "longitude": 129.34517
     },
     {
-        "name": "Джензан",
+        "name": "Jenzan",
         "latitude": 36.24083,
         "longitude": 128.2975
     },
     {
-        "name": "Кунви",
+        "name": "Kunwi",
         "latitude": 36.23472,
         "longitude": 128.57278
     },
     {
-        "name": "Мункёнг",
+        "name": "Mungyeong",
         "latitude": 36.59458,
         "longitude": 128.19946
     },
     {
-        "name": "Мунгён-си",
+        "name": "Mungyeong-si",
         "latitude": 36.58755,
         "longitude": 128.18624
     },
     {
-        "name": "Пхохан",
+        "name": "Pohang",
         "latitude": 36.02917,
         "longitude": 129.36481
     },
     {
-        "name": "Пхохан",
+        "name": "Pohang-si",
         "latitude": 36.08333,
         "longitude": 129.36667
     },
     {
-        "name": "Санджу",
+        "name": "Sangju",
         "latitude": 36.41528,
         "longitude": 128.16056
     },
     {
-        "name": "Сонджу-гун",
+        "name": "Seongju-gun",
         "latitude": 35.91888,
         "longitude": 128.28838
     },
     {
-        "name": "Жаворонок-пистолет",
+        "name": "Uiseong-gun",
         "latitude": 36.36122,
         "longitude": 128.61517
     },
     {
-        "name": "Ульджин-уезд",
+        "name": "Uljin-gun",
         "latitude": 36.91968,
         "longitude": 129.31966
     },
     {
-        "name": "Уллин-гун",
+        "name": "Ulleung-gun",
         "latitude": 37.50442,
         "longitude": 130.86084
     },
     {
-        "name": "Вэгван",
+        "name": "Waegwan",
         "latitude": 35.99251,
         "longitude": 128.39785
     },
     {
-        "name": "Йечхон-гун",
+        "name": "Yecheon-gun",
         "latitude": 36.65272,
         "longitude": 128.43007
     },
     {
-        "name": "Йонгчон-си",
+        "name": "Yeongcheon-si",
         "latitude": 36.0,
         "longitude": 129.0
     },
     {
-        "name": "Ёндок-гун",
+        "name": "Yeongdeok-gun",
         "latitude": 36.48125,
         "longitude": 129.31078
     },
     {
-        "name": "Юнджу",
+        "name": "Yeongju-si",
         "latitude": 36.87459,
         "longitude": 128.58631
     },
     {
-        "name": "Юнъян-гун",
+        "name": "Yeongyang-gun",
         "latitude": 36.69592,
         "longitude": 129.14196
     },
     {
-        "name": "Йонил",
+        "name": "Yeonil",
         "latitude": 35.99526,
         "longitude": 129.35162
     },
     {
-        "name": "Постоянно",
+        "name": "Buan-gun",
         "latitude": 35.7,
         "longitude": 126.66667
     },
     {
-        "name": "Чансу",
+        "name": "Changsu",
         "latitude": 35.64842,
         "longitude": 127.51523
     },
     {
-        "name": "Кимдже-си",
+        "name": "Gimje-si",
         "latitude": 35.80701,
         "longitude": 126.90755
     },
     {
-        "name": "Уезд Гочан",
+        "name": "Gochang-gun",
         "latitude": 35.43483,
         "longitude": 126.70047
     },
     {
-        "name": "Кунсан",
+        "name": "Gunsan",
         "latitude": 35.97861,
         "longitude": 126.71139
     },
     {
-        "name": "Кунсан-си",
+        "name": "Gunsan-si",
         "latitude": 35.93583,
         "longitude": 126.68338
     },
     {
-        "name": "Иксан",
+        "name": "Iksan",
         "latitude": 35.94389,
         "longitude": 126.95444
     },
     {
-        "name": "Иксан-си",
+        "name": "Iksan-si",
         "latitude": 36.03718,
         "longitude": 126.98897
     },
     {
-        "name": "Имсил",
+        "name": "Imsil",
         "latitude": 35.61306,
         "longitude": 127.27944
     },
     {
-        "name": "Имсил-уезд",
+        "name": "Imsil-gun",
         "latitude": 35.6216,
         "longitude": 127.23187
     },
     {
-        "name": "Уезд Чансу",
+        "name": "Jangsu-gun",
         "latitude": 35.62504,
         "longitude": 127.56358
     },
     {
-        "name": "Чонъюп",
+        "name": "Jeongeup",
         "latitude": 35.60004,
         "longitude": 126.91699
     },
     {
-        "name": "Чонып-си",
+        "name": "Jeongeup-si",
         "latitude": 35.6,
         "longitude": 126.91667
     },
     {
-        "name": "Чонджу",
+        "name": "Jeonju",
         "latitude": 35.82194,
         "longitude": 127.14889
     },
     {
-        "name": "Чонджу",
+        "name": "Jeonju-si",
         "latitude": 35.83333,
         "longitude": 127.15
     },
     {
-        "name": "Цзинань-гун",
+        "name": "Jinan-gun",
         "latitude": 35.80472,
         "longitude": 127.47579
     },
     {
-        "name": "Химия",
+        "name": "Kimje",
         "latitude": 35.80167,
         "longitude": 126.88889
     },
     {
-        "name": "Кочанг",
+        "name": "Koch'ang",
         "latitude": 35.43333,
         "longitude": 126.7
     },
     {
-        "name": "Муджу-гун",
+        "name": "Muju-gun",
         "latitude": 35.93172,
         "longitude": 127.71118
     },
     {
-        "name": "Намвон",
+        "name": "Namwon",
         "latitude": 35.44821,
         "longitude": 127.38007
     },
     {
-        "name": "Нанген",
+        "name": "Nangen",
         "latitude": 35.41,
         "longitude": 127.38583
     },
     {
-        "name": "Мэм",
+        "name": "Puan",
         "latitude": 35.72806,
         "longitude": 126.73194
     },
     {
-        "name": "Суньчан-уезд",
+        "name": "Sunchang-gun",
         "latitude": 35.37651,
         "longitude": 127.14967
     },
     {
-        "name": "Ванджу",
+        "name": "Wanju",
         "latitude": 35.84509,
         "longitude": 127.14752
     },
     {
-        "name": "Седжон",
+        "name": "Sejong",
         "latitude": 36.59245,
         "longitude": 127.29223
     },
     {
-        "name": "Добонг-гу",
+        "name": "Dobong-gu",
         "latitude": 37.65066,
         "longitude": 127.03011
     },
     {
-        "name": "Тондэмун-гу",
+        "name": "Dongdaemun-gu",
         "latitude": 37.58189,
         "longitude": 127.05408
     },
     {
-        "name": "Тонджак-гу",
+        "name": "Dongjak-gu",
         "latitude": 37.50056,
         "longitude": 126.95149
     },
     {
-        "name": "Ынпхён-гу",
+        "name": "Eunpyeong-gu",
         "latitude": 37.61846,
         "longitude": 126.9278
     },
     {
-        "name": "Канбук-гу",
+        "name": "Gangbuk-gu",
         "latitude": 37.6349,
         "longitude": 127.02015
     },
     {
-        "name": "Кандонгу",
+        "name": "Gangdong-gu",
         "latitude": 37.55274,
         "longitude": 127.14546
     },
     {
-        "name": "Каннамгу",
+        "name": "Gangnam-gu",
         "latitude": 37.4951,
         "longitude": 127.06278
     },
     {
-        "name": "Кансогу",
+        "name": "Gangseo-gu",
         "latitude": 37.56227,
         "longitude": 126.81622
     },
     {
-        "name": "Кымчхонгу",
+        "name": "Geumcheon-gu",
         "latitude": 37.47486,
         "longitude": 126.89106
     },
     {
-        "name": "Гуру-гу",
+        "name": "Guro-gu",
         "latitude": 37.49447,
         "longitude": 126.8502
     },
     {
-        "name": "Кванак-гу",
+        "name": "Gwanak-gu",
         "latitude": 37.47876,
         "longitude": 126.95235
     },
     {
-        "name": "Кванджин-гу",
+        "name": "Gwangjin-gu",
         "latitude": 37.53913,
         "longitude": 127.08366
     },
     {
-        "name": "Чонно-гу",
+        "name": "Jongno-gu",
         "latitude": 37.5729,
         "longitude": 126.97928
     },
     {
-        "name": "Юнг-гу",
+        "name": "Jung-gu",
         "latitude": 37.55986,
         "longitude": 126.99398
     },
     {
-        "name": "Как это",
+        "name": "Jungnang-gu",
         "latitude": 37.60199,
         "longitude": 127.10461
     },
     {
-        "name": "Мапо-гу",
+        "name": "Mapo-gu",
         "latitude": 37.55438,
         "longitude": 126.90926
     },
     {
-        "name": "Новон-гу",
+        "name": "Nowon-gu",
         "latitude": 37.66045,
         "longitude": 127.06718
     },
     {
-        "name": "Сочо-гу",
+        "name": "Seocho-gu",
         "latitude": 37.49447,
         "longitude": 127.01088
     },
     {
-        "name": "Содэмун-гу",
+        "name": "Seodaemun-gu",
         "latitude": 37.57809,
         "longitude": 126.93506
     },
     {
-        "name": "Сонбук-гу",
+        "name": "Seongbuk-gu",
         "latitude": 37.60267,
         "longitude": 127.01448
     },
     {
-        "name": "И так",
+        "name": "Seongdong-gu",
         "latitude": 37.54784,
         "longitude": 127.02461
     },
     {
-        "name": "Сеул",
+        "name": "Seoul",
         "latitude": 37.566,
         "longitude": 126.9784
     },
     {
-        "name": "Сонгпа-гу",
+        "name": "Songpa-gu",
         "latitude": 37.5021,
         "longitude": 127.11113
     },
     {
-        "name": "Янчхонгу",
+        "name": "Yangcheon-gu",
         "latitude": 37.52157,
         "longitude": 126.85827
     },
     {
-        "name": "Ондынпо-гу",
+        "name": "Yeongdeungpo-gu",
         "latitude": 37.52606,
         "longitude": 126.90308
     },
     {
-        "name": "Ёнсан-дон",
+        "name": "Yongsan-dong",
         "latitude": 37.5445,
         "longitude": 126.9837
     },
     {
-        "name": "Ёнсан-гу",
+        "name": "Yongsan-gu",
         "latitude": 37.53391,
         "longitude": 126.9775
     },
     {
-        "name": "Асан",
+        "name": "Asan",
         "latitude": 36.78361,
         "longitude": 127.00417
     },
     {
-        "name": "Асан-си",
+        "name": "Asan-si",
         "latitude": 36.80791,
         "longitude": 126.97769
     },
     {
-        "name": "Идет дождь",
+        "name": "Boryeong",
         "latitude": 36.34931,
         "longitude": 126.59772
     },
     {
-        "name": "Ты пьян",
+        "name": "Boryeong-si",
         "latitude": 36.35649,
         "longitude": 126.59444
     },
     {
-        "name": "Пуйо",
+        "name": "Buyeo",
         "latitude": 36.27472,
         "longitude": 126.90906
     },
     {
-        "name": "Пуйо-пистолет",
+        "name": "Buyeo-gun",
         "latitude": 36.26257,
         "longitude": 126.85802
     },
     {
-        "name": "Чхонан",
+        "name": "Cheonan",
         "latitude": 36.8065,
         "longitude": 127.1522
     },
     {
-        "name": "Чонан-си",
+        "name": "Cheonan-si",
         "latitude": 36.80488,
         "longitude": 127.19431
     },
     {
-        "name": "Уезд Чхонъян",
+        "name": "Cheongyang-gun",
         "latitude": 36.41676,
         "longitude": 126.79419
     },
     {
-        "name": "Уезд Кымсан",
+        "name": "Geumsan-gun",
         "latitude": 36.13381,
         "longitude": 127.48062
     },
     {
-        "name": "Конджу",
+        "name": "Gongju",
         "latitude": 36.45556,
         "longitude": 127.12472
     },
     {
-        "name": "Конью-си",
+        "name": "Gongju-si",
         "latitude": 36.5,
         "longitude": 127.08333
     },
     {
-        "name": "Керион-си",
+        "name": "Gyeryong-si",
         "latitude": 36.29304,
         "longitude": 127.22575
     },
     {
-        "name": "Хонсон",
+        "name": "Hongseong",
         "latitude": 36.6009,
         "longitude": 126.665
     },
     {
-        "name": "Уезд Хонсон",
+        "name": "Hongseong-gun",
         "latitude": 36.56705,
         "longitude": 126.62626
     },
     {
-        "name": "Кинзан",
+        "name": "Kinzan",
         "latitude": 36.10306,
         "longitude": 127.48889
     },
     {
-        "name": "Нонсан",
+        "name": "Nonsan",
         "latitude": 36.20389,
         "longitude": 127.08472
     },
     {
-        "name": "Не знаю",
+        "name": "Nonsan-si",
         "latitude": 36.19774,
         "longitude": 127.12143
     },
     {
-        "name": "Уезд Сочхон",
+        "name": "Seocheon-gun",
         "latitude": 36.106,
         "longitude": 126.69716
     },
     {
-        "name": "Сонхван",
+        "name": "Seonghwan",
         "latitude": 36.91556,
         "longitude": 127.13139
     },
     {
-        "name": "Сосан",
+        "name": "Seosan",
         "latitude": 36.78167,
         "longitude": 126.45222
     },
     {
-        "name": "Сосан-да",
+        "name": "Seosan-si",
         "latitude": 36.78518,
         "longitude": 126.46568
     },
     {
-        "name": "Теан-пушка",
+        "name": "Taean-gun",
         "latitude": 36.70036,
         "longitude": 126.28391
     },
     {
-        "name": "Фессалийский",
+        "name": "Taesal-li",
         "latitude": 36.9714,
         "longitude": 126.4542
     },
     {
-        "name": "Танджин",
+        "name": "Tangjin",
         "latitude": 36.89444,
         "longitude": 126.62972
     },
     {
-        "name": "Да",
+        "name": "Yesan",
         "latitude": 36.67756,
         "longitude": 126.84272
     },
     {
-        "name": "Уезд Есан",
+        "name": "Yesan-gun",
         "latitude": 36.68218,
         "longitude": 126.79592
     },
     {
-        "name": "Ёнму",
+        "name": "Y\u014fnmu",
         "latitude": 36.12944,
         "longitude": 127.1
     },
     {
-        "name": "Чханнён",
+        "name": "Changnyeong",
         "latitude": 35.54145,
         "longitude": 128.49506
     },
     {
-        "name": "Уезд Чанён",
+        "name": "Changnyeong-gun",
         "latitude": 35.50822,
         "longitude": 128.4902
     },
     {
-        "name": "Чханвон",
+        "name": "Changwon",
         "latitude": 35.22806,
         "longitude": 128.68111
     },
     {
-        "name": "Чханвон",
+        "name": "Changwon-si",
         "latitude": 35.27533,
         "longitude": 128.65152
     },
     {
-        "name": "Чинджу",
+        "name": "Chinju",
         "latitude": 35.19278,
         "longitude": 128.08472
     },
     {
-        "name": "Уезд Геочанг",
+        "name": "Geochang-gun",
         "latitude": 35.73034,
         "longitude": 127.90149
     },
     {
-        "name": "Это кожа",
+        "name": "Geoje-si",
         "latitude": 34.9,
         "longitude": 128.66666
     },
     {
-        "name": "Кимхэ-си",
+        "name": "Gimhae-si",
         "latitude": 35.25,
         "longitude": 128.86667
     },
     {
-        "name": "Косон",
+        "name": "Goseong",
         "latitude": 34.97631,
         "longitude": 128.32361
     },
     {
-        "name": "Уезд Косон",
+        "name": "Goseong-gun",
         "latitude": 35.01478,
         "longitude": 128.28244
     },
     {
-        "name": "Уезд Хадонг",
+        "name": "Hadong-gun",
         "latitude": 35.13628,
         "longitude": 127.77291
     },
     {
-        "name": "Хаман-гун",
+        "name": "Haman-gun",
         "latitude": 35.29117,
         "longitude": 128.4297
     },
     {
-        "name": "Хапчхон-пушка",
+        "name": "Hapcheon-gun",
         "latitude": 35.5741,
         "longitude": 128.13841
     },
     {
-        "name": "Чинджу-си",
+        "name": "Jinju-si",
         "latitude": 35.20445,
         "longitude": 128.12408
     },
     {
-        "name": "Кимхэ",
+        "name": "Kimhae",
         "latitude": 35.23417,
         "longitude": 128.88111
     },
     {
-        "name": "Кёсай",
+        "name": "Kyosai",
         "latitude": 34.85028,
         "longitude": 128.58861
     },
     {
-        "name": "Мириам",
+        "name": "Miryang",
         "latitude": 35.49333,
         "longitude": 128.74889
     },
     {
-        "name": "Мирьянг-си",
+        "name": "Miryang-si",
         "latitude": 35.4975,
         "longitude": 128.7869
     },
     {
-        "name": "Наэсо",
+        "name": "Naes\u014f",
         "latitude": 35.24972,
         "longitude": 128.52
     },
     {
-        "name": "Намхэ-гун",
+        "name": "Namhae-gun",
         "latitude": 34.80433,
         "longitude": 127.92708
     },
     {
-        "name": "Сачхон-си",
+        "name": "Sacheon-si",
         "latitude": 35.00385,
         "longitude": 128.06857
     },
     {
-        "name": "Уезд Санчон",
+        "name": "Sancheong-gun",
         "latitude": 35.36625,
         "longitude": 127.87065
     },
     {
-        "name": "Синхён",
+        "name": "Sinhyeon",
         "latitude": 34.8825,
         "longitude": 128.62667
     },
     {
-        "name": "Урион-пушка",
+        "name": "Uiryeong-gun",
         "latitude": 35.3923,
         "longitude": 128.26917
     },
     {
-        "name": "Унсанг",
+        "name": "Ungsang",
         "latitude": 35.40611,
         "longitude": 129.16861
     },
     {
-        "name": "Янсан",
+        "name": "Yangsan",
         "latitude": 35.34199,
         "longitude": 129.03358
     },
     {
-        "name": "Беольгё",
+        "name": "Beolgyo",
         "latitude": 34.84897,
         "longitude": 127.34052
     },
     {
-        "name": "Пушка Посон",
+        "name": "Boseong-gun",
         "latitude": 34.84622,
         "longitude": 127.22189
     },
     {
-        "name": "Уезд Дамьян",
+        "name": "Damyang-gun",
         "latitude": 35.33976,
         "longitude": 126.99125
     },
     {
-        "name": "Канджин-гун",
+        "name": "Gangjin-gun",
         "latitude": 34.61787,
         "longitude": 126.76758
     },
     {
-        "name": "Кохин-гун",
+        "name": "Goheung-gun",
         "latitude": 34.58333,
         "longitude": 127.33333
     },
     {
-        "name": "Уезд Коксон",
+        "name": "Gokseong-gun",
         "latitude": 35.21449,
         "longitude": 127.2628
     },
     {
-        "name": "Гурье-уезд",
+        "name": "Gurye-gun",
         "latitude": 35.23616,
         "longitude": 127.50129
     },
     {
-        "name": "Кванъян",
+        "name": "Gwangyang",
         "latitude": 34.9414,
         "longitude": 127.69569
     },
     {
-        "name": "Кваньян",
+        "name": "Gwangyang-si",
         "latitude": 35.04007,
         "longitude": 127.60949
     },
     {
-        "name": "Хаэна",
+        "name": "Haenam",
         "latitude": 34.57111,
         "longitude": 126.59889
     },
     {
-        "name": "Хэнам-гун",
+        "name": "Haenam-gun",
         "latitude": 34.54047,
         "longitude": 126.5187
     },
     {
-        "name": "Хампхён-гун",
+        "name": "Hampyeong-gun",
         "latitude": 35.14988,
         "longitude": 126.53337
     },
     {
-        "name": "Хвасун",
+        "name": "Hwasun",
         "latitude": 35.06125,
         "longitude": 126.98746
     },
     {
-        "name": "Уезд Хвасон",
+        "name": "Hwasun-gun",
         "latitude": 35.00468,
         "longitude": 127.02648
     },
     {
-        "name": "Чангён-гун",
+        "name": "Jangheung-gun",
         "latitude": 34.70555,
         "longitude": 126.94905
     },
     {
-        "name": "Чансон-гун",
+        "name": "Jangseong-gun",
         "latitude": 35.32734,
         "longitude": 126.76817
     },
     {
-        "name": "Джиндо-пушка",
+        "name": "Jindo-gun",
         "latitude": 34.41958,
         "longitude": 126.22599
     },
     {
-        "name": "Мессенджер",
+        "name": "Kurye",
         "latitude": 35.20944,
         "longitude": 127.46444
     },
     {
-        "name": "Кванъян",
+        "name": "Kwangyang",
         "latitude": 34.97528,
         "longitude": 127.58917
     },
     {
-        "name": "Мокпо",
+        "name": "Mokpo",
         "latitude": 34.81282,
         "longitude": 126.39181
     },
     {
-        "name": "Мокпо-си",
+        "name": "Mokpo-si",
         "latitude": 34.81226,
         "longitude": 126.39179
     },
     {
-        "name": "Муан",
+        "name": "Muan",
         "latitude": 34.99014,
         "longitude": 126.47899
     },
     {
-        "name": "Муанг-гун",
+        "name": "Muan-gun",
         "latitude": 34.95642,
         "longitude": 126.44041
     },
     {
-        "name": "Нас",
+        "name": "Naju",
         "latitude": 35.0292,
         "longitude": 126.7175
     },
     {
-        "name": "Ты - это мы",
+        "name": "Naju-si",
         "latitude": 35.05683,
         "longitude": 126.67362
     },
     {
-        "name": "Синан",
+        "name": "Sinan",
         "latitude": 34.8262,
         "longitude": 126.10863
     },
     {
-        "name": "Уезд Синан",
+        "name": "Sinan-gun",
         "latitude": 34.83107,
         "longitude": 126.09872
     },
     {
-        "name": "Сунчхон",
+        "name": "Suncheon",
         "latitude": 34.9505,
         "longitude": 127.48784
     },
     {
-        "name": "Сунчхон",
+        "name": "Suncheon-si",
         "latitude": 34.97162,
         "longitude": 127.46096
     },
     {
-        "name": "Вандо-пушка",
+        "name": "Wando-gun",
         "latitude": 34.31182,
         "longitude": 126.73845
     },
     {
-        "name": "Йонгхам",
+        "name": "Yeongam",
         "latitude": 34.80059,
         "longitude": 126.69669
     },
     {
-        "name": "Йонам-гун",
+        "name": "Yeongam-gun",
         "latitude": 34.7979,
         "longitude": 126.62651
     },
     {
-        "name": "Юнван",
+        "name": "Yeonggwang",
         "latitude": 35.27814,
         "longitude": 126.51181
     },
     {
-        "name": "Юнван-гун",
+        "name": "Yeonggwang-gun",
         "latitude": 35.28711,
         "longitude": 126.43616
     },
     {
-        "name": "Йосу",
+        "name": "Yeosu",
         "latitude": 34.76062,
         "longitude": 127.66215
     },
     {
-        "name": "Бук-гу",
+        "name": "Buk-gu",
         "latitude": 35.58243,
         "longitude": 129.36049
     },
     {
-        "name": "Донг-гу",
+        "name": "Dong-gu",
         "latitude": 35.5047,
         "longitude": 129.4186
     },
     {
-        "name": "Юнг-гу",
+        "name": "Jung-gu",
         "latitude": 35.5684,
         "longitude": 129.33226
     },
     {
-        "name": "Нам-гу",
+        "name": "Nam-gu",
         "latitude": 35.54382,
         "longitude": 129.32917
     },
     {
-        "name": "Масляная пушка",
+        "name": "Ulju-gun",
         "latitude": 35.56233,
         "longitude": 129.1269
     },
     {
-        "name": "Ульсан",
+        "name": "Ulsan",
         "latitude": 35.53722,
         "longitude": 129.31667
     }

@@ -1,2246 +1,2246 @@
 [
     {
-        "name": "Бренд",
+        "name": "Br\u00e4nd\u00f6",
         "latitude": 60.4075,
         "longitude": 21.0786
     },
     {
-        "name": "Окей",
+        "name": "Ecker\u00f6",
         "latitude": 60.2208,
         "longitude": 19.5589
     },
     {
-        "name": "Финстрем",
+        "name": "Finstr\u00f6m",
         "latitude": 60.2342,
         "longitude": 20.1139
     },
     {
-        "name": "Фёглё",
+        "name": "F\u00f6gl\u00f6",
         "latitude": 60.0989,
         "longitude": 20.3728
     },
     {
-        "name": "Способность",
+        "name": "Geta",
         "latitude": 60.4183,
         "longitude": 19.7167
     },
     {
-        "name": "Хаммерланд",
+        "name": "Hammarland",
         "latitude": 60.2447,
         "longitude": 19.6892
     },
     {
-        "name": "Джомала",
+        "name": "Jomala",
         "latitude": 60.1181,
         "longitude": 19.8989
     },
     {
-        "name": "Кумлинге",
+        "name": "Kumlinge",
         "latitude": 60.3992,
         "longitude": 20.7692
     },
     {
-        "name": "Лемланд",
+        "name": "Lemland",
         "latitude": 60.0925,
         "longitude": 20.1544
     },
     {
-        "name": "Мариехамн",
+        "name": "Mariehamn",
         "latitude": 60.1026,
         "longitude": 19.9348
     },
     {
-        "name": "Салтвик",
+        "name": "Saltvik",
         "latitude": 60.3575,
         "longitude": 20.1547
     },
     {
-        "name": "Здоровый",
+        "name": "Sund",
         "latitude": 60.2361,
         "longitude": 20.2156
     },
     {
-        "name": "Ээнекоски",
+        "name": "\u00c4\u00e4nekoski",
         "latitude": 62.6,
         "longitude": 25.73333
     },
     {
-        "name": "Ханкасалми",
+        "name": "Hankasalmi",
         "latitude": 62.38333,
         "longitude": 26.43333
     },
     {
-        "name": "Ямся",
+        "name": "J\u00e4ms\u00e4",
         "latitude": 61.8642,
         "longitude": 25.19002
     },
     {
-        "name": "Ямсанкоски",
+        "name": "J\u00e4ms\u00e4nkoski",
         "latitude": 61.919,
         "longitude": 25.17011
     },
     {
-        "name": "Йоутса",
+        "name": "Joutsa",
         "latitude": 61.73333,
         "longitude": 26.11667
     },
     {
-        "name": "Ювяскюля",
+        "name": "Jyv\u00e4skyl\u00e4",
         "latitude": 62.24147,
         "longitude": 25.72088
     },
     {
-        "name": "Каннонкоски",
+        "name": "Kannonkoski",
         "latitude": 62.96667,
         "longitude": 25.25
     },
     {
-        "name": "Карстула",
+        "name": "Karstula",
         "latitude": 62.86667,
         "longitude": 24.78333
     },
     {
-        "name": "Кеуруу",
+        "name": "Keuruu",
         "latitude": 62.26667,
         "longitude": 24.7
     },
     {
-        "name": "Киннула",
+        "name": "Kinnula",
         "latitude": 63.38333,
         "longitude": 24.95
     },
     {
-        "name": "Кивиярви",
+        "name": "Kivij\u00e4rvi",
         "latitude": 63.11984,
         "longitude": 25.07835
     },
     {
-        "name": "Конневеси",
+        "name": "Konnevesi",
         "latitude": 62.61667,
         "longitude": 26.31667
     },
     {
-        "name": "Корп Бэй",
+        "name": "Korpilahti",
         "latitude": 62.01667,
         "longitude": 25.55
     },
     {
-        "name": "Кухмойнен",
+        "name": "Kuhmoinen",
         "latitude": 61.56667,
         "longitude": 25.18333
     },
     {
-        "name": "Кыйярви",
+        "name": "Kyyj\u00e4rvi",
         "latitude": 63.03333,
         "longitude": 24.56667
     },
     {
-        "name": "Лаукаа",
+        "name": "Laukaa",
         "latitude": 62.41407,
         "longitude": 25.95194
     },
     {
-        "name": "Лейвонмяки",
+        "name": "Leivonm\u00e4ki",
         "latitude": 61.91198,
         "longitude": 26.12796
     },
     {
-        "name": "Луганка",
+        "name": "Luhanka",
         "latitude": 61.79682,
         "longitude": 25.70457
     },
     {
-        "name": "Мультиа",
+        "name": "Multia",
         "latitude": 62.41667,
         "longitude": 24.78333
     },
     {
-        "name": "Муураме",
+        "name": "Muurame",
         "latitude": 62.13333,
         "longitude": 25.66667
     },
     {
-        "name": "Петаявеси",
+        "name": "Pet\u00e4j\u00e4vesi",
         "latitude": 62.25,
         "longitude": 25.2
     },
     {
-        "name": "Пихтипудас",
+        "name": "Pihtipudas",
         "latitude": 63.38333,
         "longitude": 25.56667
     },
     {
-        "name": "Пилконмяки",
+        "name": "Pylk\u00f6nm\u00e4ki",
         "latitude": 62.66667,
         "longitude": 24.8
     },
     {
-        "name": "Саариярви",
+        "name": "Saarij\u00e4rvi",
         "latitude": 62.70486,
         "longitude": 25.25396
     },
     {
-        "name": "Сяйнатсало",
+        "name": "S\u00e4yn\u00e4tsalo",
         "latitude": 62.14025,
         "longitude": 25.76948
     },
     {
-        "name": "Нечеткий",
+        "name": "Sumiainen",
         "latitude": 62.65736,
         "longitude": 26.04642
     },
     {
-        "name": "Соленая бухта",
+        "name": "Suolahti",
         "latitude": 62.56421,
         "longitude": 25.85363
     },
     {
-        "name": "Тойвакка",
+        "name": "Toivakka",
         "latitude": 62.1,
         "longitude": 26.08333
     },
     {
-        "name": "Уурайнен",
+        "name": "Uurainen",
         "latitude": 62.5,
         "longitude": 25.45
     },
     {
-        "name": "Виитасаари",
+        "name": "Viitasaari",
         "latitude": 63.06667,
         "longitude": 25.86667
     },
     {
-        "name": "ЛОЖЬ",
+        "name": "Halsua",
         "latitude": 63.46667,
         "longitude": 24.16667
     },
     {
-        "name": "Царапать",
+        "name": "K\u00e4lvi\u00e4",
         "latitude": 63.86067,
         "longitude": 23.45289
     },
     {
-        "name": "Каннус",
+        "name": "Kannus",
         "latitude": 63.9,
         "longitude": 23.9
     },
     {
-        "name": "Каустик",
+        "name": "Kaustinen",
         "latitude": 63.54878,
         "longitude": 23.68845
     },
     {
-        "name": "Коккола",
+        "name": "Kokkola",
         "latitude": 63.85414,
         "longitude": 23.58562
     },
     {
-        "name": "Лестиярви",
+        "name": "Lestij\u00e4rvi",
         "latitude": 63.53333,
         "longitude": 24.65
     },
     {
-        "name": "Лохтая",
+        "name": "Lohtaja",
         "latitude": 64.02472,
         "longitude": 23.50482
     },
     {
-        "name": "Летать",
+        "name": "Perho",
         "latitude": 63.21667,
         "longitude": 24.41667
     },
     {
-        "name": "Тохолампи",
+        "name": "Toholampi",
         "latitude": 63.76667,
         "longitude": 24.25
     },
     {
-        "name": "Уллава",
+        "name": "Ullava",
         "latitude": 63.6,
         "longitude": 24.08333
     },
     {
-        "name": "Ветели",
+        "name": "Veteli",
         "latitude": 63.47839,
         "longitude": 23.78285
     },
     {
-        "name": "Раздеваться",
+        "name": "Alastaro",
         "latitude": 60.95,
         "longitude": 22.85
     },
     {
-        "name": "Аскайнен",
+        "name": "Askainen",
         "latitude": 60.56667,
         "longitude": 21.86667
     },
     {
-        "name": "Аура",
+        "name": "Aura",
         "latitude": 60.6471,
         "longitude": 22.58755
     },
     {
-        "name": "Драгсфьордюр",
+        "name": "Dragsfj\u00e4rd",
         "latitude": 60.06667,
         "longitude": 22.48333
     },
     {
-        "name": "Галька",
+        "name": "Halikko",
         "latitude": 60.4,
         "longitude": 23.08333
     },
     {
-        "name": "Хаутшер",
+        "name": "Houtsk\u00e4r",
         "latitude": 60.22284,
         "longitude": 21.37218
     },
     {
-        "name": "Инио",
+        "name": "Ini\u00f6",
         "latitude": 60.4,
         "longitude": 21.4
     },
     {
-        "name": "Каарина",
+        "name": "Kaarina",
         "latitude": 60.40724,
         "longitude": 22.36904
     },
     {
-        "name": "Каринайнен",
+        "name": "Karinainen",
         "latitude": 60.66667,
         "longitude": 22.76667
     },
     {
-        "name": "Велосипед",
+        "name": "Kiikala",
         "latitude": 60.46667,
         "longitude": 23.56667
     },
     {
-        "name": "Кимито",
+        "name": "Kimito",
         "latitude": 60.16047,
         "longitude": 22.729
     },
     {
-        "name": "Железнодорожный",
+        "name": "Kisko",
         "latitude": 60.23333,
         "longitude": 23.48333
     },
     {
-        "name": "Кустави",
+        "name": "Kustavi",
         "latitude": 60.54529,
         "longitude": 21.3588
     },
     {
-        "name": "Куусйоки",
+        "name": "Kuusjoki",
         "latitude": 60.51667,
         "longitude": 23.2
     },
     {
-        "name": "Лайтила",
+        "name": "Laitila",
         "latitude": 60.87575,
         "longitude": 21.69765
     },
     {
-        "name": "Медленно",
+        "name": "Lemu",
         "latitude": 60.56667,
         "longitude": 21.96667
     },
     {
-        "name": "Использовал",
+        "name": "Lieto",
         "latitude": 60.51032,
         "longitude": 22.46176
     },
     {
-        "name": "Марттила",
+        "name": "Marttila",
         "latitude": 60.58333,
         "longitude": 22.9
     },
     {
-        "name": "Маска",
+        "name": "Masku",
         "latitude": 60.57082,
         "longitude": 22.09883
     },
     {
-        "name": "Меллила",
+        "name": "Mellil\u00e4",
         "latitude": 60.76667,
         "longitude": 22.95
     },
     {
-        "name": "Морская маска",
+        "name": "Merimasku",
         "latitude": 60.48333,
         "longitude": 21.86667
     },
     {
-        "name": "Мягкий",
+        "name": "Mietoinen",
         "latitude": 60.63333,
         "longitude": 21.93333
     },
     {
-        "name": "Стена",
+        "name": "Muurla",
         "latitude": 60.35,
         "longitude": 23.28333
     },
     {
-        "name": "Минямяки",
+        "name": "Myn\u00e4m\u00e4ki",
         "latitude": 60.67915,
         "longitude": 21.99274
     },
     {
-        "name": "Наантали",
+        "name": "Naantali",
         "latitude": 60.46744,
         "longitude": 22.02428
     },
     {
-        "name": "Нравиться",
+        "name": "Nagu",
         "latitude": 60.19375,
         "longitude": 21.90972
     },
     {
-        "name": "Ноусиайнен",
+        "name": "Nousiainen",
         "latitude": 60.60416,
         "longitude": 22.07926
     },
     {
-        "name": "Орипяя",
+        "name": "Orip\u00e4\u00e4",
         "latitude": 60.85,
         "longitude": 22.68333
     },
     {
-        "name": "Паймио",
+        "name": "Paimio",
         "latitude": 60.45671,
         "longitude": 22.68694
     },
     {
-        "name": "Номинальный газ",
+        "name": "Pargas",
         "latitude": 60.30672,
         "longitude": 22.30097
     },
     {
-        "name": "Наследство",
+        "name": "Perni\u00f6",
         "latitude": 60.2,
         "longitude": 23.13333
     },
     {
-        "name": "дразнили",
+        "name": "Pertteli",
         "latitude": 60.43333,
         "longitude": 23.26667
     },
     {
-        "name": "Шип",
+        "name": "Piikki\u00f6",
         "latitude": 60.42481,
         "longitude": 22.51601
     },
     {
-        "name": "Вождение",
+        "name": "P\u00f6yty\u00e4",
         "latitude": 60.76667,
         "longitude": 22.66667
     },
     {
-        "name": "Пюхаранта",
+        "name": "Pyh\u00e4ranta",
         "latitude": 60.95,
         "longitude": 21.45
     },
     {
-        "name": "Райсио",
+        "name": "Raisio",
         "latitude": 60.48592,
         "longitude": 22.16895
     },
     {
-        "name": "Маска",
+        "name": "Rusko",
         "latitude": 60.53333,
         "longitude": 22.21667
     },
     {
-        "name": "Смущенный",
+        "name": "Rym\u00e4ttyl\u00e4",
         "latitude": 60.37658,
         "longitude": 21.94184
     },
     {
-        "name": "Сало",
+        "name": "Salo",
         "latitude": 60.38333,
         "longitude": 23.13333
     },
     {
-        "name": "Саркисало",
+        "name": "S\u00e4rkisalo",
         "latitude": 60.11389,
         "longitude": 22.95
     },
     {
-        "name": "Сауво",
+        "name": "Sauvo",
         "latitude": 60.34306,
         "longitude": 22.69642
     },
     {
-        "name": "лето",
+        "name": "Somero",
         "latitude": 60.61667,
         "longitude": 23.53333
     },
     {
-        "name": "Озеро Суомусъярви",
+        "name": "Suomusj\u00e4rvi",
         "latitude": 60.35,
         "longitude": 23.65
     },
     {
-        "name": "Тайвассало",
+        "name": "Taivassalo",
         "latitude": 60.56085,
         "longitude": 21.61639
     },
     {
-        "name": "Тарвасйоки",
+        "name": "Tarvasjoki",
         "latitude": 60.58333,
         "longitude": 22.73333
     },
     {
-        "name": "Турку",
+        "name": "Turku",
         "latitude": 60.45148,
         "longitude": 22.26869
     },
     {
-        "name": "Уусикаупунки",
+        "name": "Uusikaupunki",
         "latitude": 60.80043,
         "longitude": 21.40841
     },
     {
-        "name": "Мыло",
+        "name": "Vahto",
         "latitude": 60.6,
         "longitude": 22.3
     },
     {
-        "name": "Вестриболанд",
+        "name": "V\u00e4st\u00e5boland",
         "latitude": 60.29972,
         "longitude": 22.3004
     },
     {
-        "name": "Вестанфьярд",
+        "name": "V\u00e4stanfj\u00e4rd",
         "latitude": 60.05,
         "longitude": 22.68333
     },
     {
-        "name": "Не унывать",
+        "name": "Vehmaa",
         "latitude": 60.68333,
         "longitude": 21.66667
     },
     {
-        "name": "Долг",
+        "name": "Velkua",
         "latitude": 60.46667,
         "longitude": 21.66667
     },
     {
-        "name": "В гору",
+        "name": "Yl\u00e4ne",
         "latitude": 60.88333,
         "longitude": 22.41667
     },
     {
-        "name": "Хюрюнсалми",
+        "name": "Hyrynsalmi",
         "latitude": 64.66667,
         "longitude": 28.53333
     },
     {
-        "name": "Каяани",
+        "name": "Kajaani",
         "latitude": 64.22728,
         "longitude": 27.72846
     },
     {
-        "name": "Кухмо",
+        "name": "Kuhmo",
         "latitude": 64.13333,
         "longitude": 29.51667
     },
     {
-        "name": "Палтамо",
+        "name": "Paltamo",
         "latitude": 64.41667,
         "longitude": 27.83333
     },
     {
-        "name": "Польша",
+        "name": "Puolanka",
         "latitude": 64.86667,
         "longitude": 27.66667
     },
     {
-        "name": "Ристиярви",
+        "name": "Ristij\u00e4rvi",
         "latitude": 64.5,
         "longitude": 28.21667
     },
     {
-        "name": "Соткамо",
+        "name": "Sotkamo",
         "latitude": 64.13333,
         "longitude": 28.41667
     },
     {
-        "name": "Суомуссалми",
+        "name": "Suomussalmi",
         "latitude": 64.88685,
         "longitude": 28.90778
     },
     {
-        "name": "КИТ",
+        "name": "Vaala",
         "latitude": 64.56667,
         "longitude": 26.83333
     },
     {
-        "name": "Запеканка",
+        "name": "Vuokatti",
         "latitude": 64.14466,
         "longitude": 28.28196
     },
     {
-        "name": "Вуолийоки",
+        "name": "Vuolijoki",
         "latitude": 64.18538,
         "longitude": 26.99547
     },
     {
-        "name": "Анджала",
+        "name": "Anjala",
         "latitude": 60.68333,
         "longitude": 26.83333
     },
     {
-        "name": "Элимяки",
+        "name": "Elim\u00e4ki",
         "latitude": 60.71667,
         "longitude": 26.46667
     },
     {
-        "name": "Хамина",
+        "name": "Hamina",
         "latitude": 60.56974,
         "longitude": 27.19794
     },
     {
-        "name": "Иитти",
+        "name": "Iitti",
         "latitude": 60.89488,
         "longitude": 26.33869
     },
     {
-        "name": "Товарищ",
+        "name": "Jaala",
         "latitude": 61.05251,
         "longitude": 26.48117
     },
     {
-        "name": "Медведь",
+        "name": "Karhula",
         "latitude": 60.52156,
         "longitude": 26.93125
     },
     {
-        "name": "Котка",
+        "name": "Kotka",
         "latitude": 60.4664,
         "longitude": 26.94582
     },
     {
-        "name": "Коувола",
+        "name": "Kouvola",
         "latitude": 60.86667,
         "longitude": 26.7
     },
     {
-        "name": "Миехиккяля",
+        "name": "Miehikk\u00e4l\u00e4",
         "latitude": 60.66667,
         "longitude": 27.7
     },
     {
-        "name": "Пюхтяа",
+        "name": "Pyht\u00e4\u00e4",
         "latitude": 60.49349,
         "longitude": 26.54346
     },
     {
-        "name": "Вирйоки",
+        "name": "Virojoki",
         "latitude": 60.5794,
         "longitude": 27.70354
     },
     {
-        "name": "Американец",
+        "name": "Enonteki\u00f6",
         "latitude": 68.38573,
         "longitude": 23.63215
     },
     {
-        "name": "Инари",
+        "name": "Inari",
         "latitude": 68.90596,
         "longitude": 27.02881
     },
     {
-        "name": "Ивало",
+        "name": "Ivalo",
         "latitude": 68.65986,
         "longitude": 27.53891
     },
     {
-        "name": "у нас есть",
+        "name": "Kemi",
         "latitude": 65.73641,
         "longitude": 24.56371
     },
     {
-        "name": "Кемиярви",
+        "name": "Kemij\u00e4rvi",
         "latitude": 66.71309,
         "longitude": 27.43056
     },
     {
-        "name": "Кеминмаа",
+        "name": "Keminmaa",
         "latitude": 65.80158,
         "longitude": 24.54483
     },
     {
-        "name": "Киттиля",
+        "name": "Kittil\u00e4",
         "latitude": 67.66474,
         "longitude": 24.89356
     },
     {
-        "name": "Колари",
+        "name": "Kolari",
         "latitude": 67.33047,
         "longitude": 23.77785
     },
     {
-        "name": "Муонио",
+        "name": "Muonio",
         "latitude": 67.95,
         "longitude": 23.7
     },
     {
-        "name": "Пелкосенниеми",
+        "name": "Pelkosenniemi",
         "latitude": 67.11083,
         "longitude": 27.51056
     },
     {
-        "name": "Пелло",
+        "name": "Pello",
         "latitude": 66.77364,
         "longitude": 23.96255
     },
     {
-        "name": "Позиция",
+        "name": "Posio",
         "latitude": 66.10856,
         "longitude": 28.17186
     },
     {
-        "name": "Пюхяярви",
+        "name": "Pyh\u00e4j\u00e4rvi",
         "latitude": 67.0701,
         "longitude": 27.21763
     },
     {
-        "name": "Рануа",
+        "name": "Ranua",
         "latitude": 65.91667,
         "longitude": 26.53333
     },
     {
-        "name": "Рованиеми",
+        "name": "Rovaniemi",
         "latitude": 66.5,
         "longitude": 25.71667
     },
     {
-        "name": "Масса",
+        "name": "Salla",
         "latitude": 66.83333,
         "longitude": 28.66667
     },
     {
-        "name": "Дымовой дымоход",
+        "name": "Savukoski",
         "latitude": 67.2925,
         "longitude": 28.15806
     },
     {
-        "name": "Симо",
+        "name": "Simo",
         "latitude": 65.66667,
         "longitude": 25.05
     },
     {
-        "name": "Соданкюля",
+        "name": "Sodankyl\u00e4",
         "latitude": 67.41667,
         "longitude": 26.6
     },
     {
-        "name": "Тервола",
+        "name": "Tervola",
         "latitude": 66.08333,
         "longitude": 24.8
     },
     {
-        "name": "Торнио",
+        "name": "Tornio",
         "latitude": 65.84811,
         "longitude": 24.14662
     },
     {
-        "name": "Утсйоки",
+        "name": "Utsjoki",
         "latitude": 69.90864,
         "longitude": 27.02843
     },
     {
-        "name": "Юлиторнио",
+        "name": "Ylitornio",
         "latitude": 66.30893,
         "longitude": 23.67734
     },
     {
-        "name": "Ино",
+        "name": "Eno",
         "latitude": 62.80511,
         "longitude": 30.15422
     },
     {
-        "name": "Иломантси",
+        "name": "Ilomantsi",
         "latitude": 62.67162,
         "longitude": 30.93276
     },
     {
-        "name": "Йоэнсуу",
+        "name": "Joensuu",
         "latitude": 62.60118,
         "longitude": 29.76316
     },
     {
-        "name": "Юука",
+        "name": "Juuka",
         "latitude": 63.23333,
         "longitude": 29.25
     },
     {
-        "name": "Саммер Бэй",
+        "name": "Kes\u00e4lahti",
         "latitude": 61.89752,
         "longitude": 29.83494
     },
     {
-        "name": "Опасность ускорения",
+        "name": "Kiihtelysvaara",
         "latitude": 62.49525,
         "longitude": 30.25081
     },
     {
-        "name": "Китее",
+        "name": "Kitee",
         "latitude": 62.1,
         "longitude": 30.15
     },
     {
-        "name": "Контиолахти",
+        "name": "Kontiolahti",
         "latitude": 62.76023,
         "longitude": 29.84711
     },
     {
-        "name": "Лиекса",
+        "name": "Lieksa",
         "latitude": 63.31667,
         "longitude": 30.01667
     },
     {
-        "name": "Липери",
+        "name": "Liperi",
         "latitude": 62.53333,
         "longitude": 29.36667
     },
     {
-        "name": "Нурмес",
+        "name": "Nurmes",
         "latitude": 63.54205,
         "longitude": 29.13965
     },
     {
-        "name": "Оутокумпу",
+        "name": "Outokumpu",
         "latitude": 62.72685,
         "longitude": 29.01592
     },
     {
-        "name": "Полвиярви",
+        "name": "Polvij\u00e4rvi",
         "latitude": 62.85,
         "longitude": 29.36667
     },
     {
-        "name": "Пюхяселькя",
+        "name": "Pyh\u00e4selk\u00e4",
         "latitude": 62.43333,
         "longitude": 29.96667
     },
     {
-        "name": "Ряаккюля",
+        "name": "R\u00e4\u00e4kkyl\u00e4",
         "latitude": 62.31667,
         "longitude": 29.61667
     },
     {
-        "name": "Тохмаярви",
+        "name": "Tohmaj\u00e4rvi",
         "latitude": 62.18333,
         "longitude": 30.38333
     },
     {
-        "name": "Тууповаара",
+        "name": "Tuupovaara",
         "latitude": 62.48372,
         "longitude": 30.62731
     },
     {
-        "name": "Артерия",
+        "name": "Valtimo",
         "latitude": 63.66667,
         "longitude": 28.8
     },
     {
-        "name": "Алавеска",
+        "name": "Alavieska",
         "latitude": 64.16667,
         "longitude": 24.3
     },
     {
-        "name": "Хаапаярви",
+        "name": "Haapaj\u00e4rvi",
         "latitude": 63.75,
         "longitude": 25.33333
     },
     {
-        "name": "Хаапавеси",
+        "name": "Haapavesi",
         "latitude": 64.13333,
         "longitude": 25.36667
     },
     {
-        "name": "Хайлуото",
+        "name": "Hailuoto",
         "latitude": 65.009,
         "longitude": 24.71385
     },
     {
-        "name": "Хаукипудас",
+        "name": "Haukipudas",
         "latitude": 65.17654,
         "longitude": 25.35233
     },
     {
-        "name": "Химанка",
+        "name": "Himanka",
         "latitude": 64.06218,
         "longitude": 23.65447
     },
     {
-        "name": "II",
+        "name": "Ii",
         "latitude": 65.31735,
         "longitude": 25.3731
     },
     {
-        "name": "Калайоки",
+        "name": "Kalajoki",
         "latitude": 64.25,
         "longitude": 23.95
     },
     {
-        "name": "Кярсямяки",
+        "name": "K\u00e4rs\u00e4m\u00e4ki",
         "latitude": 63.96667,
         "longitude": 25.76667
     },
     {
-        "name": "Кемпеле",
+        "name": "Kempele",
         "latitude": 64.91314,
         "longitude": 25.50339
     },
     {
-        "name": "Подожди",
+        "name": "Kestil\u00e4",
         "latitude": 64.35002,
         "longitude": 26.27921
     },
     {
-        "name": "Камин",
+        "name": "Kiiminki",
         "latitude": 65.13139,
         "longitude": 25.79744
     },
     {
-        "name": "Сухое молоко",
+        "name": "Kuivaniemi",
         "latitude": 65.57847,
         "longitude": 25.18814
     },
     {
-        "name": "Куусамо",
+        "name": "Kuusamo",
         "latitude": 65.96667,
         "longitude": 29.18333
     },
     {
-        "name": "Лиминка",
+        "name": "Liminka",
         "latitude": 64.80985,
         "longitude": 25.41545
     },
     {
-        "name": "Лумийоки",
+        "name": "Lumijoki",
         "latitude": 64.83744,
         "longitude": 25.18607
     },
     {
-        "name": "Морское озеро",
+        "name": "Merij\u00e4rvi",
         "latitude": 64.3,
         "longitude": 24.45
     },
     {
-        "name": "Мухос",
+        "name": "Muhos",
         "latitude": 64.80798,
         "longitude": 25.99314
     },
     {
-        "name": "Нивала",
+        "name": "Nivala",
         "latitude": 63.91667,
         "longitude": 24.96667
     },
     {
-        "name": "Оулайнен",
+        "name": "Oulainen",
         "latitude": 64.26667,
         "longitude": 24.8
     },
     {
-        "name": "Оулу",
+        "name": "Oulu",
         "latitude": 65.01236,
         "longitude": 25.46816
     },
     {
-        "name": "Оулунсало",
+        "name": "Oulunsalo",
         "latitude": 64.93456,
         "longitude": 25.41121
     },
     {
-        "name": "Пийппола",
+        "name": "Piippola",
         "latitude": 64.16667,
         "longitude": 25.96667
     },
     {
-        "name": "Пудасъярви",
+        "name": "Pudasj\u00e4rvi",
         "latitude": 65.38333,
         "longitude": 26.91667
     },
     {
-        "name": "Пулккила",
+        "name": "Pulkkila",
         "latitude": 64.26667,
         "longitude": 25.86667
     },
     {
-        "name": "Пюхяярви",
+        "name": "Pyh\u00e4j\u00e4rvi",
         "latitude": 63.66667,
         "longitude": 25.9
     },
     {
-        "name": "Пюхяйоки",
+        "name": "Pyh\u00e4joki",
         "latitude": 64.46667,
         "longitude": 24.23333
     },
     {
-        "name": "Пюхянтя",
+        "name": "Pyh\u00e4nt\u00e4",
         "latitude": 64.1,
         "longitude": 26.31667
     },
     {
-        "name": "Раахе",
+        "name": "Raahe",
         "latitude": 64.68333,
         "longitude": 24.48333
     },
     {
-        "name": "Ранцила",
+        "name": "Rantsila",
         "latitude": 64.50613,
         "longitude": 25.66449
     },
     {
-        "name": "Рейсъярви",
+        "name": "Reisj\u00e4rvi",
         "latitude": 63.61667,
         "longitude": 24.9
     },
     {
-        "name": "Горшок",
+        "name": "Ruukki",
         "latitude": 64.66667,
         "longitude": 25.1
     },
     {
-        "name": "Сьеви",
+        "name": "Sievi",
         "latitude": 63.9,
         "longitude": 24.5
     },
     {
-        "name": "Сиикайоки",
+        "name": "Siikajoki",
         "latitude": 64.81455,
         "longitude": 24.75924
     },
     {
-        "name": "Тайвалкоски",
+        "name": "Taivalkoski",
         "latitude": 65.56667,
         "longitude": 28.25
     },
     {
-        "name": "Тырнявя",
+        "name": "Tyrn\u00e4v\u00e4",
         "latitude": 64.76469,
         "longitude": 25.6523
     },
     {
-        "name": "Утаярви",
+        "name": "Utaj\u00e4rvi",
         "latitude": 64.75,
         "longitude": 26.38333
     },
     {
-        "name": "Злой",
+        "name": "Vihanti",
         "latitude": 64.48472,
         "longitude": 24.99157
     },
     {
-        "name": "Over-II",
+        "name": "Yli-Ii",
         "latitude": 65.37181,
         "longitude": 25.8458
     },
     {
-        "name": "я слишком усерден",
+        "name": "Ylikiiminki",
         "latitude": 65.08333,
         "longitude": 26.25
     },
     {
-        "name": "Юливиеска",
+        "name": "Ylivieska",
         "latitude": 64.08333,
         "longitude": 24.55
     },
     {
-        "name": "Хиеталахти",
+        "name": "Hietalahti",
         "latitude": 63.0848,
         "longitude": 21.61716
     },
     {
-        "name": "Изокоро",
+        "name": "Isokyr\u00f6",
         "latitude": 63.01172,
         "longitude": 22.33332
     },
     {
-        "name": "Якобстад",
+        "name": "Jakobstad",
         "latitude": 63.67486,
         "longitude": 22.70256
     },
     {
-        "name": "Каскинен",
+        "name": "Kaskinen",
         "latitude": 62.38444,
         "longitude": 21.22331
     },
     {
-        "name": "Корсхольм",
+        "name": "Korsholm",
         "latitude": 63.11418,
         "longitude": 21.68216
     },
     {
-        "name": "Перекрестный нос",
+        "name": "Korsn\u00e4s",
         "latitude": 62.78333,
         "longitude": 21.2
     },
     {
-        "name": "Кристинестад",
+        "name": "Kristinestad",
         "latitude": 62.27429,
         "longitude": 21.37596
     },
     {
-        "name": "Кроноби",
+        "name": "Kronoby",
         "latitude": 63.72859,
         "longitude": 23.03387
     },
     {
-        "name": "Лайхия",
+        "name": "Laihia",
         "latitude": 62.97609,
         "longitude": 22.01143
     },
     {
-        "name": "Ларсмо",
+        "name": "Larsmo",
         "latitude": 63.75388,
         "longitude": 22.74728
     },
     {
-        "name": "Гной",
+        "name": "Malax",
         "latitude": 62.94225,
         "longitude": 21.57311
     },
     {
-        "name": "Нюкарлебю",
+        "name": "Nykarleby",
         "latitude": 63.52277,
         "longitude": 22.53073
     },
     {
-        "name": "Оравайс",
+        "name": "Oravais",
         "latitude": 63.30135,
         "longitude": 22.37821
     },
     {
-        "name": "Педерсере",
+        "name": "Peders\u00f6re",
         "latitude": 63.65,
         "longitude": 22.68333
     },
     {
-        "name": "Перестроить",
+        "name": "Replot",
         "latitude": 63.22882,
         "longitude": 21.41691
     },
     {
-        "name": "Крест онемевший",
+        "name": "Ristinummi",
         "latitude": 63.09192,
         "longitude": 21.72297
     },
     {
-        "name": "Териниеми",
+        "name": "Teeriniemi",
         "latitude": 63.09705,
         "longitude": 21.6959
     },
     {
-        "name": "Вааса",
+        "name": "Vaasa",
         "latitude": 63.096,
         "longitude": 21.61577
     },
     {
-        "name": "Слегка горбатый",
+        "name": "V\u00e4h\u00e4kyr\u00f6",
         "latitude": 63.05635,
         "longitude": 22.10584
     },
     {
-        "name": "Ну давай же",
+        "name": "V\u00f6r\u00e5",
         "latitude": 63.13607,
         "longitude": 22.25223
     },
     {
-        "name": "Артъярви",
+        "name": "Artj\u00e4rvi",
         "latitude": 60.74544,
         "longitude": 26.07084
     },
     {
-        "name": "Асиккала",
+        "name": "Asikkala",
         "latitude": 61.21667,
         "longitude": 25.5
     },
     {
-        "name": "Полезный",
+        "name": "Auttoinen",
         "latitude": 61.29901,
         "longitude": 25.08887
     },
     {
-        "name": "Хямеенкоски",
+        "name": "H\u00e4meenkoski",
         "latitude": 61.02222,
         "longitude": 25.15417
     },
     {
-        "name": "Хартола",
+        "name": "Hartola",
         "latitude": 61.58333,
         "longitude": 26.01667
     },
     {
-        "name": "Хейнола",
+        "name": "Heinola",
         "latitude": 61.20564,
         "longitude": 26.03811
     },
     {
-        "name": "Холлола",
+        "name": "Hollola",
         "latitude": 61.05,
         "longitude": 25.43333
     },
     {
-        "name": "Открыть",
+        "name": "Lahti",
         "latitude": 60.98267,
         "longitude": 25.66151
     },
     {
-        "name": "Настола",
+        "name": "Nastola",
         "latitude": 60.95,
         "longitude": 25.93333
     },
     {
-        "name": "Ориматтила",
+        "name": "Orimattila",
         "latitude": 60.80487,
         "longitude": 25.72964
     },
     {
-        "name": "Пассайоки",
+        "name": "Padasjoki",
         "latitude": 61.35,
         "longitude": 25.28333
     },
     {
-        "name": "Сисмя",
+        "name": "Sysm\u00e4",
         "latitude": 61.5,
         "longitude": 25.68333
     },
     {
-        "name": "О боже мой",
+        "name": "\u00c4ets\u00e4",
         "latitude": 61.28333,
         "longitude": 22.68333
     },
     {
-        "name": "Аймала",
+        "name": "Aimala",
         "latitude": 61.33,
         "longitude": 23.69
     },
     {
-        "name": "Айто",
+        "name": "Aitoo",
         "latitude": 61.338974,
         "longitude": 24.494319
     },
     {
-        "name": "Акаа",
+        "name": "Akaa",
         "latitude": 61.16666667,
         "longitude": 23.86805556
     },
     {
-        "name": "любовь",
+        "name": "Amuri",
         "latitude": 61.5,
         "longitude": 23.745
     },
     {
-        "name": "Хайхара",
+        "name": "Haihara",
         "latitude": 61.4763,
         "longitude": 23.87711
     },
     {
-        "name": "Халлила",
+        "name": "Hallila",
         "latitude": 61.4625,
         "longitude": 23.82916667
     },
     {
-        "name": "Хеменкуре",
+        "name": "H\u00e4meenkyr\u00f6",
         "latitude": 61.63333333,
         "longitude": 23.2
     },
     {
-        "name": "Херванта",
+        "name": "Hervanta",
         "latitude": 61.4481,
         "longitude": 23.8521
     },
     {
-        "name": "Икаалинен",
+        "name": "Ikaalinen",
         "latitude": 61.76944444,
         "longitude": 23.06805556
     },
     {
-        "name": "Юупайоки",
+        "name": "Juupajoki",
         "latitude": 61.79666667,
         "longitude": 24.37
     },
     {
-        "name": "Кангасала",
+        "name": "Kangasala",
         "latitude": 61.463889,
         "longitude": 24.065
     },
     {
-        "name": "Бикхни",
+        "name": "Kihni\u00f6",
         "latitude": 62.20833333,
         "longitude": 23.17916667
     },
     {
-        "name": "качели",
+        "name": "Kiikka",
         "latitude": 61.32077778,
         "longitude": 22.77538889
     },
     {
-        "name": "Кийкойнен",
+        "name": "Kiikoinen",
         "latitude": 61.45,
         "longitude": 22.575
     },
     {
-        "name": "Колхо",
+        "name": "Kolho",
         "latitude": 62.13333333,
         "longitude": 24.51666667
     },
     {
-        "name": "Кухмалахти",
+        "name": "Kuhmalahti",
         "latitude": 61.505,
         "longitude": 24.56666667
     },
     {
-        "name": "Который из",
+        "name": "Kuru",
         "latitude": 61.87558,
         "longitude": 23.71948
     },
     {
-        "name": "Холодные пороги",
+        "name": "Kylm\u00e4koski",
         "latitude": 61.15,
         "longitude": 23.69166667
     },
     {
-        "name": "Ленгельмяки",
+        "name": "L\u00e4ngelm\u00e4ki",
         "latitude": 61.6889,
         "longitude": 24.69194
     },
     {
-        "name": "Лемпяяля",
+        "name": "Lemp\u00e4\u00e4l\u00e4",
         "latitude": 61.31388889,
         "longitude": 23.75277778
     },
     {
-        "name": "Летающий плащ",
+        "name": "Lent\u00e4v\u00e4nniemi",
         "latitude": 61.52801,
         "longitude": 23.70575
     },
     {
-        "name": "Лиелахти",
+        "name": "Lielahti",
         "latitude": 61.51666667,
         "longitude": 23.66666667
     },
     {
-        "name": "Отступник",
+        "name": "Luopioinen",
         "latitude": 61.36293,
         "longitude": 24.66781
     },
     {
-        "name": "сосна",
+        "name": "M\u00e4ntt\u00e4",
         "latitude": 62.03014,
         "longitude": 24.62791
     },
     {
-        "name": "Мессукюля",
+        "name": "Messukyl\u00e4",
         "latitude": 61.48527778,
         "longitude": 23.84472222
     },
     {
-        "name": "Мухиярви",
+        "name": "Mouhij\u00e4rvi",
         "latitude": 61.5,
         "longitude": 23.01667
     },
     {
-        "name": "Женское путешествие",
+        "name": "Naistenmatka",
         "latitude": 61.46518,
         "longitude": 23.65253
     },
     {
-        "name": "Негала",
+        "name": "Nekala",
         "latitude": 61.48333333,
         "longitude": 23.79055556
     },
     {
-        "name": "Нокиа",
+        "name": "Nokia",
         "latitude": 61.47666667,
         "longitude": 23.50527778
     },
     {
-        "name": "Трава",
+        "name": "Nurmi",
         "latitude": 61.53779,
         "longitude": 23.94178
     },
     {
-        "name": "Озеро Нуутаярви",
+        "name": "Nuutaj\u00e4rvi",
         "latitude": 61.04,
         "longitude": 23.43
     },
     {
-        "name": "Оривеси",
+        "name": "Orivesi",
         "latitude": 61.67777778,
         "longitude": 24.35694444
     },
     {
-        "name": "Держись подальше",
+        "name": "Osara",
         "latitude": 61.70866,
         "longitude": 23.15871
     },
     {
-        "name": "Пялкяне",
+        "name": "P\u00e4lk\u00e4ne",
         "latitude": 61.35403,
         "longitude": 24.51912
     },
     {
-        "name": "Паркано",
+        "name": "Parkano",
         "latitude": 62.00972222,
         "longitude": 23.025
     },
     {
-        "name": "Пирккала",
+        "name": "Pirkkala",
         "latitude": 61.46666667,
         "longitude": 23.65
     },
     {
-        "name": "Писпала",
+        "name": "Pispala",
         "latitude": 61.50611111,
         "longitude": 23.7025
     },
     {
-        "name": "Нижний отсек",
+        "name": "Pohjaslahti",
         "latitude": 62.15631,
         "longitude": 24.1319
     },
     {
-        "name": "Пункалайдун",
+        "name": "Punkalaidun",
         "latitude": 61.11166667,
         "longitude": 23.105
     },
     {
-        "name": "Руовеси",
+        "name": "Ruovesi",
         "latitude": 61.983333,
         "longitude": 24.083333
     },
     {
-        "name": "Сааксмяки",
+        "name": "S\u00e4\u00e4ksm\u00e4ki",
         "latitude": 61.2,
         "longitude": 24.06666667
     },
     {
-        "name": "Сахалахти",
+        "name": "Sahalahti",
         "latitude": 61.46666667,
         "longitude": 24.31666667
     },
     {
-        "name": "Састамала",
+        "name": "Sastamala",
         "latitude": 61.34166667,
         "longitude": 22.90833333
     },
     {
-        "name": "Суоденниеми",
+        "name": "Suodenniemi",
         "latitude": 61.5581,
         "longitude": 22.78526
     },
     {
-        "name": "Сосудистая вена",
+        "name": "Suoniemi",
         "latitude": 61.44111111,
         "longitude": 23.215
     },
     {
-        "name": "Тампере",
+        "name": "Tampere",
         "latitude": 61.49805556,
         "longitude": 23.76
     },
     {
-        "name": "Тейско",
+        "name": "Teisko",
         "latitude": 61.67336111,
         "longitude": 23.84766944
     },
     {
-        "name": "Тойала",
+        "name": "Toijala",
         "latitude": 61.1678,
         "longitude": 23.83819
     },
     {
-        "name": "Озеро Тоттиярви",
+        "name": "Tottij\u00e4rvi",
         "latitude": 61.39777778,
         "longitude": 23.34277778
     },
     {
-        "name": "Урджала",
+        "name": "Urjala",
         "latitude": 61.08333333,
         "longitude": 23.55
     },
     {
-        "name": "Валкеакоски",
+        "name": "Valkeakoski",
         "latitude": 61.26666667,
         "longitude": 24.03055556
     },
     {
-        "name": "Неполноценный",
+        "name": "Vammala",
         "latitude": 61.34027778,
         "longitude": 22.90972222
     },
     {
-        "name": "Весилахти",
+        "name": "Vesilahti",
         "latitude": 61.316667,
         "longitude": 23.616667
     },
     {
-        "name": "Виалия",
+        "name": "Viiala",
         "latitude": 61.21023,
         "longitude": 23.76738
     },
     {
-        "name": "Зерновое поле",
+        "name": "Viljakkala",
         "latitude": 61.70601,
         "longitude": 23.26688
     },
     {
-        "name": "Вилппула",
+        "name": "Vilppula",
         "latitude": 62.02121,
         "longitude": 24.50483
     },
     {
-        "name": "Виррат",
+        "name": "Virrat",
         "latitude": 62.24027778,
         "longitude": 23.77083333
     },
     {
-        "name": "Гора",
+        "name": "Vuores",
         "latitude": 61.431,
         "longitude": 23.81184
     },
     {
-        "name": "Джулиеивари",
+        "name": "Yl\u00f6j\u00e4rvi",
         "latitude": 61.55,
         "longitude": 23.58333333
     },
     {
-        "name": "Евро",
+        "name": "Eura",
         "latitude": 61.13333,
         "longitude": 22.13333
     },
     {
-        "name": "Эурайоки",
+        "name": "Eurajoki",
         "latitude": 61.2,
         "longitude": 21.73333
     },
     {
-        "name": "Харьявалта",
+        "name": "Harjavalta",
         "latitude": 61.31667,
         "longitude": 22.13333
     },
     {
-        "name": "Уиттинен",
+        "name": "Huittinen",
         "latitude": 61.18333,
         "longitude": 22.7
     },
     {
-        "name": "Озеро Ямиярви",
+        "name": "J\u00e4mij\u00e4rvi",
         "latitude": 61.81667,
         "longitude": 22.7
     },
     {
-        "name": "Канкаанпяя",
+        "name": "Kankaanp\u00e4\u00e4",
         "latitude": 61.8,
         "longitude": 22.41667
     },
     {
-        "name": "Карвиа",
+        "name": "Karvia",
         "latitude": 62.13333,
         "longitude": 22.56667
     },
     {
-        "name": "Печь",
+        "name": "Kiukainen",
         "latitude": 61.21667,
         "longitude": 22.08333
     },
     {
-        "name": "Кокемяки",
+        "name": "Kokem\u00e4ki",
         "latitude": 61.25647,
         "longitude": 22.35643
     },
     {
-        "name": "Деревня",
+        "name": "K\u00f6yli\u00f6",
         "latitude": 61.1191,
         "longitude": 22.30976
     },
     {
-        "name": "Золото",
+        "name": "Kullaa",
         "latitude": 61.46998,
         "longitude": 22.16145
     },
     {
-        "name": "Ленгельмяки",
+        "name": "L\u00e4ngelm\u00e4ki",
         "latitude": 61.65,
         "longitude": 22.1
     },
     {
-        "name": "Лапландия",
+        "name": "Lappi",
         "latitude": 61.1,
         "longitude": 21.83333
     },
     {
-        "name": "Улица",
+        "name": "Lavia",
         "latitude": 61.6,
         "longitude": 22.6
     },
     {
-        "name": "Разрешения",
+        "name": "Luvia",
         "latitude": 61.36375,
         "longitude": 21.62556
     },
     {
-        "name": "Морские огурцы",
+        "name": "Merikarvia",
         "latitude": 61.85839,
         "longitude": 21.50035
     },
     {
-        "name": "Наккила",
+        "name": "Nakkila",
         "latitude": 61.36667,
         "longitude": 22.0
     },
     {
-        "name": "Ноормаркку",
+        "name": "Noormarkku",
         "latitude": 61.59274,
         "longitude": 21.86846
     },
     {
-        "name": "Помаркку",
+        "name": "Pomarkku",
         "latitude": 61.69348,
         "longitude": 22.00862
     },
     {
-        "name": "пора",
+        "name": "Pori",
         "latitude": 61.48333,
         "longitude": 21.78333
     },
     {
-        "name": "Раума",
+        "name": "Rauma",
         "latitude": 61.12724,
         "longitude": 21.51127
     },
     {
-        "name": "Сакюля",
+        "name": "S\u00e4kyl\u00e4",
         "latitude": 61.03333,
         "longitude": 22.33333
     },
     {
-        "name": "Сиг",
+        "name": "Siikainen",
         "latitude": 61.87703,
         "longitude": 21.81945
     },
     {
-        "name": "Ульвила",
+        "name": "Ulvila",
         "latitude": 61.42844,
         "longitude": 21.87103
     },
     {
-        "name": "Вампула",
+        "name": "Vampula",
         "latitude": 61.01667,
         "longitude": 22.7
     },
     {
-        "name": "Иматра",
+        "name": "Imatra",
         "latitude": 61.17185,
         "longitude": 28.75242
     },
     {
-        "name": "Лебедь",
+        "name": "Joutseno",
         "latitude": 61.11796,
         "longitude": 28.50763
     },
     {
-        "name": "Лаппеенранта",
+        "name": "Lappeenranta",
         "latitude": 61.05871,
         "longitude": 28.18871
     },
     {
-        "name": "Замедлять",
+        "name": "Lemi",
         "latitude": 61.06244,
         "longitude": 27.80571
     },
     {
-        "name": "Луумяки",
+        "name": "Luum\u00e4ki",
         "latitude": 60.92618,
         "longitude": 27.58135
     },
     {
-        "name": "Нуджамаленд",
+        "name": "Nuijamaa",
         "latitude": 60.96011,
         "longitude": 28.55104
     },
     {
-        "name": "Париккала",
+        "name": "Parikkala",
         "latitude": 61.55,
         "longitude": 29.5
     },
     {
-        "name": "Раутярви",
+        "name": "Rautj\u00e4rvi",
         "latitude": 61.43333,
         "longitude": 29.35
     },
     {
-        "name": "Руоколахти",
+        "name": "Ruokolahti",
         "latitude": 61.28333,
         "longitude": 28.83333
     },
     {
-        "name": "Убери это",
+        "name": "Saari",
         "latitude": 61.65,
         "longitude": 29.75
     },
     {
-        "name": "Савитайпале",
+        "name": "Savitaipale",
         "latitude": 61.2,
         "longitude": 27.7
     },
     {
-        "name": "Тайпалсаари",
+        "name": "Taipalsaari",
         "latitude": 61.15,
         "longitude": 28.05
     },
     {
-        "name": "Возвышенности",
+        "name": "Yl\u00e4maa",
         "latitude": 60.8,
         "longitude": 28.0
     },
     {
-        "name": "Эхтяри",
+        "name": "\u00c4ht\u00e4ri",
         "latitude": 62.55403,
         "longitude": 24.06186
     },
     {
-        "name": "Нижний край",
+        "name": "Alah\u00e4rm\u00e4",
         "latitude": 63.23333,
         "longitude": 22.85
     },
     {
-        "name": "Алаярви",
+        "name": "Alaj\u00e4rvi",
         "latitude": 63.0,
         "longitude": 23.81667
     },
     {
-        "name": "Алавус",
+        "name": "Alavus",
         "latitude": 62.58333,
         "longitude": 23.61667
     },
     {
-        "name": "Эвиярви",
+        "name": "Evij\u00e4rvi",
         "latitude": 63.36667,
         "longitude": 23.48333
     },
     {
-        "name": "Ильмайоки",
+        "name": "Ilmajoki",
         "latitude": 62.73333,
         "longitude": 22.56667
     },
     {
-        "name": "Исойоки",
+        "name": "Isojoki",
         "latitude": 62.11319,
         "longitude": 21.95884
     },
     {
-        "name": "Яласъярви",
+        "name": "Jalasj\u00e4rvi",
         "latitude": 62.5,
         "longitude": 22.75
     },
     {
-        "name": "Юрва",
+        "name": "Jurva",
         "latitude": 62.68333,
         "longitude": 21.98333
     },
     {
-        "name": "Карийоки",
+        "name": "Karijoki",
         "latitude": 62.30851,
         "longitude": 21.70856
     },
     {
-        "name": "Каухайоки",
+        "name": "Kauhajoki",
         "latitude": 62.43333,
         "longitude": 22.18333
     },
     {
-        "name": "Каухава",
+        "name": "Kauhava",
         "latitude": 63.10299,
         "longitude": 23.07129
     },
     {
-        "name": "Озеро Кортесъярви",
+        "name": "Kortesj\u00e4rvi",
         "latitude": 63.3,
         "longitude": 23.16667
     },
     {
-        "name": "Куортане",
+        "name": "Kuortane",
         "latitude": 62.8,
         "longitude": 23.5
     },
     {
-        "name": "Курикка",
+        "name": "Kurikka",
         "latitude": 62.61667,
         "longitude": 22.41667
     },
     {
-        "name": "Лаппаярви",
+        "name": "Lappaj\u00e4rvi",
         "latitude": 63.2,
         "longitude": 23.63333
     },
     {
-        "name": "Лапуа",
+        "name": "Lapua",
         "latitude": 62.96927,
         "longitude": 23.0088
     },
     {
-        "name": "Листовой холм",
+        "name": "Lehtim\u00e4ki",
         "latitude": 62.78333,
         "longitude": 23.91667
     },
     {
-        "name": "Нурмо",
+        "name": "Nurmo",
         "latitude": 62.8287,
         "longitude": 22.9099
     },
     {
-        "name": "Сейняйоки",
+        "name": "Sein\u00e4joki",
         "latitude": 62.79446,
         "longitude": 22.82822
     },
     {
-        "name": "Сойни",
+        "name": "Soini",
         "latitude": 62.86667,
         "longitude": 24.21667
     },
     {
-        "name": "Теува",
+        "name": "Teuva",
         "latitude": 62.4819,
         "longitude": 21.74156
     },
     {
-        "name": "Грубый",
+        "name": "T\u00f6ys\u00e4",
         "latitude": 62.62803,
         "longitude": 23.81828
     },
     {
-        "name": "Вымпели",
+        "name": "Vimpeli",
         "latitude": 63.16187,
         "longitude": 23.81922
     },
     {
-        "name": "Перегретый",
+        "name": "Ylih\u00e4rm\u00e4",
         "latitude": 63.15,
         "longitude": 22.78333
     },
     {
-        "name": "Илистаро",
+        "name": "Ylistaro",
         "latitude": 62.93958,
         "longitude": 22.51306
     },
     {
-        "name": "Энонкоски",
+        "name": "Enonkoski",
         "latitude": 62.08333,
         "longitude": 28.93333
     },
     {
-        "name": "Хаукивуори",
+        "name": "Haukivuori",
         "latitude": 62.01753,
         "longitude": 27.21906
     },
     {
-        "name": "Хейнявеси",
+        "name": "Hein\u00e4vesi",
         "latitude": 62.43333,
         "longitude": 28.6
     },
     {
-        "name": "Хиренсалми",
+        "name": "Hirvensalmi",
         "latitude": 61.63333,
         "longitude": 26.8
     },
     {
-        "name": "Сволочь",
+        "name": "J\u00e4ppil\u00e4",
         "latitude": 62.37899,
         "longitude": 27.43372
     },
     {
-        "name": "Йоройнен",
+        "name": "Joroinen",
         "latitude": 62.17823,
         "longitude": 27.83165
     },
     {
-        "name": "Юва",
+        "name": "Juva",
         "latitude": 61.9,
         "longitude": 27.85
     },
     {
-        "name": "Кангасниеми",
+        "name": "Kangasniemi",
         "latitude": 61.99357,
         "longitude": 26.64785
     },
     {
-        "name": "Керимяки",
+        "name": "Kerim\u00e4ki",
         "latitude": 61.91069,
         "longitude": 29.28228
     },
     {
-        "name": "Мянтюхарью",
+        "name": "M\u00e4ntyharju",
         "latitude": 61.41667,
         "longitude": 26.88333
     },
     {
-        "name": "Миккели",
+        "name": "Mikkeli",
         "latitude": 61.68857,
         "longitude": 27.27227
     },
     {
-        "name": "Пертунмаа",
+        "name": "Pertunmaa",
         "latitude": 61.5,
         "longitude": 26.48333
     },
     {
-        "name": "Пиексямяки",
+        "name": "Pieks\u00e4m\u00e4ki",
         "latitude": 62.3,
         "longitude": 27.13333
     },
     {
-        "name": "Панк-Ридж",
+        "name": "Punkaharju",
         "latitude": 61.75883,
         "longitude": 29.38843
     },
     {
-        "name": "Пуумала",
+        "name": "Puumala",
         "latitude": 61.52728,
         "longitude": 28.17495
     },
     {
-        "name": "Рантасалми",
+        "name": "Rantasalmi",
         "latitude": 62.06667,
         "longitude": 28.3
     },
     {
-        "name": "Крест",
+        "name": "Ristiina",
         "latitude": 61.50579,
         "longitude": 27.24643
     },
     {
-        "name": "Савонлинна",
+        "name": "Savonlinna",
         "latitude": 61.8699,
         "longitude": 28.87999
     },
     {
-        "name": "Савонранта",
+        "name": "Savonranta",
         "latitude": 62.18333,
         "longitude": 29.2
     },
     {
-        "name": "Сулкава",
+        "name": "Sulkava",
         "latitude": 61.78691,
         "longitude": 28.37299
     },
     {
-        "name": "Пролив",
+        "name": "Virtasalmi",
         "latitude": 62.12695,
         "longitude": 27.46276
     },
     {
-        "name": "Форсса",
+        "name": "Forssa",
         "latitude": 60.81462,
         "longitude": 23.62146
     },
     {
-        "name": "Хямеэнлинна",
+        "name": "H\u00e4meenlinna",
         "latitude": 60.99596,
         "longitude": 24.46434
     },
     {
-        "name": "Хм",
+        "name": "Hauho",
         "latitude": 61.17255,
         "longitude": 24.56303
     },
     {
-        "name": "Хаусъярви",
+        "name": "Hausj\u00e4rvi",
         "latitude": 60.78333,
         "longitude": 24.93333
     },
     {
-        "name": "Хумппила",
+        "name": "Humppila",
         "latitude": 60.93333,
         "longitude": 23.36667
     },
     {
-        "name": "Джанаккала",
+        "name": "Janakkala",
         "latitude": 60.9,
         "longitude": 24.6
     },
     {
-        "name": "Йокиойнен",
+        "name": "Jokioinen",
         "latitude": 60.80162,
         "longitude": 23.48004
     },
     {
-        "name": "Кальвола",
+        "name": "Kalvola",
         "latitude": 61.10081,
         "longitude": 24.12177
     },
     {
-        "name": "Пруд",
+        "name": "Lammi",
         "latitude": 61.08333,
         "longitude": 25.01667
     },
     {
-        "name": "Лоппи",
+        "name": "Loppi",
         "latitude": 60.71667,
         "longitude": 24.45
     },
     {
-        "name": "Ренко",
+        "name": "Renko",
         "latitude": 60.89563,
         "longitude": 24.28785
     },
     {
-        "name": "Риихимяки",
+        "name": "Riihim\u00e4ki",
         "latitude": 60.73769,
         "longitude": 24.77726
     },
     {
-        "name": "Таммела",
+        "name": "Tammela",
         "latitude": 60.81035,
         "longitude": 23.76823
     },
     {
-        "name": "Смоляная яма",
+        "name": "Tervakoski",
         "latitude": 60.81412,
         "longitude": 24.62594
     },
     {
-        "name": "Вентиляция",
+        "name": "Tuulos",
         "latitude": 61.15,
         "longitude": 24.8
     },
     {
-        "name": "Юпая",
+        "name": "Yp\u00e4j\u00e4",
         "latitude": 60.8,
         "longitude": 23.28333
     },
     {
-        "name": "Аскола",
+        "name": "Askola",
         "latitude": 60.53333,
         "longitude": 25.6
     },
     {
-        "name": "Экенес",
+        "name": "Eken\u00e4s",
         "latitude": 59.97359,
         "longitude": 23.43389
     },
     {
-        "name": "Эспоо",
+        "name": "Espoo",
         "latitude": 60.2052,
         "longitude": 24.6522
     },
     {
-        "name": "Гамбол",
+        "name": "Gumb\u00f6le",
         "latitude": 60.21948,
         "longitude": 24.61684
     },
     {
-        "name": "Ханко",
+        "name": "Hanko",
         "latitude": 59.83333,
         "longitude": 22.95
     },
     {
-        "name": "Хельсинки",
+        "name": "Helsinki",
         "latitude": 60.16952,
         "longitude": 24.93545
     },
     {
-        "name": "Хивина",
+        "name": "Hyvinge",
         "latitude": 60.63333,
         "longitude": 24.86667
     },
     {
-        "name": "Включать",
+        "name": "Ing\u00e5",
         "latitude": 60.04587,
         "longitude": 24.00459
     },
     {
-        "name": "Ярвенпяя",
+        "name": "J\u00e4rvenp\u00e4\u00e4",
         "latitude": 60.47369,
         "longitude": 25.08992
     },
     {
-        "name": "Карела",
+        "name": "Kaarela",
         "latitude": 60.25174,
         "longitude": 24.88111
     },
     {
-        "name": "Камень",
+        "name": "Kallio",
         "latitude": 60.18427,
         "longitude": 24.95034
     },
     {
-        "name": "Готовить",
+        "name": "Karis",
         "latitude": 60.07178,
         "longitude": 23.66163
     },
     {
-        "name": "Уздечка для крупного рогатого скота",
+        "name": "Karjalohja",
         "latitude": 60.24015,
         "longitude": 23.71789
     },
     {
-        "name": "Карккила",
+        "name": "Karkkila",
         "latitude": 60.53418,
         "longitude": 24.20977
     },
     {
-        "name": "Каркёл",
+        "name": "K\u00e4rk\u00f6l\u00e4",
         "latitude": 60.61292,
         "longitude": 23.94196
     },
     {
-        "name": "Кауниайнен",
+        "name": "Kauniainen",
         "latitude": 60.21209,
         "longitude": 24.72756
     },
     {
-        "name": "колокольня",
+        "name": "Kellokoski",
         "latitude": 60.53271,
         "longitude": 25.10917
     },
     {
-        "name": "Керава",
+        "name": "Kerava",
         "latitude": 60.40338,
         "longitude": 25.105
     },
     {
-        "name": "Кило",
+        "name": "Kilo",
         "latitude": 60.21746,
         "longitude": 24.78151
     },
     {
-        "name": "Киркконумми",
+        "name": "Kirkkonummi",
         "latitude": 60.12381,
         "longitude": 24.43853
     },
     {
-        "name": "Головка крючка",
+        "name": "Koukkuniemi",
         "latitude": 60.15261,
         "longitude": 24.76467
     },
     {
-        "name": "Лапинъярви",
+        "name": "Lapinj\u00e4rvi",
         "latitude": 60.62443,
         "longitude": 26.1972
     },
     {
-        "name": "Паромный остров",
+        "name": "Lauttasaari",
         "latitude": 60.15896,
         "longitude": 24.86797
     },
     {
-        "name": "Лильендаль",
+        "name": "Liljendal",
         "latitude": 60.57346,
         "longitude": 26.05257
     },
     {
-        "name": "Лохья",
+        "name": "Lohja",
         "latitude": 60.24859,
         "longitude": 24.06534
     },
     {
-        "name": "Ловиса",
+        "name": "Lovisa",
         "latitude": 60.45659,
         "longitude": 26.22505
     },
     {
-        "name": "Мянтсяля",
+        "name": "M\u00e4nts\u00e4l\u00e4",
         "latitude": 60.63333,
         "longitude": 25.31667
     },
     {
-        "name": "Меллункюля",
+        "name": "Mellunkyl\u00e4",
         "latitude": 60.23355,
         "longitude": 25.09947
     },
     {
-        "name": "накидка-пончик",
+        "name": "Munkkiniemi",
         "latitude": 60.19861,
         "longitude": 24.87772
     },
     {
-        "name": "Мирскюля",
+        "name": "Myrskyl\u00e4",
         "latitude": 60.66965,
         "longitude": 25.8475
     },
     {
-        "name": "Нурмиярви",
+        "name": "Nurmij\u00e4rvi",
         "latitude": 60.46407,
         "longitude": 24.8073
     },
     {
-        "name": "Отаниеми",
+        "name": "Otaniemi",
         "latitude": 60.18395,
         "longitude": 24.82786
     },
     {
-        "name": "Ну давай же",
+        "name": "Pern\u00e5",
         "latitude": 60.44869,
         "longitude": 26.03187
     },
     {
-        "name": "База",
+        "name": "Pohja",
         "latitude": 60.09626,
         "longitude": 23.52757
     },
     {
-        "name": "Порнайнен",
+        "name": "Pornainen",
         "latitude": 60.47581,
         "longitude": 25.3749
     },
     {
-        "name": "Порвоо",
+        "name": "Porvoo",
         "latitude": 60.39233,
         "longitude": 25.66507
     },
     {
-        "name": "Пуккила",
+        "name": "Pukkila",
         "latitude": 60.65,
         "longitude": 25.56667
     },
     {
-        "name": "Раасепорин",
+        "name": "Raaseporin",
         "latitude": 60.00273,
         "longitude": 23.55499
     },
     {
-        "name": "праздник Швеции",
+        "name": "Ruotsinpyht\u00e4\u00e4",
         "latitude": 60.5268,
         "longitude": 26.46203
     },
     {
-        "name": "Чесотка",
+        "name": "Sammatti",
         "latitude": 60.31991,
         "longitude": 23.82085
     },
     {
-        "name": "Сиббо",
+        "name": "Sibbo",
         "latitude": 60.37752,
         "longitude": 25.26906
     },
     {
-        "name": "Сиунцио",
+        "name": "Siuntio",
         "latitude": 60.13862,
         "longitude": 24.22715
     },
     {
-        "name": "Туусула",
+        "name": "Tuusula",
         "latitude": 60.40368,
         "longitude": 25.02638
     },
     {
-        "name": "Вантаа",
+        "name": "Vantaa",
         "latitude": 60.29414,
         "longitude": 25.04099
     },
     {
-        "name": "Вихти",
+        "name": "Vihti",
         "latitude": 60.41699,
         "longitude": 24.31965
     },
     {
-        "name": "Вуосаари",
+        "name": "Vuosaari",
         "latitude": 60.20963,
         "longitude": 25.14195
     }

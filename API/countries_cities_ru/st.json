@@ -1,26 +1,26 @@
 [
     {
-        "name": "Святой Антоний",
+        "name": "Santo Ant\u00f3nio",
         "latitude": 1.63943,
         "longitude": 7.41951
     },
     {
-        "name": "Кантагало (район)",
+        "name": "Cantagalo District",
         "latitude": 0.21667,
         "longitude": 6.7
     },
     {
-        "name": "Кауэ (округ)",
+        "name": "Cau\u00e9 District",
         "latitude": 0.13415,
         "longitude": 6.63825
     },
     {
-        "name": "Сент-Томас",
+        "name": "S\u00e3o Tom\u00e9",
         "latitude": 0.33654,
         "longitude": 6.72732
     },
     {
-        "name": "Троица",
+        "name": "Trindade",
         "latitude": 0.29667,
         "longitude": 6.68139
     }

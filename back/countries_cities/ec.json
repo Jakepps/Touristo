@@ -1,576 +1,576 @@
 [
     {
-        "name": "Сан-Фернандо Кантон",
+        "name": "Cant\u00f3n San Fernando",
         "latitude": -3.13349,
         "longitude": -79.26893
     },
     {
-        "name": "Куэнка",
+        "name": "Cuenca",
         "latitude": -2.90055,
         "longitude": -79.00453
     },
     {
-        "name": "Гуаласео",
+        "name": "Gualaceo",
         "latitude": -2.89264,
         "longitude": -78.77814
     },
     {
-        "name": "Союз",
+        "name": "La Uni\u00f3n",
         "latitude": -2.85,
         "longitude": -78.78333
     },
     {
-        "name": "Расслабляться",
+        "name": "Llacao",
         "latitude": -2.86667,
         "longitude": -78.88333
     },
     {
-        "name": "Нуль",
+        "name": "Nulti",
         "latitude": -2.91667,
         "longitude": -78.85
     },
     {
-        "name": "Гуаранда",
+        "name": "Guaranda",
         "latitude": -1.59263,
         "longitude": -79.00098
     },
     {
-        "name": "Сан-Мигель",
+        "name": "San Miguel",
         "latitude": -1.70884,
         "longitude": -79.04311
     },
     {
-        "name": "Ртуть",
+        "name": "Azogues",
         "latitude": -2.73969,
         "longitude": -78.8486
     },
     {
-        "name": "Каньяр",
+        "name": "Ca\u00f1ar",
         "latitude": -2.56062,
         "longitude": -78.9394
     },
     {
-        "name": "Ствол",
+        "name": "La Troncal",
         "latitude": -2.42355,
         "longitude": -79.33977
     },
     {
-        "name": "Ангел",
+        "name": "El \u00c1ngel",
         "latitude": 0.62279,
         "longitude": -77.94003
     },
     {
-        "name": "Святой Габриэль",
+        "name": "San Gabriel",
         "latitude": 0.59318,
         "longitude": -77.83078
     },
     {
-        "name": "Тулькан",
+        "name": "Tulc\u00e1n",
         "latitude": 0.81187,
         "longitude": -77.71727
     },
     {
-        "name": "Алауси",
+        "name": "Alaus\u00ed",
         "latitude": -2.20329,
         "longitude": -78.84714
     },
     {
-        "name": "Гуано",
+        "name": "Guano",
         "latitude": -1.60789,
         "longitude": -78.63105
     },
     {
-        "name": "Риобамба",
+        "name": "Riobamba",
         "latitude": -1.67098,
         "longitude": -78.64712
     },
     {
-        "name": "Мана",
+        "name": "La Man\u00e1",
         "latitude": -0.94094,
         "longitude": -79.22506
     },
     {
-        "name": "Латакунга",
+        "name": "Latacunga",
         "latitude": -0.93521,
         "longitude": -78.61554
     },
     {
-        "name": "Пуджили",
+        "name": "Pujil\u00ed",
         "latitude": -0.95759,
         "longitude": -78.69636
     },
     {
-        "name": "San Migile de Saltedo",
+        "name": "San Miguel de Salcedo",
         "latitude": -1.04547,
         "longitude": -78.59063
     },
     {
-        "name": "Сакисили",
+        "name": "Saquisil\u00ed",
         "latitude": -0.8399,
         "longitude": -78.667
     },
     {
-        "name": "Уакильяс – лучшее из Уакильяса",
+        "name": "Huaquillas",
         "latitude": -3.47523,
         "longitude": -80.23084
     },
     {
-        "name": "Мачала",
+        "name": "Machala",
         "latitude": -3.25861,
         "longitude": -79.96053
     },
     {
-        "name": "Проход",
+        "name": "Pasaje",
         "latitude": -3.32561,
         "longitude": -79.80697
     },
     {
-        "name": "Ананасы",
+        "name": "Pi\u00f1as",
         "latitude": -3.68107,
         "longitude": -79.68083
     },
     {
-        "name": "Портовело",
+        "name": "Portovelo",
         "latitude": -3.72145,
         "longitude": -79.62187
     },
     {
-        "name": "Пуэрто Боливар",
+        "name": "Puerto Bol\u00edvar",
         "latitude": -3.26649,
         "longitude": -79.99749
     },
     {
-        "name": "Санта Роза",
+        "name": "Santa Rosa",
         "latitude": -3.44882,
         "longitude": -79.95952
     },
     {
-        "name": "Зарума",
+        "name": "Zaruma",
         "latitude": -3.69132,
         "longitude": -79.61174
     },
     {
-        "name": "Изумруды",
+        "name": "Esmeraldas",
         "latitude": 0.9592,
         "longitude": -79.65397
     },
     {
-        "name": "Муисне",
+        "name": "Muisne",
         "latitude": 0.61129,
         "longitude": -80.01863
     },
     {
-        "name": "Боливар Пампанал",
+        "name": "Pampanal de Bol\u00edvar",
         "latitude": 1.35251,
         "longitude": -78.8936
     },
     {
-        "name": "зеленая река",
+        "name": "Rio Verde",
         "latitude": 1.06235,
         "longitude": -79.39939
     },
     {
-        "name": "Роза Сарате",
+        "name": "Rosa Zarate",
         "latitude": 0.32779,
         "longitude": -79.47407
     },
     {
-        "name": "San Lorenzo de Ismeralteral",
+        "name": "San Lorenzo de Esmeraldas",
         "latitude": 1.28626,
         "longitude": -78.83514
     },
     {
-        "name": "Вальдес",
+        "name": "Valdez",
         "latitude": 1.24917,
         "longitude": -78.98306
     },
     {
-        "name": "Пуэрто-Айора",
+        "name": "Puerto Ayora",
         "latitude": -0.74018,
         "longitude": -90.3138
     },
     {
-        "name": "Пуэрто Бакерисо Морено",
+        "name": "Puerto Baquerizo Moreno",
         "latitude": -0.90172,
         "longitude": -89.61021
     },
     {
-        "name": "Пуэрто-Вильямиль",
+        "name": "Puerto Villamil",
         "latitude": -0.95542,
         "longitude": -90.96654
     },
     {
-        "name": "Альфредо Бакерисо Морено",
+        "name": "Alfredo Baquerizo Moreno",
         "latitude": -1.91667,
         "longitude": -79.51667
     },
     {
-        "name": "Бог",
+        "name": "Bal\u00e1o",
         "latitude": -2.911,
         "longitude": -79.81441
     },
     {
-        "name": "Бальзар",
+        "name": "Balzar",
         "latitude": -1.36501,
         "longitude": -79.90494
     },
     {
-        "name": "Колим",
+        "name": "Colimes",
         "latitude": -1.54553,
         "longitude": -80.01165
     },
     {
-        "name": "Полковник Марселино Маридуэнья",
+        "name": "Coronel Marcelino Maridue\u00f1a",
         "latitude": -2.20924,
         "longitude": -79.43248
     },
     {
-        "name": "Триумф",
+        "name": "El Triunfo",
         "latitude": -1.93333,
         "longitude": -79.96667
     },
     {
-        "name": "Элой Альфаро",
+        "name": "Eloy Alfaro",
         "latitude": -2.17579,
         "longitude": -79.85519
     },
     {
-        "name": "Гуаякиль",
+        "name": "Guayaquil",
         "latitude": -2.19616,
         "longitude": -79.88621
     },
     {
-        "name": "Ломас де Сархентилло",
+        "name": "Lomas de Sargentillo",
         "latitude": -1.88333,
         "longitude": -80.08333
     },
     {
-        "name": "Чудо",
+        "name": "Milagro",
         "latitude": -2.13404,
         "longitude": -79.59415
     },
     {
-        "name": "Апельсин",
+        "name": "Naranjal",
         "latitude": -2.67364,
         "longitude": -79.6183
     },
     {
-        "name": "Наранхито",
+        "name": "Naranjito",
         "latitude": -2.16671,
         "longitude": -79.4654
     },
     {
-        "name": "Палестина",
+        "name": "Palestina",
         "latitude": -1.93709,
         "longitude": -79.71396
     },
     {
-        "name": "Педро Карбо",
+        "name": "Pedro Carbo",
         "latitude": -1.81563,
         "longitude": -80.23309
     },
     {
-        "name": "Пляжи",
+        "name": "Playas",
         "latitude": -2.63199,
         "longitude": -80.38808
     },
     {
-        "name": "Самборондон",
+        "name": "Samborond\u00f3n",
         "latitude": -1.96276,
         "longitude": -79.72402
     },
     {
-        "name": "Сент-Люсия",
+        "name": "Santa Luc\u00eda",
         "latitude": -2.18333,
         "longitude": -80.0
     },
     {
-        "name": "Веласко Ибарра",
+        "name": "Velasco Ibarra",
         "latitude": -1.04376,
         "longitude": -79.63837
     },
     {
-        "name": "Ягуачи Новый",
+        "name": "Yaguachi Nuevo",
         "latitude": -2.0968,
         "longitude": -79.69485
     },
     {
-        "name": "Атунтаки",
+        "name": "Atuntaqui",
         "latitude": 0.33247,
         "longitude": -78.21371
     },
     {
-        "name": "Котакачи",
+        "name": "Cotacachi",
         "latitude": 0.30107,
         "longitude": -78.26428
     },
     {
-        "name": "Ибарра",
+        "name": "Ibarra",
         "latitude": 0.35171,
         "longitude": -78.12233
     },
     {
-        "name": "Отавало",
+        "name": "Otavalo",
         "latitude": 0.23457,
         "longitude": -78.26248
     },
     {
-        "name": "Пимапиро",
+        "name": "Pimampiro",
         "latitude": 0.39116,
         "longitude": -77.94068
     },
     {
-        "name": "Магазин",
+        "name": "Loja",
         "latitude": -3.99313,
         "longitude": -79.20422
     },
     {
-        "name": "Бабахойо",
+        "name": "Babahoyo",
         "latitude": -1.80217,
         "longitude": -79.53443
     },
     {
-        "name": "Пряжка",
+        "name": "Catarama",
         "latitude": -1.57504,
         "longitude": -79.45998
     },
     {
-        "name": "Монтальво",
+        "name": "Montalvo",
         "latitude": -1.79008,
         "longitude": -79.28759
     },
     {
-        "name": "Паленке",
+        "name": "Palenque",
         "latitude": -1.43795,
         "longitude": -79.75647
     },
     {
-        "name": "Кеведо",
+        "name": "Quevedo",
         "latitude": -1.02863,
         "longitude": -79.46352
     },
     {
-        "name": "Окна",
+        "name": "Ventanas",
         "latitude": -1.44158,
         "longitude": -79.45943
     },
     {
-        "name": "Винс",
+        "name": "Vinces",
         "latitude": -1.55611,
         "longitude": -79.75191
     },
     {
-        "name": "Каракес Бэй",
+        "name": "Bah\u00eda de Car\u00e1quez",
         "latitude": -0.59792,
         "longitude": -80.42367
     },
     {
-        "name": "Вязание",
+        "name": "Calceta",
         "latitude": -0.84582,
         "longitude": -80.16389
     },
     {
-        "name": "Портовьехо (кантон)",
+        "name": "Cant\u00f3n Portoviejo",
         "latitude": -1.05,
         "longitude": -80.45
     },
     {
-        "name": "Чоне",
+        "name": "Chone",
         "latitude": -0.69819,
         "longitude": -80.09361
     },
     {
-        "name": "Панама",
+        "name": "Jipijapa",
         "latitude": -1.34872,
         "longitude": -80.57875
     },
     {
-        "name": "Хунин",
+        "name": "Jun\u00edn",
         "latitude": -0.92777,
         "longitude": -80.20583
     },
     {
-        "name": "Манта",
+        "name": "Manta",
         "latitude": -0.96212,
         "longitude": -80.71271
     },
     {
-        "name": "Монтекристи",
+        "name": "Montecristi",
         "latitude": -1.04576,
         "longitude": -80.65889
     },
     {
-        "name": "Паян",
+        "name": "Paj\u00e1n",
         "latitude": -1.55238,
         "longitude": -80.42958
     },
     {
-        "name": "Кремни",
+        "name": "Pedernales",
         "latitude": 0.07167,
         "longitude": -80.0525
     },
     {
-        "name": "Портовьехо",
+        "name": "Portoviejo",
         "latitude": -1.05458,
         "longitude": -80.45445
     },
     {
-        "name": "Крепкий рок",
+        "name": "Rocafuerte",
         "latitude": -0.9236,
         "longitude": -80.44946
     },
     {
-        "name": "Сент-Винсент",
+        "name": "San Vicente",
         "latitude": -0.60435,
         "longitude": -80.40267
     },
     {
-        "name": "Санта Ана",
+        "name": "Santa Ana",
         "latitude": -1.20726,
         "longitude": -80.37132
     },
     {
-        "name": "Сукре",
+        "name": "Sucre",
         "latitude": -1.27974,
         "longitude": -80.41885
     },
     {
-        "name": "Тосагуа",
+        "name": "Tosagua",
         "latitude": -0.78679,
         "longitude": -80.23473
     },
     {
-        "name": "Гуалакиса",
+        "name": "Gualaquiza",
         "latitude": -3.40359,
         "longitude": -78.58166
     },
     {
-        "name": "Яблоки",
+        "name": "Macas",
         "latitude": -2.30868,
         "longitude": -78.11135
     },
     {
-        "name": "слово",
+        "name": "Palora",
         "latitude": -1.70131,
         "longitude": -77.96516
     },
     {
-        "name": "Сукуа",
+        "name": "Suc\u00faa",
         "latitude": -2.45866,
         "longitude": -78.17171
     },
     {
-        "name": "Арчидона",
+        "name": "Archidona",
         "latitude": -0.9095,
         "longitude": -77.80772
     },
     {
-        "name": "Действительно",
+        "name": "Tena",
         "latitude": -0.9938,
         "longitude": -77.81286
     },
     {
-        "name": "Бока Суно",
+        "name": "Boca Suno",
         "latitude": -0.69832,
         "longitude": -77.14083
     },
     {
-        "name": "Франсиско де Орельяна, кантон",
+        "name": "Francisco de Orellana Canton",
         "latitude": -0.46667,
         "longitude": -76.96667
     },
     {
-        "name": "Лорето кантон",
+        "name": "Loreto Canton",
         "latitude": -0.69487,
         "longitude": -77.30255
     },
     {
-        "name": "Пуэрто-Франциско де Орельяна",
+        "name": "Puerto Francisco de Orellana",
         "latitude": -0.46645,
         "longitude": -76.98719
     },
     {
-        "name": "водоворот",
+        "name": "Puyo",
         "latitude": -1.48369,
         "longitude": -78.00257
     },
     {
-        "name": "Давайте начнем",
+        "name": "Cayambe",
         "latitude": 0.04084,
         "longitude": -78.14524
     },
     {
-        "name": "Пьяный",
+        "name": "Machachi",
         "latitude": -0.51011,
         "longitude": -78.56712
     },
     {
-        "name": "Кито",
+        "name": "Quito",
         "latitude": -0.22985,
         "longitude": -78.52495
     },
     {
-        "name": "Санголки",
+        "name": "Sangolqu\u00ed",
         "latitude": -0.33405,
         "longitude": -78.45217
     },
     {
-        "name": "тутамандахостел",
+        "name": "Tutamandahostel",
         "latitude": -0.19727,
         "longitude": -78.4975
     },
     {
-        "name": "Свобода",
+        "name": "La Libertad",
         "latitude": -2.233,
         "longitude": -80.91039
     },
     {
-        "name": "Салинас",
+        "name": "Salinas",
         "latitude": -2.21452,
         "longitude": -80.95151
     },
     {
-        "name": "ул. Хелен",
+        "name": "Santa Elena",
         "latitude": -2.22622,
         "longitude": -80.85873
     },
     {
-        "name": "Санто-Доминго-де-лос-Колорадос",
+        "name": "Santo Domingo de los Colorados",
         "latitude": -0.25305,
         "longitude": -79.17536
     },
     {
-        "name": "Новая Лоха",
+        "name": "Nueva Loja",
         "latitude": 0.086,
         "longitude": -76.89528
     },
     {
-        "name": "Намекать",
+        "name": "Ambato",
         "latitude": -1.24908,
         "longitude": -78.61675
     },
     {
-        "name": "Ванные комнаты",
+        "name": "Ba\u00f1os",
         "latitude": -1.39699,
         "longitude": -78.42289
     },
     {
-        "name": "Пелилео",
+        "name": "Pelileo",
         "latitude": -1.3299,
         "longitude": -78.54341
     },
     {
-        "name": "Поймай его",
+        "name": "P\u00edllaro",
         "latitude": -1.17414,
         "longitude": -78.54676
     },
     {
-        "name": "Янцаза",
+        "name": "Yantzaza",
         "latitude": -3.83261,
         "longitude": -78.76076
     },
     {
-        "name": "Самора",
+        "name": "Zamora",
         "latitude": -4.06685,
         "longitude": -78.95488
     }

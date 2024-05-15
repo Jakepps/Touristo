@@ -1,31 +1,31 @@
 [
     {
-        "name": "В ваникоа",
+        "name": "Banikoara",
         "latitude": 11.29845,
         "longitude": 2.43856
     },
     {
-        "name": "Конфеты",
+        "name": "Kandi",
         "latitude": 11.13417,
         "longitude": 2.93861
     },
     {
-        "name": "Маланвиль",
+        "name": "Malanville",
         "latitude": 11.86819,
         "longitude": 3.38327
     },
     {
-        "name": "Гильмаро",
+        "name": "Guilmaro",
         "latitude": 10.56583,
         "longitude": 1.72444
     },
     {
-        "name": "Улыбнулся",
+        "name": "Natitingou",
         "latitude": 10.30416,
         "longitude": 1.37962
     },
     {
-        "name": "Тагита",
+        "name": "Tanguieta",
         "latitude": 11.03621,
         "longitude": 1.41757
     },
@@ -35,82 +35,82 @@
         "longitude": 2.35566
     },
     {
-        "name": "Алладич",
+        "name": "Allada",
         "latitude": 6.66547,
         "longitude": 2.15138
     },
     {
-        "name": "Hevié",
+        "name": "H\u00e9vi\u00e9",
         "latitude": 6.41667,
         "longitude": 2.25
     },
     {
-        "name": "Хинви",
+        "name": "Hinvi",
         "latitude": 6.76667,
         "longitude": 2.16667
     },
     {
-        "name": "За рубежом",
+        "name": "Ouidah",
         "latitude": 6.36307,
         "longitude": 2.08506
     },
     {
-        "name": "Бембереке",
+        "name": "Bemb\u00e8r\u00e8k\u00e8",
         "latitude": 10.22827,
         "longitude": 2.66335
     },
     {
-        "name": "Бетари",
+        "name": "B\u00e9t\u00e9rou",
         "latitude": 9.19916,
         "longitude": 2.25855
     },
     {
-        "name": "Никки",
+        "name": "Nikki",
         "latitude": 9.94009,
         "longitude": 3.21075
     },
     {
-        "name": "Параку",
+        "name": "Parakou",
         "latitude": 9.33716,
         "longitude": 2.63031
     },
     {
-        "name": "консультация",
+        "name": "Tchaourou",
         "latitude": 8.88649,
         "longitude": 2.59753
     },
     {
-        "name": "Приходит",
+        "name": "Com\u00e9",
         "latitude": 6.40764,
         "longitude": 1.88198
     },
     {
-        "name": "Дает ему Zougea",
+        "name": "Dassa-Zoum\u00e9",
         "latitude": 7.75,
         "longitude": 2.18333
     },
     {
-        "name": "Софт",
+        "name": "Savalou",
         "latitude": 7.92807,
         "longitude": 1.97558
     },
     {
-        "name": "Абсорбент",
+        "name": "Sav\u00e9",
         "latitude": 8.03424,
         "longitude": 2.4866
     },
     {
-        "name": "Бассила",
+        "name": "Bassila",
         "latitude": 9.00814,
         "longitude": 1.6654
     },
     {
-        "name": "Comumufé Yng Young",
+        "name": "Commune of Djougou",
         "latitude": 9.643,
         "longitude": 1.896
     },
     {
-        "name": "DJE: l",
+        "name": "Djougou",
         "latitude": 9.70853,
         "longitude": 1.66598
     },
@@ -120,62 +120,62 @@
         "longitude": 1.71667
     },
     {
-        "name": "Отрицать",
+        "name": "Dogbo",
         "latitude": 6.79911,
         "longitude": 1.78073
     },
     {
-        "name": "Котон",
+        "name": "Cotonou",
         "latitude": 6.36536,
         "longitude": 2.41833
     },
     {
-        "name": "Муниципалитет Атиме",
+        "name": "Commune of Athieme",
         "latitude": 6.56924,
         "longitude": 1.70259
     },
     {
-        "name": "В домике",
+        "name": "Lokossa",
         "latitude": 6.63869,
         "longitude": 1.71674
     },
     {
-        "name": "Порт",
+        "name": "Porto-Novo",
         "latitude": 6.49646,
         "longitude": 2.60359
     },
     {
-        "name": "Делать",
+        "name": "K\u00e9tou",
         "latitude": 7.36332,
         "longitude": 2.59978
     },
     {
-        "name": "Заповедник",
+        "name": "Pob\u00e9",
         "latitude": 6.98008,
         "longitude": 2.6649
     },
     {
-        "name": "Немного",
+        "name": "Sak\u00e9t\u00e9",
         "latitude": 6.73618,
         "longitude": 2.65866
     },
     {
-        "name": "Абомей",
+        "name": "Abomey",
         "latitude": 7.18286,
         "longitude": 1.99119
     },
     {
-        "name": "Пестициды",
+        "name": "Bohicon",
         "latitude": 7.17826,
         "longitude": 2.0667
     },
     {
-        "name": "Муниципалитет Агбангн",
+        "name": "Commune of Agbangnizoun",
         "latitude": 7.076,
         "longitude": 1.961
     },
     {
-        "name": "где",
+        "name": "Cov\u00e9",
         "latitude": 7.22097,
         "longitude": 2.34017
     }

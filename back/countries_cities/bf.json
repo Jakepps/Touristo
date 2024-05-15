@@ -1,461 +1,461 @@
 [
     {
-        "name": "В мире",
+        "name": "Barani",
         "latitude": 13.1691,
         "longitude": -3.8899
     },
     {
-        "name": "Бомомо",
+        "name": "Boromo",
         "latitude": 11.74542,
         "longitude": -2.93006
     },
     {
-        "name": "Dedougou",
+        "name": "D\u00e9dougou",
         "latitude": 12.46338,
         "longitude": -3.46075
     },
     {
-        "name": "Монахиня",
+        "name": "Nouna",
         "latitude": 12.72939,
         "longitude": -3.86305
     },
     {
-        "name": "Косси провинция",
+        "name": "Province de la Kossi",
         "latitude": 12.91667,
         "longitude": -3.83333
     },
     {
-        "name": "Броанскую провинцию",
+        "name": "Province des Bal\u00e9",
         "latitude": 11.71667,
         "longitude": -3.05
     },
     {
-        "name": "Avince приходит в Банфелс из него, запрещен.",
+        "name": "Province des Banwa",
         "latitude": 12.16667,
         "longitude": -4.16667
     },
     {
-        "name": "МУХУН ПРОВОДА",
+        "name": "Province du Mouhoun",
         "latitude": 12.25,
         "longitude": -3.41667
     },
     {
-        "name": "Ду Налас",
+        "name": "Province du Nayala",
         "latitude": 12.66667,
         "longitude": -3.0
     },
     {
-        "name": "Провинция du Sourou",
+        "name": "Province du Sourou",
         "latitude": 13.25,
         "longitude": -3.0
     },
     {
-        "name": "Промышленность",
+        "name": "Salanso",
         "latitude": 12.17423,
         "longitude": -4.08477
     },
     {
-        "name": "Томма",
+        "name": "Toma",
         "latitude": 12.75844,
         "longitude": -2.89879
     },
     {
-        "name": "Т",
+        "name": "Tougan",
         "latitude": 13.0725,
         "longitude": -3.0694
     },
     {
-        "name": "Банфора",
+        "name": "Banfora",
         "latitude": 10.63333,
         "longitude": -4.76667
     },
     {
-        "name": "Комо провинция",
+        "name": "Province de la Como\u00e9",
         "latitude": 10.33333,
         "longitude": -4.41667
     },
     {
-        "name": "Лераб",
+        "name": "Province de la L\u00e9raba",
         "latitude": 10.66667,
         "longitude": -5.2
     },
     {
-        "name": "Грех",
+        "name": "Sindou",
         "latitude": 10.66667,
         "longitude": -5.16667
     },
     {
-        "name": "Провинция Cadio",
+        "name": "Kadiogo Province",
         "latitude": 12.33333,
         "longitude": -1.5
     },
     {
-        "name": "Молодой",
+        "name": "Ouagadougou",
         "latitude": 12.36566,
         "longitude": -1.53388
     },
     {
-        "name": "Фаоо",
+        "name": "Garango",
         "latitude": 11.8,
         "longitude": -0.55056
     },
     {
-        "name": "Копил",
+        "name": "Koup\u00e9la",
         "latitude": 12.17864,
         "longitude": -0.35103
     },
     {
-        "name": "Уплавкая провинция",
+        "name": "Kouritenga Province",
         "latitude": 12.2,
         "longitude": -0.3
     },
     {
-        "name": "Эластичный",
+        "name": "Ouargaye",
         "latitude": 11.50202,
         "longitude": 0.05886
     },
     {
-        "name": "Провинция Боулу",
+        "name": "Province du Boulgou",
         "latitude": 11.5,
         "longitude": -0.41667
     },
     {
-        "name": "Провинция Coolpelog",
+        "name": "Province du Koulp\u00e9logo",
         "latitude": 11.41667,
         "longitude": 0.16667
     },
     {
-        "name": "После броска",
+        "name": "Tenkodogo",
         "latitude": 11.78,
         "longitude": -0.36972
     },
     {
-        "name": "Вулса",
+        "name": "Boulsa",
         "latitude": 12.66664,
         "longitude": -0.57469
     },
     {
-        "name": "Так",
+        "name": "Kaya",
         "latitude": 13.09167,
         "longitude": -1.08444
     },
     {
-        "name": "Конгос",
+        "name": "Kongoussi",
         "latitude": 13.32583,
         "longitude": -1.53472
     },
     {
-        "name": "Провинция, бам",
+        "name": "Province du Bam",
         "latitude": 13.46667,
         "longitude": -1.58333
     },
     {
-        "name": "Дю Наменга провинция",
+        "name": "Province du Namentenga",
         "latitude": 13.25,
         "longitude": -0.5
     },
     {
-        "name": "Провинция дю Самматанга",
+        "name": "Province du Sanmatenga",
         "latitude": 13.25,
         "longitude": -1.08333
     },
     {
-        "name": "Гульорс",
+        "name": "Goulour\u00e9",
         "latitude": 12.23484,
         "longitude": -1.93394
     },
     {
-        "name": "Горы вверх",
+        "name": "Kokologo",
         "latitude": 12.19392,
         "longitude": -1.87687
     },
     {
-        "name": "Хорошо",
+        "name": "Koudougou",
         "latitude": 12.25263,
         "longitude": -2.36272
     },
     {
-        "name": "Гениально",
+        "name": "L\u00e9o",
         "latitude": 11.10033,
         "longitude": -2.10654
     },
     {
-        "name": "Питмоаг",
+        "name": "Pitmoaga",
         "latitude": 12.24564,
         "longitude": -1.88148
     },
     {
-        "name": "Провинция Сиссили",
+        "name": "Province de la Sissili",
         "latitude": 11.33333,
         "longitude": -2.25
     },
     {
-        "name": "Boulkde Wrunce",
+        "name": "Province du Boulkiemd\u00e9",
         "latitude": 12.33333,
         "longitude": -2.16667
     },
     {
-        "name": "Кровавая провинция",
+        "name": "Province du Sangui\u00e9",
         "latitude": 12.16667,
         "longitude": -2.66667
     },
     {
-        "name": "Du Zoro Punce",
+        "name": "Province du Ziro",
         "latitude": 11.58333,
         "longitude": -1.91667
     },
     {
-        "name": "Баран",
+        "name": "R\u00e9o",
         "latitude": 12.31963,
         "longitude": -2.47094
     },
     {
-        "name": "Сапуа",
+        "name": "Sapouy",
         "latitude": 11.55444,
         "longitude": -1.77361
     },
     {
-        "name": "Базовая провинция",
+        "name": "Bazega Province",
         "latitude": 11.91667,
         "longitude": -1.5
     },
     {
-        "name": "Комбинация",
+        "name": "Kombissiri",
         "latitude": 12.06884,
         "longitude": -1.33644
     },
     {
-        "name": "Масси",
+        "name": "Manga",
         "latitude": 11.66361,
         "longitude": -1.07306
     },
     {
-        "name": "Густого",
+        "name": "Nahouri Province",
         "latitude": 11.25,
         "longitude": -1.25
     },
     {
-        "name": "К",
+        "name": "P\u00f4",
         "latitude": 11.16972,
         "longitude": -1.145
     },
     {
-        "name": "Зундвеого",
+        "name": "Zoundweogo Province",
         "latitude": 11.58333,
         "longitude": -1.0
     },
     {
-        "name": "Боганде",
+        "name": "Bogand\u00e9",
         "latitude": 12.9704,
         "longitude": -0.14953
     },
     {
-        "name": "Диафу",
+        "name": "Diapaga",
         "latitude": 12.07305,
         "longitude": 1.78838
     },
     {
-        "name": "Н'Гура Фей",
+        "name": "Fada N'gourma",
         "latitude": 12.06157,
         "longitude": 0.35843
     },
     {
-        "name": "Волынки",
+        "name": "Gay\u00e9ri",
         "latitude": 12.64824,
         "longitude": 0.49314
     },
     {
-        "name": "Провинция Ньянья",
+        "name": "Gnagna Province",
         "latitude": 12.9188,
         "longitude": 0.0392
     },
     {
-        "name": "На",
+        "name": "Pama",
         "latitude": 11.24972,
         "longitude": 0.7075
     },
     {
-        "name": "Провинция Командджоари",
+        "name": "Province de la Komandjoari",
         "latitude": 12.66667,
         "longitude": 0.66667
     },
     {
-        "name": "Провинция де ла Компьенга",
+        "name": "Province de la Kompienga",
         "latitude": 11.41667,
         "longitude": 0.91667
     },
     {
-        "name": "Провинция Тапоа",
+        "name": "Province de la Tapoa",
         "latitude": 12.0,
         "longitude": 1.75
     },
     {
-        "name": "Провинция Гурма",
+        "name": "Province du Gourma",
         "latitude": 12.08333,
         "longitude": 0.5
     },
     {
-        "name": "Бобо-Диуласо",
+        "name": "Bobo-Dioulasso",
         "latitude": 11.17715,
         "longitude": -4.2979
     },
     {
-        "name": "Собаки",
+        "name": "Hound\u00e9",
         "latitude": 11.5,
         "longitude": -3.51667
     },
     {
-        "name": "Провинция Уэ",
+        "name": "Province du Houet",
         "latitude": 11.33333,
         "longitude": -4.25
     },
     {
-        "name": "Провинция Кенедугу",
+        "name": "Province du K\u00e9n\u00e9dougou",
         "latitude": 11.41667,
         "longitude": -5.0
     },
     {
-        "name": "Провинция Туй",
+        "name": "Province du Tuy",
         "latitude": 11.41667,
         "longitude": -3.41667
     },
     {
-        "name": "Гурси",
+        "name": "Gourcy",
         "latitude": 13.20776,
         "longitude": -2.35893
     },
     {
-        "name": "Вахигуя",
+        "name": "Ouahigouya",
         "latitude": 13.58278,
         "longitude": -2.42158
     },
     {
-        "name": "Провинция Лорум",
+        "name": "Province du Loroum",
         "latitude": 13.91667,
         "longitude": -2.16667
     },
     {
-        "name": "Провинция Пассоре",
+        "name": "Province du Passor\u00e9",
         "latitude": 12.91667,
         "longitude": -2.16667
     },
     {
-        "name": "Провинция дю Ятенга",
+        "name": "Province du Yatenga",
         "latitude": 13.58333,
         "longitude": -2.41667
     },
     {
-        "name": "Провинция дю Зондома",
+        "name": "Province du Zondoma",
         "latitude": 13.18333,
         "longitude": -2.36667
     },
     {
-        "name": "Титао",
+        "name": "Titao",
         "latitude": 13.76667,
         "longitude": -2.06667
     },
     {
-        "name": "Ваш",
+        "name": "Yako",
         "latitude": 12.9591,
         "longitude": -2.26075
     },
     {
-        "name": "Басс",
+        "name": "Bouss\u00e9",
         "latitude": 12.66121,
         "longitude": -1.89515
     },
     {
-        "name": "Оубритенг",
+        "name": "Oubritenga",
         "latitude": 12.66667,
         "longitude": -1.33333
     },
     {
-        "name": "Провинция Ганзургу",
+        "name": "Province du Ganzourgou",
         "latitude": 12.26667,
         "longitude": -0.76667
     },
     {
-        "name": "Провинция Курвеого",
+        "name": "Province du Kourw\u00e9ogo",
         "latitude": 12.58333,
         "longitude": -1.76667
     },
     {
-        "name": "Зиниаре",
+        "name": "Ziniar\u00e9",
         "latitude": 12.58186,
         "longitude": -1.2971
     },
     {
-        "name": "беспокойство",
+        "name": "Zorgo",
         "latitude": 12.24922,
         "longitude": -0.61527
     },
     {
-        "name": "Джибо",
+        "name": "Djibo",
         "latitude": 14.0994,
         "longitude": -1.62554
     },
     {
-        "name": "Даже",
+        "name": "Dori",
         "latitude": 14.0354,
         "longitude": -0.0345
     },
     {
-        "name": "Белые",
+        "name": "Gorom-Gorom",
         "latitude": 14.4429,
         "longitude": -0.23468
     },
     {
-        "name": "Провинция Удалан",
+        "name": "Province de l\u2019Oudalan",
         "latitude": 14.66667,
         "longitude": -0.33333
     },
     {
-        "name": "Провинция Сено",
+        "name": "Province du S\u00e9no",
         "latitude": 13.964,
         "longitude": 0.012
     },
     {
-        "name": "Сумская область",
+        "name": "Province du Soum",
         "latitude": 14.33333,
         "longitude": -1.25
     },
     {
-        "name": "Ягинская провинция",
+        "name": "Province du Yagha",
         "latitude": 13.41667,
         "longitude": 0.58333
     },
     {
-        "name": "Батье",
+        "name": "Bati\u00e9",
         "latitude": 9.88333,
         "longitude": -2.91667
     },
     {
-        "name": "С надеждой",
+        "name": "Dano",
         "latitude": 11.1464,
         "longitude": -3.05784
     },
     {
-        "name": "Дибаг",
+        "name": "Di\u00e9bougou",
         "latitude": 10.96209,
         "longitude": -3.24967
     },
     {
-        "name": "Провинция Бугуриба",
+        "name": "Province de la Bougouriba",
         "latitude": 10.83333,
         "longitude": -3.41667
     },
     {
-        "name": "Провинция Йоба",
+        "name": "Province du Ioba",
         "latitude": 11.08333,
         "longitude": -3.08333
     },
     {
-        "name": "Провинция Оцепенения",
+        "name": "Province du Noumbi\u00e8l",
         "latitude": 9.83333,
         "longitude": -3.0
     },
     {
-        "name": "Провинция Пони",
+        "name": "Province du Poni",
         "latitude": 10.25,
         "longitude": -3.41667
     }

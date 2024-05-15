@@ -1,211 +1,211 @@
 [
     {
-        "name": "Аль-Хасахейса",
+        "name": "Al Hasaheisa",
         "latitude": 14.75264,
         "longitude": 33.29836
     },
     {
-        "name": "Аль-Хилалия",
+        "name": "Al Hil\u0101liyya",
         "latitude": 14.9398,
         "longitude": 33.234
     },
     {
-        "name": "Аль Киремит аль Аракийин",
+        "name": "Al Kiremit al \u2018Arakiyy\u012bn",
         "latitude": 14.3476,
         "longitude": 32.9437
     },
     {
-        "name": "Аль-Манакиль",
+        "name": "Al Man\u0101qil",
         "latitude": 14.2459,
         "longitude": 32.9891
     },
     {
-        "name": "Аль-Масаламия",
+        "name": "Al Masallamiyya",
         "latitude": 14.5748,
         "longitude": 33.3373
     },
     {
-        "name": "Вад Медани",
+        "name": "Wad Medani",
         "latitude": 14.40118,
         "longitude": 33.51989
     },
     {
-        "name": "Вад Рава",
+        "name": "Wad R\u0101wah",
         "latitude": 15.16028,
         "longitude": 33.13972
     },
     {
-        "name": "Аль Хавата",
+        "name": "Al \u1e28aw\u0101tah",
         "latitude": 13.41667,
         "longitude": 34.63333
     },
     {
-        "name": "Аль-Кадариф",
+        "name": "Al Qadarif",
         "latitude": 14.03493,
         "longitude": 35.38344
     },
     {
-        "name": "Закон",
+        "name": "Doka",
         "latitude": 13.51667,
         "longitude": 35.76667
     },
     {
-        "name": "Ад-Дамазин",
+        "name": "Ad-Damazin",
         "latitude": 11.7891,
         "longitude": 34.3592
     },
     {
-        "name": "Или Русер",
+        "name": "Ar Ruseris",
         "latitude": 11.8659,
         "longitude": 34.3869
     },
     {
-        "name": "Курмук",
+        "name": "Kurmuk",
         "latitude": 10.55,
         "longitude": 34.28333
     },
     {
-        "name": "Залингей",
+        "name": "Zalingei",
         "latitude": 12.90918,
         "longitude": 23.47058
     },
     {
-        "name": "Эль Даейн",
+        "name": "El Daein",
         "latitude": 11.46186,
         "longitude": 26.12583
     },
     {
-        "name": "Аромат",
+        "name": "Aroma",
         "latitude": 15.81667,
         "longitude": 36.13333
     },
     {
-        "name": "Кассала",
+        "name": "Kassala",
         "latitude": 15.45099,
         "longitude": 36.39998
     },
     {
-        "name": "Вагар",
+        "name": "Wagar",
         "latitude": 16.1525,
         "longitude": 36.2032
     },
     {
-        "name": "Хартум",
+        "name": "Khartoum",
         "latitude": 15.55177,
         "longitude": 32.53241
     },
     {
-        "name": "Омдурман",
+        "name": "Omdurman",
         "latitude": 15.64453,
         "longitude": 32.47773
     },
     {
-        "name": "Эль-Фашир",
+        "name": "El Fasher",
         "latitude": 13.62793,
         "longitude": 25.34936
     },
     {
-        "name": "Кутум",
+        "name": "Kutum",
         "latitude": 14.2,
         "longitude": 24.66667
     },
     {
-        "name": "Умм Кадада",
+        "name": "Umm Kaddadah",
         "latitude": 13.60169,
         "longitude": 26.68759
     },
     {
-        "name": "Ар Деньги",
+        "name": "Ar Rahad",
         "latitude": 12.71667,
         "longitude": 30.65
     },
     {
-        "name": "Бара",
+        "name": "B\u0101rah",
         "latitude": 13.7,
         "longitude": 30.36667
     },
     {
-        "name": "Эль-Обейд",
+        "name": "El Obeid",
         "latitude": 13.18421,
         "longitude": 30.21669
     },
     {
-        "name": "Умм Руваба",
+        "name": "Umm Ruwaba",
         "latitude": 12.9061,
         "longitude": 31.2158
     },
     {
-        "name": "Ад Дабба",
+        "name": "Ad Dabbah",
         "latitude": 18.05,
         "longitude": 30.95
     },
     {
-        "name": "Арго",
+        "name": "Argo",
         "latitude": 19.51667,
         "longitude": 30.41667
     },
     {
-        "name": "Донгола",
+        "name": "Dongola",
         "latitude": 19.18163,
         "longitude": 30.47689
     },
     {
-        "name": "Карма ан Нузул",
+        "name": "Karmah an Nuzul",
         "latitude": 19.63333,
         "longitude": 30.41667
     },
     {
-        "name": "Курайма",
+        "name": "Kuraymah",
         "latitude": 18.55,
         "longitude": 31.85
     },
     {
-        "name": "Мерове",
+        "name": "Merowe",
         "latitude": 18.47036,
         "longitude": 31.81126
     },
     {
-        "name": "Область",
+        "name": "Gebeit",
         "latitude": 21.06667,
         "longitude": 36.31667
     },
     {
-        "name": "Порт-Судан",
+        "name": "Port Sudan",
         "latitude": 19.61745,
         "longitude": 37.21644
     },
     {
-        "name": "Савакин",
+        "name": "Saw\u0101kin",
         "latitude": 19.1059,
         "longitude": 37.3321
     },
     {
-        "name": "Также",
+        "name": "Tok\u0101r",
         "latitude": 18.4254,
         "longitude": 37.729
     },
     {
-        "name": "Атбара",
+        "name": "Atbara",
         "latitude": 17.70217,
         "longitude": 33.98638
     },
     {
-        "name": "берберский",
+        "name": "Berber",
         "latitude": 18.02158,
         "longitude": 33.98299
     },
     {
-        "name": "Эд Дамер",
+        "name": "Ed Damer",
         "latitude": 17.59898,
         "longitude": 33.97205
     },
     {
-        "name": "Эль Бауга",
+        "name": "El Bauga",
         "latitude": 18.26197,
         "longitude": 33.90812
     },
     {
-        "name": "Эль Матама",
+        "name": "El Matama",
         "latitude": 16.7095,
         "longitude": 33.3565
     },
@@ -215,142 +215,142 @@
         "longitude": 33.4341
     },
     {
-        "name": "Ад Диндар",
+        "name": "Ad Dindar",
         "latitude": 13.2,
         "longitude": 34.16667
     },
     {
-        "name": "Как Суки",
+        "name": "As S\u016bk\u012b",
         "latitude": 13.31667,
         "longitude": 33.88333
     },
     {
-        "name": "Джалкани",
+        "name": "Jalqani",
         "latitude": 12.4486,
         "longitude": 34.2186
     },
     {
-        "name": "Кинан",
+        "name": "Kin\u0101na",
         "latitude": 14.0361,
         "longitude": 33.1712
     },
     {
-        "name": "Майурно",
+        "name": "Maiurno",
         "latitude": 13.41667,
         "longitude": 33.66667
     },
     {
-        "name": "Одинокий",
+        "name": "Singa",
         "latitude": 13.1483,
         "longitude": 33.93117
     },
     {
-        "name": "грешник",
+        "name": "Sinnar",
         "latitude": 13.56907,
         "longitude": 33.56718
     },
     {
-        "name": "Готовый",
+        "name": "Gereida",
         "latitude": 11.27543,
         "longitude": 25.14026
     },
     {
-        "name": "На",
+        "name": "Nyala",
         "latitude": 12.04888,
         "longitude": 24.88069
     },
     {
-        "name": "Абу Джибеха",
+        "name": "Abu Jibeha",
         "latitude": 11.4562,
         "longitude": 31.2285
     },
     {
-        "name": "Аль Фула",
+        "name": "Al F\u016blah",
         "latitude": 11.73292,
         "longitude": 28.35786
     },
     {
-        "name": "Диллинг",
+        "name": "Dilling",
         "latitude": 12.05,
         "longitude": 29.65
     },
     {
-        "name": "Кадугли",
+        "name": "Kadugli",
         "latitude": 11.01111,
         "longitude": 29.71833
     },
     {
-        "name": "Бедный",
+        "name": "Talodi",
         "latitude": 10.63246,
         "longitude": 30.3797
     },
     {
-        "name": "Генейна",
+        "name": "Geneina",
         "latitude": 13.45262,
         "longitude": 22.44725
     },
     {
-        "name": "Абу Забад",
+        "name": "Ab\u016b Zabad",
         "latitude": 12.35,
         "longitude": 29.25
     },
     {
-        "name": "Аль Лагова",
+        "name": "Al Lagowa",
         "latitude": 11.4,
         "longitude": 29.13333
     },
     {
-        "name": "Аль-Миджлад",
+        "name": "Al Mijlad",
         "latitude": 11.03333,
         "longitude": 27.73333
     },
     {
-        "name": "Ан Нухуд",
+        "name": "An Nuh\u016bd",
         "latitude": 12.7,
         "longitude": 28.43333
     },
     {
-        "name": "В Дуи",
+        "name": "Ad Douiem",
         "latitude": 14.0012,
         "longitude": 32.3116
     },
     {
-        "name": "Аль Кава",
+        "name": "Al Kawa",
         "latitude": 13.7463,
         "longitude": 32.4996
     },
     {
-        "name": "Аль-Кицена",
+        "name": "Al Qi\u0163ena",
         "latitude": 14.8648,
         "longitude": 32.3668
     },
     {
-        "name": "Преимущества",
+        "name": "Kosti",
         "latitude": 13.1629,
         "longitude": 32.66347
     },
     {
-        "name": "Марабба",
+        "name": "Marabba",
         "latitude": 12.35,
         "longitude": 32.18333
     },
     {
-        "name": "Рабак",
+        "name": "Rabak",
         "latitude": 13.18087,
         "longitude": 32.73999
     },
     {
-        "name": "в Тандалти",
+        "name": "Tandalt\u012b",
         "latitude": 13.01667,
         "longitude": 31.86667
     },
     {
-        "name": "Ум Джар Аль Гарбия",
+        "name": "Um Jar Al Gharbiyya",
         "latitude": 13.8013,
         "longitude": 32.4078
     },
     {
-        "name": "Вад — это Заки",
+        "name": "Wad az Z\u0101ki",
         "latitude": 14.4619,
         "longitude": 32.2065
     }

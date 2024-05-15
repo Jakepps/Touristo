@@ -55,4 +55,4 @@ def main(directory):
 
 
 if __name__ == "__main__":
-    main('countries_cities_ru')
+    main('cities2ru')

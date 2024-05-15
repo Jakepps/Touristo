@@ -1,391 +1,391 @@
 [
     {
-        "name": "Прикрепил",
+        "name": "Adjuntas",
         "latitude": 18.1634848,
         "longitude": -66.723158
     },
     {
-        "name": "водянистый",
+        "name": "Aguada",
         "latitude": 18.3801579,
         "longitude": -67.188704
     },
     {
-        "name": "Агуадилья",
+        "name": "Aguadilla",
         "latitude": 18.4274454,
         "longitude": -67.1540698
     },
     {
-        "name": "Хорошие воды",
+        "name": "Aguas Buenas",
         "latitude": 18.2568989,
         "longitude": -66.1029442
     },
     {
-        "name": "Айбонито",
+        "name": "Aibonito",
         "latitude": 18.1399594,
         "longitude": -66.2660016
     },
     {
-        "name": "Анаско",
+        "name": "A\u00f1asco",
         "latitude": 18.2854476,
         "longitude": -67.1402935
     },
     {
-        "name": "Аресибо",
+        "name": "Arecibo",
         "latitude": 18.4705137,
         "longitude": -66.7218472
     },
     {
-        "name": "Арройо",
+        "name": "Arroyo",
         "latitude": 17.996422,
         "longitude": -66.0924879
     },
     {
-        "name": "Барселонета",
+        "name": "Barceloneta",
         "latitude": 41.3801061,
         "longitude": 2.1896957
     },
     {
-        "name": "Барранкитас",
+        "name": "Barranquitas",
         "latitude": 18.1866242,
         "longitude": -66.3062802
     },
     {
-        "name": "Баямон",
+        "name": "Bayam\u00f3n",
         "latitude": 18.389396,
         "longitude": -66.1653224
     },
     {
-        "name": "Красный Мыс",
+        "name": "Cabo Rojo",
         "latitude": 18.0866265,
         "longitude": -67.1457347
     },
     {
-        "name": "Кагуас",
+        "name": "Caguas",
         "latitude": 18.2387995,
         "longitude": -66.035249
     },
     {
-        "name": "Ну давай же",
+        "name": "Camuy",
         "latitude": 18.483833,
         "longitude": -66.8448994
     },
     {
-        "name": "Канованас",
+        "name": "Can\u00f3vanas",
         "latitude": 18.3748748,
         "longitude": -65.8997533
     },
     {
-        "name": "Каролина",
+        "name": "Carolina",
         "latitude": 18.3680877,
         "longitude": -66.0424734
     },
     {
-        "name": "Катано",
+        "name": "Cata\u00f1o",
         "latitude": 18.4465355,
         "longitude": -66.1355775
     },
     {
-        "name": "Кейи",
+        "name": "Cayey",
         "latitude": 18.1119051,
         "longitude": -66.166
     },
     {
-        "name": "Сейба",
+        "name": "Ceiba",
         "latitude": 18.2475177,
         "longitude": -65.9084953
     },
     {
-        "name": "Сиалес",
+        "name": "Ciales",
         "latitude": 18.3360622,
         "longitude": -66.4687823
     },
     {
-        "name": "Сидр",
+        "name": "Cidra",
         "latitude": 18.1757914,
         "longitude": -66.1612779
     },
     {
-        "name": "Коамо",
+        "name": "Coamo",
         "latitude": 18.0799616,
         "longitude": -66.3579473
     },
     {
-        "name": "Комерио",
+        "name": "Comer\u00edo",
         "latitude": 18.2192001,
         "longitude": -66.2256022
     },
     {
-        "name": "Коросаль",
+        "name": "Corozal",
         "latitude": 18.4030802,
         "longitude": -88.3967536
     },
     {
-        "name": "Змея",
+        "name": "Culebra",
         "latitude": 18.310394,
         "longitude": -65.3030705
     },
     {
-        "name": "Дорадо",
+        "name": "Dorado",
         "latitude": 43.1480556,
         "longitude": -77.5772222
     },
     {
-        "name": "Фахардо",
+        "name": "Fajardo",
         "latitude": 18.3252148,
         "longitude": -65.6539356
     },
     {
-        "name": "Флорида",
+        "name": "Florida",
         "latitude": 27.6648274,
         "longitude": -81.5157535
     },
     {
-        "name": "Гуаника",
+        "name": "Gu\u00e1nica",
         "latitude": 17.9725145,
         "longitude": -66.9086264
     },
     {
-        "name": "Гуаяма",
+        "name": "Guayama",
         "latitude": 17.9841328,
         "longitude": -66.1137767
     },
     {
-        "name": "Гуаянилья",
+        "name": "Guayanilla",
         "latitude": 18.0191314,
         "longitude": -66.791842
     },
     {
-        "name": "Гуайнабо",
+        "name": "Guaynabo",
         "latitude": 18.3612954,
         "longitude": -66.1102957
     },
     {
-        "name": "Гурабо",
+        "name": "Gurabo",
         "latitude": 18.2543987,
         "longitude": -65.9729421
     },
     {
-        "name": "Атилло",
+        "name": "Hatillo",
         "latitude": 18.4284642,
         "longitude": -66.7875321
     },
     {
-        "name": "Муравейники",
+        "name": "Hormigueros",
         "latitude": 18.1334638,
         "longitude": -67.1128123
     },
     {
-        "name": "Умакао",
+        "name": "Humacao",
         "latitude": 18.1515736,
         "longitude": -65.8248529
     },
     {
-        "name": "Изабела",
+        "name": "Isabela",
         "latitude": 16.9753758,
         "longitude": 121.8107079
     },
     {
-        "name": "Джаюя",
+        "name": "Jayuya",
         "latitude": 18.2185674,
         "longitude": -66.5915617
     },
     {
-        "name": "Хуана Диас",
+        "name": "Juana D\u00edaz",
         "latitude": 18.0534372,
         "longitude": -66.5075079
     },
     {
-        "name": "камыш",
+        "name": "Juncos",
         "latitude": 18.2274558,
         "longitude": -65.920997
     },
     {
-        "name": "Плиты",
+        "name": "Lajas",
         "latitude": 18.049962,
         "longitude": -67.0593449
     },
     {
-        "name": "Дома",
+        "name": "Lares",
         "latitude": 34.0250802,
         "longitude": -118.4594593
     },
     {
-        "name": "Марии",
+        "name": "Las Mar\u00edas",
         "latitude": 35.8382238,
         "longitude": -78.6103566
     },
     {
-        "name": "Камни",
+        "name": "Las Piedras",
         "latitude": 18.1855753,
         "longitude": -65.8736245
     },
     {
-        "name": "Лоиза",
+        "name": "Lo\u00edza",
         "latitude": 18.4329904,
         "longitude": -65.87836
     },
     {
-        "name": "Лукильо",
+        "name": "Luquillo",
         "latitude": 18.3724507,
         "longitude": -65.7165511
     },
     {
-        "name": "морская корова",
+        "name": "Manat\u00ed",
         "latitude": 18.4181215,
         "longitude": -66.5262783
     },
     {
-        "name": "Марикао",
+        "name": "Maricao",
         "latitude": 18.1807902,
         "longitude": -66.9799001
     },
     {
-        "name": "Маунабо",
+        "name": "Maunabo",
         "latitude": 18.0071885,
         "longitude": -65.8993289
     },
     {
-        "name": "Маягуес",
+        "name": "Mayag\u00fcez",
         "latitude": 18.2013452,
         "longitude": -67.1451549
     },
     {
-        "name": "Мока",
+        "name": "Moca",
         "latitude": 18.3967929,
         "longitude": -67.1479035
     },
     {
-        "name": "Моровис",
+        "name": "Morovis",
         "latitude": 18.325785,
         "longitude": -66.4065592
     },
     {
-        "name": "Он рухнул",
+        "name": "Naguabo",
         "latitude": 18.2116247,
         "longitude": -65.7348841
     },
     {
-        "name": "Наранхито",
+        "name": "Naranjito",
         "latitude": 18.3007861,
         "longitude": -66.2448904
     },
     {
-        "name": "Ороковис",
+        "name": "Orocovis",
         "latitude": 18.2269224,
         "longitude": -66.3911686
     },
     {
-        "name": "Бакенбарды",
+        "name": "Patillas",
         "latitude": 18.0037381,
         "longitude": -66.0134059
     },
     {
-        "name": "Пенуэлас",
+        "name": "Pe\u00f1uelas",
         "latitude": 18.0633577,
         "longitude": -66.7273896
     },
     {
-        "name": "Понсе",
+        "name": "Ponce",
         "latitude": 18.0110768,
         "longitude": -66.6140616
     },
     {
-        "name": "Кебрадильяс",
+        "name": "Quebradillas",
         "latitude": 18.473833,
         "longitude": -66.938512
     },
     {
-        "name": "Угол",
+        "name": "Rinc\u00f3n",
         "latitude": 18.3401514,
         "longitude": -67.2499459
     },
     {
-        "name": "Рио-Гранде",
+        "name": "R\u00edo Grande",
         "latitude": 28.81063826,
         "longitude": -101.8353878
     },
     {
-        "name": "большая простыня",
+        "name": "Sabana Grande",
         "latitude": 18.0777392,
         "longitude": -66.9604549
     },
     {
-        "name": "Салинас",
+        "name": "Salinas",
         "latitude": 36.6777372,
         "longitude": -121.6555013
     },
     {
-        "name": "Святой Герман",
+        "name": "San Germ\u00e1n",
         "latitude": 18.0807082,
         "longitude": -67.0411096
     },
     {
-        "name": "Сан -Хухан",
+        "name": "San Juan",
         "latitude": 18.463203,
         "longitude": -66.1147571
     },
     {
-        "name": "Святой Лаврентий",
+        "name": "San Lorenzo",
         "latitude": 18.1886912,
         "longitude": -65.9765862
     },
     {
-        "name": "Святой Себастьян",
+        "name": "San Sebasti\u00e1n",
         "latitude": 43.318334,
         "longitude": -1.9812313
     },
     {
-        "name": "Святая Елизавета",
+        "name": "Santa Isabel",
         "latitude": 17.9660775,
         "longitude": -66.404892
     },
     {
-        "name": "Тоа Альта",
+        "name": "Toa Alta",
         "latitude": 18.3882823,
         "longitude": -66.2482237
     },
     {
-        "name": "магазин Баха",
+        "name": "Toa Baja",
         "latitude": 18.4444709,
         "longitude": -66.2543293
     },
     {
-        "name": "Трухильо-Альто",
+        "name": "Trujillo Alto",
         "latitude": 18.3546719,
         "longitude": -66.0073876
     },
     {
-        "name": "Утуадо",
+        "name": "Utuado",
         "latitude": 18.2655095,
         "longitude": -66.7004519
     },
     {
-        "name": "Вега Альта",
+        "name": "Vega Alta",
         "latitude": 18.4121703,
         "longitude": -66.3312805
     },
     {
-        "name": "Вега Баха",
+        "name": "Vega Baja",
         "latitude": 18.4461459,
         "longitude": -66.4041967
     },
     {
-        "name": "Вьекес",
+        "name": "Vieques",
         "latitude": 18.1262854,
         "longitude": -65.4400985
     },
     {
-        "name": "Вильяльба",
+        "name": "Villalba",
         "latitude": 18.1217554,
         "longitude": -66.4985787
     },
     {
-        "name": "Ябукоа",
+        "name": "Yabucoa",
         "latitude": 18.0505201,
         "longitude": -65.8793288
     },
     {
-        "name": "Яуко",
+        "name": "Yauco",
         "latitude": 18.034964,
         "longitude": -66.8498983
     }

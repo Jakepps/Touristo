@@ -1,371 +1,371 @@
 [
     {
-        "name": "Альфтанес",
+        "name": "\u00c1lftanes",
         "latitude": 64.1,
         "longitude": -22.01667
     },
     {
-        "name": "Город-сад",
+        "name": "Gar\u00f0ab\u00e6r",
         "latitude": 64.08865,
         "longitude": -21.92298
     },
     {
-        "name": "Хафнарфьордюр",
+        "name": "Hafnarfj\u00f6r\u00f0ur",
         "latitude": 64.0671,
         "longitude": -21.93774
     },
     {
-        "name": "Избирательный округ",
+        "name": "Kj\u00f3sarhreppur",
         "latitude": 64.30644,
         "longitude": -21.49919
     },
     {
-        "name": "Копавогур",
+        "name": "K\u00f3pavogur",
         "latitude": 64.11234,
         "longitude": -21.91298
     },
     {
-        "name": "Мосфеллсбаер",
+        "name": "Mosfellsbaer",
         "latitude": 64.15,
         "longitude": -21.65
     },
     {
-        "name": "Мосфеллсбар",
+        "name": "Mosfellsb\u00e6r",
         "latitude": 64.16667,
         "longitude": -21.7
     },
     {
-        "name": "Рейкьявик",
+        "name": "Reykjav\u00edk",
         "latitude": 64.13548,
         "longitude": -21.89541
     },
     {
-        "name": "Сельтьярнарнес",
+        "name": "Seltjarnarnes",
         "latitude": 64.15309,
         "longitude": -21.99499
     },
     {
-        "name": "Боргарфьордур район",
+        "name": "Borgarfjar\u00f0arhreppur",
         "latitude": 65.43401,
         "longitude": -13.82933
     },
     {
-        "name": "Брейддалский район",
+        "name": "Brei\u00f0dalshreppur",
         "latitude": 64.83333,
         "longitude": -14.25
     },
     {
-        "name": "Эйильсстадир",
+        "name": "Egilssta\u00f0ir",
         "latitude": 65.26687,
         "longitude": -14.39485
     },
     {
-        "name": "Эскифьордур",
+        "name": "Eskifj\u00f6r\u00f0ur",
         "latitude": 65.07306,
         "longitude": -14.01525
     },
     {
-        "name": "Фьярдарбиггд",
+        "name": "Fjar\u00f0abygg\u00f0",
         "latitude": 65.08333,
         "longitude": -14.0
     },
     {
-        "name": "Фьотсдальский район",
+        "name": "Flj\u00f3tsdalsh\u00e9ra\u00f0",
         "latitude": 65.2502,
         "longitude": -15.37211
     },
     {
-        "name": "Фьотдальский район",
+        "name": "Flj\u00f3tsdalshreppur",
         "latitude": 64.85275,
         "longitude": -15.2568
     },
     {
-        "name": "Порт",
+        "name": "H\u00f6fn",
         "latitude": 64.25388,
         "longitude": -15.21212
     },
     {
-        "name": "Нескаупстадур",
+        "name": "Neskaupsta\u00f0ur",
         "latitude": 65.14819,
         "longitude": -13.68368
     },
     {
-        "name": "Рейдарфьордур",
+        "name": "Rey\u00f0arfj\u00f6r\u00f0ur",
         "latitude": 65.03164,
         "longitude": -14.21832
     },
     {
-        "name": "Акюрейри",
+        "name": "Akureyri",
         "latitude": 65.68353,
         "longitude": -18.0878
     },
     {
-        "name": "Дальвик",
+        "name": "Dalv\u00edk",
         "latitude": 65.97018,
         "longitude": -18.52861
     },
     {
-        "name": "Дальвикурбиггд",
+        "name": "Dalv\u00edkurbygg\u00f0",
         "latitude": 65.87318,
         "longitude": -18.60844
     },
     {
-        "name": "Деревня Эйяфьордюр",
+        "name": "Eyjafjar\u00f0arsveit",
         "latitude": 65.33333,
         "longitude": -18.16667
     },
     {
-        "name": "Горное поселение",
+        "name": "Fjallabygg\u00f0",
         "latitude": 66.05962,
         "longitude": -18.7822
     },
     {
-        "name": "Готубакский район",
+        "name": "Gr\u00fdtubakkahreppur",
         "latitude": 65.98333,
         "longitude": -18.11667
     },
     {
-        "name": "Хоргарсвайт",
+        "name": "H\u00f6rg\u00e1rsveit",
         "latitude": 65.64828,
         "longitude": -18.49599
     },
     {
-        "name": "Хусавик",
+        "name": "H\u00fasav\u00edk",
         "latitude": 66.04148,
         "longitude": -17.33834
     },
     {
-        "name": "Ланганесбигго",
+        "name": "Langanesbygg\u00f0",
         "latitude": 66.05186,
         "longitude": -15.18969
     },
     {
-        "name": "бассейны",
+        "name": "Laugar",
         "latitude": 65.72159,
         "longitude": -17.37352
     },
     {
-        "name": "Сиглуфьордур",
+        "name": "Siglufj\u00f6r\u00f0ur",
         "latitude": 66.15198,
         "longitude": -18.90815
     },
     {
-        "name": "Скутустайдский район",
+        "name": "Sk\u00fatusta\u00f0ahreppur",
         "latitude": 65.17177,
         "longitude": -16.7789
     },
     {
-        "name": "Приморский район Шпицбергена",
+        "name": "Svalbar\u00f0sstrandarhreppur",
         "latitude": 65.74138,
         "longitude": -18.03513
     },
     {
-        "name": "Тьернешрепп",
+        "name": "Tj\u00f6rneshreppur",
         "latitude": 66.11667,
         "longitude": -17.2
     },
     {
-        "name": "Тингейярсвейт",
+        "name": "\u00deingeyjarsveit",
         "latitude": 65.37229,
         "longitude": -17.59927
     },
     {
-        "name": "Полевой район",
+        "name": "Akrahreppur",
         "latitude": 65.35505,
         "longitude": -18.79572
     },
     {
-        "name": "Хунаинг Вестра",
+        "name": "H\u00fana\u00feing Vestra",
         "latitude": 65.25,
         "longitude": -20.91667
     },
     {
-        "name": "Крючок для ушей овцы",
+        "name": "Sau\u00f0\u00e1rkr\u00f3kur",
         "latitude": 65.74611,
         "longitude": -19.63944
     },
     {
-        "name": "Поселение на полуострове",
+        "name": "Skagabygg\u00f0",
         "latitude": 65.95,
         "longitude": -20.25
     },
     {
-        "name": "Муниципалитет Скагафьордур",
+        "name": "Sveitarf\u00e9lagi\u00f0 Skagafj\u00f6r\u00f0ur",
         "latitude": 65.50018,
         "longitude": -19.44566
     },
     {
-        "name": "Сад",
+        "name": "Gar\u00f0ur",
         "latitude": 64.06558,
         "longitude": -22.64656
     },
     {
-        "name": "Гриндавик",
+        "name": "Grindav\u00edk",
         "latitude": 63.83849,
         "longitude": -22.43931
     },
     {
-        "name": "Кеблавик",
+        "name": "Keflav\u00edk",
         "latitude": 64.00492,
         "longitude": -22.56242
     },
     {
-        "name": "Рейкьянесбар",
+        "name": "Reykjanesb\u00e6r",
         "latitude": 63.99813,
         "longitude": -22.56111
     },
     {
-        "name": "Песок сделанный",
+        "name": "Sandger\u00f0i",
         "latitude": 64.03762,
         "longitude": -22.70799
     },
     {
-        "name": "Вогар",
+        "name": "Vogar",
         "latitude": 63.9816,
         "longitude": -22.38473
     },
     {
-        "name": "Асахский район",
+        "name": "\u00c1sahreppur",
         "latitude": 63.87589,
         "longitude": -20.59484
     },
     {
-        "name": "Поселок Голубой лес",
+        "name": "Bl\u00e1sk\u00f3gabygg\u00f0",
         "latitude": 64.41667,
         "longitude": -20.33333
     },
     {
-        "name": "Заливной район",
+        "name": "Fl\u00f3ahreppur",
         "latitude": 63.89569,
         "longitude": -20.80159
     },
     {
-        "name": "Гримснес и Графнингшрепп",
+        "name": "Gr\u00edmsnes- og Grafningshreppur",
         "latitude": 64.08533,
         "longitude": -20.9671
     },
     {
-        "name": "Хрунаманинский район",
+        "name": "Hrunamannahreppur",
         "latitude": 64.40944,
         "longitude": -19.72237
     },
     {
-        "name": "Горячие источники",
+        "name": "Hverager\u00f0i",
         "latitude": 64.00039,
         "longitude": -21.18602
     },
     {
-        "name": "Мюрдальский район",
+        "name": "M\u00fdrdalshreppur",
         "latitude": 63.5,
         "longitude": -19.0
     },
     {
-        "name": "Сельфосс",
+        "name": "Selfoss",
         "latitude": 63.93311,
         "longitude": -20.99712
     },
     {
-        "name": "Разрывы вала",
+        "name": "Skaft\u00e1rhreppur",
         "latitude": 63.95948,
         "longitude": -18.14491
     },
     {
-        "name": "Скейда и Гнупверьяхрепп",
+        "name": "Skei\u00f0a- og Gn\u00fapverjahreppur",
         "latitude": 64.34738,
         "longitude": -19.37757
     },
     {
-        "name": "Вестманней город",
+        "name": "Vestmannaeyjab\u00e6r",
         "latitude": 63.43877,
         "longitude": -20.269
     },
     {
-        "name": "Острова Вестман",
+        "name": "Vestmannaeyjar",
         "latitude": 63.44273,
         "longitude": -20.27339
     },
     {
-        "name": "Порт Торлак",
+        "name": "\u00deorl\u00e1ksh\u00f6fn",
         "latitude": 63.85591,
         "longitude": -21.38337
     },
     {
-        "name": "Акранес",
+        "name": "Akranes",
         "latitude": 64.32179,
         "longitude": -22.0749
     },
     {
-        "name": "Городское поселение",
+        "name": "Borgarbygg\u00f0",
         "latitude": 64.71446,
         "longitude": -21.23788
     },
     {
-        "name": "Боргарнес",
+        "name": "Borgarnes",
         "latitude": 64.53834,
         "longitude": -21.92064
     },
     {
-        "name": "Далабигд",
+        "name": "Dalabygg\u00f0",
         "latitude": 65.10121,
         "longitude": -21.72871
     },
     {
-        "name": "Районы Эйя и Миклахольт",
+        "name": "Eyja- og Miklaholtshreppur",
         "latitude": 64.85846,
         "longitude": -22.54557
     },
     {
-        "name": "Хельгафеллсвейт",
+        "name": "Helgafellssveit",
         "latitude": 64.99069,
         "longitude": -22.78948
     },
     {
-        "name": "Команда Хвалфьордур",
+        "name": "Hvalfjar\u00f0arsveit",
         "latitude": 64.44265,
         "longitude": -21.61086
     },
     {
-        "name": "Олафсвик",
+        "name": "\u00d3lafsv\u00edk",
         "latitude": 64.89429,
         "longitude": -23.70918
     },
     {
-        "name": "Скоррадальский район",
+        "name": "Skorradalshreppur",
         "latitude": 64.51667,
         "longitude": -21.5
     },
     {
-        "name": "Снайфедльсбер",
+        "name": "Sn\u00e6fellsb\u00e6r",
         "latitude": 64.86667,
         "longitude": -23.5
     },
     {
-        "name": "Стиккисхольмур",
+        "name": "Stykkish\u00f3lmur",
         "latitude": 65.07537,
         "longitude": -22.72977
     },
     {
-        "name": "город Исафьордюр",
+        "name": "\u00cdsafjar\u00f0arb\u00e6r",
         "latitude": 66.07586,
         "longitude": -23.12794
     },
     {
-        "name": "Исафьордюр",
+        "name": "\u00cdsafj\u00f6r\u00f0ur",
         "latitude": 66.07475,
         "longitude": -23.13498
     },
     {
-        "name": "Район коптильни",
+        "name": "Reykh\u00f3lahreppur",
         "latitude": 65.6099,
         "longitude": -22.33324
     },
     {
-        "name": "Пляжный поселок",
+        "name": "Strandabygg\u00f0",
         "latitude": 65.77455,
         "longitude": -21.95725
     },
     {
-        "name": "Талькнафьордур район",
+        "name": "T\u00e1lknafjar\u00f0arhreppur",
         "latitude": 65.61667,
         "longitude": -23.88333
     }

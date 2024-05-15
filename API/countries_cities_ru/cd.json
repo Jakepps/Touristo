@@ -1,346 +1,346 @@
 [
     {
-        "name": "Садиться",
+        "name": "Aketi",
         "latitude": 2.73877,
         "longitude": 23.78326
     },
     {
-        "name": "Колено",
+        "name": "Bondo",
         "latitude": 3.81461,
         "longitude": 23.68665
     },
     {
-        "name": "Слепой",
+        "name": "Buta",
         "latitude": 2.78582,
         "longitude": 24.72997
     },
     {
-        "name": "Близнецы",
+        "name": "Gemena",
         "latitude": 3.25651,
         "longitude": 19.77234
     },
     {
-        "name": "Лисала",
+        "name": "Lisala",
         "latitude": 2.15127,
         "longitude": 21.51672
     },
     {
-        "name": "Ты веришь",
+        "name": "Lukolela",
         "latitude": -1.06046,
         "longitude": 17.1821
     },
     {
-        "name": "Мбандака",
+        "name": "Mbandaka",
         "latitude": 0.04865,
         "longitude": 18.26034
     },
     {
-        "name": "Верхняя Катанга",
+        "name": "Haut Katanga",
         "latitude": -10.46044,
         "longitude": 27.94322
     },
     {
-        "name": "Камбово",
+        "name": "Kambove",
         "latitude": -10.87352,
         "longitude": 26.59746
     },
     {
-        "name": "Кипуши",
+        "name": "Kipushi",
         "latitude": -11.76097,
         "longitude": 27.25135
     },
     {
-        "name": "Нравится",
+        "name": "Likasi",
         "latitude": -10.98303,
         "longitude": 26.7384
     },
     {
-        "name": "Лубумбаши",
+        "name": "Lubumbashi",
         "latitude": -11.66089,
         "longitude": 27.47938
     },
     {
-        "name": "С шумами",
+        "name": "Bukama",
         "latitude": -9.20443,
         "longitude": 25.85475
     },
     {
-        "name": "камин",
+        "name": "Kamina",
         "latitude": -8.73508,
         "longitude": 24.99798
     },
     {
-        "name": "Математика",
+        "name": "Isiro",
         "latitude": 2.77391,
         "longitude": 27.61603
     },
     {
-        "name": "Обычный",
+        "name": "Wamba",
         "latitude": 2.14838,
         "longitude": 27.99466
     },
     {
-        "name": "Рассеивать",
+        "name": "Watsa",
         "latitude": 3.03716,
         "longitude": 29.53551
     },
     {
-        "name": "Буниа",
+        "name": "Bunia",
         "latitude": 1.55941,
         "longitude": 30.25224
     },
     {
-        "name": "Илебо",
+        "name": "Ilebo",
         "latitude": -4.33111,
         "longitude": 20.58638
     },
     {
-        "name": "Пожалуйста",
+        "name": "Luebo",
         "latitude": -5.35218,
         "longitude": 21.42192
     },
     {
-        "name": "Хранитель",
+        "name": "Mweka",
         "latitude": -4.85187,
         "longitude": 21.5595
     },
     {
-        "name": "Чикапа",
+        "name": "Tshikapa",
         "latitude": -6.41621,
         "longitude": 20.79995
     },
     {
-        "name": "Гандаиф",
+        "name": "Gandajika",
         "latitude": -6.74504,
         "longitude": 23.95328
     },
     {
-        "name": "Кабинда",
+        "name": "Kabinda",
         "latitude": -6.13791,
         "longitude": 24.48179
     },
     {
-        "name": "Мбуджи-Мать",
+        "name": "Mbuji-Mayi",
         "latitude": -6.13603,
         "longitude": 23.58979
     },
     {
-        "name": "Киншаса",
+        "name": "Kinshasa",
         "latitude": -4.32758,
         "longitude": 15.31357
     },
     {
-        "name": "Месяц",
+        "name": "Masina",
         "latitude": -4.38361,
         "longitude": 15.39139
     },
     {
-        "name": "Бома",
+        "name": "Boma",
         "latitude": -5.85098,
         "longitude": 13.05364
     },
     {
-        "name": "Касангулу",
+        "name": "Kasangulu",
         "latitude": -4.5833,
         "longitude": 15.16554
     },
     {
-        "name": "Матади",
+        "name": "Matadi",
         "latitude": -5.83861,
         "longitude": 13.46306
     },
     {
-        "name": "Подлинный",
+        "name": "Mbanza-Ngungu",
         "latitude": -5.25837,
         "longitude": 14.85838
     },
     {
-        "name": "Моанда",
+        "name": "Moanda",
         "latitude": -5.92753,
         "longitude": 12.37148
     },
     {
-        "name": "Рассказывать",
+        "name": "Tshela",
         "latitude": -4.99707,
         "longitude": 12.9484
     },
     {
-        "name": "Касонго-Лунда",
+        "name": "Kasongo-Lunda",
         "latitude": -6.47833,
         "longitude": 16.81735
     },
     {
-        "name": "Закрыто",
+        "name": "Bandundu",
         "latitude": -3.31687,
         "longitude": 17.38063
     },
     {
-        "name": "Белизна",
+        "name": "Bulungu",
         "latitude": -4.54437,
         "longitude": 18.60364
     },
     {
-        "name": "Киквит",
+        "name": "Kikwit",
         "latitude": -5.04098,
         "longitude": 18.81619
     },
     {
-        "name": "Представитель",
+        "name": "Mangai",
         "latitude": -4.02328,
         "longitude": 19.53385
     },
     {
-        "name": "Лубао",
+        "name": "Lubao",
         "latitude": -5.38771,
         "longitude": 25.74885
     },
     {
-        "name": "Мвена-Дито",
+        "name": "Mwene-Ditu",
         "latitude": -7.00906,
         "longitude": 23.45278
     },
     {
-        "name": "Вот и все",
+        "name": "Bolobo",
         "latitude": -2.158,
         "longitude": 16.23249
     },
     {
-        "name": "никто",
+        "name": "Inongo",
         "latitude": -1.9275,
         "longitude": 18.2881
     },
     {
-        "name": "Мышь",
+        "name": "Mushie",
         "latitude": -3.01728,
         "longitude": 16.92238
     },
     {
-        "name": "Ниоки",
+        "name": "Nioki",
         "latitude": -2.72037,
         "longitude": 17.69001
     },
     {
-        "name": "Цвета",
+        "name": "Kampene",
         "latitude": -3.59678,
         "longitude": 26.66715
     },
     {
-        "name": "Касонго",
+        "name": "Kasongo",
         "latitude": -4.42741,
         "longitude": 26.66656
     },
     {
-        "name": "Разжечь",
+        "name": "Kindu",
         "latitude": -2.94373,
         "longitude": 25.92237
     },
     {
-        "name": "Мяч",
+        "name": "Bumba",
         "latitude": 2.18771,
         "longitude": 22.46827
     },
     {
-        "name": "Бенни",
+        "name": "Beni",
         "latitude": 0.49113,
         "longitude": 29.47306
     },
     {
-        "name": "Бутембо",
+        "name": "Butembo",
         "latitude": 0.14164,
         "longitude": 29.29117
     },
     {
-        "name": "гомо",
+        "name": "Goma",
         "latitude": -1.67409,
         "longitude": 29.22845
     },
     {
-        "name": "От до",
+        "name": "Sake",
         "latitude": -1.57386,
         "longitude": 29.04339
     },
     {
-        "name": "Свободно",
+        "name": "Bosobolo",
         "latitude": 4.1898,
         "longitude": 19.8833
     },
     {
-        "name": "Лучше",
+        "name": "Businga",
         "latitude": 3.33863,
         "longitude": 20.88577
     },
     {
-        "name": "Гбадолы",
+        "name": "Gbadolite",
         "latitude": 4.279,
         "longitude": 21.00284
     },
     {
-        "name": "Баржа",
+        "name": "Lodja",
         "latitude": -3.52105,
         "longitude": 23.6005
     },
     {
-        "name": "Молитва",
+        "name": "Lusambo",
         "latitude": -4.97503,
         "longitude": 23.44391
     },
     {
-        "name": "Кролик",
+        "name": "Bukavu",
         "latitude": -2.49077,
         "longitude": 28.84281
     },
     {
-        "name": "Кабаре",
+        "name": "Kabare",
         "latitude": -2.49682,
         "longitude": 28.79081
     },
     {
-        "name": "У тебя кровотечение",
+        "name": "Uvira",
         "latitude": -3.39534,
         "longitude": 29.13779
     },
     {
-        "name": "В Бонгадан",
+        "name": "Bongandanga",
         "latitude": 1.50695,
         "longitude": 21.0726
     },
     {
-        "name": "Либенге",
+        "name": "Libenge",
         "latitude": 3.65332,
         "longitude": 18.63566
     },
     {
-        "name": "знать",
+        "name": "Kabalo",
         "latitude": -6.05255,
         "longitude": 26.9143
     },
     {
-        "name": "Калемие",
+        "name": "Kalemie",
         "latitude": -5.94749,
         "longitude": 29.19471
     },
     {
-        "name": "Конголо",
+        "name": "Kongolo",
         "latitude": -5.38532,
         "longitude": 27.00029
     },
     {
-        "name": "леса",
+        "name": "Basoko",
         "latitude": 1.23909,
         "longitude": 23.61598
     },
     {
-        "name": "Кисангани",
+        "name": "Kisangani",
         "latitude": 0.51528,
         "longitude": 25.19099
     },
     {
-        "name": "Он сказал мне",
+        "name": "Yangambi",
         "latitude": 0.76755,
         "longitude": 24.43973
     },
     {
-        "name": "Размещение",
+        "name": "Boende",
         "latitude": -0.28163,
         "longitude": 20.88053
     }

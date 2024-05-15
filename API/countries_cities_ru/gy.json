@@ -1,31 +1,31 @@
 [
     {
-        "name": "Мабарума",
+        "name": "Mabaruma",
         "latitude": 8.2,
         "longitude": -59.78333
     },
     {
-        "name": "Бартика",
+        "name": "Bartica",
         "latitude": 6.40799,
         "longitude": -58.62192
     },
     {
-        "name": "Джорджтаун",
+        "name": "Georgetown",
         "latitude": 6.80448,
         "longitude": -58.15527
     },
     {
-        "name": "Деревня Махаика",
+        "name": "Mahaica Village",
         "latitude": 6.68405,
         "longitude": -57.92181
     },
     {
-        "name": "Новый Амстердам",
+        "name": "New Amsterdam",
         "latitude": 6.24793,
         "longitude": -57.5171
     },
     {
-        "name": "Скелдон",
+        "name": "Skeldon",
         "latitude": 5.88333,
         "longitude": -57.13333
     },
@@ -35,37 +35,37 @@
         "longitude": -58.42941
     },
     {
-        "name": "Врид-ан-Хуп",
+        "name": "Vreed-en-Hoop",
         "latitude": 6.80927,
         "longitude": -58.19798
     },
     {
-        "name": "Деревня Махаикони",
+        "name": "Mahaicony Village",
         "latitude": 6.57633,
         "longitude": -57.80486
     },
     {
-        "name": "Розиньоль",
+        "name": "Rosignol",
         "latitude": 6.27095,
         "longitude": -57.53697
     },
     {
-        "name": "Анна Регина",
+        "name": "Anna Regina",
         "latitude": 7.26439,
         "longitude": -58.50769
     },
     {
-        "name": "Махди",
+        "name": "Mahdia",
         "latitude": 5.26667,
         "longitude": -59.15
     },
     {
-        "name": "Линден",
+        "name": "Linden",
         "latitude": 6.00809,
         "longitude": -58.30714
     },
     {
-        "name": "Позволь им",
+        "name": "Lethem",
         "latitude": 3.38333,
         "longitude": -59.8
     }
