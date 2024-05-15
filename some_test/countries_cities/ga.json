@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Cocobeach",
+        "latitude": 1.00019,
+        "longitude": 9.58229
+    },
+    {
+        "name": "Libreville",
+        "latitude": 0.39241,
+        "longitude": 9.45356
+    },
+    {
+        "name": "Ntoum",
+        "latitude": 0.39051,
+        "longitude": 9.76096
+    },
+    {
+        "name": "Franceville",
+        "latitude": -1.63333,
+        "longitude": 13.58357
+    },
+    {
+        "name": "L\u00e9koni",
+        "latitude": -1.58431,
+        "longitude": 14.25905
+    },
+    {
+        "name": "Moanda",
+        "latitude": -1.56652,
+        "longitude": 13.1987
+    },
+    {
+        "name": "Mounana",
+        "latitude": -1.4085,
+        "longitude": 13.15857
+    },
+    {
+        "name": "Okondja",
+        "latitude": -0.65487,
+        "longitude": 13.67533
+    },
+    {
+        "name": "Lambar\u00e9n\u00e9",
+        "latitude": -0.7001,
+        "longitude": 10.24055
+    },
+    {
+        "name": "Ndjol\u00e9",
+        "latitude": -0.17827,
+        "longitude": 10.76488
+    },
+    {
+        "name": "Fougamou",
+        "latitude": -1.21544,
+        "longitude": 10.58378
+    },
+    {
+        "name": "Mbigou",
+        "latitude": -1.90046,
+        "longitude": 11.906
+    },
+    {
+        "name": "Mimongo",
+        "latitude": -1.61952,
+        "longitude": 11.60675
+    },
+    {
+        "name": "Mouila",
+        "latitude": -1.86846,
+        "longitude": 11.05594
+    },
+    {
+        "name": "Ndend\u00e9",
+        "latitude": -2.40077,
+        "longitude": 11.35813
+    },
+    {
+        "name": "Mayumba",
+        "latitude": -3.43198,
+        "longitude": 10.6554
+    },
+    {
+        "name": "Tchibanga",
+        "latitude": -2.93323,
+        "longitude": 10.98178
+    },
+    {
+        "name": "Boou\u00e9",
+        "latitude": -0.09207,
+        "longitude": 11.93846
+    },
+    {
+        "name": "Makokou",
+        "latitude": 0.57381,
+        "longitude": 12.86419
+    },
+    {
+        "name": "Zadie",
+        "latitude": 0.92582,
+        "longitude": 13.90813
+    },
+    {
+        "name": "Koulamoutou",
+        "latitude": -1.13667,
+        "longitude": 12.46399
+    },
+    {
+        "name": "Lastoursville",
+        "latitude": -0.81742,
+        "longitude": 12.70818
+    },
+    {
+        "name": "Gamba",
+        "latitude": -2.65,
+        "longitude": 10.0
+    },
+    {
+        "name": "Ombou\u00e9",
+        "latitude": -1.57464,
+        "longitude": 9.26184
+    },
+    {
+        "name": "Port-Gentil",
+        "latitude": -0.71933,
+        "longitude": 8.78151
+    },
+    {
+        "name": "Bitam",
+        "latitude": 2.07597,
+        "longitude": 11.50065
+    },
+    {
+        "name": "Mitzic",
+        "latitude": 0.78205,
+        "longitude": 11.54904
+    },
+    {
+        "name": "Oyem",
+        "latitude": 1.5995,
+        "longitude": 11.57933
+    }
+]

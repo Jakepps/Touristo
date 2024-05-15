@@ -48,6 +48,7 @@ dependencies:
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
   flutter_test:
     sdk: flutter
 
@@ -60,6 +61,10 @@ dev_dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
+flutter_icons:
+  android: "launcher_icons"
+  iso: true
+  image_path: "assets/icons/icon_app2.jpg"
 
 # The following section is specific to Flutter packages.
 flutter:
@@ -86,6 +91,8 @@ flutter:
     - assets/files/country_codes.txt
     - assets/files/language_codes.txt
     - assets/files/border_codes.txt
+
+    - assets/icons/
   
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

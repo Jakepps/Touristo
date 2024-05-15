@@ -1,0 +1,532 @@
+[
+    {
+        "name": "Mongkol Borei",
+        "latitude": 13.45531,
+        "longitude": 102.99186
+    },
+    {
+        "name": "Paoy Paet",
+        "latitude": 13.65805,
+        "longitude": 102.56365
+    },
+    {
+        "name": "Sisophon",
+        "latitude": 13.58588,
+        "longitude": 102.97369
+    },
+    {
+        "name": "Sr\u014fk Malai",
+        "latitude": 13.49902,
+        "longitude": 102.60164
+    },
+    {
+        "name": "Sr\u014fk Svay Ch\u00e9k",
+        "latitude": 13.81305,
+        "longitude": 102.95269
+    },
+    {
+        "name": "Battambang",
+        "latitude": 13.10271,
+        "longitude": 103.19822
+    },
+    {
+        "name": "Sr\u014fk \u00c2k Phn\u016dm",
+        "latitude": 13.23621,
+        "longitude": 103.45894
+    },
+    {
+        "name": "Sr\u014fk Ban\u0103n",
+        "latitude": 12.97067,
+        "longitude": 103.04742
+    },
+    {
+        "name": "Sr\u014fk B\u00e2v\u012dl",
+        "latitude": 13.23601,
+        "longitude": 102.8291
+    },
+    {
+        "name": "Sr\u014fk Rotanak Mondol",
+        "latitude": 12.84048,
+        "longitude": 102.887
+    },
+    {
+        "name": "Cheung Prey",
+        "latitude": 12.1,
+        "longitude": 105.07
+    },
+    {
+        "name": "Kampong Cham",
+        "latitude": 11.98,
+        "longitude": 105.445
+    },
+    {
+        "name": "Sr\u014fk Bath\u00e9ay",
+        "latitude": 12.02986,
+        "longitude": 104.93171
+    },
+    {
+        "name": "Baribour",
+        "latitude": 12.43,
+        "longitude": 104.47
+    },
+    {
+        "name": "Kampong Chhnang",
+        "latitude": 12.26,
+        "longitude": 104.67
+    },
+    {
+        "name": "Rolea B'ier",
+        "latitude": 12.21,
+        "longitude": 104.61
+    },
+    {
+        "name": "Sr\u014fk Chol Kiri",
+        "latitude": 12.15861,
+        "longitude": 104.82287
+    },
+    {
+        "name": "Sr\u014fk Sameakki Mean Chey",
+        "latitude": 11.86788,
+        "longitude": 104.55549
+    },
+    {
+        "name": "Kampong Speu",
+        "latitude": 11.45332,
+        "longitude": 104.52085
+    },
+    {
+        "name": "Kr\u014fng Chbar Mon",
+        "latitude": 11.47091,
+        "longitude": 104.50655
+    },
+    {
+        "name": "Sr\u014fk Basedth",
+        "latitude": 11.18432,
+        "longitude": 104.53584
+    },
+    {
+        "name": "Sr\u014fk K\u00f4ng P\u012dsei",
+        "latitude": 11.31648,
+        "longitude": 104.65992
+    },
+    {
+        "name": "Sr\u014fk \u014ed\u014fngk",
+        "latitude": 11.66845,
+        "longitude": 104.61224
+    },
+    {
+        "name": "Angkor Chey",
+        "latitude": 10.76667,
+        "longitude": 104.65
+    },
+    {
+        "name": "Banteay Meas",
+        "latitude": 10.61667,
+        "longitude": 104.53333
+    },
+    {
+        "name": "Chhouk District",
+        "latitude": 10.81667,
+        "longitude": 104.45
+    },
+    {
+        "name": "Kampong Bay",
+        "latitude": 10.59554,
+        "longitude": 104.17136
+    },
+    {
+        "name": "Kampong Tranch",
+        "latitude": 10.55,
+        "longitude": 104.46667
+    },
+    {
+        "name": "Kampot",
+        "latitude": 10.61041,
+        "longitude": 104.18145
+    },
+    {
+        "name": "Sr\u014fk Ch\u016dm Kiri",
+        "latitude": 11.0054,
+        "longitude": 104.44207
+    },
+    {
+        "name": "Sr\u014fk D\u00e2ngt\u00f3ng",
+        "latitude": 10.70733,
+        "longitude": 104.42229
+    },
+    {
+        "name": "Srok Tuek Chhou",
+        "latitude": 10.74557,
+        "longitude": 104.11013
+    },
+    {
+        "name": "Kr\u014fng Ta Khmau",
+        "latitude": 11.45474,
+        "longitude": 104.9435
+    },
+    {
+        "name": "Sr\u014fk Khs\u0103ch K\u00e2ndal",
+        "latitude": 11.69224,
+        "longitude": 105.03732
+    },
+    {
+        "name": "Ta Khmau",
+        "latitude": 11.48333,
+        "longitude": 104.95
+    },
+    {
+        "name": "Krong Kep",
+        "latitude": 10.48291,
+        "longitude": 104.31672
+    },
+    {
+        "name": "Sr\u014fk D\u00e2mn\u0103k Ch\u00e2ng\u2019aeur",
+        "latitude": 10.53394,
+        "longitude": 104.34855
+    },
+    {
+        "name": "Koh Kong",
+        "latitude": 11.61531,
+        "longitude": 102.9838
+    },
+    {
+        "name": "Smach Mean Chey",
+        "latitude": 11.54665,
+        "longitude": 103.03569
+    },
+    {
+        "name": "Srae Ambel",
+        "latitude": 11.10968,
+        "longitude": 103.76226
+    },
+    {
+        "name": "Sr\u014fk Batum Sak\u00f4r",
+        "latitude": 11.11465,
+        "longitude": 103.38993
+    },
+    {
+        "name": "Sr\u014fk M\u00f4nd\u00f4l Seima",
+        "latitude": 11.81292,
+        "longitude": 103.01159
+    },
+    {
+        "name": "Kracheh",
+        "latitude": 12.57,
+        "longitude": 106.2
+    },
+    {
+        "name": "Krati\u00e9",
+        "latitude": 12.48811,
+        "longitude": 106.01879
+    },
+    {
+        "name": "Snuol",
+        "latitude": 12.19373,
+        "longitude": 106.47361
+    },
+    {
+        "name": "Kr\u014fng S\u00eanm\u00f4no\u016dr\u00f4m",
+        "latitude": 12.5048,
+        "longitude": 107.15525
+    },
+    {
+        "name": "Sen Monorom",
+        "latitude": 12.45583,
+        "longitude": 107.18811
+    },
+    {
+        "name": "Sr\u014fk Kaev Seima",
+        "latitude": 12.41722,
+        "longitude": 106.77025
+    },
+    {
+        "name": "Sr\u014fk Pech Chreada",
+        "latitude": 12.7278,
+        "longitude": 107.0948
+    },
+    {
+        "name": "Samraong",
+        "latitude": 14.18175,
+        "longitude": 103.51761
+    },
+    {
+        "name": "Sr\u014fk B\u00e2nt\u00e9ay \u00c2mp\u012dl",
+        "latitude": 14.1859,
+        "longitude": 103.25925
+    },
+    {
+        "name": "Sr\u014fk S\u00e2mra\u00f4ng",
+        "latitude": 14.25039,
+        "longitude": 103.62739
+    },
+    {
+        "name": "Sr\u014fk Tr\u00e2pe\u0103ng Prasat",
+        "latitude": 14.25809,
+        "longitude": 104.30835
+    },
+    {
+        "name": "Khan Sala Krau",
+        "latitude": 12.97984,
+        "longitude": 102.63957
+    },
+    {
+        "name": "Pailin",
+        "latitude": 12.84895,
+        "longitude": 102.60928
+    },
+    {
+        "name": "Khan 7 Makara",
+        "latitude": 11.56254,
+        "longitude": 104.91405
+    },
+    {
+        "name": "Khan Ch\u00e2mkar Mon",
+        "latitude": 11.5439,
+        "longitude": 104.92175
+    },
+    {
+        "name": "Khan D\u00e2ngka\u00f4",
+        "latitude": 11.52457,
+        "longitude": 104.83944
+    },
+    {
+        "name": "Khan Du\u014fn P\u00e9nh",
+        "latitude": 11.57561,
+        "longitude": 104.92025
+    },
+    {
+        "name": "Khan M\u00e9an Chey",
+        "latitude": 11.51976,
+        "longitude": 104.95467
+    },
+    {
+        "name": "Khan Russey Keo",
+        "latitude": 11.61946,
+        "longitude": 104.9099
+    },
+    {
+        "name": "Khan Saen Sokh",
+        "latitude": 11.61289,
+        "longitude": 104.86078
+    },
+    {
+        "name": "Phnom Penh",
+        "latitude": 11.56245,
+        "longitude": 104.91601
+    },
+    {
+        "name": "Sangkom Thmei",
+        "latitude": 13.47395,
+        "longitude": 104.77051
+    },
+    {
+        "name": "Sr\u014fk Ch\u2019\u00eah S\u00ean",
+        "latitude": 13.58215,
+        "longitude": 105.34533
+    },
+    {
+        "name": "Sr\u014fk Chh\u00eab",
+        "latitude": 13.91077,
+        "longitude": 105.4618
+    },
+    {
+        "name": "Sr\u014fk Kul\u00e9n",
+        "latitude": 13.78597,
+        "longitude": 104.61052
+    },
+    {
+        "name": "Sr\u014fk R\u00f4vi\u0115ng",
+        "latitude": 13.35105,
+        "longitude": 105.09956
+    },
+    {
+        "name": "Sr\u014fk Tb\u00eang M\u00e9anchey",
+        "latitude": 13.78622,
+        "longitude": 105.01586
+    },
+    {
+        "name": "Tbeng Meanchey",
+        "latitude": 13.80731,
+        "longitude": 104.98046
+    },
+    {
+        "name": "Prey Veng",
+        "latitude": 11.48682,
+        "longitude": 105.32533
+    },
+    {
+        "name": "Sr\u014fk K\u00e2mp\u00f3ng L\u00e9av",
+        "latitude": 11.5097,
+        "longitude": 105.3011
+    },
+    {
+        "name": "Sr\u014fk M\u00e9sang",
+        "latitude": 11.35528,
+        "longitude": 105.57235
+    },
+    {
+        "name": "Sr\u014fk Pre\u0103h Sd\u00e9ch",
+        "latitude": 11.0869,
+        "longitude": 105.37497
+    },
+    {
+        "name": "Bakan",
+        "latitude": 12.78,
+        "longitude": 103.79
+    },
+    {
+        "name": "Krakor",
+        "latitude": 12.48,
+        "longitude": 104.19
+    },
+    {
+        "name": "Pursat",
+        "latitude": 12.53878,
+        "longitude": 103.9192
+    },
+    {
+        "name": "Sampov Meas",
+        "latitude": 12.47055,
+        "longitude": 103.91817
+    },
+    {
+        "name": "Sr\u014fk K\u00e2ndi\u0115ng",
+        "latitude": 12.71245,
+        "longitude": 104.02592
+    },
+    {
+        "name": "Sr\u014fk V\u00e9al V\u00eang",
+        "latitude": 12.2423,
+        "longitude": 103.13444
+    },
+    {
+        "name": "Banlung",
+        "latitude": 13.73939,
+        "longitude": 106.98727
+    },
+    {
+        "name": "Lumphat",
+        "latitude": 13.49146,
+        "longitude": 106.98022
+    },
+    {
+        "name": "Sr\u014fk \u00c2ndong M\u00e9as",
+        "latitude": 13.93352,
+        "longitude": 107.31155
+    },
+    {
+        "name": "Sr\u014fk B\u00e2 K\u00eav",
+        "latitude": 13.70749,
+        "longitude": 107.19442
+    },
+    {
+        "name": "Sr\u014fk Ban L\u016dng",
+        "latitude": 13.682,
+        "longitude": 107.03025
+    },
+    {
+        "name": "Sr\u014fk Koun Mom",
+        "latitude": 13.51772,
+        "longitude": 106.75142
+    },
+    {
+        "name": "Sr\u014fk Ou Chum",
+        "latitude": 13.84069,
+        "longitude": 107.03469
+    },
+    {
+        "name": "Sr\u014fk Ou Ya Dav",
+        "latitude": 13.54328,
+        "longitude": 107.44636
+    },
+    {
+        "name": "Sr\u014fk Ta V\u00eang",
+        "latitude": 14.29192,
+        "longitude": 107.24031
+    },
+    {
+        "name": "Siem Reap",
+        "latitude": 13.36179,
+        "longitude": 103.86056
+    },
+    {
+        "name": "Sr\u014fk \u00c2ngk\u00f4r Thum",
+        "latitude": 13.57881,
+        "longitude": 103.85645
+    },
+    {
+        "name": "Sr\u014fk Prasat Bakong",
+        "latitude": 13.21031,
+        "longitude": 103.97689
+    },
+    {
+        "name": "Svay Leu",
+        "latitude": 13.69168,
+        "longitude": 104.27446
+    },
+    {
+        "name": "Varin",
+        "latitude": 13.83574,
+        "longitude": 103.89968
+    },
+    {
+        "name": "Sihanoukville",
+        "latitude": 10.60932,
+        "longitude": 103.52958
+    },
+    {
+        "name": "Srok Stueng Hav",
+        "latitude": 10.85249,
+        "longitude": 103.74016
+    },
+    {
+        "name": "Sr\u014fk Sr\u00eas\u00e9n",
+        "latitude": 13.6053,
+        "longitude": 106.35819
+    },
+    {
+        "name": "Stueng Traeng",
+        "latitude": 13.65,
+        "longitude": 106.07
+    },
+    {
+        "name": "Stung Treng",
+        "latitude": 13.52586,
+        "longitude": 105.9683
+    },
+    {
+        "name": "Sr\u014fk Svay Chr\u016dm",
+        "latitude": 11.1116,
+        "longitude": 105.69814
+    },
+    {
+        "name": "Svay Rieng",
+        "latitude": 11.08785,
+        "longitude": 105.79935
+    },
+    {
+        "name": "Kr\u014fng Doun Kaev",
+        "latitude": 10.99459,
+        "longitude": 104.7955
+    },
+    {
+        "name": "Phum\u012d V\u00e9al Sr\u00ea",
+        "latitude": 10.98081,
+        "longitude": 104.77828
+    },
+    {
+        "name": "Sr\u014fk \u00c2ngk\u00f4r Borei",
+        "latitude": 10.99291,
+        "longitude": 104.95177
+    },
+    {
+        "name": "Sr\u014fk Borei Cholsar",
+        "latitude": 10.81414,
+        "longitude": 104.98994
+    },
+    {
+        "name": "Takeo",
+        "latitude": 10.99081,
+        "longitude": 104.78498
+    }
+]

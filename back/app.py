@@ -243,6 +243,16 @@ def remove_from_favorites(user_id, country_code):
     else:
         return jsonify({"error": "Favorite not found"}), 404
 
+@app.route('/api/arrivals/<country_id>', methods=['GET'])
+def get_arrivals_data(country_id):
+    file_path = f'foreign_data/json/arrivals/{country_id}.json'
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            arrivals_data = json.load(file)
+            return jsonify(arrivals_data), 200
+    else:
+        return jsonify({'error': f'Arrival data for the country with the ID {country_id} was not found'}), 404
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()

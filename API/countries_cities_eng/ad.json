@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Andorra la Vella",
+        "latitude": 42.50779,
+        "longitude": 1.52109
+    },
+    {
+        "name": "Canillo",
+        "latitude": 42.5676,
+        "longitude": 1.59756
+    },
+    {
+        "name": "El Tarter",
+        "latitude": 42.57952,
+        "longitude": 1.65362
+    },
+    {
+        "name": "Encamp",
+        "latitude": 42.53474,
+        "longitude": 1.58014
+    },
+    {
+        "name": "Pas de la Casa",
+        "latitude": 42.54277,
+        "longitude": 1.73361
+    },
+    {
+        "name": "les Escaldes",
+        "latitude": 42.50729,
+        "longitude": 1.53414
+    },
+    {
+        "name": "Arinsal",
+        "latitude": 42.57205,
+        "longitude": 1.48453
+    },
+    {
+        "name": "la Massana",
+        "latitude": 42.54499,
+        "longitude": 1.51483
+    },
+    {
+        "name": "Ordino",
+        "latitude": 42.55623,
+        "longitude": 1.53319
+    },
+    {
+        "name": "Sant Juli\u00e0 de L\u00f2ria",
+        "latitude": 42.46372,
+        "longitude": 1.49129
+    }
+]

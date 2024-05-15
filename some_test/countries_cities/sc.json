@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Anse Boileau",
+        "latitude": -4.71667,
+        "longitude": 55.48333
+    },
+    {
+        "name": "Anse Royale",
+        "latitude": -4.73333,
+        "longitude": 55.51667
+    },
+    {
+        "name": "Beau Vallon",
+        "latitude": -4.62091,
+        "longitude": 55.43015
+    },
+    {
+        "name": "Bel Ombre",
+        "latitude": -4.61667,
+        "longitude": 55.41667
+    },
+    {
+        "name": "Cascade",
+        "latitude": -4.66667,
+        "longitude": 55.5
+    },
+    {
+        "name": "Victoria",
+        "latitude": -4.62001,
+        "longitude": 55.45501
+    },
+    {
+        "name": "Port Glaud",
+        "latitude": -4.66667,
+        "longitude": 55.41667
+    },
+    {
+        "name": "Takamaka",
+        "latitude": -4.76667,
+        "longitude": 55.5
+    }
+]

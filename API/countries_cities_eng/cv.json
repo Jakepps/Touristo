@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Sal Rei",
+        "latitude": 16.17611,
+        "longitude": -22.91722
+    },
+    {
+        "name": "Nova Sintra",
+        "latitude": 14.87139,
+        "longitude": -24.69556
+    },
+    {
+        "name": "Vila do Maio",
+        "latitude": 15.13823,
+        "longitude": -23.21158
+    },
+    {
+        "name": "Igreja",
+        "latitude": 15.03389,
+        "longitude": -24.325
+    },
+    {
+        "name": "Pombas",
+        "latitude": 17.15026,
+        "longitude": -25.02007
+    },
+    {
+        "name": "Porto Novo",
+        "latitude": 17.01969,
+        "longitude": -25.06471
+    },
+    {
+        "name": "Praia",
+        "latitude": 14.93152,
+        "longitude": -23.51254
+    },
+    {
+        "name": "Ribeira Brava",
+        "latitude": 16.61583,
+        "longitude": -24.29833
+    },
+    {
+        "name": "Ponta do Sol",
+        "latitude": 17.20171,
+        "longitude": -25.09217
+    },
+    {
+        "name": "Ribeira Grande",
+        "latitude": 17.1825,
+        "longitude": -25.065
+    },
+    {
+        "name": "Cidade Velha",
+        "latitude": 14.91531,
+        "longitude": -23.60527
+    },
+    {
+        "name": "Espargos",
+        "latitude": 16.75524,
+        "longitude": -22.9446
+    },
+    {
+        "name": "Santa Maria",
+        "latitude": 16.59796,
+        "longitude": -22.90509
+    },
+    {
+        "name": "Assomada",
+        "latitude": 15.1,
+        "longitude": -23.68333
+    },
+    {
+        "name": "Cova Figueira",
+        "latitude": 14.89054,
+        "longitude": -24.29343
+    },
+    {
+        "name": "Pedra Badejo",
+        "latitude": 15.1375,
+        "longitude": -23.53083
+    },
+    {
+        "name": "Santa Cruz",
+        "latitude": 15.13333,
+        "longitude": -23.56667
+    },
+    {
+        "name": "S\u00e3o Domingos",
+        "latitude": 15.02438,
+        "longitude": -23.5625
+    },
+    {
+        "name": "S\u00e3o Filipe",
+        "latitude": 14.8961,
+        "longitude": -24.49556
+    },
+    {
+        "name": "Jo\u00e3o Teves",
+        "latitude": 15.06694,
+        "longitude": -23.58917
+    },
+    {
+        "name": "Calheta",
+        "latitude": 15.18613,
+        "longitude": -23.59228
+    },
+    {
+        "name": "Mindelo",
+        "latitude": 16.89014,
+        "longitude": -24.98042
+    },
+    {
+        "name": "Tarrafal",
+        "latitude": 15.27881,
+        "longitude": -23.75192
+    },
+    {
+        "name": "Tarrafal de S\u00e3o Nicolau",
+        "latitude": 16.56622,
+        "longitude": -24.35793
+    }
+]

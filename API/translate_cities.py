@@ -2,12 +2,15 @@ import json
 import os
 import time
 from translatepy import Translator
-from concurrent.futures import ProcessPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 import threading
 
 translator = Translator()
 cache = {}
+
+def is_cyrillic(text):
+    return all('А' <= char <= 'я' or char == ' ' for char in text)
 
 def translate_city(city):
     if city in cache:
@@ -24,7 +27,8 @@ def process_file(file_path):
 
         for city_info in data:
             if 'name' in city_info and isinstance(city_info['name'], str):
-                city_info['name'] = translate_city(city_info['name'])
+                if not is_cyrillic(city_info['name']):
+                    city_info['name'] = translate_city(city_info['name'])
 
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
@@ -37,7 +41,7 @@ def main(directory):
 
     files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.json')]
 
-    with ProcessPoolExecutor() as executor:
+    with ThreadPoolExecutor(max_workers=16) as executor:
         futures = {executor.submit(process_file, file): file for file in files}
         for future in tqdm(as_completed(futures), total=len(futures)):
             try:
@@ -51,4 +55,4 @@ def main(directory):
 
 
 if __name__ == "__main__":
-    main('countries_cities')
+    main('countries_cities_ru')
