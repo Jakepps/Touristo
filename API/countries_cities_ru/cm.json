@@ -1,0 +1,697 @@
+[
+    {
+        "name": "Банким",
+        "latitude": 6.08303,
+        "longitude": 11.4905
+    },
+    {
+        "name": "ванная комната",
+        "latitude": 6.75,
+        "longitude": 11.81667
+    },
+    {
+        "name": "Оболочка",
+        "latitude": 7.05,
+        "longitude": 14.43333
+    },
+    {
+        "name": "Джохонг",
+        "latitude": 6.83333,
+        "longitude": 14.7
+    },
+    {
+        "name": "Конча",
+        "latitude": 7.96667,
+        "longitude": 12.23333
+    },
+    {
+        "name": "Май-Ванная",
+        "latitude": 6.58138,
+        "longitude": 11.73522
+    },
+    {
+        "name": "Владелец",
+        "latitude": 6.51667,
+        "longitude": 14.3
+    },
+    {
+        "name": "Нгаундере",
+        "latitude": 7.32765,
+        "longitude": 13.58472
+    },
+    {
+        "name": "финский",
+        "latitude": 6.45843,
+        "longitude": 11.43299
+    },
+    {
+        "name": "Тибетцы",
+        "latitude": 6.46504,
+        "longitude": 12.62843
+    },
+    {
+        "name": "мельче",
+        "latitude": 7.36667,
+        "longitude": 12.65
+    },
+    {
+        "name": "Вина",
+        "latitude": 7.16365,
+        "longitude": 13.72711
+    },
+    {
+        "name": "Обучение",
+        "latitude": 3.5,
+        "longitude": 11.33333
+    },
+    {
+        "name": "Послушай меня",
+        "latitude": 3.76667,
+        "longitude": 12.25
+    },
+    {
+        "name": "Бафия",
+        "latitude": 4.75,
+        "longitude": 11.23333
+    },
+    {
+        "name": "Эзека",
+        "latitude": 3.65,
+        "longitude": 10.76667
+    },
+    {
+        "name": "Быть",
+        "latitude": 4.1,
+        "longitude": 11.9
+    },
+    {
+        "name": "Эводула",
+        "latitude": 4.08333,
+        "longitude": 11.2
+    },
+    {
+        "name": "Мбалмайо",
+        "latitude": 3.51667,
+        "longitude": 11.5
+    },
+    {
+        "name": "Мбам-э-Инубу",
+        "latitude": 4.73754,
+        "longitude": 10.96972
+    },
+    {
+        "name": "Мбанджок",
+        "latitude": 4.45,
+        "longitude": 11.9
+    },
+    {
+        "name": "Это верно",
+        "latitude": 3.78333,
+        "longitude": 11.38333
+    },
+    {
+        "name": "MAI-E-AKONO",
+        "latitude": 3.58706,
+        "longitude": 11.36089
+    },
+    {
+        "name": "Фанди",
+        "latitude": 3.8667,
+        "longitude": 11.5167
+    },
+    {
+        "name": "Запрос",
+        "latitude": 4.58333,
+        "longitude": 12.8
+    },
+    {
+        "name": "моя рука",
+        "latitude": 4.68333,
+        "longitude": 12.36667
+    },
+    {
+        "name": "Я с тобой",
+        "latitude": 4.76667,
+        "longitude": 10.83333
+    },
+    {
+        "name": "Нгомедзап",
+        "latitude": 3.25,
+        "longitude": 11.2
+    },
+    {
+        "name": "Дом",
+        "latitude": 4.95,
+        "longitude": 11.38333
+    },
+    {
+        "name": "Послушание",
+        "latitude": 4.51667,
+        "longitude": 12.03333
+    },
+    {
+        "name": "Нтуи",
+        "latitude": 4.45,
+        "longitude": 11.63333
+    },
+    {
+        "name": "Очевидный",
+        "latitude": 4.16667,
+        "longitude": 11.53333
+    },
+    {
+        "name": "Другой",
+        "latitude": 3.98333,
+        "longitude": 11.6
+    },
+    {
+        "name": "Ты работаешь",
+        "latitude": 4.01667,
+        "longitude": 11.38333
+    },
+    {
+        "name": "ожирение",
+        "latitude": 4.6,
+        "longitude": 11.25
+    },
+    {
+        "name": "Погода",
+        "latitude": 4.36667,
+        "longitude": 11.45
+    },
+    {
+        "name": "Яунде",
+        "latitude": 3.86667,
+        "longitude": 11.51667
+    },
+    {
+        "name": "Йоко",
+        "latitude": 5.53333,
+        "longitude": 12.31667
+    },
+    {
+        "name": "Абонг Мбанг",
+        "latitude": 3.98333,
+        "longitude": 13.18333
+    },
+    {
+        "name": "Батуры",
+        "latitude": 4.43333,
+        "longitude": 14.36667
+    },
+    {
+        "name": "Беллабо",
+        "latitude": 4.93333,
+        "longitude": 13.3
+    },
+    {
+        "name": "Берту",
+        "latitude": 4.57728,
+        "longitude": 13.68459
+    },
+    {
+        "name": "Лучше Ойя",
+        "latitude": 5.6,
+        "longitude": 14.08333
+    },
+    {
+        "name": "Димако",
+        "latitude": 4.38333,
+        "longitude": 13.56667
+    },
+    {
+        "name": "Слово",
+        "latitude": 4.23333,
+        "longitude": 13.45
+    },
+    {
+        "name": "Гаруа, вот и все",
+        "latitude": 5.88333,
+        "longitude": 14.55
+    },
+    {
+        "name": "Мбанг",
+        "latitude": 4.58333,
+        "longitude": 13.33333
+    },
+    {
+        "name": "Презирай меня",
+        "latitude": 4.04065,
+        "longitude": 14.92501
+    },
+    {
+        "name": "Йокадума",
+        "latitude": 3.51667,
+        "longitude": 15.05
+    },
+    {
+        "name": "Бог",
+        "latitude": 10.7336,
+        "longitude": 14.60928
+    },
+    {
+        "name": "Каеле",
+        "latitude": 10.10917,
+        "longitude": 14.45083
+    },
+    {
+        "name": "Куссери",
+        "latitude": 12.07689,
+        "longitude": 15.03063
+    },
+    {
+        "name": "Кожа",
+        "latitude": 10.86846,
+        "longitude": 13.88205
+    },
+    {
+        "name": "Макарий",
+        "latitude": 12.57535,
+        "longitude": 14.45483
+    },
+    {
+        "name": "Маруа",
+        "latitude": 10.59095,
+        "longitude": 14.31593
+    },
+    {
+        "name": "Майонез",
+        "latitude": 11.10682,
+        "longitude": 14.2056
+    },
+    {
+        "name": "MAY-TG",
+        "latitude": 10.58221,
+        "longitude": 13.79351
+    },
+    {
+        "name": "Не возражаешь, если",
+        "latitude": 10.39757,
+        "longitude": 14.43626
+    },
+    {
+        "name": "Старый",
+        "latitude": 10.74244,
+        "longitude": 13.80227
+    },
+    {
+        "name": "Должен",
+        "latitude": 11.04611,
+        "longitude": 14.14011
+    },
+    {
+        "name": "Ягуар",
+        "latitude": 10.34107,
+        "longitude": 15.23288
+    },
+    {
+        "name": "Бонаберри",
+        "latitude": 4.07142,
+        "longitude": 9.68177
+    },
+    {
+        "name": "Дианг",
+        "latitude": 4.25,
+        "longitude": 10.01667
+    },
+    {
+        "name": "Бомбардировка",
+        "latitude": 4.1787,
+        "longitude": 9.6561
+    },
+    {
+        "name": "Дизанж",
+        "latitude": 3.76667,
+        "longitude": 9.98333
+    },
+    {
+        "name": "Дуала",
+        "latitude": 4.04827,
+        "longitude": 9.70428
+    },
+    {
+        "name": "Эдеа",
+        "latitude": 3.8,
+        "longitude": 10.13333
+    },
+    {
+        "name": "Люм",
+        "latitude": 4.7182,
+        "longitude": 9.7351
+    },
+    {
+        "name": "Бывает",
+        "latitude": 4.8428,
+        "longitude": 9.8217
+    },
+    {
+        "name": "Челюсть",
+        "latitude": 4.5016,
+        "longitude": 9.5671
+    },
+    {
+        "name": "смотреть",
+        "latitude": 5.12181,
+        "longitude": 9.96143
+    },
+    {
+        "name": "Муанко",
+        "latitude": 3.63972,
+        "longitude": 9.77694
+    },
+    {
+        "name": "Ндом",
+        "latitude": 4.4978,
+        "longitude": 9.5628
+    },
+    {
+        "name": "козел",
+        "latitude": 4.23343,
+        "longitude": 10.61532
+    },
+    {
+        "name": "Это ванная комната",
+        "latitude": 4.9547,
+        "longitude": 9.9404
+    },
+    {
+        "name": "оно висит",
+        "latitude": 4.63911,
+        "longitude": 9.67987
+    },
+    {
+        "name": "Ябасси",
+        "latitude": 4.45697,
+        "longitude": 9.96822
+    },
+    {
+        "name": "Департамент Фаро",
+        "latitude": 8.25014,
+        "longitude": 12.87829
+    },
+    {
+        "name": "Гару",
+        "latitude": 9.30143,
+        "longitude": 13.39771
+    },
+    {
+        "name": "Вести",
+        "latitude": 9.9333,
+        "longitude": 13.94671
+    },
+    {
+        "name": "Лагдо",
+        "latitude": 9.05828,
+        "longitude": 13.66605
+    },
+    {
+        "name": "Мейо-любовь",
+        "latitude": 9.96577,
+        "longitude": 13.72738
+    },
+    {
+        "name": "Мэй-Король",
+        "latitude": 8.1263,
+        "longitude": 14.61456
+    },
+    {
+        "name": "Подожди",
+        "latitude": 9.3839,
+        "longitude": 13.50231
+    },
+    {
+        "name": "Полли",
+        "latitude": 8.4756,
+        "longitude": 13.24097
+    },
+    {
+        "name": "Рэй Бубба",
+        "latitude": 8.6724,
+        "longitude": 14.1786
+    },
+    {
+        "name": "Шоллир",
+        "latitude": 8.4022,
+        "longitude": 14.1698
+    },
+    {
+        "name": "Твой отец",
+        "latitude": 6.11667,
+        "longitude": 10.25
+    },
+    {
+        "name": "Баллы",
+        "latitude": 5.88737,
+        "longitude": 10.01176
+    },
+    {
+        "name": "В Баменде",
+        "latitude": 5.9597,
+        "longitude": 10.14597
+    },
+    {
+        "name": "Батибо",
+        "latitude": 5.8358,
+        "longitude": 9.8553
+    },
+    {
+        "name": "Белый",
+        "latitude": 6.13333,
+        "longitude": 10.25
+    },
+    {
+        "name": "Богатый",
+        "latitude": 6.36365,
+        "longitude": 10.3554
+    },
+    {
+        "name": "Фундонг",
+        "latitude": 6.25,
+        "longitude": 10.26667
+    },
+    {
+        "name": "Джакири",
+        "latitude": 6.1,
+        "longitude": 10.65
+    },
+    {
+        "name": "Кумбо",
+        "latitude": 6.2,
+        "longitude": 10.66667
+    },
+    {
+        "name": "Мбенгве",
+        "latitude": 6.01667,
+        "longitude": 10.0
+    },
+    {
+        "name": "Мать-Бафумен",
+        "latitude": 6.33333,
+        "longitude": 10.23333
+    },
+    {
+        "name": "Я",
+        "latitude": 6.23333,
+        "longitude": 10.28333
+    },
+    {
+        "name": "Вуум",
+        "latitude": 6.38333,
+        "longitude": 10.06667
+    },
+    {
+        "name": "Как II",
+        "latitude": 2.78333,
+        "longitude": 10.56667
+    },
+    {
+        "name": "Амб",
+        "latitude": 2.38333,
+        "longitude": 11.28333
+    },
+    {
+        "name": "Вперед, продолжать",
+        "latitude": 2.9,
+        "longitude": 11.15
+    },
+    {
+        "name": "Криби",
+        "latitude": 2.93725,
+        "longitude": 9.90765
+    },
+    {
+        "name": "Лолодорф",
+        "latitude": 3.23333,
+        "longitude": 10.73333
+    },
+    {
+        "name": "Мванге",
+        "latitude": 2.96667,
+        "longitude": 11.51667
+    },
+    {
+        "name": "Мвила",
+        "latitude": 2.79796,
+        "longitude": 11.39434
+    },
+    {
+        "name": "Сангмелима",
+        "latitude": 2.93333,
+        "longitude": 11.98333
+    },
+    {
+        "name": "Бамуссо",
+        "latitude": 4.4591,
+        "longitude": 8.9027
+    },
+    {
+        "name": "В беконе",
+        "latitude": 4.6819,
+        "longitude": 9.3214
+    },
+    {
+        "name": "Буа",
+        "latitude": 4.15342,
+        "longitude": 9.24231
+    },
+    {
+        "name": "Отдел мусора",
+        "latitude": 4.16667,
+        "longitude": 9.16667
+    },
+    {
+        "name": "Фонтан",
+        "latitude": 5.4685,
+        "longitude": 9.8818
+    },
+    {
+        "name": "Дома",
+        "latitude": 4.6363,
+        "longitude": 9.4469
+    },
+    {
+        "name": "Лебийский",
+        "latitude": 5.56043,
+        "longitude": 9.92316
+    },
+    {
+        "name": "Лимбо",
+        "latitude": 4.02356,
+        "longitude": 9.20607
+    },
+    {
+        "name": "Свинка",
+        "latitude": 5.75132,
+        "longitude": 9.3137
+    },
+    {
+        "name": "Мундемба",
+        "latitude": 4.9479,
+        "longitude": 8.8724
+    },
+    {
+        "name": "Купите его",
+        "latitude": 4.0913,
+        "longitude": 9.3144
+    },
+    {
+        "name": "Муюк",
+        "latitude": 4.2898,
+        "longitude": 9.4103
+    },
+    {
+        "name": "торопиться",
+        "latitude": 5.3299,
+        "longitude": 9.4185
+    },
+    {
+        "name": "Сторона",
+        "latitude": 4.075,
+        "longitude": 9.36005
+    },
+    {
+        "name": "Бафанг",
+        "latitude": 5.15705,
+        "longitude": 10.1771
+    },
+    {
+        "name": "я бафусс",
+        "latitude": 5.47775,
+        "longitude": 10.41759
+    },
+    {
+        "name": "Баменью",
+        "latitude": 5.38988,
+        "longitude": 10.33014
+    },
+    {
+        "name": "Мне",
+        "latitude": 5.14655,
+        "longitude": 10.27545
+    },
+    {
+        "name": "группа",
+        "latitude": 5.37568,
+        "longitude": 10.41326
+    },
+    {
+        "name": "Банганг",
+        "latitude": 5.14079,
+        "longitude": 10.52535
+    },
+    {
+        "name": "Бансоа",
+        "latitude": 5.44836,
+        "longitude": 10.31355
+    },
+    {
+        "name": "базука",
+        "latitude": 5.06001,
+        "longitude": 10.46751
+    },
+    {
+        "name": "Дшанг",
+        "latitude": 5.44397,
+        "longitude": 10.05332
+    },
+    {
+        "name": "в Фуме",
+        "latitude": 5.72662,
+        "longitude": 10.89865
+    },
+    {
+        "name": "Фумбот",
+        "latitude": 5.50803,
+        "longitude": 10.6325
+    },
+    {
+        "name": "Хайлендс",
+        "latitude": 5.29632,
+        "longitude": 10.34314
+    },
+    {
+        "name": "Кунг-Хи",
+        "latitude": 5.33848,
+        "longitude": 10.47453
+    },
+    {
+        "name": "Мбуда",
+        "latitude": 5.62611,
+        "longitude": 10.25421
+    },
+    {
+        "name": "Нгоу",
+        "latitude": 5.19685,
+        "longitude": 10.38595
+    },
+    {
+        "name": "Существительное",
+        "latitude": 5.64123,
+        "longitude": 10.9184
+    },
+    {
+        "name": "Тонга",
+        "latitude": 4.96667,
+        "longitude": 10.7
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Святой Антоний",
+        "latitude": 1.63943,
+        "longitude": 7.41951
+    },
+    {
+        "name": "Кантагало (район)",
+        "latitude": 0.21667,
+        "longitude": 6.7
+    },
+    {
+        "name": "Кауэ (округ)",
+        "latitude": 0.13415,
+        "longitude": 6.63825
+    },
+    {
+        "name": "Сент-Томас",
+        "latitude": 0.33654,
+        "longitude": 6.72732
+    },
+    {
+        "name": "Троица",
+        "latitude": 0.29667,
+        "longitude": 6.68139
+    }
+]

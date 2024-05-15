@@ -1,0 +1,4462 @@
+[
+    {
+        "name": "Банда-Ачех",
+        "latitude": 5.54167,
+        "longitude": 95.33333
+    },
+    {
+        "name": "Боддам",
+        "latitude": 5.203,
+        "longitude": 96.7009
+    },
+    {
+        "name": "Западный Ачех Регентство",
+        "latitude": 4.45,
+        "longitude": 96.16667
+    },
+    {
+        "name": "Юго-Западный Ачех Регентство",
+        "latitude": 3.83333,
+        "longitude": 96.88333
+    },
+    {
+        "name": "Ачех Бесар Регентство",
+        "latitude": 5.38333,
+        "longitude": 95.51667
+    },
+    {
+        "name": "Ачех Джая Ридженси",
+        "latitude": 4.86,
+        "longitude": 95.64
+    },
+    {
+        "name": "Южный Ачех Регентство",
+        "latitude": 3.16667,
+        "longitude": 97.41667
+    },
+    {
+        "name": "Регентство Ачех Сингкил",
+        "latitude": 2.41667,
+        "longitude": 97.91667
+    },
+    {
+        "name": "Ачех Тамианг Регентство",
+        "latitude": 4.25,
+        "longitude": 97.96667
+    },
+    {
+        "name": "Регентство Центрального Ачеха",
+        "latitude": 4.51,
+        "longitude": 96.855
+    },
+    {
+        "name": "Юго-Восточный Ачех Регентство",
+        "latitude": 3.36667,
+        "longitude": 97.7
+    },
+    {
+        "name": "Восточный Ачех Регентство",
+        "latitude": 4.63333,
+        "longitude": 97.63333
+    },
+    {
+        "name": "Регентство Северного Ачеха",
+        "latitude": 4.97,
+        "longitude": 97.14
+    },
+    {
+        "name": "Бенер Мерия Ридженси",
+        "latitude": 4.73015,
+        "longitude": 96.86156
+    },
+    {
+        "name": "Бирюен Регентство",
+        "latitude": 5.08333,
+        "longitude": 96.58333
+    },
+    {
+        "name": "Гайо Луес Ридженси",
+        "latitude": 3.95,
+        "longitude": 97.39
+    },
+    {
+        "name": "Наган Райя Ридженси",
+        "latitude": 4.16667,
+        "longitude": 96.51667
+    },
+    {
+        "name": "Пиди Ридженси",
+        "latitude": 5.08,
+        "longitude": 96.11
+    },
+    {
+        "name": "Симёлуэ Ридженси",
+        "latitude": 2.61667,
+        "longitude": 96.08333
+    },
+    {
+        "name": "Банда Ачех Сити",
+        "latitude": 5.54167,
+        "longitude": 95.33333
+    },
+    {
+        "name": "Лангса Сити",
+        "latitude": 4.47,
+        "longitude": 97.93
+    },
+    {
+        "name": "Kota Lhokseumawe",
+        "latitude": 5.13333,
+        "longitude": 97.06667
+    },
+    {
+        "name": "Сабанг Сити",
+        "latitude": 5.87944,
+        "longitude": 95.33223
+    },
+    {
+        "name": "Субулуссалам Сити",
+        "latitude": 2.75,
+        "longitude": 97.93333
+    },
+    {
+        "name": "Лангса",
+        "latitude": 4.4683,
+        "longitude": 97.9683
+    },
+    {
+        "name": "Лхоксеумаве",
+        "latitude": 5.1801,
+        "longitude": 97.1507
+    },
+    {
+        "name": "Меулабо",
+        "latitude": 4.14402,
+        "longitude": 96.12664
+    },
+    {
+        "name": "Неоднократно",
+        "latitude": 5.21667,
+        "longitude": 96.28333
+    },
+    {
+        "name": "Сабанг",
+        "latitude": 5.88969,
+        "longitude": 95.31644
+    },
+    {
+        "name": "Зильи",
+        "latitude": 5.3848,
+        "longitude": 95.9609
+    },
+    {
+        "name": "Синабанг",
+        "latitude": 2.4803,
+        "longitude": 96.3801
+    },
+    {
+        "name": "Сингкиль",
+        "latitude": 2.2874,
+        "longitude": 97.7884
+    },
+    {
+        "name": "Амлапура",
+        "latitude": -8.45,
+        "longitude": 115.61667
+    },
+    {
+        "name": "город Амлапура",
+        "latitude": -8.44869,
+        "longitude": 115.60621
+    },
+    {
+        "name": "Банджар",
+        "latitude": -8.19,
+        "longitude": 114.9675
+    },
+    {
+        "name": "Banjar Wangsian",
+        "latitude": -8.49497,
+        "longitude": 115.42342
+    },
+    {
+        "name": "Бедугул",
+        "latitude": -8.4504,
+        "longitude": 115.5925
+    },
+    {
+        "name": "Денпасар",
+        "latitude": -8.65,
+        "longitude": 115.21667
+    },
+    {
+        "name": "Джимбаран",
+        "latitude": -8.79093,
+        "longitude": 115.16006
+    },
+    {
+        "name": "Регентство Бадунг",
+        "latitude": -8.51667,
+        "longitude": 115.2
+    },
+    {
+        "name": "Бангли Регентство",
+        "latitude": -8.28333,
+        "longitude": 115.35
+    },
+    {
+        "name": "Булеленг Регентство",
+        "latitude": -8.25,
+        "longitude": 114.96667
+    },
+    {
+        "name": "Гианьяр Ридженси",
+        "latitude": -8.46667,
+        "longitude": 115.28333
+    },
+    {
+        "name": "Джембрана Ридженси",
+        "latitude": -8.3,
+        "longitude": 114.66667
+    },
+    {
+        "name": "Каранг Асем Ридженси",
+        "latitude": -8.3891,
+        "longitude": 115.5393
+    },
+    {
+        "name": "Клунгкунг Регентство",
+        "latitude": -8.55,
+        "longitude": 115.4
+    },
+    {
+        "name": "Табанан Ридженси",
+        "latitude": -8.43333,
+        "longitude": 115.06667
+    },
+    {
+        "name": "Клунгкунг",
+        "latitude": -8.53333,
+        "longitude": 115.4
+    },
+    {
+        "name": "Денпасар Сити",
+        "latitude": -8.66667,
+        "longitude": 115.21663
+    },
+    {
+        "name": "Кута",
+        "latitude": -8.72332,
+        "longitude": 115.17234
+    },
+    {
+        "name": "Легиан",
+        "latitude": -8.70415,
+        "longitude": 115.17028
+    },
+    {
+        "name": "Ловина",
+        "latitude": -8.14927,
+        "longitude": 115.03999
+    },
+    {
+        "name": "Шаг назад",
+        "latitude": -8.26866,
+        "longitude": 115.07947
+    },
+    {
+        "name": "Страна",
+        "latitude": -8.35694,
+        "longitude": 114.61694
+    },
+    {
+        "name": "Нуса Дуа",
+        "latitude": -8.80047,
+        "longitude": 115.23341
+    },
+    {
+        "name": "Серирит",
+        "latitude": -8.1928,
+        "longitude": 114.9388
+    },
+    {
+        "name": "Сингараджа",
+        "latitude": -8.112,
+        "longitude": 115.08818
+    },
+    {
+        "name": "Табанан",
+        "latitude": -8.5413,
+        "longitude": 115.12522
+    },
+    {
+        "name": "Убуд",
+        "latitude": -8.5098,
+        "longitude": 115.2654
+    },
+    {
+        "name": "Водопад",
+        "latitude": -6.26583,
+        "longitude": 106.55639
+    },
+    {
+        "name": "Лебак Ридженси",
+        "latitude": -6.65,
+        "longitude": 106.21667
+    },
+    {
+        "name": "Пандегланг Регентство",
+        "latitude": -6.63333,
+        "longitude": 105.75
+    },
+    {
+        "name": "Серанг Ридженси",
+        "latitude": -6.15,
+        "longitude": 106.0
+    },
+    {
+        "name": "Тангеранг Ридженси",
+        "latitude": -6.2,
+        "longitude": 106.46667
+    },
+    {
+        "name": "Силегон Сити",
+        "latitude": -6.01667,
+        "longitude": 106.01667
+    },
+    {
+        "name": "Серанг Сити",
+        "latitude": -6.12563,
+        "longitude": 106.14999
+    },
+    {
+        "name": "Тангеранг Сити",
+        "latitude": -6.17944,
+        "longitude": 106.62991
+    },
+    {
+        "name": "Южный Тангеранг-Сити",
+        "latitude": -6.29373,
+        "longitude": 106.71244
+    },
+    {
+        "name": "Лабуан",
+        "latitude": -6.3784,
+        "longitude": 105.83
+    },
+    {
+        "name": "Пандегланг",
+        "latitude": -6.3084,
+        "longitude": 106.1067
+    },
+    {
+        "name": "Рангкасбитунг",
+        "latitude": -6.3591,
+        "longitude": 106.2494
+    },
+    {
+        "name": "атака",
+        "latitude": -6.11528,
+        "longitude": 106.15417
+    },
+    {
+        "name": "Южный Тангеранг",
+        "latitude": -6.28862,
+        "longitude": 106.71789
+    },
+    {
+        "name": "Тангеранг",
+        "latitude": -6.17806,
+        "longitude": 106.63
+    },
+    {
+        "name": "Бенгкулу",
+        "latitude": -3.80044,
+        "longitude": 102.26554
+    },
+    {
+        "name": "Куруп",
+        "latitude": -3.4703,
+        "longitude": 102.5207
+    },
+    {
+        "name": "Южный Бенгкулу Регентство",
+        "latitude": -4.35,
+        "longitude": 103.03333
+    },
+    {
+        "name": "Центральный Регентство Бенгкулу",
+        "latitude": -3.20679,
+        "longitude": 102.12616
+    },
+    {
+        "name": "Регентство Северный Бенгкулу",
+        "latitude": -3.33333,
+        "longitude": 102.05
+    },
+    {
+        "name": "Kabupaten Kaur",
+        "latitude": -4.78179,
+        "longitude": 103.36109
+    },
+    {
+        "name": "Кепахианг Регентство",
+        "latitude": -3.60194,
+        "longitude": 102.56424
+    },
+    {
+        "name": "Лебонг Ридженси",
+        "latitude": -3.24278,
+        "longitude": 102.3349
+    },
+    {
+        "name": "Мукомуко Ридженси",
+        "latitude": -3.07438,
+        "longitude": 101.54766
+    },
+    {
+        "name": "Реджанг Лебонг Ридженси",
+        "latitude": -3.43333,
+        "longitude": 102.71667
+    },
+    {
+        "name": "Селума Ридженси",
+        "latitude": -3.96644,
+        "longitude": 102.47429
+    },
+    {
+        "name": "Бенгкулу Сити",
+        "latitude": -3.81667,
+        "longitude": 102.31667
+    },
+    {
+        "name": "Бантул Регентство",
+        "latitude": -7.9,
+        "longitude": 110.36667
+    },
+    {
+        "name": "Регентство Гунунг Кидул",
+        "latitude": -7.98333,
+        "longitude": 110.61667
+    },
+    {
+        "name": "Кулон Прого Ридженси",
+        "latitude": -7.645,
+        "longitude": 110.02694
+    },
+    {
+        "name": "Слеман Ридженси",
+        "latitude": -7.68167,
+        "longitude": 110.32333
+    },
+    {
+        "name": "Джокьякарта город",
+        "latitude": -7.8,
+        "longitude": 110.375
+    },
+    {
+        "name": "Джокьякарта",
+        "latitude": -7.80139,
+        "longitude": 110.36472
+    },
+    {
+        "name": "Административный город Западная Джакарта",
+        "latitude": -6.1676,
+        "longitude": 106.7673
+    },
+    {
+        "name": "Центральный административный город Джакарты",
+        "latitude": -6.1777,
+        "longitude": 106.8403
+    },
+    {
+        "name": "Административный город Южная Джакарта",
+        "latitude": -6.266,
+        "longitude": 106.8135
+    },
+    {
+        "name": "Административный город Восточная Джакарта",
+        "latitude": -6.2521,
+        "longitude": 106.884
+    },
+    {
+        "name": "Административный город Северная Джакарта",
+        "latitude": -6.1339,
+        "longitude": 106.8823
+    },
+    {
+        "name": "Горонтало",
+        "latitude": 0.5375,
+        "longitude": 123.0625
+    },
+    {
+        "name": "Боалемо Регентство",
+        "latitude": 0.62689,
+        "longitude": 122.3568
+    },
+    {
+        "name": "Боун Боланго Ридженси",
+        "latitude": 0.50296,
+        "longitude": 123.27501
+    },
+    {
+        "name": "Горонтало Регентство",
+        "latitude": 0.5728,
+        "longitude": 122.2337
+    },
+    {
+        "name": "Регентство Северного Горонтало",
+        "latitude": 0.77,
+        "longitude": 122.31667
+    },
+    {
+        "name": "Похувато Регентство",
+        "latitude": 0.7098,
+        "longitude": 121.59582
+    },
+    {
+        "name": "Горонтало Сити",
+        "latitude": 0.53333,
+        "longitude": 123.1
+    },
+    {
+        "name": "Беджубанг Два",
+        "latitude": -1.7923,
+        "longitude": 103.3167
+    },
+    {
+        "name": "Джамби Сити",
+        "latitude": -1.6,
+        "longitude": 103.61667
+    },
+    {
+        "name": "Батанг Хари Регентство",
+        "latitude": -1.75,
+        "longitude": 103.11667
+    },
+    {
+        "name": "Бунго Ридженси",
+        "latitude": -1.50222,
+        "longitude": 101.96
+    },
+    {
+        "name": "Керинчи Ридженси",
+        "latitude": -2.03333,
+        "longitude": 101.53333
+    },
+    {
+        "name": "Мерангин Ридженси",
+        "latitude": -2.06933,
+        "longitude": 102.13303
+    },
+    {
+        "name": "Муаро Джамби Регентство",
+        "latitude": -1.55214,
+        "longitude": 103.82163
+    },
+    {
+        "name": "Саролангун Ридженси",
+        "latitude": -2.3,
+        "longitude": 102.65
+    },
+    {
+        "name": "Западный Танджунг Джабунг Регентство",
+        "latitude": -1.1544,
+        "longitude": 103.24402
+    },
+    {
+        "name": "Регентство Восточный Танджунг Джабунг",
+        "latitude": -1.13198,
+        "longitude": 103.61755
+    },
+    {
+        "name": "Тебо Ридженси",
+        "latitude": -1.45576,
+        "longitude": 102.37473
+    },
+    {
+        "name": "Джамби Сити",
+        "latitude": -1.61667,
+        "longitude": 103.65
+    },
+    {
+        "name": "Полный Ривер-Сити",
+        "latitude": -2.10896,
+        "longitude": 101.32175
+    },
+    {
+        "name": "Куала Тунгкал",
+        "latitude": -0.81623,
+        "longitude": 103.46111
+    },
+    {
+        "name": "Кашель",
+        "latitude": -1.0163,
+        "longitude": 103.59331
+    },
+    {
+        "name": "Перекресток",
+        "latitude": -1.26424,
+        "longitude": 104.09701
+    },
+    {
+        "name": "Полная река",
+        "latitude": -2.0561,
+        "longitude": 101.3913
+    },
+    {
+        "name": "Альфретон",
+        "latitude": -6.64528,
+        "longitude": 108.41028
+    },
+    {
+        "name": "Нидерландские Антильские острова",
+        "latitude": -6.8017,
+        "longitude": 108.6311
+    },
+    {
+        "name": "Бандунг",
+        "latitude": -6.92222,
+        "longitude": 107.60694
+    },
+    {
+        "name": "Банджар",
+        "latitude": -7.1955,
+        "longitude": 107.4313
+    },
+    {
+        "name": "Диапазон",
+        "latitude": -7.04528,
+        "longitude": 107.58778
+    },
+    {
+        "name": "Бекаси",
+        "latitude": -6.2349,
+        "longitude": 106.9896
+    },
+    {
+        "name": "Богор",
+        "latitude": -6.59444,
+        "longitude": 106.78917
+    },
+    {
+        "name": "Карингин",
+        "latitude": -6.70611,
+        "longitude": 106.82139
+    },
+    {
+        "name": "Сиамис",
+        "latitude": -7.3257,
+        "longitude": 108.3534
+    },
+    {
+        "name": "Чампеа",
+        "latitude": -6.55472,
+        "longitude": 106.70083
+    },
+    {
+        "name": "Чибинонг",
+        "latitude": -6.48167,
+        "longitude": 106.85417
+    },
+    {
+        "name": "Цикураг",
+        "latitude": -6.78139,
+        "longitude": 106.7825
+    },
+    {
+        "name": "Чикампек",
+        "latitude": -6.41972,
+        "longitude": 107.45583
+    },
+    {
+        "name": "Чикаранг",
+        "latitude": -6.26111,
+        "longitude": 107.15278
+    },
+    {
+        "name": "Цикупа",
+        "latitude": -6.23639,
+        "longitude": 106.50833
+    },
+    {
+        "name": "Чилеунгсир",
+        "latitude": -6.39472,
+        "longitude": 106.95917
+    },
+    {
+        "name": "Силеуньи",
+        "latitude": -6.93889,
+        "longitude": 107.75278
+    },
+    {
+        "name": "Чимахи",
+        "latitude": -6.87222,
+        "longitude": 107.5425
+    },
+    {
+        "name": "Сипутат",
+        "latitude": -6.2375,
+        "longitude": 106.69556
+    },
+    {
+        "name": "Чиранджанг-нижнее течение",
+        "latitude": -6.82,
+        "longitude": 107.25722
+    },
+    {
+        "name": "Чиребон",
+        "latitude": -6.7063,
+        "longitude": 108.557
+    },
+    {
+        "name": "Ковентри",
+        "latitude": -6.48556,
+        "longitude": 106.88194
+    },
+    {
+        "name": "Депок",
+        "latitude": -6.4,
+        "longitude": 106.81861
+    },
+    {
+        "name": "Индрамаю",
+        "latitude": -6.32639,
+        "longitude": 108.32
+    },
+    {
+        "name": "Джатибаранг",
+        "latitude": -6.47472,
+        "longitude": 108.31528
+    },
+    {
+        "name": "Джативанги",
+        "latitude": -6.73361,
+        "longitude": 108.26278
+    },
+    {
+        "name": "Бандунгский район",
+        "latitude": -7.1,
+        "longitude": 107.6
+    },
+    {
+        "name": "Западный Бандунг Регентство",
+        "latitude": -6.83333,
+        "longitude": 107.48333
+    },
+    {
+        "name": "Бекаси Ридженси",
+        "latitude": -6.24667,
+        "longitude": 107.10833
+    },
+    {
+        "name": "Богор Ридженси",
+        "latitude": -6.58333,
+        "longitude": 106.71667
+    },
+    {
+        "name": "Сиамис Ридженси",
+        "latitude": -7.28333,
+        "longitude": 108.41667
+    },
+    {
+        "name": "Чианджур Ридженси",
+        "latitude": -6.7725,
+        "longitude": 107.08306
+    },
+    {
+        "name": "Kabupaten Cirebon",
+        "latitude": -6.8,
+        "longitude": 108.56667
+    },
+    {
+        "name": "Гарут Ридженси",
+        "latitude": -7.38333,
+        "longitude": 107.76667
+    },
+    {
+        "name": "Индрамаю Ридженси",
+        "latitude": -6.45,
+        "longitude": 108.16667
+    },
+    {
+        "name": "Караванг Ридженси",
+        "latitude": -6.26667,
+        "longitude": 107.41667
+    },
+    {
+        "name": "Кунинган Регентство",
+        "latitude": -7.0,
+        "longitude": 108.55
+    },
+    {
+        "name": "Kabupaten Majalengka",
+        "latitude": -6.81667,
+        "longitude": 108.28333
+    },
+    {
+        "name": "Пангандаран Регентство",
+        "latitude": -7.6673,
+        "longitude": 108.64037
+    },
+    {
+        "name": "Пурвакарта Ридженси",
+        "latitude": -6.58333,
+        "longitude": 107.45
+    },
+    {
+        "name": "Субанг Ридженси",
+        "latitude": -6.50833,
+        "longitude": 107.7025
+    },
+    {
+        "name": "Сукабуми Регентство",
+        "latitude": -7.06667,
+        "longitude": 106.7
+    },
+    {
+        "name": "Сумедан Регентство",
+        "latitude": -6.81667,
+        "longitude": 107.98333
+    },
+    {
+        "name": "Тасикмалайя Ридженси",
+        "latitude": -7.5,
+        "longitude": 108.13333
+    },
+    {
+        "name": "Карангампель",
+        "latitude": -6.46222,
+        "longitude": 108.45194
+    },
+    {
+        "name": "Карангсембунг",
+        "latitude": -6.8487,
+        "longitude": 108.6422
+    },
+    {
+        "name": "Кавагути",
+        "latitude": -7.3817,
+        "longitude": 108.2082
+    },
+    {
+        "name": "Клангенан",
+        "latitude": -6.70944,
+        "longitude": 108.44
+    },
+    {
+        "name": "Бандунг",
+        "latitude": -6.9175,
+        "longitude": 107.62444
+    },
+    {
+        "name": "Банджар Сити",
+        "latitude": -7.36996,
+        "longitude": 108.53209
+    },
+    {
+        "name": "город Бекаси",
+        "latitude": -6.28333,
+        "longitude": 106.98333
+    },
+    {
+        "name": "город Богор",
+        "latitude": -6.59167,
+        "longitude": 106.8
+    },
+    {
+        "name": "Чимахи Сити",
+        "latitude": -6.89167,
+        "longitude": 107.55
+    },
+    {
+        "name": "Чиребон Сити",
+        "latitude": -6.75,
+        "longitude": 108.55
+    },
+    {
+        "name": "Депок Сити",
+        "latitude": -6.4,
+        "longitude": 106.81667
+    },
+    {
+        "name": "Сукабуми Сити",
+        "latitude": -6.95,
+        "longitude": 106.93333
+    },
+    {
+        "name": "Тасикмалайя Сити",
+        "latitude": -7.35,
+        "longitude": 108.21667
+    },
+    {
+        "name": "Карикатура",
+        "latitude": -6.13139,
+        "longitude": 106.37972
+    },
+    {
+        "name": "Латунь",
+        "latitude": -6.97583,
+        "longitude": 108.48306
+    },
+    {
+        "name": "Лембанг",
+        "latitude": -6.81167,
+        "longitude": 107.6175
+    },
+    {
+        "name": "Махаленгка",
+        "latitude": -6.83611,
+        "longitude": 108.22778
+    },
+    {
+        "name": "Маргахаюкенчана",
+        "latitude": -6.97083,
+        "longitude": 107.5675
+    },
+    {
+        "name": "Нгави",
+        "latitude": -7.4038,
+        "longitude": 111.4461
+    },
+    {
+        "name": "Падаларанг",
+        "latitude": -6.83778,
+        "longitude": 107.47278
+    },
+    {
+        "name": "Палиманан",
+        "latitude": -6.70694,
+        "longitude": 108.42417
+    },
+    {
+        "name": "Дядя",
+        "latitude": -6.28417,
+        "longitude": 107.81056
+    },
+    {
+        "name": "блокатор",
+        "latitude": -7.01833,
+        "longitude": 107.60389
+    },
+    {
+        "name": "Памуланг",
+        "latitude": -6.34278,
+        "longitude": 106.73833
+    },
+    {
+        "name": "Парунг",
+        "latitude": -6.42139,
+        "longitude": 106.73306
+    },
+    {
+        "name": "Пасаркемис",
+        "latitude": -6.17028,
+        "longitude": 106.53028
+    },
+    {
+        "name": "Пасех",
+        "latitude": -7.1026,
+        "longitude": 107.7641
+    },
+    {
+        "name": "Пелабуханрату",
+        "latitude": -6.9875,
+        "longitude": 106.55139
+    },
+    {
+        "name": "Пламбон",
+        "latitude": -6.705,
+        "longitude": 108.47278
+    },
+    {
+        "name": "Пурвакарта",
+        "latitude": -6.55694,
+        "longitude": 107.44333
+    },
+    {
+        "name": "Раджапола",
+        "latitude": -7.221,
+        "longitude": 108.1896
+    },
+    {
+        "name": "Ренгасденгклок",
+        "latitude": -6.15917,
+        "longitude": 107.29806
+    },
+    {
+        "name": "Саванган",
+        "latitude": -6.40278,
+        "longitude": 106.77444
+    },
+    {
+        "name": "Сепатан",
+        "latitude": -6.11889,
+        "longitude": 106.575
+    },
+    {
+        "name": "Серпонг",
+        "latitude": -6.31694,
+        "longitude": 106.66417
+    },
+    {
+        "name": "Сингапур",
+        "latitude": -7.3515,
+        "longitude": 108.111
+    },
+    {
+        "name": "Вечер",
+        "latitude": -7.03306,
+        "longitude": 107.51833
+    },
+    {
+        "name": "Сукабуми",
+        "latitude": -6.91806,
+        "longitude": 106.92667
+    },
+    {
+        "name": "Источник",
+        "latitude": -6.76028,
+        "longitude": 108.48306
+    },
+    {
+        "name": "Сумеданг",
+        "latitude": -6.85861,
+        "longitude": 107.91639
+    },
+    {
+        "name": "Северный Сумеданг",
+        "latitude": -6.85,
+        "longitude": 107.91667
+    },
+    {
+        "name": "Тасикмалая",
+        "latitude": -7.3274,
+        "longitude": 108.2207
+    },
+    {
+        "name": "Телукнага",
+        "latitude": -6.09889,
+        "longitude": 106.63806
+    },
+    {
+        "name": "Ванараджа",
+        "latitude": -7.1749,
+        "longitude": 107.9808
+    },
+    {
+        "name": "Веру",
+        "latitude": -6.711,
+        "longitude": 108.5037
+    },
+    {
+        "name": "Адиверна",
+        "latitude": -6.9375,
+        "longitude": 109.1325
+    },
+    {
+        "name": "Амбарава",
+        "latitude": -7.26333,
+        "longitude": 110.3975
+    },
+    {
+        "name": "в Бэкрадже",
+        "latitude": -6.7674,
+        "longitude": 110.8541
+    },
+    {
+        "name": "Рот",
+        "latitude": -7.61278,
+        "longitude": 110.78389
+    },
+    {
+        "name": "Гонки домой",
+        "latitude": -7.04858,
+        "longitude": 109.10056
+    },
+    {
+        "name": "Баньюмас",
+        "latitude": -7.51417,
+        "longitude": 109.29417
+    },
+    {
+        "name": "мальчик",
+        "latitude": -6.4846,
+        "longitude": 110.7083
+    },
+    {
+        "name": "Батураден",
+        "latitude": -7.3,
+        "longitude": 109.21667
+    },
+    {
+        "name": "Блора",
+        "latitude": -6.9698,
+        "longitude": 111.4186
+    },
+    {
+        "name": "Бойолали",
+        "latitude": -7.53306,
+        "longitude": 110.59583
+    },
+    {
+        "name": "Буаран",
+        "latitude": -7.05,
+        "longitude": 109.55
+    },
+    {
+        "name": "Булакамба",
+        "latitude": -6.8748,
+        "longitude": 108.9559
+    },
+    {
+        "name": "Храм Прамбанан",
+        "latitude": -7.75,
+        "longitude": 110.49417
+    },
+    {
+        "name": "Плоский",
+        "latitude": -7.67417,
+        "longitude": 110.67889
+    },
+    {
+        "name": "Чепу",
+        "latitude": -7.1475,
+        "longitude": 111.5906
+    },
+    {
+        "name": "Коломаду",
+        "latitude": -7.53333,
+        "longitude": 110.75
+    },
+    {
+        "name": "Комаль",
+        "latitude": -6.9053,
+        "longitude": 109.5347
+    },
+    {
+        "name": "Деланггу",
+        "latitude": -7.61667,
+        "longitude": 110.68333
+    },
+    {
+        "name": "Так",
+        "latitude": -6.8909,
+        "longitude": 110.6396
+    },
+    {
+        "name": "Дукухтури",
+        "latitude": -6.9,
+        "longitude": 109.08333
+    },
+    {
+        "name": "Не уверен",
+        "latitude": -7.59083,
+        "longitude": 110.70444
+    },
+    {
+        "name": "Гебог",
+        "latitude": -6.735,
+        "longitude": 110.8444
+    },
+    {
+        "name": "Гомбонг",
+        "latitude": -7.60722,
+        "longitude": 109.51417
+    },
+    {
+        "name": "Гроголь",
+        "latitude": -7.60111,
+        "longitude": 110.81861
+    },
+    {
+        "name": "Gunung Kendil",
+        "latitude": -7.33167,
+        "longitude": 110.40417
+    },
+    {
+        "name": "принимать пищу",
+        "latitude": -7.57722,
+        "longitude": 110.8975
+    },
+    {
+        "name": "Джатирото",
+        "latitude": -7.88333,
+        "longitude": 111.11667
+    },
+    {
+        "name": "Рывок",
+        "latitude": -6.8057,
+        "longitude": 110.9262
+    },
+    {
+        "name": "Джогоналан",
+        "latitude": -7.70361,
+        "longitude": 110.53611
+    },
+    {
+        "name": "Джувана",
+        "latitude": -6.715,
+        "longitude": 111.1514
+    },
+    {
+        "name": "Банджаренгара Регентство",
+        "latitude": -7.35111,
+        "longitude": 109.5875
+    },
+    {
+        "name": "Баньюмас Ридженси",
+        "latitude": -7.45,
+        "longitude": 109.16667
+    },
+    {
+        "name": "Батанг Регентство",
+        "latitude": -7.03333,
+        "longitude": 109.88333
+    },
+    {
+        "name": "Блора Ридженси",
+        "latitude": -7.06667,
+        "longitude": 111.38333
+    },
+    {
+        "name": "Бойолали Регентство",
+        "latitude": -7.5,
+        "longitude": 110.7
+    },
+    {
+        "name": "Бребес Регентство",
+        "latitude": -7.05,
+        "longitude": 108.9
+    },
+    {
+        "name": "Чилакап Ридженси",
+        "latitude": -7.57417,
+        "longitude": 108.98861
+    },
+    {
+        "name": "Демак Ридженси",
+        "latitude": -6.8993,
+        "longitude": 110.6122
+    },
+    {
+        "name": "Гробоган Ридженси",
+        "latitude": -7.11667,
+        "longitude": 110.91667
+    },
+    {
+        "name": "Джепара Ридженси",
+        "latitude": -6.58333,
+        "longitude": 110.76667
+    },
+    {
+        "name": "Каранганар Ридженси",
+        "latitude": -7.62806,
+        "longitude": 111.0625
+    },
+    {
+        "name": "Кебумен Ридженси",
+        "latitude": -7.63917,
+        "longitude": 109.66056
+    },
+    {
+        "name": "Кендал Ридженси",
+        "latitude": -7.0256,
+        "longitude": 110.1685
+    },
+    {
+        "name": "Клатен Ридженси",
+        "latitude": -7.68333,
+        "longitude": 110.61667
+    },
+    {
+        "name": "Кудус Ридженси",
+        "latitude": -6.8,
+        "longitude": 110.86667
+    },
+    {
+        "name": "Магеланг Ридженси",
+        "latitude": -7.4275,
+        "longitude": 110.16194
+    },
+    {
+        "name": "Kabupaten Pati",
+        "latitude": -6.76667,
+        "longitude": 111.1
+    },
+    {
+        "name": "Пекалонган Ридженси",
+        "latitude": -7.0319,
+        "longitude": 109.624
+    },
+    {
+        "name": "Пемаланг Ридженси",
+        "latitude": -7.03333,
+        "longitude": 109.4
+    },
+    {
+        "name": "Пурбалинга Ридженси",
+        "latitude": -7.28417,
+        "longitude": 109.35028
+    },
+    {
+        "name": "Пурвореджо Ридженси",
+        "latitude": -7.7,
+        "longitude": 109.96667
+    },
+    {
+        "name": "Рембанг Регентство",
+        "latitude": -6.78333,
+        "longitude": 111.46667
+    },
+    {
+        "name": "Семаранг Ридженси",
+        "latitude": -7.20667,
+        "longitude": 110.44139
+    },
+    {
+        "name": "Сраген Ридженси",
+        "latitude": -7.41278,
+        "longitude": 110.935
+    },
+    {
+        "name": "Сукохарджо Ридженси",
+        "latitude": -7.68333,
+        "longitude": 110.83333
+    },
+    {
+        "name": "Тегал Ридженси",
+        "latitude": -7.03333,
+        "longitude": 109.16667
+    },
+    {
+        "name": "Регентство Темангунг",
+        "latitude": -7.25,
+        "longitude": 110.11667
+    },
+    {
+        "name": "Воногири Регентство",
+        "latitude": -7.91667,
+        "longitude": 111.0
+    },
+    {
+        "name": "Вонособо Регентство",
+        "latitude": -7.36139,
+        "longitude": 109.92667
+    },
+    {
+        "name": "Каранганом",
+        "latitude": -7.64889,
+        "longitude": 110.625
+    },
+    {
+        "name": "Картасура",
+        "latitude": -7.55194,
+        "longitude": 110.73778
+    },
+    {
+        "name": "Кебонарун",
+        "latitude": -7.70028,
+        "longitude": 110.56306
+    },
+    {
+        "name": "Кедунгвуни",
+        "latitude": -6.97038,
+        "longitude": 109.64794
+    },
+    {
+        "name": "Обязанность",
+        "latitude": -6.9383,
+        "longitude": 108.891
+    },
+    {
+        "name": "Клатен",
+        "latitude": -7.70583,
+        "longitude": 110.60639
+    },
+    {
+        "name": "Магеланг Сити",
+        "latitude": -7.5,
+        "longitude": 110.225
+    },
+    {
+        "name": "Пекалонган Сити",
+        "latitude": -6.9,
+        "longitude": 109.68333
+    },
+    {
+        "name": "Салатига Сити",
+        "latitude": -7.33278,
+        "longitude": 110.48333
+    },
+    {
+        "name": "город Семаранг",
+        "latitude": -7.03333,
+        "longitude": 110.38333
+    },
+    {
+        "name": "Суракарта город",
+        "latitude": -7.55,
+        "longitude": 110.81667
+    },
+    {
+        "name": "Тегал Сити",
+        "latitude": -6.8686,
+        "longitude": 109.1129
+    },
+    {
+        "name": "Кроя",
+        "latitude": -7.63306,
+        "longitude": 109.24611
+    },
+    {
+        "name": "Святой",
+        "latitude": -6.8048,
+        "longitude": 110.8405
+    },
+    {
+        "name": "Кутоарджо",
+        "latitude": -7.71694,
+        "longitude": 109.91278
+    },
+    {
+        "name": "В лесу",
+        "latitude": -6.6922,
+        "longitude": 111.4527
+    },
+    {
+        "name": "Лебаксиу",
+        "latitude": -7.0496,
+        "longitude": 109.1441
+    },
+    {
+        "name": "Магеланг",
+        "latitude": -7.47056,
+        "longitude": 110.21778
+    },
+    {
+        "name": "Маженанг",
+        "latitude": -7.2975,
+        "longitude": 108.7642
+    },
+    {
+        "name": "Маргасари",
+        "latitude": -7.1,
+        "longitude": 109.01667
+    },
+    {
+        "name": "Мертоюдан",
+        "latitude": -7.52,
+        "longitude": 110.22639
+    },
+    {
+        "name": "Миллион вон",
+        "latitude": -6.53333,
+        "longitude": 110.7
+    },
+    {
+        "name": "Мранген",
+        "latitude": -7.0268,
+        "longitude": 110.5158
+    },
+    {
+        "name": "Мунтилан",
+        "latitude": -7.58111,
+        "longitude": 110.29278
+    },
+    {
+        "name": "смирись с этим",
+        "latitude": -7.54972,
+        "longitude": 110.71639
+    },
+    {
+        "name": "Также",
+        "latitude": -6.7559,
+        "longitude": 111.038
+    },
+    {
+        "name": "Пекангаан",
+        "latitude": -6.6978,
+        "longitude": 110.7107
+    },
+    {
+        "name": "Пекалонган",
+        "latitude": -6.8886,
+        "longitude": 109.6753
+    },
+    {
+        "name": "Пемаланг",
+        "latitude": -6.89193,
+        "longitude": 109.38263
+    },
+    {
+        "name": "Пурбалингга",
+        "latitude": -7.38806,
+        "longitude": 109.36389
+    },
+    {
+        "name": "Пурводади",
+        "latitude": -7.0868,
+        "longitude": 110.9158
+    },
+    {
+        "name": "Пурвокерто",
+        "latitude": -7.42139,
+        "longitude": 109.23444
+    },
+    {
+        "name": "Рандудонгкал",
+        "latitude": -7.0981,
+        "longitude": 109.3243
+    },
+    {
+        "name": "Рембанган",
+        "latitude": -6.7036,
+        "longitude": 111.3416
+    },
+    {
+        "name": "Салатига",
+        "latitude": -7.33194,
+        "longitude": 110.49278
+    },
+    {
+        "name": "Селогири",
+        "latitude": -7.78333,
+        "longitude": 110.86667
+    },
+    {
+        "name": "Семаранг",
+        "latitude": -6.99306,
+        "longitude": 110.42083
+    },
+    {
+        "name": "Сидарея",
+        "latitude": -7.4846,
+        "longitude": 108.7923
+    },
+    {
+        "name": "Слави",
+        "latitude": -6.9816,
+        "longitude": 109.1407
+    },
+    {
+        "name": "Сокараджа",
+        "latitude": -7.45806,
+        "longitude": 109.28806
+    },
+    {
+        "name": "Сраген",
+        "latitude": -7.42639,
+        "longitude": 111.02222
+    },
+    {
+        "name": "Суракарта",
+        "latitude": -7.55611,
+        "longitude": 110.83167
+    },
+    {
+        "name": "Таруб",
+        "latitude": -6.93333,
+        "longitude": 109.16667
+    },
+    {
+        "name": "Мы",
+        "latitude": -6.5397,
+        "longitude": 111.0518
+    },
+    {
+        "name": "Тегал",
+        "latitude": -6.8694,
+        "longitude": 109.1402
+    },
+    {
+        "name": "Трукук",
+        "latitude": -7.71833,
+        "longitude": 110.65889
+    },
+    {
+        "name": "Унгаран",
+        "latitude": -7.13972,
+        "longitude": 110.405
+    },
+    {
+        "name": "Вангон",
+        "latitude": -7.51611,
+        "longitude": 109.05389
+    },
+    {
+        "name": "После",
+        "latitude": -7.74306,
+        "longitude": 110.57944
+    },
+    {
+        "name": "Велахан",
+        "latitude": -6.8,
+        "longitude": 110.71667
+    },
+    {
+        "name": "Велери",
+        "latitude": -6.9713,
+        "longitude": 110.0666
+    },
+    {
+        "name": "Вирадеша",
+        "latitude": -6.8922,
+        "longitude": 109.619
+    },
+    {
+        "name": "Вонопрогго",
+        "latitude": -6.98333,
+        "longitude": 109.61667
+    },
+    {
+        "name": "Вонозобо",
+        "latitude": -7.35889,
+        "longitude": 109.90306
+    },
+    {
+        "name": "Рубец",
+        "latitude": -7.11282,
+        "longitude": 112.16354
+    },
+    {
+        "name": "Балунг",
+        "latitude": -7.73333,
+        "longitude": 113.91667
+    },
+    {
+        "name": "Бангил",
+        "latitude": -7.59939,
+        "longitude": 112.8186
+    },
+    {
+        "name": "Бангкалан",
+        "latitude": -7.0455,
+        "longitude": 112.7351
+    },
+    {
+        "name": "Баньюванги",
+        "latitude": -8.2325,
+        "longitude": 114.35755
+    },
+    {
+        "name": "Бату",
+        "latitude": -7.87,
+        "longitude": 112.52833
+    },
+    {
+        "name": "Бесуки",
+        "latitude": -7.73379,
+        "longitude": 113.69785
+    },
+    {
+        "name": "Блитар",
+        "latitude": -8.0983,
+        "longitude": 112.1681
+    },
+    {
+        "name": "Бохонегоро",
+        "latitude": -7.1502,
+        "longitude": 111.8817
+    },
+    {
+        "name": "Бондовосо",
+        "latitude": -7.91346,
+        "longitude": 113.82145
+    },
+    {
+        "name": "Бойолангу",
+        "latitude": -8.1181,
+        "longitude": 111.8935
+    },
+    {
+        "name": "Будуран",
+        "latitude": -7.4281,
+        "longitude": 112.7234
+    },
+    {
+        "name": "Дампит",
+        "latitude": -8.21162,
+        "longitude": 112.74934
+    },
+    {
+        "name": "Дивек",
+        "latitude": -7.57897,
+        "longitude": 112.23109
+    },
+    {
+        "name": "Дриорехо",
+        "latitude": -7.3659,
+        "longitude": 112.6219
+    },
+    {
+        "name": "Изображение первое",
+        "latitude": -8.3939,
+        "longitude": 114.1464
+    },
+    {
+        "name": "Гампенгреджо",
+        "latitude": -7.76667,
+        "longitude": 112.01667
+    },
+    {
+        "name": "Геданган",
+        "latitude": -7.39083,
+        "longitude": 112.72667
+    },
+    {
+        "name": "Черепица",
+        "latitude": -8.36667,
+        "longitude": 114.15
+    },
+    {
+        "name": "Gongdanglegi Kulon",
+        "latitude": -8.17529,
+        "longitude": 112.63594
+    },
+    {
+        "name": "Гресик",
+        "latitude": -7.15389,
+        "longitude": 112.65611
+    },
+    {
+        "name": "Гресик Ридженси",
+        "latitude": -7.1933,
+        "longitude": 112.553
+    },
+    {
+        "name": "Джембер",
+        "latitude": -8.17211,
+        "longitude": 113.69953
+    },
+    {
+        "name": "Джомбанг",
+        "latitude": -7.54595,
+        "longitude": 112.23307
+    },
+    {
+        "name": "Kabupaten Bangkalan",
+        "latitude": -7.05,
+        "longitude": 112.93333
+    },
+    {
+        "name": "Kabupaten Banyuwangi",
+        "latitude": -8.33333,
+        "longitude": 114.2
+    },
+    {
+        "name": "Блитар Ридженси",
+        "latitude": -8.13333,
+        "longitude": 112.25
+    },
+    {
+        "name": "Бохонегоро Ридженси",
+        "latitude": -7.25,
+        "longitude": 111.8
+    },
+    {
+        "name": "Бондовосо Регентство",
+        "latitude": -7.9404,
+        "longitude": 113.9834
+    },
+    {
+        "name": "Джембер Ридженси",
+        "latitude": -8.25,
+        "longitude": 113.65
+    },
+    {
+        "name": "Джомбанг Ридженси",
+        "latitude": -7.55,
+        "longitude": 112.25
+    },
+    {
+        "name": "Кедири Ридженси",
+        "latitude": -7.83333,
+        "longitude": 112.16667
+    },
+    {
+        "name": "Ламонган Ридженси",
+        "latitude": -7.13333,
+        "longitude": 112.31667
+    },
+    {
+        "name": "Лумаджанг Регентство",
+        "latitude": -8.11667,
+        "longitude": 113.15
+    },
+    {
+        "name": "Мадиун Ридженси",
+        "latitude": -7.61667,
+        "longitude": 111.65
+    },
+    {
+        "name": "Магетан Регентство",
+        "latitude": -7.64472,
+        "longitude": 111.35917
+    },
+    {
+        "name": "Маланг Регентство",
+        "latitude": -8.16667,
+        "longitude": 112.66667
+    },
+    {
+        "name": "Моджокерто Ридженси",
+        "latitude": -7.55,
+        "longitude": 112.5
+    },
+    {
+        "name": "Нганджук Ридженси",
+        "latitude": -7.6,
+        "longitude": 111.93333
+    },
+    {
+        "name": "Kabupaten Ngawi",
+        "latitude": -7.47444,
+        "longitude": 111.33444
+    },
+    {
+        "name": "Паситанское Регентство",
+        "latitude": -8.13333,
+        "longitude": 111.16667
+    },
+    {
+        "name": "Памекасан Ридженси",
+        "latitude": -7.06667,
+        "longitude": 113.5
+    },
+    {
+        "name": "Пасуруан Регентство",
+        "latitude": -7.73333,
+        "longitude": 112.83333
+    },
+    {
+        "name": "Понорого Ридженси",
+        "latitude": -7.93333,
+        "longitude": 111.5
+    },
+    {
+        "name": "Проболинго Ридженси",
+        "latitude": -7.86667,
+        "longitude": 113.31667
+    },
+    {
+        "name": "Сампанг Ридженси",
+        "latitude": -7.05,
+        "longitude": 113.25
+    },
+    {
+        "name": "Сидоарджо Регентство",
+        "latitude": -7.45,
+        "longitude": 112.7
+    },
+    {
+        "name": "Ситубондо Регентство",
+        "latitude": -7.71667,
+        "longitude": 114.05
+    },
+    {
+        "name": "Суменеп Регентство",
+        "latitude": -7.11667,
+        "longitude": 114.33333
+    },
+    {
+        "name": "Тренгалек Ридженси",
+        "latitude": -8.16667,
+        "longitude": 111.61667
+    },
+    {
+        "name": "Тубан Ридженси",
+        "latitude": -6.96667,
+        "longitude": 111.9
+    },
+    {
+        "name": "Тулунгагунг Регентство",
+        "latitude": -8.11667,
+        "longitude": 111.91667
+    },
+    {
+        "name": "Ребята, вы поняли",
+        "latitude": -7.0537,
+        "longitude": 113.94244
+    },
+    {
+        "name": "Камаль",
+        "latitude": -7.16778,
+        "longitude": 112.71917
+    },
+    {
+        "name": "Кебомас",
+        "latitude": -7.16667,
+        "longitude": 112.6333
+    },
+    {
+        "name": "Кедири",
+        "latitude": -7.81667,
+        "longitude": 112.01667
+    },
+    {
+        "name": "Кедунгвару",
+        "latitude": -8.06667,
+        "longitude": 111.91667
+    },
+    {
+        "name": "Кенконг",
+        "latitude": -8.28333,
+        "longitude": 113.36667
+    },
+    {
+        "name": "Кепанджен",
+        "latitude": -8.1303,
+        "longitude": 112.5727
+    },
+    {
+        "name": "Кертосоно",
+        "latitude": -7.58333,
+        "longitude": 112.1
+    },
+    {
+        "name": "Каменный город",
+        "latitude": -7.83272,
+        "longitude": 112.53751
+    },
+    {
+        "name": "Блитар Сити",
+        "latitude": -8.1,
+        "longitude": 112.16667
+    },
+    {
+        "name": "Кедири Сити",
+        "latitude": -7.83333,
+        "longitude": 112.01667
+    },
+    {
+        "name": "Мадиун Сити",
+        "latitude": -7.63333,
+        "longitude": 111.53333
+    },
+    {
+        "name": "город Маланг",
+        "latitude": -7.975,
+        "longitude": 112.63333
+    },
+    {
+        "name": "Моджокерто Сити",
+        "latitude": -7.46667,
+        "longitude": 112.43333
+    },
+    {
+        "name": "Пасуруан Сити",
+        "latitude": -7.65,
+        "longitude": 112.9
+    },
+    {
+        "name": "Проболинго Сити",
+        "latitude": -7.78333,
+        "longitude": 113.21667
+    },
+    {
+        "name": "Город Сурабая",
+        "latitude": -7.26667,
+        "longitude": 112.71667
+    },
+    {
+        "name": "Красан",
+        "latitude": -7.75845,
+        "longitude": 113.39624
+    },
+    {
+        "name": "Криан",
+        "latitude": -7.4104,
+        "longitude": 112.5792
+    },
+    {
+        "name": "Ламонган",
+        "latitude": -7.11667,
+        "longitude": 112.41667
+    },
+    {
+        "name": "Лоуанг",
+        "latitude": -7.8353,
+        "longitude": 112.6947
+    },
+    {
+        "name": "Лумаджанг",
+        "latitude": -8.1335,
+        "longitude": 113.2248
+    },
+    {
+        "name": "Мадиун",
+        "latitude": -7.6298,
+        "longitude": 111.5239
+    },
+    {
+        "name": "Маланг",
+        "latitude": -7.9797,
+        "longitude": 112.6304
+    },
+    {
+        "name": "Моджоагунг",
+        "latitude": -7.56667,
+        "longitude": 112.35
+    },
+    {
+        "name": "Моджокерто",
+        "latitude": -7.4664,
+        "longitude": 112.4338
+    },
+    {
+        "name": "Мункар",
+        "latitude": -8.43333,
+        "longitude": 114.33333
+    },
+    {
+        "name": "Нганджук",
+        "latitude": -7.6051,
+        "longitude": 111.9035
+    },
+    {
+        "name": "Дом",
+        "latitude": -7.68386,
+        "longitude": 112.25804
+    },
+    {
+        "name": "Нгунут",
+        "latitude": -8.1058,
+        "longitude": 112.01591
+    },
+    {
+        "name": "Пачиран",
+        "latitude": -6.87666,
+        "longitude": 112.37606
+    },
+    {
+        "name": "Пакисаджи",
+        "latitude": -8.0665,
+        "longitude": 112.5981
+    },
+    {
+        "name": "Памекасан",
+        "latitude": -7.1568,
+        "longitude": 113.4746
+    },
+    {
+        "name": "Панарукан",
+        "latitude": -7.70181,
+        "longitude": 113.91844
+    },
+    {
+        "name": "Пандаан",
+        "latitude": -7.65268,
+        "longitude": 112.6875
+    },
+    {
+        "name": "Баннер",
+        "latitude": -7.72528,
+        "longitude": 114.09954
+    },
+    {
+        "name": "Паре",
+        "latitude": -7.7679,
+        "longitude": 112.198
+    },
+    {
+        "name": "Пасуруан",
+        "latitude": -7.6453,
+        "longitude": 112.9075
+    },
+    {
+        "name": "Понорого",
+        "latitude": -7.8685,
+        "longitude": 111.462
+    },
+    {
+        "name": "Приген",
+        "latitude": -7.68333,
+        "longitude": 112.61667
+    },
+    {
+        "name": "Проболингго",
+        "latitude": -7.7543,
+        "longitude": 113.2159
+    },
+    {
+        "name": "Лак",
+        "latitude": -7.1872,
+        "longitude": 113.2394
+    },
+    {
+        "name": "Сидоарджо",
+        "latitude": -7.4478,
+        "longitude": 112.7183
+    },
+    {
+        "name": "Сингоджурах",
+        "latitude": -8.31667,
+        "longitude": 114.23333
+    },
+    {
+        "name": "Сингосари",
+        "latitude": -7.8924,
+        "longitude": 112.6658
+    },
+    {
+        "name": "Ситубондо",
+        "latitude": -7.70623,
+        "longitude": 114.00976
+    },
+    {
+        "name": "Рынок",
+        "latitude": -7.48315,
+        "longitude": 112.42704
+    },
+    {
+        "name": "Сроно",
+        "latitude": -8.40003,
+        "longitude": 114.26661
+    },
+    {
+        "name": "Сумберпукунг",
+        "latitude": -8.15856,
+        "longitude": 112.48292
+    },
+    {
+        "name": "Суменеп",
+        "latitude": -7.01667,
+        "longitude": 113.86667
+    },
+    {
+        "name": "Сурабая",
+        "latitude": -7.24917,
+        "longitude": 112.75083
+    },
+    {
+        "name": "Набережная",
+        "latitude": -8.1645,
+        "longitude": 113.4525
+    },
+    {
+        "name": "Иметь дело с этим",
+        "latitude": -7.49958,
+        "longitude": 112.69992
+    },
+    {
+        "name": "Тренгалек",
+        "latitude": -8.0764,
+        "longitude": 111.70641
+    },
+    {
+        "name": "Тубан",
+        "latitude": -6.8976,
+        "longitude": 112.0649
+    },
+    {
+        "name": "Северная кость",
+        "latitude": -7.4737,
+        "longitude": 112.6505
+    },
+    {
+        "name": "Тулунгагунг",
+        "latitude": -8.0657,
+        "longitude": 111.9025
+    },
+    {
+        "name": "Вонгсорехо",
+        "latitude": -7.9908,
+        "longitude": 114.4009
+    },
+    {
+        "name": "Фаршированные",
+        "latitude": 1.06911,
+        "longitude": 109.66393
+    },
+    {
+        "name": "Верхний Капуас",
+        "latitude": 0.83333,
+        "longitude": 112.8
+    },
+    {
+        "name": "Ты Север",
+        "latitude": -1.06023,
+        "longitude": 110.10402
+    },
+    {
+        "name": "Кетапанг",
+        "latitude": -1.85,
+        "longitude": 109.98333333
+    },
+    {
+        "name": "Кубу Райя",
+        "latitude": -0.31924,
+        "longitude": 109.51865
+    },
+    {
+        "name": "Дикобраз",
+        "latitude": 0.42373,
+        "longitude": 109.75917
+    },
+    {
+        "name": "Манизмата",
+        "latitude": -2.46666667,
+        "longitude": 111.03333333
+    },
+    {
+        "name": "Мелави",
+        "latitude": -0.33617,
+        "longitude": 111.698
+    },
+    {
+        "name": "Мемпава",
+        "latitude": 0.25,
+        "longitude": 109.16667
+    },
+    {
+        "name": "Ранкер",
+        "latitude": 1.1768,
+        "longitude": 108.9624
+    },
+    {
+        "name": "Понтианак",
+        "latitude": -0.02055556,
+        "longitude": 109.34138889
+    },
+    {
+        "name": "Самбас",
+        "latitude": 1.43333,
+        "longitude": 109.35
+    },
+    {
+        "name": "Сангау",
+        "latitude": 0.11944444,
+        "longitude": 110.58888889
+    },
+    {
+        "name": "Секадау",
+        "latitude": 0.03485,
+        "longitude": 110.95066
+    },
+    {
+        "name": "Сингкаванг",
+        "latitude": 0.9,
+        "longitude": 108.98333333
+    },
+    {
+        "name": "Синтанг",
+        "latitude": 0.06805556,
+        "longitude": 111.49805556
+    },
+    {
+        "name": "Амунтай",
+        "latitude": -2.41773,
+        "longitude": 115.24941
+    },
+    {
+        "name": "Банджармасин",
+        "latitude": -3.31987,
+        "longitude": 114.59075
+    },
+    {
+        "name": "Барабай",
+        "latitude": -2.58333,
+        "longitude": 115.38333
+    },
+    {
+        "name": "Баланган Ридженси",
+        "latitude": -2.32314,
+        "longitude": 115.62922
+    },
+    {
+        "name": "Банджар Ридженси",
+        "latitude": -3.31667,
+        "longitude": 115.08333
+    },
+    {
+        "name": "Барито Куала Ридженси",
+        "latitude": -3.08333,
+        "longitude": 114.61667
+    },
+    {
+        "name": "Хулу Сунгай Селатан Ридженси",
+        "latitude": -2.75,
+        "longitude": 115.2
+    },
+    {
+        "name": "Хулу Сунгай Тенга Ридженси",
+        "latitude": -2.61667,
+        "longitude": 115.41667
+    },
+    {
+        "name": "Регентство Северный Хулу Сунгай",
+        "latitude": -2.45,
+        "longitude": 115.13333
+    },
+    {
+        "name": "Регентство Нью-Сити",
+        "latitude": -3.0,
+        "longitude": 116.0
+    },
+    {
+        "name": "Табалонг Регентство",
+        "latitude": -1.88333,
+        "longitude": 115.5
+    },
+    {
+        "name": "Танах Бумбу Ридженси",
+        "latitude": -3.45413,
+        "longitude": 115.70372
+    },
+    {
+        "name": "Танах Лаут Ридженси",
+        "latitude": -3.88333,
+        "longitude": 114.86667
+    },
+    {
+        "name": "Тапин Ридженси",
+        "latitude": -2.91667,
+        "longitude": 115.03333
+    },
+    {
+        "name": "Нью-Банджар-Сити",
+        "latitude": -3.41667,
+        "longitude": 114.83333
+    },
+    {
+        "name": "Банджармасин Сити",
+        "latitude": -3.32444,
+        "longitude": 114.59102
+    },
+    {
+        "name": "Мартапура",
+        "latitude": -3.4109,
+        "longitude": 114.8642
+    },
+    {
+        "name": "Южный Барито Ридженси",
+        "latitude": -1.86667,
+        "longitude": 114.73333
+    },
+    {
+        "name": "Ист-Барито Ридженси",
+        "latitude": -1.93333,
+        "longitude": 115.1
+    },
+    {
+        "name": "Регентство Северного Барито",
+        "latitude": -0.98333,
+        "longitude": 115.1
+    },
+    {
+        "name": "Kabupaten Gunung Mas",
+        "latitude": -0.95,
+        "longitude": 113.5
+    },
+    {
+        "name": "Капуас Ридженси",
+        "latitude": -2.01667,
+        "longitude": 114.38333
+    },
+    {
+        "name": "Катинган Ридженси",
+        "latitude": -2.06667,
+        "longitude": 113.4
+    },
+    {
+        "name": "Вест-Котаварингин Ридженси",
+        "latitude": -2.4,
+        "longitude": 111.73333
+    },
+    {
+        "name": "Восточный Котаварингин Регентство",
+        "latitude": -2.08333,
+        "longitude": 112.75
+    },
+    {
+        "name": "Ламандау Ридженси",
+        "latitude": -1.83828,
+        "longitude": 111.2869
+    },
+    {
+        "name": "Мурунг Райя Регентство",
+        "latitude": -0.01667,
+        "longitude": 114.26667
+    },
+    {
+        "name": "Пуланг Писау Регентство",
+        "latitude": -3.11858,
+        "longitude": 113.8623
+    },
+    {
+        "name": "Серуян Регентство",
+        "latitude": -2.33333,
+        "longitude": 112.25
+    },
+    {
+        "name": "Сукамара Ридженси",
+        "latitude": -2.62675,
+        "longitude": 111.23681
+    },
+    {
+        "name": "Палангка Рая Сити",
+        "latitude": -1.76979,
+        "longitude": 113.73126
+    },
+    {
+        "name": "Куалакапуас",
+        "latitude": -3.00913,
+        "longitude": 114.38759
+    },
+    {
+        "name": "Палангкарая",
+        "latitude": -2.20833,
+        "longitude": 113.91667
+    },
+    {
+        "name": "Пангкаланбун",
+        "latitude": -2.6832,
+        "longitude": 111.6259
+    },
+    {
+        "name": "Сампит",
+        "latitude": -2.5315,
+        "longitude": 112.9496
+    },
+    {
+        "name": "Баликпапан",
+        "latitude": -1.26753,
+        "longitude": 116.82887
+    },
+    {
+        "name": "Бонтанг",
+        "latitude": 0.1324,
+        "longitude": 117.4854
+    },
+    {
+        "name": "Город Баликпапан",
+        "latitude": -1.24204,
+        "longitude": 116.89419
+    },
+    {
+        "name": "Берау Ридженси",
+        "latitude": 2.0,
+        "longitude": 117.3
+    },
+    {
+        "name": "Западный Кутай Регентство",
+        "latitude": -0.59417,
+        "longitude": 115.51575
+    },
+    {
+        "name": "Кутай Картанегара Регентство",
+        "latitude": -0.44019,
+        "longitude": 116.98139
+    },
+    {
+        "name": "Восточный Кутай Регентство",
+        "latitude": 1.03769,
+        "longitude": 117.83112
+    },
+    {
+        "name": "Регентство Верхний Махакам",
+        "latitude": 0.37822,
+        "longitude": 115.38048
+    },
+    {
+        "name": "Пасер Ридженси",
+        "latitude": -1.43517,
+        "longitude": 116.23535
+    },
+    {
+        "name": "Северный Пенаджам Пасер Ридженси",
+        "latitude": -1.25,
+        "longitude": 116.83333
+    },
+    {
+        "name": "Баликпапан город",
+        "latitude": -1.16667,
+        "longitude": 116.88333
+    },
+    {
+        "name": "Бонтанг Сити",
+        "latitude": 0.12526,
+        "longitude": 117.49603
+    },
+    {
+        "name": "Самаринда Сити",
+        "latitude": -0.43333,
+        "longitude": 117.18333
+    },
+    {
+        "name": "Очень Джанан",
+        "latitude": -0.58295,
+        "longitude": 117.09503
+    },
+    {
+        "name": "Самаринда",
+        "latitude": -0.49167,
+        "longitude": 117.14583
+    },
+    {
+        "name": "Булунган Регентство",
+        "latitude": 3.0,
+        "longitude": 117.16667
+    },
+    {
+        "name": "Малинау Ридженси",
+        "latitude": 2.45,
+        "longitude": 115.68333
+    },
+    {
+        "name": "Нунукан Регентство",
+        "latitude": 4.13333,
+        "longitude": 116.7
+    },
+    {
+        "name": "Тана Тидунг Ридженси",
+        "latitude": 3.55,
+        "longitude": 117.25
+    },
+    {
+        "name": "Танджунг Селор",
+        "latitude": 2.8375,
+        "longitude": 117.36528
+    },
+    {
+        "name": "Таракан",
+        "latitude": 3.31332,
+        "longitude": 117.59152
+    },
+    {
+        "name": "Kabupaten Bangka",
+        "latitude": -1.91667,
+        "longitude": 105.93333
+    },
+    {
+        "name": "Вест-Бангка Ридженси",
+        "latitude": -1.95839,
+        "longitude": 105.53741
+    },
+    {
+        "name": "Южный Бангка Ридженси",
+        "latitude": -2.66803,
+        "longitude": 106.01257
+    },
+    {
+        "name": "Центральный Бангка Ридженси",
+        "latitude": -2.33989,
+        "longitude": 106.1142
+    },
+    {
+        "name": "Белитунг Регентство",
+        "latitude": -2.86667,
+        "longitude": 107.7
+    },
+    {
+        "name": "Восточное Белитунг Регентство",
+        "latitude": -2.9627,
+        "longitude": 108.15216
+    },
+    {
+        "name": "Пангкал Пинанг Сити",
+        "latitude": -2.13333,
+        "longitude": 106.13333
+    },
+    {
+        "name": "Мангар",
+        "latitude": -2.88333,
+        "longitude": 108.26667
+    },
+    {
+        "name": "Мунток",
+        "latitude": -2.06719,
+        "longitude": 105.16228
+    },
+    {
+        "name": "Пангкалпинанг",
+        "latitude": -2.12914,
+        "longitude": 106.11377
+    },
+    {
+        "name": "Сунгалият",
+        "latitude": -1.85442,
+        "longitude": 106.12215
+    },
+    {
+        "name": "Танджунг Пандан",
+        "latitude": -2.73353,
+        "longitude": 107.63477
+    },
+    {
+        "name": "Бинтан Ридженси",
+        "latitude": 0.95,
+        "longitude": 104.61944
+    },
+    {
+        "name": "Каримун Ридженси",
+        "latitude": 0.80764,
+        "longitude": 103.41911
+    },
+    {
+        "name": "Регентство островов Анамбас",
+        "latitude": 3.0,
+        "longitude": 106.0
+    },
+    {
+        "name": "Лингга Ридженси",
+        "latitude": 0.2,
+        "longitude": 104.61667
+    },
+    {
+        "name": "Натуна Ридженси",
+        "latitude": 4.71417,
+        "longitude": 107.97639
+    },
+    {
+        "name": "Олень",
+        "latitude": 0.9,
+        "longitude": 104.63333
+    },
+    {
+        "name": "город Батам",
+        "latitude": 1.05211,
+        "longitude": 104.02851
+    },
+    {
+        "name": "Танджунг Пинанг Сити",
+        "latitude": 0.91683,
+        "longitude": 104.44329
+    },
+    {
+        "name": "Танджунг Пинанг",
+        "latitude": 0.91667,
+        "longitude": 104.45833
+    },
+    {
+        "name": "Бандар Лампунг",
+        "latitude": -5.42917,
+        "longitude": 105.26111
+    },
+    {
+        "name": "Вест-Лампунг Регентство",
+        "latitude": -5.14904,
+        "longitude": 104.19309
+    },
+    {
+        "name": "Южный Лампунг Регентство",
+        "latitude": -5.4531,
+        "longitude": 104.9877
+    },
+    {
+        "name": "Центральное Регентство Лампунг",
+        "latitude": -4.86667,
+        "longitude": 105.26667
+    },
+    {
+        "name": "Ист-Лампунг Регентство",
+        "latitude": -5.10273,
+        "longitude": 105.68003
+    },
+    {
+        "name": "Регентство Норт-Лампунг",
+        "latitude": -4.81667,
+        "longitude": 104.8
+    },
+    {
+        "name": "Месудзи Регентство",
+        "latitude": -4.0439,
+        "longitude": 105.4013
+    },
+    {
+        "name": "Песаваран Ридженси",
+        "latitude": -5.4298,
+        "longitude": 105.17899
+    },
+    {
+        "name": "Регентство Западного побережья",
+        "latitude": -5.19323,
+        "longitude": 103.93976
+    },
+    {
+        "name": "Прингсеву Регентство",
+        "latitude": -5.42211,
+        "longitude": 104.93454
+    },
+    {
+        "name": "Тангамус Регентство",
+        "latitude": -5.38508,
+        "longitude": 104.62349
+    },
+    {
+        "name": "Тулангбаванг Регентство",
+        "latitude": -4.20604,
+        "longitude": 105.57999
+    },
+    {
+        "name": "Kabupaten Way Kanan",
+        "latitude": -4.44705,
+        "longitude": 104.52753
+    },
+    {
+        "name": "Бандар Лампунг Сити",
+        "latitude": -5.41667,
+        "longitude": 105.25
+    },
+    {
+        "name": "Кота Метро",
+        "latitude": -5.11856,
+        "longitude": 105.29949
+    },
+    {
+        "name": "Котабуми",
+        "latitude": -4.82505,
+        "longitude": 104.8817
+    },
+    {
+        "name": "метро",
+        "latitude": -5.11306,
+        "longitude": 105.30667
+    },
+    {
+        "name": "Тербанги Бесар",
+        "latitude": -4.87898,
+        "longitude": 105.21818
+    },
+    {
+        "name": "Амахай",
+        "latitude": -3.33984,
+        "longitude": 128.91975
+    },
+    {
+        "name": "Амбон",
+        "latitude": -3.69583,
+        "longitude": 128.18333
+    },
+    {
+        "name": "Буру Ридженси",
+        "latitude": -3.32767,
+        "longitude": 126.68413
+    },
+    {
+        "name": "Южное Буру Регентство",
+        "latitude": -3.52187,
+        "longitude": 126.59271
+    },
+    {
+        "name": "Регентство островов Ару",
+        "latitude": -6.17059,
+        "longitude": 134.46991
+    },
+    {
+        "name": "Юго-Западное Регентство Малуку",
+        "latitude": -7.8296,
+        "longitude": 126.17386
+    },
+    {
+        "name": "Центральное Регентство Малуку",
+        "latitude": -3.29167,
+        "longitude": 128.9675
+    },
+    {
+        "name": "Юго-восточное Регентство Малуку",
+        "latitude": -5.75,
+        "longitude": 132.73333
+    },
+    {
+        "name": "Западно-юго-восточный Малуку Регентство",
+        "latitude": -7.61186,
+        "longitude": 131.38
+    },
+    {
+        "name": "Вест-Серам Регентство",
+        "latitude": -3.1027,
+        "longitude": 128.42996
+    },
+    {
+        "name": "Восточное Регентство Серам",
+        "latitude": -3.39851,
+        "longitude": 130.39167
+    },
+    {
+        "name": "Амбон Сити",
+        "latitude": -3.7,
+        "longitude": 128.18333
+    },
+    {
+        "name": "Туал Сити",
+        "latitude": -5.64301,
+        "longitude": 132.74935
+    },
+    {
+        "name": "Туал",
+        "latitude": -5.62878,
+        "longitude": 132.75229
+    },
+    {
+        "name": "Ист-Хальмахера Регентство",
+        "latitude": 1.33517,
+        "longitude": 128.48627
+    },
+    {
+        "name": "Регентство Вест-Хальмахера",
+        "latitude": 1.41709,
+        "longitude": 127.55264
+    },
+    {
+        "name": "Южная Хальмахера Регентство",
+        "latitude": -0.3955,
+        "longitude": 127.90833
+    },
+    {
+        "name": "Центральное Регентство Хальмахера",
+        "latitude": 0.48056,
+        "longitude": 128.25
+    },
+    {
+        "name": "Регентство Северная Хальмахера",
+        "latitude": 1.73194,
+        "longitude": 128.00778
+    },
+    {
+        "name": "Регентство островов Сула",
+        "latitude": -1.8646,
+        "longitude": 125.69046
+    },
+    {
+        "name": "Регентство острова Моротаи",
+        "latitude": 2.19924,
+        "longitude": 128.40546
+    },
+    {
+        "name": "Регентство острова Талиабу",
+        "latitude": -1.84578,
+        "longitude": 124.78992
+    },
+    {
+        "name": "Тернате Сити",
+        "latitude": 0.89618,
+        "longitude": 127.31016
+    },
+    {
+        "name": "Город островов Тидор",
+        "latitude": 0.60962,
+        "longitude": 127.56981
+    },
+    {
+        "name": "Софифи",
+        "latitude": 0.73729,
+        "longitude": 127.5588
+    },
+    {
+        "name": "Тернате",
+        "latitude": 0.79065,
+        "longitude": 127.38424
+    },
+    {
+        "name": "Тобело",
+        "latitude": 1.72837,
+        "longitude": 128.00948
+    },
+    {
+        "name": "Бима",
+        "latitude": -8.46006,
+        "longitude": 118.72667
+    },
+    {
+        "name": "Домпу",
+        "latitude": -8.5365,
+        "longitude": 118.4634
+    },
+    {
+        "name": "Гили Эйр",
+        "latitude": -8.35783,
+        "longitude": 116.0824
+    },
+    {
+        "name": "Бима Ридженси",
+        "latitude": -8.6,
+        "longitude": 118.61667
+    },
+    {
+        "name": "Домпу Ридженси",
+        "latitude": -8.5094,
+        "longitude": 118.4816
+    },
+    {
+        "name": "Вест-Ломбок Регентство",
+        "latitude": -8.69583,
+        "longitude": 116.11667
+    },
+    {
+        "name": "Регентство Центрального Ломбока",
+        "latitude": -8.7,
+        "longitude": 116.3
+    },
+    {
+        "name": "Ист-Ломбока Регентство",
+        "latitude": -8.53333,
+        "longitude": 116.53333
+    },
+    {
+        "name": "Регентство Северного Ломбок",
+        "latitude": -8.35214,
+        "longitude": 116.40152
+    },
+    {
+        "name": "Сумбава Регентство",
+        "latitude": -8.7439,
+        "longitude": 117.3324
+    },
+    {
+        "name": "Вест-Сумбава Регентство",
+        "latitude": -8.75159,
+        "longitude": 116.92132
+    },
+    {
+        "name": "Бима Сити",
+        "latitude": -8.46728,
+        "longitude": 118.75259
+    },
+    {
+        "name": "Матарам Сити",
+        "latitude": -8.5833,
+        "longitude": 116.1167
+    },
+    {
+        "name": "Лабуан Ломбок",
+        "latitude": -8.5,
+        "longitude": 116.66667
+    },
+    {
+        "name": "Лист",
+        "latitude": -8.7264,
+        "longitude": 116.0744
+    },
+    {
+        "name": "Матарам",
+        "latitude": -8.58333,
+        "longitude": 116.11667
+    },
+    {
+        "name": "Победитель",
+        "latitude": -8.40401,
+        "longitude": 116.10255
+    },
+    {
+        "name": "Картошка",
+        "latitude": -8.4126,
+        "longitude": 117.4811
+    },
+    {
+        "name": "Прайя",
+        "latitude": -8.70536,
+        "longitude": 116.27036
+    },
+    {
+        "name": "Сенгиги",
+        "latitude": -8.4919,
+        "longitude": 116.0424
+    },
+    {
+        "name": "Сумбава Бесар",
+        "latitude": -8.49317,
+        "longitude": 117.42024
+    },
+    {
+        "name": "Атамбуа",
+        "latitude": -9.10611,
+        "longitude": 124.8925
+    },
+    {
+        "name": "Конец",
+        "latitude": -8.8432,
+        "longitude": 121.6623
+    },
+    {
+        "name": "Kabupaten Alor",
+        "latitude": -8.3,
+        "longitude": 124.56667
+    },
+    {
+        "name": "Белу Ридженси",
+        "latitude": -9.41258,
+        "longitude": 124.95066
+    },
+    {
+        "name": "Энде Ридженси",
+        "latitude": -8.84056,
+        "longitude": 121.66389
+    },
+    {
+        "name": "Ист-Флорес Ридженси",
+        "latitude": -8.24224,
+        "longitude": 122.96817
+    },
+    {
+        "name": "Купанг Ридженси",
+        "latitude": -9.91667,
+        "longitude": 123.83333
+    },
+    {
+        "name": "Лембата Ридженси",
+        "latitude": -8.41396,
+        "longitude": 123.55225
+    },
+    {
+        "name": "Малакка Регентство",
+        "latitude": -9.5632,
+        "longitude": 124.89481
+    },
+    {
+        "name": "Манггарай Регентство",
+        "latitude": -8.56667,
+        "longitude": 120.41667
+    },
+    {
+        "name": "Вест-Манггарай Регентство",
+        "latitude": -8.64484,
+        "longitude": 119.88281
+    },
+    {
+        "name": "Восточно-Манггарайское Регентство",
+        "latitude": -8.55533,
+        "longitude": 120.59761
+    },
+    {
+        "name": "Нагекео Ридженси",
+        "latitude": -8.8721,
+        "longitude": 121.20963
+    },
+    {
+        "name": "Нгада Ридженси",
+        "latitude": -8.66667,
+        "longitude": 121.0
+    },
+    {
+        "name": "Kabupaten Red Ndao",
+        "latitude": -10.73617,
+        "longitude": 123.12054
+    },
+    {
+        "name": "Сабу Райхуа Регентство",
+        "latitude": -10.56286,
+        "longitude": 121.78894
+    },
+    {
+        "name": "Сикка Ридженси",
+        "latitude": -8.66667,
+        "longitude": 122.36667
+    },
+    {
+        "name": "Вест-Сумба Регентство",
+        "latitude": -9.56667,
+        "longitude": 119.45
+    },
+    {
+        "name": "Юго-Западное Регентство Сумба",
+        "latitude": -9.56216,
+        "longitude": 119.08905
+    },
+    {
+        "name": "Центральное Регентство Сумба",
+        "latitude": -9.62941,
+        "longitude": 119.61914
+    },
+    {
+        "name": "Восточная Сумба Регентство",
+        "latitude": -9.88333,
+        "longitude": 120.25
+    },
+    {
+        "name": "Регентство Южного Центрального Тимора",
+        "latitude": -9.83333,
+        "longitude": 124.4
+    },
+    {
+        "name": "Регентство Северного Центрального Тимора",
+        "latitude": -9.33136,
+        "longitude": 124.51904
+    },
+    {
+        "name": "Кефаменану",
+        "latitude": -9.44667,
+        "longitude": 124.47806
+    },
+    {
+        "name": "Комодо",
+        "latitude": -8.5895,
+        "longitude": 119.4913
+    },
+    {
+        "name": "Купанг Сити",
+        "latitude": -10.21667,
+        "longitude": 123.6
+    },
+    {
+        "name": "Купанг",
+        "latitude": -10.17083,
+        "longitude": 123.60694
+    },
+    {
+        "name": "Лабуан Баджо",
+        "latitude": -8.4964,
+        "longitude": 119.8877
+    },
+    {
+        "name": "Маумере",
+        "latitude": -8.6199,
+        "longitude": 122.2111
+    },
+    {
+        "name": "Найсано Два",
+        "latitude": -9.59806,
+        "longitude": 123.77028
+    },
+    {
+        "name": "Рутенг",
+        "latitude": -8.61139,
+        "longitude": 120.46444
+    },
+    {
+        "name": "Соэ",
+        "latitude": -9.86071,
+        "longitude": 124.28395
+    },
+    {
+        "name": "Вайнгапу",
+        "latitude": -9.6567,
+        "longitude": 120.2641
+    },
+    {
+        "name": "Абепура",
+        "latitude": -2.5964,
+        "longitude": 140.6324
+    },
+    {
+        "name": "оба",
+        "latitude": -1.1767,
+        "longitude": 136.082
+    },
+    {
+        "name": "Инсром",
+        "latitude": -1.14473,
+        "longitude": 136.03134
+    },
+    {
+        "name": "Джаяпура",
+        "latitude": -2.53371,
+        "longitude": 140.71813
+    },
+    {
+        "name": "Асмат Ридженси",
+        "latitude": -5.3795,
+        "longitude": 138.46344
+    },
+    {
+        "name": "Биак Нумфор Регентство",
+        "latitude": -1.03333,
+        "longitude": 136.0
+    },
+    {
+        "name": "Бовен Дигоэль Ридженси",
+        "latitude": -5.70519,
+        "longitude": 140.36349
+    },
+    {
+        "name": "Дейай Регентство",
+        "latitude": -3.94737,
+        "longitude": 135.95032
+    },
+    {
+        "name": "Догияй Регентство",
+        "latitude": -4.03186,
+        "longitude": 135.43945
+    },
+    {
+        "name": "Интан Джая Ридженси",
+        "latitude": -3.41016,
+        "longitude": 136.70837
+    },
+    {
+        "name": "Джаяпура Ридженси",
+        "latitude": -3.0,
+        "longitude": 139.95
+    },
+    {
+        "name": "Джаявиджая Ридженси",
+        "latitude": -4.08333,
+        "longitude": 139.08333
+    },
+    {
+        "name": "Киром Ридженси",
+        "latitude": -3.3,
+        "longitude": 140.61667
+    },
+    {
+        "name": "Регентство островов Япен",
+        "latitude": -1.78773,
+        "longitude": 136.27716
+    },
+    {
+        "name": "Лэнни Джая Ридженси",
+        "latitude": -3.91244,
+        "longitude": 138.28766
+    },
+    {
+        "name": "Регентство Большого Мамберамо",
+        "latitude": -2.23561,
+        "longitude": 137.78229
+    },
+    {
+        "name": "Центральное Регентство Мамберамо",
+        "latitude": -2.46064,
+        "longitude": 138.45245
+    },
+    {
+        "name": "Маппи Ридженси",
+        "latitude": -6.49971,
+        "longitude": 139.34441
+    },
+    {
+        "name": "Мерауке Ридженси",
+        "latitude": -7.66667,
+        "longitude": 139.66667
+    },
+    {
+        "name": "Мимика Ридженси",
+        "latitude": -4.54357,
+        "longitude": 136.56555
+    },
+    {
+        "name": "Набире Регентство",
+        "latitude": -3.54016,
+        "longitude": 135.55511
+    },
+    {
+        "name": "Ндуга Ридженси",
+        "latitude": -4.45093,
+        "longitude": 138.10089
+    },
+    {
+        "name": "Паниай Ридженси",
+        "latitude": -3.9,
+        "longitude": 136.6
+    },
+    {
+        "name": "Регентство в горах Бинтанг",
+        "latitude": -4.52167,
+        "longitude": 140.29541
+    },
+    {
+        "name": "Пунчак Джая Ридженси",
+        "latitude": -3.67241,
+        "longitude": 137.43896
+    },
+    {
+        "name": "Сарми Ридженси",
+        "latitude": -2.41667,
+        "longitude": 139.08333
+    },
+    {
+        "name": "Супиори Ридженси",
+        "latitude": -0.73881,
+        "longitude": 135.61111
+    },
+    {
+        "name": "Толикара Ридженси",
+        "latitude": -3.42661,
+        "longitude": 137.41699
+    },
+    {
+        "name": "Варопен Регентство",
+        "latitude": -2.286,
+        "longitude": 137.01837
+    },
+    {
+        "name": "Яхукимо Ридженси",
+        "latitude": -4.60403,
+        "longitude": 139.58405
+    },
+    {
+        "name": "Ялимо Ридженси",
+        "latitude": -3.86037,
+        "longitude": 138.47305
+    },
+    {
+        "name": "Джаяпура Сити",
+        "latitude": -2.64647,
+        "longitude": 140.77779
+    },
+    {
+        "name": "Набире",
+        "latitude": -3.35989,
+        "longitude": 135.50074
+    },
+    {
+        "name": "Факфак Ридженси",
+        "latitude": -2.92641,
+        "longitude": 132.29608
+    },
+    {
+        "name": "Каймана Ридженси",
+        "latitude": -3.66093,
+        "longitude": 133.77451
+    },
+    {
+        "name": "Маноквари Регентство",
+        "latitude": -0.9,
+        "longitude": 133.75
+    },
+    {
+        "name": "Южный Маноквари Регентство",
+        "latitude": -1.0798,
+        "longitude": 133.96729
+    },
+    {
+        "name": "Мейбрат Ридженси",
+        "latitude": -1.2155,
+        "longitude": 132.35092
+    },
+    {
+        "name": "Раджа Ампат Регентство",
+        "latitude": -0.5,
+        "longitude": 130.0
+    },
+    {
+        "name": "Соронг Регентство",
+        "latitude": -1.16667,
+        "longitude": 131.5
+    },
+    {
+        "name": "Южный Соронг Регентство",
+        "latitude": -1.50495,
+        "longitude": 132.28638
+    },
+    {
+        "name": "Тамбрау Регентство",
+        "latitude": -0.60515,
+        "longitude": 132.48962
+    },
+    {
+        "name": "Бинтуни Бэй Ридженси",
+        "latitude": -1.88037,
+        "longitude": 133.33105
+    },
+    {
+        "name": "Вондама Бэй Ридженси",
+        "latitude": -2.7,
+        "longitude": 134.5
+    },
+    {
+        "name": "Соронг Сити",
+        "latitude": -0.86507,
+        "longitude": 131.25152
+    },
+    {
+        "name": "Маноквари",
+        "latitude": -0.86291,
+        "longitude": 134.06402
+    },
+    {
+        "name": "толчок",
+        "latitude": -0.87956,
+        "longitude": 131.26104
+    },
+    {
+        "name": "Балайфонгут",
+        "latitude": 1.05949,
+        "longitude": 101.29054
+    },
+    {
+        "name": "Батам",
+        "latitude": 1.14937,
+        "longitude": 104.02491
+    },
+    {
+        "name": "Думай",
+        "latitude": 1.66711,
+        "longitude": 101.44316
+    },
+    {
+        "name": "Бенгкалис Регентство",
+        "latitude": 0.9838,
+        "longitude": 102.5096
+    },
+    {
+        "name": "Регентство Индрагири Хилир",
+        "latitude": -0.33333,
+        "longitude": 103.16667
+    },
+    {
+        "name": "Индрагири Хулу Ридженси",
+        "latitude": -0.55,
+        "longitude": 102.31667
+    },
+    {
+        "name": "Кампар Ридженси",
+        "latitude": 0.2344,
+        "longitude": 101.2131
+    },
+    {
+        "name": "Регентство островов Меранти",
+        "latitude": 0.97488,
+        "longitude": 102.69539
+    },
+    {
+        "name": "Куантан Сингинги Регентство",
+        "latitude": -0.47532,
+        "longitude": 101.45857
+    },
+    {
+        "name": "Пелаван Регентство",
+        "latitude": 0.20822,
+        "longitude": 102.18607
+    },
+    {
+        "name": "Рокан Хилир Ридженси",
+        "latitude": 2.16599,
+        "longitude": 100.82514
+    },
+    {
+        "name": "Рокан Хулу Ридженси",
+        "latitude": 0.88333,
+        "longitude": 100.48333
+    },
+    {
+        "name": "Сиак Ридженси",
+        "latitude": 0.97453,
+        "longitude": 102.01355
+    },
+    {
+        "name": "Думай Сити",
+        "latitude": 1.61592,
+        "longitude": 101.4917
+    },
+    {
+        "name": "Кота Пеканбару",
+        "latitude": 0.53333,
+        "longitude": 101.46667
+    },
+    {
+        "name": "Пеканбару",
+        "latitude": 0.51667,
+        "longitude": 101.44167
+    },
+    {
+        "name": "Маджен Ридженси",
+        "latitude": -3.15,
+        "longitude": 118.86667
+    },
+    {
+        "name": "Мамаса Ридженси",
+        "latitude": -2.96492,
+        "longitude": 119.30631
+    },
+    {
+        "name": "Мамуджу Ридженси",
+        "latitude": -2.5,
+        "longitude": 119.41667
+    },
+    {
+        "name": "Центральное Регентство Мамуджу",
+        "latitude": -2.8212,
+        "longitude": 119.2662
+    },
+    {
+        "name": "Регентство Северный Мамуджу",
+        "latitude": -1.51639,
+        "longitude": 119.42139
+    },
+    {
+        "name": "Полевали Мандар Регентство",
+        "latitude": -3.3,
+        "longitude": 119.16667
+    },
+    {
+        "name": "Мажене",
+        "latitude": -3.5403,
+        "longitude": 118.9707
+    },
+    {
+        "name": "Мамуджу",
+        "latitude": -2.68056,
+        "longitude": 118.88611
+    },
+    {
+        "name": "Полевали",
+        "latitude": -3.4324,
+        "longitude": 119.3435
+    },
+    {
+        "name": "Галесонг",
+        "latitude": -5.3166,
+        "longitude": 119.3661
+    },
+    {
+        "name": "Бантаенг Регентство",
+        "latitude": -5.48333,
+        "longitude": 119.98333
+    },
+    {
+        "name": "Барру Ридженси",
+        "latitude": -4.43333,
+        "longitude": 119.68333
+    },
+    {
+        "name": "Kabupaten Bone",
+        "latitude": -4.7,
+        "longitude": 120.13333
+    },
+    {
+        "name": "Булукумба Регентство",
+        "latitude": -5.41667,
+        "longitude": 120.23333
+    },
+    {
+        "name": "Энреканг ​​Ридженси",
+        "latitude": -3.5,
+        "longitude": 119.86667
+    },
+    {
+        "name": "Гова Ридженси",
+        "latitude": -5.31667,
+        "longitude": 119.75
+    },
+    {
+        "name": "Дженепонто Ридженси",
+        "latitude": -5.63333,
+        "longitude": 119.73333
+    },
+    {
+        "name": "Луву Регентство",
+        "latitude": -2.5577,
+        "longitude": 121.3242
+    },
+    {
+        "name": "Восточное Луву Регентство",
+        "latitude": -2.50957,
+        "longitude": 120.3978
+    },
+    {
+        "name": "Регентство Северного Луву",
+        "latitude": -2.6,
+        "longitude": 120.25
+    },
+    {
+        "name": "Марос Ридженси",
+        "latitude": -5.05,
+        "longitude": 119.71667
+    },
+    {
+        "name": "Пангкаджене и Регентство островов",
+        "latitude": -4.7827,
+        "longitude": 119.5506
+    },
+    {
+        "name": "Пинранг Ридженси",
+        "latitude": -3.61667,
+        "longitude": 119.6
+    },
+    {
+        "name": "Сиденренг Раппанг Регентство",
+        "latitude": -3.85,
+        "longitude": 119.96667
+    },
+    {
+        "name": "Синджай Ридженси",
+        "latitude": -5.21667,
+        "longitude": 120.15
+    },
+    {
+        "name": "Соппенг Регентство",
+        "latitude": -4.3842,
+        "longitude": 119.89
+    },
+    {
+        "name": "Такалар Ридженси",
+        "latitude": -5.41667,
+        "longitude": 119.51667
+    },
+    {
+        "name": "Тана Тораджа Регентство",
+        "latitude": -3.0024,
+        "longitude": 119.79655
+    },
+    {
+        "name": "Регентство Северной Тораджи",
+        "latitude": -2.92738,
+        "longitude": 119.79218
+    },
+    {
+        "name": "Ваджо Ридженси",
+        "latitude": -4.0,
+        "longitude": 120.16667
+    },
+    {
+        "name": "город Макассар",
+        "latitude": -5.15,
+        "longitude": 119.45
+    },
+    {
+        "name": "Палопо Сити",
+        "latitude": -2.97841,
+        "longitude": 120.11078
+    },
+    {
+        "name": "Парепаре Сити",
+        "latitude": -4.03333,
+        "longitude": 119.65
+    },
+    {
+        "name": "Макассар",
+        "latitude": -5.14861,
+        "longitude": 119.43194
+    },
+    {
+        "name": "Морос",
+        "latitude": -5.006,
+        "longitude": 119.5727
+    },
+    {
+        "name": "Палопо",
+        "latitude": -2.9925,
+        "longitude": 120.19694
+    },
+    {
+        "name": "Парепаре",
+        "latitude": -4.0135,
+        "longitude": 119.6255
+    },
+    {
+        "name": "Рантепао",
+        "latitude": -2.9701,
+        "longitude": 119.8978
+    },
+    {
+        "name": "Регентство островов Селаяр",
+        "latitude": -6.81667,
+        "longitude": 120.8
+    },
+    {
+        "name": "Сенгкан",
+        "latitude": -4.1279,
+        "longitude": 120.0297
+    },
+    {
+        "name": "Синджай",
+        "latitude": -5.1241,
+        "longitude": 120.253
+    },
+    {
+        "name": "Ватампоне",
+        "latitude": -4.5386,
+        "longitude": 120.3279
+    },
+    {
+        "name": "Банггай Регентство",
+        "latitude": -0.91141,
+        "longitude": 122.71836
+    },
+    {
+        "name": "Регентство островов Банггай",
+        "latitude": -1.30236,
+        "longitude": 123.03726
+    },
+    {
+        "name": "Банггай Лаут Ридженси",
+        "latitude": -1.61841,
+        "longitude": 123.49388
+    },
+    {
+        "name": "Буол Ридженси",
+        "latitude": 1.04656,
+        "longitude": 121.36867
+    },
+    {
+        "name": "Донгала Регентство",
+        "latitude": -0.58333,
+        "longitude": 119.85
+    },
+    {
+        "name": "Регентство Северного Моровали",
+        "latitude": -1.7207,
+        "longitude": 121.24649
+    },
+    {
+        "name": "Париджи Мутонг Ридженси",
+        "latitude": 0.3368,
+        "longitude": 120.17841
+    },
+    {
+        "name": "Посо Ридженси",
+        "latitude": -1.65,
+        "longitude": 120.5
+    },
+    {
+        "name": "Сиги Ридженси",
+        "latitude": -1.385,
+        "longitude": 119.96694
+    },
+    {
+        "name": "Kabupaten Toli-Toli",
+        "latitude": 1.30862,
+        "longitude": 120.88643
+    },
+    {
+        "name": "Палу Сити",
+        "latitude": -0.86972,
+        "longitude": 119.9
+    },
+    {
+        "name": "Лувук",
+        "latitude": -0.9516,
+        "longitude": 122.7875
+    },
+    {
+        "name": "Моровали Регентство",
+        "latitude": -2.76062,
+        "longitude": 121.95267
+    },
+    {
+        "name": "Молоток",
+        "latitude": -0.90833,
+        "longitude": 119.87083
+    },
+    {
+        "name": "Почта",
+        "latitude": -1.3959,
+        "longitude": 120.7524
+    },
+    {
+        "name": "Тодзэ Уна-Уна Регентство",
+        "latitude": -1.2036,
+        "longitude": 121.48201
+    },
+    {
+        "name": "Бомбана Ридженси",
+        "latitude": -4.6257,
+        "longitude": 121.81641
+    },
+    {
+        "name": "Бутон Ридженси",
+        "latitude": -5.31667,
+        "longitude": 122.91667
+    },
+    {
+        "name": "Саут-Бутон Ридженси",
+        "latitude": -5.56667,
+        "longitude": 122.7
+    },
+    {
+        "name": "Центральный Бутон Ридженси",
+        "latitude": -5.31667,
+        "longitude": 122.33333
+    },
+    {
+        "name": "Норт-Бутон Ридженси",
+        "latitude": -5.01457,
+        "longitude": 122.93015
+    },
+    {
+        "name": "Колака Ридженси",
+        "latitude": -4.08333,
+        "longitude": 121.66667
+    },
+    {
+        "name": "Восточная Колака Регентство",
+        "latitude": -4.01807,
+        "longitude": 121.86172
+    },
+    {
+        "name": "Северная Колака Ридженси",
+        "latitude": -3.10452,
+        "longitude": 121.12427
+    },
+    {
+        "name": "Kabupaten Konawe",
+        "latitude": -3.91717,
+        "longitude": 122.08823
+    },
+    {
+        "name": "Регентство островов Конаве",
+        "latitude": -4.11656,
+        "longitude": 123.10181
+    },
+    {
+        "name": "Южное Конаве Регентство",
+        "latitude": -4.19191,
+        "longitude": 122.44854
+    },
+    {
+        "name": "Регентство Северного Конаве",
+        "latitude": -3.41552,
+        "longitude": 121.99081
+    },
+    {
+        "name": "Kabupaten Muna",
+        "latitude": -4.96667,
+        "longitude": 122.66667
+    },
+    {
+        "name": "Вест-Муна Регентство",
+        "latitude": -4.83333,
+        "longitude": 122.48333
+    },
+    {
+        "name": "Книга",
+        "latitude": -4.9333,
+        "longitude": 122.5167
+    },
+    {
+        "name": "Кендари",
+        "latitude": -3.9778,
+        "longitude": 122.51507
+    },
+    {
+        "name": "Баубау Сити",
+        "latitude": -5.477,
+        "longitude": 122.6166
+    },
+    {
+        "name": "Кендари Сити",
+        "latitude": -3.98333,
+        "longitude": 122.5
+    },
+    {
+        "name": "Вакатоби Регентство",
+        "latitude": -5.31934,
+        "longitude": 123.5948
+    },
+    {
+        "name": "Регентство Болаанг Монгондоу",
+        "latitude": 0.75,
+        "longitude": 124.08333
+    },
+    {
+        "name": "Регентство Южный Болаанг Монгондоу",
+        "latitude": 0.40912,
+        "longitude": 123.75961
+    },
+    {
+        "name": "Регентство Ист-Болаанг Монгонду",
+        "latitude": 0.72073,
+        "longitude": 124.50256
+    },
+    {
+        "name": "Регентство Северного Болаанга Монгондоу",
+        "latitude": 0.78527,
+        "longitude": 123.41766
+    },
+    {
+        "name": "Регентство островов Сангихе",
+        "latitude": 3.5,
+        "longitude": 125.55
+    },
+    {
+        "name": "Регентство островов Талауд",
+        "latitude": 4.31178,
+        "longitude": 126.78085
+    },
+    {
+        "name": "Минахаса Регентство",
+        "latitude": 1.2537,
+        "longitude": 124.83
+    },
+    {
+        "name": "Южная Минахаса Регентство",
+        "latitude": 1.21291,
+        "longitude": 124.59708
+    },
+    {
+        "name": "Юго-Восточная Минахаса Регентство",
+        "latitude": 1.05633,
+        "longitude": 124.7925
+    },
+    {
+        "name": "Регентство Северная Минахаса",
+        "latitude": 1.4025,
+        "longitude": 124.96
+    },
+    {
+        "name": "Сиау Тагуланданг Биаро Регентство",
+        "latitude": 2.11728,
+        "longitude": 125.37512
+    },
+    {
+        "name": "Битунг Сити",
+        "latitude": 1.48333,
+        "longitude": 125.15
+    },
+    {
+        "name": "Котамобагу Сити",
+        "latitude": 0.68915,
+        "longitude": 124.32678
+    },
+    {
+        "name": "Манадо Сити",
+        "latitude": 1.51667,
+        "longitude": 124.88333
+    },
+    {
+        "name": "Томохон Сити",
+        "latitude": 1.31307,
+        "longitude": 124.83404
+    },
+    {
+        "name": "Лайкит Лайкит II (Димембе)",
+        "latitude": 1.48833,
+        "longitude": 124.97444
+    },
+    {
+        "name": "Манадо",
+        "latitude": 1.48218,
+        "longitude": 124.84892
+    },
+    {
+        "name": "Томохон",
+        "latitude": 1.31678,
+        "longitude": 124.80379
+    },
+    {
+        "name": "Тондано",
+        "latitude": 1.3054,
+        "longitude": 124.91261
+    },
+    {
+        "name": "Букиттинги",
+        "latitude": -0.30907,
+        "longitude": 100.37055
+    },
+    {
+        "name": "Агам Ридженси",
+        "latitude": -0.25,
+        "longitude": 100.16667
+    },
+    {
+        "name": "Дхармасрая Регентство",
+        "latitude": -1.05,
+        "longitude": 101.367
+    },
+    {
+        "name": "Регентство Ментавайских островов",
+        "latitude": 1.98917,
+        "longitude": 99.51889
+    },
+    {
+        "name": "Район пятидесяти городов",
+        "latitude": -0.0168,
+        "longitude": 100.5872
+    },
+    {
+        "name": "Паданг Париаман Регентство",
+        "latitude": -0.6,
+        "longitude": 100.28333
+    },
+    {
+        "name": "Пасаман Ридженси",
+        "latitude": 0.42503,
+        "longitude": 99.94606
+    },
+    {
+        "name": "Вест-Пасаман Ридженси",
+        "latitude": 0.28152,
+        "longitude": 99.51965
+    },
+    {
+        "name": "Южное прибрежное регентство",
+        "latitude": -1.58333,
+        "longitude": 100.85
+    },
+    {
+        "name": "Сиджунджунг Регентство",
+        "latitude": -1.1827,
+        "longitude": 101.6056
+    },
+    {
+        "name": "Солок Ридженси",
+        "latitude": -0.96667,
+        "longitude": 100.81667
+    },
+    {
+        "name": "Южный Солок Ридженси",
+        "latitude": -1.23333,
+        "longitude": 101.417
+    },
+    {
+        "name": "Танах Датар Ридженси",
+        "latitude": -0.4555,
+        "longitude": 100.5771
+    },
+    {
+        "name": "Букиттинги Сити",
+        "latitude": -0.275,
+        "longitude": 100.375
+    },
+    {
+        "name": "Паданг город",
+        "latitude": -0.98333,
+        "longitude": 100.45
+    },
+    {
+        "name": "Паданг Панджанг Сити",
+        "latitude": -0.45,
+        "longitude": 100.43333
+    },
+    {
+        "name": "Париаман Сити",
+        "latitude": -0.62682,
+        "longitude": 100.12047
+    },
+    {
+        "name": "Паякумбуха Сити",
+        "latitude": -0.23333,
+        "longitude": 100.63333
+    },
+    {
+        "name": "Савах Лунто Сити",
+        "latitude": -0.6,
+        "longitude": 100.75
+    },
+    {
+        "name": "Солок Сити",
+        "latitude": -0.76667,
+        "longitude": 100.61667
+    },
+    {
+        "name": "Паданг",
+        "latitude": -0.94924,
+        "longitude": 100.35427
+    },
+    {
+        "name": "Париаман",
+        "latitude": -0.61898,
+        "longitude": 100.11997
+    },
+    {
+        "name": "Паякумбуха",
+        "latitude": -0.2159,
+        "longitude": 100.6334
+    },
+    {
+        "name": "Сиджунджунг",
+        "latitude": -0.7005,
+        "longitude": 100.9774
+    },
+    {
+        "name": "Соло",
+        "latitude": -0.8006,
+        "longitude": 100.6571
+    },
+    {
+        "name": "Королевский камень",
+        "latitude": -4.12891,
+        "longitude": 104.16695
+    },
+    {
+        "name": "Эмпат Лаванг Ридженси",
+        "latitude": 3.22667,
+        "longitude": 99.09256
+    },
+    {
+        "name": "Муара Эним Ридженси",
+        "latitude": -4.2327,
+        "longitude": 103.6141
+    },
+    {
+        "name": "Муси Баньюасин Ридженси",
+        "latitude": -2.41667,
+        "longitude": 103.75
+    },
+    {
+        "name": "Муси Равас Ридженси Отель",
+        "latitude": -3.08333,
+        "longitude": 103.2
+    },
+    {
+        "name": "Регентство Северного Муси Раваса",
+        "latitude": -2.48533,
+        "longitude": 103.29346
+    },
+    {
+        "name": "Оган Илир Ридженси",
+        "latitude": -3.43186,
+        "longitude": 104.62727
+    },
+    {
+        "name": "Оган Комеринг Илир Ридженси",
+        "latitude": -3.36667,
+        "longitude": 105.36667
+    },
+    {
+        "name": "Оган Комеринг Улу Ридженси",
+        "latitude": -4.13333,
+        "longitude": 104.03333
+    },
+    {
+        "name": "Южный Оган Комеринг Улу Ридженси",
+        "latitude": -4.65728,
+        "longitude": 104.00659
+    },
+    {
+        "name": "Ист-Оган Комеринг Улу Ридженси",
+        "latitude": -3.85679,
+        "longitude": 104.75209
+    },
+    {
+        "name": "Пенукал Абаб Лематанг Илир Регентство",
+        "latitude": -3.21342,
+        "longitude": 104.08722
+    },
+    {
+        "name": "Любуклингау Сити",
+        "latitude": -3.29308,
+        "longitude": 102.85503
+    },
+    {
+        "name": "Пагар Алам Сити",
+        "latitude": -4.13055,
+        "longitude": 103.26822
+    },
+    {
+        "name": "город Палембанг",
+        "latitude": -3.0,
+        "longitude": 104.71667
+    },
+    {
+        "name": "Прабумулих Сити",
+        "latitude": -3.46202,
+        "longitude": 104.2229
+    },
+    {
+        "name": "Все",
+        "latitude": -3.78514,
+        "longitude": 103.54279
+    },
+    {
+        "name": "Все Регентство",
+        "latitude": -3.7864,
+        "longitude": 103.5428
+    },
+    {
+        "name": "Любуклингау",
+        "latitude": -3.2945,
+        "longitude": 102.8614
+    },
+    {
+        "name": "Естественный забор",
+        "latitude": -4.02506,
+        "longitude": 103.24694
+    },
+    {
+        "name": "Палембанг",
+        "latitude": -2.91673,
+        "longitude": 104.7458
+    },
+    {
+        "name": "Прабумулих",
+        "latitude": -3.43447,
+        "longitude": 104.23056
+    },
+    {
+        "name": "Танджунггунг",
+        "latitude": -3.93728,
+        "longitude": 103.80465
+    },
+    {
+        "name": "Амбарита",
+        "latitude": 2.6814,
+        "longitude": 98.8311
+    },
+    {
+        "name": "Бандар",
+        "latitude": 2.05,
+        "longitude": 99.75
+    },
+    {
+        "name": "Белаван",
+        "latitude": 3.7755,
+        "longitude": 98.6832
+    },
+    {
+        "name": "Берастаги",
+        "latitude": 3.19468,
+        "longitude": 98.50889
+    },
+    {
+        "name": "Бинджай",
+        "latitude": 3.6001,
+        "longitude": 98.4854
+    },
+    {
+        "name": "Дели Туа",
+        "latitude": 3.5078,
+        "longitude": 98.6839
+    },
+    {
+        "name": "Гунунгситоли",
+        "latitude": 1.2888,
+        "longitude": 97.6143
+    },
+    {
+        "name": "Кабанджахе",
+        "latitude": 3.1001,
+        "longitude": 98.4908
+    },
+    {
+        "name": "Асахан Ридженси",
+        "latitude": 2.78333,
+        "longitude": 99.55
+    },
+    {
+        "name": "Бату Бара Регентство",
+        "latitude": 3.16166,
+        "longitude": 99.52652
+    },
+    {
+        "name": "Дайри Ридженси",
+        "latitude": 2.86667,
+        "longitude": 98.23333
+    },
+    {
+        "name": "Дели Серданг Ридженси",
+        "latitude": 3.41667,
+        "longitude": 98.66667
+    },
+    {
+        "name": "Регентство Хумбанг Хасундутан",
+        "latitude": 2.26551,
+        "longitude": 98.50376
+    },
+    {
+        "name": "Kabupaten Karo",
+        "latitude": 3.11667,
+        "longitude": 98.3
+    },
+    {
+        "name": "Лабухан Бату Регентство",
+        "latitude": 2.26667,
+        "longitude": 100.1
+    },
+    {
+        "name": "Южный Лабухан Бату Регентство",
+        "latitude": 1.983,
+        "longitude": 100.0976
+    },
+    {
+        "name": "Регентство Северный Лабухан-Бату",
+        "latitude": 2.33349,
+        "longitude": 99.63776
+    },
+    {
+        "name": "Лангкат Регентство",
+        "latitude": 3.71667,
+        "longitude": 98.21667
+    },
+    {
+        "name": "Мандейлирование Натальского Регентства",
+        "latitude": 0.78378,
+        "longitude": 99.25495
+    },
+    {
+        "name": "Ниас Ридженси",
+        "latitude": 1.03333,
+        "longitude": 97.76667
+    },
+    {
+        "name": "Вест-Ниас Ридженси",
+        "latitude": 1.05966,
+        "longitude": 97.58606
+    },
+    {
+        "name": "Северный Ниас Ридженси",
+        "latitude": 1.33037,
+        "longitude": 97.31964
+    },
+    {
+        "name": "Kabupaten Padang Lawas",
+        "latitude": 1.44684,
+        "longitude": 99.99207
+    },
+    {
+        "name": "Kabupaten Padang Lawas Utara",
+        "latitude": 1.46011,
+        "longitude": 99.67346
+    },
+    {
+        "name": "Kabupaten Pak Bharat",
+        "latitude": 2.56667,
+        "longitude": 98.28333
+    },
+    {
+        "name": "Самосир Ридженси",
+        "latitude": 2.64025,
+        "longitude": 98.71525
+    },
+    {
+        "name": "Регентство Серданг Бедагай",
+        "latitude": 3.36667,
+        "longitude": 99.03333
+    },
+    {
+        "name": "Сималунгун Регентство",
+        "latitude": 2.9,
+        "longitude": 99.0
+    },
+    {
+        "name": "Южный Тапанули Ридженси",
+        "latitude": 1.51667,
+        "longitude": 99.25
+    },
+    {
+        "name": "Центральное Тапанули Регентство",
+        "latitude": 1.9,
+        "longitude": 98.66667
+    },
+    {
+        "name": "Регентство Северного Тапанули",
+        "latitude": 2.0028,
+        "longitude": 99.0707
+    },
+    {
+        "name": "Диапазон",
+        "latitude": 2.9845,
+        "longitude": 99.6158
+    },
+    {
+        "name": "Биньяй Сити",
+        "latitude": 3.8,
+        "longitude": 108.23333
+    },
+    {
+        "name": "Гунунгситоли город",
+        "latitude": 1.32731,
+        "longitude": 97.55018
+    },
+    {
+        "name": "Медан город",
+        "latitude": 3.65,
+        "longitude": 98.66667
+    },
+    {
+        "name": "Падангсидимпуан город",
+        "latitude": 1.37375,
+        "longitude": 99.26843
+    },
+    {
+        "name": "Пематангсиантар Сити",
+        "latitude": 2.96667,
+        "longitude": 99.05
+    },
+    {
+        "name": "Сиболга Сити",
+        "latitude": 1.73333,
+        "longitude": 98.8
+    },
+    {
+        "name": "Танджунг Балай Сити",
+        "latitude": 2.95833,
+        "longitude": 99.79167
+    },
+    {
+        "name": "Тебинг Тингги Сити",
+        "latitude": 3.325,
+        "longitude": 99.14167
+    },
+    {
+        "name": "Лабухан Дели",
+        "latitude": 3.7278,
+        "longitude": 98.6738
+    },
+    {
+        "name": "Пока",
+        "latitude": 3.58333,
+        "longitude": 98.66667
+    },
+    {
+        "name": "Падангсидемпуан",
+        "latitude": 1.37952,
+        "longitude": 99.27146
+    },
+    {
+        "name": "База Брэндана",
+        "latitude": 4.0238,
+        "longitude": 98.2782
+    },
+    {
+        "name": "Парапат",
+        "latitude": 2.663,
+        "longitude": 98.9349
+    },
+    {
+        "name": "Неделя Бахапала",
+        "latitude": 3.11313,
+        "longitude": 99.17352
+    },
+    {
+        "name": "Пематангсиантар",
+        "latitude": 2.9595,
+        "longitude": 99.0687
+    },
+    {
+        "name": "Путаница",
+        "latitude": 3.5679,
+        "longitude": 98.956
+    },
+    {
+        "name": "Перкат",
+        "latitude": 3.6253,
+        "longitude": 98.864
+    },
+    {
+        "name": "Рантаупрапат",
+        "latitude": 2.1,
+        "longitude": 99.83333
+    },
+    {
+        "name": "Сиболга",
+        "latitude": 1.74016,
+        "longitude": 98.78117
+    },
+    {
+        "name": "Он стоял",
+        "latitude": 3.73335,
+        "longitude": 98.45025
+    },
+    {
+        "name": "Одинокий",
+        "latitude": 3.5765,
+        "longitude": 98.6151
+    },
+    {
+        "name": "Танджунг Балай",
+        "latitude": 2.96667,
+        "longitude": 99.8
+    },
+    {
+        "name": "Танджунгтирам",
+        "latitude": 4.0613,
+        "longitude": 98.3699
+    },
+    {
+        "name": "Высокая скала",
+        "latitude": 3.3285,
+        "longitude": 99.1625
+    },
+    {
+        "name": "Нибунг Бэй",
+        "latitude": 3.001,
+        "longitude": 99.8164
+    },
+    {
+        "name": "Томок Болон",
+        "latitude": 2.6521,
+        "longitude": 98.8608
+    },
+    {
+        "name": "Щипцы",
+        "latitude": 2.8985,
+        "longitude": 98.5231
+    },
+    {
+        "name": "Туктук Сонак",
+        "latitude": 2.6689,
+        "longitude": 98.8576
+    }
+]

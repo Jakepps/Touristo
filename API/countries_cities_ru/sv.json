@@ -1,0 +1,502 @@
+[
+    {
+        "name": "Ауачапан",
+        "latitude": 13.92139,
+        "longitude": -89.845
+    },
+    {
+        "name": "Атикизая",
+        "latitude": 13.97694,
+        "longitude": -89.7525
+    },
+    {
+        "name": "Концепция Атако",
+        "latitude": 13.87028,
+        "longitude": -89.84861
+    },
+    {
+        "name": "Гуайманго",
+        "latitude": 13.75028,
+        "longitude": -89.84222
+    },
+    {
+        "name": "Жухутла",
+        "latitude": 13.78694,
+        "longitude": -89.85722
+    },
+    {
+        "name": "Сан-Франциско Менендес",
+        "latitude": 13.84306,
+        "longitude": -90.01583
+    },
+    {
+        "name": "Такуба",
+        "latitude": 13.90111,
+        "longitude": -89.92972
+    },
+    {
+        "name": "Сенсунтепеке",
+        "latitude": 13.86667,
+        "longitude": -88.63333
+    },
+    {
+        "name": "Виктория",
+        "latitude": 13.95,
+        "longitude": -88.63333
+    },
+    {
+        "name": "Чалатенанго",
+        "latitude": 14.03333,
+        "longitude": -88.93333
+    },
+    {
+        "name": "Новая концепция",
+        "latitude": 14.13333,
+        "longitude": -89.3
+    },
+    {
+        "name": "Кохутепеке",
+        "latitude": 13.71667,
+        "longitude": -88.93333
+    },
+    {
+        "name": "Сан-Мартин",
+        "latitude": 13.78333,
+        "longitude": -88.91667
+    },
+    {
+        "name": "Сучитото",
+        "latitude": 13.93806,
+        "longitude": -89.02778
+    },
+    {
+        "name": "Теколука",
+        "latitude": 13.78917,
+        "longitude": -89.00528
+    },
+    {
+        "name": "Тенансинго",
+        "latitude": 13.83333,
+        "longitude": -88.98333
+    },
+    {
+        "name": "Древний Кускатлан",
+        "latitude": 13.66492,
+        "longitude": -89.25319
+    },
+    {
+        "name": "Кленовый город",
+        "latitude": 13.84028,
+        "longitude": -89.44722
+    },
+    {
+        "name": "Свобода",
+        "latitude": 13.48833,
+        "longitude": -89.32222
+    },
+    {
+        "name": "Нью-Кускатлан",
+        "latitude": 13.64861,
+        "longitude": -89.26528
+    },
+    {
+        "name": "Кесалтепеке",
+        "latitude": 13.83124,
+        "longitude": -89.27221
+    },
+    {
+        "name": "Сан-Хуанская обезьяна",
+        "latitude": 13.87611,
+        "longitude": -89.35972
+    },
+    {
+        "name": "Сан-Пабло Такачико",
+        "latitude": 13.97556,
+        "longitude": -89.34
+    },
+    {
+        "name": "Святая кнопка",
+        "latitude": 13.67694,
+        "longitude": -89.27972
+    },
+    {
+        "name": "Сарагоса",
+        "latitude": 13.58944,
+        "longitude": -89.28889
+    },
+    {
+        "name": "Розарий",
+        "latitude": 13.49778,
+        "longitude": -89.02972
+    },
+    {
+        "name": "Место",
+        "latitude": 13.56972,
+        "longitude": -89.11722
+    },
+    {
+        "name": "Сан-Педро-Масауат",
+        "latitude": 13.54361,
+        "longitude": -89.03861
+    },
+    {
+        "name": "Сантьяго Нонуалко",
+        "latitude": 13.51667,
+        "longitude": -88.95
+    },
+    {
+        "name": "Сакатеколука",
+        "latitude": 13.5,
+        "longitude": -88.86667
+    },
+    {
+        "name": "Анаморос",
+        "latitude": 13.74056,
+        "longitude": -87.87361
+    },
+    {
+        "name": "Кончагуа",
+        "latitude": 13.30778,
+        "longitude": -87.86472
+    },
+    {
+        "name": "Интипука",
+        "latitude": 13.19694,
+        "longitude": -88.05444
+    },
+    {
+        "name": "Союз",
+        "latitude": 13.33694,
+        "longitude": -87.84389
+    },
+    {
+        "name": "Новая Спарта",
+        "latitude": 13.78361,
+        "longitude": -87.83861
+    },
+    {
+        "name": "Проход",
+        "latitude": 13.58444,
+        "longitude": -87.84111
+    },
+    {
+        "name": "Оплатить гостю",
+        "latitude": 13.43139,
+        "longitude": -87.96306
+    },
+    {
+        "name": "Санта-Роза-де-Лима",
+        "latitude": 13.62472,
+        "longitude": -87.89361
+    },
+    {
+        "name": "Какао опера",
+        "latitude": 13.76667,
+        "longitude": -88.08333
+    },
+    {
+        "name": "Коринф",
+        "latitude": 13.81083,
+        "longitude": -87.97139
+    },
+    {
+        "name": "Гуатахиагуа",
+        "latitude": 13.66667,
+        "longitude": -88.2
+    },
+    {
+        "name": "Хокоро",
+        "latitude": 13.61667,
+        "longitude": -88.01667
+    },
+    {
+        "name": "Сан-Франциско",
+        "latitude": 13.7,
+        "longitude": -88.1
+    },
+    {
+        "name": "Сосьедад",
+        "latitude": 13.7,
+        "longitude": -88.01667
+    },
+    {
+        "name": "часовня",
+        "latitude": 13.63333,
+        "longitude": -88.26667
+    },
+    {
+        "name": "Чинамека",
+        "latitude": 13.5,
+        "longitude": -88.35
+    },
+    {
+        "name": "Чирилагуа",
+        "latitude": 13.22028,
+        "longitude": -88.13861
+    },
+    {
+        "name": "Районы города",
+        "latitude": 13.76667,
+        "longitude": -88.26667
+    },
+    {
+        "name": "Транзит",
+        "latitude": 13.35,
+        "longitude": -88.35
+    },
+    {
+        "name": "Лолотик",
+        "latitude": 13.55,
+        "longitude": -88.35
+    },
+    {
+        "name": "Монкагуа",
+        "latitude": 13.53333,
+        "longitude": -88.25
+    },
+    {
+        "name": "Нью-Гуадалупе",
+        "latitude": 13.53333,
+        "longitude": -88.35
+    },
+    {
+        "name": "Сан-Мигель",
+        "latitude": 13.48333,
+        "longitude": -88.18333
+    },
+    {
+        "name": "Сан-Рафаэль Ориенте",
+        "latitude": 13.38333,
+        "longitude": -88.35
+    },
+    {
+        "name": "Аксессуары",
+        "latitude": 13.71667,
+        "longitude": -88.36667
+    },
+    {
+        "name": "Агиларес",
+        "latitude": 13.95722,
+        "longitude": -89.18972
+    },
+    {
+        "name": "Апока",
+        "latitude": 13.80722,
+        "longitude": -89.17917
+    },
+    {
+        "name": "Аютукстепеке",
+        "latitude": 13.74556,
+        "longitude": -89.20639
+    },
+    {
+        "name": "Кускатансинго",
+        "latitude": 13.73611,
+        "longitude": -89.18139
+    },
+    {
+        "name": "Дельгадо",
+        "latitude": 13.72417,
+        "longitude": -89.17028
+    },
+    {
+        "name": "Эль-Пейсналь",
+        "latitude": 13.97361,
+        "longitude": -89.21861
+    },
+    {
+        "name": "Гуасапа",
+        "latitude": 13.87694,
+        "longitude": -89.17306
+    },
+    {
+        "name": "Илопанго",
+        "latitude": 13.70167,
+        "longitude": -89.10944
+    },
+    {
+        "name": "мексиканцы",
+        "latitude": 13.74028,
+        "longitude": -89.21306
+    },
+    {
+        "name": "Панчималько",
+        "latitude": 13.61278,
+        "longitude": -89.18
+    },
+    {
+        "name": "Росарио де Мора",
+        "latitude": 13.57528,
+        "longitude": -89.20889
+    },
+    {
+        "name": "Святой Марк",
+        "latitude": 13.65889,
+        "longitude": -89.18306
+    },
+    {
+        "name": "Сан-Салвадор",
+        "latitude": 13.68935,
+        "longitude": -89.18718
+    },
+    {
+        "name": "Сент-Томас",
+        "latitude": 13.64083,
+        "longitude": -89.13333
+    },
+    {
+        "name": "Сояпанго",
+        "latitude": 13.71024,
+        "longitude": -89.13989
+    },
+    {
+        "name": "Тонакатепеке",
+        "latitude": 13.78111,
+        "longitude": -89.11861
+    },
+    {
+        "name": "Апастепеке",
+        "latitude": 13.66667,
+        "longitude": -88.78333
+    },
+    {
+        "name": "Святой Себастьян",
+        "latitude": 13.73333,
+        "longitude": -88.83333
+    },
+    {
+        "name": "Сент-Винсент",
+        "latitude": 13.63333,
+        "longitude": -88.8
+    },
+    {
+        "name": "Канделария-де-ла-Фронтера",
+        "latitude": 14.11667,
+        "longitude": -89.65
+    },
+    {
+        "name": "Чалчуапа",
+        "latitude": 13.98667,
+        "longitude": -89.68111
+    },
+    {
+        "name": "Коатепеке",
+        "latitude": 13.92861,
+        "longitude": -89.50417
+    },
+    {
+        "name": "Конго",
+        "latitude": 13.90889,
+        "longitude": -89.49583
+    },
+    {
+        "name": "Метапан",
+        "latitude": 14.33333,
+        "longitude": -89.45
+    },
+    {
+        "name": "Санта Ана",
+        "latitude": 13.99417,
+        "longitude": -89.55972
+    },
+    {
+        "name": "Тексистепек",
+        "latitude": 14.13333,
+        "longitude": -89.5
+    },
+    {
+        "name": "Акахутла",
+        "latitude": 13.59278,
+        "longitude": -89.8275
+    },
+    {
+        "name": "Армения",
+        "latitude": 13.74361,
+        "longitude": -89.49889
+    },
+    {
+        "name": "Исалько",
+        "latitude": 13.74472,
+        "longitude": -89.67306
+    },
+    {
+        "name": "ХУАЮА",
+        "latitude": 13.84139,
+        "longitude": -89.74556
+    },
+    {
+        "name": "Науисалько",
+        "latitude": 13.7775,
+        "longitude": -89.73667
+    },
+    {
+        "name": "Сан-Антонио-дель-Монте",
+        "latitude": 13.71639,
+        "longitude": -89.73833
+    },
+    {
+        "name": "сонсоната",
+        "latitude": 13.71889,
+        "longitude": -89.72417
+    },
+    {
+        "name": "Сонсакате",
+        "latitude": 13.73417,
+        "longitude": -89.71472
+    },
+    {
+        "name": "Берлин",
+        "latitude": 13.5,
+        "longitude": -88.53333
+    },
+    {
+        "name": "Консепсьон Батрес",
+        "latitude": 13.35,
+        "longitude": -88.36667
+    },
+    {
+        "name": "Хикилиско",
+        "latitude": 13.31667,
+        "longitude": -88.58333
+    },
+    {
+        "name": "Хукуапа",
+        "latitude": 13.51667,
+        "longitude": -88.38333
+    },
+    {
+        "name": "Хукуаран",
+        "latitude": 13.25389,
+        "longitude": -88.24778
+    },
+    {
+        "name": "Озатлан",
+        "latitude": 13.38333,
+        "longitude": -88.5
+    },
+    {
+        "name": "Пуэрто Эль Триунфо",
+        "latitude": 13.28333,
+        "longitude": -88.55
+    },
+    {
+        "name": "Сан-Агустин",
+        "latitude": 13.43333,
+        "longitude": -88.6
+    },
+    {
+        "name": "ул. Хелен",
+        "latitude": 13.38333,
+        "longitude": -88.41667
+    },
+    {
+        "name": "Сантьяго де Мария",
+        "latitude": 13.48333,
+        "longitude": -88.46667
+    },
+    {
+        "name": "Усулутан",
+        "latitude": 13.35,
+        "longitude": -88.45
+    }
+]

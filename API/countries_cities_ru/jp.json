@@ -1,0 +1,8357 @@
+[
+    {
+        "name": "Айсай-ши",
+        "latitude": 35.17234,
+        "longitude": 136.69478
+    },
+    {
+        "name": "Ама-пушка",
+        "latitude": 35.17174,
+        "longitude": 136.82308
+    },
+    {
+        "name": "Андзё-ши",
+        "latitude": 34.94341,
+        "longitude": 137.07165
+    },
+    {
+        "name": "Чирю",
+        "latitude": 35.0,
+        "longitude": 137.03333
+    },
+    {
+        "name": "Чирю-ши",
+        "latitude": 34.99862,
+        "longitude": 137.05
+    },
+    {
+        "name": "Садиться",
+        "latitude": 35.00267,
+        "longitude": 136.8642
+    },
+    {
+        "name": "Чита-ши",
+        "latitude": 34.97048,
+        "longitude": 136.8649
+    },
+    {
+        "name": "Гамагори",
+        "latitude": 34.83333,
+        "longitude": 137.23333
+    },
+    {
+        "name": "Гамагори-ши",
+        "latitude": 34.82759,
+        "longitude": 137.22752
+    },
+    {
+        "name": "Ханда",
+        "latitude": 34.88333,
+        "longitude": 136.93333
+    },
+    {
+        "name": "Ханда-ши",
+        "latitude": 34.89903,
+        "longitude": 136.9266
+    },
+    {
+        "name": "в",
+        "latitude": 34.88333,
+        "longitude": 136.98333
+    },
+    {
+        "name": "Хекинан-ши",
+        "latitude": 34.87955,
+        "longitude": 136.99155
+    },
+    {
+        "name": "Ичиномия",
+        "latitude": 35.3,
+        "longitude": 136.8
+    },
+    {
+        "name": "Ичиномия-ши",
+        "latitude": 35.31037,
+        "longitude": 136.79237
+    },
+    {
+        "name": "Инадзава",
+        "latitude": 35.25,
+        "longitude": 136.78333
+    },
+    {
+        "name": "Инадзава-ши",
+        "latitude": 35.24814,
+        "longitude": 136.77979
+    },
+    {
+        "name": "Инуяма",
+        "latitude": 35.37995,
+        "longitude": 136.94295
+    },
+    {
+        "name": "Инуяма-ши",
+        "latitude": 35.36232,
+        "longitude": 136.98072
+    },
+    {
+        "name": "Исики",
+        "latitude": 34.8,
+        "longitude": 137.01667
+    },
+    {
+        "name": "Ивакура",
+        "latitude": 35.28333,
+        "longitude": 136.86667
+    },
+    {
+        "name": "Ивакура-ши",
+        "latitude": 35.27927,
+        "longitude": 136.86885
+    },
+    {
+        "name": "Воздушные змеи",
+        "latitude": 35.13333,
+        "longitude": 136.8
+    },
+    {
+        "name": "Сука",
+        "latitude": 34.98333,
+        "longitude": 136.98333
+    },
+    {
+        "name": "Защити это",
+        "latitude": 35.01098,
+        "longitude": 137.00166
+    },
+    {
+        "name": "Касугай",
+        "latitude": 35.24762,
+        "longitude": 136.97229
+    },
+    {
+        "name": "Касугай-ши",
+        "latitude": 35.24762,
+        "longitude": 136.97226
+    },
+    {
+        "name": "Китанагоя",
+        "latitude": 35.24702,
+        "longitude": 136.87832
+    },
+    {
+        "name": "Китанагоя-ши",
+        "latitude": 35.2464,
+        "longitude": 136.87293
+    },
+    {
+        "name": "Кёсу-ши",
+        "latitude": 35.21325,
+        "longitude": 136.84771
+    },
+    {
+        "name": "Комаки",
+        "latitude": 35.28333,
+        "longitude": 136.91667
+    },
+    {
+        "name": "Комаки-ши",
+        "latitude": 35.29103,
+        "longitude": 136.91196
+    },
+    {
+        "name": "Конан",
+        "latitude": 35.33165,
+        "longitude": 136.87042
+    },
+    {
+        "name": "Конан-ши",
+        "latitude": 35.33137,
+        "longitude": 136.87077
+    },
+    {
+        "name": "казак-чо",
+        "latitude": 34.8,
+        "longitude": 137.35889
+    },
+    {
+        "name": "Курода",
+        "latitude": 35.35,
+        "longitude": 136.78333
+    },
+    {
+        "name": "Миёси-ши",
+        "latitude": 35.0948,
+        "longitude": 137.0887
+    },
+    {
+        "name": "Нагакуте-ши",
+        "latitude": 35.18335,
+        "longitude": 137.04895
+    },
+    {
+        "name": "Нагоя",
+        "latitude": 35.18147,
+        "longitude": 136.90641
+    },
+    {
+        "name": "Нисио",
+        "latitude": 34.86667,
+        "longitude": 137.05
+    },
+    {
+        "name": "Нисио-ши",
+        "latitude": 34.86223,
+        "longitude": 137.05433
+    },
+    {
+        "name": "Ниссин-ши",
+        "latitude": 35.13114,
+        "longitude": 137.03934
+    },
+    {
+        "name": "Обу",
+        "latitude": 35.01756,
+        "longitude": 136.94947
+    },
+    {
+        "name": "Обу-ши",
+        "latitude": 35.0192,
+        "longitude": 136.95424
+    },
+    {
+        "name": "Окадзаки-ши",
+        "latitude": 34.95245,
+        "longitude": 137.25783
+    },
+    {
+        "name": "Овариасахи-ши",
+        "latitude": 35.21652,
+        "longitude": 137.03542
+    },
+    {
+        "name": "Сето",
+        "latitude": 35.23333,
+        "longitude": 137.1
+    },
+    {
+        "name": "Сето-ши",
+        "latitude": 35.2234,
+        "longitude": 137.08414
+    },
+    {
+        "name": "Синсиро",
+        "latitude": 34.9,
+        "longitude": 137.5
+    },
+    {
+        "name": "Синсиро-ши",
+        "latitude": 34.96073,
+        "longitude": 137.5436
+    },
+    {
+        "name": "Собуэ",
+        "latitude": 35.25,
+        "longitude": 136.71667
+    },
+    {
+        "name": "Тахара",
+        "latitude": 34.66667,
+        "longitude": 137.26667
+    },
+    {
+        "name": "Тахара-ши",
+        "latitude": 34.6414,
+        "longitude": 137.18314
+    },
+    {
+        "name": "Такахама",
+        "latitude": 34.91667,
+        "longitude": 136.98333
+    },
+    {
+        "name": "Такахама-ши",
+        "latitude": 34.93337,
+        "longitude": 136.9949
+    },
+    {
+        "name": "Taketoyo",
+        "latitude": 34.85,
+        "longitude": 136.91667
+    },
+    {
+        "name": "Токай-ши",
+        "latitude": 35.02676,
+        "longitude": 136.89846
+    },
+    {
+        "name": "Токонамэ",
+        "latitude": 34.88333,
+        "longitude": 136.85
+    },
+    {
+        "name": "Токонамэ-ши",
+        "latitude": 34.88929,
+        "longitude": 136.85299
+    },
+    {
+        "name": "Тойоаке",
+        "latitude": 35.038,
+        "longitude": 136.99931
+    },
+    {
+        "name": "Тойоке-ши",
+        "latitude": 35.06248,
+        "longitude": 137.00887
+    },
+    {
+        "name": "Тойохама",
+        "latitude": 34.70933,
+        "longitude": 136.93425
+    },
+    {
+        "name": "Тойохаси",
+        "latitude": 34.76667,
+        "longitude": 137.38333
+    },
+    {
+        "name": "Тойохаси-ши",
+        "latitude": 34.7405,
+        "longitude": 137.40714
+    },
+    {
+        "name": "Тойокава",
+        "latitude": 34.81667,
+        "longitude": 137.4
+    },
+    {
+        "name": "Тоёкава-ши",
+        "latitude": 34.85032,
+        "longitude": 137.36175
+    },
+    {
+        "name": "Тойота-ши",
+        "latitude": 35.087,
+        "longitude": 137.15
+    },
+    {
+        "name": "Цусима",
+        "latitude": 35.16667,
+        "longitude": 136.71667
+    },
+    {
+        "name": "Цусима-ши",
+        "latitude": 35.17718,
+        "longitude": 136.74168
+    },
+    {
+        "name": "Ятоми-ши",
+        "latitude": 35.10938,
+        "longitude": 136.72451
+    },
+    {
+        "name": "Акита",
+        "latitude": 39.71667,
+        "longitude": 140.11667
+    },
+    {
+        "name": "Акита Ши",
+        "latitude": 39.71043,
+        "longitude": 140.23207
+    },
+    {
+        "name": "Дайсен",
+        "latitude": 39.44116,
+        "longitude": 140.48961
+    },
+    {
+        "name": "Дайсен-ши",
+        "latitude": 39.5371,
+        "longitude": 140.44139
+    },
+    {
+        "name": "Запрет",
+        "latitude": 40.18361,
+        "longitude": 140.78722
+    },
+    {
+        "name": "Какунодатемачи",
+        "latitude": 39.58926,
+        "longitude": 140.56724
+    },
+    {
+        "name": "Катагами",
+        "latitude": 39.87869,
+        "longitude": 139.99767
+    },
+    {
+        "name": "Катагами-ши",
+        "latitude": 39.87209,
+        "longitude": 140.0491
+    },
+    {
+        "name": "Казуно Ши",
+        "latitude": 40.21035,
+        "longitude": 140.8303
+    },
+    {
+        "name": "Китаакита-ши",
+        "latitude": 40.23446,
+        "longitude": 140.39978
+    },
+    {
+        "name": "Никахо-ши",
+        "latitude": 39.19677,
+        "longitude": 139.97305
+    },
+    {
+        "name": "Носиро",
+        "latitude": 40.20838,
+        "longitude": 140.0274
+    },
+    {
+        "name": "Носиро Ши",
+        "latitude": 40.20289,
+        "longitude": 140.14486
+    },
+    {
+        "name": "Одате",
+        "latitude": 40.27178,
+        "longitude": 140.55756
+    },
+    {
+        "name": "Ваша привычка",
+        "latitude": 40.3,
+        "longitude": 140.55
+    },
+    {
+        "name": "Ога",
+        "latitude": 39.871,
+        "longitude": 139.84926
+    },
+    {
+        "name": "Ога-ши",
+        "latitude": 39.93793,
+        "longitude": 139.83611
+    },
+    {
+        "name": "Омагари",
+        "latitude": 39.45,
+        "longitude": 140.48333
+    },
+    {
+        "name": "Сембоку-ши",
+        "latitude": 39.75709,
+        "longitude": 140.66998
+    },
+    {
+        "name": "Таканосу",
+        "latitude": 40.22268,
+        "longitude": 140.36611
+    },
+    {
+        "name": "Бенно",
+        "latitude": 39.9,
+        "longitude": 139.96667
+    },
+    {
+        "name": "Ёкоте",
+        "latitude": 39.31691,
+        "longitude": 140.55034
+    },
+    {
+        "name": "Ёкотэ-ши",
+        "latitude": 39.28369,
+        "longitude": 140.54432
+    },
+    {
+        "name": "Юрихондзё",
+        "latitude": 39.3895,
+        "longitude": 140.05813
+    },
+    {
+        "name": "Юрихондзё-ши",
+        "latitude": 39.29336,
+        "longitude": 140.16498
+    },
+    {
+        "name": "Юдзава",
+        "latitude": 39.16667,
+        "longitude": 140.5
+    },
+    {
+        "name": "Иудава-ши",
+        "latitude": 39.03658,
+        "longitude": 140.54267
+    },
+    {
+        "name": "Аомори",
+        "latitude": 40.81667,
+        "longitude": 140.73333
+    },
+    {
+        "name": "Аомори Ши",
+        "latitude": 40.77001,
+        "longitude": 140.75423
+    },
+    {
+        "name": "Госьогавара",
+        "latitude": 40.80444,
+        "longitude": 140.44139
+    },
+    {
+        "name": "Госёгавара Ши",
+        "latitude": 40.91657,
+        "longitude": 140.46998
+    },
+    {
+        "name": "Хатинохе",
+        "latitude": 40.5,
+        "longitude": 141.5
+    },
+    {
+        "name": "Хатинохе Ши",
+        "latitude": 40.47389,
+        "longitude": 141.48125
+    },
+    {
+        "name": "Хиракава",
+        "latitude": 40.58728,
+        "longitude": 140.57107
+    },
+    {
+        "name": "Хиракава Ши",
+        "latitude": 40.51832,
+        "longitude": 140.70048
+    },
+    {
+        "name": "Хиросаки",
+        "latitude": 40.59306,
+        "longitude": 140.4725
+    },
+    {
+        "name": "Хиросаки Ши",
+        "latitude": 40.60512,
+        "longitude": 140.3846
+    },
+    {
+        "name": "Куроиси",
+        "latitude": 40.64581,
+        "longitude": 140.58354
+    },
+    {
+        "name": "Куроиси Ши",
+        "latitude": 40.61709,
+        "longitude": 140.70467
+    },
+    {
+        "name": "Мисава",
+        "latitude": 40.68682,
+        "longitude": 141.38969
+    },
+    {
+        "name": "Мисава Ши",
+        "latitude": 40.74647,
+        "longitude": 141.38124
+    },
+    {
+        "name": "Муцу",
+        "latitude": 41.28944,
+        "longitude": 141.21694
+    },
+    {
+        "name": "Муцу-ши",
+        "latitude": 41.2909,
+        "longitude": 141.03327
+    },
+    {
+        "name": "я пеку это",
+        "latitude": 40.71069,
+        "longitude": 140.59048
+    },
+    {
+        "name": "Симокидзукури",
+        "latitude": 40.81609,
+        "longitude": 140.37539
+    },
+    {
+        "name": "Товада Ши",
+        "latitude": 40.56736,
+        "longitude": 141.05794
+    },
+    {
+        "name": "Цугару",
+        "latitude": 40.80357,
+        "longitude": 140.40299
+    },
+    {
+        "name": "Цугару Ши",
+        "latitude": 40.86988,
+        "longitude": 140.34963
+    },
+    {
+        "name": "Абрикос",
+        "latitude": 35.86667,
+        "longitude": 140.01667
+    },
+    {
+        "name": "Абико-ши",
+        "latitude": 35.86947,
+        "longitude": 140.0651
+    },
+    {
+        "name": "Асахи-ши",
+        "latitude": 35.73443,
+        "longitude": 140.65549
+    },
+    {
+        "name": "Тиба",
+        "latitude": 35.6,
+        "longitude": 140.11667
+    },
+    {
+        "name": "Тёси-ши",
+        "latitude": 35.74303,
+        "longitude": 140.77552
+    },
+    {
+        "name": "Фунабаши-ши",
+        "latitude": 35.69455,
+        "longitude": 139.98255
+    },
+    {
+        "name": "Футцу",
+        "latitude": 35.3108,
+        "longitude": 139.81877
+    },
+    {
+        "name": "Хасаки",
+        "latitude": 35.73333,
+        "longitude": 140.83333
+    },
+    {
+        "name": "Хончо",
+        "latitude": 35.70129,
+        "longitude": 139.98648
+    },
+    {
+        "name": "Итихара",
+        "latitude": 35.51667,
+        "longitude": 140.08333
+    },
+    {
+        "name": "Ичихара Ши",
+        "latitude": 35.42484,
+        "longitude": 140.13725
+    },
+    {
+        "name": "Итикава Ши",
+        "latitude": 35.71865,
+        "longitude": 139.93294
+    },
+    {
+        "name": "я сделаю это",
+        "latitude": 35.81207,
+        "longitude": 140.14098
+    },
+    {
+        "name": "Исуми",
+        "latitude": 35.23005,
+        "longitude": 140.40492
+    },
+    {
+        "name": "Исуми Ши",
+        "latitude": 35.27777,
+        "longitude": 140.34335
+    },
+    {
+        "name": "Камагая Хим",
+        "latitude": 35.77289,
+        "longitude": 139.99883
+    },
+    {
+        "name": "Камогава",
+        "latitude": 35.0969,
+        "longitude": 140.1003
+    },
+    {
+        "name": "Камогава-ши",
+        "latitude": 35.1,
+        "longitude": 140.1
+    },
+    {
+        "name": "Касива",
+        "latitude": 35.86224,
+        "longitude": 139.97732
+    },
+    {
+        "name": "Касива Ши",
+        "latitude": 35.86017,
+        "longitude": 139.99386
+    },
+    {
+        "name": "Катори-ши",
+        "latitude": 35.88333,
+        "longitude": 140.51667
+    },
+    {
+        "name": "Кацуура",
+        "latitude": 35.14621,
+        "longitude": 140.31507
+    },
+    {
+        "name": "Кацуура-ши",
+        "latitude": 35.17535,
+        "longitude": 140.2676
+    },
+    {
+        "name": "Кимицу",
+        "latitude": 35.35043,
+        "longitude": 139.87029
+    },
+    {
+        "name": "Кисаразу",
+        "latitude": 35.38329,
+        "longitude": 139.93254
+    },
+    {
+        "name": "Кисарадзу Ши",
+        "latitude": 35.36981,
+        "longitude": 139.98749
+    },
+    {
+        "name": "Мацудо Ши",
+        "latitude": 35.79574,
+        "longitude": 139.92908
+    },
+    {
+        "name": "Минамибосо Ши",
+        "latitude": 35.03657,
+        "longitude": 139.92847
+    },
+    {
+        "name": "Мобара",
+        "latitude": 35.42583,
+        "longitude": 140.29608
+    },
+    {
+        "name": "Мобара Ши",
+        "latitude": 35.44981,
+        "longitude": 140.30163
+    },
+    {
+        "name": "Нагареяма",
+        "latitude": 35.8563,
+        "longitude": 139.90266
+    },
+    {
+        "name": "Нагареяма-ши",
+        "latitude": 35.85631,
+        "longitude": 139.90266
+    },
+    {
+        "name": "Нарасино-ши",
+        "latitude": 35.68091,
+        "longitude": 140.03418
+    },
+    {
+        "name": "Нарита",
+        "latitude": 35.78333,
+        "longitude": 140.31667
+    },
+    {
+        "name": "Нарита-ши",
+        "latitude": 35.81547,
+        "longitude": 140.35757
+    },
+    {
+        "name": "Наруто",
+        "latitude": 35.6,
+        "longitude": 140.41667
+    },
+    {
+        "name": "Нода",
+        "latitude": 35.94897,
+        "longitude": 139.86793
+    },
+    {
+        "name": "Нода-ши",
+        "latitude": 35.98516,
+        "longitude": 139.86215
+    },
+    {
+        "name": "Оами",
+        "latitude": 35.51667,
+        "longitude": 140.31667
+    },
+    {
+        "name": "Оамисирасато-ши",
+        "latitude": 35.51279,
+        "longitude": 140.34295
+    },
+    {
+        "name": "Вредный",
+        "latitude": 35.24761,
+        "longitude": 140.39289
+    },
+    {
+        "name": "Омигава",
+        "latitude": 35.85,
+        "longitude": 140.61667
+    },
+    {
+        "name": "Сакура",
+        "latitude": 35.71667,
+        "longitude": 140.23333
+    },
+    {
+        "name": "Сакура-ши",
+        "latitude": 35.70619,
+        "longitude": 140.21326
+    },
+    {
+        "name": "Самбу-гун",
+        "latitude": 35.68843,
+        "longitude": 140.45346
+    },
+    {
+        "name": "Знай нас",
+        "latitude": 35.62756,
+        "longitude": 140.41762
+    },
+    {
+        "name": "Санму-ши",
+        "latitude": 35.62397,
+        "longitude": 140.42079
+    },
+    {
+        "name": "голос",
+        "latitude": 35.88333,
+        "longitude": 140.5
+    },
+    {
+        "name": "Сирой",
+        "latitude": 35.8,
+        "longitude": 140.06667
+    },
+    {
+        "name": "Сирои-ши",
+        "latitude": 35.80164,
+        "longitude": 140.06005
+    },
+    {
+        "name": "Шисуи",
+        "latitude": 35.71667,
+        "longitude": 140.26667
+    },
+    {
+        "name": "Содегаура-ши",
+        "latitude": 35.41642,
+        "longitude": 140.01771
+    },
+    {
+        "name": "Соса-ши",
+        "latitude": 35.69983,
+        "longitude": 140.55366
+    },
+    {
+        "name": "Татеяма",
+        "latitude": 34.98333,
+        "longitude": 139.86667
+    },
+    {
+        "name": "Татеяма-ши",
+        "latitude": 34.97156,
+        "longitude": 139.86163
+    },
+    {
+        "name": "Тогане",
+        "latitude": 35.55,
+        "longitude": 140.36667
+    },
+    {
+        "name": "Вот когда",
+        "latitude": 35.56517,
+        "longitude": 140.36707
+    },
+    {
+        "name": "Томисато-ши",
+        "latitude": 35.72024,
+        "longitude": 140.3408
+    },
+    {
+        "name": "Ураясу-ши",
+        "latitude": 35.6425,
+        "longitude": 139.90192
+    },
+    {
+        "name": "Это липко",
+        "latitude": 35.65,
+        "longitude": 140.31667
+    },
+    {
+        "name": "Ячимата-ши",
+        "latitude": 35.64241,
+        "longitude": 140.29686
+    },
+    {
+        "name": "Ятё-ши",
+        "latitude": 35.73921,
+        "longitude": 140.10502
+    },
+    {
+        "name": "Йокаитиба",
+        "latitude": 35.7,
+        "longitude": 140.55
+    },
+    {
+        "name": "Ёцукайдо",
+        "latitude": 35.65,
+        "longitude": 140.16667
+    },
+    {
+        "name": "Ёцукайдо-ши",
+        "latitude": 35.67167,
+        "longitude": 140.17912
+    },
+    {
+        "name": "Ходзё",
+        "latitude": 33.97661,
+        "longitude": 132.77767
+    },
+    {
+        "name": "Имабари-ши",
+        "latitude": 34.06667,
+        "longitude": 132.99791
+    },
+    {
+        "name": "И",
+        "latitude": 33.75139,
+        "longitude": 132.70139
+    },
+    {
+        "name": "Ио-ши",
+        "latitude": 33.68493,
+        "longitude": 132.68909
+    },
+    {
+        "name": "Каваноэчо",
+        "latitude": 34.01654,
+        "longitude": 133.57844
+    },
+    {
+        "name": "Кихоку-чо",
+        "latitude": 33.25592,
+        "longitude": 132.68343
+    },
+    {
+        "name": "Масаки-чо",
+        "latitude": 33.78757,
+        "longitude": 132.71124
+    },
+    {
+        "name": "Мацуяма-ши",
+        "latitude": 33.83568,
+        "longitude": 132.76224
+    },
+    {
+        "name": "Ниихама",
+        "latitude": 33.96047,
+        "longitude": 133.30522
+    },
+    {
+        "name": "Ниихама-ши",
+        "latitude": 33.9067,
+        "longitude": 133.3325
+    },
+    {
+        "name": "Одзу",
+        "latitude": 33.5,
+        "longitude": 132.55
+    },
+    {
+        "name": "Одзу-ши",
+        "latitude": 33.50619,
+        "longitude": 132.5443
+    },
+    {
+        "name": "Сайджо",
+        "latitude": 33.91667,
+        "longitude": 133.18333
+    },
+    {
+        "name": "Сайдзё-ши",
+        "latitude": 33.861,
+        "longitude": 133.10832
+    },
+    {
+        "name": "Сэйё-ши",
+        "latitude": 33.39408,
+        "longitude": 132.63262
+    },
+    {
+        "name": "Сикоку-тюо Ши",
+        "latitude": 33.93538,
+        "longitude": 133.53622
+    },
+    {
+        "name": "Тон-ши",
+        "latitude": 33.79099,
+        "longitude": 132.87234
+    },
+    {
+        "name": "Увадзима",
+        "latitude": 33.22375,
+        "longitude": 132.56001
+    },
+    {
+        "name": "Увадзима-ши",
+        "latitude": 33.22325,
+        "longitude": 132.56069
+    },
+    {
+        "name": "Яватахама-ши",
+        "latitude": 33.46302,
+        "longitude": 132.42336
+    },
+    {
+        "name": "Асахи",
+        "latitude": 35.97259,
+        "longitude": 136.12455
+    },
+    {
+        "name": "Авара-хим",
+        "latitude": 36.22777,
+        "longitude": 136.25154
+    },
+    {
+        "name": "Этизен-ши",
+        "latitude": 35.88946,
+        "longitude": 136.17723
+    },
+    {
+        "name": "Фукуи-ши",
+        "latitude": 36.06667,
+        "longitude": 136.21667
+    },
+    {
+        "name": "Кацуяма",
+        "latitude": 36.06173,
+        "longitude": 136.50101
+    },
+    {
+        "name": "Кацуяма Ши",
+        "latitude": 36.0844,
+        "longitude": 136.52178
+    },
+    {
+        "name": "Сухой",
+        "latitude": 36.1534,
+        "longitude": 136.27029
+    },
+    {
+        "name": "Микуни",
+        "latitude": 36.21706,
+        "longitude": 136.15185
+    },
+    {
+        "name": "Обама",
+        "latitude": 35.49576,
+        "longitude": 135.74604
+    },
+    {
+        "name": "Обамы",
+        "latitude": 35.45,
+        "longitude": 135.7
+    },
+    {
+        "name": "Ой-гун",
+        "latitude": 35.49238,
+        "longitude": 135.49311
+    },
+    {
+        "name": "Оно",
+        "latitude": 35.98106,
+        "longitude": 136.48727
+    },
+    {
+        "name": "Оно-ши",
+        "latitude": 35.90837,
+        "longitude": 136.61696
+    },
+    {
+        "name": "Сабаэ",
+        "latitude": 35.94647,
+        "longitude": 136.18498
+    },
+    {
+        "name": "Сабаэ-ши",
+        "latitude": 35.95932,
+        "longitude": 136.21835
+    },
+    {
+        "name": "Сакаи-ши",
+        "latitude": 36.16406,
+        "longitude": 136.25544
+    },
+    {
+        "name": "Такефу",
+        "latitude": 35.90393,
+        "longitude": 136.16687
+    },
+    {
+        "name": "Цуруга",
+        "latitude": 35.64547,
+        "longitude": 136.0558
+    },
+    {
+        "name": "Куруга-ши",
+        "latitude": 35.6373,
+        "longitude": 136.08068
+    },
+    {
+        "name": "Яйца",
+        "latitude": 33.41804,
+        "longitude": 130.65413
+    },
+    {
+        "name": "Асакура Ши",
+        "latitude": 33.41684,
+        "longitude": 130.74167
+    },
+    {
+        "name": "Конгер",
+        "latitude": 33.61153,
+        "longitude": 131.13002
+    },
+    {
+        "name": "Бузэн-ши",
+        "latitude": 33.56743,
+        "longitude": 131.08578
+    },
+    {
+        "name": "Чикуго Ши",
+        "latitude": 33.20748,
+        "longitude": 130.49122
+    },
+    {
+        "name": "Чикусино-ши",
+        "latitude": 33.49631,
+        "longitude": 130.5156
+    },
+    {
+        "name": "Дадзайфу-ши",
+        "latitude": 33.5,
+        "longitude": 130.53333
+    },
+    {
+        "name": "Фукуока",
+        "latitude": 33.6,
+        "longitude": 130.41667
+    },
+    {
+        "name": "Фукуока",
+        "latitude": 33.56894,
+        "longitude": 130.35764
+    },
+    {
+        "name": "Фукуцу Ши",
+        "latitude": 33.77982,
+        "longitude": 130.49804
+    },
+    {
+        "name": "Иидзука",
+        "latitude": 33.63654,
+        "longitude": 130.68678
+    },
+    {
+        "name": "Иидзука Ши",
+        "latitude": 33.61353,
+        "longitude": 130.66098
+    },
+    {
+        "name": "Итошима-ши",
+        "latitude": 33.53317,
+        "longitude": 130.17975
+    },
+    {
+        "name": "Поймай его",
+        "latitude": 33.53663,
+        "longitude": 130.74028
+    },
+    {
+        "name": "Канда",
+        "latitude": 33.78333,
+        "longitude": 130.98333
+    },
+    {
+        "name": "Касуга Ши",
+        "latitude": 33.52404,
+        "longitude": 130.45641
+    },
+    {
+        "name": "Кавасаки",
+        "latitude": 33.59993,
+        "longitude": 130.81495
+    },
+    {
+        "name": "Китакюсю",
+        "latitude": 33.85181,
+        "longitude": 130.85034
+    },
+    {
+        "name": "Кога",
+        "latitude": 33.73333,
+        "longitude": 130.46667
+    },
+    {
+        "name": "В любое время",
+        "latitude": 33.72139,
+        "longitude": 130.49947
+    },
+    {
+        "name": "Маршировать",
+        "latitude": 33.31667,
+        "longitude": 130.51667
+    },
+    {
+        "name": "Куруме Ши",
+        "latitude": 33.30358,
+        "longitude": 130.56549
+    },
+    {
+        "name": "Маэбару-туо",
+        "latitude": 33.55916,
+        "longitude": 130.20148
+    },
+    {
+        "name": "Мияма Ши",
+        "latitude": 33.12369,
+        "longitude": 130.4954
+    },
+    {
+        "name": "Мията",
+        "latitude": 33.70811,
+        "longitude": 130.65297
+    },
+    {
+        "name": "Миявака Ши",
+        "latitude": 33.71559,
+        "longitude": 130.61506
+    },
+    {
+        "name": "Мунаката-ши",
+        "latitude": 33.8,
+        "longitude": 130.55
+    },
+    {
+        "name": "Накама",
+        "latitude": 33.81688,
+        "longitude": 130.70962
+    },
+    {
+        "name": "Накама Ши",
+        "latitude": 33.82081,
+        "longitude": 130.70862
+    },
+    {
+        "name": "Нисифукума",
+        "latitude": 33.76627,
+        "longitude": 130.47461
+    },
+    {
+        "name": "Ногата",
+        "latitude": 33.74051,
+        "longitude": 130.72263
+    },
+    {
+        "name": "Ногата Ши",
+        "latitude": 33.75116,
+        "longitude": 130.74592
+    },
+    {
+        "name": "Огори-ши",
+        "latitude": 33.38333,
+        "longitude": 130.56667
+    },
+    {
+        "name": "Формальный",
+        "latitude": 33.20566,
+        "longitude": 130.37527
+    },
+    {
+        "name": "Ока-ши",
+        "latitude": 33.20736,
+        "longitude": 130.38253
+    },
+    {
+        "name": "Покидать",
+        "latitude": 33.03333,
+        "longitude": 130.45
+    },
+    {
+        "name": "Убей его",
+        "latitude": 33.04616,
+        "longitude": 130.46912
+    },
+    {
+        "name": "вниз ружье",
+        "latitude": 33.85699,
+        "longitude": 130.63626
+    },
+    {
+        "name": "Молодой",
+        "latitude": 33.53567,
+        "longitude": 130.47861
+    },
+    {
+        "name": "Онодзё Ши",
+        "latitude": 33.51302,
+        "longitude": 130.47925
+    },
+    {
+        "name": "Сасагури",
+        "latitude": 33.61561,
+        "longitude": 130.55105
+    },
+    {
+        "name": "Сетакамачи-такаянаги",
+        "latitude": 33.14858,
+        "longitude": 130.46548
+    },
+    {
+        "name": "Шлифование",
+        "latitude": 33.65341,
+        "longitude": 131.05797
+    },
+    {
+        "name": "Шингу",
+        "latitude": 33.71399,
+        "longitude": 130.4313
+    },
+    {
+        "name": "Тагава",
+        "latitude": 33.63333,
+        "longitude": 130.8
+    },
+    {
+        "name": "Тагава Ши",
+        "latitude": 33.63159,
+        "longitude": 130.79966
+    },
+    {
+        "name": "Танусимаруматы-тойоки",
+        "latitude": 33.35,
+        "longitude": 130.68333
+    },
+    {
+        "name": "Цуики",
+        "latitude": 33.67307,
+        "longitude": 131.03776
+    },
+    {
+        "name": "Укиха Ши",
+        "latitude": 33.31184,
+        "longitude": 130.79325
+    },
+    {
+        "name": "Уми",
+        "latitude": 33.56826,
+        "longitude": 130.51009
+    },
+    {
+        "name": "Ямеши",
+        "latitude": 33.23302,
+        "longitude": 130.62775
+    },
+    {
+        "name": "Янагава",
+        "latitude": 33.16667,
+        "longitude": 130.4
+    },
+    {
+        "name": "Янагава Ши",
+        "latitude": 33.14932,
+        "longitude": 130.40725
+    },
+    {
+        "name": "Ёситоми",
+        "latitude": 33.60247,
+        "longitude": 131.17599
+    },
+    {
+        "name": "Юкухаши",
+        "latitude": 33.72873,
+        "longitude": 130.983
+    },
+    {
+        "name": "Юкухаси Ши",
+        "latitude": 33.71404,
+        "longitude": 130.97108
+    },
+    {
+        "name": "Айдзу-вакамацу Ши",
+        "latitude": 37.45071,
+        "longitude": 139.96814
+    },
+    {
+        "name": "Датэ-ши",
+        "latitude": 37.81667,
+        "longitude": 140.51667
+    },
+    {
+        "name": "Фукусима",
+        "latitude": 37.75,
+        "longitude": 140.46667
+    },
+    {
+        "name": "Фукусима Ши",
+        "latitude": 37.78643,
+        "longitude": 140.38849
+    },
+    {
+        "name": "Фунейкимати-фунехики",
+        "latitude": 37.44722,
+        "longitude": 140.5771
+    },
+    {
+        "name": "Хобарамачи",
+        "latitude": 37.81667,
+        "longitude": 140.55
+    },
+    {
+        "name": "Это подразумевает",
+        "latitude": 37.56667,
+        "longitude": 140.11667
+    },
+    {
+        "name": "Исикава",
+        "latitude": 37.15,
+        "longitude": 140.45
+    },
+    {
+        "name": "Иваки",
+        "latitude": 37.05,
+        "longitude": 140.88333
+    },
+    {
+        "name": "Иваки-ши",
+        "latitude": 37.08333,
+        "longitude": 140.83333
+    },
+    {
+        "name": "Китаката",
+        "latitude": 37.65,
+        "longitude": 139.86667
+    },
+    {
+        "name": "Китаката-ши",
+        "latitude": 37.68333,
+        "longitude": 139.9
+    },
+    {
+        "name": "Корияма",
+        "latitude": 37.4,
+        "longitude": 140.38333
+    },
+    {
+        "name": "Корияма Ши",
+        "latitude": 37.41277,
+        "longitude": 140.29507
+    },
+    {
+        "name": "Михару",
+        "latitude": 37.43333,
+        "longitude": 140.48333
+    },
+    {
+        "name": "Минами-Сома",
+        "latitude": 37.62908,
+        "longitude": 140.97868
+    },
+    {
+        "name": "Минамисома Ши",
+        "latitude": 37.63108,
+        "longitude": 140.92852
+    },
+    {
+        "name": "Мотомия",
+        "latitude": 37.51391,
+        "longitude": 140.40063
+    },
+    {
+        "name": "Мотомия-ши",
+        "latitude": 37.51218,
+        "longitude": 140.39841
+    },
+    {
+        "name": "Дома",
+        "latitude": 37.48333,
+        "longitude": 141.0
+    },
+    {
+        "name": "Нихоммацу",
+        "latitude": 37.58333,
+        "longitude": 140.43333
+    },
+    {
+        "name": "Нихоммацу Ши",
+        "latitude": 37.58402,
+        "longitude": 140.49543
+    },
+    {
+        "name": "Сиракава Ши",
+        "latitude": 37.12225,
+        "longitude": 140.24963
+    },
+    {
+        "name": "Сома",
+        "latitude": 37.79283,
+        "longitude": 140.92941
+    },
+    {
+        "name": "Сома Ши",
+        "latitude": 37.78193,
+        "longitude": 140.87321
+    },
+    {
+        "name": "Сукагава",
+        "latitude": 37.28333,
+        "longitude": 140.38333
+    },
+    {
+        "name": "Они принесли Его",
+        "latitude": 37.29342,
+        "longitude": 140.31691
+    },
+    {
+        "name": "Тамура",
+        "latitude": 37.43055,
+        "longitude": 140.60335
+    },
+    {
+        "name": "Тамура-ши",
+        "latitude": 37.43793,
+        "longitude": 140.57384
+    },
+    {
+        "name": "Янагавамати-сайвайчо",
+        "latitude": 37.85,
+        "longitude": 140.6
+    },
+    {
+        "name": "Это оно",
+        "latitude": 35.44722,
+        "longitude": 137.4181
+    },
+    {
+        "name": "Затем",
+        "latitude": 35.8,
+        "longitude": 137.23333
+    },
+    {
+        "name": "Геро-ши",
+        "latitude": 35.75,
+        "longitude": 137.25
+    },
+    {
+        "name": "Гифу-ши",
+        "latitude": 35.44826,
+        "longitude": 136.7647
+    },
+    {
+        "name": "Спасибо",
+        "latitude": 35.41667,
+        "longitude": 136.6
+    },
+    {
+        "name": "Гудзё",
+        "latitude": 35.73691,
+        "longitude": 136.95852
+    },
+    {
+        "name": "Гудзё-ши",
+        "latitude": 35.83298,
+        "longitude": 136.94561
+    },
+    {
+        "name": "Хашима",
+        "latitude": 35.329,
+        "longitude": 136.68051
+    },
+    {
+        "name": "Хасима-ши",
+        "latitude": 35.3074,
+        "longitude": 136.70161
+    },
+    {
+        "name": "наследственный",
+        "latitude": 36.24483,
+        "longitude": 137.17323
+    },
+    {
+        "name": "Хида Ши",
+        "latitude": 36.33272,
+        "longitude": 137.20568
+    },
+    {
+        "name": "Кайдзу-ши",
+        "latitude": 35.21381,
+        "longitude": 136.62443
+    },
+    {
+        "name": "Какамигахара-ши",
+        "latitude": 35.40283,
+        "longitude": 136.87829
+    },
+    {
+        "name": "Кани-ши",
+        "latitude": 35.40589,
+        "longitude": 137.06602
+    },
+    {
+        "name": "Касамацучо",
+        "latitude": 35.36667,
+        "longitude": 136.76667
+    },
+    {
+        "name": "Мино",
+        "latitude": 35.53333,
+        "longitude": 136.91667
+    },
+    {
+        "name": "Мино-ши",
+        "latitude": 35.57892,
+        "longitude": 136.9012
+    },
+    {
+        "name": "Минокамо",
+        "latitude": 35.48199,
+        "longitude": 137.02166
+    },
+    {
+        "name": "Минокамо-ши",
+        "latitude": 35.48386,
+        "longitude": 137.02658
+    },
+    {
+        "name": "Митаке",
+        "latitude": 35.41667,
+        "longitude": 137.13333
+    },
+    {
+        "name": "Мидзухо-ши",
+        "latitude": 35.39663,
+        "longitude": 136.67022
+    },
+    {
+        "name": "Мизунами",
+        "latitude": 35.36667,
+        "longitude": 137.25
+    },
+    {
+        "name": "Мизунами-ши",
+        "latitude": 35.38935,
+        "longitude": 137.2736
+    },
+    {
+        "name": "Мотосу-ши",
+        "latitude": 35.65553,
+        "longitude": 136.61991
+    },
+    {
+        "name": "Накацугава",
+        "latitude": 35.48333,
+        "longitude": 137.5
+    },
+    {
+        "name": "Накацугава-ши",
+        "latitude": 35.56656,
+        "longitude": 137.47433
+    },
+    {
+        "name": "Огаки-ши",
+        "latitude": 35.36485,
+        "longitude": 136.60189
+    },
+    {
+        "name": "Секи-ши",
+        "latitude": 35.48333,
+        "longitude": 136.91667
+    },
+    {
+        "name": "Мошенничество",
+        "latitude": 35.31667,
+        "longitude": 137.13333
+    },
+    {
+        "name": "Таджими-ши",
+        "latitude": 35.33401,
+        "longitude": 137.11258
+    },
+    {
+        "name": "Такаяма Ши",
+        "latitude": 36.13181,
+        "longitude": 137.28585
+    },
+    {
+        "name": "Таруи",
+        "latitude": 35.36667,
+        "longitude": 136.53333
+    },
+    {
+        "name": "Конечно",
+        "latitude": 35.35,
+        "longitude": 137.18333
+    },
+    {
+        "name": "Токи-ши",
+        "latitude": 35.32418,
+        "longitude": 137.20748
+    },
+    {
+        "name": "Ямагата-ши",
+        "latitude": 35.59892,
+        "longitude": 136.74311
+    },
+    {
+        "name": "Уезд Агацума",
+        "latitude": 36.57368,
+        "longitude": 138.67243
+    },
+    {
+        "name": "Аннака",
+        "latitude": 36.33011,
+        "longitude": 138.89585
+    },
+    {
+        "name": "Аннака Ши",
+        "latitude": 36.34079,
+        "longitude": 138.77647
+    },
+    {
+        "name": "Фудзиока",
+        "latitude": 36.24624,
+        "longitude": 139.07204
+    },
+    {
+        "name": "Фудзиока Ши",
+        "latitude": 36.19213,
+        "longitude": 138.99918
+    },
+    {
+        "name": "Это мешок",
+        "latitude": 36.31667,
+        "longitude": 139.2
+    },
+    {
+        "name": "Исэсаки Ши",
+        "latitude": 36.32126,
+        "longitude": 139.21823
+    },
+    {
+        "name": "Канекомачи",
+        "latitude": 36.41097,
+        "longitude": 138.99621
+    },
+    {
+        "name": "Кирю",
+        "latitude": 36.4,
+        "longitude": 139.33333
+    },
+    {
+        "name": "Кирю Ши",
+        "latitude": 36.45702,
+        "longitude": 139.30962
+    },
+    {
+        "name": "Маэбаши",
+        "latitude": 36.4,
+        "longitude": 139.08333
+    },
+    {
+        "name": "Маэбаши Ши",
+        "latitude": 36.41432,
+        "longitude": 139.1311
+    },
+    {
+        "name": "Мидори",
+        "latitude": 36.44492,
+        "longitude": 139.28448
+    },
+    {
+        "name": "Мидори Ши",
+        "latitude": 36.53044,
+        "longitude": 139.34728
+    },
+    {
+        "name": "Наканодзёмати",
+        "latitude": 36.58717,
+        "longitude": 138.84083
+    },
+    {
+        "name": "Нумата",
+        "latitude": 36.63333,
+        "longitude": 139.05
+    },
+    {
+        "name": "Нумата Ши",
+        "latitude": 36.67371,
+        "longitude": 139.18353
+    },
+    {
+        "name": "Омамачо-Омама",
+        "latitude": 36.43181,
+        "longitude": 139.27534
+    },
+    {
+        "name": "Заказ",
+        "latitude": 36.3,
+        "longitude": 139.36667
+    },
+    {
+        "name": "Ота-ши",
+        "latitude": 36.3,
+        "longitude": 139.36667
+    },
+    {
+        "name": "Сакаи-Наказима",
+        "latitude": 36.26667,
+        "longitude": 139.25
+    },
+    {
+        "name": "Сибукава",
+        "latitude": 36.48333,
+        "longitude": 139.0
+    },
+    {
+        "name": "Сибукава-ши",
+        "latitude": 36.5,
+        "longitude": 138.98333
+    },
+    {
+        "name": "Такасаки",
+        "latitude": 36.33333,
+        "longitude": 139.01667
+    },
+    {
+        "name": "Такасаки Ши",
+        "latitude": 36.40538,
+        "longitude": 138.89227
+    },
+    {
+        "name": "Тамамура",
+        "latitude": 36.3,
+        "longitude": 139.11667
+    },
+    {
+        "name": "Татебаяси",
+        "latitude": 36.25,
+        "longitude": 139.53333
+    },
+    {
+        "name": "Татебаяси-ши",
+        "latitude": 36.24597,
+        "longitude": 139.53533
+    },
+    {
+        "name": "Томиока",
+        "latitude": 36.25411,
+        "longitude": 138.89813
+    },
+    {
+        "name": "Томиока-ши",
+        "latitude": 36.25,
+        "longitude": 138.88333
+    },
+    {
+        "name": "Молодость",
+        "latitude": 36.25,
+        "longitude": 138.98333
+    },
+    {
+        "name": "Аки-таката Ши",
+        "latitude": 34.70248,
+        "longitude": 132.6777
+    },
+    {
+        "name": "Этадзима-ши",
+        "latitude": 34.21989,
+        "longitude": 132.44345
+    },
+    {
+        "name": "Фучу-ши",
+        "latitude": 34.56667,
+        "longitude": 133.23333
+    },
+    {
+        "name": "Фучучо",
+        "latitude": 34.5735,
+        "longitude": 133.23513
+    },
+    {
+        "name": "Фукуяма",
+        "latitude": 34.48333,
+        "longitude": 133.36667
+    },
+    {
+        "name": "Фукуяма Ши",
+        "latitude": 34.52342,
+        "longitude": 133.33779
+    },
+    {
+        "name": "Хацукаичи",
+        "latitude": 34.35,
+        "longitude": 132.33333
+    },
+    {
+        "name": "Хацукаичи-ши",
+        "latitude": 34.35,
+        "longitude": 132.3
+    },
+    {
+        "name": "Хигасихирошима Ши",
+        "latitude": 34.44755,
+        "longitude": 132.76116
+    },
+    {
+        "name": "Хиросима",
+        "latitude": 34.4,
+        "longitude": 132.45
+    },
+    {
+        "name": "Хиросима",
+        "latitude": 34.47942,
+        "longitude": 132.45312
+    },
+    {
+        "name": "Инносима",
+        "latitude": 34.28333,
+        "longitude": 133.18333
+    },
+    {
+        "name": "Каннабечо-яхиро",
+        "latitude": 34.55808,
+        "longitude": 133.41796
+    },
+    {
+        "name": "Далеко",
+        "latitude": 34.23222,
+        "longitude": 132.56658
+    },
+    {
+        "name": "Куре-ши",
+        "latitude": 34.22448,
+        "longitude": 132.62914
+    },
+    {
+        "name": "Михара",
+        "latitude": 34.4,
+        "longitude": 133.08333
+    },
+    {
+        "name": "Михара Ши",
+        "latitude": 34.45817,
+        "longitude": 133.00395
+    },
+    {
+        "name": "Миядзима",
+        "latitude": 34.29907,
+        "longitude": 132.32186
+    },
+    {
+        "name": "Миёси",
+        "latitude": 34.8,
+        "longitude": 132.85
+    },
+    {
+        "name": "Миёси Ши",
+        "latitude": 34.79201,
+        "longitude": 132.86435
+    },
+    {
+        "name": "Шесть грехов",
+        "latitude": 34.28333,
+        "longitude": 132.26667
+    },
+    {
+        "name": "Ономичи",
+        "latitude": 34.41667,
+        "longitude": 133.2
+    },
+    {
+        "name": "Ономичи-ши",
+        "latitude": 34.4263,
+        "longitude": 133.16329
+    },
+    {
+        "name": "Важный",
+        "latitude": 34.20754,
+        "longitude": 132.22063
+    },
+    {
+        "name": "Отаке-ши",
+        "latitude": 34.25787,
+        "longitude": 132.18756
+    },
+    {
+        "name": "Синъити",
+        "latitude": 34.55543,
+        "longitude": 133.27297
+    },
+    {
+        "name": "Друг",
+        "latitude": 34.85,
+        "longitude": 133.01667
+    },
+    {
+        "name": "Сёбара-ши",
+        "latitude": 34.94831,
+        "longitude": 133.06769
+    },
+    {
+        "name": "Такехара",
+        "latitude": 34.33833,
+        "longitude": 132.91667
+    },
+    {
+        "name": "Такехара-ши",
+        "latitude": 34.35,
+        "longitude": 132.9
+    },
+    {
+        "name": "Абашири",
+        "latitude": 44.02127,
+        "longitude": 144.26971
+    },
+    {
+        "name": "Абашири Ши",
+        "latitude": 43.98565,
+        "longitude": 144.21051
+    },
+    {
+        "name": "Он украл",
+        "latitude": 43.55139,
+        "longitude": 142.05306
+    },
+    {
+        "name": "Акабира-хим",
+        "latitude": 43.5679,
+        "longitude": 142.06281
+    },
+    {
+        "name": "Асахикава",
+        "latitude": 43.77063,
+        "longitude": 142.36489
+    },
+    {
+        "name": "Ашибэцу",
+        "latitude": 43.50972,
+        "longitude": 142.18556
+    },
+    {
+        "name": "Ашибэцу-ши",
+        "latitude": 43.42542,
+        "longitude": 142.20161
+    },
+    {
+        "name": "Бибай",
+        "latitude": 43.32472,
+        "longitude": 141.85861
+    },
+    {
+        "name": "Титосэ",
+        "latitude": 42.81944,
+        "longitude": 141.65222
+    },
+    {
+        "name": "Титосэ Ши",
+        "latitude": 42.80048,
+        "longitude": 141.50951
+    },
+    {
+        "name": "Дата",
+        "latitude": 42.46806,
+        "longitude": 140.86806
+    },
+    {
+        "name": "Датэ-ши",
+        "latitude": 42.49337,
+        "longitude": 140.89142
+    },
+    {
+        "name": "Эбецу",
+        "latitude": 43.10806,
+        "longitude": 141.55056
+    },
+    {
+        "name": "Энива-ши",
+        "latitude": 42.88333,
+        "longitude": 141.56667
+    },
+    {
+        "name": "Фукагава",
+        "latitude": 43.70806,
+        "longitude": 142.03917
+    },
+    {
+        "name": "Фукагава-си",
+        "latitude": 43.79334,
+        "longitude": 142.09923
+    },
+    {
+        "name": "Фурано-ши",
+        "latitude": 43.28182,
+        "longitude": 142.47349
+    },
+    {
+        "name": "Хакодатэ",
+        "latitude": 41.77583,
+        "longitude": 140.73667
+    },
+    {
+        "name": "Хакодатэ Ши",
+        "latitude": 41.83754,
+        "longitude": 140.92597
+    },
+    {
+        "name": "Хокуто",
+        "latitude": 41.81626,
+        "longitude": 140.63472
+    },
+    {
+        "name": "Хокуто-ши",
+        "latitude": 41.86411,
+        "longitude": 140.55424
+    },
+    {
+        "name": "Хончо",
+        "latitude": 41.8944,
+        "longitude": 140.69386
+    },
+    {
+        "name": "Исикари",
+        "latitude": 43.23972,
+        "longitude": 141.35389
+    },
+    {
+        "name": "Исикари-ши",
+        "latitude": 43.46596,
+        "longitude": 141.44298
+    },
+    {
+        "name": "Ивамизава",
+        "latitude": 43.20028,
+        "longitude": 141.75972
+    },
+    {
+        "name": "Ивамизава-ши",
+        "latitude": 43.18086,
+        "longitude": 141.79744
+    },
+    {
+        "name": "Иванай",
+        "latitude": 42.97444,
+        "longitude": 140.50889
+    },
+    {
+        "name": "Рубашка",
+        "latitude": 41.82013,
+        "longitude": 140.64482
+    },
+    {
+        "name": "Камикава",
+        "latitude": 43.84,
+        "longitude": 142.77111
+    },
+    {
+        "name": "Китахиросима",
+        "latitude": 42.97583,
+        "longitude": 141.56722
+    },
+    {
+        "name": "Китахиросима-ши",
+        "latitude": 42.98581,
+        "longitude": 141.55678
+    },
+    {
+        "name": "Китами",
+        "latitude": 43.80306,
+        "longitude": 143.89083
+    },
+    {
+        "name": "Ктиами Ши",
+        "latitude": 43.8516,
+        "longitude": 143.7152
+    },
+    {
+        "name": "Кусиро",
+        "latitude": 42.975,
+        "longitude": 144.37472
+    },
+    {
+        "name": "Кусиро Ши",
+        "latitude": 43.1591,
+        "longitude": 144.06647
+    },
+    {
+        "name": "Макубецу",
+        "latitude": 45.37139,
+        "longitude": 141.82111
+    },
+    {
+        "name": "Микаса",
+        "latitude": 43.25581,
+        "longitude": 141.88818
+    },
+    {
+        "name": "Микаса-ши",
+        "latitude": 43.23976,
+        "longitude": 141.99273
+    },
+    {
+        "name": "Момбецу",
+        "latitude": 44.3525,
+        "longitude": 143.3525
+    },
+    {
+        "name": "Монбецу Ши",
+        "latitude": 44.20323,
+        "longitude": 143.29293
+    },
+    {
+        "name": "Мотомачи",
+        "latitude": 43.82634,
+        "longitude": 144.09638
+    },
+    {
+        "name": "Муроран",
+        "latitude": 42.31722,
+        "longitude": 140.98806
+    },
+    {
+        "name": "Муроран-ши",
+        "latitude": 42.36659,
+        "longitude": 140.98845
+    },
+    {
+        "name": "Наёро",
+        "latitude": 44.35056,
+        "longitude": 142.45778
+    },
+    {
+        "name": "Наёро Ши",
+        "latitude": 44.33951,
+        "longitude": 142.45932
+    },
+    {
+        "name": "Немуро",
+        "latitude": 43.32361,
+        "longitude": 145.575
+    },
+    {
+        "name": "Намуро-ши",
+        "latitude": 43.33333,
+        "longitude": 145.61667
+    },
+    {
+        "name": "Нисеко Таун",
+        "latitude": 42.77871,
+        "longitude": 140.66903
+    },
+    {
+        "name": "Ноборибецу",
+        "latitude": 42.45215,
+        "longitude": 141.17914
+    },
+    {
+        "name": "Ноборибецу-ши",
+        "latitude": 42.46565,
+        "longitude": 141.07578
+    },
+    {
+        "name": "Обихиро",
+        "latitude": 42.91722,
+        "longitude": 143.20444
+    },
+    {
+        "name": "Обихиро Ши",
+        "latitude": 42.75736,
+        "longitude": 143.03061
+    },
+    {
+        "name": "Отару",
+        "latitude": 43.18944,
+        "longitude": 141.00222
+    },
+    {
+        "name": "Отара-ши",
+        "latitude": 43.15628,
+        "longitude": 141.02572
+    },
+    {
+        "name": "Отофукэ",
+        "latitude": 42.99167,
+        "longitude": 143.20028
+    },
+    {
+        "name": "Ребун Пистолет",
+        "latitude": 45.38263,
+        "longitude": 141.02839
+    },
+    {
+        "name": "Ришири Ган",
+        "latitude": 45.18244,
+        "longitude": 141.22859
+    },
+    {
+        "name": "Город Ришири",
+        "latitude": 45.15928,
+        "longitude": 141.19629
+    },
+    {
+        "name": "Румои",
+        "latitude": 43.93444,
+        "longitude": 141.64278
+    },
+    {
+        "name": "Румои-ши",
+        "latitude": 43.8856,
+        "longitude": 141.75567
+    },
+    {
+        "name": "Саппоро",
+        "latitude": 43.06667,
+        "longitude": 141.35
+    },
+    {
+        "name": "Саппоро",
+        "latitude": 43.06667,
+        "longitude": 141.35
+    },
+    {
+        "name": "Сибецу",
+        "latitude": 43.65899,
+        "longitude": 145.13197
+    },
+    {
+        "name": "Сибецу Ши",
+        "latitude": 44.11522,
+        "longitude": 142.54054
+    },
+    {
+        "name": "Симо-фурано",
+        "latitude": 43.35,
+        "longitude": 142.38333
+    },
+    {
+        "name": "Сираой",
+        "latitude": 42.55,
+        "longitude": 141.35
+    },
+    {
+        "name": "Сидзунай-фурукавачо",
+        "latitude": 42.33389,
+        "longitude": 142.36694
+    },
+    {
+        "name": "Сунагава",
+        "latitude": 43.48639,
+        "longitude": 141.90556
+    },
+    {
+        "name": "Сунагава-си",
+        "latitude": 43.50328,
+        "longitude": 141.93274
+    },
+    {
+        "name": "Такикава",
+        "latitude": 43.55278,
+        "longitude": 141.90639
+    },
+    {
+        "name": "Такикава-ши",
+        "latitude": 43.60837,
+        "longitude": 141.94988
+    },
+    {
+        "name": "Тобецу",
+        "latitude": 43.21694,
+        "longitude": 141.51694
+    },
+    {
+        "name": "Томакомай",
+        "latitude": 42.63694,
+        "longitude": 141.60333
+    },
+    {
+        "name": "Томакомай Ши",
+        "latitude": 42.68226,
+        "longitude": 141.57948
+    },
+    {
+        "name": "Ты будешь мочиться",
+        "latitude": 43.51667,
+        "longitude": 142.05
+    },
+    {
+        "name": "Уташинай-ши",
+        "latitude": 43.49366,
+        "longitude": 142.03878
+    },
+    {
+        "name": "Вакканай",
+        "latitude": 45.40944,
+        "longitude": 141.67389
+    },
+    {
+        "name": "Вакканай Ши",
+        "latitude": 45.33243,
+        "longitude": 141.82831
+    },
+    {
+        "name": "Ёичи",
+        "latitude": 43.20389,
+        "longitude": 140.77028
+    },
+    {
+        "name": "Отправитель",
+        "latitude": 43.03778,
+        "longitude": 141.95778
+    },
+    {
+        "name": "Юбари-ши",
+        "latitude": 43.04336,
+        "longitude": 142.11065
+    },
+    {
+        "name": "Очень прошу",
+        "latitude": 34.80361,
+        "longitude": 134.46806
+    },
+    {
+        "name": "Айой Ши",
+        "latitude": 34.82719,
+        "longitude": 134.46699
+    },
+    {
+        "name": "Акаши",
+        "latitude": 34.65524,
+        "longitude": 135.00687
+    },
+    {
+        "name": "Акаши Ши",
+        "latitude": 34.68277,
+        "longitude": 134.94029
+    },
+    {
+        "name": "Амагасаки Ши",
+        "latitude": 34.73544,
+        "longitude": 135.41181
+    },
+    {
+        "name": "Асаго-ши",
+        "latitude": 35.26249,
+        "longitude": 134.82527
+    },
+    {
+        "name": "Он ушел",
+        "latitude": 34.72807,
+        "longitude": 135.30264
+    },
+    {
+        "name": "Азия Ши",
+        "latitude": 34.74853,
+        "longitude": 135.29759
+    },
+    {
+        "name": "Авадзи Ши",
+        "latitude": 34.49749,
+        "longitude": 134.91331
+    },
+    {
+        "name": "Фукура",
+        "latitude": 34.25765,
+        "longitude": 134.71535
+    },
+    {
+        "name": "Химедзи",
+        "latitude": 34.81667,
+        "longitude": 134.7
+    },
+    {
+        "name": "Химедзи Ши",
+        "latitude": 34.90134,
+        "longitude": 134.66316
+    },
+    {
+        "name": "Итами",
+        "latitude": 34.78427,
+        "longitude": 135.40126
+    },
+    {
+        "name": "Итами Ши",
+        "latitude": 34.78675,
+        "longitude": 135.40562
+    },
+    {
+        "name": "Какогава Ши",
+        "latitude": 34.78472,
+        "longitude": 134.84897
+    },
+    {
+        "name": "Какогавачо-хонмати",
+        "latitude": 34.76943,
+        "longitude": 134.82905
+    },
+    {
+        "name": "Сука",
+        "latitude": 34.75136,
+        "longitude": 134.38734
+    },
+    {
+        "name": "Касаи Ши",
+        "latitude": 34.92476,
+        "longitude": 134.85359
+    },
+    {
+        "name": "Като Ши",
+        "latitude": 34.92714,
+        "longitude": 135.02134
+    },
+    {
+        "name": "Каваниси",
+        "latitude": 34.81667,
+        "longitude": 135.41667
+    },
+    {
+        "name": "Каваниси Ши",
+        "latitude": 34.87955,
+        "longitude": 135.40919
+    },
+    {
+        "name": "Кобе",
+        "latitude": 34.6913,
+        "longitude": 135.183
+    },
+    {
+        "name": "Мики",
+        "latitude": 34.8,
+        "longitude": 134.98333
+    },
+    {
+        "name": "Мики Ши",
+        "latitude": 34.83553,
+        "longitude": 135.05822
+    },
+    {
+        "name": "Минамиаваджи Ши",
+        "latitude": 34.2753,
+        "longitude": 134.76465
+    },
+    {
+        "name": "Нисиномия Ши",
+        "latitude": 34.78194,
+        "longitude": 135.30247
+    },
+    {
+        "name": "Нисиномы - все",
+        "latitude": 34.71562,
+        "longitude": 135.33199
+    },
+    {
+        "name": "Нишиваки",
+        "latitude": 34.98419,
+        "longitude": 134.97407
+    },
+    {
+        "name": "Нишиваки-ши",
+        "latitude": 35.01098,
+        "longitude": 134.9965
+    },
+    {
+        "name": "Оно",
+        "latitude": 34.85,
+        "longitude": 134.93333
+    },
+    {
+        "name": "Оно Ши",
+        "latitude": 34.8575,
+        "longitude": 134.95129
+    },
+    {
+        "name": "Санда Ши",
+        "latitude": 34.95506,
+        "longitude": 135.2166
+    },
+    {
+        "name": "Сандачо",
+        "latitude": 34.88444,
+        "longitude": 135.22694
+    },
+    {
+        "name": "Сасаяма",
+        "latitude": 35.06667,
+        "longitude": 135.21667
+    },
+    {
+        "name": "Сасаяма-ши",
+        "latitude": 35.07523,
+        "longitude": 135.23087
+    },
+    {
+        "name": "Сырахамачо-усазакиминами",
+        "latitude": 34.78333,
+        "longitude": 134.71667
+    },
+    {
+        "name": "Шисо-ши",
+        "latitude": 35.15466,
+        "longitude": 134.54337
+    },
+    {
+        "name": "Сумото",
+        "latitude": 34.34322,
+        "longitude": 134.88911
+    },
+    {
+        "name": "Сумото Ши",
+        "latitude": 34.34533,
+        "longitude": 134.85858
+    },
+    {
+        "name": "Это винтовка",
+        "latitude": 35.08473,
+        "longitude": 134.90474
+    },
+    {
+        "name": "Такаразука",
+        "latitude": 34.79936,
+        "longitude": 135.35697
+    },
+    {
+        "name": "Такаразука Ши",
+        "latitude": 34.86008,
+        "longitude": 135.33197
+    },
+    {
+        "name": "Такасаго Ши",
+        "latitude": 34.77796,
+        "longitude": 134.78665
+    },
+    {
+        "name": "Танба-ши",
+        "latitude": 35.17715,
+        "longitude": 135.04972
+    },
+    {
+        "name": "Тацуно-ши",
+        "latitude": 34.88804,
+        "longitude": 134.5191
+    },
+    {
+        "name": "Тацуночо-томинага",
+        "latitude": 34.86437,
+        "longitude": 134.552
+    },
+    {
+        "name": "Тойоока",
+        "latitude": 35.54008,
+        "longitude": 134.82038
+    },
+    {
+        "name": "Тойока-ши",
+        "latitude": 35.51384,
+        "longitude": 134.82724
+    },
+    {
+        "name": "Ябу",
+        "latitude": 35.40304,
+        "longitude": 134.77118
+    },
+    {
+        "name": "Ябу-ши",
+        "latitude": 35.38333,
+        "longitude": 134.81667
+    },
+    {
+        "name": "Ямадзакичо-накабиросе",
+        "latitude": 35.0,
+        "longitude": 134.55
+    },
+    {
+        "name": "Яширо",
+        "latitude": 34.91667,
+        "longitude": 134.96667
+    },
+    {
+        "name": "Йонедачио Существо",
+        "latitude": 34.7756,
+        "longitude": 134.82551
+    },
+    {
+        "name": "Ами",
+        "latitude": 36.03333,
+        "longitude": 140.2
+    },
+    {
+        "name": "Бандо",
+        "latitude": 36.06997,
+        "longitude": 139.86705
+    },
+    {
+        "name": "Бандо-ши",
+        "latitude": 36.06384,
+        "longitude": 139.88787
+    },
+    {
+        "name": "Чикусей",
+        "latitude": 36.316,
+        "longitude": 139.98238
+    },
+    {
+        "name": "Чикусей-ши",
+        "latitude": 36.28938,
+        "longitude": 139.98692
+    },
+    {
+        "name": "Дайго",
+        "latitude": 36.76667,
+        "longitude": 140.35
+    },
+    {
+        "name": "Эдосаки",
+        "latitude": 35.95,
+        "longitude": 140.31667
+    },
+    {
+        "name": "Фудзисиро",
+        "latitude": 35.91667,
+        "longitude": 140.11667
+    },
+    {
+        "name": "Фунаисикава",
+        "latitude": 36.46667,
+        "longitude": 140.56667
+    },
+    {
+        "name": "Хитачи",
+        "latitude": 36.6,
+        "longitude": 140.65
+    },
+    {
+        "name": "Хитачи-Нака",
+        "latitude": 36.39659,
+        "longitude": 140.53479
+    },
+    {
+        "name": "Хитачи-ота",
+        "latitude": 36.5513,
+        "longitude": 140.52821
+    },
+    {
+        "name": "Хитачи",
+        "latitude": 36.62492,
+        "longitude": 140.61876
+    },
+    {
+        "name": "Хитачинака-ши",
+        "latitude": 36.39596,
+        "longitude": 140.55789
+    },
+    {
+        "name": "Хитачиомия-ши",
+        "latitude": 36.61371,
+        "longitude": 140.3399
+    },
+    {
+        "name": "Хитачиота-ши",
+        "latitude": 36.64836,
+        "longitude": 140.50536
+    },
+    {
+        "name": "Хокота-ши",
+        "latitude": 36.17337,
+        "longitude": 140.51993
+    },
+    {
+        "name": "Это липко",
+        "latitude": 35.95633,
+        "longitude": 140.32356
+    },
+    {
+        "name": "Инашики-ши",
+        "latitude": 35.94563,
+        "longitude": 140.36889
+    },
+    {
+        "name": "Исиге",
+        "latitude": 36.11667,
+        "longitude": 139.96667
+    },
+    {
+        "name": "Исиока",
+        "latitude": 36.18333,
+        "longitude": 140.26667
+    },
+    {
+        "name": "Исиока-ши",
+        "latitude": 36.22776,
+        "longitude": 140.21786
+    },
+    {
+        "name": "Это",
+        "latitude": 35.93333,
+        "longitude": 140.55
+    },
+    {
+        "name": "Итако-ши",
+        "latitude": 35.961,
+        "longitude": 140.5621
+    },
+    {
+        "name": "Восемь",
+        "latitude": 36.05,
+        "longitude": 139.9
+    },
+    {
+        "name": "Ивасе",
+        "latitude": 36.35,
+        "longitude": 140.1
+    },
+    {
+        "name": "Дзесо-ши",
+        "latitude": 36.06409,
+        "longitude": 139.96397
+    },
+    {
+        "name": "Камису-ши",
+        "latitude": 35.85126,
+        "longitude": 140.71171
+    },
+    {
+        "name": "с",
+        "latitude": 36.38333,
+        "longitude": 140.26667
+    },
+    {
+        "name": "Присоединяйся к нему",
+        "latitude": 36.35651,
+        "longitude": 140.26935
+    },
+    {
+        "name": "Касима-ши",
+        "latitude": 35.96536,
+        "longitude": 140.64474
+    },
+    {
+        "name": "Касумигаура",
+        "latitude": 36.15326,
+        "longitude": 140.24635
+    },
+    {
+        "name": "Касумигаура-ши",
+        "latitude": 36.10937,
+        "longitude": 140.30205
+    },
+    {
+        "name": "Кацута",
+        "latitude": 36.38333,
+        "longitude": 140.53333
+    },
+    {
+        "name": "Китайбараки",
+        "latitude": 36.78671,
+        "longitude": 140.74901
+    },
+    {
+        "name": "Китайбараки-ши",
+        "latitude": 36.83987,
+        "longitude": 140.68736
+    },
+    {
+        "name": "Кога",
+        "latitude": 36.18333,
+        "longitude": 139.71667
+    },
+    {
+        "name": "В любое время",
+        "latitude": 36.17975,
+        "longitude": 139.77534
+    },
+    {
+        "name": "Позволь ему быть",
+        "latitude": 36.26667,
+        "longitude": 140.1
+    },
+    {
+        "name": "Мито",
+        "latitude": 36.35,
+        "longitude": 140.45
+    },
+    {
+        "name": "Мито-ши",
+        "latitude": 36.37053,
+        "longitude": 140.43559
+    },
+    {
+        "name": "Мицукайдо",
+        "latitude": 36.01667,
+        "longitude": 139.98333
+    },
+    {
+        "name": "Мориа",
+        "latitude": 35.93333,
+        "longitude": 140.0
+    },
+    {
+        "name": "Мориа-чем",
+        "latitude": 35.9514,
+        "longitude": 139.97539
+    },
+    {
+        "name": "На",
+        "latitude": 36.05,
+        "longitude": 140.16667
+    },
+    {
+        "name": "С пистолетом",
+        "latitude": 36.46934,
+        "longitude": 140.47943
+    },
+    {
+        "name": "Намегата",
+        "latitude": 36.00705,
+        "longitude": 140.49623
+    },
+    {
+        "name": "Он не говорит",
+        "latitude": 36.06526,
+        "longitude": 140.47173
+    },
+    {
+        "name": "Хорошо",
+        "latitude": 36.31409,
+        "longitude": 140.58389
+    },
+    {
+        "name": "Окуноя",
+        "latitude": 36.28333,
+        "longitude": 140.41667
+    },
+    {
+        "name": "Омитама-ши",
+        "latitude": 36.20403,
+        "longitude": 140.3598
+    },
+    {
+        "name": "Омия",
+        "latitude": 36.55,
+        "longitude": 140.41667
+    },
+    {
+        "name": "Рюгасаки сказал",
+        "latitude": 35.9,
+        "longitude": 140.18333
+    },
+    {
+        "name": "Рюгасаки-ши",
+        "latitude": 35.92249,
+        "longitude": 140.18527
+    },
+    {
+        "name": "Сакаи",
+        "latitude": 36.1,
+        "longitude": 139.8
+    },
+    {
+        "name": "Сакурагава",
+        "latitude": 36.25052,
+        "longitude": 140.11565
+    },
+    {
+        "name": "Сакурагава-ши",
+        "latitude": 36.32746,
+        "longitude": 140.10792
+    },
+    {
+        "name": "Симодате",
+        "latitude": 36.3,
+        "longitude": 139.98333
+    },
+    {
+        "name": "Симоцума-ши",
+        "latitude": 36.18743,
+        "longitude": 139.96642
+    },
+    {
+        "name": "Такахаги",
+        "latitude": 36.71667,
+        "longitude": 140.71667
+    },
+    {
+        "name": "Томобе",
+        "latitude": 36.35,
+        "longitude": 140.3
+    },
+    {
+        "name": "горячий",
+        "latitude": 35.9,
+        "longitude": 140.08333
+    },
+    {
+        "name": "Ториде-ши",
+        "latitude": 35.91286,
+        "longitude": 140.08009
+    },
+    {
+        "name": "Цучиура-ши",
+        "latitude": 36.08333,
+        "longitude": 140.2
+    },
+    {
+        "name": "Цукуба",
+        "latitude": 36.2,
+        "longitude": 140.1
+    },
+    {
+        "name": "Цукуба-ши",
+        "latitude": 36.10532,
+        "longitude": 140.08174
+    },
+    {
+        "name": "Цукубамираи",
+        "latitude": 35.98411,
+        "longitude": 140.00929
+    },
+    {
+        "name": "Цукубамираи-ши",
+        "latitude": 35.98201,
+        "longitude": 140.03812
+    },
+    {
+        "name": "Усику",
+        "latitude": 35.96667,
+        "longitude": 140.13333
+    },
+    {
+        "name": "Замолчи",
+        "latitude": 35.97175,
+        "longitude": 140.18578
+    },
+    {
+        "name": "Юки",
+        "latitude": 36.3,
+        "longitude": 139.88333
+    },
+    {
+        "name": "Юки-ши",
+        "latitude": 36.26127,
+        "longitude": 139.86403
+    },
+    {
+        "name": "Хакуи",
+        "latitude": 36.88333,
+        "longitude": 136.78333
+    },
+    {
+        "name": "Хакуи Ши",
+        "latitude": 36.91136,
+        "longitude": 136.81626
+    },
+    {
+        "name": "Хакусан Ши",
+        "latitude": 36.27558,
+        "longitude": 136.66966
+    },
+    {
+        "name": "Взгляни на него",
+        "latitude": 36.25503,
+        "longitude": 136.37963
+    },
+    {
+        "name": "Кахоку Ши",
+        "latitude": 36.74365,
+        "longitude": 136.73273
+    },
+    {
+        "name": "Канадзава",
+        "latitude": 36.6,
+        "longitude": 136.61667
+    },
+    {
+        "name": "Канадзава-ши",
+        "latitude": 36.51919,
+        "longitude": 136.70836
+    },
+    {
+        "name": "Комацу",
+        "latitude": 36.40263,
+        "longitude": 136.45088
+    },
+    {
+        "name": "Мацуто",
+        "latitude": 36.51667,
+        "longitude": 136.56667
+    },
+    {
+        "name": "Нанао Ши",
+        "latitude": 37.07844,
+        "longitude": 136.9286
+    },
+    {
+        "name": "Номи Ши",
+        "latitude": 36.43593,
+        "longitude": 136.54456
+    },
+    {
+        "name": "Ноноичи",
+        "latitude": 36.53333,
+        "longitude": 136.61667
+    },
+    {
+        "name": "Ноноичи-ши",
+        "latitude": 36.52288,
+        "longitude": 136.60589
+    },
+    {
+        "name": "Сузу",
+        "latitude": 37.43459,
+        "longitude": 137.26009
+    },
+    {
+        "name": "Сузу Ши",
+        "latitude": 37.45533,
+        "longitude": 137.22587
+    },
+    {
+        "name": "Цубата",
+        "latitude": 36.67012,
+        "longitude": 136.7403
+    },
+    {
+        "name": "Цуруги-асахимачи",
+        "latitude": 36.45,
+        "longitude": 136.63333
+    },
+    {
+        "name": "Вадзима Ши",
+        "latitude": 37.33753,
+        "longitude": 136.88757
+    },
+    {
+        "name": "Хатимантай",
+        "latitude": 39.89979,
+        "longitude": 141.12989
+    },
+    {
+        "name": "Хатимантай Ши",
+        "latitude": 40.0239,
+        "longitude": 140.99113
+    },
+    {
+        "name": "Ханамаки",
+        "latitude": 39.38333,
+        "longitude": 141.11667
+    },
+    {
+        "name": "Ханамаки Ши",
+        "latitude": 39.44187,
+        "longitude": 141.16751
+    },
+    {
+        "name": "Ичинохе",
+        "latitude": 40.21965,
+        "longitude": 141.28986
+    },
+    {
+        "name": "Ичиносеки",
+        "latitude": 38.91667,
+        "longitude": 141.13333
+    },
+    {
+        "name": "Ичиносеки-ши",
+        "latitude": 38.91667,
+        "longitude": 141.13333
+    },
+    {
+        "name": "Уезд Иватэ",
+        "latitude": 39.97238,
+        "longitude": 141.22719
+    },
+    {
+        "name": "Камаиси",
+        "latitude": 39.27694,
+        "longitude": 141.86801
+    },
+    {
+        "name": "Камаиси-ши",
+        "latitude": 39.28748,
+        "longitude": 141.79854
+    },
+    {
+        "name": "Китаками",
+        "latitude": 39.28333,
+        "longitude": 141.11667
+    },
+    {
+        "name": "Китаками-ши",
+        "latitude": 39.30765,
+        "longitude": 141.00795
+    },
+    {
+        "name": "Идти",
+        "latitude": 40.18778,
+        "longitude": 141.76889
+    },
+    {
+        "name": "Перейти к этому",
+        "latitude": 40.14364,
+        "longitude": 141.65918
+    },
+    {
+        "name": "Мияко",
+        "latitude": 39.64691,
+        "longitude": 141.94057
+    },
+    {
+        "name": "Мияко-ши",
+        "latitude": 39.65724,
+        "longitude": 141.85144
+    },
+    {
+        "name": "Мизусава",
+        "latitude": 39.13333,
+        "longitude": 141.13333
+    },
+    {
+        "name": "Мориока",
+        "latitude": 39.7,
+        "longitude": 141.15
+    },
+    {
+        "name": "Мориока-ши",
+        "latitude": 39.74546,
+        "longitude": 141.26915
+    },
+    {
+        "name": "Нинохе",
+        "latitude": 40.29081,
+        "longitude": 141.31334
+    },
+    {
+        "name": "Нинохе Ши",
+        "latitude": 40.23798,
+        "longitude": 141.19576
+    },
+    {
+        "name": "Офунато",
+        "latitude": 39.07167,
+        "longitude": 141.71667
+    },
+    {
+        "name": "Офунато-ши",
+        "latitude": 39.06667,
+        "longitude": 141.71667
+    },
+    {
+        "name": "Осю",
+        "latitude": 39.13927,
+        "longitude": 141.1685
+    },
+    {
+        "name": "Осю-ши",
+        "latitude": 39.12962,
+        "longitude": 141.09479
+    },
+    {
+        "name": "Оцучи",
+        "latitude": 39.36667,
+        "longitude": 141.9
+    },
+    {
+        "name": "Рикузентаката-ши",
+        "latitude": 39.04082,
+        "longitude": 141.57703
+    },
+    {
+        "name": "Шизукуиси",
+        "latitude": 39.69414,
+        "longitude": 140.98442
+    },
+    {
+        "name": "Такидзава-ши",
+        "latitude": 39.8,
+        "longitude": 141.06667
+    },
+    {
+        "name": "Запрос",
+        "latitude": 39.31667,
+        "longitude": 141.53333
+    },
+    {
+        "name": "Тоно-ши",
+        "latitude": 39.36479,
+        "longitude": 141.50922
+    },
+    {
+        "name": "Ямада",
+        "latitude": 39.46667,
+        "longitude": 141.95
+    },
+    {
+        "name": "Хигасикагава Ши",
+        "latitude": 34.21158,
+        "longitude": 134.3335
+    },
+    {
+        "name": "Канонджи Ши",
+        "latitude": 34.08457,
+        "longitude": 133.67448
+    },
+    {
+        "name": "Канонджичо",
+        "latitude": 34.1276,
+        "longitude": 133.64598
+    },
+    {
+        "name": "Маругаме",
+        "latitude": 34.28333,
+        "longitude": 133.78333
+    },
+    {
+        "name": "Маругаме Ши",
+        "latitude": 34.2856,
+        "longitude": 133.81535
+    },
+    {
+        "name": "Митойо Ши",
+        "latitude": 34.16176,
+        "longitude": 133.72282
+    },
+    {
+        "name": "Сакаиде Ши",
+        "latitude": 34.32403,
+        "longitude": 133.89222
+    },
+    {
+        "name": "Сакайдечо",
+        "latitude": 34.32278,
+        "longitude": 133.8356
+    },
+    {
+        "name": "Сануки-ши",
+        "latitude": 34.26615,
+        "longitude": 134.20941
+    },
+    {
+        "name": "Шидо",
+        "latitude": 34.32333,
+        "longitude": 134.17333
+    },
+    {
+        "name": "Тадоцу",
+        "latitude": 34.275,
+        "longitude": 133.75
+    },
+    {
+        "name": "Такамацу",
+        "latitude": 34.33333,
+        "longitude": 134.05
+    },
+    {
+        "name": "Такамацу Ши",
+        "latitude": 34.26852,
+        "longitude": 134.0545
+    },
+    {
+        "name": "Ограбление",
+        "latitude": 34.48047,
+        "longitude": 134.17017
+    },
+    {
+        "name": "Зенцудзи Ши",
+        "latitude": 34.22581,
+        "longitude": 133.77692
+    },
+    {
+        "name": "Айра Ши",
+        "latitude": 31.7846,
+        "longitude": 130.60668
+    },
+    {
+        "name": "Акуне",
+        "latitude": 32.01667,
+        "longitude": 130.2
+    },
+    {
+        "name": "Akune Shi",
+        "latitude": 32.02516,
+        "longitude": 130.19768
+    },
+    {
+        "name": "люби меня",
+        "latitude": 28.3769,
+        "longitude": 129.49379
+    },
+    {
+        "name": "Амами Ши",
+        "latitude": 28.34542,
+        "longitude": 129.50221
+    },
+    {
+        "name": "Хаманоичи",
+        "latitude": 31.71667,
+        "longitude": 130.73333
+    },
+    {
+        "name": "Хиоки",
+        "latitude": 31.58333,
+        "longitude": 130.35
+    },
+    {
+        "name": "Хиоки Ши",
+        "latitude": 31.59929,
+        "longitude": 130.38208
+    },
+    {
+        "name": "Ибусуки",
+        "latitude": 31.23333,
+        "longitude": 130.65
+    },
+    {
+        "name": "Ибусуки Ши",
+        "latitude": 31.22962,
+        "longitude": 130.5806
+    },
+    {
+        "name": "Ичикикусикино Ши",
+        "latitude": 31.73281,
+        "longitude": 130.28893
+    },
+    {
+        "name": "Иджуин",
+        "latitude": 31.61667,
+        "longitude": 130.4
+    },
+    {
+        "name": "Хватит с него",
+        "latitude": 32.05835,
+        "longitude": 130.60104
+    },
+    {
+        "name": "Идзуми",
+        "latitude": 32.08333,
+        "longitude": 130.36667
+    },
+    {
+        "name": "Идзуми Ши",
+        "latitude": 32.06412,
+        "longitude": 130.36097
+    },
+    {
+        "name": "Кагосима",
+        "latitude": 31.56667,
+        "longitude": 130.55
+    },
+    {
+        "name": "Кагосима Ши",
+        "latitude": 31.58003,
+        "longitude": 130.52806
+    },
+    {
+        "name": "Кадзики",
+        "latitude": 31.73333,
+        "longitude": 130.66667
+    },
+    {
+        "name": "Каноя",
+        "latitude": 31.38333,
+        "longitude": 130.85
+    },
+    {
+        "name": "Каноя Ши",
+        "latitude": 31.42664,
+        "longitude": 130.86735
+    },
+    {
+        "name": "Каседа-сиракаме",
+        "latitude": 31.41667,
+        "longitude": 130.31667
+    },
+    {
+        "name": "Киришима Ши",
+        "latitude": 31.80558,
+        "longitude": 130.78164
+    },
+    {
+        "name": "Кокубу-Мацуки",
+        "latitude": 31.73333,
+        "longitude": 130.76667
+    },
+    {
+        "name": "Коседа",
+        "latitude": 30.38796,
+        "longitude": 130.64924
+    },
+    {
+        "name": "Косима",
+        "latitude": 30.23461,
+        "longitude": 130.53517
+    },
+    {
+        "name": "Чей",
+        "latitude": 30.27123,
+        "longitude": 130.4236
+    },
+    {
+        "name": "Схватить",
+        "latitude": 31.71667,
+        "longitude": 130.26667
+    },
+    {
+        "name": "Макуразаки",
+        "latitude": 31.26667,
+        "longitude": 130.31667
+    },
+    {
+        "name": "Макуразаки Ши",
+        "latitude": 31.29139,
+        "longitude": 130.30681
+    },
+    {
+        "name": "Минамикюсю Ши",
+        "latitude": 31.34038,
+        "longitude": 130.43677
+    },
+    {
+        "name": "Минамисацума Ши",
+        "latitude": 31.38793,
+        "longitude": 130.26961
+    },
+    {
+        "name": "Мияноура",
+        "latitude": 30.4269,
+        "longitude": 130.57151
+    },
+    {
+        "name": "Нагата",
+        "latitude": 30.39516,
+        "longitude": 130.42548
+    },
+    {
+        "name": "Назе",
+        "latitude": 28.36667,
+        "longitude": 129.48333
+    },
+    {
+        "name": "Нишиноомоте",
+        "latitude": 30.73333,
+        "longitude": 131.0
+    },
+    {
+        "name": "Нишиноомоте Ши",
+        "latitude": 30.70536,
+        "longitude": 131.01521
+    },
+    {
+        "name": "Окучи-синохара",
+        "latitude": 32.06779,
+        "longitude": 130.62439
+    },
+    {
+        "name": "Сацумасендай",
+        "latitude": 31.81667,
+        "longitude": 130.3
+    },
+    {
+        "name": "Сацумасендай Ши",
+        "latitude": 31.82376,
+        "longitude": 130.25899
+    },
+    {
+        "name": "Сибуши",
+        "latitude": 31.476,
+        "longitude": 131.10114
+    },
+    {
+        "name": "Сибуши-ши",
+        "latitude": 31.48333,
+        "longitude": 131.1
+    },
+    {
+        "name": "Ну давай же",
+        "latitude": 31.65615,
+        "longitude": 130.9747
+    },
+    {
+        "name": "Суёсичо-нинока",
+        "latitude": 31.65,
+        "longitude": 131.01667
+    },
+    {
+        "name": "Тарумизу",
+        "latitude": 31.48333,
+        "longitude": 130.7
+    },
+    {
+        "name": "Тарумизу Ши",
+        "latitude": 31.51583,
+        "longitude": 130.76046
+    },
+    {
+        "name": "Юдомари",
+        "latitude": 30.2347,
+        "longitude": 130.47942
+    },
+    {
+        "name": "Ацуги",
+        "latitude": 35.44272,
+        "longitude": 139.36931
+    },
+    {
+        "name": "Ацуги Ши",
+        "latitude": 35.46513,
+        "longitude": 139.32707
+    },
+    {
+        "name": "Аясэ Ши",
+        "latitude": 35.43995,
+        "longitude": 139.43089
+    },
+    {
+        "name": "Чигасаки",
+        "latitude": 35.33638,
+        "longitude": 139.40434
+    },
+    {
+        "name": "Чигасаки Ши",
+        "latitude": 35.34429,
+        "longitude": 139.40958
+    },
+    {
+        "name": "Эбина Ши",
+        "latitude": 35.43762,
+        "longitude": 139.39307
+    },
+    {
+        "name": "Фудзисава",
+        "latitude": 35.34926,
+        "longitude": 139.47666
+    },
+    {
+        "name": "Фудзисава Ши",
+        "latitude": 35.36814,
+        "longitude": 139.45899
+    },
+    {
+        "name": "Хадано",
+        "latitude": 35.37111,
+        "longitude": 139.22361
+    },
+    {
+        "name": "Хадано-ши",
+        "latitude": 35.4,
+        "longitude": 139.2
+    },
+    {
+        "name": "Хаконе",
+        "latitude": 35.18945,
+        "longitude": 139.02649
+    },
+    {
+        "name": "Хаяма",
+        "latitude": 35.27651,
+        "longitude": 139.57733
+    },
+    {
+        "name": "Хирацука",
+        "latitude": 35.32785,
+        "longitude": 139.33735
+    },
+    {
+        "name": "Хирацука Ши",
+        "latitude": 35.35099,
+        "longitude": 139.32013
+    },
+    {
+        "name": "Исехара",
+        "latitude": 35.39932,
+        "longitude": 139.31019
+    },
+    {
+        "name": "Исехара Ши",
+        "latitude": 35.41011,
+        "longitude": 139.29203
+    },
+    {
+        "name": "Камакура",
+        "latitude": 35.30889,
+        "longitude": 139.55028
+    },
+    {
+        "name": "Камакура Ши",
+        "latitude": 35.33,
+        "longitude": 139.53798
+    },
+    {
+        "name": "Кавасаки",
+        "latitude": 35.52056,
+        "longitude": 139.71722
+    },
+    {
+        "name": "Кавасаки-ши",
+        "latitude": 35.56996,
+        "longitude": 139.62854
+    },
+    {
+        "name": "Минамиасигара",
+        "latitude": 35.31947,
+        "longitude": 139.1096
+    },
+    {
+        "name": "Минамиасигара Ши",
+        "latitude": 35.30991,
+        "longitude": 139.07016
+    },
+    {
+        "name": "Минамиринкан",
+        "latitude": 35.49527,
+        "longitude": 139.44279
+    },
+    {
+        "name": "Миура",
+        "latitude": 35.14,
+        "longitude": 139.61917
+    },
+    {
+        "name": "Миура Ши",
+        "latitude": 35.16754,
+        "longitude": 139.64104
+    },
+    {
+        "name": "Ниномия",
+        "latitude": 35.3015,
+        "longitude": 139.25581
+    },
+    {
+        "name": "Одавара",
+        "latitude": 35.25556,
+        "longitude": 139.15972
+    },
+    {
+        "name": "Одавара-ши",
+        "latitude": 35.25,
+        "longitude": 139.13333
+    },
+    {
+        "name": "Оизо",
+        "latitude": 35.31558,
+        "longitude": 139.31625
+    },
+    {
+        "name": "Сагамихара-ши",
+        "latitude": 35.55,
+        "longitude": 139.35
+    },
+    {
+        "name": "Ямакита",
+        "latitude": 35.36344,
+        "longitude": 139.07975
+    },
+    {
+        "name": "Ямато-ши",
+        "latitude": 35.46934,
+        "longitude": 139.46165
+    },
+    {
+        "name": "Иокогама",
+        "latitude": 35.43333,
+        "longitude": 139.65
+    },
+    {
+        "name": "Иокогама Ши",
+        "latitude": 35.46225,
+        "longitude": 139.57645
+    },
+    {
+        "name": "Йокосука",
+        "latitude": 35.28361,
+        "longitude": 139.66722
+    },
+    {
+        "name": "Ёкосука Ши",
+        "latitude": 35.24985,
+        "longitude": 139.66033
+    },
+    {
+        "name": "Югавара",
+        "latitude": 35.15,
+        "longitude": 139.06667
+    },
+    {
+        "name": "Существовать",
+        "latitude": 35.4879,
+        "longitude": 139.39101
+    },
+    {
+        "name": "Стать им",
+        "latitude": 35.48752,
+        "longitude": 139.40925
+    },
+    {
+        "name": "Дзуси Ши",
+        "latitude": 35.299,
+        "longitude": 139.59125
+    },
+    {
+        "name": "Ачи",
+        "latitude": 35.44388889,
+        "longitude": 137.7475
+    },
+    {
+        "name": "Агэмацу",
+        "latitude": 35.78388889,
+        "longitude": 137.69416667
+    },
+    {
+        "name": "Аки",
+        "latitude": 33.5025,
+        "longitude": 133.90722222
+    },
+    {
+        "name": "Анан",
+        "latitude": 35.32361111,
+        "longitude": 137.81611111
+    },
+    {
+        "name": "Аоки",
+        "latitude": 36.37,
+        "longitude": 138.12861111
+    },
+    {
+        "name": "Асахи",
+        "latitude": 36.12361111,
+        "longitude": 137.86638889
+    },
+    {
+        "name": "Пост",
+        "latitude": 36.30388889,
+        "longitude": 137.90555556
+    },
+    {
+        "name": "Тикухоку",
+        "latitude": 36.4212,
+        "longitude": 138.04011
+    },
+    {
+        "name": "Чикума",
+        "latitude": 36.50624,
+        "longitude": 138.12352
+    },
+    {
+        "name": "Чино",
+        "latitude": 35.99555556,
+        "longitude": 138.15888889
+    },
+    {
+        "name": "Фудзими",
+        "latitude": 35.91472222,
+        "longitude": 138.24083333
+    },
+    {
+        "name": "Гейсей",
+        "latitude": 33.52694444,
+        "longitude": 133.80916667
+    },
+    {
+        "name": "Хакуба",
+        "latitude": 36.7,
+        "longitude": 137.86666667
+    },
+    {
+        "name": "Хара",
+        "latitude": 35.96444444,
+        "longitude": 138.2175
+    },
+    {
+        "name": "Хидака",
+        "latitude": 33.53472222,
+        "longitude": 133.37333333
+    },
+    {
+        "name": "Хирая",
+        "latitude": 35.32333333,
+        "longitude": 137.63027778
+    },
+    {
+        "name": "Иида",
+        "latitude": 35.51472222,
+        "longitude": 137.82194444
+    },
+    {
+        "name": "Иидзима",
+        "latitude": 35.67638889,
+        "longitude": 137.91944444
+    },
+    {
+        "name": "Иияма",
+        "latitude": 36.85166667,
+        "longitude": 138.36555556
+    },
+    {
+        "name": "Иидзуна",
+        "latitude": 36.755,
+        "longitude": 138.23555556
+    },
+    {
+        "name": "Икеда",
+        "latitude": 36.42138889,
+        "longitude": 137.87472222
+    },
+    {
+        "name": "Икусака",
+        "latitude": 36.42527778,
+        "longitude": 137.9275
+    },
+    {
+        "name": "В",
+        "latitude": 35.8275,
+        "longitude": 137.95388889
+    },
+    {
+        "name": "Я не",
+        "latitude": 33.55,
+        "longitude": 133.43333333
+    },
+    {
+        "name": "Каруизава",
+        "latitude": 36.34833333,
+        "longitude": 138.59694444
+    },
+    {
+        "name": "Каваками",
+        "latitude": 35.97555556,
+        "longitude": 138.57833333
+    },
+    {
+        "name": "Круговой",
+        "latitude": 36.85861111,
+        "longitude": 138.40666667
+    },
+    {
+        "name": "поцелуй",
+        "latitude": 35.93638889,
+        "longitude": 137.78305556
+    },
+    {
+        "name": "Китайки",
+        "latitude": 36.05916667,
+        "longitude": 138.55111111
+    },
+    {
+        "name": "Китагава",
+        "latitude": 33.44777778,
+        "longitude": 134.04222222
+    },
+    {
+        "name": "Коти",
+        "latitude": 33.55888889,
+        "longitude": 133.53138889
+    },
+    {
+        "name": "Камера",
+        "latitude": 36.3275,
+        "longitude": 138.42583333
+    },
+    {
+        "name": "Конан",
+        "latitude": 33.56416667,
+        "longitude": 133.70055556
+    },
+    {
+        "name": "Куросио",
+        "latitude": 33.025,
+        "longitude": 133.01083333
+    },
+    {
+        "name": "Мацукава",
+        "latitude": 35.59722222,
+        "longitude": 137.90972222
+    },
+    {
+        "name": "Мацумото",
+        "latitude": 36.23805556,
+        "longitude": 137.97194444
+    },
+    {
+        "name": "Михара",
+        "latitude": 32.90611111,
+        "longitude": 132.84722222
+    },
+    {
+        "name": "Минамиаики",
+        "latitude": 36.03611111,
+        "longitude": 138.54694444
+    },
+    {
+        "name": "Минамимаки",
+        "latitude": 36.02083333,
+        "longitude": 138.49222222
+    },
+    {
+        "name": "Минамиминова",
+        "latitude": 35.87277778,
+        "longitude": 137.97527778
+    },
+    {
+        "name": "Минова",
+        "latitude": 35.915,
+        "longitude": 137.98194444
+    },
+    {
+        "name": "Мицусима",
+        "latitude": 35.275251,
+        "longitude": 137.852137
+    },
+    {
+        "name": "В мозгу",
+        "latitude": 35.76888889,
+        "longitude": 137.94422222
+    },
+    {
+        "name": "Миота",
+        "latitude": 36.32138889,
+        "longitude": 138.50888889
+    },
+    {
+        "name": "Мотояма",
+        "latitude": 35.16402778,
+        "longitude": 136.96361111
+    },
+    {
+        "name": "Мурото",
+        "latitude": 33.29,
+        "longitude": 134.15194444
+    },
+    {
+        "name": "Нагано",
+        "latitude": 36.64861111,
+        "longitude": 138.19277778
+    },
+    {
+        "name": "Сделанный",
+        "latitude": 36.25611111,
+        "longitude": 138.26777778
+    },
+    {
+        "name": "Нагисо",
+        "latitude": 35.60361111,
+        "longitude": 137.60888889
+    },
+    {
+        "name": "Нахари",
+        "latitude": 33.42416667,
+        "longitude": 134.02111111
+    },
+    {
+        "name": "Накагава",
+        "latitude": 35.63444444,
+        "longitude": 137.94611111
+    },
+    {
+        "name": "Накаджо",
+        "latitude": 36.61222222,
+        "longitude": 138.03652778
+    },
+    {
+        "name": "Накамура",
+        "latitude": 32.99138889,
+        "longitude": 132.93375
+    },
+    {
+        "name": "Накано",
+        "latitude": 36.74194444,
+        "longitude": 138.36944444
+    },
+    {
+        "name": "Промытый",
+        "latitude": 33.3275,
+        "longitude": 133.22833333
+    },
+    {
+        "name": "Нанкоку",
+        "latitude": 33.57555556,
+        "longitude": 133.64138889
+    },
+    {
+        "name": "Небеса",
+        "latitude": 35.25305556,
+        "longitude": 137.58111111
+    },
+    {
+        "name": "Ниёдогава",
+        "latitude": 33.57527778,
+        "longitude": 133.16833333
+    },
+    {
+        "name": "Нодзаваонсен",
+        "latitude": 36.92277778,
+        "longitude": 138.44055556
+    },
+    {
+        "name": "Он правил",
+        "latitude": 36.69777778,
+        "longitude": 138.31222222
+    },
+    {
+        "name": "Глаза",
+        "latitude": 33.53277778,
+        "longitude": 133.25194444
+    },
+    {
+        "name": "Огава",
+        "latitude": 36.61694444,
+        "longitude": 137.97444444
+    },
+    {
+        "name": "Формальный",
+        "latitude": 33.78361111,
+        "longitude": 133.46666667
+    },
+    {
+        "name": "Хорошо",
+        "latitude": 36.06694444,
+        "longitude": 138.04944444
+    },
+    {
+        "name": "Обе",
+        "latitude": 35.68277778,
+        "longitude": 137.665
+    },
+    {
+        "name": "Омати",
+        "latitude": 36.5,
+        "longitude": 137.85
+    },
+    {
+        "name": "Вода",
+        "latitude": 36.45611111,
+        "longitude": 138.04527778
+    },
+    {
+        "name": "Осика",
+        "latitude": 35.57833333,
+        "longitude": 138.03416667
+    },
+    {
+        "name": "Правильный",
+        "latitude": 35.80944444,
+        "longitude": 137.55111111
+    },
+    {
+        "name": "Отари",
+        "latitude": 36.77916667,
+        "longitude": 137.90833333
+    },
+    {
+        "name": "Отойо",
+        "latitude": 33.76416667,
+        "longitude": 133.66416667
+    },
+    {
+        "name": "Оцуки",
+        "latitude": 32.84138889,
+        "longitude": 132.70694444
+    },
+    {
+        "name": "Сакаэ",
+        "latitude": 36.9875,
+        "longitude": 138.5775
+    },
+    {
+        "name": "Развод",
+        "latitude": 36.46194444,
+        "longitude": 138.18027778
+    },
+    {
+        "name": "Вставка",
+        "latitude": 33.50083333,
+        "longitude": 133.28666667
+    },
+    {
+        "name": "Начинать",
+        "latitude": 36.24888889,
+        "longitude": 138.47694444
+    },
+    {
+        "name": "Сакухо",
+        "latitude": 36.16111111,
+        "longitude": 138.48333333
+    },
+    {
+        "name": "Санада",
+        "latitude": 36.44088889,
+        "longitude": 138.30361111
+    },
+    {
+        "name": "Шиманто",
+        "latitude": 33.20833333,
+        "longitude": 133.13555556
+    },
+    {
+        "name": "Симодзё",
+        "latitude": 35.3975,
+        "longitude": 137.78611111
+    },
+    {
+        "name": "Симосува",
+        "latitude": 36.06972222,
+        "longitude": 138.08027778
+    },
+    {
+        "name": "Синано",
+        "latitude": 36.80638889,
+        "longitude": 138.20694444
+    },
+    {
+        "name": "Сиодзири",
+        "latitude": 36.11666667,
+        "longitude": 137.95
+    },
+    {
+        "name": "Сукумо",
+        "latitude": 32.93888889,
+        "longitude": 132.72611111
+    },
+    {
+        "name": "Сусаки",
+        "latitude": 33.40083333,
+        "longitude": 133.28305556
+    },
+    {
+        "name": "Вода",
+        "latitude": 36.03916667,
+        "longitude": 138.11416667
+    },
+    {
+        "name": "Сузак",
+        "latitude": 36.65,
+        "longitude": 138.31667
+    },
+    {
+        "name": "Такаги",
+        "latitude": 35.51388889,
+        "longitude": 137.87388889
+    },
+    {
+        "name": "Такамори",
+        "latitude": 35.55138889,
+        "longitude": 137.87861111
+    },
+    {
+        "name": "Такаяма",
+        "latitude": 36.67972222,
+        "longitude": 138.36305556
+    },
+    {
+        "name": "Тано",
+        "latitude": 33.42777778,
+        "longitude": 134.00833333
+    },
+    {
+        "name": "Татешина",
+        "latitude": 36.27194444,
+        "longitude": 138.31611111
+    },
+    {
+        "name": "Тацуно",
+        "latitude": 35.9825,
+        "longitude": 137.9875
+    },
+    {
+        "name": "Траулер",
+        "latitude": 36.91666667,
+        "longitude": 138.38333333
+    },
+    {
+        "name": "Томи",
+        "latitude": 36.35944444,
+        "longitude": 138.33055556
+    },
+    {
+        "name": "Уход",
+        "latitude": 33.49611111,
+        "longitude": 133.42527778
+    },
+    {
+        "name": "Тосашимидзу",
+        "latitude": 32.78138889,
+        "longitude": 132.955
+    },
+    {
+        "name": "Тойо",
+        "latitude": 33.52805556,
+        "longitude": 134.28
+    },
+    {
+        "name": "Тойоока",
+        "latitude": 35.55138889,
+        "longitude": 137.89583333
+    },
+    {
+        "name": "Цуно",
+        "latitude": 33.44666667,
+        "longitude": 133.19944444
+    },
+    {
+        "name": "Уэда",
+        "latitude": 36.40194444,
+        "longitude": 138.24916667
+    },
+    {
+        "name": "Вода",
+        "latitude": 33.55527778,
+        "longitude": 134.04805556
+    },
+    {
+        "name": "Дверь",
+        "latitude": 35.27111111,
+        "longitude": 137.71111111
+    },
+    {
+        "name": "США",
+        "latitude": 33.44936111,
+        "longitude": 133.43711111
+    },
+    {
+        "name": "Ямагата",
+        "latitude": 36.16805556,
+        "longitude": 137.87888889
+    },
+    {
+        "name": "Яманучи",
+        "latitude": 36.74472222,
+        "longitude": 138.4125
+    },
+    {
+        "name": "Ясуда",
+        "latitude": 33.43833333,
+        "longitude": 133.98111111
+    },
+    {
+        "name": "Ясуока",
+        "latitude": 35.37722222,
+        "longitude": 137.84583333
+    },
+    {
+        "name": "Много",
+        "latitude": 36.51666667,
+        "longitude": 138.1
+    },
+    {
+        "name": "Юсухара",
+        "latitude": 33.39194444,
+        "longitude": 132.92694444
+    },
+    {
+        "name": "Амакуса Пистолет",
+        "latitude": 32.48513,
+        "longitude": 130.0724
+    },
+    {
+        "name": "Амакуса Ши",
+        "latitude": 32.38515,
+        "longitude": 130.15014
+    },
+    {
+        "name": "Арао Ши",
+        "latitude": 32.97619,
+        "longitude": 130.47562
+    },
+    {
+        "name": "Асо-ши",
+        "latitude": 32.95608,
+        "longitude": 131.09458
+    },
+    {
+        "name": "Хитоёси",
+        "latitude": 32.21667,
+        "longitude": 130.75
+    },
+    {
+        "name": "Хитоёси Ши",
+        "latitude": 32.17298,
+        "longitude": 130.74013
+    },
+    {
+        "name": "дорогие студенты",
+        "latitude": 32.45993,
+        "longitude": 130.16713
+    },
+    {
+        "name": "Хонмати",
+        "latitude": 32.50439,
+        "longitude": 130.59952
+    },
+    {
+        "name": "Камиамакуса Ши",
+        "latitude": 32.4955,
+        "longitude": 130.40816
+    },
+    {
+        "name": "Кикучи",
+        "latitude": 32.98333,
+        "longitude": 130.81667
+    },
+    {
+        "name": "Кикучи Ши",
+        "latitude": 32.99107,
+        "longitude": 130.85523
+    },
+    {
+        "name": "Коси Ши",
+        "latitude": 32.89305,
+        "longitude": 130.76867
+    },
+    {
+        "name": "Кумамото",
+        "latitude": 32.80589,
+        "longitude": 130.69181
+    },
+    {
+        "name": "Кумамото Ши",
+        "latitude": 32.79733,
+        "longitude": 130.69171
+    },
+    {
+        "name": "Мацубасе",
+        "latitude": 32.65,
+        "longitude": 130.66667
+    },
+    {
+        "name": "Минамата",
+        "latitude": 32.21667,
+        "longitude": 130.4
+    },
+    {
+        "name": "Минамата Ши",
+        "latitude": 32.17055,
+        "longitude": 130.46211
+    },
+    {
+        "name": "Одзу",
+        "latitude": 32.8804,
+        "longitude": 130.87161
+    },
+    {
+        "name": "Отец",
+        "latitude": 32.94716,
+        "longitude": 130.57446
+    },
+    {
+        "name": "Люби его",
+        "latitude": 32.9155,
+        "longitude": 130.56018
+    },
+    {
+        "name": "Уэкимачи-моно",
+        "latitude": 32.89964,
+        "longitude": 130.68898
+    },
+    {
+        "name": "Уки Ши",
+        "latitude": 32.62669,
+        "longitude": 130.65491
+    },
+    {
+        "name": "Ушибукамати",
+        "latitude": 32.20142,
+        "longitude": 130.02171
+    },
+    {
+        "name": "Уто",
+        "latitude": 32.68333,
+        "longitude": 130.66667
+    },
+    {
+        "name": "Уто Ши",
+        "latitude": 32.68092,
+        "longitude": 130.61308
+    },
+    {
+        "name": "Ямага Ши",
+        "latitude": 33.05587,
+        "longitude": 130.72309
+    },
+    {
+        "name": "Яцусиро Ши",
+        "latitude": 32.49063,
+        "longitude": 130.74972
+    },
+    {
+        "name": "Арасияма",
+        "latitude": 35.01481,
+        "longitude": 135.67755
+    },
+    {
+        "name": "Будь как будет",
+        "latitude": 35.3,
+        "longitude": 135.25
+    },
+    {
+        "name": "Аябэ-ши",
+        "latitude": 35.35263,
+        "longitude": 135.34465
+    },
+    {
+        "name": "Фукутияма-ши",
+        "latitude": 35.32404,
+        "longitude": 135.11332
+    },
+    {
+        "name": "Джойо Ши",
+        "latitude": 34.84566,
+        "longitude": 135.7976
+    },
+    {
+        "name": "Камея",
+        "latitude": 35.0,
+        "longitude": 135.58333
+    },
+    {
+        "name": "Камеока-ши",
+        "latitude": 35.01021,
+        "longitude": 135.539
+    },
+    {
+        "name": "Камигё-ку",
+        "latitude": 35.02954,
+        "longitude": 135.75666
+    },
+    {
+        "name": "Кизугава-ши",
+        "latitude": 34.73781,
+        "longitude": 135.82128
+    },
+    {
+        "name": "Кётанабе Ши",
+        "latitude": 34.80779,
+        "longitude": 135.763
+    },
+    {
+        "name": "Кётанго-ши",
+        "latitude": 35.63089,
+        "longitude": 135.04785
+    },
+    {
+        "name": "Киото",
+        "latitude": 35.02107,
+        "longitude": 135.75385
+    },
+    {
+        "name": "Майдзуру",
+        "latitude": 35.45,
+        "longitude": 135.33333
+    },
+    {
+        "name": "Майдзуру-ши",
+        "latitude": 35.47009,
+        "longitude": 135.34003
+    },
+    {
+        "name": "Миядзу",
+        "latitude": 35.53333,
+        "longitude": 135.18333
+    },
+    {
+        "name": "Миядзу-ши",
+        "latitude": 35.55596,
+        "longitude": 135.17662
+    },
+    {
+        "name": "Муко Ши",
+        "latitude": 34.94975,
+        "longitude": 135.70269
+    },
+    {
+        "name": "Нагаокаке Ши",
+        "latitude": 34.9284,
+        "longitude": 135.67881
+    },
+    {
+        "name": "Нантан-ши",
+        "latitude": 35.2274,
+        "longitude": 135.55939
+    },
+    {
+        "name": "Танабэ",
+        "latitude": 34.82242,
+        "longitude": 135.76604
+    },
+    {
+        "name": "Удзи",
+        "latitude": 34.89044,
+        "longitude": 135.80325
+    },
+    {
+        "name": "Уджи Ши",
+        "latitude": 34.90296,
+        "longitude": 135.82039
+    },
+    {
+        "name": "Много",
+        "latitude": 34.87009,
+        "longitude": 135.7027
+    },
+    {
+        "name": "Распространи его",
+        "latitude": 34.86662,
+        "longitude": 135.7147
+    },
+    {
+        "name": "Хысай-мотоматы",
+        "latitude": 34.66667,
+        "longitude": 136.46667
+    },
+    {
+        "name": "Ига-ши",
+        "latitude": 34.76855,
+        "longitude": 136.13013
+    },
+    {
+        "name": "Инабе",
+        "latitude": 35.11344,
+        "longitude": 136.57205
+    },
+    {
+        "name": "Инабе-ши",
+        "latitude": 35.16061,
+        "longitude": 136.50788
+    },
+    {
+        "name": "Тогда как",
+        "latitude": 34.48333,
+        "longitude": 136.7
+    },
+    {
+        "name": "Исэ-ши",
+        "latitude": 34.4674,
+        "longitude": 136.71585
+    },
+    {
+        "name": "Камеяма",
+        "latitude": 34.85,
+        "longitude": 136.45
+    },
+    {
+        "name": "Камеяма Ши",
+        "latitude": 34.86866,
+        "longitude": 136.39345
+    },
+    {
+        "name": "Каваге",
+        "latitude": 34.80447,
+        "longitude": 136.54645
+    },
+    {
+        "name": "Комоно",
+        "latitude": 35.0,
+        "longitude": 136.51667
+    },
+    {
+        "name": "Кумано",
+        "latitude": 33.90389,
+        "longitude": 136.12214
+    },
+    {
+        "name": "Кумано-ши",
+        "latitude": 33.9229,
+        "longitude": 136.02646
+    },
+    {
+        "name": "Найти",
+        "latitude": 35.05192,
+        "longitude": 136.66958
+    },
+    {
+        "name": "Вот и все",
+        "latitude": 35.06176,
+        "longitude": 136.68348
+    },
+    {
+        "name": "Мацудзака-ши",
+        "latitude": 34.56667,
+        "longitude": 136.53333
+    },
+    {
+        "name": "Очевидно",
+        "latitude": 34.61667,
+        "longitude": 136.08333
+    },
+    {
+        "name": "Набари-ши",
+        "latitude": 34.62643,
+        "longitude": 136.10825
+    },
+    {
+        "name": "Который имел",
+        "latitude": 34.06667,
+        "longitude": 136.2
+    },
+    {
+        "name": "Сима",
+        "latitude": 34.33333,
+        "longitude": 136.83333
+    },
+    {
+        "name": "Сима-ши",
+        "latitude": 34.33795,
+        "longitude": 136.81336
+    },
+    {
+        "name": "Сузука",
+        "latitude": 34.88333,
+        "longitude": 136.58333
+    },
+    {
+        "name": "Сузука-ши",
+        "latitude": 34.88114,
+        "longitude": 136.58443
+    },
+    {
+        "name": "Тоба",
+        "latitude": 34.4833,
+        "longitude": 136.84186
+    },
+    {
+        "name": "Тоба-ши",
+        "latitude": 34.48333,
+        "longitude": 136.83333
+    },
+    {
+        "name": "Цу",
+        "latitude": 34.73333,
+        "longitude": 136.51667
+    },
+    {
+        "name": "Цу-ши",
+        "latitude": 34.71706,
+        "longitude": 136.50616
+    },
+    {
+        "name": "Уэно-меч",
+        "latitude": 34.75856,
+        "longitude": 136.13108
+    },
+    {
+        "name": "Ёккаичи-ши",
+        "latitude": 34.96475,
+        "longitude": 136.62443
+    },
+    {
+        "name": "Фурукава",
+        "latitude": 38.57167,
+        "longitude": 140.95556
+    },
+    {
+        "name": "Хигасимацушима Ши",
+        "latitude": 38.41089,
+        "longitude": 141.17717
+    },
+    {
+        "name": "Хигасимацусима",
+        "latitude": 38.40886,
+        "longitude": 141.17901
+    },
+    {
+        "name": "Исиномаки",
+        "latitude": 38.41667,
+        "longitude": 141.3
+    },
+    {
+        "name": "Исиномаки Ши",
+        "latitude": 38.47918,
+        "longitude": 141.37226
+    },
+    {
+        "name": "Иванума",
+        "latitude": 38.10472,
+        "longitude": 140.85944
+    },
+    {
+        "name": "Иванума-ши",
+        "latitude": 38.11667,
+        "longitude": 140.88333
+    },
+    {
+        "name": "Черный",
+        "latitude": 37.97451,
+        "longitude": 140.77202
+    },
+    {
+        "name": "Какуда Ши",
+        "latitude": 37.98828,
+        "longitude": 140.77903
+    },
+    {
+        "name": "Кесеннума",
+        "latitude": 38.90112,
+        "longitude": 141.57746
+    },
+    {
+        "name": "Кесеннума Ши",
+        "latitude": 38.91377,
+        "longitude": 141.55711
+    },
+    {
+        "name": "Kogota",
+        "latitude": 38.55,
+        "longitude": 141.05
+    },
+    {
+        "name": "Курихара",
+        "latitude": 38.75,
+        "longitude": 141.0
+    },
+    {
+        "name": "Курихара Ши",
+        "latitude": 38.80895,
+        "longitude": 140.94034
+    },
+    {
+        "name": "Марумори",
+        "latitude": 37.91667,
+        "longitude": 140.76667
+    },
+    {
+        "name": "Мацусима",
+        "latitude": 38.37357,
+        "longitude": 141.06105
+    },
+    {
+        "name": "Натори Ши",
+        "latitude": 38.16729,
+        "longitude": 140.86666
+    },
+    {
+        "name": "Окавара",
+        "latitude": 38.05,
+        "longitude": 140.73361
+    },
+    {
+        "name": "Онагава Чо",
+        "latitude": 38.4466,
+        "longitude": 141.44794
+    },
+    {
+        "name": "Осаки",
+        "latitude": 38.58866,
+        "longitude": 140.973
+    },
+    {
+        "name": "Осака Ши",
+        "latitude": 38.68005,
+        "longitude": 140.84669
+    },
+    {
+        "name": "Смерть",
+        "latitude": 38.33092,
+        "longitude": 140.97691
+    },
+    {
+        "name": "Сендай",
+        "latitude": 38.26667,
+        "longitude": 140.86667
+    },
+    {
+        "name": "Сиогама",
+        "latitude": 38.31667,
+        "longitude": 141.03333
+    },
+    {
+        "name": "Сироиси",
+        "latitude": 38.00333,
+        "longitude": 140.61833
+    },
+    {
+        "name": "Сироиси Ши",
+        "latitude": 37.99691,
+        "longitude": 140.57944
+    },
+    {
+        "name": "Взгляни на него",
+        "latitude": 38.29535,
+        "longitude": 140.9991
+    },
+    {
+        "name": "Томе Ши",
+        "latitude": 38.68583,
+        "longitude": 141.25745
+    },
+    {
+        "name": "Tomiya",
+        "latitude": 38.39306,
+        "longitude": 140.88611
+    },
+    {
+        "name": "Глубокий",
+        "latitude": 38.54465,
+        "longitude": 141.13461
+    },
+    {
+        "name": "Ватари",
+        "latitude": 38.035,
+        "longitude": 140.85111
+    },
+    {
+        "name": "Ватари-пушка",
+        "latitude": 37.9964,
+        "longitude": 140.87909
+    },
+    {
+        "name": "Ямото",
+        "latitude": 38.42738,
+        "longitude": 141.21487
+    },
+    {
+        "name": "Эбино-ши",
+        "latitude": 32.01667,
+        "longitude": 130.8
+    },
+    {
+        "name": "Хьюга-ши",
+        "latitude": 32.3771,
+        "longitude": 131.52275
+    },
+    {
+        "name": "Кобаяши",
+        "latitude": 31.98333,
+        "longitude": 130.98333
+    },
+    {
+        "name": "Кобаяши Ши",
+        "latitude": 32.04556,
+        "longitude": 131.02762
+    },
+    {
+        "name": "Кушима",
+        "latitude": 31.48621,
+        "longitude": 131.2421
+    },
+    {
+        "name": "Кушима Ши",
+        "latitude": 31.48571,
+        "longitude": 131.26485
+    },
+    {
+        "name": "Мияконодзё",
+        "latitude": 31.73333,
+        "longitude": 131.06667
+    },
+    {
+        "name": "Мияконодзё Ши",
+        "latitude": 31.8092,
+        "longitude": 131.07904
+    },
+    {
+        "name": "Миядзаки",
+        "latitude": 31.91667,
+        "longitude": 131.41667
+    },
+    {
+        "name": "Миядзаки",
+        "latitude": 31.96192,
+        "longitude": 131.38455
+    },
+    {
+        "name": "Ничинан",
+        "latitude": 31.6,
+        "longitude": 131.36667
+    },
+    {
+        "name": "Ничинан Ши",
+        "latitude": 31.63737,
+        "longitude": 131.33409
+    },
+    {
+        "name": "Новоока",
+        "latitude": 32.58333,
+        "longitude": 131.66667
+    },
+    {
+        "name": "Нобеока-ши",
+        "latitude": 32.67238,
+        "longitude": 131.64311
+    },
+    {
+        "name": "Сайто-ши",
+        "latitude": 32.17288,
+        "longitude": 131.31543
+    },
+    {
+        "name": "Таканабе",
+        "latitude": 32.13333,
+        "longitude": 131.5
+    },
+    {
+        "name": "Цума",
+        "latitude": 32.1,
+        "longitude": 131.4
+    },
+    {
+        "name": "Азумино-Привет",
+        "latitude": 36.32716,
+        "longitude": 137.83988
+    },
+    {
+        "name": "Чикума Ши",
+        "latitude": 36.50624,
+        "longitude": 138.12352
+    },
+    {
+        "name": "Чино",
+        "latitude": 35.9944,
+        "longitude": 138.15428
+    },
+    {
+        "name": "Чино Ши",
+        "latitude": 36.02522,
+        "longitude": 138.24668
+    },
+    {
+        "name": "Хакуба",
+        "latitude": 36.69818,
+        "longitude": 137.86185
+    },
+    {
+        "name": "Программа",
+        "latitude": 36.3396,
+        "longitude": 137.88254
+    },
+    {
+        "name": "Иида",
+        "latitude": 35.51965,
+        "longitude": 137.82074
+    },
+    {
+        "name": "Ида-ши",
+        "latitude": 35.42287,
+        "longitude": 137.89381
+    },
+    {
+        "name": "Иияма",
+        "latitude": 36.85,
+        "longitude": 138.36667
+    },
+    {
+        "name": "Иияма Ши",
+        "latitude": 36.91249,
+        "longitude": 138.38345
+    },
+    {
+        "name": "В",
+        "latitude": 35.82756,
+        "longitude": 137.95378
+    },
+    {
+        "name": "Где это?",
+        "latitude": 35.79079,
+        "longitude": 138.07402
+    },
+    {
+        "name": "Камимаруко",
+        "latitude": 36.31865,
+        "longitude": 138.27329
+    },
+    {
+        "name": "Комагане",
+        "latitude": 35.71657,
+        "longitude": 137.93745
+    },
+    {
+        "name": "Комагане-хим",
+        "latitude": 35.7277,
+        "longitude": 137.94783
+    },
+    {
+        "name": "Камера",
+        "latitude": 36.31667,
+        "longitude": 138.43333
+    },
+    {
+        "name": "Коморо Ши",
+        "latitude": 36.33905,
+        "longitude": 138.43503
+    },
+    {
+        "name": "Мацумото",
+        "latitude": 36.23333,
+        "longitude": 137.96667
+    },
+    {
+        "name": "Мацумото Ши",
+        "latitude": 36.20418,
+        "longitude": 137.81419
+    },
+    {
+        "name": "Нагано",
+        "latitude": 36.65,
+        "longitude": 138.18333
+    },
+    {
+        "name": "Нагано Ши",
+        "latitude": 36.65257,
+        "longitude": 138.11694
+    },
+    {
+        "name": "Накано Ши",
+        "latitude": 36.7694,
+        "longitude": 138.34717
+    },
+    {
+        "name": "Хорошо",
+        "latitude": 36.05659,
+        "longitude": 138.0451
+    },
+    {
+        "name": "Окая Ши",
+        "latitude": 36.07917,
+        "longitude": 138.04805
+    },
+    {
+        "name": "Омати",
+        "latitude": 36.5,
+        "longitude": 137.86667
+    },
+    {
+        "name": "Омати-ши",
+        "latitude": 36.55,
+        "longitude": 137.75
+    },
+    {
+        "name": "Начинать",
+        "latitude": 36.21667,
+        "longitude": 138.48333
+    },
+    {
+        "name": "Саку Ши",
+        "latitude": 36.21577,
+        "longitude": 138.44529
+    },
+    {
+        "name": "Сиодзири",
+        "latitude": 36.1,
+        "longitude": 137.96667
+    },
+    {
+        "name": "Шиодзири-ши",
+        "latitude": 36.08333,
+        "longitude": 137.93333
+    },
+    {
+        "name": "Вода",
+        "latitude": 36.03799,
+        "longitude": 138.11308
+    },
+    {
+        "name": "Сува Хим",
+        "latitude": 36.02899,
+        "longitude": 138.11357
+    },
+    {
+        "name": "Сузак",
+        "latitude": 36.65,
+        "longitude": 138.31667
+    },
+    {
+        "name": "Сузака-ши",
+        "latitude": 36.65,
+        "longitude": 138.31667
+    },
+    {
+        "name": "Тацуно",
+        "latitude": 35.98426,
+        "longitude": 137.99721
+    },
+    {
+        "name": "Томи",
+        "latitude": 36.35582,
+        "longitude": 138.36093
+    },
+    {
+        "name": "Томи Ши",
+        "latitude": 36.37387,
+        "longitude": 138.36866
+    },
+    {
+        "name": "Тоёшина",
+        "latitude": 36.29991,
+        "longitude": 137.90108
+    },
+    {
+        "name": "Уэда",
+        "latitude": 36.40265,
+        "longitude": 138.28161
+    },
+    {
+        "name": "Уэда Ши",
+        "latitude": 36.38352,
+        "longitude": 138.24186
+    },
+    {
+        "name": "Фукуэчо",
+        "latitude": 32.69732,
+        "longitude": 128.84561
+    },
+    {
+        "name": "Гото Ши",
+        "latitude": 32.69892,
+        "longitude": 128.76871
+    },
+    {
+        "name": "Хирадо",
+        "latitude": 33.36853,
+        "longitude": 129.55247
+    },
+    {
+        "name": "Хирадо Ши",
+        "latitude": 33.31596,
+        "longitude": 129.48688
+    },
+    {
+        "name": "Ики Ши",
+        "latitude": 33.78554,
+        "longitude": 129.7167
+    },
+    {
+        "name": "Исахая",
+        "latitude": 32.84111,
+        "longitude": 130.04306
+    },
+    {
+        "name": "Исайя-он",
+        "latitude": 32.86912,
+        "longitude": 130.06369
+    },
+    {
+        "name": "Мацуура",
+        "latitude": 33.34058,
+        "longitude": 129.69504
+    },
+    {
+        "name": "Мацуура Ши",
+        "latitude": 33.35334,
+        "longitude": 129.73504
+    },
+    {
+        "name": "Минамишимабара-ши",
+        "latitude": 32.67565,
+        "longitude": 130.25695
+    },
+    {
+        "name": "Нагасаки",
+        "latitude": 32.75,
+        "longitude": 129.88333
+    },
+    {
+        "name": "Нагасаки",
+        "latitude": 32.78206,
+        "longitude": 129.82715
+    },
+    {
+        "name": "Он скончался",
+        "latitude": 32.81667,
+        "longitude": 129.88333
+    },
+    {
+        "name": "Омура",
+        "latitude": 32.92139,
+        "longitude": 129.95389
+    },
+    {
+        "name": "Омура-ши",
+        "latitude": 32.93978,
+        "longitude": 129.99297
+    },
+    {
+        "name": "Сайкай-ши",
+        "latitude": 32.99259,
+        "longitude": 129.682
+    },
+    {
+        "name": "Сасебо Ши",
+        "latitude": 33.18992,
+        "longitude": 129.6896
+    },
+    {
+        "name": "Симабара",
+        "latitude": 32.78333,
+        "longitude": 130.36667
+    },
+    {
+        "name": "Симабара-ши",
+        "latitude": 32.79429,
+        "longitude": 130.32925
+    },
+    {
+        "name": "Тогицу",
+        "latitude": 32.83333,
+        "longitude": 129.85
+    },
+    {
+        "name": "Цусима Ши",
+        "latitude": 34.40845,
+        "longitude": 129.32599
+    },
+    {
+        "name": "Ундзэн-ши",
+        "latitude": 32.7839,
+        "longitude": 130.22828
+    },
+    {
+        "name": "Годжо",
+        "latitude": 34.35,
+        "longitude": 135.7
+    },
+    {
+        "name": "Годзё-ши",
+        "latitude": 34.35081,
+        "longitude": 135.69489
+    },
+    {
+        "name": "Гозе",
+        "latitude": 34.45,
+        "longitude": 135.73333
+    },
+    {
+        "name": "Хайбара-аканэдай",
+        "latitude": 34.53333,
+        "longitude": 135.95
+    },
+    {
+        "name": "Хорюдзи",
+        "latitude": 34.61234,
+        "longitude": 135.73754
+    },
+    {
+        "name": "Это остановилось",
+        "latitude": 34.68333,
+        "longitude": 135.7
+    },
+    {
+        "name": "Икома-ши",
+        "latitude": 34.69187,
+        "longitude": 135.70057
+    },
+    {
+        "name": "Касыба-ши",
+        "latitude": 34.54107,
+        "longitude": 135.69918
+    },
+    {
+        "name": "Кашихара-ши",
+        "latitude": 34.50352,
+        "longitude": 135.78986
+    },
+    {
+        "name": "Кацураги",
+        "latitude": 34.48562,
+        "longitude": 135.69698
+    },
+    {
+        "name": "Кацураги Ши",
+        "latitude": 34.49682,
+        "longitude": 135.70464
+    },
+    {
+        "name": "Нара-ши",
+        "latitude": 34.68506,
+        "longitude": 135.80485
+    },
+    {
+        "name": "Сакурай",
+        "latitude": 34.5,
+        "longitude": 135.85
+    },
+    {
+        "name": "Сакурай-ши",
+        "latitude": 34.51816,
+        "longitude": 135.8432
+    },
+    {
+        "name": "Таварамото",
+        "latitude": 34.5542,
+        "longitude": 135.79297
+    },
+    {
+        "name": "Тенри",
+        "latitude": 34.58333,
+        "longitude": 135.83333
+    },
+    {
+        "name": "Тенри-ши",
+        "latitude": 34.59619,
+        "longitude": 135.83736
+    },
+    {
+        "name": "Уда Ши",
+        "latitude": 34.52035,
+        "longitude": 135.99787
+    },
+    {
+        "name": "Ямато Корияма-ши",
+        "latitude": 34.64917,
+        "longitude": 135.78278
+    },
+    {
+        "name": "Яматотакада-ши",
+        "latitude": 34.5149,
+        "longitude": 135.7366
+    },
+    {
+        "name": "Ёсино-чо",
+        "latitude": 34.39611,
+        "longitude": 135.85768
+    },
+    {
+        "name": "Завет Ши",
+        "latitude": 37.8142,
+        "longitude": 139.25914
+    },
+    {
+        "name": "Арай",
+        "latitude": 37.00059,
+        "longitude": 138.2259
+    },
+    {
+        "name": "госен",
+        "latitude": 37.73333,
+        "longitude": 139.16667
+    },
+    {
+        "name": "Госен Ши",
+        "latitude": 37.65643,
+        "longitude": 139.22634
+    },
+    {
+        "name": "Итоигава",
+        "latitude": 37.03333,
+        "longitude": 137.85
+    },
+    {
+        "name": "Итоигава Ши",
+        "latitude": 36.96626,
+        "longitude": 137.89402
+    },
+    {
+        "name": "Джоэцу",
+        "latitude": 37.14828,
+        "longitude": 138.23642
+    },
+    {
+        "name": "Джоэцу Ши",
+        "latitude": 37.1201,
+        "longitude": 138.33752
+    },
+    {
+        "name": "Камеда-хончо",
+        "latitude": 37.87214,
+        "longitude": 139.1099
+    },
+    {
+        "name": "ТЫ",
+        "latitude": 37.66442,
+        "longitude": 139.03502
+    },
+    {
+        "name": "Камо Ши",
+        "latitude": 37.62209,
+        "longitude": 139.11068
+    },
+    {
+        "name": "Кашивазаки",
+        "latitude": 37.36667,
+        "longitude": 138.55
+    },
+    {
+        "name": "Кашивазаки Ши",
+        "latitude": 37.29913,
+        "longitude": 138.58654
+    },
+    {
+        "name": "Маки",
+        "latitude": 37.75,
+        "longitude": 138.88333
+    },
+    {
+        "name": "Минамиуонума Ши",
+        "latitude": 37.05587,
+        "longitude": 138.93735
+    },
+    {
+        "name": "Мицуке",
+        "latitude": 37.53333,
+        "longitude": 138.93333
+    },
+    {
+        "name": "Мицуке Ши",
+        "latitude": 37.52465,
+        "longitude": 138.93711
+    },
+    {
+        "name": "Муикамати",
+        "latitude": 37.06667,
+        "longitude": 138.88333
+    },
+    {
+        "name": "Мураками Ши",
+        "latitude": 38.31023,
+        "longitude": 139.61733
+    },
+    {
+        "name": "Мурамацу",
+        "latitude": 37.69257,
+        "longitude": 139.17127
+    },
+    {
+        "name": "Мёко-ши",
+        "latitude": 37.0,
+        "longitude": 138.25
+    },
+    {
+        "name": "Нагаока",
+        "latitude": 37.45,
+        "longitude": 138.85
+    },
+    {
+        "name": "Нагаока Ши",
+        "latitude": 37.44516,
+        "longitude": 138.85678
+    },
+    {
+        "name": "Ниигата",
+        "latitude": 37.88637,
+        "longitude": 139.00589
+    },
+    {
+        "name": "Ниигата Ши",
+        "latitude": 37.82738,
+        "longitude": 139.03303
+    },
+    {
+        "name": "Ниику-хончо",
+        "latitude": 37.80024,
+        "longitude": 139.1224
+    },
+    {
+        "name": "Оджия",
+        "latitude": 37.3,
+        "longitude": 138.8
+    },
+    {
+        "name": "Оджия-ши",
+        "latitude": 37.3,
+        "longitude": 138.8
+    },
+    {
+        "name": "Рёцу-прошлое",
+        "latitude": 38.07817,
+        "longitude": 138.43939
+    },
+    {
+        "name": "Садо Ши",
+        "latitude": 38.04439,
+        "longitude": 138.38984
+    },
+    {
+        "name": "Сандзё Ши",
+        "latitude": 37.54068,
+        "longitude": 139.08983
+    },
+    {
+        "name": "Сибата",
+        "latitude": 37.95,
+        "longitude": 139.33333
+    },
+    {
+        "name": "Сибата Ши",
+        "latitude": 37.90732,
+        "longitude": 139.42786
+    },
+    {
+        "name": "Сиодзава",
+        "latitude": 37.03757,
+        "longitude": 138.84867
+    },
+    {
+        "name": "Широне",
+        "latitude": 37.76354,
+        "longitude": 139.02199
+    },
+    {
+        "name": "Суйбара",
+        "latitude": 37.84608,
+        "longitude": 139.23039
+    },
+    {
+        "name": "Тайнай",
+        "latitude": 38.06646,
+        "longitude": 139.37436
+    },
+    {
+        "name": "Тайнай Ши",
+        "latitude": 38.00587,
+        "longitude": 139.48053
+    },
+    {
+        "name": "Токио хончо",
+        "latitude": 37.47642,
+        "longitude": 138.99513
+    },
+    {
+        "name": "Токамати",
+        "latitude": 37.13333,
+        "longitude": 138.76667
+    },
+    {
+        "name": "Токамати",
+        "latitude": 37.13333,
+        "longitude": 138.76667
+    },
+    {
+        "name": "Цубаме",
+        "latitude": 37.6645,
+        "longitude": 138.92518
+    },
+    {
+        "name": "Цубаме Ши",
+        "latitude": 37.66541,
+        "longitude": 138.88619
+    },
+    {
+        "name": "Уонума",
+        "latitude": 37.24488,
+        "longitude": 138.96234
+    },
+    {
+        "name": "Уонума Ши",
+        "latitude": 37.22088,
+        "longitude": 139.09795
+    },
+    {
+        "name": "Ясида-касугачо",
+        "latitude": 37.68333,
+        "longitude": 138.88333
+    },
+    {
+        "name": "Беппу",
+        "latitude": 33.27945,
+        "longitude": 131.49751
+    },
+    {
+        "name": "Беппу Ши",
+        "latitude": 33.28573,
+        "longitude": 131.4528
+    },
+    {
+        "name": "Бунго-Оно Ши",
+        "latitude": 32.97249,
+        "longitude": 131.5121
+    },
+    {
+        "name": "Бунго-Такада-ши",
+        "latitude": 33.5567,
+        "longitude": 131.44506
+    },
+    {
+        "name": "один",
+        "latitude": 33.37081,
+        "longitude": 131.53025
+    },
+    {
+        "name": "Видимый",
+        "latitude": 33.3213,
+        "longitude": 130.94098
+    },
+    {
+        "name": "Хита Ши",
+        "latitude": 33.24452,
+        "longitude": 130.95063
+    },
+    {
+        "name": "Кицуки",
+        "latitude": 33.41998,
+        "longitude": 131.61837
+    },
+    {
+        "name": "Кицуки Ши",
+        "latitude": 33.44729,
+        "longitude": 131.5367
+    },
+    {
+        "name": "Кунисаки-ши",
+        "latitude": 33.56543,
+        "longitude": 131.73157
+    },
+    {
+        "name": "Накацу",
+        "latitude": 33.59811,
+        "longitude": 131.1883
+    },
+    {
+        "name": "Накацу Ши",
+        "latitude": 33.46458,
+        "longitude": 131.12642
+    },
+    {
+        "name": "Оита",
+        "latitude": 33.23333,
+        "longitude": 131.6
+    },
+    {
+        "name": "Оита-ши",
+        "latitude": 33.1798,
+        "longitude": 131.64085
+    },
+    {
+        "name": "Сайки",
+        "latitude": 32.95,
+        "longitude": 131.9
+    },
+    {
+        "name": "Сайки-ши",
+        "latitude": 32.88598,
+        "longitude": 131.776
+    },
+    {
+        "name": "Такедамачи",
+        "latitude": 32.96667,
+        "longitude": 131.4
+    },
+    {
+        "name": "Такета-хим",
+        "latitude": 32.99774,
+        "longitude": 131.32724
+    },
+    {
+        "name": "Цукаваки",
+        "latitude": 33.27668,
+        "longitude": 131.15628
+    },
+    {
+        "name": "Цукуми-ши",
+        "latitude": 33.06667,
+        "longitude": 131.86667
+    },
+    {
+        "name": "Цукумиура",
+        "latitude": 33.07539,
+        "longitude": 131.86907
+    },
+    {
+        "name": "Цурусаки",
+        "latitude": 33.24528,
+        "longitude": 131.69165
+    },
+    {
+        "name": "США Ши",
+        "latitude": 33.44996,
+        "longitude": 131.33662
+    },
+    {
+        "name": "Усуки",
+        "latitude": 33.12342,
+        "longitude": 131.80401
+    },
+    {
+        "name": "Усуки Ши",
+        "latitude": 33.07223,
+        "longitude": 131.74457
+    },
+    {
+        "name": "Юфу-ши",
+        "latitude": 33.17923,
+        "longitude": 131.43219
+    },
+    {
+        "name": "Сделай это",
+        "latitude": 34.83767,
+        "longitude": 134.01792
+    },
+    {
+        "name": "Асакучи Ши",
+        "latitude": 34.53607,
+        "longitude": 133.59456
+    },
+    {
+        "name": "Бидзэн Ши",
+        "latitude": 34.79504,
+        "longitude": 134.2351
+    },
+    {
+        "name": "Параграф",
+        "latitude": 34.6,
+        "longitude": 133.46667
+    },
+    {
+        "name": "Ибара Ши",
+        "latitude": 34.65033,
+        "longitude": 133.47371
+    },
+    {
+        "name": "Камогатачо-камогата",
+        "latitude": 34.53745,
+        "longitude": 133.58967
+    },
+    {
+        "name": "Касаока",
+        "latitude": 34.50597,
+        "longitude": 133.50391
+    },
+    {
+        "name": "Касаока Ши",
+        "latitude": 34.5152,
+        "longitude": 133.50618
+    },
+    {
+        "name": "Курасики",
+        "latitude": 34.58333,
+        "longitude": 133.76667
+    },
+    {
+        "name": "Курасики Ши",
+        "latitude": 34.55466,
+        "longitude": 133.74826
+    },
+    {
+        "name": "Манива-ши",
+        "latitude": 35.13549,
+        "longitude": 133.69358
+    },
+    {
+        "name": "Мимасака-ши",
+        "latitude": 35.04419,
+        "longitude": 134.23052
+    },
+    {
+        "name": "Ниими",
+        "latitude": 34.98333,
+        "longitude": 133.46667
+    },
+    {
+        "name": "Ниими Ши",
+        "latitude": 35.01571,
+        "longitude": 133.449
+    },
+    {
+        "name": "Окаяма",
+        "latitude": 34.65,
+        "longitude": 133.93333
+    },
+    {
+        "name": "Окаяма Ши",
+        "latitude": 34.71251,
+        "longitude": 133.92329
+    },
+    {
+        "name": "Сетучи Ши",
+        "latitude": 34.66539,
+        "longitude": 134.14161
+    },
+    {
+        "name": "Соя",
+        "latitude": 34.67534,
+        "longitude": 133.75091
+    },
+    {
+        "name": "Он солдат",
+        "latitude": 34.70269,
+        "longitude": 133.70218
+    },
+    {
+        "name": "Такахаси",
+        "latitude": 34.78333,
+        "longitude": 133.61667
+    },
+    {
+        "name": "Такахаси Ши",
+        "latitude": 34.82103,
+        "longitude": 133.52435
+    },
+    {
+        "name": "Размер",
+        "latitude": 34.51745,
+        "longitude": 133.94574
+    },
+    {
+        "name": "Тамано Ши",
+        "latitude": 34.52507,
+        "longitude": 133.93769
+    },
+    {
+        "name": "Цуяма",
+        "latitude": 35.05215,
+        "longitude": 133.99885
+    },
+    {
+        "name": "Цуяма-ши",
+        "latitude": 35.14048,
+        "longitude": 134.03181
+    },
+    {
+        "name": "Чат",
+        "latitude": 26.30948,
+        "longitude": 127.77024
+    },
+    {
+        "name": "Гинован Ши",
+        "latitude": 26.2762,
+        "longitude": 127.75742
+    },
+    {
+        "name": "Гусикава",
+        "latitude": 26.35937,
+        "longitude": 127.86735
+    },
+    {
+        "name": "Запретить",
+        "latitude": 24.80379,
+        "longitude": 125.30222
+    },
+    {
+        "name": "Исигаки",
+        "latitude": 24.34478,
+        "longitude": 124.15717
+    },
+    {
+        "name": "Исигаки-ши",
+        "latitude": 24.39401,
+        "longitude": 124.20113
+    },
+    {
+        "name": "Исикава",
+        "latitude": 26.42333,
+        "longitude": 127.82139
+    },
+    {
+        "name": "Итоман",
+        "latitude": 26.12647,
+        "longitude": 127.66918
+    },
+    {
+        "name": "Итоман Ши",
+        "latitude": 26.11795,
+        "longitude": 127.6871
+    },
+    {
+        "name": "Кацурен-Хэбару",
+        "latitude": 26.33294,
+        "longitude": 127.87403
+    },
+    {
+        "name": "Миякодзима Ши",
+        "latitude": 24.78574,
+        "longitude": 125.30132
+    },
+    {
+        "name": "Я",
+        "latitude": 26.61502,
+        "longitude": 127.98543
+    },
+    {
+        "name": "Наго Ши",
+        "latitude": 26.58507,
+        "longitude": 128.02466
+    },
+    {
+        "name": "Кожа",
+        "latitude": 26.21667,
+        "longitude": 127.68333
+    },
+    {
+        "name": "Наха Ши",
+        "latitude": 26.21077,
+        "longitude": 127.68645
+    },
+    {
+        "name": "Накагами-пушка",
+        "latitude": 26.30917,
+        "longitude": 127.77722
+    },
+    {
+        "name": "Нанджо",
+        "latitude": 26.14447,
+        "longitude": 127.76697
+    },
+    {
+        "name": "Нандзё Ши",
+        "latitude": 26.16371,
+        "longitude": 127.77874
+    },
+    {
+        "name": "Окинава",
+        "latitude": 26.33583,
+        "longitude": 127.80139
+    },
+    {
+        "name": "Окинава Ши",
+        "latitude": 26.35313,
+        "longitude": 127.80754
+    },
+    {
+        "name": "Томигусуку",
+        "latitude": 26.18583,
+        "longitude": 127.68192
+    },
+    {
+        "name": "Томигусуку-ши",
+        "latitude": 26.16667,
+        "longitude": 127.66667
+    },
+    {
+        "name": "Урасоэ Ши",
+        "latitude": 26.25106,
+        "longitude": 127.71512
+    },
+    {
+        "name": "Урума Ши",
+        "latitude": 26.36777,
+        "longitude": 127.87373
+    },
+    {
+        "name": "Йонакуни",
+        "latitude": 24.46667,
+        "longitude": 123.0
+    },
+    {
+        "name": "Дайто Ши",
+        "latitude": 34.71284,
+        "longitude": 135.63576
+    },
+    {
+        "name": "Дайточо",
+        "latitude": 34.71378,
+        "longitude": 135.62033
+    },
+    {
+        "name": "Фудзидэра-ши",
+        "latitude": 34.57422,
+        "longitude": 135.5973
+    },
+    {
+        "name": "Хабикино-ши",
+        "latitude": 34.55775,
+        "longitude": 135.60631
+    },
+    {
+        "name": "Ханнан",
+        "latitude": 34.33333,
+        "longitude": 135.25
+    },
+    {
+        "name": "Ханнан Ши",
+        "latitude": 34.33115,
+        "longitude": 135.23521
+    },
+    {
+        "name": "Хигасиосака Ши",
+        "latitude": 34.67112,
+        "longitude": 135.6176
+    },
+    {
+        "name": "Сираката",
+        "latitude": 34.81352,
+        "longitude": 135.64914
+    },
+    {
+        "name": "Хираката Ши",
+        "latitude": 34.81762,
+        "longitude": 135.68171
+    },
+    {
+        "name": "Ибараки",
+        "latitude": 34.81641,
+        "longitude": 135.56828
+    },
+    {
+        "name": "Ибараки Ши",
+        "latitude": 34.85588,
+        "longitude": 135.54998
+    },
+    {
+        "name": "Икеда",
+        "latitude": 34.82208,
+        "longitude": 135.4298
+    },
+    {
+        "name": "Икеда Ши",
+        "latitude": 34.83443,
+        "longitude": 135.43825
+    },
+    {
+        "name": "Идзуми",
+        "latitude": 34.48333,
+        "longitude": 135.43333
+    },
+    {
+        "name": "Идзуми Ши",
+        "latitude": 34.43135,
+        "longitude": 135.47164
+    },
+    {
+        "name": "Идзумиоцу",
+        "latitude": 34.5,
+        "longitude": 135.4
+    },
+    {
+        "name": "Идзумиоцу Ши",
+        "latitude": 34.50647,
+        "longitude": 135.40462
+    },
+    {
+        "name": "Изумисано",
+        "latitude": 34.41667,
+        "longitude": 135.31667
+    },
+    {
+        "name": "Изумисано Ши",
+        "latitude": 34.37398,
+        "longitude": 135.33682
+    },
+    {
+        "name": "Кадома",
+        "latitude": 34.7381,
+        "longitude": 135.57442
+    },
+    {
+        "name": "Кадома Ши",
+        "latitude": 34.73215,
+        "longitude": 135.59935
+    },
+    {
+        "name": "Кайдзука",
+        "latitude": 34.45,
+        "longitude": 135.35
+    },
+    {
+        "name": "Кайдзука Ши",
+        "latitude": 34.40105,
+        "longitude": 135.3851
+    },
+    {
+        "name": "Кашихара",
+        "latitude": 34.58333,
+        "longitude": 135.61667
+    },
+    {
+        "name": "Касивара-ши",
+        "latitude": 34.5792,
+        "longitude": 135.62867
+    },
+    {
+        "name": "Катано Ши",
+        "latitude": 34.77215,
+        "longitude": 135.68693
+    },
+    {
+        "name": "Кавачи-нагано Ши",
+        "latitude": 34.40547,
+        "longitude": 135.56692
+    },
+    {
+        "name": "Кисивада",
+        "latitude": 34.46667,
+        "longitude": 135.36667
+    },
+    {
+        "name": "Кисивада Ши",
+        "latitude": 34.42747,
+        "longitude": 135.41605
+    },
+    {
+        "name": "Мацубара",
+        "latitude": 34.56667,
+        "longitude": 135.55
+    },
+    {
+        "name": "Мацубара-ши",
+        "latitude": 34.57726,
+        "longitude": 135.55206
+    },
+    {
+        "name": "Мино",
+        "latitude": 34.82691,
+        "longitude": 135.47057
+    },
+    {
+        "name": "Мину Ши",
+        "latitude": 34.8559,
+        "longitude": 135.47926
+    },
+    {
+        "name": "Уезд Мисима",
+        "latitude": 34.89887,
+        "longitude": 135.65325
+    },
+    {
+        "name": "Моригути",
+        "latitude": 34.73333,
+        "longitude": 135.56667
+    },
+    {
+        "name": "Неягава",
+        "latitude": 34.76615,
+        "longitude": 135.62759
+    },
+    {
+        "name": "Неягава Ши",
+        "latitude": 34.76539,
+        "longitude": 135.62696
+    },
+    {
+        "name": "Осака",
+        "latitude": 34.69374,
+        "longitude": 135.50218
+    },
+    {
+        "name": "Осака-саяма Ши",
+        "latitude": 34.49645,
+        "longitude": 135.54894
+    },
+    {
+        "name": "Сакаи",
+        "latitude": 34.58333,
+        "longitude": 135.46667
+    },
+    {
+        "name": "Сакаи Ши",
+        "latitude": 34.53166,
+        "longitude": 135.4946
+    },
+    {
+        "name": "Сеннан Ши",
+        "latitude": 34.35164,
+        "longitude": 135.29176
+    },
+    {
+        "name": "Сетцу Ши",
+        "latitude": 34.7722,
+        "longitude": 135.56824
+    },
+    {
+        "name": "Шиджонавате Ши",
+        "latitude": 34.73242,
+        "longitude": 135.66784
+    },
+    {
+        "name": "Люкс",
+        "latitude": 34.76143,
+        "longitude": 135.51567
+    },
+    {
+        "name": "Суйта Ши",
+        "latitude": 34.78556,
+        "longitude": 135.51909
+    },
+    {
+        "name": "Богатый",
+        "latitude": 34.42695,
+        "longitude": 135.24552
+    },
+    {
+        "name": "Такаиси",
+        "latitude": 34.51667,
+        "longitude": 135.43333
+    },
+    {
+        "name": "Такаши Ши",
+        "latitude": 34.52868,
+        "longitude": 135.42958
+    },
+    {
+        "name": "Такацуки",
+        "latitude": 34.84833,
+        "longitude": 135.61678
+    },
+    {
+        "name": "Такацуки Ши",
+        "latitude": 34.88079,
+        "longitude": 135.60792
+    },
+    {
+        "name": "Тондабаяси Ши",
+        "latitude": 34.48882,
+        "longitude": 135.59431
+    },
+    {
+        "name": "Тондабаясичо",
+        "latitude": 34.50065,
+        "longitude": 135.60211
+    },
+    {
+        "name": "Тойонака",
+        "latitude": 34.78244,
+        "longitude": 135.46932
+    },
+    {
+        "name": "Тойонака Ши",
+        "latitude": 34.78191,
+        "longitude": 135.47276
+    },
+    {
+        "name": "Яо",
+        "latitude": 34.61667,
+        "longitude": 135.6
+    },
+    {
+        "name": "Яо-ши",
+        "latitude": 34.62629,
+        "longitude": 135.60099
+    },
+    {
+        "name": "Имари Ши",
+        "latitude": 33.30409,
+        "longitude": 129.88598
+    },
+    {
+        "name": "Имаричо-ко",
+        "latitude": 33.27362,
+        "longitude": 129.87877
+    },
+    {
+        "name": "Канзаки Ши",
+        "latitude": 33.34446,
+        "longitude": 130.35883
+    },
+    {
+        "name": "Карацу",
+        "latitude": 33.4425,
+        "longitude": 129.96972
+    },
+    {
+        "name": "Карацу Ши",
+        "latitude": 33.41802,
+        "longitude": 129.99775
+    },
+    {
+        "name": "Касима",
+        "latitude": 33.10611,
+        "longitude": 130.09056
+    },
+    {
+        "name": "Касима Ши",
+        "latitude": 33.06203,
+        "longitude": 130.09396
+    },
+    {
+        "name": "Мияки-гун",
+        "latitude": 33.35298,
+        "longitude": 130.45711
+    },
+    {
+        "name": "Оги-ши",
+        "latitude": 33.26667,
+        "longitude": 130.2
+    },
+    {
+        "name": "Сага",
+        "latitude": 33.23333,
+        "longitude": 130.3
+    },
+    {
+        "name": "Сага Ши",
+        "latitude": 33.32558,
+        "longitude": 130.2643
+    },
+    {
+        "name": "Такео Ши",
+        "latitude": 33.20413,
+        "longitude": 129.99775
+    },
+    {
+        "name": "Такэочо-такэо",
+        "latitude": 33.19009,
+        "longitude": 130.02084
+    },
+    {
+        "name": "Таку Ши",
+        "latitude": 33.27829,
+        "longitude": 130.10523
+    },
+    {
+        "name": "Тосу Ши",
+        "latitude": 33.37825,
+        "longitude": 130.49001
+    },
+    {
+        "name": "Урешино Ши",
+        "latitude": 33.09558,
+        "longitude": 130.01495
+    },
+    {
+        "name": "Агео Ши",
+        "latitude": 35.97043,
+        "longitude": 139.58159
+    },
+    {
+        "name": "Агеосимо",
+        "latitude": 35.97145,
+        "longitude": 139.61382
+    },
+    {
+        "name": "Асака",
+        "latitude": 35.80472,
+        "longitude": 139.60194
+    },
+    {
+        "name": "Осака",
+        "latitude": 35.8,
+        "longitude": 139.6
+    },
+    {
+        "name": "Чичибу",
+        "latitude": 35.99028,
+        "longitude": 139.07639
+    },
+    {
+        "name": "Чичибу-ши",
+        "latitude": 35.95966,
+        "longitude": 138.93347
+    },
+    {
+        "name": "Фудзими-ши",
+        "latitude": 35.85393,
+        "longitude": 139.55478
+    },
+    {
+        "name": "Фудзимино Ши",
+        "latitude": 35.86505,
+        "longitude": 139.51524
+    },
+    {
+        "name": "Фукая-ши",
+        "latitude": 36.2,
+        "longitude": 139.28333
+    },
+    {
+        "name": "Фукаячо",
+        "latitude": 36.2,
+        "longitude": 139.28333
+    },
+    {
+        "name": "Фукиагэ-Фудзими",
+        "latitude": 36.1,
+        "longitude": 139.45
+    },
+    {
+        "name": "Гёда",
+        "latitude": 36.14074,
+        "longitude": 139.46011
+    },
+    {
+        "name": "Ханно",
+        "latitude": 35.85194,
+        "longitude": 139.31806
+    },
+    {
+        "name": "Ханно-ши",
+        "latitude": 35.85567,
+        "longitude": 139.32777
+    },
+    {
+        "name": "Ханью",
+        "latitude": 36.16667,
+        "longitude": 139.53333
+    },
+    {
+        "name": "Ханю-ши",
+        "latitude": 36.17251,
+        "longitude": 139.55338
+    },
+    {
+        "name": "Хасуда",
+        "latitude": 35.97113,
+        "longitude": 139.6491
+    },
+    {
+        "name": "Хасуда-ши",
+        "latitude": 36.00147,
+        "longitude": 139.64981
+    },
+    {
+        "name": "Хатогая-Хончо",
+        "latitude": 35.83314,
+        "longitude": 139.7425
+    },
+    {
+        "name": "Хидака-ши",
+        "latitude": 35.90859,
+        "longitude": 139.34346
+    },
+    {
+        "name": "Хигасимацуяма Ши",
+        "latitude": 36.03183,
+        "longitude": 139.39138
+    },
+    {
+        "name": "Хиккиган",
+        "latitude": 36.02757,
+        "longitude": 139.33415
+    },
+    {
+        "name": "Хондзё",
+        "latitude": 36.2378,
+        "longitude": 139.19023
+    },
+    {
+        "name": "Хондзё Ши",
+        "latitude": 36.19925,
+        "longitude": 139.14627
+    },
+    {
+        "name": "Ирума-ши",
+        "latitude": 35.81802,
+        "longitude": 139.36754
+    },
+    {
+        "name": "Ивацуки",
+        "latitude": 35.96474,
+        "longitude": 139.69644
+    },
+    {
+        "name": "Камифукуока",
+        "latitude": 35.87266,
+        "longitude": 139.51369
+    },
+    {
+        "name": "Касукабе",
+        "latitude": 35.98308,
+        "longitude": 139.74966
+    },
+    {
+        "name": "Касукабе Ши",
+        "latitude": 35.9827,
+        "longitude": 139.77574
+    },
+    {
+        "name": "Кавагоэ",
+        "latitude": 35.90861,
+        "longitude": 139.48528
+    },
+    {
+        "name": "Кавагоэ-ши",
+        "latitude": 35.91149,
+        "longitude": 139.47924
+    },
+    {
+        "name": "Кавагути",
+        "latitude": 35.80521,
+        "longitude": 139.71072
+    },
+    {
+        "name": "Кавагути-ши",
+        "latitude": 35.83389,
+        "longitude": 139.73252
+    },
+    {
+        "name": "Казо",
+        "latitude": 36.11667,
+        "longitude": 139.6
+    },
+    {
+        "name": "Ну давай же",
+        "latitude": 36.1367,
+        "longitude": 139.61992
+    },
+    {
+        "name": "Кисай",
+        "latitude": 36.1,
+        "longitude": 139.58333
+    },
+    {
+        "name": "Китамото Ши",
+        "latitude": 36.02615,
+        "longitude": 139.53043
+    },
+    {
+        "name": "Кодамачо-кодамиминами",
+        "latitude": 36.18497,
+        "longitude": 139.13191
+    },
+    {
+        "name": "Содержание",
+        "latitude": 36.06868,
+        "longitude": 139.51684
+    },
+    {
+        "name": "Коносу-Ши",
+        "latitude": 36.06634,
+        "longitude": 139.5201
+    },
+    {
+        "name": "Кошигая Ши",
+        "latitude": 35.90108,
+        "longitude": 139.79023
+    },
+    {
+        "name": "Куки-ши",
+        "latitude": 36.07664,
+        "longitude": 139.64941
+    },
+    {
+        "name": "Кукичуо",
+        "latitude": 36.06739,
+        "longitude": 139.67498
+    },
+    {
+        "name": "И скажи Ему",
+        "latitude": 36.16028,
+        "longitude": 139.37256
+    },
+    {
+        "name": "Курихаши",
+        "latitude": 36.13333,
+        "longitude": 139.7
+    },
+    {
+        "name": "Меньше",
+        "latitude": 36.22245,
+        "longitude": 139.38205
+    },
+    {
+        "name": "Мисато Ши",
+        "latitude": 35.83221,
+        "longitude": 139.87185
+    },
+    {
+        "name": "Моронгонго",
+        "latitude": 35.93556,
+        "longitude": 139.30444
+    },
+    {
+        "name": "Нииза-ши",
+        "latitude": 35.79345,
+        "longitude": 139.56559
+    },
+    {
+        "name": "Огава",
+        "latitude": 36.05342,
+        "longitude": 139.26612
+    },
+    {
+        "name": "Ой",
+        "latitude": 35.85091,
+        "longitude": 139.51998
+    },
+    {
+        "name": "Окегава",
+        "latitude": 36.0,
+        "longitude": 139.55722
+    },
+    {
+        "name": "Окэгава-си",
+        "latitude": 36.0,
+        "longitude": 139.55
+    },
+    {
+        "name": "Уезд Осато",
+        "latitude": 36.11132,
+        "longitude": 139.20281
+    },
+    {
+        "name": "Сайтама",
+        "latitude": 35.90807,
+        "longitude": 139.65657
+    },
+    {
+        "name": "Сайтама-ши",
+        "latitude": 35.861,
+        "longitude": 139.64554
+    },
+    {
+        "name": "Сакадо",
+        "latitude": 35.95694,
+        "longitude": 139.38889
+    },
+    {
+        "name": "Сакадо-ши",
+        "latitude": 35.96776,
+        "longitude": 139.40595
+    },
+    {
+        "name": "Набор",
+        "latitude": 36.07254,
+        "longitude": 139.72615
+    },
+    {
+        "name": "Сатте Ши",
+        "latitude": 36.07081,
+        "longitude": 139.74022
+    },
+    {
+        "name": "Саяма",
+        "latitude": 35.85295,
+        "longitude": 139.41212
+    },
+    {
+        "name": "Сики",
+        "latitude": 35.83333,
+        "longitude": 139.58333
+    },
+    {
+        "name": "Шики Ши",
+        "latitude": 35.83698,
+        "longitude": 139.58347
+    },
+    {
+        "name": "Симотода",
+        "latitude": 35.815,
+        "longitude": 139.6853
+    },
+    {
+        "name": "Сираока",
+        "latitude": 36.01839,
+        "longitude": 139.66034
+    },
+    {
+        "name": "Сираока-ши",
+        "latitude": 36.01667,
+        "longitude": 139.66667
+    },
+    {
+        "name": "Сёбу",
+        "latitude": 36.06667,
+        "longitude": 139.6
+    },
+    {
+        "name": "СОКА",
+        "latitude": 35.83643,
+        "longitude": 139.79957
+    },
+    {
+        "name": "Сока Ши",
+        "latitude": 35.83868,
+        "longitude": 139.80216
+    },
+    {
+        "name": "Сугито",
+        "latitude": 36.03107,
+        "longitude": 139.72636
+    },
+    {
+        "name": "Тода-ши",
+        "latitude": 35.81477,
+        "longitude": 139.65699
+    },
+    {
+        "name": "Токородзава",
+        "latitude": 35.79916,
+        "longitude": 139.46903
+    },
+    {
+        "name": "Токородзава-ши",
+        "latitude": 35.79968,
+        "longitude": 139.45817
+    },
+    {
+        "name": "Цуругашима-ши",
+        "latitude": 35.93571,
+        "longitude": 139.39456
+    },
+    {
+        "name": "Ваш",
+        "latitude": 35.78944,
+        "longitude": 139.62333
+    },
+    {
+        "name": "Спой это",
+        "latitude": 35.78934,
+        "longitude": 139.61988
+    },
+    {
+        "name": "Вараби-ши",
+        "latitude": 35.82526,
+        "longitude": 139.6855
+    },
+    {
+        "name": "Яшио",
+        "latitude": 35.82255,
+        "longitude": 139.83905
+    },
+    {
+        "name": "Ясио-ши",
+        "latitude": 35.80918,
+        "longitude": 139.84669
+    },
+    {
+        "name": "Йоно",
+        "latitude": 35.88333,
+        "longitude": 139.63333
+    },
+    {
+        "name": "Помощь",
+        "latitude": 36.11567,
+        "longitude": 139.19429
+    },
+    {
+        "name": "Ёсикава",
+        "latitude": 35.89232,
+        "longitude": 139.84184
+    },
+    {
+        "name": "Ёсикава Ши",
+        "latitude": 35.89512,
+        "longitude": 139.8609
+    },
+    {
+        "name": "Хигасиоми-ши",
+        "latitude": 35.1089,
+        "longitude": 136.1792
+    },
+    {
+        "name": "Хиконэ",
+        "latitude": 35.25,
+        "longitude": 136.25
+    },
+    {
+        "name": "Хиконэ-си",
+        "latitude": 35.23036,
+        "longitude": 136.2076
+    },
+    {
+        "name": "Хино",
+        "latitude": 35.0,
+        "longitude": 136.25
+    },
+    {
+        "name": "Китахама",
+        "latitude": 35.16667,
+        "longitude": 135.91667
+    },
+    {
+        "name": "Пожаловаться ему",
+        "latitude": 34.91667,
+        "longitude": 136.16667
+    },
+    {
+        "name": "Конан-ши",
+        "latitude": 35.01667,
+        "longitude": 136.08333
+    },
+    {
+        "name": "Кусацу",
+        "latitude": 35.01667,
+        "longitude": 135.96667
+    },
+    {
+        "name": "Кусацу-ши",
+        "latitude": 35.02758,
+        "longitude": 135.9384
+    },
+    {
+        "name": "Майбара",
+        "latitude": 35.31667,
+        "longitude": 136.28333
+    },
+    {
+        "name": "Майбара-ши",
+        "latitude": 35.38457,
+        "longitude": 136.37741
+    },
+    {
+        "name": "Минакучичо-Матоба",
+        "latitude": 34.96667,
+        "longitude": 136.16667
+    },
+    {
+        "name": "Морияма",
+        "latitude": 35.06667,
+        "longitude": 135.98333
+    },
+    {
+        "name": "Морияма-ши",
+        "latitude": 35.08815,
+        "longitude": 135.96869
+    },
+    {
+        "name": "Нагахама",
+        "latitude": 35.38333,
+        "longitude": 136.26667
+    },
+    {
+        "name": "Нагахама-ши",
+        "latitude": 35.42256,
+        "longitude": 136.26272
+    },
+    {
+        "name": "Омихатиман",
+        "latitude": 35.12861,
+        "longitude": 136.0976
+    },
+    {
+        "name": "Омихатиман-ши",
+        "latitude": 35.15251,
+        "longitude": 136.06964
+    },
+    {
+        "name": "Оцу-ши",
+        "latitude": 35.10203,
+        "longitude": 135.92452
+    },
+    {
+        "name": "Ритто-ши",
+        "latitude": 34.99603,
+        "longitude": 136.01412
+    },
+    {
+        "name": "Такашима",
+        "latitude": 35.41347,
+        "longitude": 136.01612
+    },
+    {
+        "name": "Такасима-ши",
+        "latitude": 35.35448,
+        "longitude": 136.02859
+    },
+    {
+        "name": "Ясу-ши",
+        "latitude": 35.06801,
+        "longitude": 136.02327
+    },
+    {
+        "name": "Ёкаити",
+        "latitude": 35.11626,
+        "longitude": 136.19768
+    },
+    {
+        "name": "Гоцу Ши",
+        "latitude": 34.98095,
+        "longitude": 132.29488
+    },
+    {
+        "name": "Гоцучо",
+        "latitude": 35.00856,
+        "longitude": 132.2257
+    },
+    {
+        "name": "Хамада",
+        "latitude": 34.88333,
+        "longitude": 132.08333
+    },
+    {
+        "name": "Оставь его",
+        "latitude": 34.82809,
+        "longitude": 132.13914
+    },
+    {
+        "name": "Хиратачо",
+        "latitude": 35.43333,
+        "longitude": 132.81667
+    },
+    {
+        "name": "Идзумо",
+        "latitude": 35.36667,
+        "longitude": 132.76667
+    },
+    {
+        "name": "Идзумо Ши",
+        "latitude": 35.33858,
+        "longitude": 132.73903
+    },
+    {
+        "name": "Масуда",
+        "latitude": 34.66667,
+        "longitude": 131.85
+    },
+    {
+        "name": "Масуда Ши",
+        "latitude": 34.62909,
+        "longitude": 131.9459
+    },
+    {
+        "name": "Мацуэ",
+        "latitude": 35.48333,
+        "longitude": 133.05
+    },
+    {
+        "name": "Мацуэ Ши",
+        "latitude": 35.47702,
+        "longitude": 133.05917
+    },
+    {
+        "name": "Закажи ему",
+        "latitude": 35.13958,
+        "longitude": 132.48811
+    },
+    {
+        "name": "Одачи-Ода",
+        "latitude": 35.19025,
+        "longitude": 132.50846
+    },
+    {
+        "name": "Уннан Ши",
+        "latitude": 35.24918,
+        "longitude": 132.89478
+    },
+    {
+        "name": "Ясуги Ши",
+        "latitude": 35.3357,
+        "longitude": 133.19761
+    },
+    {
+        "name": "Ясугичо",
+        "latitude": 35.42146,
+        "longitude": 133.24224
+    },
+    {
+        "name": "Атами",
+        "latitude": 35.08834,
+        "longitude": 139.05325
+    },
+    {
+        "name": "Атами-ши",
+        "latitude": 35.08957,
+        "longitude": 139.06357
+    },
+    {
+        "name": "Фудзи Ши",
+        "latitude": 35.20106,
+        "longitude": 138.69905
+    },
+    {
+        "name": "Фудзиеда Ши",
+        "latitude": 34.91956,
+        "longitude": 138.23379
+    },
+    {
+        "name": "Фудзиномия",
+        "latitude": 35.21667,
+        "longitude": 138.61667
+    },
+    {
+        "name": "Фудзиномия Ши",
+        "latitude": 35.31753,
+        "longitude": 138.62375
+    },
+    {
+        "name": "Фукурой",
+        "latitude": 34.75,
+        "longitude": 137.91667
+    },
+    {
+        "name": "Фукурой-ши",
+        "latitude": 34.74175,
+        "longitude": 137.92805
+    },
+    {
+        "name": "Готенба Ши",
+        "latitude": 35.29893,
+        "longitude": 138.87902
+    },
+    {
+        "name": "Хамакита",
+        "latitude": 34.8,
+        "longitude": 137.78333
+    },
+    {
+        "name": "Хамамацу",
+        "latitude": 34.7,
+        "longitude": 137.73333
+    },
+    {
+        "name": "Хамамацу-ши",
+        "latitude": 34.95375,
+        "longitude": 137.80733
+    },
+    {
+        "name": "распространение",
+        "latitude": 34.96277,
+        "longitude": 138.78543
+    },
+    {
+        "name": "Ито",
+        "latitude": 34.96667,
+        "longitude": 139.08333
+    },
+    {
+        "name": "Ито Ши",
+        "latitude": 34.93563,
+        "longitude": 139.08725
+    },
+    {
+        "name": "Ивата",
+        "latitude": 34.7,
+        "longitude": 137.85
+    },
+    {
+        "name": "Ивата-ши",
+        "latitude": 34.74451,
+        "longitude": 137.85043
+    },
+    {
+        "name": "Неделя",
+        "latitude": 34.97159,
+        "longitude": 138.94643
+    },
+    {
+        "name": "Идзу-ши",
+        "latitude": 34.92201,
+        "longitude": 138.92585
+    },
+    {
+        "name": "Идзунокуни-ши",
+        "latitude": 35.03799,
+        "longitude": 138.97295
+    },
+    {
+        "name": "Какегава",
+        "latitude": 34.76667,
+        "longitude": 138.01667
+    },
+    {
+        "name": "Какегава Ши",
+        "latitude": 34.77993,
+        "longitude": 138.01897
+    },
+    {
+        "name": "Канайя",
+        "latitude": 34.82022,
+        "longitude": 138.12775
+    },
+    {
+        "name": "Кикугава-ши",
+        "latitude": 34.75,
+        "longitude": 138.1
+    },
+    {
+        "name": "Это сложно",
+        "latitude": 34.70053,
+        "longitude": 137.52253
+    },
+    {
+        "name": "я люблю это",
+        "latitude": 34.73092,
+        "longitude": 137.51643
+    },
+    {
+        "name": "Макинохара Ши",
+        "latitude": 34.73226,
+        "longitude": 138.18567
+    },
+    {
+        "name": "Мисима",
+        "latitude": 35.11667,
+        "longitude": 138.91667
+    },
+    {
+        "name": "Мисима Ши",
+        "latitude": 35.1394,
+        "longitude": 138.94882
+    },
+    {
+        "name": "Мори",
+        "latitude": 34.83333,
+        "longitude": 137.93333
+    },
+    {
+        "name": "Нумазу-ши",
+        "latitude": 35.09491,
+        "longitude": 138.86667
+    },
+    {
+        "name": "Омаэдзаки-ши",
+        "latitude": 34.6,
+        "longitude": 138.21667
+    },
+    {
+        "name": "Ояма",
+        "latitude": 34.60359,
+        "longitude": 138.21719
+    },
+    {
+        "name": "Сагара",
+        "latitude": 34.68503,
+        "longitude": 138.20461
+    },
+    {
+        "name": "Симада",
+        "latitude": 34.81667,
+        "longitude": 138.18333
+    },
+    {
+        "name": "Симада-ши",
+        "latitude": 34.9122,
+        "longitude": 138.12662
+    },
+    {
+        "name": "Симода",
+        "latitude": 34.67652,
+        "longitude": 138.94456
+    },
+    {
+        "name": "Симода-ши",
+        "latitude": 34.70879,
+        "longitude": 138.92148
+    },
+    {
+        "name": "Сидзуока",
+        "latitude": 34.98333,
+        "longitude": 138.38333
+    },
+    {
+        "name": "Сидзуока-ши",
+        "latitude": 35.20164,
+        "longitude": 138.31426
+    },
+    {
+        "name": "Сусоно",
+        "latitude": 35.17388,
+        "longitude": 138.90691
+    },
+    {
+        "name": "Сусоно Ши",
+        "latitude": 35.22551,
+        "longitude": 138.87734
+    },
+    {
+        "name": "Яидзу",
+        "latitude": 34.86877,
+        "longitude": 138.31952
+    },
+    {
+        "name": "Яидзу Ши",
+        "latitude": 34.84008,
+        "longitude": 138.30127
+    },
+    {
+        "name": "Асикага",
+        "latitude": 36.33333,
+        "longitude": 139.45
+    },
+    {
+        "name": "Фудзиока",
+        "latitude": 36.25,
+        "longitude": 139.65
+    },
+    {
+        "name": "Имаичи",
+        "latitude": 36.71667,
+        "longitude": 139.68333
+    },
+    {
+        "name": "Каминокава",
+        "latitude": 36.43333,
+        "longitude": 139.91667
+    },
+    {
+        "name": "Вот и все",
+        "latitude": 36.55,
+        "longitude": 139.73333
+    },
+    {
+        "name": "Канума-хим",
+        "latitude": 36.5755,
+        "longitude": 139.64149
+    },
+    {
+        "name": "Карасуяма",
+        "latitude": 36.65,
+        "longitude": 140.15
+    },
+    {
+        "name": "Куроисо",
+        "latitude": 36.96667,
+        "longitude": 140.05
+    },
+    {
+        "name": "Ручки",
+        "latitude": 36.46667,
+        "longitude": 140.1
+    },
+    {
+        "name": "Годы",
+        "latitude": 36.41667,
+        "longitude": 139.8
+    },
+    {
+        "name": "Мука",
+        "latitude": 36.43333,
+        "longitude": 140.01667
+    },
+    {
+        "name": "Мука-ши",
+        "latitude": 36.45,
+        "longitude": 140.05
+    },
+    {
+        "name": "Мотеги",
+        "latitude": 36.51667,
+        "longitude": 140.18333
+    },
+    {
+        "name": "Насукарасуяма",
+        "latitude": 36.65233,
+        "longitude": 140.16084
+    },
+    {
+        "name": "Насукарасуяма-ши",
+        "latitude": 36.6627,
+        "longitude": 140.13405
+    },
+    {
+        "name": "Насусиобара-ши",
+        "latitude": 36.99085,
+        "longitude": 139.91052
+    },
+    {
+        "name": "Никко",
+        "latitude": 36.75,
+        "longitude": 139.61667
+    },
+    {
+        "name": "Никко-ши",
+        "latitude": 36.75,
+        "longitude": 139.7
+    },
+    {
+        "name": "Отавара",
+        "latitude": 36.86667,
+        "longitude": 140.03333
+    },
+    {
+        "name": "Отавара-ши",
+        "latitude": 36.86129,
+        "longitude": 140.11915
+    },
+    {
+        "name": "Ояма",
+        "latitude": 36.3,
+        "longitude": 139.8
+    },
+    {
+        "name": "Ояма-ши",
+        "latitude": 36.308,
+        "longitude": 139.80195
+    },
+    {
+        "name": "Сакура-ши",
+        "latitude": 36.72362,
+        "longitude": 140.00289
+    },
+    {
+        "name": "Сано",
+        "latitude": 36.31667,
+        "longitude": 139.58333
+    },
+    {
+        "name": "Сано-ши",
+        "latitude": 36.42406,
+        "longitude": 139.53578
+    },
+    {
+        "name": "Симоцукэ-ши",
+        "latitude": 36.40291,
+        "longitude": 139.86111
+    },
+    {
+        "name": "Танума",
+        "latitude": 36.36667,
+        "longitude": 139.58333
+    },
+    {
+        "name": "Тотиги-ши",
+        "latitude": 36.41128,
+        "longitude": 139.69357
+    },
+    {
+        "name": "Уджие",
+        "latitude": 36.68333,
+        "longitude": 139.96667
+    },
+    {
+        "name": "Уцуномия",
+        "latitude": 36.56667,
+        "longitude": 139.88333
+    },
+    {
+        "name": "Уцуномия-ши",
+        "latitude": 36.59688,
+        "longitude": 139.88657
+    },
+    {
+        "name": "Это сделало",
+        "latitude": 36.8,
+        "longitude": 139.93333
+    },
+    {
+        "name": "Скажи это",
+        "latitude": 36.82746,
+        "longitude": 139.89809
+    },
+    {
+        "name": "А вот и он",
+        "latitude": 33.87716,
+        "longitude": 134.60644
+    },
+    {
+        "name": "Ава-ши",
+        "latitude": 34.1,
+        "longitude": 134.25
+    },
+    {
+        "name": "Икедачо",
+        "latitude": 34.02849,
+        "longitude": 133.80616
+    },
+    {
+        "name": "Исии",
+        "latitude": 34.06752,
+        "longitude": 134.44208
+    },
+    {
+        "name": "Комодзимачо-дзёгедзима",
+        "latitude": 34.06803,
+        "longitude": 134.35033
+    },
+    {
+        "name": "Кацуура Пистолет",
+        "latitude": 33.9138,
+        "longitude": 134.42641
+    },
+    {
+        "name": "Комацусима Ши",
+        "latitude": 33.98071,
+        "longitude": 134.59529
+    },
+    {
+        "name": "Комацушимачо",
+        "latitude": 34.0,
+        "longitude": 134.58333
+    },
+    {
+        "name": "Мима Ши",
+        "latitude": 34.01889,
+        "longitude": 134.14333
+    },
+    {
+        "name": "Миёси Ши",
+        "latitude": 33.93349,
+        "longitude": 133.85184
+    },
+    {
+        "name": "Миёси-гун",
+        "latitude": 34.03647,
+        "longitude": 133.91818
+    },
+    {
+        "name": "Наруто-ши",
+        "latitude": 34.17881,
+        "longitude": 134.61357
+    },
+    {
+        "name": "Наруточо-Мицуиси",
+        "latitude": 34.19933,
+        "longitude": 134.60932
+    },
+    {
+        "name": "Токусима",
+        "latitude": 34.06667,
+        "longitude": 134.56667
+    },
+    {
+        "name": "Токусима Ши",
+        "latitude": 34.04922,
+        "longitude": 134.52359
+    },
+    {
+        "name": "Вакимачи",
+        "latitude": 34.06667,
+        "longitude": 134.15
+    },
+    {
+        "name": "Ёсиногава Ши",
+        "latitude": 34.03705,
+        "longitude": 134.28354
+    },
+    {
+        "name": "Адачи Ку",
+        "latitude": 35.7788,
+        "longitude": 139.79509
+    },
+    {
+        "name": "Акируно-ши",
+        "latitude": 35.73285,
+        "longitude": 139.22525
+    },
+    {
+        "name": "Акишима-ши",
+        "latitude": 35.70782,
+        "longitude": 139.36418
+    },
+    {
+        "name": "Следовать за тобой",
+        "latitude": 35.73993,
+        "longitude": 139.7813
+    },
+    {
+        "name": "Бункэ-ку",
+        "latitude": 35.71745,
+        "longitude": 139.74729
+    },
+    {
+        "name": "Тиёда-ку",
+        "latitude": 35.69402,
+        "longitude": 139.75363
+    },
+    {
+        "name": "помнить",
+        "latitude": 35.65924,
+        "longitude": 139.54837
+    },
+    {
+        "name": "Тэфу-ши",
+        "latitude": 35.65,
+        "longitude": 139.55
+    },
+    {
+        "name": "Тюо Ку",
+        "latitude": 35.66993,
+        "longitude": 139.77705
+    },
+    {
+        "name": "Эдогава Ку",
+        "latitude": 35.69242,
+        "longitude": 139.87567
+    },
+    {
+        "name": "Фучу-ши",
+        "latitude": 35.66667,
+        "longitude": 139.5
+    },
+    {
+        "name": "Фусса",
+        "latitude": 35.73667,
+        "longitude": 139.32361
+    },
+    {
+        "name": "Хатиодзи",
+        "latitude": 35.65583,
+        "longitude": 139.32389
+    },
+    {
+        "name": "Хамура-хим",
+        "latitude": 35.76351,
+        "longitude": 139.31411
+    },
+    {
+        "name": "Хигаси-мураяма-ши",
+        "latitude": 35.75529,
+        "longitude": 139.46972
+    },
+    {
+        "name": "Хигасикуруме-ши",
+        "latitude": 35.75821,
+        "longitude": 139.52954
+    },
+    {
+        "name": "Хигасимураяма",
+        "latitude": 35.75459,
+        "longitude": 139.46852
+    },
+    {
+        "name": "Хигасиямато",
+        "latitude": 35.76298,
+        "longitude": 139.44575
+    },
+    {
+        "name": "Хигасиямато-ши",
+        "latitude": 35.75031,
+        "longitude": 139.4266
+    },
+    {
+        "name": "Хино",
+        "latitude": 35.67306,
+        "longitude": 139.40028
+    },
+    {
+        "name": "Хино-ши",
+        "latitude": 35.66333,
+        "longitude": 139.39865
+    },
+    {
+        "name": "Инаги-ши",
+        "latitude": 35.6329,
+        "longitude": 139.49291
+    },
+    {
+        "name": "Итабаши-ку",
+        "latitude": 35.75118,
+        "longitude": 139.70927
+    },
+    {
+        "name": "Ицукаичи",
+        "latitude": 35.72528,
+        "longitude": 139.21778
+    },
+    {
+        "name": "Камиренджаку",
+        "latitude": 35.69423,
+        "longitude": 139.55495
+    },
+    {
+        "name": "Кацусика Ку",
+        "latitude": 35.75324,
+        "longitude": 139.85567
+    },
+    {
+        "name": "Кита-ку",
+        "latitude": 35.75264,
+        "longitude": 139.73348
+    },
+    {
+        "name": "Киёсе-ши",
+        "latitude": 35.78551,
+        "longitude": 139.52628
+    },
+    {
+        "name": "Кодайра-ши",
+        "latitude": 35.72738,
+        "longitude": 139.48173
+    },
+    {
+        "name": "Коганей-ши",
+        "latitude": 35.70108,
+        "longitude": 139.51104
+    },
+    {
+        "name": "В форме",
+        "latitude": 35.70222,
+        "longitude": 139.47556
+    },
+    {
+        "name": "Кокубундзи-ши",
+        "latitude": 35.70552,
+        "longitude": 139.46125
+    },
+    {
+        "name": "Комаэ-ши",
+        "latitude": 35.63487,
+        "longitude": 139.57723
+    },
+    {
+        "name": "Кото-ку",
+        "latitude": 35.66667,
+        "longitude": 139.81667
+    },
+    {
+        "name": "Кунитачи-ши",
+        "latitude": 35.68634,
+        "longitude": 139.43878
+    },
+    {
+        "name": "Мачида",
+        "latitude": 35.54028,
+        "longitude": 139.45083
+    },
+    {
+        "name": "Мачида-ши",
+        "latitude": 35.57626,
+        "longitude": 139.42998
+    },
+    {
+        "name": "Мэгуро-ку",
+        "latitude": 35.64146,
+        "longitude": 139.69817
+    },
+    {
+        "name": "Прошлое-ку",
+        "latitude": 35.65,
+        "longitude": 139.73333
+    },
+    {
+        "name": "Митака-ши",
+        "latitude": 35.68351,
+        "longitude": 139.55963
+    },
+    {
+        "name": "Мусашимураяма-ши",
+        "latitude": 35.75037,
+        "longitude": 139.38391
+    },
+    {
+        "name": "Мусасино",
+        "latitude": 35.70611,
+        "longitude": 139.55944
+    },
+    {
+        "name": "Мусасино-ши",
+        "latitude": 35.71771,
+        "longitude": 139.566
+    },
+    {
+        "name": "Накано-ку",
+        "latitude": 35.71091,
+        "longitude": 139.66248
+    },
+    {
+        "name": "Нерима-ку",
+        "latitude": 35.73551,
+        "longitude": 139.65168
+    },
+    {
+        "name": "Ты не Токио-ши",
+        "latitude": 35.72526,
+        "longitude": 139.5383
+    },
+    {
+        "name": "Ниситокё-ши",
+        "latitude": 35.73485,
+        "longitude": 139.54624
+    },
+    {
+        "name": "Мой Бог",
+        "latitude": 35.78389,
+        "longitude": 139.24306
+    },
+    {
+        "name": "Оме-ши",
+        "latitude": 35.78814,
+        "longitude": 139.27501
+    },
+    {
+        "name": "Мой заказ",
+        "latitude": 35.56126,
+        "longitude": 139.71605
+    },
+    {
+        "name": "Сэтагая-ку",
+        "latitude": 35.64657,
+        "longitude": 139.65325
+    },
+    {
+        "name": "Сибуя",
+        "latitude": 35.66404,
+        "longitude": 139.69821
+    },
+    {
+        "name": "Синагава-ку",
+        "latitude": 35.60902,
+        "longitude": 139.73017
+    },
+    {
+        "name": "Синдзюку-ку",
+        "latitude": 35.69384,
+        "longitude": 139.70355
+    },
+    {
+        "name": "Сугинами-ку",
+        "latitude": 35.69951,
+        "longitude": 139.63641
+    },
+    {
+        "name": "Сумида-ку",
+        "latitude": 35.71072,
+        "longitude": 139.8015
+    },
+    {
+        "name": "Тачикава-ши",
+        "latitude": 35.71447,
+        "longitude": 139.40453
+    },
+    {
+        "name": "Тайто-ку",
+        "latitude": 35.71261,
+        "longitude": 139.78
+    },
+    {
+        "name": "Тама-ши",
+        "latitude": 35.63054,
+        "longitude": 139.43976
+    },
+    {
+        "name": "Танасите",
+        "latitude": 35.72922,
+        "longitude": 139.53813
+    },
+    {
+        "name": "Токио",
+        "latitude": 35.6895,
+        "longitude": 139.69171
+    },
+    {
+        "name": "Тошима-ку",
+        "latitude": 35.73246,
+        "longitude": 139.7154
+    },
+    {
+        "name": "Ураясу",
+        "latitude": 35.67056,
+        "longitude": 139.88861
+    },
+    {
+        "name": "Кураёси-ши",
+        "latitude": 35.3911,
+        "longitude": 133.74577
+    },
+    {
+        "name": "Сакаиминато",
+        "latitude": 35.53774,
+        "longitude": 133.23094
+    },
+    {
+        "name": "Сакаиминато Ши",
+        "latitude": 35.52034,
+        "longitude": 133.22704
+    },
+    {
+        "name": "Тоттори-ши",
+        "latitude": 35.43255,
+        "longitude": 134.15576
+    },
+    {
+        "name": "Йонаго Ши",
+        "latitude": 35.43486,
+        "longitude": 133.35873
+    },
+    {
+        "name": "Фукумицу",
+        "latitude": 36.55751,
+        "longitude": 136.86945
+    },
+    {
+        "name": "Хими Ши",
+        "latitude": 36.87218,
+        "longitude": 136.94066
+    },
+    {
+        "name": "Химимачи",
+        "latitude": 36.85609,
+        "longitude": 136.9885
+    },
+    {
+        "name": "Имизу Ши",
+        "latitude": 36.72939,
+        "longitude": 137.08784
+    },
+    {
+        "name": "Камиичи",
+        "latitude": 36.7,
+        "longitude": 137.36667
+    },
+    {
+        "name": "Куробэ-ши",
+        "latitude": 36.90123,
+        "longitude": 137.44955
+    },
+    {
+        "name": "Намрикава",
+        "latitude": 36.75965,
+        "longitude": 137.36215
+    },
+    {
+        "name": "Намэрикава-ши",
+        "latitude": 36.74934,
+        "longitude": 137.38129
+    },
+    {
+        "name": "Нанто Ши",
+        "latitude": 36.4526,
+        "longitude": 136.9143
+    },
+    {
+        "name": "Нанто-ши",
+        "latitude": 36.56922,
+        "longitude": 136.91162
+    },
+    {
+        "name": "Нисисинминато",
+        "latitude": 36.77957,
+        "longitude": 137.07576
+    },
+    {
+        "name": "Новости",
+        "latitude": 36.93744,
+        "longitude": 137.50059
+    },
+    {
+        "name": "Оябе",
+        "latitude": 36.66667,
+        "longitude": 136.85
+    },
+    {
+        "name": "Оябе Ши",
+        "latitude": 36.66349,
+        "longitude": 136.85499
+    },
+    {
+        "name": "Такаока",
+        "latitude": 36.75,
+        "longitude": 137.01667
+    },
+    {
+        "name": "Такаока Ши",
+        "latitude": 36.74257,
+        "longitude": 136.96263
+    },
+    {
+        "name": "Тонами Ши",
+        "latitude": 36.62395,
+        "longitude": 136.98899
+    },
+    {
+        "name": "Тояма Ши",
+        "latitude": 36.55146,
+        "longitude": 137.29872
+    },
+    {
+        "name": "Уозу",
+        "latitude": 36.8,
+        "longitude": 137.4
+    },
+    {
+        "name": "Уодзу Ши",
+        "latitude": 36.76234,
+        "longitude": 137.48984
+    },
+    {
+        "name": "Якуомати-хигашикумисака",
+        "latitude": 36.56667,
+        "longitude": 137.13333
+    },
+    {
+        "name": "Арида Ши",
+        "latitude": 34.07937,
+        "longitude": 135.1423
+    },
+    {
+        "name": "Гобо",
+        "latitude": 33.88153,
+        "longitude": 135.1696
+    },
+    {
+        "name": "Хасимото",
+        "latitude": 34.31667,
+        "longitude": 135.61667
+    },
+    {
+        "name": "Хасимото Ши",
+        "latitude": 34.32417,
+        "longitude": 135.61045
+    },
+    {
+        "name": "Иваде",
+        "latitude": 34.25,
+        "longitude": 135.31667
+    },
+    {
+        "name": "Иваде Ши",
+        "latitude": 34.28089,
+        "longitude": 135.3056
+    },
+    {
+        "name": "Закусочная",
+        "latitude": 34.15166,
+        "longitude": 135.21398
+    },
+    {
+        "name": "Как будто",
+        "latitude": 34.14182,
+        "longitude": 135.224
+    },
+    {
+        "name": "Кинокава Ши",
+        "latitude": 34.254,
+        "longitude": 135.39412
+    },
+    {
+        "name": "Коя",
+        "latitude": 34.21294,
+        "longitude": 135.62244
+    },
+    {
+        "name": "Минато",
+        "latitude": 34.2152,
+        "longitude": 135.1501
+    },
+    {
+        "name": "Шингу",
+        "latitude": 33.73333,
+        "longitude": 135.98333
+    },
+    {
+        "name": "Шингу-ши",
+        "latitude": 33.76663,
+        "longitude": 135.85863
+    },
+    {
+        "name": "Танабэ-ши",
+        "latitude": 33.82731,
+        "longitude": 135.57786
+    },
+    {
+        "name": "Вакаяма",
+        "latitude": 34.23333,
+        "longitude": 135.16667
+    },
+    {
+        "name": "Вакаяма Ши",
+        "latitude": 34.24252,
+        "longitude": 135.19595
+    },
+    {
+        "name": "Хигашине",
+        "latitude": 38.43889,
+        "longitude": 140.40056
+    },
+    {
+        "name": "Хигасине Ши",
+        "latitude": 38.42559,
+        "longitude": 140.4667
+    },
+    {
+        "name": "Каминояма",
+        "latitude": 38.15389,
+        "longitude": 140.27361
+    },
+    {
+        "name": "Каминояма-ши",
+        "latitude": 38.13333,
+        "longitude": 140.33333
+    },
+    {
+        "name": "Мураяма",
+        "latitude": 38.46972,
+        "longitude": 140.41441
+    },
+    {
+        "name": "Мураяма Ши",
+        "latitude": 38.51671,
+        "longitude": 140.33518
+    },
+    {
+        "name": "Нагай",
+        "latitude": 38.10361,
+        "longitude": 140.035
+    },
+    {
+        "name": "Нагай-ши",
+        "latitude": 38.16667,
+        "longitude": 140.0
+    },
+    {
+        "name": "Наньо Ши",
+        "latitude": 38.10319,
+        "longitude": 140.15609
+    },
+    {
+        "name": "Обанадзава",
+        "latitude": 38.60333,
+        "longitude": 140.40194
+    },
+    {
+        "name": "Обанадзава Ши",
+        "latitude": 38.59362,
+        "longitude": 140.47681
+    },
+    {
+        "name": "Саги",
+        "latitude": 38.3725,
+        "longitude": 140.2725
+    },
+    {
+        "name": "Сагаэ-ши",
+        "latitude": 38.45,
+        "longitude": 140.23333
+    },
+    {
+        "name": "Саката",
+        "latitude": 38.91667,
+        "longitude": 139.855
+    },
+    {
+        "name": "Саката Ши",
+        "latitude": 38.9249,
+        "longitude": 139.98427
+    },
+    {
+        "name": "Синдзё",
+        "latitude": 38.75861,
+        "longitude": 140.30083
+    },
+    {
+        "name": "Синдзё Ши",
+        "latitude": 38.78819,
+        "longitude": 140.33989
+    },
+    {
+        "name": "Такахата",
+        "latitude": 38.0025,
+        "longitude": 140.19111
+    },
+    {
+        "name": "Тендо",
+        "latitude": 38.35361,
+        "longitude": 140.36972
+    },
+    {
+        "name": "Тендо Ши",
+        "latitude": 38.35819,
+        "longitude": 140.39652
+    },
+    {
+        "name": "Цуруока",
+        "latitude": 38.72167,
+        "longitude": 139.82167
+    },
+    {
+        "name": "Цуруока Ши",
+        "latitude": 38.58507,
+        "longitude": 139.80839
+    },
+    {
+        "name": "Ямагата",
+        "latitude": 38.23333,
+        "longitude": 140.36667
+    },
+    {
+        "name": "Ямагата Ши",
+        "latitude": 38.24907,
+        "longitude": 140.37272
+    },
+    {
+        "name": "Ёнедзава",
+        "latitude": 37.91,
+        "longitude": 140.11667
+    },
+    {
+        "name": "Ёнезава Ши",
+        "latitude": 37.84998,
+        "longitude": 140.1216
+    },
+    {
+        "name": "Поверхность",
+        "latitude": 39.01573,
+        "longitude": 139.92909
+    },
+    {
+        "name": "Хаги",
+        "latitude": 34.4,
+        "longitude": 131.41667
+    },
+    {
+        "name": "Хаги Ши",
+        "latitude": 34.43206,
+        "longitude": 131.50623
+    },
+    {
+        "name": "Хикари",
+        "latitude": 33.955,
+        "longitude": 131.95
+    },
+    {
+        "name": "Хикари Ши",
+        "latitude": 33.98247,
+        "longitude": 131.97485
+    },
+    {
+        "name": "Хофу",
+        "latitude": 34.05,
+        "longitude": 131.56667
+    },
+    {
+        "name": "Хофу Ши",
+        "latitude": 34.07287,
+        "longitude": 131.56808
+    },
+    {
+        "name": "Ивакуни Ши",
+        "latitude": 34.20608,
+        "longitude": 132.06286
+    },
+    {
+        "name": "Кудамацу",
+        "latitude": 34.0,
+        "longitude": 131.86667
+    },
+    {
+        "name": "Кудамацу Ши",
+        "latitude": 34.03243,
+        "longitude": 131.88683
+    },
+    {
+        "name": "Мине Ши",
+        "latitude": 34.21083,
+        "longitude": 131.2517
+    },
+    {
+        "name": "Нагато",
+        "latitude": 34.38333,
+        "longitude": 131.2
+    },
+    {
+        "name": "Нагато Ши",
+        "latitude": 34.3488,
+        "longitude": 131.14703
+    },
+    {
+        "name": "Огор-шимого",
+        "latitude": 34.1,
+        "longitude": 131.4
+    },
+    {
+        "name": "Онода",
+        "latitude": 34.00139,
+        "longitude": 131.18361
+    },
+    {
+        "name": "Саньянода Ши",
+        "latitude": 34.03956,
+        "longitude": 131.15417
+    },
+    {
+        "name": "Симоносеки Ши",
+        "latitude": 34.17277,
+        "longitude": 130.98766
+    },
+    {
+        "name": "Шунан Ши",
+        "latitude": 34.15136,
+        "longitude": 131.82498
+    },
+    {
+        "name": "Токуяма",
+        "latitude": 34.05,
+        "longitude": 131.81667
+    },
+    {
+        "name": "Убе",
+        "latitude": 33.94306,
+        "longitude": 131.25111
+    },
+    {
+        "name": "Ямагучи Ши",
+        "latitude": 34.17753,
+        "longitude": 131.54667
+    },
+    {
+        "name": "Это ему",
+        "latitude": 33.96243,
+        "longitude": 132.13111
+    },
+    {
+        "name": "Тюо-ши",
+        "latitude": 35.58418,
+        "longitude": 138.5411
+    },
+    {
+        "name": "Энзан",
+        "latitude": 35.7,
+        "longitude": 138.73333
+    },
+    {
+        "name": "Фуэфуки-ши",
+        "latitude": 35.59955,
+        "longitude": 138.68067
+    },
+    {
+        "name": "Фудзи-Ёсида Ши",
+        "latitude": 35.43915,
+        "longitude": 138.79368
+    },
+    {
+        "name": "Фудзикавагутико",
+        "latitude": 35.48933,
+        "longitude": 138.68832
+    },
+    {
+        "name": "В Фудзиесиде",
+        "latitude": 35.44032,
+        "longitude": 138.79586
+    },
+    {
+        "name": "Хокуто",
+        "latitude": 35.83458,
+        "longitude": 138.39606
+    },
+    {
+        "name": "Хокуто-ши",
+        "latitude": 35.83717,
+        "longitude": 138.39375
+    },
+    {
+        "name": "Я видел",
+        "latitude": 35.65,
+        "longitude": 138.63333
+    },
+    {
+        "name": "Кай-ши",
+        "latitude": 35.71627,
+        "longitude": 138.51871
+    },
+    {
+        "name": "Кофу",
+        "latitude": 35.66667,
+        "longitude": 138.56667
+    },
+    {
+        "name": "Кофу-ши",
+        "latitude": 35.69606,
+        "longitude": 138.61261
+    },
+    {
+        "name": "Косю-ши",
+        "latitude": 35.72649,
+        "longitude": 138.79178
+    },
+    {
+        "name": "Минами Альпы-ши",
+        "latitude": 35.65065,
+        "longitude": 138.35413
+    },
+    {
+        "name": "Нирасаки",
+        "latitude": 35.7,
+        "longitude": 138.45
+    },
+    {
+        "name": "Нирасаки-ши",
+        "latitude": 35.71772,
+        "longitude": 138.412
+    },
+    {
+        "name": "Оцуки",
+        "latitude": 35.61851,
+        "longitude": 138.97396
+    },
+    {
+        "name": "Окуки-ши",
+        "latitude": 35.64285,
+        "longitude": 138.91993
+    },
+    {
+        "name": "Рюо",
+        "latitude": 35.65,
+        "longitude": 138.5
+    },
+    {
+        "name": "Чуру-ши",
+        "latitude": 35.5366,
+        "longitude": 138.91489
+    },
+    {
+        "name": "Уэнохара",
+        "latitude": 35.61667,
+        "longitude": 139.11667
+    },
+    {
+        "name": "Уэнохара-ши",
+        "latitude": 35.65,
+        "longitude": 139.05
+    },
+    {
+        "name": "Яманаси-ши",
+        "latitude": 35.79691,
+        "longitude": 138.69743
+    }
+]

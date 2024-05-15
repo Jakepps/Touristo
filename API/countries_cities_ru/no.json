@@ -1,0 +1,3342 @@
+[
+    {
+        "name": "Асерал",
+        "latitude": 58.6173,
+        "longitude": 7.41118
+    },
+    {
+        "name": "Ауднедал",
+        "latitude": 58.28378,
+        "longitude": 7.35487
+    },
+    {
+        "name": "Фарсунд",
+        "latitude": 58.09538,
+        "longitude": 6.80403
+    },
+    {
+        "name": "Флеккефьорд",
+        "latitude": 58.29791,
+        "longitude": 6.66345
+    },
+    {
+        "name": "Хегебостад",
+        "latitude": 58.37572,
+        "longitude": 7.21973
+    },
+    {
+        "name": "Юствик",
+        "latitude": 58.19691,
+        "longitude": 8.03107
+    },
+    {
+        "name": "Кристиансанн",
+        "latitude": 58.14642,
+        "longitude": 7.99687
+    },
+    {
+        "name": "Квинесдал",
+        "latitude": 58.23894,
+        "longitude": 6.71445
+    },
+    {
+        "name": "Похожий",
+        "latitude": 58.31216,
+        "longitude": 6.9618
+    },
+    {
+        "name": "Линдеснес",
+        "latitude": 58.08435,
+        "longitude": 7.30162
+    },
+    {
+        "name": "Люнгдал",
+        "latitude": 58.13829,
+        "longitude": 7.06836
+    },
+    {
+        "name": "Мандал",
+        "latitude": 58.02633,
+        "longitude": 7.45014
+    },
+    {
+        "name": "Марнардал",
+        "latitude": 58.19802,
+        "longitude": 7.52802
+    },
+    {
+        "name": "Ноделанд",
+        "latitude": 58.15517,
+        "longitude": 7.83576
+    },
+    {
+        "name": "Сирдал",
+        "latitude": 58.6651,
+        "longitude": 6.71585
+    },
+    {
+        "name": "Сколевик",
+        "latitude": 58.07955,
+        "longitude": 8.01602
+    },
+    {
+        "name": "Сонгдален",
+        "latitude": 58.15273,
+        "longitude": 7.83677
+    },
+    {
+        "name": "Поиск",
+        "latitude": 58.09663,
+        "longitude": 7.81491
+    },
+    {
+        "name": "Прямой",
+        "latitude": 58.1893,
+        "longitude": 7.92826
+    },
+    {
+        "name": "Тонстад",
+        "latitude": 58.66263,
+        "longitude": 6.71694
+    },
+    {
+        "name": "Твитнуть",
+        "latitude": 58.23366,
+        "longitude": 8.12199
+    },
+    {
+        "name": "Ванс",
+        "latitude": 58.09812,
+        "longitude": 6.69184
+    },
+    {
+        "name": "Дружба",
+        "latitude": 58.34271,
+        "longitude": 7.97596
+    },
+    {
+        "name": "Западное поселение",
+        "latitude": 58.09991,
+        "longitude": 6.58696
+    },
+    {
+        "name": "Вигеланд",
+        "latitude": 58.08437,
+        "longitude": 7.30497
+    },
+    {
+        "name": "Альвдал",
+        "latitude": 62.10854,
+        "longitude": 10.63483
+    },
+    {
+        "name": "Противоположный",
+        "latitude": 61.13199,
+        "longitude": 11.37328
+    },
+    {
+        "name": "Ослы",
+        "latitude": 60.61363,
+        "longitude": 12.012
+    },
+    {
+        "name": "Сумки",
+        "latitude": 60.82249,
+        "longitude": 9.55207
+    },
+    {
+        "name": "Брумунддал",
+        "latitude": 60.88095,
+        "longitude": 10.93948
+    },
+    {
+        "name": "Док",
+        "latitude": 60.835,
+        "longitude": 10.07362
+    },
+    {
+        "name": "Дом стенд",
+        "latitude": 62.07554,
+        "longitude": 9.12785
+    },
+    {
+        "name": "Дувр",
+        "latitude": 61.98582,
+        "longitude": 9.24947
+    },
+    {
+        "name": "Ид лес",
+        "latitude": 59.98556,
+        "longitude": 12.12502
+    },
+    {
+        "name": "Речная комната",
+        "latitude": 60.88159,
+        "longitude": 11.56314
+    },
+    {
+        "name": "Энгердал",
+        "latitude": 61.75774,
+        "longitude": 11.95966
+    },
+    {
+        "name": "Этнедаль",
+        "latitude": 60.88872,
+        "longitude": 9.64031
+    },
+    {
+        "name": "Фагера",
+        "latitude": 60.98584,
+        "longitude": 9.23236
+    },
+    {
+        "name": "Фоллдал",
+        "latitude": 62.13329,
+        "longitude": 9.9971
+    },
+    {
+        "name": "Фоссбергом",
+        "latitude": 61.83772,
+        "longitude": 8.56842
+    },
+    {
+        "name": "Гаусдаль",
+        "latitude": 61.22685,
+        "longitude": 10.22145
+    },
+    {
+        "name": "Йовик",
+        "latitude": 60.79472,
+        "longitude": 10.69287
+    },
+    {
+        "name": "Гран",
+        "latitude": 60.39293,
+        "longitude": 10.56045
+    },
+    {
+        "name": "Женщина",
+        "latitude": 60.25701,
+        "longitude": 10.66222
+    },
+    {
+        "name": "Ужасный",
+        "latitude": 60.45133,
+        "longitude": 12.05489
+    },
+    {
+        "name": "Десять",
+        "latitude": 60.7945,
+        "longitude": 11.06798
+    },
+    {
+        "name": "Хов",
+        "latitude": 60.6987,
+        "longitude": 10.35193
+    },
+    {
+        "name": "Хундорп",
+        "latitude": 61.55523,
+        "longitude": 9.94069
+    },
+    {
+        "name": "Встроенный",
+        "latitude": 61.31484,
+        "longitude": 12.26374
+    },
+    {
+        "name": "Эквалайзер",
+        "latitude": 60.2406,
+        "longitude": 10.38587
+    },
+    {
+        "name": "Рядом с церковью",
+        "latitude": 60.4579,
+        "longitude": 12.05855
+    },
+    {
+        "name": "Королевские крылья",
+        "latitude": 60.19117,
+        "longitude": 11.99916
+    },
+    {
+        "name": "Коппанг",
+        "latitude": 61.57219,
+        "longitude": 11.04659
+    },
+    {
+        "name": "Лена",
+        "latitude": 60.67391,
+        "longitude": 10.81317
+    },
+    {
+        "name": "Леша",
+        "latitude": 62.11785,
+        "longitude": 8.86262
+    },
+    {
+        "name": "Лиллехаммер",
+        "latitude": 61.11464,
+        "longitude": 10.46743
+    },
+    {
+        "name": "Лом",
+        "latitude": 61.83639,
+        "longitude": 8.56811
+    },
+    {
+        "name": "Земельный участок",
+        "latitude": 60.81771,
+        "longitude": 11.34373
+    },
+    {
+        "name": "Пушистый",
+        "latitude": 60.29462,
+        "longitude": 10.6086
+    },
+    {
+        "name": "Моэлв",
+        "latitude": 60.93333,
+        "longitude": 10.7
+    },
+    {
+        "name": "Северный Аурдал",
+        "latitude": 60.98531,
+        "longitude": 9.23661
+    },
+    {
+        "name": "Северный Фронт",
+        "latitude": 61.59556,
+        "longitude": 9.7483
+    },
+    {
+        "name": "Северный Одал",
+        "latitude": 60.39195,
+        "longitude": 11.54151
+    },
+    {
+        "name": "Северная страна",
+        "latitude": 60.83471,
+        "longitude": 10.07543
+    },
+    {
+        "name": "Операционные системы",
+        "latitude": 62.49536,
+        "longitude": 11.22807
+    },
+    {
+        "name": "Восемь",
+        "latitude": 61.7712,
+        "longitude": 9.53529
+    },
+    {
+        "name": "Восточный Тотен",
+        "latitude": 60.67659,
+        "longitude": 10.81997
+    },
+    {
+        "name": "Острова",
+        "latitude": 61.26495,
+        "longitude": 10.41297
+    },
+    {
+        "name": "Восточная Слидре",
+        "latitude": 61.13377,
+        "longitude": 9.07872
+    },
+    {
+        "name": "Рауфосс",
+        "latitude": 60.72604,
+        "longitude": 10.6133
+    },
+    {
+        "name": "Рейнсволл",
+        "latitude": 60.67977,
+        "longitude": 10.62175
+    },
+    {
+        "name": "Рена",
+        "latitude": 61.13222,
+        "longitude": 11.37156
+    },
+    {
+        "name": "Рендален",
+        "latitude": 61.89004,
+        "longitude": 11.07694
+    },
+    {
+        "name": "Кольцо бу",
+        "latitude": 61.5298,
+        "longitude": 10.1418
+    },
+    {
+        "name": "Чехлы для колец",
+        "latitude": 60.88216,
+        "longitude": 10.9503
+    },
+    {
+        "name": "Песок",
+        "latitude": 60.3922,
+        "longitude": 11.5403
+    },
+    {
+        "name": "Сел",
+        "latitude": 61.77278,
+        "longitude": 9.53415
+    },
+    {
+        "name": "Скарнес",
+        "latitude": 60.25391,
+        "longitude": 11.68485
+    },
+    {
+        "name": "шахматы",
+        "latitude": 61.88349,
+        "longitude": 8.2649
+    },
+    {
+        "name": "Скотттруд",
+        "latitude": 59.98281,
+        "longitude": 12.12825
+    },
+    {
+        "name": "Крик",
+        "latitude": 60.65257,
+        "longitude": 10.93564
+    },
+    {
+        "name": "Южная Земля",
+        "latitude": 60.69944,
+        "longitude": 10.35086
+    },
+    {
+        "name": "Южный Аурдал",
+        "latitude": 60.82242,
+        "longitude": 9.54836
+    },
+    {
+        "name": "Южный фронт",
+        "latitude": 61.55652,
+        "longitude": 9.93949
+    },
+    {
+        "name": "Южный Одал",
+        "latitude": 60.25455,
+        "longitude": 11.68246
+    },
+    {
+        "name": "проказа",
+        "latitude": 60.18333,
+        "longitude": 11.9
+    },
+    {
+        "name": "полюс",
+        "latitude": 60.71576,
+        "longitude": 11.19069
+    },
+    {
+        "name": "Стор-Эльвдал",
+        "latitude": 61.57198,
+        "longitude": 11.04759
+    },
+    {
+        "name": "Толга",
+        "latitude": 62.40984,
+        "longitude": 10.9977
+    },
+    {
+        "name": "Тринадцать",
+        "latitude": 61.31423,
+        "longitude": 10.30066
+    },
+    {
+        "name": "Трюсиль",
+        "latitude": 61.31549,
+        "longitude": 12.26422
+    },
+    {
+        "name": "Истонченный",
+        "latitude": 62.27387,
+        "longitude": 10.77626
+    },
+    {
+        "name": "Дерзай",
+        "latitude": 61.87565,
+        "longitude": 9.09572
+    },
+    {
+        "name": "Дерзкий",
+        "latitude": 61.87505,
+        "longitude": 9.09671
+    },
+    {
+        "name": "Воды",
+        "latitude": 60.67845,
+        "longitude": 11.83314
+    },
+    {
+        "name": "Ванг",
+        "latitude": 61.12564,
+        "longitude": 8.57167
+    },
+    {
+        "name": "Западная Слидре",
+        "latitude": 61.08842,
+        "longitude": 8.98196
+    },
+    {
+        "name": "Западный Тотен",
+        "latitude": 60.72593,
+        "longitude": 10.60764
+    },
+    {
+        "name": "Левый",
+        "latitude": 61.59496,
+        "longitude": 9.75134
+    },
+    {
+        "name": "Олесунн",
+        "latitude": 62.47225,
+        "longitude": 6.15492
+    },
+    {
+        "name": "Ондалснес",
+        "latitude": 62.56749,
+        "longitude": 7.68709
+    },
+    {
+        "name": "Аукра",
+        "latitude": 62.805,
+        "longitude": 6.88722
+    },
+    {
+        "name": "Свадьба",
+        "latitude": 63.2675,
+        "longitude": 8.52778
+    },
+    {
+        "name": "Аверой",
+        "latitude": 63.05344,
+        "longitude": 7.63265
+    },
+    {
+        "name": "Батнфордшир",
+        "latitude": 62.89463,
+        "longitude": 7.67251
+    },
+    {
+        "name": "Браттвог",
+        "latitude": 62.59991,
+        "longitude": 6.44426
+    },
+    {
+        "name": "Эйде",
+        "latitude": 62.9157,
+        "longitude": 7.44496
+    },
+    {
+        "name": "Эйдсвог",
+        "latitude": 62.77656,
+        "longitude": 8.0655
+    },
+    {
+        "name": "Эльнесваген",
+        "latitude": 62.85426,
+        "longitude": 7.13769
+    },
+    {
+        "name": "Френа",
+        "latitude": 62.85375,
+        "longitude": 7.1538
+    },
+    {
+        "name": "Предполагать",
+        "latitude": 62.5007,
+        "longitude": 6.13472
+    },
+    {
+        "name": "Скрытый",
+        "latitude": 62.89379,
+        "longitude": 7.67714
+    },
+    {
+        "name": "Горло",
+        "latitude": 63.11855,
+        "longitude": 8.31536
+    },
+    {
+        "name": "Харам",
+        "latitude": 62.59898,
+        "longitude": 6.44483
+    },
+    {
+        "name": "Имели в собственности",
+        "latitude": 62.36742,
+        "longitude": 6.02114
+    },
+    {
+        "name": "Херой",
+        "latitude": 62.33333,
+        "longitude": 5.63598
+    },
+    {
+        "name": "Здоровье",
+        "latitude": 62.7805,
+        "longitude": 7.49277
+    },
+    {
+        "name": "Надеяться",
+        "latitude": 63.46539,
+        "longitude": 8.01437
+    },
+    {
+        "name": "Кристиансунн",
+        "latitude": 63.11152,
+        "longitude": 7.73198
+    },
+    {
+        "name": "Ларснес",
+        "latitude": 62.20282,
+        "longitude": 5.57729
+    },
+    {
+        "name": "Мидсунд",
+        "latitude": 62.67614,
+        "longitude": 6.67776
+    },
+    {
+        "name": "Форма",
+        "latitude": 62.73807,
+        "longitude": 7.15882
+    },
+    {
+        "name": "Несс",
+        "latitude": 62.77619,
+        "longitude": 8.06623
+    },
+    {
+        "name": "Норддал",
+        "latitude": 62.2991,
+        "longitude": 7.26145
+    },
+    {
+        "name": "Нордстранда",
+        "latitude": 62.51384,
+        "longitude": 6.13166
+    },
+    {
+        "name": "Эрског",
+        "latitude": 62.4845,
+        "longitude": 6.82025
+    },
+    {
+        "name": "Орста",
+        "latitude": 62.19937,
+        "longitude": 6.13084
+    },
+    {
+        "name": "Раума",
+        "latitude": 62.5681,
+        "longitude": 7.68612
+    },
+    {
+        "name": "Ренсвик",
+        "latitude": 63.09843,
+        "longitude": 7.82026
+    },
+    {
+        "name": "Санде",
+        "latitude": 62.20455,
+        "longitude": 5.57971
+    },
+    {
+        "name": "Песчаный остров",
+        "latitude": 62.78167,
+        "longitude": 6.46875
+    },
+    {
+        "name": "Сьохольт",
+        "latitude": 62.48263,
+        "longitude": 6.81376
+    },
+    {
+        "name": "Шодже",
+        "latitude": 62.50306,
+        "longitude": 6.69817
+    },
+    {
+        "name": "Тление",
+        "latitude": 63.46526,
+        "longitude": 8.01814
+    },
+    {
+        "name": "Штайнсхамн",
+        "latitude": 62.78389,
+        "longitude": 6.47065
+    },
+    {
+        "name": "Стордаль",
+        "latitude": 62.38214,
+        "longitude": 6.98708
+    },
+    {
+        "name": "Пляж",
+        "latitude": 62.31132,
+        "longitude": 6.93115
+    },
+    {
+        "name": "Сула",
+        "latitude": 62.44447,
+        "longitude": 6.21229
+    },
+    {
+        "name": "Сунндал",
+        "latitude": 62.67464,
+        "longitude": 8.56188
+    },
+    {
+        "name": "Сунндалсера",
+        "latitude": 62.67519,
+        "longitude": 8.56327
+    },
+    {
+        "name": "Сурнадаль",
+        "latitude": 62.97533,
+        "longitude": 8.7249
+    },
+    {
+        "name": "Больной волк",
+        "latitude": 62.38962,
+        "longitude": 6.57825
+    },
+    {
+        "name": "Тингволл",
+        "latitude": 62.91194,
+        "longitude": 8.20673
+    },
+    {
+        "name": "Пустой",
+        "latitude": 62.58118,
+        "longitude": 6.93106
+    },
+    {
+        "name": "Ульштейн",
+        "latitude": 62.34423,
+        "longitude": 5.85241
+    },
+    {
+        "name": "Ульстейнвик",
+        "latitude": 62.34317,
+        "longitude": 5.84869
+    },
+    {
+        "name": "Метеостанция Ульстейнвик",
+        "latitude": 62.34338,
+        "longitude": 5.84385
+    },
+    {
+        "name": "Ванильная река",
+        "latitude": 62.10003,
+        "longitude": 5.55827
+    },
+    {
+        "name": "Вода",
+        "latitude": 62.55826,
+        "longitude": 6.61708
+    },
+    {
+        "name": "Уэста",
+        "latitude": 62.6213,
+        "longitude": 7.08966
+    },
+    {
+        "name": "Насилие",
+        "latitude": 62.14678,
+        "longitude": 6.068
+    },
+    {
+        "name": "Альстахауг",
+        "latitude": 65.97556,
+        "longitude": 12.56836
+    },
+    {
+        "name": "Анденес",
+        "latitude": 69.31428,
+        "longitude": 16.11939
+    },
+    {
+        "name": "Даки",
+        "latitude": 69.08033,
+        "longitude": 15.77637
+    },
+    {
+        "name": "Мяч",
+        "latitude": 68.34365,
+        "longitude": 16.83317
+    },
+    {
+        "name": "Бейарн",
+        "latitude": 67.00725,
+        "longitude": 14.57304
+    },
+    {
+        "name": "Биндал",
+        "latitude": 65.0878,
+        "longitude": 12.37747
+    },
+    {
+        "name": "Бьерквик",
+        "latitude": 68.54917,
+        "longitude": 17.55709
+    },
+    {
+        "name": "Будо",
+        "latitude": 67.28325,
+        "longitude": 14.38319
+    },
+    {
+        "name": "Книга",
+        "latitude": 68.52647,
+        "longitude": 16.9928
+    },
+    {
+        "name": "Бо",
+        "latitude": 68.68823,
+        "longitude": 14.47899
+    },
+    {
+        "name": "Брённой",
+        "latitude": 65.46786,
+        "longitude": 12.20626
+    },
+    {
+        "name": "В Брённойзунде",
+        "latitude": 65.47487,
+        "longitude": 12.21285
+    },
+    {
+        "name": "Донна",
+        "latitude": 66.10606,
+        "longitude": 12.48189
+    },
+    {
+        "name": "Эвены",
+        "latitude": 68.52334,
+        "longitude": 17.00888
+    },
+    {
+        "name": "Река",
+        "latitude": 68.26667,
+        "longitude": 13.73333
+    },
+    {
+        "name": "Фальшивый",
+        "latitude": 67.25963,
+        "longitude": 15.3941
+    },
+    {
+        "name": "Флакстад",
+        "latitude": 68.09292,
+        "longitude": 13.2331
+    },
+    {
+        "name": "Гильдейский тост",
+        "latitude": 67.03394,
+        "longitude": 14.02582
+    },
+    {
+        "name": "Счастливый город",
+        "latitude": 65.67683,
+        "longitude": 11.96218
+    },
+    {
+        "name": "Гломфьорд",
+        "latitude": 66.81663,
+        "longitude": 13.94404
+    },
+    {
+        "name": "Ветви",
+        "latitude": 65.53865,
+        "longitude": 13.38499
+    },
+    {
+        "name": "Гравдал",
+        "latitude": 68.11832,
+        "longitude": 13.55339
+    },
+    {
+        "name": "Хадсель",
+        "latitude": 68.56328,
+        "longitude": 14.90835
+    },
+    {
+        "name": "Хамарой",
+        "latitude": 68.08381,
+        "longitude": 15.61671
+    },
+    {
+        "name": "Хаттфьельдаль",
+        "latitude": 65.59765,
+        "longitude": 13.98948
+    },
+    {
+        "name": "Хаукнес",
+        "latitude": 66.28333,
+        "longitude": 14.06667
+    },
+    {
+        "name": "Хемнес",
+        "latitude": 66.07712,
+        "longitude": 13.8135
+    },
+    {
+        "name": "Хемнесбергет",
+        "latitude": 66.22489,
+        "longitude": 13.61643
+    },
+    {
+        "name": "Херой",
+        "latitude": 65.98427,
+        "longitude": 12.28916
+    },
+    {
+        "name": "Домашние животные",
+        "latitude": 67.03353,
+        "longitude": 14.02663
+    },
+    {
+        "name": "Кабельные весы",
+        "latitude": 68.21066,
+        "longitude": 14.47554
+    },
+    {
+        "name": "Кёпсвик",
+        "latitude": 68.09696,
+        "longitude": 16.37416
+    },
+    {
+        "name": "Корзина",
+        "latitude": 66.07662,
+        "longitude": 13.8216
+    },
+    {
+        "name": "Лейрфьорд",
+        "latitude": 66.06348,
+        "longitude": 12.93667
+    },
+    {
+        "name": "Игриво",
+        "latitude": 68.14746,
+        "longitude": 13.61151
+    },
+    {
+        "name": "Леланд",
+        "latitude": 66.06406,
+        "longitude": 12.94325
+    },
+    {
+        "name": "Пайка",
+        "latitude": 67.30055,
+        "longitude": 14.73852
+    },
+    {
+        "name": "Пайка",
+        "latitude": 68.40998,
+        "longitude": 15.99012
+    },
+    {
+        "name": "Ипподром",
+        "latitude": 67.31343,
+        "longitude": 14.44934
+    },
+    {
+        "name": "Лурой",
+        "latitude": 66.41887,
+        "longitude": 12.84248
+    },
+    {
+        "name": "Мельбу",
+        "latitude": 68.50246,
+        "longitude": 14.79962
+    },
+    {
+        "name": "Мелой",
+        "latitude": 66.87204,
+        "longitude": 13.70763
+    },
+    {
+        "name": "Мо и Рана",
+        "latitude": 66.31278,
+        "longitude": 14.14278
+    },
+    {
+        "name": "Мушеэн",
+        "latitude": 65.83599,
+        "longitude": 13.19076
+    },
+    {
+        "name": "Мечети",
+        "latitude": 67.93467,
+        "longitude": 13.09109
+    },
+    {
+        "name": "Муравей",
+        "latitude": 68.914,
+        "longitude": 15.07843
+    },
+    {
+        "name": "Нарвик",
+        "latitude": 68.43896,
+        "longitude": 17.42775
+    },
+    {
+        "name": "Нос",
+        "latitude": 66.19796,
+        "longitude": 13.02229
+    },
+    {
+        "name": "Топоры",
+        "latitude": 68.91463,
+        "longitude": 15.08703
+    },
+    {
+        "name": "Иглз",
+        "latitude": 66.86878,
+        "longitude": 13.70579
+    },
+    {
+        "name": "Рана",
+        "latitude": 66.31122,
+        "longitude": 14.13996
+    },
+    {
+        "name": "Рейн",
+        "latitude": 67.93249,
+        "longitude": 13.08955
+    },
+    {
+        "name": "Рогнан",
+        "latitude": 67.10021,
+        "longitude": 15.39086
+    },
+    {
+        "name": "Рёдой",
+        "latitude": 66.71195,
+        "longitude": 13.2853
+    },
+    {
+        "name": "Голос",
+        "latitude": 67.51727,
+        "longitude": 12.11564
+    },
+    {
+        "name": "Соляная долина",
+        "latitude": 67.10144,
+        "longitude": 15.39458
+    },
+    {
+        "name": "Санднессйен",
+        "latitude": 66.02166,
+        "longitude": 12.63158
+    },
+    {
+        "name": "Блэкленд",
+        "latitude": 68.69618,
+        "longitude": 15.41174
+    },
+    {
+        "name": "Как сейчас",
+        "latitude": 65.31379,
+        "longitude": 12.16729
+    },
+    {
+        "name": "Сифолд",
+        "latitude": 67.34803,
+        "longitude": 15.59445
+    },
+    {
+        "name": "Саутленд",
+        "latitude": 67.66564,
+        "longitude": 12.69784
+    },
+    {
+        "name": "Взбираться",
+        "latitude": 67.77625,
+        "longitude": 15.01621
+    },
+    {
+        "name": "Стокмаркнес",
+        "latitude": 68.56462,
+        "longitude": 14.91075
+    },
+    {
+        "name": "Транслировать",
+        "latitude": 68.6888,
+        "longitude": 14.47205
+    },
+    {
+        "name": "Поток",
+        "latitude": 67.34769,
+        "longitude": 15.60493
+    },
+    {
+        "name": "Свольвер",
+        "latitude": 68.23417,
+        "longitude": 14.56834
+    },
+    {
+        "name": "Террак",
+        "latitude": 65.087,
+        "longitude": 12.37148
+    },
+    {
+        "name": "Тьельдсунд",
+        "latitude": 68.55557,
+        "longitude": 16.36172
+    },
+    {
+        "name": "Тренироваться",
+        "latitude": 66.50159,
+        "longitude": 12.09645
+    },
+    {
+        "name": "Трофорс",
+        "latitude": 65.53335,
+        "longitude": 13.40631
+    },
+    {
+        "name": "Тисфьорд",
+        "latitude": 68.09772,
+        "longitude": 16.37591
+    },
+    {
+        "name": "вызов",
+        "latitude": 68.2322,
+        "longitude": 14.56226
+    },
+    {
+        "name": "Вэрой",
+        "latitude": 67.66374,
+        "longitude": 12.69337
+    },
+    {
+        "name": "Ткачество",
+        "latitude": 65.84109,
+        "longitude": 13.20024
+    },
+    {
+        "name": "Вега",
+        "latitude": 65.67539,
+        "longitude": 11.96456
+    },
+    {
+        "name": "Вествогёй",
+        "latitude": 68.1483,
+        "longitude": 13.61119
+    },
+    {
+        "name": "Вевелстад",
+        "latitude": 65.70002,
+        "longitude": 12.43921
+    },
+    {
+        "name": "Вик",
+        "latitude": 65.31254,
+        "longitude": 12.16734
+    },
+    {
+        "name": "Осло",
+        "latitude": 59.91273,
+        "longitude": 10.74609
+    },
+    {
+        "name": "Сьёлистстранда",
+        "latitude": 59.92105,
+        "longitude": 10.68017
+    },
+    {
+        "name": "Окрехамн",
+        "latitude": 59.26053,
+        "longitude": 5.18689
+    },
+    {
+        "name": "Горный пояс",
+        "latitude": 58.6305,
+        "longitude": 6.0813
+    },
+    {
+        "name": "Книга",
+        "latitude": 59.23062,
+        "longitude": 5.43524
+    },
+    {
+        "name": "Брин",
+        "latitude": 58.73536,
+        "longitude": 5.64766
+    },
+    {
+        "name": "Эгерсунд",
+        "latitude": 58.45133,
+        "longitude": 5.9997
+    },
+    {
+        "name": "Эйгерсунд",
+        "latitude": 58.45236,
+        "longitude": 6.00314
+    },
+    {
+        "name": "Эйке",
+        "latitude": 59.39833,
+        "longitude": 5.36389
+    },
+    {
+        "name": "Финной",
+        "latitude": 59.17117,
+        "longitude": 5.87398
+    },
+    {
+        "name": "Пресанд",
+        "latitude": 58.89929,
+        "longitude": 6.09642
+    },
+    {
+        "name": "Гьесдал",
+        "latitude": 58.76478,
+        "longitude": 5.855
+    },
+    {
+        "name": "Хм",
+        "latitude": 58.6161,
+        "longitude": 5.64497
+    },
+    {
+        "name": "Хауге в Далане",
+        "latitude": 58.34361,
+        "longitude": 6.28121
+    },
+    {
+        "name": "Хаугесунн",
+        "latitude": 59.41015,
+        "longitude": 5.27551
+    },
+    {
+        "name": "Хьельмеланд",
+        "latitude": 59.23668,
+        "longitude": 6.17912
+    },
+    {
+        "name": "Хоммерсак",
+        "latitude": 58.92556,
+        "longitude": 5.85104
+    },
+    {
+        "name": "Йёрпеланд",
+        "latitude": 59.02251,
+        "longitude": 6.04078
+    },
+    {
+        "name": "Юдаберг",
+        "latitude": 59.17204,
+        "longitude": 5.87617
+    },
+    {
+        "name": "Кармой",
+        "latitude": 59.28079,
+        "longitude": 5.30529
+    },
+    {
+        "name": "Хлопать в ладоши",
+        "latitude": 58.77655,
+        "longitude": 5.63009
+    },
+    {
+        "name": "Копервик",
+        "latitude": 59.28354,
+        "longitude": 5.30669
+    },
+    {
+        "name": "Квицой",
+        "latitude": 59.06471,
+        "longitude": 5.40537
+    },
+    {
+        "name": "Лунд",
+        "latitude": 58.45715,
+        "longitude": 6.54871
+    },
+    {
+        "name": "Люфьель",
+        "latitude": 58.73539,
+        "longitude": 5.73615
+    },
+    {
+        "name": "Мой",
+        "latitude": 58.45674,
+        "longitude": 6.55184
+    },
+    {
+        "name": "Нерби",
+        "latitude": 58.66546,
+        "longitude": 5.63788
+    },
+    {
+        "name": "Пиво",
+        "latitude": 59.60437,
+        "longitude": 5.80799
+    },
+    {
+        "name": "Рандаберг",
+        "latitude": 58.9987,
+        "longitude": 5.62055
+    },
+    {
+        "name": "Реннесёй",
+        "latitude": 59.09899,
+        "longitude": 5.69966
+    },
+    {
+        "name": "Санднес",
+        "latitude": 58.8476,
+        "longitude": 5.72855
+    },
+    {
+        "name": "Сауда",
+        "latitude": 59.65067,
+        "longitude": 6.35312
+    },
+    {
+        "name": "Сэвеланд",
+        "latitude": 59.26667,
+        "longitude": 5.2
+    },
+    {
+        "name": "Скуденешавн",
+        "latitude": 59.14856,
+        "longitude": 5.25687
+    },
+    {
+        "name": "Сокндал",
+        "latitude": 58.34256,
+        "longitude": 6.29425
+    },
+    {
+        "name": "Сола",
+        "latitude": 58.88806,
+        "longitude": 5.64728
+    },
+    {
+        "name": "Ставангер",
+        "latitude": 58.96941,
+        "longitude": 5.72856
+    },
+    {
+        "name": "Стрэнд",
+        "latitude": 59.02353,
+        "longitude": 6.04343
+    },
+    {
+        "name": "Сулдал",
+        "latitude": 59.48571,
+        "longitude": 6.25222
+    },
+    {
+        "name": "Танангер",
+        "latitude": 58.93618,
+        "longitude": 5.5741
+    },
+    {
+        "name": "Да",
+        "latitude": 59.06481,
+        "longitude": 5.9225
+    },
+    {
+        "name": "Время",
+        "latitude": 58.73636,
+        "longitude": 5.65297
+    },
+    {
+        "name": "Тишина",
+        "latitude": 59.42159,
+        "longitude": 5.44781
+    },
+    {
+        "name": "Уцира",
+        "latitude": 59.30565,
+        "longitude": 4.88621
+    },
+    {
+        "name": "Вархауг",
+        "latitude": 58.6181,
+        "longitude": 5.65702
+    },
+    {
+        "name": "Ведавоген",
+        "latitude": 59.29483,
+        "longitude": 5.21874
+    },
+    {
+        "name": "Вигрестад",
+        "latitude": 58.57103,
+        "longitude": 5.68182
+    },
+    {
+        "name": "Викесо",
+        "latitude": 58.63759,
+        "longitude": 6.09133
+    },
+    {
+        "name": "Викевог",
+        "latitude": 59.09754,
+        "longitude": 5.6979
+    },
+    {
+        "name": "Виндфьорд",
+        "latitude": 59.60543,
+        "longitude": 5.80784
+    },
+    {
+        "name": "Весенняя медаль",
+        "latitude": 59.35607,
+        "longitude": 5.31962
+    },
+    {
+        "name": "Альта",
+        "latitude": 69.97675,
+        "longitude": 23.29634
+    },
+    {
+        "name": "Авануорри",
+        "latitude": 70.99634,
+        "longitude": 24.66217
+    },
+    {
+        "name": "Балсфьорд",
+        "latitude": 69.24024,
+        "longitude": 19.22653
+    },
+    {
+        "name": "Барду",
+        "latitude": 68.86058,
+        "longitude": 18.35052
+    },
+    {
+        "name": "Ботсфьорд",
+        "latitude": 70.63428,
+        "longitude": 29.7175
+    },
+    {
+        "name": "Берг",
+        "latitude": 69.44444,
+        "longitude": 17.2995
+    },
+    {
+        "name": "Берлевог",
+        "latitude": 70.85778,
+        "longitude": 29.08636
+    },
+    {
+        "name": "Бьорноватн",
+        "latitude": 69.66745,
+        "longitude": 29.98722
+    },
+    {
+        "name": "Боркена",
+        "latitude": 68.77261,
+        "longitude": 16.17115
+    },
+    {
+        "name": "Много времени",
+        "latitude": 69.09154,
+        "longitude": 17.69094
+    },
+    {
+        "name": "Эвеншер",
+        "latitude": 68.58283,
+        "longitude": 16.57203
+    },
+    {
+        "name": "Финнснес",
+        "latitude": 69.22959,
+        "longitude": 17.98114
+    },
+    {
+        "name": "Гамвик",
+        "latitude": 71.04107,
+        "longitude": 27.85144
+    },
+    {
+        "name": "Гратен",
+        "latitude": 68.69273,
+        "longitude": 17.53186
+    },
+    {
+        "name": "Гриллефьорд",
+        "latitude": 69.36304,
+        "longitude": 17.05284
+    },
+    {
+        "name": "Хаммерфест",
+        "latitude": 70.66257,
+        "longitude": 23.68295
+    },
+    {
+        "name": "Хансена",
+        "latitude": 69.96701,
+        "longitude": 19.62752
+    },
+    {
+        "name": "Харстад",
+        "latitude": 68.79896,
+        "longitude": 16.5293
+    },
+    {
+        "name": "Хасвик",
+        "latitude": 70.59164,
+        "longitude": 22.30272
+    },
+    {
+        "name": "Хоннингсвог",
+        "latitude": 70.98209,
+        "longitude": 25.97037
+    },
+    {
+        "name": "В резиденции",
+        "latitude": 68.77866,
+        "longitude": 17.17661
+    },
+    {
+        "name": "Кофьорд",
+        "latitude": 69.604,
+        "longitude": 20.53456
+    },
+    {
+        "name": "Карашьохка",
+        "latitude": 69.47187,
+        "longitude": 25.51122
+    },
+    {
+        "name": "Карасьок",
+        "latitude": 69.47224,
+        "longitude": 25.51885
+    },
+    {
+        "name": "Карлсой",
+        "latitude": 69.96185,
+        "longitude": 19.61811
+    },
+    {
+        "name": "Каутокейно",
+        "latitude": 69.01151,
+        "longitude": 23.04151
+    },
+    {
+        "name": "Церкви",
+        "latitude": 69.72706,
+        "longitude": 30.04578
+    },
+    {
+        "name": "Хьёллефьорд",
+        "latitude": 70.94574,
+        "longitude": 27.3465
+    },
+    {
+        "name": "Квалсунд",
+        "latitude": 70.4991,
+        "longitude": 23.97393
+    },
+    {
+        "name": "Квефьорд",
+        "latitude": 68.77201,
+        "longitude": 16.17294
+    },
+    {
+        "name": "Квенанген",
+        "latitude": 69.9389,
+        "longitude": 22.04935
+    },
+    {
+        "name": "Лаксельв",
+        "latitude": 70.05133,
+        "longitude": 24.97182
+    },
+    {
+        "name": "Туалет",
+        "latitude": 68.74722,
+        "longitude": 17.80558
+    },
+    {
+        "name": "Лебесби",
+        "latitude": 70.94535,
+        "longitude": 27.35134
+    },
+    {
+        "name": "Ленвик",
+        "latitude": 69.23111,
+        "longitude": 17.98739
+    },
+    {
+        "name": "Блоха",
+        "latitude": 70.23952,
+        "longitude": 22.35136
+    },
+    {
+        "name": "Вереск",
+        "latitude": 69.57621,
+        "longitude": 20.21702
+    },
+    {
+        "name": "Вереск собственности",
+        "latitude": 69.57629,
+        "longitude": 20.21887
+    },
+    {
+        "name": "Целевое Я",
+        "latitude": 69.12389,
+        "longitude": 18.61498
+    },
+    {
+        "name": "Чайка",
+        "latitude": 70.99654,
+        "longitude": 24.66146
+    },
+    {
+        "name": "Мехамн",
+        "latitude": 71.04137,
+        "longitude": 27.85133
+    },
+    {
+        "name": "Моен",
+        "latitude": 69.13043,
+        "longitude": 18.61226
+    },
+    {
+        "name": "Нессеби",
+        "latitude": 69.88541,
+        "longitude": 28.43368
+    },
+    {
+        "name": "Нордкап",
+        "latitude": 70.97808,
+        "longitude": 25.97473
+    },
+    {
+        "name": "Северное путешествие",
+        "latitude": 69.76825,
+        "longitude": 21.02569
+    },
+    {
+        "name": "Олдерален",
+        "latitude": 69.60407,
+        "longitude": 20.53272
+    },
+    {
+        "name": "Оксфьорд",
+        "latitude": 70.23936,
+        "longitude": 22.3507
+    },
+    {
+        "name": "Порсангер",
+        "latitude": 70.05214,
+        "longitude": 24.95592
+    },
+    {
+        "name": "Рипефьорд",
+        "latitude": 70.64126,
+        "longitude": 23.67213
+    },
+    {
+        "name": "Салон",
+        "latitude": 68.87669,
+        "longitude": 17.83375
+    },
+    {
+        "name": "Сетермоен",
+        "latitude": 68.86099,
+        "longitude": 18.34857
+    },
+    {
+        "name": "Морской путь",
+        "latitude": 68.87363,
+        "longitude": 17.84706
+    },
+    {
+        "name": "Скания",
+        "latitude": 68.58378,
+        "longitude": 16.57305
+    },
+    {
+        "name": "Скьервой",
+        "latitude": 70.03379,
+        "longitude": 20.97365
+    },
+    {
+        "name": "Южный Варангер",
+        "latitude": 69.72859,
+        "longitude": 30.04264
+    },
+    {
+        "name": "Южное путешествие",
+        "latitude": 69.14697,
+        "longitude": 18.15629
+    },
+    {
+        "name": "Сторфьорд",
+        "latitude": 69.2686,
+        "longitude": 19.96089
+    },
+    {
+        "name": "Большое дело",
+        "latitude": 69.76783,
+        "longitude": 21.02466
+    },
+    {
+        "name": "Сторштейна",
+        "latitude": 69.24081,
+        "longitude": 19.23437
+    },
+    {
+        "name": "Она",
+        "latitude": 70.19976,
+        "longitude": 28.18494
+    },
+    {
+        "name": "Треска",
+        "latitude": 69.36184,
+        "longitude": 17.05384
+    },
+    {
+        "name": "Траной",
+        "latitude": 69.17022,
+        "longitude": 17.7348
+    },
+    {
+        "name": "Тромсё",
+        "latitude": 69.64961,
+        "longitude": 18.95702
+    },
+    {
+        "name": "Вадсё",
+        "latitude": 70.07412,
+        "longitude": 29.74922
+    },
+    {
+        "name": "Вардё",
+        "latitude": 70.3704,
+        "longitude": 31.10866
+    },
+    {
+        "name": "Å в Офьорде",
+        "latitude": 63.96068,
+        "longitude": 10.22468
+    },
+    {
+        "name": "Офьорд",
+        "latitude": 63.96196,
+        "longitude": 10.22587
+    },
+    {
+        "name": "Агденес",
+        "latitude": 63.50575,
+        "longitude": 9.82623
+    },
+    {
+        "name": "Беркок",
+        "latitude": 62.82496,
+        "longitude": 10.01177
+    },
+    {
+        "name": "Брюшная полость",
+        "latitude": 63.76522,
+        "longitude": 9.8094
+    },
+    {
+        "name": "Ботнгард",
+        "latitude": 63.76484,
+        "longitude": 9.80863
+    },
+    {
+        "name": "Брекстад",
+        "latitude": 63.68697,
+        "longitude": 9.66541
+    },
+    {
+        "name": "Наполнять",
+        "latitude": 63.60638,
+        "longitude": 8.96961
+    },
+    {
+        "name": "Плоский Танжер",
+        "latitude": 64.41282,
+        "longitude": 11.03285
+    },
+    {
+        "name": "Фоснес",
+        "latitude": 64.6591,
+        "longitude": 11.26535
+    },
+    {
+        "name": "Морозный",
+        "latitude": 63.5891,
+        "longitude": 10.7423
+    },
+    {
+        "name": "Фрейя",
+        "latitude": 63.73005,
+        "longitude": 8.82426
+    },
+    {
+        "name": "Шероховатый",
+        "latitude": 64.46397,
+        "longitude": 12.31114
+    },
+    {
+        "name": "Месть",
+        "latitude": 63.29095,
+        "longitude": 9.08893
+    },
+    {
+        "name": "Быстрый",
+        "latitude": 63.54528,
+        "longitude": 8.78029
+    },
+    {
+        "name": "Холтолен",
+        "latitude": 62.84318,
+        "longitude": 11.29284
+    },
+    {
+        "name": "Хоммельвик",
+        "latitude": 63.41083,
+        "longitude": 10.79424
+    },
+    {
+        "name": "Хайлендс",
+        "latitude": 64.62759,
+        "longitude": 12.30041
+    },
+    {
+        "name": "Индерой",
+        "latitude": 63.87826,
+        "longitude": 11.28424
+    },
+    {
+        "name": "Внутренний Фозен",
+        "latitude": 63.58897,
+        "longitude": 9.95847
+    },
+    {
+        "name": "Клебу",
+        "latitude": 63.3006,
+        "longitude": 10.48188
+    },
+    {
+        "name": "Шток поршня",
+        "latitude": 64.86549,
+        "longitude": 11.60465
+    },
+    {
+        "name": "Ухо церковного сиденья",
+        "latitude": 63.29057,
+        "longitude": 9.08909
+    },
+    {
+        "name": "Лаувснес",
+        "latitude": 64.50061,
+        "longitude": 10.89396
+    },
+    {
+        "name": "Попробуй",
+        "latitude": 65.09244,
+        "longitude": 11.70513
+    },
+    {
+        "name": "Левангер",
+        "latitude": 63.74585,
+        "longitude": 11.29991
+    },
+    {
+        "name": "Лебедки",
+        "latitude": 64.46413,
+        "longitude": 13.59249
+    },
+    {
+        "name": "Лундамо",
+        "latitude": 63.15216,
+        "longitude": 10.28555
+    },
+    {
+        "name": "Мальм",
+        "latitude": 64.07534,
+        "longitude": 11.22398
+    },
+    {
+        "name": "Мальвик",
+        "latitude": 63.41057,
+        "longitude": 10.79382
+    },
+    {
+        "name": "Мелдалл",
+        "latitude": 63.04598,
+        "longitude": 9.71088
+    },
+    {
+        "name": "Мелхус",
+        "latitude": 63.28755,
+        "longitude": 10.27686
+    },
+    {
+        "name": "Сурикаты",
+        "latitude": 63.41423,
+        "longitude": 11.74558
+    },
+    {
+        "name": "Средний Галдал",
+        "latitude": 63.03902,
+        "longitude": 10.28701
+    },
+    {
+        "name": "Намдалсейд",
+        "latitude": 64.10843,
+        "longitude": 10.91862
+    },
+    {
+        "name": "Намсус",
+        "latitude": 64.47842,
+        "longitude": 11.54182
+    },
+    {
+        "name": "Намскоган",
+        "latitude": 64.92597,
+        "longitude": 13.15932
+    },
+    {
+        "name": "Нэрой",
+        "latitude": 64.86298,
+        "longitude": 11.60505
+    },
+    {
+        "name": "Оппдал",
+        "latitude": 62.59495,
+        "longitude": 9.68761
+    },
+    {
+        "name": "Оркдал",
+        "latitude": 63.29989,
+        "longitude": 9.84365
+    },
+    {
+        "name": "Осен",
+        "latitude": 64.29875,
+        "longitude": 10.51284
+    },
+    {
+        "name": "Капитальный ремонт",
+        "latitude": 64.4938,
+        "longitude": 11.94753
+    },
+    {
+        "name": "Орланд",
+        "latitude": 63.68574,
+        "longitude": 9.66633
+    },
+    {
+        "name": "Раарвик - Раарвик",
+        "latitude": 64.8838,
+        "longitude": 13.5631
+    },
+    {
+        "name": "Ранемслетта",
+        "latitude": 64.49447,
+        "longitude": 11.94912
+    },
+    {
+        "name": "ВПП",
+        "latitude": 62.82864,
+        "longitude": 10.00487
+    },
+    {
+        "name": "Риндал",
+        "latitude": 63.05511,
+        "longitude": 9.21274
+    },
+    {
+        "name": "Роан",
+        "latitude": 64.17281,
+        "longitude": 10.22511
+    },
+    {
+        "name": "Реорус",
+        "latitude": 62.57562,
+        "longitude": 11.3873
+    },
+    {
+        "name": "Рорвик",
+        "latitude": 64.86185,
+        "longitude": 11.23969
+    },
+    {
+        "name": "Рорвик",
+        "latitude": 64.88394,
+        "longitude": 13.56256
+    },
+    {
+        "name": "Сельбу",
+        "latitude": 63.2177,
+        "longitude": 11.03938
+    },
+    {
+        "name": "Сисстранда",
+        "latitude": 63.72523,
+        "longitude": 8.83318
+    },
+    {
+        "name": "негодяй",
+        "latitude": 63.32386,
+        "longitude": 10.06745
+    },
+    {
+        "name": "Лес",
+        "latitude": 63.70374,
+        "longitude": 11.19262
+    },
+    {
+        "name": "Подлый",
+        "latitude": 64.2457,
+        "longitude": 12.37779
+    },
+    {
+        "name": "Сносе - Сноса",
+        "latitude": 64.24606,
+        "longitude": 12.38294
+    },
+    {
+        "name": "Снильфьорд",
+        "latitude": 63.39973,
+        "longitude": 9.50194
+    },
+    {
+        "name": "Стейнхьер",
+        "latitude": 64.19303,
+        "longitude": 11.38505
+    },
+    {
+        "name": "Стьёрдал",
+        "latitude": 63.56699,
+        "longitude": 11.0273
+    },
+    {
+        "name": "Стьёрдалсхальсен",
+        "latitude": 63.4681,
+        "longitude": 10.92618
+    },
+    {
+        "name": "Поток",
+        "latitude": 63.87163,
+        "longitude": 11.29617
+    },
+    {
+        "name": "Тронхейм",
+        "latitude": 63.42811,
+        "longitude": 10.39687
+    },
+    {
+        "name": "Тайдал",
+        "latitude": 63.04477,
+        "longitude": 11.65038
+    },
+    {
+        "name": "Мирской",
+        "latitude": 63.90023,
+        "longitude": 11.72724
+    },
+    {
+        "name": "О",
+        "latitude": 64.071,
+        "longitude": 11.21795
+    },
+    {
+        "name": "Недели",
+        "latitude": 64.86362,
+        "longitude": 11.24198
+    },
+    {
+        "name": "Оройсунд",
+        "latitude": 59.18321,
+        "longitude": 10.45743
+    },
+    {
+        "name": "Пляж Осгорд",
+        "latitude": 59.34938,
+        "longitude": 10.46948
+    },
+    {
+        "name": "Бамбл",
+        "latitude": 59.00146,
+        "longitude": 9.74573
+    },
+    {
+        "name": "Барные гребцы",
+        "latitude": 59.31859,
+        "longitude": 10.38963
+    },
+    {
+        "name": "Бергер",
+        "latitude": 59.54994,
+        "longitude": 10.38641
+    },
+    {
+        "name": "Бо",
+        "latitude": 59.41281,
+        "longitude": 9.06618
+    },
+    {
+        "name": "Долина",
+        "latitude": 59.44499,
+        "longitude": 8.00492
+    },
+    {
+        "name": "Дрангедал",
+        "latitude": 59.09655,
+        "longitude": 9.0596
+    },
+    {
+        "name": "Ходы",
+        "latitude": 59.22791,
+        "longitude": 10.4153
+    },
+    {
+        "name": "Фюресдаль",
+        "latitude": 59.18651,
+        "longitude": 8.08953
+    },
+    {
+        "name": "Золотая куча",
+        "latitude": 59.5013,
+        "longitude": 10.25224
+    },
+    {
+        "name": "Повернуть",
+        "latitude": 59.38767,
+        "longitude": 9.1724
+    },
+    {
+        "name": "Господин",
+        "latitude": 59.10351,
+        "longitude": 9.56195
+    },
+    {
+        "name": "Долина Сердца",
+        "latitude": 59.61276,
+        "longitude": 8.94942
+    },
+    {
+        "name": "Пляж Холмса",
+        "latitude": 59.48976,
+        "longitude": 10.31515
+    },
+    {
+        "name": "Хортен",
+        "latitude": 59.41547,
+        "longitude": 10.48527
+    },
+    {
+        "name": "Крагеро",
+        "latitude": 58.86792,
+        "longitude": 9.41099
+    },
+    {
+        "name": "Белая недвижимость",
+        "latitude": 59.40194,
+        "longitude": 8.49459
+    },
+    {
+        "name": "Ларвик",
+        "latitude": 59.05234,
+        "longitude": 10.02701
+    },
+    {
+        "name": "Лунд",
+        "latitude": 59.29832,
+        "longitude": 9.10268
+    },
+    {
+        "name": "Мельсомвик",
+        "latitude": 59.22394,
+        "longitude": 10.33616
+    },
+    {
+        "name": "Ниседал",
+        "latitude": 59.01958,
+        "longitude": 8.52127
+    },
+    {
+        "name": "Имя",
+        "latitude": 59.28136,
+        "longitude": 9.25678
+    },
+    {
+        "name": "Нотодде",
+        "latitude": 59.55992,
+        "longitude": 9.26046
+    },
+    {
+        "name": "Порсгрунн",
+        "latitude": 59.1419,
+        "longitude": 9.6568
+    },
+    {
+        "name": "Студент",
+        "latitude": 59.09773,
+        "longitude": 9.05866
+    },
+    {
+        "name": "Ре",
+        "latitude": 59.35056,
+        "longitude": 10.24763
+    },
+    {
+        "name": "Рьюкан",
+        "latitude": 59.87891,
+        "longitude": 8.59411
+    },
+    {
+        "name": "Санде",
+        "latitude": 59.59362,
+        "longitude": 10.20757
+    },
+    {
+        "name": "Сандефьорд",
+        "latitude": 59.12881,
+        "longitude": 10.21971
+    },
+    {
+        "name": "Саухерад",
+        "latitude": 59.39642,
+        "longitude": 9.2491
+    },
+    {
+        "name": "Сельйорд",
+        "latitude": 59.48274,
+        "longitude": 8.62672
+    },
+    {
+        "name": "Эгоистичный",
+        "latitude": 59.56645,
+        "longitude": 10.26004
+    },
+    {
+        "name": "Который",
+        "latitude": 59.2823,
+        "longitude": 10.33004
+    },
+    {
+        "name": "Сильян",
+        "latitude": 59.28251,
+        "longitude": 9.73368
+    },
+    {
+        "name": "Лыжи",
+        "latitude": 59.20748,
+        "longitude": 9.61052
+    },
+    {
+        "name": "Совок",
+        "latitude": 59.38613,
+        "longitude": 10.41077
+    },
+    {
+        "name": "Ставерн",
+        "latitude": 59.0,
+        "longitude": 10.03333
+    },
+    {
+        "name": "Трость",
+        "latitude": 59.22255,
+        "longitude": 10.30055
+    },
+    {
+        "name": "Свелвик",
+        "latitude": 59.60677,
+        "longitude": 10.40225
+    },
+    {
+        "name": "Больной",
+        "latitude": 59.83486,
+        "longitude": 9.13528
+    },
+    {
+        "name": "Пустой",
+        "latitude": 59.1109,
+        "longitude": 10.3933
+    },
+    {
+        "name": "Токе",
+        "latitude": 59.44569,
+        "longitude": 8.01388
+    },
+    {
+        "name": "Тонсберг",
+        "latitude": 59.26754,
+        "longitude": 10.40762
+    },
+    {
+        "name": "Улефосс",
+        "latitude": 59.28245,
+        "longitude": 9.26548
+    },
+    {
+        "name": "Виноградник",
+        "latitude": 59.56924,
+        "longitude": 7.98896
+    },
+    {
+        "name": "Оготнес",
+        "latitude": 60.40306,
+        "longitude": 5.01927
+    },
+    {
+        "name": "Ордал",
+        "latitude": 61.23639,
+        "longitude": 7.70204
+    },
+    {
+        "name": "Ордалстанген",
+        "latitude": 61.23581,
+        "longitude": 7.7037
+    },
+    {
+        "name": "Остров Эша",
+        "latitude": 60.40916,
+        "longitude": 5.22599
+    },
+    {
+        "name": "Аскволл",
+        "latitude": 61.3485,
+        "longitude": 5.05318
+    },
+    {
+        "name": "Аурланд",
+        "latitude": 60.90556,
+        "longitude": 7.18734
+    },
+    {
+        "name": "Остеволл",
+        "latitude": 60.09578,
+        "longitude": 5.22722
+    },
+    {
+        "name": "Аустргейм",
+        "latitude": 60.77742,
+        "longitude": 4.93227
+    },
+    {
+        "name": "Пляж Бэйл",
+        "latitude": 61.20809,
+        "longitude": 6.53551
+    },
+    {
+        "name": "Берген",
+        "latitude": 60.392,
+        "longitude": 5.328
+    },
+    {
+        "name": "Бёмло",
+        "latitude": 59.79384,
+        "longitude": 5.17624
+    },
+    {
+        "name": "Бремангер",
+        "latitude": 61.76862,
+        "longitude": 5.28907
+    },
+    {
+        "name": "Дол",
+        "latitude": 60.58639,
+        "longitude": 5.81888
+    },
+    {
+        "name": "Дол",
+        "latitude": 61.36353,
+        "longitude": 5.40036
+    },
+    {
+        "name": "Ид",
+        "latitude": 61.90684,
+        "longitude": 5.99321
+    },
+    {
+        "name": "Эйдфьорд",
+        "latitude": 60.46741,
+        "longitude": 7.06971
+    },
+    {
+        "name": "Айкеландский соус",
+        "latitude": 60.24175,
+        "longitude": 5.74433
+    },
+    {
+        "name": "Эйвиндвик",
+        "latitude": 60.98133,
+        "longitude": 5.07497
+    },
+    {
+        "name": "Эспеланд",
+        "latitude": 60.38249,
+        "longitude": 5.4657
+    },
+    {
+        "name": "Этна",
+        "latitude": 59.66472,
+        "longitude": 5.93438
+    },
+    {
+        "name": "Фарнес",
+        "latitude": 61.3085,
+        "longitude": 7.79694
+    },
+    {
+        "name": "Толстый",
+        "latitude": 60.77873,
+        "longitude": 4.71965
+    },
+    {
+        "name": "Подходит",
+        "latitude": 59.91742,
+        "longitude": 5.31637
+    },
+    {
+        "name": "Фьялер",
+        "latitude": 61.36383,
+        "longitude": 5.39808
+    },
+    {
+        "name": "Гора",
+        "latitude": 60.36267,
+        "longitude": 5.12194
+    },
+    {
+        "name": "Флора",
+        "latitude": 61.59994,
+        "longitude": 5.03144
+    },
+    {
+        "name": "Флорио",
+        "latitude": 61.59957,
+        "longitude": 5.0328
+    },
+    {
+        "name": "Вел",
+        "latitude": 61.45045,
+        "longitude": 5.85397
+    },
+    {
+        "name": "Странная куча",
+        "latitude": 60.51321,
+        "longitude": 5.24252
+    },
+    {
+        "name": "Суматоха",
+        "latitude": 60.24072,
+        "longitude": 5.74458
+    },
+    {
+        "name": "галлы",
+        "latitude": 61.32564,
+        "longitude": 5.79523
+    },
+    {
+        "name": "Гаупне",
+        "latitude": 61.40472,
+        "longitude": 7.29458
+    },
+    {
+        "name": "Помои",
+        "latitude": 61.77728,
+        "longitude": 6.21561
+    },
+    {
+        "name": "Еловое вино",
+        "latitude": 60.52629,
+        "longitude": 6.72178
+    },
+    {
+        "name": "Гюлен",
+        "latitude": 60.98192,
+        "longitude": 5.07408
+    },
+    {
+        "name": "Хагавик",
+        "latitude": 60.18076,
+        "longitude": 5.40146
+    },
+    {
+        "name": "Твердая земля",
+        "latitude": 61.07562,
+        "longitude": 4.84111
+    },
+    {
+        "name": "Хермансверк",
+        "latitude": 61.18461,
+        "longitude": 6.85016
+    },
+    {
+        "name": "Хорниндал",
+        "latitude": 61.96925,
+        "longitude": 6.52249
+    },
+    {
+        "name": "Хойянгер",
+        "latitude": 61.2188,
+        "longitude": 6.07308
+    },
+    {
+        "name": "Вздох",
+        "latitude": 60.51028,
+        "longitude": 5.35444
+    },
+    {
+        "name": "Шельфовый город",
+        "latitude": 61.17036,
+        "longitude": 5.29614
+    },
+    {
+        "name": "Внутренняя Арна",
+        "latitude": 60.41768,
+        "longitude": 5.47087
+    },
+    {
+        "name": "Джондал",
+        "latitude": 60.2762,
+        "longitude": 6.25257
+    },
+    {
+        "name": "Йолстер",
+        "latitude": 61.56923,
+        "longitude": 6.48351
+    },
+    {
+        "name": "Кинсарвик",
+        "latitude": 60.37567,
+        "longitude": 6.71948
+    },
+    {
+        "name": "Кнаппског",
+        "latitude": 60.37906,
+        "longitude": 5.05602
+    },
+    {
+        "name": "Кнарвик",
+        "latitude": 60.5453,
+        "longitude": 5.28208
+    },
+    {
+        "name": "Дерьмо",
+        "latitude": 60.36977,
+        "longitude": 6.14344
+    },
+    {
+        "name": "Женский Герад",
+        "latitude": 59.98421,
+        "longitude": 6.01227
+    },
+    {
+        "name": "Лэрдаль",
+        "latitude": 61.09842,
+        "longitude": 7.48101
+    },
+    {
+        "name": "Лэрдалсойри",
+        "latitude": 61.10001,
+        "longitude": 7.47374
+    },
+    {
+        "name": "Лейкангер",
+        "latitude": 61.18556,
+        "longitude": 6.82199
+    },
+    {
+        "name": "Лейрвик",
+        "latitude": 59.77977,
+        "longitude": 5.50051
+    },
+    {
+        "name": "Линдос",
+        "latitude": 60.5491,
+        "longitude": 5.28559
+    },
+    {
+        "name": "Лоневог",
+        "latitude": 60.52556,
+        "longitude": 5.49563
+    },
+    {
+        "name": "Блеск",
+        "latitude": 61.4031,
+        "longitude": 7.29793
+    },
+    {
+        "name": "Молой",
+        "latitude": 61.93535,
+        "longitude": 5.11362
+    },
+    {
+        "name": "Ясли",
+        "latitude": 60.64145,
+        "longitude": 5.04136
+    },
+    {
+        "name": "Масфьорден",
+        "latitude": 60.79947,
+        "longitude": 5.30035
+    },
+    {
+        "name": "Меланд",
+        "latitude": 60.51777,
+        "longitude": 5.24063
+    },
+    {
+        "name": "Модальный",
+        "latitude": 60.81735,
+        "longitude": 5.8079
+    },
+    {
+        "name": "Мостерхамн",
+        "latitude": 59.69919,
+        "longitude": 5.38585
+    },
+    {
+        "name": "Наустдаль",
+        "latitude": 61.51034,
+        "longitude": 5.71719
+    },
+    {
+        "name": "Нордфьордейд",
+        "latitude": 61.9122,
+        "longitude": 5.98557
+    },
+    {
+        "name": "Норхеймсунд",
+        "latitude": 60.37089,
+        "longitude": 6.14562
+    },
+    {
+        "name": "Странный",
+        "latitude": 60.06697,
+        "longitude": 6.54541
+    },
+    {
+        "name": "Операционные системы",
+        "latitude": 60.18547,
+        "longitude": 5.46962
+    },
+    {
+        "name": "Остерёй",
+        "latitude": 60.52389,
+        "longitude": 5.50551
+    },
+    {
+        "name": "Островной сад",
+        "latitude": 60.59041,
+        "longitude": 4.8389
+    },
+    {
+        "name": "Островная диссертация",
+        "latitude": 60.38825,
+        "longitude": 6.19251
+    },
+    {
+        "name": "Радой",
+        "latitude": 60.64187,
+        "longitude": 5.0411
+    },
+    {
+        "name": "Розендаль",
+        "latitude": 59.98589,
+        "longitude": 6.01157
+    },
+    {
+        "name": "Руббестаднесет",
+        "latitude": 59.81559,
+        "longitude": 5.26822
+    },
+    {
+        "name": "Сагвог",
+        "latitude": 59.78139,
+        "longitude": 5.38996
+    },
+    {
+        "name": "Союзы",
+        "latitude": 60.37745,
+        "longitude": 5.76219
+    },
+    {
+        "name": "Пески",
+        "latitude": 61.77277,
+        "longitude": 6.21496
+    },
+    {
+        "name": "Санде",
+        "latitude": 61.32511,
+        "longitude": 5.79773
+    },
+    {
+        "name": "Песчаный рукав",
+        "latitude": 60.30323,
+        "longitude": 5.28554
+    },
+    {
+        "name": "Продавать",
+        "latitude": 62.04263,
+        "longitude": 5.34449
+    },
+    {
+        "name": "Лесная волна",
+        "latitude": 60.25512,
+        "longitude": 5.10161
+    },
+    {
+        "name": "Согндал",
+        "latitude": 61.23144,
+        "longitude": 7.10301
+    },
+    {
+        "name": "Солундн",
+        "latitude": 61.07394,
+        "longitude": 4.83876
+    },
+    {
+        "name": "Сторд",
+        "latitude": 59.78092,
+        "longitude": 5.4998
+    },
+    {
+        "name": "Не храни это",
+        "latitude": 60.09485,
+        "longitude": 5.22705
+    },
+    {
+        "name": "Транслировать",
+        "latitude": 60.36131,
+        "longitude": 5.12199
+    },
+    {
+        "name": "Стрин",
+        "latitude": 61.90406,
+        "longitude": 6.724
+    },
+    {
+        "name": "Здоровый",
+        "latitude": 60.27019,
+        "longitude": 5.07225
+    },
+    {
+        "name": "Свейо",
+        "latitude": 59.54303,
+        "longitude": 5.3541
+    },
+    {
+        "name": "Глотка",
+        "latitude": 61.76976,
+        "longitude": 5.29544
+    },
+    {
+        "name": "Зюфтеланд",
+        "latitude": 60.23803,
+        "longitude": 5.45285
+    },
+    {
+        "name": "Замолчи",
+        "latitude": 60.04076,
+        "longitude": 5.53129
+    },
+    {
+        "name": "Улленсванг",
+        "latitude": 60.37501,
+        "longitude": 6.72073
+    },
+    {
+        "name": "Ульвик",
+        "latitude": 60.56719,
+        "longitude": 6.91871
+    },
+    {
+        "name": "Вогсёй",
+        "latitude": 61.93544,
+        "longitude": 5.11402
+    },
+    {
+        "name": "Ваксдал",
+        "latitude": 60.5903,
+        "longitude": 5.82272
+    },
+    {
+        "name": "Вик",
+        "latitude": 61.08863,
+        "longitude": 6.58512
+    },
+    {
+        "name": "Восс",
+        "latitude": 60.6278,
+        "longitude": 6.41831
+    },
+    {
+        "name": "Внешняя Арна",
+        "latitude": 60.46175,
+        "longitude": 5.43265
+    },
+    {
+        "name": "Отдаленная деревня",
+        "latitude": 60.30504,
+        "longitude": 5.28236
+    },
+    {
+        "name": "Угорь",
+        "latitude": 60.63028,
+        "longitude": 8.56115
+    },
+    {
+        "name": "Онеби",
+        "latitude": 60.08926,
+        "longitude": 10.86998
+    },
+    {
+        "name": "Аремарк",
+        "latitude": 59.22198,
+        "longitude": 11.69582
+    },
+    {
+        "name": "Орнес",
+        "latitude": 60.12237,
+        "longitude": 11.47005
+    },
+    {
+        "name": "Арос",
+        "latitude": 59.7061,
+        "longitude": 10.51092
+    },
+    {
+        "name": "Холм",
+        "latitude": 59.66366,
+        "longitude": 10.79101
+    },
+    {
+        "name": "Просить",
+        "latitude": 60.07131,
+        "longitude": 11.0362
+    },
+    {
+        "name": "Аскер",
+        "latitude": 59.83734,
+        "longitude": 10.43595
+    },
+    {
+        "name": "Аским",
+        "latitude": 59.58464,
+        "longitude": 11.16084
+    },
+    {
+        "name": "Аула",
+        "latitude": 60.0345,
+        "longitude": 11.36046
+    },
+    {
+        "name": "Аурског-Хёланд",
+        "latitude": 59.88321,
+        "longitude": 11.56491
+    },
+    {
+        "name": "Аурсмоен",
+        "latitude": 59.92763,
+        "longitude": 11.44275
+    },
+    {
+        "name": "Бэрум",
+        "latitude": 59.88996,
+        "longitude": 10.52649
+    },
+    {
+        "name": "Биллингстад",
+        "latitude": 59.87548,
+        "longitude": 10.4823
+    },
+    {
+        "name": "Березовая змея",
+        "latitude": 59.88357,
+        "longitude": 11.56396
+    },
+    {
+        "name": "Блэкстад",
+        "latitude": 59.8191,
+        "longitude": 10.4645
+    },
+    {
+        "name": "Драммен",
+        "latitude": 59.74389,
+        "longitude": 10.20449
+    },
+    {
+        "name": "Дриобак",
+        "latitude": 59.66333,
+        "longitude": 10.62975
+    },
+    {
+        "name": "Эйдсберг",
+        "latitude": 59.55148,
+        "longitude": 11.33587
+    },
+    {
+        "name": "Эйдсволл",
+        "latitude": 60.32893,
+        "longitude": 11.26119
+    },
+    {
+        "name": "Односкатный",
+        "latitude": 59.76452,
+        "longitude": 11.14492
+    },
+    {
+        "name": "Фагерстранд",
+        "latitude": 59.73746,
+        "longitude": 10.59404
+    },
+    {
+        "name": "Фет",
+        "latitude": 59.92216,
+        "longitude": 11.16778
+    },
+    {
+        "name": "Фетсунд",
+        "latitude": 59.92463,
+        "longitude": 11.15711
+    },
+    {
+        "name": "Подножие горы",
+        "latitude": 60.08967,
+        "longitude": 11.47222
+    },
+    {
+        "name": "Кожа",
+        "latitude": 60.4291,
+        "longitude": 9.46611
+    },
+    {
+        "name": "Флэтби",
+        "latitude": 59.82951,
+        "longitude": 11.15345
+    },
+    {
+        "name": "Флесберг",
+        "latitude": 59.83283,
+        "longitude": 9.58308
+    },
+    {
+        "name": "Фоссби",
+        "latitude": 59.22218,
+        "longitude": 11.69928
+    },
+    {
+        "name": "Фредрикстад",
+        "latitude": 59.21759,
+        "longitude": 10.93787
+    },
+    {
+        "name": "Лягушка",
+        "latitude": 59.66665,
+        "longitude": 10.63566
+    },
+    {
+        "name": "Лягушки",
+        "latitude": 60.02463,
+        "longitude": 11.10284
+    },
+    {
+        "name": "Прохладный",
+        "latitude": 60.53369,
+        "longitude": 8.20539
+    },
+    {
+        "name": "Заборная комната",
+        "latitude": 60.07159,
+        "longitude": 11.03597
+    },
+    {
+        "name": "Гол",
+        "latitude": 60.69953,
+        "longitude": 8.95024
+    },
+    {
+        "name": "Холден",
+        "latitude": 59.12258,
+        "longitude": 11.38709
+    },
+    {
+        "name": "Хемседал",
+        "latitude": 60.86114,
+        "longitude": 8.56537
+    },
+    {
+        "name": "Ховер пиво",
+        "latitude": 59.62252,
+        "longitude": 10.94979
+    },
+    {
+        "name": "Хол",
+        "latitude": 60.61528,
+        "longitude": 8.30194
+    },
+    {
+        "name": "Дыра",
+        "latitude": 60.08017,
+        "longitude": 10.2784
+    },
+    {
+        "name": "Хёнефосс",
+        "latitude": 60.16804,
+        "longitude": 10.25647
+    },
+    {
+        "name": "Гюрдал",
+        "latitude": 60.43518,
+        "longitude": 11.06707
+    },
+    {
+        "name": "Почему?",
+        "latitude": 59.61401,
+        "longitude": 10.45763
+    },
+    {
+        "name": "Киты",
+        "latitude": 59.02809,
+        "longitude": 11.0311
+    },
+    {
+        "name": "Хвиттингфосс",
+        "latitude": 59.48572,
+        "longitude": 10.01173
+    },
+    {
+        "name": "Йессхайм",
+        "latitude": 60.14151,
+        "longitude": 11.17515
+    },
+    {
+        "name": "Чарльз дом",
+        "latitude": 59.35195,
+        "longitude": 10.87226
+    },
+    {
+        "name": "Разрыв",
+        "latitude": 60.07407,
+        "longitude": 11.13805
+    },
+    {
+        "name": "Кнаппстад",
+        "latitude": 59.62424,
+        "longitude": 11.03274
+    },
+    {
+        "name": "Конгсберг",
+        "latitude": 59.66516,
+        "longitude": 9.64653
+    },
+    {
+        "name": "Криодшерад",
+        "latitude": 60.17944,
+        "longitude": 9.62124
+    },
+    {
+        "name": "Ларколлен",
+        "latitude": 59.33196,
+        "longitude": 10.66687
+    },
+    {
+        "name": "Лейрсунд",
+        "latitude": 59.99682,
+        "longitude": 11.08746
+    },
+    {
+        "name": "Лервик",
+        "latitude": 59.27119,
+        "longitude": 10.7461
+    },
+    {
+        "name": "лжец",
+        "latitude": 59.78663,
+        "longitude": 10.2459
+    },
+    {
+        "name": "Лиллестрем",
+        "latitude": 59.95597,
+        "longitude": 11.04918
+    },
+    {
+        "name": "Лоренског",
+        "latitude": 59.93209,
+        "longitude": 10.96079
+    },
+    {
+        "name": "Освещение предметов",
+        "latitude": 59.90994,
+        "longitude": 10.63545
+    },
+    {
+        "name": "Маркер",
+        "latitude": 59.47952,
+        "longitude": 11.65917
+    },
+    {
+        "name": "Маура",
+        "latitude": 60.2583,
+        "longitude": 11.03192
+    },
+    {
+        "name": "Путь",
+        "latitude": 59.97346,
+        "longitude": 10.00468
+    },
+    {
+        "name": "Мох",
+        "latitude": 59.43436,
+        "longitude": 10.65968
+    },
+    {
+        "name": "сыворотка",
+        "latitude": 59.55354,
+        "longitude": 11.32578
+    },
+    {
+        "name": "Наннестад",
+        "latitude": 60.21707,
+        "longitude": 11.012
+    },
+    {
+        "name": "Нижние Оукс",
+        "latitude": 59.75023,
+        "longitude": 10.00736
+    },
+    {
+        "name": "Нес",
+        "latitude": 60.12252,
+        "longitude": 11.4657
+    },
+    {
+        "name": "Нес",
+        "latitude": 60.56804,
+        "longitude": 9.10169
+    },
+    {
+        "name": "Несбьен",
+        "latitude": 60.56809,
+        "longitude": 9.10274
+    },
+    {
+        "name": "Neskollen",
+        "latitude": 60.12159,
+        "longitude": 11.33926
+    },
+    {
+        "name": "Кончик носа",
+        "latitude": 59.8422,
+        "longitude": 10.6494
+    },
+    {
+        "name": "Плоскогубцы для носа",
+        "latitude": 59.86244,
+        "longitude": 10.66308
+    },
+    {
+        "name": "Ниттедал",
+        "latitude": 60.04278,
+        "longitude": 10.88167
+    },
+    {
+        "name": "Норе и Увдал",
+        "latitude": 60.26706,
+        "longitude": 8.94635
+    },
+    {
+        "name": "Норесунн",
+        "latitude": 60.17985,
+        "longitude": 9.62411
+    },
+    {
+        "name": "Оппегорд",
+        "latitude": 59.81149,
+        "longitude": 10.79712
+    },
+    {
+        "name": "Орье",
+        "latitude": 59.48023,
+        "longitude": 11.66016
+    },
+    {
+        "name": "Верхний Дуб",
+        "latitude": 59.77111,
+        "longitude": 9.9084
+    },
+    {
+        "name": "Престфосс",
+        "latitude": 60.04343,
+        "longitude": 9.6352
+    },
+    {
+        "name": "Советовать",
+        "latitude": 59.35162,
+        "longitude": 10.87135
+    },
+    {
+        "name": "Сырая древесина",
+        "latitude": 60.27513,
+        "longitude": 11.17901
+    },
+    {
+        "name": "Раккестад",
+        "latitude": 59.42822,
+        "longitude": 11.3435
+    },
+    {
+        "name": "Перила",
+        "latitude": 59.92626,
+        "longitude": 11.06527
+    },
+    {
+        "name": "Кольцо королевства",
+        "latitude": 60.16018,
+        "longitude": 10.2566
+    },
+    {
+        "name": "Ролевая команда",
+        "latitude": 59.98413,
+        "longitude": 9.29489
+    },
+    {
+        "name": "Сгнивший",
+        "latitude": 60.05707,
+        "longitude": 10.86135
+    },
+    {
+        "name": "Ремский",
+        "latitude": 59.74968,
+        "longitude": 11.81122
+    },
+    {
+        "name": "Дым",
+        "latitude": 59.74019,
+        "longitude": 10.41321
+    },
+    {
+        "name": "Назад",
+        "latitude": 59.40629,
+        "longitude": 10.69298
+    },
+    {
+        "name": "Ридж-Таун",
+        "latitude": 59.375,
+        "longitude": 10.75
+    },
+    {
+        "name": "Сарпсборг",
+        "latitude": 59.28148,
+        "longitude": 11.11167
+    },
+    {
+        "name": "Слаще",
+        "latitude": 59.68129,
+        "longitude": 10.52749
+    },
+    {
+        "name": "Сигдал",
+        "latitude": 60.04592,
+        "longitude": 9.63673
+    },
+    {
+        "name": "Скедсмо",
+        "latitude": 59.95448,
+        "longitude": 11.03952
+    },
+    {
+        "name": "Лыжи",
+        "latitude": 59.72049,
+        "longitude": 10.83882
+    },
+    {
+        "name": "Измененный",
+        "latitude": 59.47751,
+        "longitude": 11.16171
+    },
+    {
+        "name": "Ширленд",
+        "latitude": 59.02526,
+        "longitude": 11.03685
+    },
+    {
+        "name": "Скьеберг",
+        "latitude": 59.21148,
+        "longitude": 11.19025
+    },
+    {
+        "name": "Леса",
+        "latitude": 59.71327,
+        "longitude": 10.25356
+    },
+    {
+        "name": "трясти",
+        "latitude": 59.92746,
+        "longitude": 10.4475
+    },
+    {
+        "name": "Южная комната",
+        "latitude": 59.98709,
+        "longitude": 11.24019
+    },
+    {
+        "name": "Сеорумсанд",
+        "latitude": 59.98621,
+        "longitude": 11.24154
+    },
+    {
+        "name": "Спайдерберг",
+        "latitude": 59.62028,
+        "longitude": 11.08069
+    },
+    {
+        "name": "Тофте",
+        "latitude": 59.54275,
+        "longitude": 10.56138
+    },
+    {
+        "name": "Участки",
+        "latitude": 59.6591,
+        "longitude": 10.99487
+    },
+    {
+        "name": "Транби",
+        "latitude": 59.8085,
+        "longitude": 10.26114
+    },
+    {
+        "name": "Трёгстад",
+        "latitude": 59.64016,
+        "longitude": 11.3189
+    },
+    {
+        "name": "Шерсть имеет значение",
+        "latitude": 60.14401,
+        "longitude": 11.17441
+    },
+    {
+        "name": "Воды",
+        "latitude": 59.4887,
+        "longitude": 10.86551
+    },
+    {
+        "name": "Вестби",
+        "latitude": 59.60228,
+        "longitude": 10.74807
+    },
+    {
+        "name": "Викерсунд",
+        "latitude": 59.96838,
+        "longitude": 9.99107
+    }
+]

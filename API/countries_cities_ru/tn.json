@@ -1,0 +1,827 @@
+[
+    {
+        "name": "Ариана",
+        "latitude": 36.86012,
+        "longitude": 10.19337
+    },
+    {
+        "name": "Эттадхамен-Мнихла",
+        "latitude": 36.8625,
+        "longitude": 10.1703
+    },
+    {
+        "name": "Калаат эль-Андалус",
+        "latitude": 36.8811,
+        "longitude": 10.2622
+    },
+    {
+        "name": "Ла Сукра",
+        "latitude": 36.8535,
+        "longitude": 10.2525
+    },
+    {
+        "name": "Мнихла",
+        "latitude": 36.8369,
+        "longitude": 10.2002
+    },
+    {
+        "name": "Рауед",
+        "latitude": 36.885,
+        "longitude": 10.2465
+    },
+    {
+        "name": "Сиди Табет",
+        "latitude": 36.8399,
+        "longitude": 10.0403
+    },
+    {
+        "name": "Амдун",
+        "latitude": 36.7442,
+        "longitude": 9.0513
+    },
+    {
+        "name": "судно",
+        "latitude": 36.72564,
+        "longitude": 9.18169
+    },
+    {
+        "name": "Губеллат",
+        "latitude": 36.5956,
+        "longitude": 9.2078
+    },
+    {
+        "name": "Меджез-эль-Баб",
+        "latitude": 36.7064,
+        "longitude": 9.6106
+    },
+    {
+        "name": "Нефза",
+        "latitude": 36.6049,
+        "longitude": 8.9702
+    },
+    {
+        "name": "Увольнять",
+        "latitude": 36.45692,
+        "longitude": 9.24751
+    },
+    {
+        "name": "Тебурсук",
+        "latitude": 36.7104,
+        "longitude": 9.0008
+    },
+    {
+        "name": "Тесттур",
+        "latitude": 36.5014,
+        "longitude": 9.6664
+    },
+    {
+        "name": "Тибар",
+        "latitude": 36.4656,
+        "longitude": 9.0622
+    },
+    {
+        "name": "Бен Арус",
+        "latitude": 36.7531,
+        "longitude": 10.2294
+    },
+    {
+        "name": "Хаммам Live",
+        "latitude": 36.7203,
+        "longitude": 10.3261
+    },
+    {
+        "name": "Морнаг",
+        "latitude": 36.6616,
+        "longitude": 10.1463
+    },
+    {
+        "name": "Морнагия",
+        "latitude": 36.7214,
+        "longitude": 10.0494
+    },
+    {
+        "name": "Радес",
+        "latitude": 36.76946,
+        "longitude": 10.27468
+    },
+    {
+        "name": "Аль Мэтлин",
+        "latitude": 37.24516,
+        "longitude": 10.05
+    },
+    {
+        "name": "Бизерта",
+        "latitude": 37.27442,
+        "longitude": 9.87391
+    },
+    {
+        "name": "Бизерта Южная",
+        "latitude": 37.25528,
+        "longitude": 9.67915
+    },
+    {
+        "name": "Дуар Тинья",
+        "latitude": 37.16667,
+        "longitude": 9.75
+    },
+    {
+        "name": "Алия",
+        "latitude": 37.16911,
+        "longitude": 10.03478
+    },
+    {
+        "name": "Любитель",
+        "latitude": 37.04045,
+        "longitude": 9.66557
+    },
+    {
+        "name": "Мензель Абдерхаман",
+        "latitude": 37.23737,
+        "longitude": 9.86313
+    },
+    {
+        "name": "Мензель Бургиба",
+        "latitude": 37.15368,
+        "longitude": 9.78594
+    },
+    {
+        "name": "Мензель Джемиль",
+        "latitude": 37.23618,
+        "longitude": 9.91448
+    },
+    {
+        "name": "Рафраф",
+        "latitude": 37.19043,
+        "longitude": 10.18365
+    },
+    {
+        "name": "Есть деньги",
+        "latitude": 37.16939,
+        "longitude": 10.19064
+    },
+    {
+        "name": "Сеженане",
+        "latitude": 37.05722,
+        "longitude": 9.23806
+    },
+    {
+        "name": "Захана",
+        "latitude": 37.03959,
+        "longitude": 10.03876
+    },
+    {
+        "name": "Бу Аттуш",
+        "latitude": 33.89927,
+        "longitude": 9.78496
+    },
+    {
+        "name": "Эль-Хамма",
+        "latitude": 33.89152,
+        "longitude": 9.79629
+    },
+    {
+        "name": "Габес",
+        "latitude": 33.88146,
+        "longitude": 10.0982
+    },
+    {
+        "name": "Матмата",
+        "latitude": 33.54445,
+        "longitude": 9.97157
+    },
+    {
+        "name": "Ар Рудайиф",
+        "latitude": 34.3827,
+        "longitude": 8.15549
+    },
+    {
+        "name": "Ас Санад",
+        "latitude": 34.4628,
+        "longitude": 9.26404
+    },
+    {
+        "name": "Гафса",
+        "latitude": 34.425,
+        "longitude": 8.78417
+    },
+    {
+        "name": "Метлауи",
+        "latitude": 34.32081,
+        "longitude": 8.40157
+    },
+    {
+        "name": "Мутамадият и Рудайиф",
+        "latitude": 34.40081,
+        "longitude": 8.17057
+    },
+    {
+        "name": "Фернана",
+        "latitude": 36.65547,
+        "longitude": 8.69602
+    },
+    {
+        "name": "Джендуба",
+        "latitude": 36.48519,
+        "longitude": 8.82325
+    },
+    {
+        "name": "Уэд Мелис",
+        "latitude": 36.46813,
+        "longitude": 8.54951
+    },
+    {
+        "name": "Сила",
+        "latitude": 36.95442,
+        "longitude": 8.75801
+    },
+    {
+        "name": "Хаффуз",
+        "latitude": 35.63235,
+        "longitude": 9.67624
+    },
+    {
+        "name": "Кайруан",
+        "latitude": 35.6781,
+        "longitude": 10.09633
+    },
+    {
+        "name": "Сбиха",
+        "latitude": 35.93325,
+        "longitude": 10.02081
+    },
+    {
+        "name": "Кассерин",
+        "latitude": 35.16758,
+        "longitude": 8.83651
+    },
+    {
+        "name": "Рохия",
+        "latitude": 35.65129,
+        "longitude": 9.05306
+    },
+    {
+        "name": "Сбиба",
+        "latitude": 35.54332,
+        "longitude": 9.0737
+    },
+    {
+        "name": "Тала",
+        "latitude": 35.57244,
+        "longitude": 8.67031
+    },
+    {
+        "name": "Двенадцать",
+        "latitude": 33.46632,
+        "longitude": 9.0203
+    },
+    {
+        "name": "Эль-Гола",
+        "latitude": 33.48485,
+        "longitude": 9.00678
+    },
+    {
+        "name": "Йемен",
+        "latitude": 33.57778,
+        "longitude": 9.01472
+    },
+    {
+        "name": "Кебили",
+        "latitude": 33.70439,
+        "longitude": 8.96903
+    },
+    {
+        "name": "Ас Сарс",
+        "latitude": 36.0764,
+        "longitude": 9.02117
+    },
+    {
+        "name": "Эль Кеф",
+        "latitude": 36.17424,
+        "longitude": 8.70486
+    },
+    {
+        "name": "Эль-Ксур",
+        "latitude": 35.89607,
+        "longitude": 8.88493
+    },
+    {
+        "name": "Мензель Салем",
+        "latitude": 35.85673,
+        "longitude": 8.47654
+    },
+    {
+        "name": "Ниббар",
+        "latitude": 36.29411,
+        "longitude": 8.76657
+    },
+    {
+        "name": "Сакиет Сиди Юсеф",
+        "latitude": 36.22292,
+        "longitude": 8.35547
+    },
+    {
+        "name": "Тажеруин",
+        "latitude": 35.89174,
+        "longitude": 8.55276
+    },
+    {
+        "name": "Шебба",
+        "latitude": 35.23722,
+        "longitude": 11.115
+    },
+    {
+        "name": "Чорбане",
+        "latitude": 35.28581,
+        "longitude": 10.3858
+    },
+    {
+        "name": "Эль Джем",
+        "latitude": 35.3,
+        "longitude": 10.71667
+    },
+    {
+        "name": "Ксур Эссаф",
+        "latitude": 35.41808,
+        "longitude": 10.99475
+    },
+    {
+        "name": "Махди",
+        "latitude": 35.50472,
+        "longitude": 11.06222
+    },
+    {
+        "name": "Меллулеш",
+        "latitude": 35.16617,
+        "longitude": 11.03504
+    },
+    {
+        "name": "Салакта",
+        "latitude": 35.39444,
+        "longitude": 11.04361
+    },
+    {
+        "name": "Сиди Алуан",
+        "latitude": 35.37505,
+        "longitude": 10.93899
+    },
+    {
+        "name": "Зуила",
+        "latitude": 35.50056,
+        "longitude": 11.06056
+    },
+    {
+        "name": "Эль Баттан",
+        "latitude": 36.80368,
+        "longitude": 9.84424
+    },
+    {
+        "name": "Мануба",
+        "latitude": 36.81006,
+        "longitude": 10.09557
+    },
+    {
+        "name": "Мутамадият Мануба",
+        "latitude": 36.80907,
+        "longitude": 10.09467
+    },
+    {
+        "name": "Уэд Лилль",
+        "latitude": 36.83408,
+        "longitude": 10.04057
+    },
+    {
+        "name": "Бен Гардан",
+        "latitude": 33.13783,
+        "longitude": 11.21965
+    },
+    {
+        "name": "Бени Хеддаш",
+        "latitude": 33.25279,
+        "longitude": 10.19883
+    },
+    {
+        "name": "Эрри",
+        "latitude": 33.82063,
+        "longitude": 10.85394
+    },
+    {
+        "name": "Главная Эль Сук",
+        "latitude": 33.87576,
+        "longitude": 10.85745
+    },
+    {
+        "name": "Джерба ​​Мидун",
+        "latitude": 33.77918,
+        "longitude": 10.95215
+    },
+    {
+        "name": "Латунь",
+        "latitude": 33.35495,
+        "longitude": 10.50548
+    },
+    {
+        "name": "Мидун",
+        "latitude": 33.80813,
+        "longitude": 10.99228
+    },
+    {
+        "name": "Зарзис",
+        "latitude": 33.50398,
+        "longitude": 11.11215
+    },
+    {
+        "name": "Банбала",
+        "latitude": 35.7,
+        "longitude": 10.8
+    },
+    {
+        "name": "Бекалта",
+        "latitude": 35.61739,
+        "longitude": 10.99466
+    },
+    {
+        "name": "Бени Хасане",
+        "latitude": 35.5672,
+        "longitude": 10.80869
+    },
+    {
+        "name": "Джеммаль",
+        "latitude": 35.62231,
+        "longitude": 10.75696
+    },
+    {
+        "name": "Ксар Хеллал",
+        "latitude": 35.64773,
+        "longitude": 10.89046
+    },
+    {
+        "name": "Получите Медиуни",
+        "latitude": 35.68561,
+        "longitude": 10.84256
+    },
+    {
+        "name": "Судьба",
+        "latitude": 35.66667,
+        "longitude": 10.88333
+    },
+    {
+        "name": "Мензель Камель",
+        "latitude": 35.62477,
+        "longitude": 10.66727
+    },
+    {
+        "name": "Медур",
+        "latitude": 35.68206,
+        "longitude": 10.72746
+    },
+    {
+        "name": "Монастир",
+        "latitude": 35.77799,
+        "longitude": 10.82617
+    },
+    {
+        "name": "Уарденин",
+        "latitude": 35.70915,
+        "longitude": 10.67397
+    },
+    {
+        "name": "Салине",
+        "latitude": 35.75166,
+        "longitude": 10.71109
+    },
+    {
+        "name": "Сейада",
+        "latitude": 35.66887,
+        "longitude": 10.89246
+    },
+    {
+        "name": "Сиди Бен Нур",
+        "latitude": 35.53333,
+        "longitude": 10.91667
+    },
+    {
+        "name": "Сканес",
+        "latitude": 35.78333,
+        "longitude": 10.8
+    },
+    {
+        "name": "Туза",
+        "latitude": 35.63544,
+        "longitude": 10.82732
+    },
+    {
+        "name": "Азмур",
+        "latitude": 36.9244,
+        "longitude": 11.0069
+    },
+    {
+        "name": "Бени Халед",
+        "latitude": 36.65038,
+        "longitude": 10.59004
+    },
+    {
+        "name": "Бени Хиар",
+        "latitude": 36.46666667,
+        "longitude": 10.78333333
+    },
+    {
+        "name": "Бу-Аргуб",
+        "latitude": 36.53853,
+        "longitude": 10.55093
+    },
+    {
+        "name": "Дар Шаабан",
+        "latitude": 36.47,
+        "longitude": 10.75
+    },
+    {
+        "name": "Эль-Хауария",
+        "latitude": 37.05,
+        "longitude": 11.01111111
+    },
+    {
+        "name": "Маамура",
+        "latitude": 36.46666667,
+        "longitude": 10.8
+    },
+    {
+        "name": "Мера",
+        "latitude": 36.73333333,
+        "longitude": 10.85
+    },
+    {
+        "name": "Мрезга",
+        "latitude": 36.42163,
+        "longitude": 10.66411
+    },
+    {
+        "name": "Громбалия",
+        "latitude": 36.61,
+        "longitude": 10.5
+    },
+    {
+        "name": "Хаммамет",
+        "latitude": 36.41666667,
+        "longitude": 10.6
+    },
+    {
+        "name": "Келибия",
+        "latitude": 36.8475,
+        "longitude": 11.09388889
+    },
+    {
+        "name": "Возраст",
+        "latitude": 36.56666667,
+        "longitude": 10.86666667
+    },
+    {
+        "name": "Корбоус",
+        "latitude": 36.81638889,
+        "longitude": 10.56861111
+    },
+    {
+        "name": "Мензель Бузельфа",
+        "latitude": 36.6817,
+        "longitude": 10.5847
+    },
+    {
+        "name": "Мензель Хорр",
+        "latitude": 36.73333333,
+        "longitude": 10.95
+    },
+    {
+        "name": "Мензель Темиме",
+        "latitude": 36.78333333,
+        "longitude": 10.98333333
+    },
+    {
+        "name": "Набель",
+        "latitude": 36.451389,
+        "longitude": 10.736111
+    },
+    {
+        "name": "Солиман",
+        "latitude": 36.695126,
+        "longitude": 10.491257
+    },
+    {
+        "name": "Такелса",
+        "latitude": 36.79,
+        "longitude": 10.63
+    },
+    {
+        "name": "Тазерка",
+        "latitude": 36.55,
+        "longitude": 10.8
+    },
+    {
+        "name": "Больше информации",
+        "latitude": 36.65,
+        "longitude": 10.6
+    },
+    {
+        "name": "Зриба",
+        "latitude": 36.35585,
+        "longitude": 10.206034
+    },
+    {
+        "name": "Агареб",
+        "latitude": 34.74406,
+        "longitude": 10.4611
+    },
+    {
+        "name": "Один Али Бен Халифа",
+        "latitude": 34.73592,
+        "longitude": 10.0924
+    },
+    {
+        "name": "Джебенян",
+        "latitude": 35.035,
+        "longitude": 10.90809
+    },
+    {
+        "name": "Расстроенный",
+        "latitude": 34.75,
+        "longitude": 10.78333
+    },
+    {
+        "name": "Сфакс",
+        "latitude": 34.74056,
+        "longitude": 10.76028
+    },
+    {
+        "name": "Схира",
+        "latitude": 34.2992,
+        "longitude": 10.06999
+    },
+    {
+        "name": "Бир-эль-Хафей",
+        "latitude": 34.93212,
+        "longitude": 9.19321
+    },
+    {
+        "name": "Регеб",
+        "latitude": 34.85932,
+        "longitude": 9.78654
+    },
+    {
+        "name": "Вода",
+        "latitude": 35.27311,
+        "longitude": 9.42385
+    },
+    {
+        "name": "Меццуна",
+        "latitude": 34.57758,
+        "longitude": 9.84193
+    },
+    {
+        "name": "Сиди Бузид",
+        "latitude": 35.03823,
+        "longitude": 9.48494
+    },
+    {
+        "name": "Бу Арада",
+        "latitude": 36.35251,
+        "longitude": 9.62175
+    },
+    {
+        "name": "Гафур",
+        "latitude": 36.32045,
+        "longitude": 9.32424
+    },
+    {
+        "name": "Благосостояние",
+        "latitude": 35.81363,
+        "longitude": 9.36434
+    },
+    {
+        "name": "Криб",
+        "latitude": 36.32802,
+        "longitude": 9.13613
+    },
+    {
+        "name": "Власть",
+        "latitude": 35.85798,
+        "longitude": 9.20072
+    },
+    {
+        "name": "Силиана",
+        "latitude": 36.08497,
+        "longitude": 9.37082
+    },
+    {
+        "name": "Акуда",
+        "latitude": 35.8691,
+        "longitude": 10.5653
+    },
+    {
+        "name": "Хаммам Сус",
+        "latitude": 35.8609,
+        "longitude": 10.60313
+    },
+    {
+        "name": "В любом случае",
+        "latitude": 36.03027,
+        "longitude": 10.50904
+    },
+    {
+        "name": "Мсакен",
+        "latitude": 35.72917,
+        "longitude": 10.58082
+    },
+    {
+        "name": "Порт Эль-Кантауи",
+        "latitude": 35.89239,
+        "longitude": 10.59434
+    },
+    {
+        "name": "Сиди Бу Али",
+        "latitude": 35.95667,
+        "longitude": 10.47306
+    },
+    {
+        "name": "Сиди эль-Хани",
+        "latitude": 35.67139,
+        "longitude": 10.31583
+    },
+    {
+        "name": "Сус",
+        "latitude": 35.82539,
+        "longitude": 10.63699
+    },
+    {
+        "name": "Гребля",
+        "latitude": 32.31662,
+        "longitude": 10.39551
+    },
+    {
+        "name": "Татауин",
+        "latitude": 32.92967,
+        "longitude": 10.45177
+    },
+    {
+        "name": "Проверьте это",
+        "latitude": 34.31909,
+        "longitude": 7.93519
+    },
+    {
+        "name": "Дегаш",
+        "latitude": 33.97606,
+        "longitude": 8.2081
+    },
+    {
+        "name": "Масло",
+        "latitude": 33.87309,
+        "longitude": 7.87765
+    },
+    {
+        "name": "Тамагза",
+        "latitude": 34.38849,
+        "longitude": 7.94313
+    },
+    {
+        "name": "Тозер",
+        "latitude": 33.91968,
+        "longitude": 8.13352
+    },
+    {
+        "name": "Аль Марса",
+        "latitude": 36.87818,
+        "longitude": 10.32466
+    },
+    {
+        "name": "Карфаген",
+        "latitude": 36.85961,
+        "longitude": 10.32978
+    },
+    {
+        "name": "Ла Гулетт",
+        "latitude": 36.81825,
+        "longitude": 10.3052
+    },
+    {
+        "name": "Мохаммедия",
+        "latitude": 36.67446,
+        "longitude": 10.15633
+    },
+    {
+        "name": "Сиди Бу Саид",
+        "latitude": 36.8687,
+        "longitude": 10.34174
+    },
+    {
+        "name": "Тунис",
+        "latitude": 36.81897,
+        "longitude": 10.16579
+    },
+    {
+        "name": "Фахи",
+        "latitude": 36.37419,
+        "longitude": 9.90651
+    },
+    {
+        "name": "Загуан",
+        "latitude": 36.40291,
+        "longitude": 10.14292
+    }
+]

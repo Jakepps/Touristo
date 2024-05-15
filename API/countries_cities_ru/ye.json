@@ -1,0 +1,1712 @@
+[
+    {
+        "name": "Аден",
+        "latitude": 12.77944,
+        "longitude": 45.03667
+    },
+    {
+        "name": "Аль-Бурайке",
+        "latitude": 12.80377,
+        "longitude": 44.77615
+    },
+    {
+        "name": "Аль Мансура",
+        "latitude": 12.8532,
+        "longitude": 44.9724
+    },
+    {
+        "name": "Аль Муалла",
+        "latitude": 12.65843,
+        "longitude": 43.42743
+    },
+    {
+        "name": "Эш Шейх Аутман",
+        "latitude": 12.8864,
+        "longitude": 45.0156
+    },
+    {
+        "name": "Аттавахи",
+        "latitude": 12.7741,
+        "longitude": 44.9941
+    },
+    {
+        "name": "Кратер",
+        "latitude": 12.7731,
+        "longitude": 45.0381
+    },
+    {
+        "name": "Дар Сад",
+        "latitude": 12.907,
+        "longitude": 44.9784
+    },
+    {
+        "name": "Амран",
+        "latitude": 15.6594,
+        "longitude": 43.94385
+    },
+    {
+        "name": "Аль-Ашах",
+        "latitude": 16.324,
+        "longitude": 43.7874
+    },
+    {
+        "name": "Аль-Мадан",
+        "latitude": 16.2328,
+        "longitude": 43.639
+    },
+    {
+        "name": "Аль-Кафла",
+        "latitude": 16.33859,
+        "longitude": 43.70361
+    },
+    {
+        "name": "Как распилить",
+        "latitude": 15.8134,
+        "longitude": 43.777
+    },
+    {
+        "name": "Как уже",
+        "latitude": 15.9664,
+        "longitude": 43.7756
+    },
+    {
+        "name": "Бани Сурайм",
+        "latitude": 16.1253,
+        "longitude": 43.9602
+    },
+    {
+        "name": "Ди Бин",
+        "latitude": 16.0276,
+        "longitude": 44.1515
+    },
+    {
+        "name": "Хабур Сулейма",
+        "latitude": 16.035,
+        "longitude": 43.7338
+    },
+    {
+        "name": "Харф Суфян",
+        "latitude": 16.41389,
+        "longitude": 43.98571
+    },
+    {
+        "name": "Хут",
+        "latitude": 16.28397,
+        "longitude": 43.97811
+    },
+    {
+        "name": "Иял Сурайх",
+        "latitude": 15.7146,
+        "longitude": 43.9974
+    },
+    {
+        "name": "Джабаль Иял Язид",
+        "latitude": 15.7717,
+        "longitude": 43.9051
+    },
+    {
+        "name": "Хамир",
+        "latitude": 15.97653,
+        "longitude": 43.93371
+    },
+    {
+        "name": "Хариф",
+        "latitude": 15.847,
+        "longitude": 44.0822
+    },
+    {
+        "name": "Масвар",
+        "latitude": 15.5986,
+        "longitude": 43.6925
+    },
+    {
+        "name": "Райда",
+        "latitude": 15.74056,
+        "longitude": 44.05634
+    },
+    {
+        "name": "Шахара",
+        "latitude": 16.18,
+        "longitude": 43.70942
+    },
+    {
+        "name": "Сувайр",
+        "latitude": 16.0611,
+        "longitude": 43.6212
+    },
+    {
+        "name": "Будь спокоен",
+        "latitude": 15.601,
+        "longitude": 43.8252
+    },
+    {
+        "name": "Ахвар",
+        "latitude": 13.6853,
+        "longitude": 46.7556
+    },
+    {
+        "name": "Аль-Махфад",
+        "latitude": 13.9705,
+        "longitude": 46.756
+    },
+    {
+        "name": "Аль-Вадеа",
+        "latitude": 13.7136,
+        "longitude": 46.0122
+    },
+    {
+        "name": "Джауф аль-Макбаба",
+        "latitude": 13.83783,
+        "longitude": 45.83488
+    },
+    {
+        "name": "Джейшан",
+        "latitude": 14.1662,
+        "longitude": 46.1723
+    },
+    {
+        "name": "Ханфир",
+        "latitude": 13.42049,
+        "longitude": 45.68707
+    },
+    {
+        "name": "Лавдар",
+        "latitude": 13.8059,
+        "longitude": 45.8008
+    },
+    {
+        "name": "Мудия",
+        "latitude": 13.9096,
+        "longitude": 46.2196
+    },
+    {
+        "name": "ощущение",
+        "latitude": 13.7231,
+        "longitude": 45.2814
+    },
+    {
+        "name": "Обертывания",
+        "latitude": 13.583,
+        "longitude": 45.3508
+    },
+    {
+        "name": "Сибах",
+        "latitude": 13.8091,
+        "longitude": 45.4023
+    },
+    {
+        "name": "Зингибар",
+        "latitude": 13.1342,
+        "longitude": 45.4304
+    },
+    {
+        "name": "Зинджибар",
+        "latitude": 13.12871,
+        "longitude": 45.38073
+    },
+    {
+        "name": "Аль Арш",
+        "latitude": 14.3656,
+        "longitude": 44.7778
+    },
+    {
+        "name": "Аль-Байда",
+        "latitude": 13.98523,
+        "longitude": 45.57272
+    },
+    {
+        "name": "Аль Байда Сити",
+        "latitude": 13.9849,
+        "longitude": 45.5566
+    },
+    {
+        "name": "Аль-Байда",
+        "latitude": 13.93666,
+        "longitude": 45.54822
+    },
+    {
+        "name": "Аль-Малагим",
+        "latitude": 14.3654,
+        "longitude": 45.3851
+    },
+    {
+        "name": "Аль-Курайшья",
+        "latitude": 14.605,
+        "longitude": 44.8896
+    },
+    {
+        "name": "Ар Рьяшья",
+        "latitude": 14.2424,
+        "longitude": 44.7754
+    },
+    {
+        "name": "Как Савадия",
+        "latitude": 14.45198,
+        "longitude": 45.36973
+    },
+    {
+        "name": "Как Савмаа",
+        "latitude": 14.1667,
+        "longitude": 45.8311
+    },
+    {
+        "name": "Достопочтенный Эш",
+        "latitude": 14.30697,
+        "longitude": 45.12634
+    },
+    {
+        "name": "В Таффе",
+        "latitude": 14.1983,
+        "longitude": 45.3581
+    },
+    {
+        "name": "Аз Захир",
+        "latitude": 13.9918,
+        "longitude": 45.4218
+    },
+    {
+        "name": "Дхи Наим",
+        "latitude": 14.1111,
+        "longitude": 45.4642
+    },
+    {
+        "name": "Масвара",
+        "latitude": 14.4027,
+        "longitude": 45.7033
+    },
+    {
+        "name": "Мукайрас",
+        "latitude": 14.032,
+        "longitude": 45.7964
+    },
+    {
+        "name": "Наман",
+        "latitude": 14.5939,
+        "longitude": 45.5286
+    },
+    {
+        "name": "Нати",
+        "latitude": 14.5539,
+        "longitude": 45.585
+    },
+    {
+        "name": "Создает",
+        "latitude": 14.34,
+        "longitude": 44.90874
+    },
+    {
+        "name": "Радман Аль Авад",
+        "latitude": 14.4836,
+        "longitude": 45.2744
+    },
+    {
+        "name": "Сабах",
+        "latitude": 14.2759,
+        "longitude": 44.67
+    },
+    {
+        "name": "Отец Раби",
+        "latitude": 14.55574,
+        "longitude": 44.90596
+    },
+    {
+        "name": "Ад Дахи",
+        "latitude": 15.2232,
+        "longitude": 43.1935
+    },
+    {
+        "name": "Ад Дурайхими",
+        "latitude": 14.6046,
+        "longitude": 43.0718
+    },
+    {
+        "name": "Аль Гаррахи",
+        "latitude": 14.1058,
+        "longitude": 43.4094
+    },
+    {
+        "name": "Аль-Хаджайла",
+        "latitude": 14.9907,
+        "longitude": 43.5823
+    },
+    {
+        "name": "Аль Хали",
+        "latitude": 14.825,
+        "longitude": 43.0014
+    },
+    {
+        "name": "Аль Хавак",
+        "latitude": 14.7601,
+        "longitude": 42.9978
+    },
+    {
+        "name": "Аль-Худайда",
+        "latitude": 14.79781,
+        "longitude": 42.95452
+    },
+    {
+        "name": "Аль-Мансурия",
+        "latitude": 14.6903,
+        "longitude": 43.3682
+    },
+    {
+        "name": "Аль-Маравиа",
+        "latitude": 14.8346,
+        "longitude": 43.1965
+    },
+    {
+        "name": "Аль Миглаф",
+        "latitude": 15.3111,
+        "longitude": 43.1836
+    },
+    {
+        "name": "Аль Мина",
+        "latitude": 14.80775,
+        "longitude": 42.93732
+    },
+    {
+        "name": "Аль Мунира",
+        "latitude": 15.3528,
+        "longitude": 42.9062
+    },
+    {
+        "name": "Аль-Канавис",
+        "latitude": 15.49206,
+        "longitude": 43.13782
+    },
+    {
+        "name": "Будьте здоровы",
+        "latitude": 15.63628,
+        "longitude": 42.87157
+    },
+    {
+        "name": "Как Салиф",
+        "latitude": 15.22882,
+        "longitude": 42.72542
+    },
+    {
+        "name": "Ас Сухна",
+        "latitude": 14.7484,
+        "longitude": 43.3342
+    },
+    {
+        "name": "И Тухаят",
+        "latitude": 14.10994,
+        "longitude": 43.15979
+    },
+    {
+        "name": "Зайдия",
+        "latitude": 15.29586,
+        "longitude": 43.06452
+    },
+    {
+        "name": "Венера",
+        "latitude": 15.7173,
+        "longitude": 43.0637
+    },
+    {
+        "name": "Испуганный",
+        "latitude": 15.07561,
+        "longitude": 43.1735
+    },
+    {
+        "name": "Байт аль-Факих",
+        "latitude": 14.48738,
+        "longitude": 43.27815
+    },
+    {
+        "name": "Здесь",
+        "latitude": 14.8982,
+        "longitude": 43.4753
+    },
+    {
+        "name": "Хейс",
+        "latitude": 13.9332,
+        "longitude": 43.4984
+    },
+    {
+        "name": "Джабаль Ра",
+        "latitude": 14.0309,
+        "longitude": 43.6278
+    },
+    {
+        "name": "Камера",
+        "latitude": 15.3605,
+        "longitude": 42.5854
+    },
+    {
+        "name": "Забид",
+        "latitude": 14.27742,
+        "longitude": 43.36841
+    },
+    {
+        "name": "Аль 'Инан",
+        "latitude": 16.72189,
+        "longitude": 44.31252
+    },
+    {
+        "name": "Аль Гейл",
+        "latitude": 16.0914,
+        "longitude": 44.6852
+    },
+    {
+        "name": "Аль Хазм",
+        "latitude": 16.0378,
+        "longitude": 44.9585
+    },
+    {
+        "name": "Аль Хумайдат",
+        "latitude": 16.4667,
+        "longitude": 44.4299
+    },
+    {
+        "name": "Аль-Хальк",
+        "latitude": 16.0681,
+        "longitude": 44.797
+    },
+    {
+        "name": "Аль Маслюб",
+        "latitude": 16.0961,
+        "longitude": 44.5667
+    },
+    {
+        "name": "Аль Матамма",
+        "latitude": 16.1984,
+        "longitude": 44.3902
+    },
+    {
+        "name": "Аль Матон",
+        "latitude": 16.2872,
+        "longitude": 44.6389
+    },
+    {
+        "name": "Аз Захир",
+        "latitude": 16.3308,
+        "longitude": 44.5244
+    },
+    {
+        "name": "Барц аль Анан",
+        "latitude": 16.91972,
+        "longitude": 44.51882
+    },
+    {
+        "name": "Хабб ва аш Шааф",
+        "latitude": 16.5975,
+        "longitude": 45.7853
+    },
+    {
+        "name": "Хараб Аль Мараши",
+        "latitude": 16.6107,
+        "longitude": 44.2255
+    },
+    {
+        "name": "Раджуза",
+        "latitude": 16.6342,
+        "longitude": 44.5042
+    },
+    {
+        "name": "Аль-Гайда",
+        "latitude": 16.2618,
+        "longitude": 52.0816
+    },
+    {
+        "name": "Аль-Гайза",
+        "latitude": 16.20787,
+        "longitude": 52.17605
+    },
+    {
+        "name": "Аль Масила",
+        "latitude": 15.6399,
+        "longitude": 50.6445
+    },
+    {
+        "name": "Шапка",
+        "latitude": 17.8031,
+        "longitude": 51.675
+    },
+    {
+        "name": "Хавф",
+        "latitude": 16.6953,
+        "longitude": 52.8182
+    },
+    {
+        "name": "Хусвейн",
+        "latitude": 15.723,
+        "longitude": 51.9124
+    },
+    {
+        "name": "Ман'ар",
+        "latitude": 16.5505,
+        "longitude": 50.9879
+    },
+    {
+        "name": "Зима",
+        "latitude": 15.6999,
+        "longitude": 51.324
+    },
+    {
+        "name": "Сайхут",
+        "latitude": 15.5345,
+        "longitude": 51.2869
+    },
+    {
+        "name": "Шахан",
+        "latitude": 17.5923,
+        "longitude": 52.594
+    },
+    {
+        "name": "Аль-Хабт",
+        "latitude": 15.4817,
+        "longitude": 43.3677
+    },
+    {
+        "name": "Аль-Махвайт",
+        "latitude": 15.4117,
+        "longitude": 43.5663
+    },
+    {
+        "name": "Аль-Махвит",
+        "latitude": 15.47007,
+        "longitude": 43.54481
+    },
+    {
+        "name": "Ар Руджум",
+        "latitude": 15.4101,
+        "longitude": 43.6606
+    },
+    {
+        "name": "В Савиле",
+        "latitude": 15.44165,
+        "longitude": 43.77484
+    },
+    {
+        "name": "Бани Саад",
+        "latitude": 15.2355,
+        "longitude": 43.5156
+    },
+    {
+        "name": "Хуфаш",
+        "latitude": 15.3747,
+        "longitude": 43.4265
+    },
+    {
+        "name": "Милхан",
+        "latitude": 15.3224,
+        "longitude": 43.3318
+    },
+    {
+        "name": "Шибам Кавкабан",
+        "latitude": 15.50277,
+        "longitude": 43.84237
+    },
+    {
+        "name": "'Анс",
+        "latitude": 14.43606,
+        "longitude": 44.38889
+    },
+    {
+        "name": "Аль Хада",
+        "latitude": 14.8076,
+        "longitude": 44.5679
+    },
+    {
+        "name": "Аль-Манар",
+        "latitude": 14.653,
+        "longitude": 44.1164
+    },
+    {
+        "name": "Деревня Аль-Меди",
+        "latitude": 14.40152,
+        "longitude": 43.79178
+    },
+    {
+        "name": "Повернуть приложение",
+        "latitude": 14.8288,
+        "longitude": 44.1143
+    },
+    {
+        "name": "Дхамар",
+        "latitude": 14.54274,
+        "longitude": 44.40514
+    },
+    {
+        "name": "Джабаль Аш Шарк",
+        "latitude": 14.7296,
+        "longitude": 43.9062
+    },
+    {
+        "name": "Джахран",
+        "latitude": 14.7331,
+        "longitude": 44.3143
+    },
+    {
+        "name": "Магириб Анс",
+        "latitude": 14.4653,
+        "longitude": 44.1233
+    },
+    {
+        "name": "Майфаат Ансс",
+        "latitude": 14.5152,
+        "longitude": 44.6106
+    },
+    {
+        "name": "Утма",
+        "latitude": 14.4738,
+        "longitude": 43.9483
+    },
+    {
+        "name": "Вусаб Аль Али",
+        "latitude": 14.3344,
+        "longitude": 43.7947
+    },
+    {
+        "name": "Вусаб Ас Сафил",
+        "latitude": 14.2548,
+        "longitude": 43.6325
+    },
+    {
+        "name": "Рекламный дисс",
+        "latitude": 15.0949,
+        "longitude": 50.0159
+    },
+    {
+        "name": "Вот что говорит Шаркия",
+        "latitude": 14.9084,
+        "longitude": 49.94847
+    },
+    {
+        "name": "Аз Злиаа",
+        "latitude": 15.0139,
+        "longitude": 47.8972
+    },
+    {
+        "name": "По состоянию на апрель",
+        "latitude": 15.9137,
+        "longitude": 47.2288
+    },
+    {
+        "name": "Аль-Хамди",
+        "latitude": 15.94727,
+        "longitude": 48.77965
+    },
+    {
+        "name": "Аль Мукалла",
+        "latitude": 14.7292,
+        "longitude": 48.9199
+    },
+    {
+        "name": "Аль Мукалла Сити",
+        "latitude": 14.62033,
+        "longitude": 49.248
+    },
+    {
+        "name": "Аль-Каф",
+        "latitude": 17.4287,
+        "longitude": 48.9405
+    },
+    {
+        "name": "Аль Катн",
+        "latitude": 15.9232,
+        "longitude": 48.2146
+    },
+    {
+        "name": "Амд",
+        "latitude": 15.3486,
+        "longitude": 47.9286
+    },
+    {
+        "name": "Ар Райда Ва Кусайар",
+        "latitude": 15.1841,
+        "longitude": 50.3133
+    },
+    {
+        "name": "пила",
+        "latitude": 15.998,
+        "longitude": 49.6686
+    },
+    {
+        "name": "Аш Шир",
+        "latitude": 14.9723,
+        "longitude": 49.5526
+    },
+    {
+        "name": "В Тахалуфе",
+        "latitude": 15.93786,
+        "longitude": 48.78641
+    },
+    {
+        "name": "Бром Майфа",
+        "latitude": 14.3423,
+        "longitude": 48.7281
+    },
+    {
+        "name": "Дауан",
+        "latitude": 15.0507,
+        "longitude": 48.3072
+    },
+    {
+        "name": "Гейл Ба Вазир",
+        "latitude": 14.8778,
+        "longitude": 49.0245
+    },
+    {
+        "name": "Гейл Бин Ямин",
+        "latitude": 15.3896,
+        "longitude": 49.2854
+    },
+    {
+        "name": "Хагр Ас Сайар",
+        "latitude": 16.3056,
+        "longitude": 47.9537
+    },
+    {
+        "name": "Хаджр",
+        "latitude": 14.4708,
+        "longitude": 48.2774
+    },
+    {
+        "name": "Хурайда",
+        "latitude": 15.55425,
+        "longitude": 48.17505
+    },
+    {
+        "name": "Килмия",
+        "latitude": 12.18576,
+        "longitude": 52.23332
+    },
+    {
+        "name": "Мукалла",
+        "latitude": 14.54248,
+        "longitude": 49.12424
+    },
+    {
+        "name": "Рахья",
+        "latitude": 15.4618,
+        "longitude": 47.7728
+    },
+    {
+        "name": "Дом",
+        "latitude": 17.8145,
+        "longitude": 51.0759
+    },
+    {
+        "name": "Сах",
+        "latitude": 15.5342,
+        "longitude": 48.8955
+    },
+    {
+        "name": "Добро пожаловать в",
+        "latitude": 15.9831,
+        "longitude": 48.8315
+    },
+    {
+        "name": "Шибам",
+        "latitude": 15.8703,
+        "longitude": 48.6534
+    },
+    {
+        "name": "Сухайл Шибам",
+        "latitude": 15.91448,
+        "longitude": 48.63864
+    },
+    {
+        "name": "Тарим",
+        "latitude": 16.066,
+        "longitude": 49.0229
+    },
+    {
+        "name": "Тамуд",
+        "latitude": 17.6031,
+        "longitude": 49.7361
+    },
+    {
+        "name": "Вади Аль Айн",
+        "latitude": 15.74033,
+        "longitude": 48.14747
+    },
+    {
+        "name": "Ябут",
+        "latitude": 14.7182,
+        "longitude": 47.7358
+    },
+    {
+        "name": "Zamakh wa Manwakh",
+        "latitude": 17.2032,
+        "longitude": 47.7033
+    },
+    {
+        "name": "пресс",
+        "latitude": 16.0215,
+        "longitude": 43.0485
+    },
+    {
+        "name": "Афла Аль Яман",
+        "latitude": 15.9789,
+        "longitude": 43.4111
+    },
+    {
+        "name": "Афла Эш Шаум",
+        "latitude": 16.0528,
+        "longitude": 43.412
+    },
+    {
+        "name": "Аль-Джамима",
+        "latitude": 16.0284,
+        "longitude": 43.5297
+    },
+    {
+        "name": "Аль-Маграба",
+        "latitude": 15.8937,
+        "longitude": 43.6091
+    },
+    {
+        "name": "Аль-Махабишах",
+        "latitude": 15.9287,
+        "longitude": 43.448
+    },
+    {
+        "name": "Аль Мифтах",
+        "latitude": 15.961,
+        "longitude": 43.5147
+    },
+    {
+        "name": "Эш Шагадира",
+        "latitude": 15.6061,
+        "longitude": 43.4992
+    },
+    {
+        "name": "Эш Шахил",
+        "latitude": 15.8553,
+        "longitude": 43.4516
+    },
+    {
+        "name": "Аслем",
+        "latitude": 16.06,
+        "longitude": 43.2939
+    },
+    {
+        "name": "Бакил Аль Мир",
+        "latitude": 16.5069,
+        "longitude": 43.3615
+    },
+    {
+        "name": "Бани аль-Аввам",
+        "latitude": 15.58119,
+        "longitude": 43.58727
+    },
+    {
+        "name": "Бани Аль Авам",
+        "latitude": 15.581,
+        "longitude": 43.6079
+    },
+    {
+        "name": "Бани Кайс",
+        "latitude": 15.6346,
+        "longitude": 43.3372
+    },
+    {
+        "name": "Хадж",
+        "latitude": 15.6816,
+        "longitude": 43.44996
+    },
+    {
+        "name": "Харадский район",
+        "latitude": 16.40447,
+        "longitude": 43.07739
+    },
+    {
+        "name": "Вентилятор",
+        "latitude": 16.2508,
+        "longitude": 43.0599
+    },
+    {
+        "name": "Хайран Аль Мухаррак",
+        "latitude": 16.08964,
+        "longitude": 43.35755
+    },
+    {
+        "name": "Куайдина",
+        "latitude": 15.8183,
+        "longitude": 43.3599
+    },
+    {
+        "name": "Кухлан Аффар",
+        "latitude": 15.7554,
+        "longitude": 43.697
+    },
+    {
+        "name": "Кухлан Аш Шараф",
+        "latitude": 16.0231,
+        "longitude": 43.4863
+    },
+    {
+        "name": "Кушар",
+        "latitude": 16.1709,
+        "longitude": 43.472
+    },
+    {
+        "name": "Мабян",
+        "latitude": 15.7717,
+        "longitude": 43.551
+    },
+    {
+        "name": "Миди",
+        "latitude": 16.19202,
+        "longitude": 42.88913
+    },
+    {
+        "name": "Мустаба",
+        "latitude": 16.2736,
+        "longitude": 43.2685
+    },
+    {
+        "name": "Наджра",
+        "latitude": 15.6527,
+        "longitude": 43.5452
+    },
+    {
+        "name": "Кафл Шамер",
+        "latitude": 15.9087,
+        "longitude": 43.364
+    },
+    {
+        "name": "Арбуз",
+        "latitude": 16.4019,
+        "longitude": 43.474
+    },
+    {
+        "name": "Шарас",
+        "latitude": 15.7286,
+        "longitude": 43.6546
+    },
+    {
+        "name": "Вадра",
+        "latitude": 15.7142,
+        "longitude": 43.4667
+    },
+    {
+        "name": "Вашаха",
+        "latitude": 16.32158,
+        "longitude": 43.37555
+    },
+    {
+        "name": "Аль Удайн",
+        "latitude": 13.96112,
+        "longitude": 43.96608
+    },
+    {
+        "name": "Аль-Дихар",
+        "latitude": 13.979,
+        "longitude": 44.1526
+    },
+    {
+        "name": "Аль Махадир",
+        "latitude": 14.13965,
+        "longitude": 44.2033
+    },
+    {
+        "name": "Аль-Машана",
+        "latitude": 13.9573,
+        "longitude": 44.17
+    },
+    {
+        "name": "Аль-Кафр",
+        "latitude": 14.3129,
+        "longitude": 44.03
+    },
+    {
+        "name": "Ан Надира",
+        "latitude": 14.07398,
+        "longitude": 44.49925
+    },
+    {
+        "name": "Ар Радмах",
+        "latitude": 14.212,
+        "longitude": 44.5642
+    },
+    {
+        "name": "Как Сабра",
+        "latitude": 13.8427,
+        "longitude": 44.3386
+    },
+    {
+        "name": "Как Садда",
+        "latitude": 14.1661,
+        "longitude": 44.3751
+    },
+    {
+        "name": "Как Сайяни",
+        "latitude": 13.8224,
+        "longitude": 44.2118
+    },
+    {
+        "name": "Аш Шаир",
+        "latitude": 14.0318,
+        "longitude": 44.3619
+    },
+    {
+        "name": "После этого",
+        "latitude": 13.9887,
+        "longitude": 44.3236
+    },
+    {
+        "name": "Дхи как Суфал",
+        "latitude": 13.82137,
+        "longitude": 44.07775
+    },
+    {
+        "name": "Фар Аль Удайн",
+        "latitude": 13.9578,
+        "longitude": 43.7827
+    },
+    {
+        "name": "Хазм Аль-Удайн",
+        "latitude": 14.16984,
+        "longitude": 43.93814
+    },
+    {
+        "name": "Оружие",
+        "latitude": 14.116,
+        "longitude": 44.0824
+    },
+    {
+        "name": "Ибб",
+        "latitude": 13.96667,
+        "longitude": 44.18333
+    },
+    {
+        "name": "талант",
+        "latitude": 13.9148,
+        "longitude": 44.1213
+    },
+    {
+        "name": "Мудхайхира",
+        "latitude": 13.86608,
+        "longitude": 43.96866
+    },
+    {
+        "name": "Принц",
+        "latitude": 14.25388,
+        "longitude": 44.31176
+    },
+    {
+        "name": "Аль-Хаута",
+        "latitude": 13.0624,
+        "longitude": 44.8816
+    },
+    {
+        "name": "Аль Хабилайн",
+        "latitude": 13.52002,
+        "longitude": 44.85076
+    },
+    {
+        "name": "Аль Хад",
+        "latitude": 13.9783,
+        "longitude": 45.2553
+    },
+    {
+        "name": "Аль Мадариба Ва Аль Арах",
+        "latitude": 12.8569,
+        "longitude": 43.9906
+    },
+    {
+        "name": "Аль Мафлахи",
+        "latitude": 13.7767,
+        "longitude": 45.1088
+    },
+    {
+        "name": "Аль-Макатира",
+        "latitude": 13.1372,
+        "longitude": 44.1404
+    },
+    {
+        "name": "Аль Мила",
+        "latitude": 13.3202,
+        "longitude": 44.9267
+    },
+    {
+        "name": "Аль-Мусаймир",
+        "latitude": 13.4291,
+        "longitude": 44.5914
+    },
+    {
+        "name": "Аль-Кабайта",
+        "latitude": 13.3275,
+        "longitude": 44.5025
+    },
+    {
+        "name": "Хабиль Джабр",
+        "latitude": 13.5921,
+        "longitude": 45.0737
+    },
+    {
+        "name": "Халимейн",
+        "latitude": 13.7088,
+        "longitude": 44.9443
+    },
+    {
+        "name": "Лахий",
+        "latitude": 13.05667,
+        "longitude": 44.88194
+    },
+    {
+        "name": "Колесный вентилятор",
+        "latitude": 13.4667,
+        "longitude": 44.99
+    },
+    {
+        "name": "Тубан",
+        "latitude": 13.0921,
+        "longitude": 44.8784
+    },
+    {
+        "name": "Тур Аль Бахах",
+        "latitude": 13.04269,
+        "longitude": 44.41154
+    },
+    {
+        "name": "Яфаа",
+        "latitude": 13.862,
+        "longitude": 45.2014
+    },
+    {
+        "name": "Яр",
+        "latitude": 13.7227,
+        "longitude": 45.1305
+    },
+    {
+        "name": "Аль-Абдия",
+        "latitude": 14.717,
+        "longitude": 45.3934
+    },
+    {
+        "name": "Аль-Джуба",
+        "latitude": 15.1249,
+        "longitude": 45.2868
+    },
+    {
+        "name": "Бидбада",
+        "latitude": 15.3981,
+        "longitude": 44.7473
+    },
+    {
+        "name": "Хариб",
+        "latitude": 14.93045,
+        "longitude": 45.3682
+    },
+    {
+        "name": "Хариб аль-Карамиш",
+        "latitude": 15.4735,
+        "longitude": 44.6153
+    },
+    {
+        "name": "Джабаль Мурад",
+        "latitude": 15.0474,
+        "longitude": 45.1887
+    },
+    {
+        "name": "Мариб",
+        "latitude": 15.46253,
+        "longitude": 45.32581
+    },
+    {
+        "name": "Махлия",
+        "latitude": 14.6821,
+        "longitude": 45.1832
+    },
+    {
+        "name": "Майзар",
+        "latitude": 15.8277,
+        "longitude": 44.7941
+    },
+    {
+        "name": "Мариб",
+        "latitude": 15.6213,
+        "longitude": 46.0111
+    },
+    {
+        "name": "Мариб Сити",
+        "latitude": 15.4156,
+        "longitude": 45.3034
+    },
+    {
+        "name": "Медгал",
+        "latitude": 15.6384,
+        "longitude": 45.0038
+    },
+    {
+        "name": "Рагван",
+        "latitude": 15.7902,
+        "longitude": 45.0694
+    },
+    {
+        "name": "Рааба",
+        "latitude": 14.951,
+        "longitude": 45.0885
+    },
+    {
+        "name": "Сирва",
+        "latitude": 15.4369,
+        "longitude": 45.0115
+    },
+    {
+        "name": "Аль Джабин",
+        "latitude": 14.6899,
+        "longitude": 43.6196
+    },
+    {
+        "name": "Аль Джафария",
+        "latitude": 14.5196,
+        "longitude": 43.5817
+    },
+    {
+        "name": "Как Салафия",
+        "latitude": 14.6866,
+        "longitude": 43.8216
+    },
+    {
+        "name": "Билад и Таам",
+        "latitude": 14.8382,
+        "longitude": 43.6078
+    },
+    {
+        "name": "Кусма",
+        "latitude": 14.5474,
+        "longitude": 43.6833
+    },
+    {
+        "name": "Мажар",
+        "latitude": 14.5709,
+        "longitude": 43.7607
+    },
+    {
+        "name": "Аль-Дахер",
+        "latitude": 16.7314,
+        "longitude": 43.2753
+    },
+    {
+        "name": "Аль-Хашва",
+        "latitude": 16.8884,
+        "longitude": 44.2738
+    },
+    {
+        "name": "Урожай",
+        "latitude": 17.0142,
+        "longitude": 43.8566
+    },
+    {
+        "name": "Аш Шавати",
+        "latitude": 16.78314,
+        "longitude": 43.81265
+    },
+    {
+        "name": "Баким",
+        "latitude": 17.3781,
+        "longitude": 43.4635
+    },
+    {
+        "name": "Гамр",
+        "latitude": 16.98301,
+        "longitude": 43.31608
+    },
+    {
+        "name": "Хайдан",
+        "latitude": 16.7287,
+        "longitude": 43.4849
+    },
+    {
+        "name": "Китаф ва Аль-Боке",
+        "latitude": 17.0808,
+        "longitude": 44.3962
+    },
+    {
+        "name": "майор",
+        "latitude": 17.0923,
+        "longitude": 43.5104
+    },
+    {
+        "name": "Монаббих",
+        "latitude": 17.1693,
+        "longitude": 43.2791
+    },
+    {
+        "name": "Катабир",
+        "latitude": 17.3368,
+        "longitude": 43.3311
+    },
+    {
+        "name": "Разих",
+        "latitude": 16.93704,
+        "longitude": 43.2608
+    },
+    {
+        "name": "Саада",
+        "latitude": 16.94021,
+        "longitude": 43.76393
+    },
+    {
+        "name": "Шаада",
+        "latitude": 16.91733,
+        "longitude": 43.76
+    },
+    {
+        "name": "Сахар",
+        "latitude": 16.88522,
+        "longitude": 43.68306
+    },
+    {
+        "name": "Доброе утро",
+        "latitude": 16.8601,
+        "longitude": 43.4716
+    },
+    {
+        "name": "Шадаа",
+        "latitude": 16.8913,
+        "longitude": 43.1871
+    },
+    {
+        "name": "Аль-Хайма Ад-Дахилия",
+        "latitude": 15.2722,
+        "longitude": 43.8393
+    },
+    {
+        "name": "Аль-Хайма Аль-Хариджия",
+        "latitude": 15.0267,
+        "longitude": 43.85
+    },
+    {
+        "name": "Аль Хусн",
+        "latitude": 15.0206,
+        "longitude": 44.5044
+    },
+    {
+        "name": "Аль-Ханик",
+        "latitude": 15.50253,
+        "longitude": 44.18158
+    },
+    {
+        "name": "Архаб",
+        "latitude": 15.7995,
+        "longitude": 44.2466
+    },
+    {
+        "name": "С этим",
+        "latitude": 15.32931,
+        "longitude": 44.57739
+    },
+    {
+        "name": "Бани Дабян",
+        "latitude": 15.0481,
+        "longitude": 44.8718
+    },
+    {
+        "name": "Бани Хушайш",
+        "latitude": 15.4505,
+        "longitude": 44.3782
+    },
+    {
+        "name": "Бани Матар",
+        "latitude": 15.215,
+        "longitude": 44.0498
+    },
+    {
+        "name": "Страна Ar Русский",
+        "latitude": 15.0351,
+        "longitude": 44.2514
+    },
+    {
+        "name": "Хамдан",
+        "latitude": 15.50662,
+        "longitude": 44.0603
+    },
+    {
+        "name": "Джихана",
+        "latitude": 15.1919,
+        "longitude": 44.5195
+    },
+    {
+        "name": "Хвлан",
+        "latitude": 15.2749,
+        "longitude": 44.7686
+    },
+    {
+        "name": "Манаха",
+        "latitude": 15.0717,
+        "longitude": 43.6862
+    },
+    {
+        "name": "Ним",
+        "latitude": 15.7516,
+        "longitude": 44.5746
+    },
+    {
+        "name": "Сафан",
+        "latitude": 15.0712,
+        "longitude": 43.5827
+    },
+    {
+        "name": "Сахар",
+        "latitude": 15.31637,
+        "longitude": 44.3088
+    },
+    {
+        "name": "Санаа",
+        "latitude": 15.35472,
+        "longitude": 44.20667
+    },
+    {
+        "name": "Санхан",
+        "latitude": 15.2252,
+        "longitude": 44.3057
+    },
+    {
+        "name": "Покупка",
+        "latitude": 15.17177,
+        "longitude": 44.32442
+    },
+    {
+        "name": "Айн",
+        "latitude": 14.9503,
+        "longitude": 45.6004
+    },
+    {
+        "name": "Аль-Акир",
+        "latitude": 14.56816,
+        "longitude": 45.91156
+    },
+    {
+        "name": "Аль Тальх",
+        "latitude": 15.0826,
+        "longitude": 47.3514
+    },
+    {
+        "name": "АЛЬ-Хаша верхняя",
+        "latitude": 14.34044,
+        "longitude": 46.71365
+    },
+    {
+        "name": "Ар Равда",
+        "latitude": 14.4956,
+        "longitude": 47.2746
+    },
+    {
+        "name": "Арма",
+        "latitude": 15.4127,
+        "longitude": 47.2345
+    },
+    {
+        "name": "Как сказано",
+        "latitude": 14.2766,
+        "longitude": 46.8693
+    },
+    {
+        "name": "Атака",
+        "latitude": 14.53767,
+        "longitude": 46.83187
+    },
+    {
+        "name": "Байхан",
+        "latitude": 14.7619,
+        "longitude": 45.7482
+    },
+    {
+        "name": "Дхар",
+        "latitude": 15.5036,
+        "longitude": 47.6058
+    },
+    {
+        "name": "Отличная работа",
+        "latitude": 14.2878,
+        "longitude": 47.1361
+    },
+    {
+        "name": "Хатиб",
+        "latitude": 14.1802,
+        "longitude": 46.4439
+    },
+    {
+        "name": "Жардан",
+        "latitude": 15.19,
+        "longitude": 46.7338
+    },
+    {
+        "name": "Химар",
+        "latitude": 14.3198,
+        "longitude": 46.73922
+    },
+    {
+        "name": "Майфаа",
+        "latitude": 14.3978,
+        "longitude": 47.7404
+    },
+    {
+        "name": "Марха Аль Уля",
+        "latitude": 14.4847,
+        "longitude": 45.9299
+    },
+    {
+        "name": "Меркха, я дую",
+        "latitude": 14.6999,
+        "longitude": 46.1563
+    },
+    {
+        "name": "Нисаб",
+        "latitude": 14.5257,
+        "longitude": 46.4477
+    },
+    {
+        "name": "Грубый",
+        "latitude": 14.03759,
+        "longitude": 47.83824
+    },
+    {
+        "name": "Попробуй",
+        "latitude": 15.1703,
+        "longitude": 46.0274
+    },
+    {
+        "name": "Хадибу",
+        "latitude": 12.64881,
+        "longitude": 54.01895
+    },
+    {
+        "name": "Хидайбу",
+        "latitude": 12.5025,
+        "longitude": 54.0082
+    },
+    {
+        "name": "Калансия",
+        "latitude": 12.68958,
+        "longitude": 53.48709
+    },
+    {
+        "name": "Куленсия Ва Абдул Аль Кури",
+        "latitude": 12.55479,
+        "longitude": 53.58671
+    },
+    {
+        "name": "Аль-Маафер",
+        "latitude": 13.3742,
+        "longitude": 43.9262
+    },
+    {
+        "name": "Аль Мавасит",
+        "latitude": 13.3042,
+        "longitude": 44.1005
+    },
+    {
+        "name": "Аль Мисрах",
+        "latitude": 13.4702,
+        "longitude": 44.0377
+    },
+    {
+        "name": "Аль Мухаффар",
+        "latitude": 13.5831,
+        "longitude": 43.9927
+    },
+    {
+        "name": "Аль Муха'",
+        "latitude": 13.51998,
+        "longitude": 43.42798
+    },
+    {
+        "name": "Аль-Кахира",
+        "latitude": 13.5849,
+        "longitude": 44.0101
+    },
+    {
+        "name": "Аль-Вазия",
+        "latitude": 13.1846,
+        "longitude": 43.7298
+    },
+    {
+        "name": "Как Силв",
+        "latitude": 13.3459,
+        "longitude": 44.2072
+    },
+    {
+        "name": "Эш Шамаятайн",
+        "latitude": 13.1822,
+        "longitude": 43.98
+    },
+    {
+        "name": "В Таизии",
+        "latitude": 13.69479,
+        "longitude": 44.00941
+    },
+    {
+        "name": "Железо",
+        "latitude": 12.9659,
+        "longitude": 43.4724
+    },
+    {
+        "name": "Димнат Хадир",
+        "latitude": 13.4386,
+        "longitude": 44.2542
+    },
+    {
+        "name": "Хайфан",
+        "latitude": 13.2906,
+        "longitude": 44.2607
+    },
+    {
+        "name": "Джабаль Хабаши",
+        "latitude": 13.4665,
+        "longitude": 43.881
+    },
+    {
+        "name": "Макбана",
+        "latitude": 13.6212,
+        "longitude": 43.6674
+    },
+    {
+        "name": "Машраа Ва Хаднан",
+        "latitude": 13.5417,
+        "longitude": 43.9983
+    },
+    {
+        "name": "Мавия",
+        "latitude": 13.58461,
+        "longitude": 44.31912
+    },
+    {
+        "name": "Носки",
+        "latitude": 13.3782,
+        "longitude": 43.6145
+    },
+    {
+        "name": "Сабир Аль Мавадим",
+        "latitude": 13.5318,
+        "longitude": 44.0462
+    },
+    {
+        "name": "Салх",
+        "latitude": 13.5839,
+        "longitude": 44.0402
+    },
+    {
+        "name": "Одинаковый",
+        "latitude": 13.3809,
+        "longitude": 44.1166
+    },
+    {
+        "name": "Шарааб и Равна",
+        "latitude": 13.7336,
+        "longitude": 43.7672
+    },
+    {
+        "name": "Шарааб Ас Салам",
+        "latitude": 13.7832,
+        "longitude": 43.8861
+    },
+    {
+        "name": "Таиз",
+        "latitude": 13.57952,
+        "longitude": 44.02091
+    },
+    {
+        "name": "Деревня АЛАМРА",
+        "latitude": 13.74318,
+        "longitude": 43.72992
+    }
+]

@@ -1,0 +1,5407 @@
+[
+    {
+        "name": "Эйрдри",
+        "latitude": 51.30011,
+        "longitude": -114.03528
+    },
+    {
+        "name": "Атабаска",
+        "latitude": 54.71687,
+        "longitude": -113.28537
+    },
+    {
+        "name": "Банф",
+        "latitude": 51.17622,
+        "longitude": -115.56982
+    },
+    {
+        "name": "Баррхед",
+        "latitude": 54.13345,
+        "longitude": -114.40211
+    },
+    {
+        "name": "Бассано",
+        "latitude": 50.78342,
+        "longitude": -112.46854
+    },
+    {
+        "name": "Бомонт",
+        "latitude": 53.35013,
+        "longitude": -113.41871
+    },
+    {
+        "name": "Биверлодж",
+        "latitude": 55.21664,
+        "longitude": -119.43605
+    },
+    {
+        "name": "Черный алмаз",
+        "latitude": 50.70011,
+        "longitude": -114.2353
+    },
+    {
+        "name": "Блэкфолдс",
+        "latitude": 52.38342,
+        "longitude": -113.7853
+    },
+    {
+        "name": "Хорошее соглашение",
+        "latitude": 53.83345,
+        "longitude": -113.41872
+    },
+    {
+        "name": "Боннивилль",
+        "latitude": 54.26684,
+        "longitude": -110.73505
+    },
+    {
+        "name": "Остров Боу",
+        "latitude": 49.86676,
+        "longitude": -111.36843
+    },
+    {
+        "name": "Брукс",
+        "latitude": 50.58341,
+        "longitude": -111.88509
+    },
+    {
+        "name": "Калгари",
+        "latitude": 51.05011,
+        "longitude": -114.08529
+    },
+    {
+        "name": "Успокоиться",
+        "latitude": 53.26683,
+        "longitude": -113.81874
+    },
+    {
+        "name": "Камроуз",
+        "latitude": 53.01684,
+        "longitude": -112.83525
+    },
+    {
+        "name": "Кенмор",
+        "latitude": 51.08335,
+        "longitude": -115.35206
+    },
+    {
+        "name": "Кардстон",
+        "latitude": 49.19998,
+        "longitude": -113.3019
+    },
+    {
+        "name": "Карстерс",
+        "latitude": 51.56681,
+        "longitude": -114.102
+    },
+    {
+        "name": "Честермир",
+        "latitude": 51.03341,
+        "longitude": -113.81867
+    },
+    {
+        "name": "Клерсхольм",
+        "latitude": 50.03332,
+        "longitude": -113.58524
+    },
+    {
+        "name": "Колдейл",
+        "latitude": 49.7167,
+        "longitude": -112.61854
+    },
+    {
+        "name": "Колхерст",
+        "latitude": 49.7464,
+        "longitude": -112.93246
+    },
+    {
+        "name": "Кокрейн",
+        "latitude": 51.18341,
+        "longitude": -114.46871
+    },
+    {
+        "name": "Холодное озеро",
+        "latitude": 54.46525,
+        "longitude": -110.18154
+    },
+    {
+        "name": "Кроссфилд",
+        "latitude": 51.43341,
+        "longitude": -114.03528
+    },
+    {
+        "name": "Девон",
+        "latitude": 53.36683,
+        "longitude": -113.73533
+    },
+    {
+        "name": "Дидсбери",
+        "latitude": 51.66681,
+        "longitude": -114.13529
+    },
+    {
+        "name": "Дрейтон-Вэлли",
+        "latitude": 53.21682,
+        "longitude": -114.98544
+    },
+    {
+        "name": "Эдмонтон",
+        "latitude": 53.55014,
+        "longitude": -113.46871
+    },
+    {
+        "name": "Эдсон",
+        "latitude": 53.58345,
+        "longitude": -116.43559
+    },
+    {
+        "name": "Лосей-пост",
+        "latitude": 53.90017,
+        "longitude": -110.9017
+    },
+    {
+        "name": "Фэрвью",
+        "latitude": 56.06675,
+        "longitude": -118.38606
+    },
+    {
+        "name": "Фальхер",
+        "latitude": 55.73339,
+        "longitude": -117.20262
+    },
+    {
+        "name": "Форт Маклауд",
+        "latitude": 49.71671,
+        "longitude": -113.41857
+    },
+    {
+        "name": "Форт МакМюррей",
+        "latitude": 56.72676,
+        "longitude": -111.38103
+    },
+    {
+        "name": "Форт Саскачеван",
+        "latitude": 53.71684,
+        "longitude": -113.2187
+    },
+    {
+        "name": "Фокс-Крик",
+        "latitude": 54.40007,
+        "longitude": -116.80238
+    },
+    {
+        "name": "Гиббонс",
+        "latitude": 53.83345,
+        "longitude": -113.33531
+    },
+    {
+        "name": "Гранд Центр",
+        "latitude": 54.41628,
+        "longitude": -110.21304
+    },
+    {
+        "name": "Большой тайник",
+        "latitude": 53.88335,
+        "longitude": -119.13585
+    },
+    {
+        "name": "Гранд-Прери",
+        "latitude": 55.16667,
+        "longitude": -118.80271
+    },
+    {
+        "name": "Гримшоу",
+        "latitude": 56.18339,
+        "longitude": -117.6027
+    },
+    {
+        "name": "Ханна",
+        "latitude": 51.63343,
+        "longitude": -111.90181
+    },
+    {
+        "name": "Наследие Пуэнт",
+        "latitude": 50.84213,
+        "longitude": -114.00493
+    },
+    {
+        "name": "Высокий уровень",
+        "latitude": 58.51688,
+        "longitude": -117.13605
+    },
+    {
+        "name": "Высокая Прерия",
+        "latitude": 55.4334,
+        "longitude": -116.4858
+    },
+    {
+        "name": "Хай Ривер",
+        "latitude": 50.58341,
+        "longitude": -113.86867
+    },
+    {
+        "name": "Хинтон",
+        "latitude": 53.40009,
+        "longitude": -117.58567
+    },
+    {
+        "name": "Иррикана",
+        "latitude": 51.32372,
+        "longitude": -113.60475
+    },
+    {
+        "name": "Джаспер Парк Лодж",
+        "latitude": 52.88633,
+        "longitude": -118.05625
+    },
+    {
+        "name": "Киллам",
+        "latitude": 52.78344,
+        "longitude": -111.85175
+    },
+    {
+        "name": "Оленье озеро",
+        "latitude": 54.7669,
+        "longitude": -111.96861
+    },
+    {
+        "name": "Лакомб",
+        "latitude": 52.46681,
+        "longitude": -113.7353
+    },
+    {
+        "name": "Ламонт",
+        "latitude": 53.76686,
+        "longitude": -112.80195
+    },
+    {
+        "name": "Живокость",
+        "latitude": 53.47942,
+        "longitude": -113.38142
+    },
+    {
+        "name": "Лорел",
+        "latitude": 53.44667,
+        "longitude": -113.38197
+    },
+    {
+        "name": "Ледюк",
+        "latitude": 53.26682,
+        "longitude": -113.55201
+    },
+    {
+        "name": "Летбридж",
+        "latitude": 49.69999,
+        "longitude": -112.81856
+    },
+    {
+        "name": "Ллойдминстер",
+        "latitude": 53.27237,
+        "longitude": -110.02256
+    },
+    {
+        "name": "Маграт",
+        "latitude": 49.41668,
+        "longitude": -112.86856
+    },
+    {
+        "name": "Мэннинг",
+        "latitude": 56.91683,
+        "longitude": -117.61945
+    },
+    {
+        "name": "Манвилл",
+        "latitude": 53.33764,
+        "longitude": -111.1775
+    },
+    {
+        "name": "Мэйпл Ридж",
+        "latitude": 53.50172,
+        "longitude": -113.36274
+    },
+    {
+        "name": "Майерторп",
+        "latitude": 53.95015,
+        "longitude": -115.13547
+    },
+    {
+        "name": "Медицинская шляпа",
+        "latitude": 50.03928,
+        "longitude": -110.67661
+    },
+    {
+        "name": "Центр города Милл Вудс",
+        "latitude": 53.45639,
+        "longitude": -113.42751
+    },
+    {
+        "name": "Просо",
+        "latitude": 53.10013,
+        "longitude": -113.4687
+    },
+    {
+        "name": "Моринвиль",
+        "latitude": 53.80014,
+        "longitude": -113.65203
+    },
+    {
+        "name": "Нантон",
+        "latitude": 50.35008,
+        "longitude": -113.76866
+    },
+    {
+        "name": "Окотокс",
+        "latitude": 50.72885,
+        "longitude": -113.98281
+    },
+    {
+        "name": "Олдс",
+        "latitude": 51.78341,
+        "longitude": -114.10199
+    },
+    {
+        "name": "Река Мира",
+        "latitude": 56.23715,
+        "longitude": -117.29176
+    },
+    {
+        "name": "Пенхолд",
+        "latitude": 52.13342,
+        "longitude": -113.8687
+    },
+    {
+        "name": "Картина Бьютт",
+        "latitude": 49.8833,
+        "longitude": -112.78516
+    },
+    {
+        "name": "Пинчер-преступление",
+        "latitude": 49.48328,
+        "longitude": -113.95195
+    },
+    {
+        "name": "Понока",
+        "latitude": 52.6768,
+        "longitude": -113.58147
+    },
+    {
+        "name": "Провост",
+        "latitude": 52.35014,
+        "longitude": -110.26828
+    },
+    {
+        "name": "Раймонд",
+        "latitude": 49.44998,
+        "longitude": -112.65185
+    },
+    {
+        "name": "красный олень",
+        "latitude": 52.26682,
+        "longitude": -113.802
+    },
+    {
+        "name": "Ридо Парк",
+        "latitude": 53.47899,
+        "longitude": -113.5047
+    },
+    {
+        "name": "Римби",
+        "latitude": 52.6334,
+        "longitude": -114.23532
+    },
+    {
+        "name": "Дом Роки Маунтин",
+        "latitude": 52.36683,
+        "longitude": -114.9188
+    },
+    {
+        "name": "Секссмит",
+        "latitude": 55.34998,
+        "longitude": -118.78602
+    },
+    {
+        "name": "Шервуд Парк",
+        "latitude": 53.51684,
+        "longitude": -113.3187
+    },
+    {
+        "name": "Серебряная ягода",
+        "latitude": 53.45787,
+        "longitude": -113.3817
+    },
+    {
+        "name": "Невольничье озеро",
+        "latitude": 55.28344,
+        "longitude": -114.76896
+    },
+    {
+        "name": "Смоки Лейк",
+        "latitude": 54.11687,
+        "longitude": -112.46863
+    },
+    {
+        "name": "Река Духа",
+        "latitude": 55.78327,
+        "longitude": -118.83607
+    },
+    {
+        "name": "Спрингбрук",
+        "latitude": 52.1792,
+        "longitude": -113.87981
+    },
+    {
+        "name": "Еловая роща",
+        "latitude": 53.53344,
+        "longitude": -113.91874
+    },
+    {
+        "name": "Святой Альберт",
+        "latitude": 53.63344,
+        "longitude": -113.63533
+    },
+    {
+        "name": "Стеттлер",
+        "latitude": 52.31683,
+        "longitude": -112.71861
+    },
+    {
+        "name": "Каменистая равнина",
+        "latitude": 53.53343,
+        "longitude": -114.00205
+    },
+    {
+        "name": "Стратмор",
+        "latitude": 51.05011,
+        "longitude": -113.38523
+    },
+    {
+        "name": "Сандер",
+        "latitude": 51.8001,
+        "longitude": -114.63532
+    },
+    {
+        "name": "Лебединые холмы",
+        "latitude": 54.71681,
+        "longitude": -115.40226
+    },
+    {
+        "name": "Сильван Лейк",
+        "latitude": 52.311,
+        "longitude": -114.08375
+    },
+    {
+        "name": "Табер",
+        "latitude": 49.78703,
+        "longitude": -112.14603
+    },
+    {
+        "name": "Тамарак",
+        "latitude": 53.46441,
+        "longitude": -113.36235
+    },
+    {
+        "name": "Три холма",
+        "latitude": 51.70012,
+        "longitude": -113.26863
+    },
+    {
+        "name": "Тофилд",
+        "latitude": 53.36684,
+        "longitude": -112.66862
+    },
+    {
+        "name": "Два холма",
+        "latitude": 53.71686,
+        "longitude": -111.75181
+    },
+    {
+        "name": "Вэлливью",
+        "latitude": 55.06673,
+        "longitude": -117.28585
+    },
+    {
+        "name": "Вегревиль",
+        "latitude": 53.50015,
+        "longitude": -112.05182
+    },
+    {
+        "name": "Вермилион",
+        "latitude": 53.35409,
+        "longitude": -110.85849
+    },
+    {
+        "name": "Викинг",
+        "latitude": 53.10014,
+        "longitude": -111.76844
+    },
+    {
+        "name": "Вулкан",
+        "latitude": 50.40008,
+        "longitude": -113.25189
+    },
+    {
+        "name": "Уэйнрайт",
+        "latitude": 52.83482,
+        "longitude": -110.85342
+    },
+    {
+        "name": "Уэмбли",
+        "latitude": 55.14995,
+        "longitude": -119.13602
+    },
+    {
+        "name": "Западное озеро",
+        "latitude": 55.22228,
+        "longitude": -118.80415
+    },
+    {
+        "name": "Вестлок",
+        "latitude": 54.15016,
+        "longitude": -113.86876
+    },
+    {
+        "name": "Ветаскивин",
+        "latitude": 52.96683,
+        "longitude": -113.36869
+    },
+    {
+        "name": "Уайткорт",
+        "latitude": 54.15015,
+        "longitude": -115.68548
+    },
+    {
+        "name": "Дикая роза",
+        "latitude": 53.4708,
+        "longitude": -113.38119
+    },
+    {
+        "name": "Эбботсфорд",
+        "latitude": 49.05798,
+        "longitude": -122.25257
+    },
+    {
+        "name": "Агассис",
+        "latitude": 49.23298,
+        "longitude": -121.76926
+    },
+    {
+        "name": "Олдергроув",
+        "latitude": 49.05801,
+        "longitude": -122.47087
+    },
+    {
+        "name": "Олдергроув Восток",
+        "latitude": 49.05593,
+        "longitude": -122.42299
+    },
+    {
+        "name": "влюбленный",
+        "latitude": 49.31637,
+        "longitude": -122.85263
+    },
+    {
+        "name": "Арбутус Ридж",
+        "latitude": 49.24966,
+        "longitude": -123.16934
+    },
+    {
+        "name": "Армстронг",
+        "latitude": 50.44979,
+        "longitude": -119.20235
+    },
+    {
+        "name": "Эшкрофт",
+        "latitude": 50.72372,
+        "longitude": -121.28207
+    },
+    {
+        "name": "Барьер",
+        "latitude": 51.18308,
+        "longitude": -120.1192
+    },
+    {
+        "name": "Остров Боуэн",
+        "latitude": 49.3847,
+        "longitude": -123.33622
+    },
+    {
+        "name": "Бернаби",
+        "latitude": 49.26636,
+        "longitude": -122.95263
+    },
+    {
+        "name": "Бернс Лейк",
+        "latitude": 54.22972,
+        "longitude": -125.76084
+    },
+    {
+        "name": "Кэш-Крик",
+        "latitude": 50.81011,
+        "longitude": -121.3246
+    },
+    {
+        "name": "Кэмпбелл Ривер",
+        "latitude": 50.01634,
+        "longitude": -125.24459
+    },
+    {
+        "name": "Каслгар",
+        "latitude": 49.32317,
+        "longitude": -117.65831
+    },
+    {
+        "name": "Кедр",
+        "latitude": 49.11633,
+        "longitude": -123.8527
+    },
+    {
+        "name": "Центрально-Прибрежный региональный округ",
+        "latitude": 52.16638,
+        "longitude": -127.00323
+    },
+    {
+        "name": "Гнаться",
+        "latitude": 50.8165,
+        "longitude": -119.68571
+    },
+    {
+        "name": "Сеть",
+        "latitude": 48.91633,
+        "longitude": -123.71937
+    },
+    {
+        "name": "Четвинд",
+        "latitude": 55.69988,
+        "longitude": -121.63627
+    },
+    {
+        "name": "Чилливак",
+        "latitude": 49.16638,
+        "longitude": -121.95257
+    },
+    {
+        "name": "Колвуд",
+        "latitude": 48.43293,
+        "longitude": -123.48591
+    },
+    {
+        "name": "Кумбс",
+        "latitude": 49.29963,
+        "longitude": -124.41946
+    },
+    {
+        "name": "Коквитлам",
+        "latitude": 49.2846,
+        "longitude": -122.78217
+    },
+    {
+        "name": "Куртенэ",
+        "latitude": 49.68657,
+        "longitude": -124.9936
+    },
+    {
+        "name": "Коуичен Бэй",
+        "latitude": 48.73366,
+        "longitude": -123.61739
+    },
+    {
+        "name": "Крэнбрук",
+        "latitude": 49.49991,
+        "longitude": -115.76879
+    },
+    {
+        "name": "Крестон",
+        "latitude": 49.09987,
+        "longitude": -116.50211
+    },
+    {
+        "name": "Камберленд",
+        "latitude": 49.61634,
+        "longitude": -125.03613
+    },
+    {
+        "name": "Доусон-Крик",
+        "latitude": 55.75984,
+        "longitude": -120.2403
+    },
+    {
+        "name": "Дельта",
+        "latitude": 49.14399,
+        "longitude": -122.9068
+    },
+    {
+        "name": "Остров Денман",
+        "latitude": 49.53294,
+        "longitude": -124.8195
+    },
+    {
+        "name": "Подопечная зона острова Денман",
+        "latitude": 49.55189,
+        "longitude": -124.79881
+    },
+    {
+        "name": "Утиное озеро",
+        "latitude": 50.0088,
+        "longitude": -119.39672
+    },
+    {
+        "name": "Дункан",
+        "latitude": 48.78293,
+        "longitude": -123.70266
+    },
+    {
+        "name": "Восточный Веллингтон",
+        "latitude": 49.17385,
+        "longitude": -124.01745
+    },
+    {
+        "name": "Элкфорд",
+        "latitude": 50.05007,
+        "longitude": -114.8854
+    },
+    {
+        "name": "Эллисон",
+        "latitude": 49.93307,
+        "longitude": -119.36907
+    },
+    {
+        "name": "Эндерби",
+        "latitude": 50.5498,
+        "longitude": -119.15234
+    },
+    {
+        "name": "Фэйрвиндз",
+        "latitude": 49.27588,
+        "longitude": -124.12782
+    },
+    {
+        "name": "Ферни",
+        "latitude": 49.49996,
+        "longitude": -115.06871
+    },
+    {
+        "name": "Форт Нельсон",
+        "latitude": 58.80533,
+        "longitude": -122.7002
+    },
+    {
+        "name": "Форт Сент-Джон",
+        "latitude": 56.24988,
+        "longitude": -120.85292
+    },
+    {
+        "name": "Региональный округ Фрейзер-Вэлли",
+        "latitude": 49.58299,
+        "longitude": -121.83587
+    },
+    {
+        "name": "Френч-Крик",
+        "latitude": 49.34123,
+        "longitude": -124.35541
+    },
+    {
+        "name": "Фрутвейл",
+        "latitude": 49.11654,
+        "longitude": -117.55222
+    },
+    {
+        "name": "Гибсон",
+        "latitude": 49.39539,
+        "longitude": -123.50555
+    },
+    {
+        "name": "Золотой",
+        "latitude": 51.29995,
+        "longitude": -116.9689
+    },
+    {
+        "name": "Гранд Форкс",
+        "latitude": 49.03309,
+        "longitude": -118.4356
+    },
+    {
+        "name": "Хансвилль",
+        "latitude": 51.91922,
+        "longitude": -123.04458
+    },
+    {
+        "name": "Надеяться",
+        "latitude": 49.38299,
+        "longitude": -121.44144
+    },
+    {
+        "name": "Остров Хорнби",
+        "latitude": 49.53448,
+        "longitude": -124.66923
+    },
+    {
+        "name": "Хьюстон",
+        "latitude": 54.39976,
+        "longitude": -126.67008
+    },
+    {
+        "name": "Зима",
+        "latitude": 50.51666,
+        "longitude": -116.03538
+    },
+    {
+        "name": "Камлупс",
+        "latitude": 50.66648,
+        "longitude": -120.3192
+    },
+    {
+        "name": "Келоуна",
+        "latitude": 49.88307,
+        "longitude": -119.48568
+    },
+    {
+        "name": "Кимберли",
+        "latitude": 49.67071,
+        "longitude": -115.9776
+    },
+    {
+        "name": "Китимат",
+        "latitude": 54.05244,
+        "longitude": -128.65342
+    },
+    {
+        "name": "Ладнер",
+        "latitude": 49.08938,
+        "longitude": -123.08241
+    },
+    {
+        "name": "Ледисмит",
+        "latitude": 48.99016,
+        "longitude": -123.81699
+    },
+    {
+        "name": "Озеро Ковичан",
+        "latitude": 48.82495,
+        "longitude": -124.05461
+    },
+    {
+        "name": "Лэнгфорд",
+        "latitude": 48.44963,
+        "longitude": -123.50261
+    },
+    {
+        "name": "Лэнгли",
+        "latitude": 49.10107,
+        "longitude": -122.65883
+    },
+    {
+        "name": "Лиллоэт",
+        "latitude": 50.6856,
+        "longitude": -121.942
+    },
+    {
+        "name": "Лайонс Бэй",
+        "latitude": 49.45218,
+        "longitude": -123.2376
+    },
+    {
+        "name": "Логан Лейк",
+        "latitude": 50.49976,
+        "longitude": -120.80253
+    },
+    {
+        "name": "Ламби",
+        "latitude": 50.24979,
+        "longitude": -118.96904
+    },
+    {
+        "name": "Маккензи",
+        "latitude": 55.33637,
+        "longitude": -123.09374
+    },
+    {
+        "name": "Мэйпл Ридж",
+        "latitude": 49.21939,
+        "longitude": -122.60193
+    },
+    {
+        "name": "Мерритт",
+        "latitude": 50.11225,
+        "longitude": -120.7942
+    },
+    {
+        "name": "Метчосин",
+        "latitude": 48.38293,
+        "longitude": -123.53591
+    },
+    {
+        "name": "Метро Ванкуверский региональный округ",
+        "latitude": 49.33296,
+        "longitude": -123.00264
+    },
+    {
+        "name": "Миссия",
+        "latitude": 49.13298,
+        "longitude": -122.30258
+    },
+    {
+        "name": "Накусп",
+        "latitude": 50.24987,
+        "longitude": -117.80226
+    },
+    {
+        "name": "Нанаймо",
+        "latitude": 49.16638,
+        "longitude": -123.94003
+    },
+    {
+        "name": "Нельсон",
+        "latitude": 49.49985,
+        "longitude": -117.28553
+    },
+    {
+        "name": "Нью-Вестминстер",
+        "latitude": 49.20678,
+        "longitude": -122.91092
+    },
+    {
+        "name": "Северный Ковичен",
+        "latitude": 48.84133,
+        "longitude": -123.68596
+    },
+    {
+        "name": "Норт-Ойстер/Йеллоу-Пойнт",
+        "latitude": 49.04807,
+        "longitude": -123.83395
+    },
+    {
+        "name": "Северный Саанич",
+        "latitude": 48.66634,
+        "longitude": -123.41933
+    },
+    {
+        "name": "Северный Ванкувер",
+        "latitude": 49.31636,
+        "longitude": -123.06934
+    },
+    {
+        "name": "Оук Бэй",
+        "latitude": 48.44964,
+        "longitude": -123.3026
+    },
+    {
+        "name": "Оканаган",
+        "latitude": 50.36386,
+        "longitude": -119.34997
+    },
+    {
+        "name": "Листва",
+        "latitude": 49.35,
+        "longitude": -119.56667
+    },
+    {
+        "name": "Оливер",
+        "latitude": 49.18306,
+        "longitude": -119.5524
+    },
+    {
+        "name": "Осойос",
+        "latitude": 49.03306,
+        "longitude": -119.45237
+    },
+    {
+        "name": "Парксвилл",
+        "latitude": 49.31947,
+        "longitude": -124.31575
+    },
+    {
+        "name": "Региональный округ Пис-Ривер",
+        "latitude": 56.6665,
+        "longitude": -122.75302
+    },
+    {
+        "name": "Пичленд",
+        "latitude": 49.76647,
+        "longitude": -119.73568
+    },
+    {
+        "name": "Пембертон",
+        "latitude": 50.31641,
+        "longitude": -122.80273
+    },
+    {
+        "name": "Пентиктон",
+        "latitude": 49.48062,
+        "longitude": -119.58584
+    },
+    {
+        "name": "Питт Медоуз",
+        "latitude": 49.22119,
+        "longitude": -122.68965
+    },
+    {
+        "name": "Порт Алберни",
+        "latitude": 49.24133,
+        "longitude": -124.8028
+    },
+    {
+        "name": "Порт Кокитлам",
+        "latitude": 49.26637,
+        "longitude": -122.76932
+    },
+    {
+        "name": "Порт Макнил",
+        "latitude": 50.58716,
+        "longitude": -127.08053
+    },
+    {
+        "name": "Порт Муди",
+        "latitude": 49.28124,
+        "longitude": -122.82457
+    },
+    {
+        "name": "Пауэлл Ривер",
+        "latitude": 49.83278,
+        "longitude": -124.52368
+    },
+    {
+        "name": "Принц Джордж",
+        "latitude": 53.9166,
+        "longitude": -122.75301
+    },
+    {
+        "name": "Принц Руперт",
+        "latitude": 54.31507,
+        "longitude": -130.32098
+    },
+    {
+        "name": "Принстон",
+        "latitude": 49.45802,
+        "longitude": -120.51076
+    },
+    {
+        "name": "Пунтледж",
+        "latitude": 49.66168,
+        "longitude": -125.05686
+    },
+    {
+        "name": "Кенель",
+        "latitude": 52.97842,
+        "longitude": -122.4931
+    },
+    {
+        "name": "Региональный округ Альберни-Клайокуот",
+        "latitude": 49.24962,
+        "longitude": -125.33615
+    },
+    {
+        "name": "Региональный округ Центрального Оканагана",
+        "latitude": 49.99978,
+        "longitude": -119.41908
+    },
+    {
+        "name": "Ревелсток",
+        "latitude": 50.99712,
+        "longitude": -118.1953
+    },
+    {
+        "name": "Ричмонд",
+        "latitude": 49.17003,
+        "longitude": -123.13683
+    },
+    {
+        "name": "Россланд",
+        "latitude": 49.08313,
+        "longitude": -117.80224
+    },
+    {
+        "name": "Ройстон",
+        "latitude": 49.64703,
+        "longitude": -124.9467
+    },
+    {
+        "name": "Сальмо",
+        "latitude": 49.19986,
+        "longitude": -117.2689
+    },
+    {
+        "name": "Лосось Рука",
+        "latitude": 50.6998,
+        "longitude": -119.30237
+    },
+    {
+        "name": "Остров Солт-Спринг",
+        "latitude": 48.81852,
+        "longitude": -123.49061
+    },
+    {
+        "name": "Солтер",
+        "latitude": 48.94963,
+        "longitude": -123.76939
+    },
+    {
+        "name": "Сешелт",
+        "latitude": 49.47512,
+        "longitude": -123.75903
+    },
+    {
+        "name": "Сикамовый",
+        "latitude": 50.83312,
+        "longitude": -118.98565
+    },
+    {
+        "name": "Шесть миль",
+        "latitude": 48.45767,
+        "longitude": -123.46088
+    },
+    {
+        "name": "Смитерс",
+        "latitude": 54.78036,
+        "longitude": -127.17428
+    },
+    {
+        "name": "Сук",
+        "latitude": 48.37463,
+        "longitude": -123.72762
+    },
+    {
+        "name": "Южный Пендер-Харбор",
+        "latitude": 49.62202,
+        "longitude": -124.02484
+    },
+    {
+        "name": "Спарвуд",
+        "latitude": 49.73332,
+        "longitude": -114.88532
+    },
+    {
+        "name": "Саммерленд",
+        "latitude": 49.59977,
+        "longitude": -119.66911
+    },
+    {
+        "name": "Суррей",
+        "latitude": 49.10635,
+        "longitude": -122.82509
+    },
+    {
+        "name": "Терраса",
+        "latitude": 54.51634,
+        "longitude": -128.60345
+    },
+    {
+        "name": "Тофино",
+        "latitude": 49.15314,
+        "longitude": -125.90744
+    },
+    {
+        "name": "Тащить",
+        "latitude": 49.09983,
+        "longitude": -117.70223
+    },
+    {
+        "name": "Много времени",
+        "latitude": 49.01667,
+        "longitude": -123.08333
+    },
+    {
+        "name": "Тамблер Ридж",
+        "latitude": 55.13027,
+        "longitude": -120.99415
+    },
+    {
+        "name": "Уклюлет",
+        "latitude": 48.94153,
+        "longitude": -125.54635
+    },
+    {
+        "name": "Ванкувер",
+        "latitude": 49.24966,
+        "longitude": -123.11934
+    },
+    {
+        "name": "Вандерхоф",
+        "latitude": 54.01657,
+        "longitude": -124.01982
+    },
+    {
+        "name": "Вернон",
+        "latitude": 50.26729,
+        "longitude": -119.27337
+    },
+    {
+        "name": "Виктория",
+        "latitude": 48.4359,
+        "longitude": -123.35155
+    },
+    {
+        "name": "Ореховая роща",
+        "latitude": 49.16473,
+        "longitude": -122.64042
+    },
+    {
+        "name": "Добро пожаловать на пляж",
+        "latitude": 49.47959,
+        "longitude": -123.89239
+    },
+    {
+        "name": "Западная часть",
+        "latitude": 49.28333,
+        "longitude": -123.13333
+    },
+    {
+        "name": "Западная Келоуна",
+        "latitude": 49.8625,
+        "longitude": -119.58333
+    },
+    {
+        "name": "Западный Ванкувер",
+        "latitude": 49.36672,
+        "longitude": -123.16652
+    },
+    {
+        "name": "Уистлер",
+        "latitude": 50.11817,
+        "longitude": -122.95396
+    },
+    {
+        "name": "Белый Рок",
+        "latitude": 49.01636,
+        "longitude": -122.8026
+    },
+    {
+        "name": "Уильямс Лейк",
+        "latitude": 52.14153,
+        "longitude": -122.14451
+    },
+    {
+        "name": "Альтона",
+        "latitude": 49.10469,
+        "longitude": -97.55961
+    },
+    {
+        "name": "Босежур",
+        "latitude": 50.0622,
+        "longitude": -96.51669
+    },
+    {
+        "name": "Буассен",
+        "latitude": 49.23062,
+        "longitude": -100.05586
+    },
+    {
+        "name": "Брэндон",
+        "latitude": 49.84692,
+        "longitude": -99.95306
+    },
+    {
+        "name": "Карберри",
+        "latitude": 49.86893,
+        "longitude": -99.36021
+    },
+    {
+        "name": "Карман",
+        "latitude": 49.4992,
+        "longitude": -98.00156
+    },
+    {
+        "name": "Кросс-Лейк 19А",
+        "latitude": 54.65135,
+        "longitude": -97.76848
+    },
+    {
+        "name": "Дофин",
+        "latitude": 51.14941,
+        "longitude": -100.05023
+    },
+    {
+        "name": "Де Салаберри",
+        "latitude": 49.39999,
+        "longitude": -97.00894
+    },
+    {
+        "name": "Делорейн",
+        "latitude": 49.19082,
+        "longitude": -100.49477
+    },
+    {
+        "name": "Флин Флон",
+        "latitude": 54.76703,
+        "longitude": -101.87433
+    },
+    {
+        "name": "Гимли",
+        "latitude": 50.63362,
+        "longitude": -96.99066
+    },
+    {
+        "name": "Грюнталь",
+        "latitude": 49.40668,
+        "longitude": -96.85873
+    },
+    {
+        "name": "Хедингли",
+        "latitude": 49.8753,
+        "longitude": -97.40896
+    },
+    {
+        "name": "Остров Оукс",
+        "latitude": 49.7106,
+        "longitude": -96.98893
+    },
+    {
+        "name": "Килларни",
+        "latitude": 49.18332,
+        "longitude": -99.66364
+    },
+    {
+        "name": "Брокерская деятельность",
+        "latitude": 49.51688,
+        "longitude": -96.50029
+    },
+    {
+        "name": "Боннет Лейк",
+        "latitude": 50.2536,
+        "longitude": -96.06116
+    },
+    {
+        "name": "Ориентир",
+        "latitude": 49.67169,
+        "longitude": -96.82232
+    },
+    {
+        "name": "Лорето",
+        "latitude": 49.73919,
+        "longitude": -96.87232
+    },
+    {
+        "name": "Мелита",
+        "latitude": 49.26811,
+        "longitude": -100.99669
+    },
+    {
+        "name": "Ящик памяти",
+        "latitude": 50.24532,
+        "longitude": -99.84364
+    },
+    {
+        "name": "Мус-Лейк",
+        "latitude": 49.20559,
+        "longitude": -95.30629
+    },
+    {
+        "name": "Морден",
+        "latitude": 49.1919,
+        "longitude": -98.10136
+    },
+    {
+        "name": "Моррис",
+        "latitude": 49.35499,
+        "longitude": -97.36567
+    },
+    {
+        "name": "Нипава",
+        "latitude": 50.22892,
+        "longitude": -99.46642
+    },
+    {
+        "name": "Нивервилль",
+        "latitude": 49.60559,
+        "longitude": -97.04234
+    },
+    {
+        "name": "Портидж-ла-Прери",
+        "latitude": 49.97282,
+        "longitude": -98.29263
+    },
+    {
+        "name": "Реки",
+        "latitude": 50.03081,
+        "longitude": -100.24029
+    },
+    {
+        "name": "Роблин",
+        "latitude": 51.22999,
+        "longitude": -101.3565
+    },
+    {
+        "name": "Селкирк",
+        "latitude": 50.1436,
+        "longitude": -96.88452
+    },
+    {
+        "name": "Шайло",
+        "latitude": 49.80509,
+        "longitude": -99.63175
+    },
+    {
+        "name": "Мышь",
+        "latitude": 49.6172,
+        "longitude": -100.2612
+    },
+    {
+        "name": "Святой Адольф",
+        "latitude": 49.6744,
+        "longitude": -97.11124
+    },
+    {
+        "name": "Штайнбах",
+        "latitude": 49.52579,
+        "longitude": -96.68451
+    },
+    {
+        "name": "Каменная стена",
+        "latitude": 50.13441,
+        "longitude": -97.32676
+    },
+    {
+        "name": "Лебединая река",
+        "latitude": 52.1058,
+        "longitude": -101.26759
+    },
+    {
+        "name": "Па",
+        "latitude": 53.82509,
+        "longitude": -101.25413
+    },
+    {
+        "name": "Томпсон",
+        "latitude": 55.7435,
+        "longitude": -97.85579
+    },
+    {
+        "name": "Вирден",
+        "latitude": 49.8508,
+        "longitude": -100.93262
+    },
+    {
+        "name": "Вест-Сент-Пол",
+        "latitude": 49.9994,
+        "longitude": -97.16284
+    },
+    {
+        "name": "Винклер",
+        "latitude": 49.1817,
+        "longitude": -97.94104
+    },
+    {
+        "name": "Виннипег",
+        "latitude": 49.8844,
+        "longitude": -97.14704
+    },
+    {
+        "name": "Бэй Сти.Анна",
+        "latitude": 47.05231,
+        "longitude": -64.95355
+    },
+    {
+        "name": "Батерст",
+        "latitude": 47.61814,
+        "longitude": -65.65112
+    },
+    {
+        "name": "Буктуш",
+        "latitude": 46.46844,
+        "longitude": -64.73905
+    },
+    {
+        "name": "Кэмпбеллтон",
+        "latitude": 48.00751,
+        "longitude": -66.67272
+    },
+    {
+        "name": "Дьепп",
+        "latitude": 46.07844,
+        "longitude": -64.68735
+    },
+    {
+        "name": "Эдмундстон",
+        "latitude": 47.3737,
+        "longitude": -68.32512
+    },
+    {
+        "name": "Флоренсвиль-Бристоль",
+        "latitude": 46.44353,
+        "longitude": -67.61536
+    },
+    {
+        "name": "Фредериктон",
+        "latitude": 45.94541,
+        "longitude": -66.66558
+    },
+    {
+        "name": "Фанди Бэй",
+        "latitude": 44.741,
+        "longitude": -66.76041
+    },
+    {
+        "name": "Гранд-Диг",
+        "latitude": 46.30014,
+        "longitude": -64.56546
+    },
+    {
+        "name": "Большой Лейкберн",
+        "latitude": 46.07651,
+        "longitude": -64.66818
+    },
+    {
+        "name": "Хэмптон",
+        "latitude": 45.52876,
+        "longitude": -65.85354
+    },
+    {
+        "name": "Харрисон Брук",
+        "latitude": 47.21304,
+        "longitude": -67.92847
+    },
+    {
+        "name": "Кесвик Ридж",
+        "latitude": 46.00011,
+        "longitude": -66.88218
+    },
+    {
+        "name": "Линкольн",
+        "latitude": 45.90012,
+        "longitude": -66.58218
+    },
+    {
+        "name": "Гора Лютес",
+        "latitude": 46.13544,
+        "longitude": -64.90504
+    },
+    {
+        "name": "МакИвен",
+        "latitude": 46.1452,
+        "longitude": -64.78615
+    },
+    {
+        "name": "Мирамичи",
+        "latitude": 47.02895,
+        "longitude": -65.50186
+    },
+    {
+        "name": "Монктон",
+        "latitude": 46.09454,
+        "longitude": -64.7965
+    },
+    {
+        "name": "Накавице",
+        "latitude": 45.99666,
+        "longitude": -67.24028
+    },
+    {
+        "name": "Нью-Мэриленд",
+        "latitude": 45.87932,
+        "longitude": -66.66828
+    },
+    {
+        "name": "Нунан",
+        "latitude": 45.96682,
+        "longitude": -66.53218
+    },
+    {
+        "name": "Оромокто",
+        "latitude": 45.83512,
+        "longitude": -66.47917
+    },
+    {
+        "name": "Ричибукто",
+        "latitude": 46.68073,
+        "longitude": -64.88044
+    },
+    {
+        "name": "Саквилл",
+        "latitude": 45.91875,
+        "longitude": -64.38455
+    },
+    {
+        "name": "Сент-Эндрюс",
+        "latitude": 45.0737,
+        "longitude": -67.05312
+    },
+    {
+        "name": "Сент-Джон",
+        "latitude": 45.27271,
+        "longitude": -66.06766
+    },
+    {
+        "name": "Ты-Анто",
+        "latitude": 46.36294,
+        "longitude": -64.74985
+    },
+    {
+        "name": "Сен-Леонард",
+        "latitude": 47.16317,
+        "longitude": -67.9246
+    },
+    {
+        "name": "Солсбери",
+        "latitude": 46.03905,
+        "longitude": -65.04628
+    },
+    {
+        "name": "Шедиак",
+        "latitude": 46.21981,
+        "longitude": -64.54107
+    },
+    {
+        "name": "Мост Шедиак - река Шедиак",
+        "latitude": 46.26886,
+        "longitude": -64.60047
+    },
+    {
+        "name": "Шиппаган",
+        "latitude": 47.74424,
+        "longitude": -64.70804
+    },
+    {
+        "name": "Звездная деревня",
+        "latitude": 45.88308,
+        "longitude": -66.76905
+    },
+    {
+        "name": "Сассекс",
+        "latitude": 45.72266,
+        "longitude": -65.50663
+    },
+    {
+        "name": "Траксади Шейла",
+        "latitude": 47.51444,
+        "longitude": -64.91806
+    },
+    {
+        "name": "Уэллс",
+        "latitude": 45.39274,
+        "longitude": -65.92313
+    },
+    {
+        "name": "Бэй Робертс",
+        "latitude": 47.59989,
+        "longitude": -53.26478
+    },
+    {
+        "name": "Бэй Сент-Джордж Саут",
+        "latitude": 48.22781,
+        "longitude": -58.84162
+    },
+    {
+        "name": "Бонависта",
+        "latitude": 48.64989,
+        "longitude": -53.11474
+    },
+    {
+        "name": "Ботвуд",
+        "latitude": 49.14994,
+        "longitude": -55.34819
+    },
+    {
+        "name": "Бургео",
+        "latitude": 47.61668,
+        "longitude": -57.61516
+    },
+    {
+        "name": "Карбонеар",
+        "latitude": 47.73319,
+        "longitude": -53.21478
+    },
+    {
+        "name": "Каталина",
+        "latitude": 48.51659,
+        "longitude": -53.08135
+    },
+    {
+        "name": "Ла-Манш-Порт-о-Баски",
+        "latitude": 47.57286,
+        "longitude": -59.13808
+    },
+    {
+        "name": "Кларенвилл-Шоул-Харбор",
+        "latitude": 48.1805,
+        "longitude": -53.96982
+    },
+    {
+        "name": "Концепшн Бэй Юг",
+        "latitude": 47.49989,
+        "longitude": -52.99806
+    },
+    {
+        "name": "Корнер Брук",
+        "latitude": 48.95001,
+        "longitude": -57.95202
+    },
+    {
+        "name": "Оленье озеро",
+        "latitude": 49.16671,
+        "longitude": -57.43163
+    },
+    {
+        "name": "Остров Фого",
+        "latitude": 49.71649,
+        "longitude": -54.16981
+    },
+    {
+        "name": "Гамбо",
+        "latitude": 48.7832,
+        "longitude": -54.21482
+    },
+    {
+        "name": "Гулдс",
+        "latitude": 47.45532,
+        "longitude": -52.77552
+    },
+    {
+        "name": "Гранд Банк",
+        "latitude": 47.09995,
+        "longitude": -55.76504
+    },
+    {
+        "name": "Гранд-Фолс-Виндзор",
+        "latitude": 48.93324,
+        "longitude": -55.66492
+    },
+    {
+        "name": "Хэппи Вэлли-Гуз Бэй",
+        "latitude": 53.3038,
+        "longitude": -60.32576
+    },
+    {
+        "name": "Гавань Бретон",
+        "latitude": 47.48325,
+        "longitude": -55.79833
+    },
+    {
+        "name": "Лабрадор Сити",
+        "latitude": 52.94626,
+        "longitude": -66.91137
+    },
+    {
+        "name": "Льюиспорт",
+        "latitude": 49.24993,
+        "longitude": -55.04816
+    },
+    {
+        "name": "Мэристаун",
+        "latitude": 47.16663,
+        "longitude": -55.14829
+    },
+    {
+        "name": "Гора Перл",
+        "latitude": 47.51659,
+        "longitude": -52.78135
+    },
+    {
+        "name": "Пасадена",
+        "latitude": 49.01671,
+        "longitude": -57.59837
+    },
+    {
+        "name": "Спрингдейл",
+        "latitude": 49.49995,
+        "longitude": -56.06492
+    },
+    {
+        "name": "Святой Антоний",
+        "latitude": 51.37039,
+        "longitude": -55.59743
+    },
+    {
+        "name": "Сент-Джонс",
+        "latitude": 47.56494,
+        "longitude": -52.70931
+    },
+    {
+        "name": "Стивенвилл",
+        "latitude": 48.55001,
+        "longitude": -58.5818
+    },
+    {
+        "name": "Стивенвилл Кроссинг",
+        "latitude": 48.50001,
+        "longitude": -58.4318
+    },
+    {
+        "name": "Торбей",
+        "latitude": 47.66659,
+        "longitude": -52.73135
+    },
+    {
+        "name": "Бухта Верхнего острова",
+        "latitude": 47.64989,
+        "longitude": -53.21478
+    },
+    {
+        "name": "Ты живешь со мной",
+        "latitude": 47.63319,
+        "longitude": -52.94806
+    },
+    {
+        "name": "Бехчоко",
+        "latitude": 62.8025,
+        "longitude": -116.04639
+    },
+    {
+        "name": "Форт Макферсон",
+        "latitude": 67.43863,
+        "longitude": -134.88543
+    },
+    {
+        "name": "Форт Смит",
+        "latitude": 60.00439,
+        "longitude": -111.88871
+    },
+    {
+        "name": "Хэй Ривер",
+        "latitude": 60.81555,
+        "longitude": -115.79993
+    },
+    {
+        "name": "Инувик",
+        "latitude": 68.34986,
+        "longitude": -133.72181
+    },
+    {
+        "name": "Норман Уэллс",
+        "latitude": 65.28201,
+        "longitude": -126.8329
+    },
+    {
+        "name": "Йеллоунайф",
+        "latitude": 62.45411,
+        "longitude": -114.37248
+    },
+    {
+        "name": "Амхерст",
+        "latitude": 45.83345,
+        "longitude": -64.19874
+    },
+    {
+        "name": "Округ Аннаполис",
+        "latitude": 44.58345,
+        "longitude": -65.16551
+    },
+    {
+        "name": "антигонистический",
+        "latitude": 45.61685,
+        "longitude": -61.99858
+    },
+    {
+        "name": "Бервик",
+        "latitude": 45.05015,
+        "longitude": -64.73208
+    },
+    {
+        "name": "Бриджуотер",
+        "latitude": 44.37856,
+        "longitude": -64.51882
+    },
+    {
+        "name": "Округ Кейп-Бретон",
+        "latitude": 46.00014,
+        "longitude": -60.31516
+    },
+    {
+        "name": "Честер",
+        "latitude": 44.54225,
+        "longitude": -64.23891
+    },
+    {
+        "name": "Колчестер",
+        "latitude": 45.33345,
+        "longitude": -63.24868
+    },
+    {
+        "name": "Коул Харбор",
+        "latitude": 44.67244,
+        "longitude": -63.47506
+    },
+    {
+        "name": "Коровья бухта",
+        "latitude": 44.63141,
+        "longitude": -63.43218
+    },
+    {
+        "name": "Дартмут",
+        "latitude": 44.67134,
+        "longitude": -63.57719
+    },
+    {
+        "name": "Дигби",
+        "latitude": 44.62188,
+        "longitude": -65.7586
+    },
+    {
+        "name": "Дигби Каунти",
+        "latitude": 44.36685,
+        "longitude": -65.69884
+    },
+    {
+        "name": "английский угол",
+        "latitude": 44.73345,
+        "longitude": -63.78201
+    },
+    {
+        "name": "Эскасон 3",
+        "latitude": 45.94522,
+        "longitude": -60.61617
+    },
+    {
+        "name": "Фолл-Ривер",
+        "latitude": 44.81685,
+        "longitude": -63.6154
+    },
+    {
+        "name": "Глейс Бэй",
+        "latitude": 46.19695,
+        "longitude": -59.95698
+    },
+    {
+        "name": "Гринвуд",
+        "latitude": 44.97413,
+        "longitude": -64.93169
+    },
+    {
+        "name": "Галифакс",
+        "latitude": 44.64533,
+        "longitude": -63.57239
+    },
+    {
+        "name": "Хантспорт",
+        "latitude": 45.06685,
+        "longitude": -64.16544
+    },
+    {
+        "name": "Подразделение Хейса",
+        "latitude": 45.05519,
+        "longitude": -64.58795
+    },
+    {
+        "name": "Кентвилл",
+        "latitude": 45.0771,
+        "longitude": -64.49605
+    },
+    {
+        "name": "Озеро Эхо",
+        "latitude": 44.73345,
+        "longitude": -63.38198
+    },
+    {
+        "name": "Ланц",
+        "latitude": 44.98345,
+        "longitude": -63.48199
+    },
+    {
+        "name": "Нижний Саквилл",
+        "latitude": 44.77599,
+        "longitude": -63.67865
+    },
+    {
+        "name": "Люненбург",
+        "latitude": 44.37847,
+        "longitude": -64.31658
+    },
+    {
+        "name": "Миддлтон",
+        "latitude": 44.94284,
+        "longitude": -65.07022
+    },
+    {
+        "name": "Нью Глазго",
+        "latitude": 45.58344,
+        "longitude": -62.64863
+    },
+    {
+        "name": "Оксфорд",
+        "latitude": 45.73345,
+        "longitude": -63.86542
+    },
+    {
+        "name": "Паррсборо",
+        "latitude": 45.40567,
+        "longitude": -64.32585
+    },
+    {
+        "name": "Пикту",
+        "latitude": 45.67875,
+        "longitude": -62.70936
+    },
+    {
+        "name": "Округ Пикту",
+        "latitude": 45.50015,
+        "longitude": -62.58193
+    },
+    {
+        "name": "Порт Хоксберс",
+        "latitude": 45.61685,
+        "longitude": -61.34853
+    },
+    {
+        "name": "Порт-Уильямс",
+        "latitude": 45.10015,
+        "longitude": -64.41546
+    },
+    {
+        "name": "Принсвилл",
+        "latitude": 45.76684,
+        "longitude": -61.29853
+    },
+    {
+        "name": "Шелберн",
+        "latitude": 43.76325,
+        "longitude": -65.32355
+    },
+    {
+        "name": "Спрингхилл",
+        "latitude": 45.65015,
+        "longitude": -64.04873
+    },
+    {
+        "name": "Сидней",
+        "latitude": 46.1351,
+        "longitude": -60.1831
+    },
+    {
+        "name": "Сидней Майнс",
+        "latitude": 46.23669,
+        "longitude": -60.21767
+    },
+    {
+        "name": "Труро",
+        "latitude": 45.36685,
+        "longitude": -63.26538
+    },
+    {
+        "name": "Виндзор",
+        "latitude": 44.98345,
+        "longitude": -64.13204
+    },
+    {
+        "name": "Вольфвилл",
+        "latitude": 45.08345,
+        "longitude": -64.36546
+    },
+    {
+        "name": "Ярмут",
+        "latitude": 43.83345,
+        "longitude": -66.11557
+    },
+    {
+        "name": "Клайд Ривер",
+        "latitude": 70.47233,
+        "longitude": -68.58987
+    },
+    {
+        "name": "Хоа-Хейвен",
+        "latitude": 68.62602,
+        "longitude": -95.87836
+    },
+    {
+        "name": "Икалуит",
+        "latitude": 63.74697,
+        "longitude": -68.51727
+    },
+    {
+        "name": "Куглуктук",
+        "latitude": 67.82743,
+        "longitude": -115.09649
+    },
+    {
+        "name": "Направление",
+        "latitude": 66.14642,
+        "longitude": -65.69996
+    },
+    {
+        "name": "Ранкин-Интел",
+        "latitude": 62.80906,
+        "longitude": -92.08534
+    },
+    {
+        "name": "Аякс",
+        "latitude": 43.85012,
+        "longitude": -79.03288
+    },
+    {
+        "name": "Алгома",
+        "latitude": 47.88364,
+        "longitude": -84.42406
+    },
+    {
+        "name": "Аллистон",
+        "latitude": 44.15011,
+        "longitude": -79.86635
+    },
+    {
+        "name": "Амхерстбург",
+        "latitude": 42.10009,
+        "longitude": -83.09985
+    },
+    {
+        "name": "Амиго Бич",
+        "latitude": 44.70011,
+        "longitude": -79.39963
+    },
+    {
+        "name": "Анкастер",
+        "latitude": 43.21806,
+        "longitude": -79.98716
+    },
+    {
+        "name": "Ангус",
+        "latitude": 44.31681,
+        "longitude": -79.88295
+    },
+    {
+        "name": "Арнприор",
+        "latitude": 45.43341,
+        "longitude": -76.34939
+    },
+    {
+        "name": "на чердаке",
+        "latitude": 48.75667,
+        "longitude": -91.62409
+    },
+    {
+        "name": "Аттавапискат",
+        "latitude": 52.92774,
+        "longitude": -82.41669
+    },
+    {
+        "name": "Аврора",
+        "latitude": 44.00011,
+        "longitude": -79.46632
+    },
+    {
+        "name": "Эйлмер",
+        "latitude": 42.76679,
+        "longitude": -80.98302
+    },
+    {
+        "name": "Азильда",
+        "latitude": 46.55008,
+        "longitude": -81.09975
+    },
+    {
+        "name": "Баллантрэ",
+        "latitude": 44.03342,
+        "longitude": -79.2996
+    },
+    {
+        "name": "Бэнкрофт",
+        "latitude": 45.05752,
+        "longitude": -77.85702
+    },
+    {
+        "name": "Барри",
+        "latitude": 44.40011,
+        "longitude": -79.66634
+    },
+    {
+        "name": "Ванна",
+        "latitude": 44.18342,
+        "longitude": -76.78273
+    },
+    {
+        "name": "Бельвиль",
+        "latitude": 44.16682,
+        "longitude": -77.38277
+    },
+    {
+        "name": "Колокольчики Уголки",
+        "latitude": 45.31588,
+        "longitude": -75.83012
+    },
+    {
+        "name": "Белмонт",
+        "latitude": 42.88339,
+        "longitude": -81.08303
+    },
+    {
+        "name": "Бинбрук",
+        "latitude": 43.12135,
+        "longitude": -79.81104
+    },
+    {
+        "name": "Голубая вода",
+        "latitude": 43.46679,
+        "longitude": -81.59977
+    },
+    {
+        "name": "Бурже",
+        "latitude": 45.4334,
+        "longitude": -75.1493
+    },
+    {
+        "name": "Брейсбридж",
+        "latitude": 45.03341,
+        "longitude": -79.31633
+    },
+    {
+        "name": "Брэмптон",
+        "latitude": 43.68341,
+        "longitude": -79.76633
+    },
+    {
+        "name": "Казарка",
+        "latitude": 43.1334,
+        "longitude": -80.34967
+    },
+    {
+        "name": "Брантфорд",
+        "latitude": 43.1334,
+        "longitude": -80.26636
+    },
+    {
+        "name": "Броквилл",
+        "latitude": 44.59132,
+        "longitude": -75.68705
+    },
+    {
+        "name": "Брюссель",
+        "latitude": 43.73339,
+        "longitude": -81.24975
+    },
+    {
+        "name": "Берфорд",
+        "latitude": 43.10292,
+        "longitude": -80.42869
+    },
+    {
+        "name": "Берлингтон",
+        "latitude": 43.38621,
+        "longitude": -79.83713
+    },
+    {
+        "name": "Кембридж",
+        "latitude": 43.3601,
+        "longitude": -80.31269
+    },
+    {
+        "name": "Камлакье",
+        "latitude": 43.03596,
+        "longitude": -82.1616
+    },
+    {
+        "name": "Капреол",
+        "latitude": 46.70626,
+        "longitude": -80.92109
+    },
+    {
+        "name": "Карлтон Плейс",
+        "latitude": 45.13341,
+        "longitude": -76.14938
+    },
+    {
+        "name": "Кассельман",
+        "latitude": 45.3168,
+        "longitude": -75.0826
+    },
+    {
+        "name": "Чатем",
+        "latitude": 42.41224,
+        "longitude": -82.18494
+    },
+    {
+        "name": "Чатем-Кент",
+        "latitude": 42.40009,
+        "longitude": -82.1831
+    },
+    {
+        "name": "Кларенс-Рокленд",
+        "latitude": 45.5501,
+        "longitude": -75.29101
+    },
+    {
+        "name": "Кобург",
+        "latitude": 43.95977,
+        "longitude": -78.16515
+    },
+    {
+        "name": "Кокрейновский район",
+        "latitude": 50.00022,
+        "longitude": -82.99979
+    },
+    {
+        "name": "Коллингвуд",
+        "latitude": 44.4834,
+        "longitude": -80.21638
+    },
+    {
+        "name": "Конкорд",
+        "latitude": 43.80011,
+        "longitude": -79.48291
+    },
+    {
+        "name": "Констанс Бэй",
+        "latitude": 45.50011,
+        "longitude": -76.08267
+    },
+    {
+        "name": "Кукстаун",
+        "latitude": 44.18341,
+        "longitude": -79.69964
+    },
+    {
+        "name": "Корнуолл",
+        "latitude": 45.01809,
+        "longitude": -74.72815
+    },
+    {
+        "name": "Корунья",
+        "latitude": 42.88338,
+        "longitude": -82.43313
+    },
+    {
+        "name": "Глубокая река",
+        "latitude": 46.10012,
+        "longitude": -77.49949
+    },
+    {
+        "name": "Делавэр",
+        "latitude": 42.91679,
+        "longitude": -81.41646
+    },
+    {
+        "name": "Дезеронто",
+        "latitude": 44.20012,
+        "longitude": -77.04944
+    },
+    {
+        "name": "Дорчестер",
+        "latitude": 42.98339,
+        "longitude": -81.06643
+    },
+    {
+        "name": "Даулинг",
+        "latitude": 46.59111,
+        "longitude": -81.33917
+    },
+    {
+        "name": "Драйден",
+        "latitude": 49.78334,
+        "longitude": -92.75032
+    },
+    {
+        "name": "Дарем",
+        "latitude": 44.20012,
+        "longitude": -78.99957
+    },
+    {
+        "name": "Ушной водопад",
+        "latitude": 50.63955,
+        "longitude": -93.23526
+    },
+    {
+        "name": "Ист-Гвиллимбери",
+        "latitude": 44.10087,
+        "longitude": -79.43785
+    },
+    {
+        "name": "Восточный Йорк",
+        "latitude": 43.69053,
+        "longitude": -79.32794
+    },
+    {
+        "name": "Эллиот Лейк",
+        "latitude": 46.38336,
+        "longitude": -82.63315
+    },
+    {
+        "name": "Элмвейл",
+        "latitude": 44.5834,
+        "longitude": -79.86636
+    },
+    {
+        "name": "Энглхарт",
+        "latitude": 47.81686,
+        "longitude": -79.8664
+    },
+    {
+        "name": "испанский",
+        "latitude": 46.25837,
+        "longitude": -81.76649
+    },
+    {
+        "name": "Эссекс",
+        "latitude": 42.17509,
+        "longitude": -82.82483
+    },
+    {
+        "name": "Этобико",
+        "latitude": 43.65421,
+        "longitude": -79.56711
+    },
+    {
+        "name": "Эксетер",
+        "latitude": 43.3435863,
+        "longitude": -81.4972602
+    },
+    {
+        "name": "Форт Эри",
+        "latitude": 42.90012,
+        "longitude": -78.93286
+    },
+    {
+        "name": "Форт Фрэнсис",
+        "latitude": 48.61667,
+        "longitude": -93.4003
+    },
+    {
+        "name": "Гананок",
+        "latitude": 44.33342,
+        "longitude": -76.16607
+    },
+    {
+        "name": "Гленко",
+        "latitude": 42.75009,
+        "longitude": -81.71648
+    },
+    {
+        "name": "Годерих",
+        "latitude": 43.74171,
+        "longitude": -81.71339
+    },
+    {
+        "name": "Золотой",
+        "latitude": 51.05917,
+        "longitude": -93.73568
+    },
+    {
+        "name": "Грейвенхерст",
+        "latitude": 44.91681,
+        "longitude": -79.36633
+    },
+    {
+        "name": "Большой Напани",
+        "latitude": 44.25012,
+        "longitude": -76.94944
+    },
+    {
+        "name": "Большой Садбери",
+        "latitude": 46.49,
+        "longitude": -80.99001
+    },
+    {
+        "name": "Гринстоун",
+        "latitude": 49.73343,
+        "longitude": -87.16668
+    },
+    {
+        "name": "Гвельф",
+        "latitude": 43.54594,
+        "longitude": -80.25599
+    },
+    {
+        "name": "Округ Халдиманд",
+        "latitude": 42.98341,
+        "longitude": -79.86633
+    },
+    {
+        "name": "Халибертон-Виллидж",
+        "latitude": 45.05154,
+        "longitude": -78.52245
+    },
+    {
+        "name": "Хэлтон",
+        "latitude": 43.50011,
+        "longitude": -79.88294
+    },
+    {
+        "name": "Гамильтон",
+        "latitude": 43.25011,
+        "longitude": -79.84963
+    },
+    {
+        "name": "Ганновер",
+        "latitude": 44.15009,
+        "longitude": -81.03303
+    },
+    {
+        "name": "Харристон",
+        "latitude": 43.90009,
+        "longitude": -80.88302
+    },
+    {
+        "name": "Хоксбери",
+        "latitude": 45.60009,
+        "longitude": -74.61595
+    },
+    {
+        "name": "Херст",
+        "latitude": 49.68351,
+        "longitude": -83.66654
+    },
+    {
+        "name": "Хорнпейн",
+        "latitude": 49.21451,
+        "longitude": -84.77617
+    },
+    {
+        "name": "Хантсвилл",
+        "latitude": 45.33341,
+        "longitude": -79.21632
+    },
+    {
+        "name": "Гурон Восток",
+        "latitude": 43.61679,
+        "longitude": -81.29975
+    },
+    {
+        "name": "Ингерсолл",
+        "latitude": 43.03339,
+        "longitude": -80.88302
+    },
+    {
+        "name": "Иннисфил",
+        "latitude": 44.30011,
+        "longitude": -79.64964
+    },
+    {
+        "name": "Ирокезский водопад",
+        "latitude": 48.76688,
+        "longitude": -80.68307
+    },
+    {
+        "name": "Джарвис",
+        "latitude": 42.88341,
+        "longitude": -80.09965
+    },
+    {
+        "name": "Каната",
+        "latitude": 45.3001,
+        "longitude": -75.91606
+    },
+    {
+        "name": "Капускасинг",
+        "latitude": 49.41694,
+        "longitude": -82.43308
+    },
+    {
+        "name": "Озера Каварта",
+        "latitude": 44.58342,
+        "longitude": -78.83288
+    },
+    {
+        "name": "Кенора",
+        "latitude": 49.76741,
+        "longitude": -94.48985
+    },
+    {
+        "name": "Кесвик",
+        "latitude": 44.25011,
+        "longitude": -79.46632
+    },
+    {
+        "name": "Кинкардин",
+        "latitude": 44.18339,
+        "longitude": -81.63307
+    },
+    {
+        "name": "Король",
+        "latitude": 43.96514,
+        "longitude": -79.59011
+    },
+    {
+        "name": "Кингстон",
+        "latitude": 44.22976,
+        "longitude": -76.48098
+    },
+    {
+        "name": "Озеро Киркланд",
+        "latitude": 48.14461,
+        "longitude": -80.03767
+    },
+    {
+        "name": "Китченер",
+        "latitude": 43.42537,
+        "longitude": -80.5112
+    },
+    {
+        "name": "Лось",
+        "latitude": 45.6198,
+        "longitude": -74.6915
+    },
+    {
+        "name": "Лейкфилд",
+        "latitude": 44.43342,
+        "longitude": -78.26623
+    },
+    {
+        "name": "Ламбтон Шорс",
+        "latitude": 43.16678,
+        "longitude": -81.93309
+    },
+    {
+        "name": "Ткани",
+        "latitude": 48.5668,
+        "longitude": -89.35013
+    },
+    {
+        "name": "Лимингтон",
+        "latitude": 42.05009,
+        "longitude": -82.59981
+    },
+    {
+        "name": "Лимож",
+        "latitude": 45.3334,
+        "longitude": -75.24931
+    },
+    {
+        "name": "Линдси",
+        "latitude": 44.35012,
+        "longitude": -78.73286
+    },
+    {
+        "name": "Листоуэл",
+        "latitude": 43.7334,
+        "longitude": -80.94973
+    },
+    {
+        "name": "Маленький ток",
+        "latitude": 45.97927,
+        "longitude": -81.9248
+    },
+    {
+        "name": "Оживленный",
+        "latitude": 46.43338,
+        "longitude": -81.14975
+    },
+    {
+        "name": "Лондон",
+        "latitude": 42.98339,
+        "longitude": -81.23304
+    },
+    {
+        "name": "Лукан",
+        "latitude": 43.18339,
+        "longitude": -81.39976
+    },
+    {
+        "name": "Мадок",
+        "latitude": 44.50842,
+        "longitude": -77.47448
+    },
+    {
+        "name": "Манитулинский район",
+        "latitude": 45.75007,
+        "longitude": -82.49985
+    },
+    {
+        "name": "Манитувадж",
+        "latitude": 49.12152,
+        "longitude": -85.8403
+    },
+    {
+        "name": "Марафон",
+        "latitude": 48.7501,
+        "longitude": -86.43322
+    },
+    {
+        "name": "Маркдейл",
+        "latitude": 44.3168,
+        "longitude": -80.64971
+    },
+    {
+        "name": "Маркхэм",
+        "latitude": 43.86682,
+        "longitude": -79.2663
+    },
+    {
+        "name": "Мэтью",
+        "latitude": 46.31681,
+        "longitude": -78.69957
+    },
+    {
+        "name": "Мифорд",
+        "latitude": 44.60725,
+        "longitude": -80.61081
+    },
+    {
+        "name": "Меткалф",
+        "latitude": 45.2334,
+        "longitude": -75.46603
+    },
+    {
+        "name": "Мидленд",
+        "latitude": 44.7501,
+        "longitude": -79.88296
+    },
+    {
+        "name": "Милдмэй",
+        "latitude": 44.05009,
+        "longitude": -81.11644
+    },
+    {
+        "name": "Милбрук",
+        "latitude": 44.15012,
+        "longitude": -78.44954
+    },
+    {
+        "name": "Милтон",
+        "latitude": 43.51681,
+        "longitude": -79.88294
+    },
+    {
+        "name": "Миссиссога",
+        "latitude": 43.5789,
+        "longitude": -79.6583
+    },
+    {
+        "name": "Миссиссога-Бич",
+        "latitude": 43.26682,
+        "longitude": -79.08287
+    },
+    {
+        "name": "Лосиная фабрика",
+        "latitude": 51.26689,
+        "longitude": -80.61624
+    },
+    {
+        "name": "Мусони",
+        "latitude": 51.27931,
+        "longitude": -80.6345
+    },
+    {
+        "name": "Моррисбург",
+        "latitude": 44.9001,
+        "longitude": -75.18261
+    },
+    {
+        "name": "Гора Альберт",
+        "latitude": 44.13341,
+        "longitude": -79.3163
+    },
+    {
+        "name": "Маунт Бриджес",
+        "latitude": 42.90009,
+        "longitude": -81.48306
+    },
+    {
+        "name": "Напани",
+        "latitude": 44.25012,
+        "longitude": -76.94944
+    },
+    {
+        "name": "Напани центр города",
+        "latitude": 44.24832,
+        "longitude": -76.95069
+    },
+    {
+        "name": "Нибинг",
+        "latitude": 48.1668,
+        "longitude": -89.41683
+    },
+    {
+        "name": "в Непине",
+        "latitude": 45.35215,
+        "longitude": -75.73975
+    },
+    {
+        "name": "Новый Гамбург",
+        "latitude": 43.38339,
+        "longitude": -80.6997
+    },
+    {
+        "name": "Новый рынок",
+        "latitude": 44.05011,
+        "longitude": -79.46631
+    },
+    {
+        "name": "Ниагарский водопад",
+        "latitude": 43.10012,
+        "longitude": -79.06627
+    },
+    {
+        "name": "Ниписсингский район",
+        "latitude": 46.0001,
+        "longitude": -78.99959
+    },
+    {
+        "name": "Норфолк Каунти",
+        "latitude": 42.8334,
+        "longitude": -80.38297
+    },
+    {
+        "name": "Норт Бэй",
+        "latitude": 46.3168,
+        "longitude": -79.46633
+    },
+    {
+        "name": "Северный Перт",
+        "latitude": 43.7251,
+        "longitude": -80.96723
+    },
+    {
+        "name": "Северный Йорк",
+        "latitude": 43.76681,
+        "longitude": -79.4163
+    },
+    {
+        "name": "Норвуд",
+        "latitude": 44.38342,
+        "longitude": -77.98281
+    },
+    {
+        "name": "Оквилл",
+        "latitude": 43.45011,
+        "longitude": -79.68292
+    },
+    {
+        "name": "Актер",
+        "latitude": 44.29897,
+        "longitude": -78.55989
+    },
+    {
+        "name": "Оранжвилль",
+        "latitude": 43.9168,
+        "longitude": -80.09967
+    },
+    {
+        "name": "Ориллия",
+        "latitude": 44.60868,
+        "longitude": -79.42068
+    },
+    {
+        "name": "Осгуд",
+        "latitude": 45.14887,
+        "longitude": -75.59778
+    },
+    {
+        "name": "Ошава",
+        "latitude": 43.90012,
+        "longitude": -78.84957
+    },
+    {
+        "name": "Оттава",
+        "latitude": 45.41117,
+        "longitude": -75.69812
+    },
+    {
+        "name": "Оуэн Саунд",
+        "latitude": 44.56717,
+        "longitude": -80.94349
+    },
+    {
+        "name": "Пейсли",
+        "latitude": 44.30641,
+        "longitude": -81.27265
+    },
+    {
+        "name": "Париж",
+        "latitude": 43.2,
+        "longitude": -80.38333
+    },
+    {
+        "name": "Паркхилл",
+        "latitude": 43.15993,
+        "longitude": -81.68464
+    },
+    {
+        "name": "Парри-Саунд",
+        "latitude": 45.34732,
+        "longitude": -80.03527
+    },
+    {
+        "name": "Район Пэрри-Саунд",
+        "latitude": 45.75011,
+        "longitude": -79.83297
+    },
+    {
+        "name": "Чистить",
+        "latitude": 43.75011,
+        "longitude": -79.78293
+    },
+    {
+        "name": "Пембрук",
+        "latitude": 45.81681,
+        "longitude": -77.11616
+    },
+    {
+        "name": "Перт",
+        "latitude": 44.90011,
+        "longitude": -76.24939
+    },
+    {
+        "name": "Петавава",
+        "latitude": 45.89452,
+        "longitude": -77.28007
+    },
+    {
+        "name": "Питерборо",
+        "latitude": 44.30012,
+        "longitude": -78.31623
+    },
+    {
+        "name": "Петролия",
+        "latitude": 42.86678,
+        "longitude": -82.14981
+    },
+    {
+        "name": "Пикеринг",
+        "latitude": 43.90012,
+        "longitude": -79.13289
+    },
+    {
+        "name": "Пиктон",
+        "latitude": 44.00012,
+        "longitude": -77.13275
+    },
+    {
+        "name": "Плантагенет",
+        "latitude": 45.5326,
+        "longitude": -74.99369
+    },
+    {
+        "name": "Платтсвилл",
+        "latitude": 43.3001,
+        "longitude": -80.61639
+    },
+    {
+        "name": "Порт-цветоборство",
+        "latitude": 42.90012,
+        "longitude": -79.23288
+    },
+    {
+        "name": "Порт-Хоуп",
+        "latitude": 44.01682,
+        "longitude": -78.39953
+    },
+    {
+        "name": "Порт Роуэн",
+        "latitude": 42.6168,
+        "longitude": -80.46638
+    },
+    {
+        "name": "Порт-Санли",
+        "latitude": 42.66679,
+        "longitude": -81.21644
+    },
+    {
+        "name": "Повассан",
+        "latitude": 46.0334,
+        "longitude": -79.34961
+    },
+    {
+        "name": "Прескотт",
+        "latitude": 44.71681,
+        "longitude": -75.51604
+    },
+    {
+        "name": "Принц Эдвард",
+        "latitude": 44.00012,
+        "longitude": -77.24946
+    },
+    {
+        "name": "Квинсвуд Хайтс",
+        "latitude": 45.47083,
+        "longitude": -75.50556
+    },
+    {
+        "name": "Квинт Вест",
+        "latitude": 44.18342,
+        "longitude": -77.56618
+    },
+    {
+        "name": "Район Рейни-Ривер",
+        "latitude": 48.49981,
+        "longitude": -92.50031
+    },
+    {
+        "name": "Полете-сфера",
+        "latitude": 46.60873,
+        "longitude": -81.20763
+    },
+    {
+        "name": "Красное озеро",
+        "latitude": 51.01678,
+        "longitude": -93.82736
+    },
+    {
+        "name": "Региональный муниципалитет Ватерлоо",
+        "latitude": 43.5001,
+        "longitude": -80.49969
+    },
+    {
+        "name": "Ренфрю",
+        "latitude": 45.46681,
+        "longitude": -76.68272
+    },
+    {
+        "name": "Ричмонд",
+        "latitude": 45.1834,
+        "longitude": -75.83266
+    },
+    {
+        "name": "Ричмонд Хилл",
+        "latitude": 43.87111,
+        "longitude": -79.43725
+    },
+    {
+        "name": "Риджтаун",
+        "latitude": 42.43339,
+        "longitude": -81.89978
+    },
+    {
+        "name": "Роквуд",
+        "latitude": 43.61899,
+        "longitude": -80.14441
+    },
+    {
+        "name": "Рассел",
+        "latitude": 45.2501,
+        "longitude": -75.36602
+    },
+    {
+        "name": "Сарния",
+        "latitude": 42.97866,
+        "longitude": -82.40407
+    },
+    {
+        "name": "Су-Сент. увеличивать",
+        "latitude": 46.51677,
+        "longitude": -84.33325
+    },
+    {
+        "name": "Скарборо",
+        "latitude": 43.77223,
+        "longitude": -79.25666
+    },
+    {
+        "name": "Сифорт",
+        "latitude": 43.55009,
+        "longitude": -81.39976
+    },
+    {
+        "name": "Шелберн",
+        "latitude": 44.0787,
+        "longitude": -80.20408
+    },
+    {
+        "name": "Симко",
+        "latitude": 42.8334,
+        "longitude": -80.29967
+    },
+    {
+        "name": "Смотровая площадка Сиу",
+        "latitude": 50.06676,
+        "longitude": -91.98358
+    },
+    {
+        "name": "Скейт-парк",
+        "latitude": 44.25122,
+        "longitude": -76.94424
+    },
+    {
+        "name": "Смит-Фолс",
+        "latitude": 44.90452,
+        "longitude": -76.02333
+    },
+    {
+        "name": "Южный Гурон",
+        "latitude": 43.31679,
+        "longitude": -81.51647
+    },
+    {
+        "name": "Южная река",
+        "latitude": 45.8334,
+        "longitude": -79.38293
+    },
+    {
+        "name": "Сент-Катаринс",
+        "latitude": 43.17126,
+        "longitude": -79.24267
+    },
+    {
+        "name": "Святой Георг",
+        "latitude": 43.24495,
+        "longitude": -80.25144
+    },
+    {
+        "name": "Сент-Томас",
+        "latitude": 42.77361,
+        "longitude": -81.18038
+    },
+    {
+        "name": "Стирлинг",
+        "latitude": 44.30012,
+        "longitude": -77.54948
+    },
+    {
+        "name": "Каменная точка",
+        "latitude": 44.26681,
+        "longitude": -79.53292
+    },
+    {
+        "name": "Стратфорд",
+        "latitude": 43.36679,
+        "longitude": -80.94972
+    },
+    {
+        "name": "Садбери",
+        "latitude": 47.16679,
+        "longitude": -81.9998
+    },
+    {
+        "name": "Тависток",
+        "latitude": 43.31679,
+        "longitude": -80.83302
+    },
+    {
+        "name": "Темискаминг Шорс",
+        "latitude": 47.49376,
+        "longitude": -79.71529
+    },
+    {
+        "name": "Салоник",
+        "latitude": 46.25006,
+        "longitude": -83.5666
+    },
+    {
+        "name": "Торнхилл",
+        "latitude": 43.8170848,
+        "longitude": -79.4501194
+    },
+    {
+        "name": "Торольд",
+        "latitude": 43.11682,
+        "longitude": -79.19958
+    },
+    {
+        "name": "Тандер-Бей",
+        "latitude": 48.38202,
+        "longitude": -89.25018
+    },
+    {
+        "name": "Район Тандер-Бей",
+        "latitude": 49.50011,
+        "longitude": -88.50004
+    },
+    {
+        "name": "Тимискамингский район",
+        "latitude": 47.75016,
+        "longitude": -80.33303
+    },
+    {
+        "name": "Тимминс",
+        "latitude": 48.46686,
+        "longitude": -81.33312
+    },
+    {
+        "name": "Тобермори",
+        "latitude": 45.25007,
+        "longitude": -81.66647
+    },
+    {
+        "name": "Торонто",
+        "latitude": 43.70011,
+        "longitude": -79.4163
+    },
+    {
+        "name": "округ Торонто",
+        "latitude": 43.69655,
+        "longitude": -79.42909
+    },
+    {
+        "name": "Тоттенхэм",
+        "latitude": 44.02437,
+        "longitude": -79.80553
+    },
+    {
+        "name": "Твид",
+        "latitude": 44.47512,
+        "longitude": -77.31616
+    },
+    {
+        "name": "Аксбридж",
+        "latitude": 44.10012,
+        "longitude": -79.11628
+    },
+    {
+        "name": "Долина Восток",
+        "latitude": 46.66773,
+        "longitude": -81.00028
+    },
+    {
+        "name": "Ванье",
+        "latitude": 45.4399,
+        "longitude": -75.66498
+    },
+    {
+        "name": "Вон",
+        "latitude": 43.8361,
+        "longitude": -79.49827
+    },
+    {
+        "name": "Вайнленд",
+        "latitude": 43.15012,
+        "longitude": -79.3996
+    },
+    {
+        "name": "Вергилий",
+        "latitude": 43.21682,
+        "longitude": -79.13288
+    },
+    {
+        "name": "Остров Уолпол",
+        "latitude": 42.6152,
+        "longitude": -82.51398
+    },
+    {
+        "name": "Пляж Васага",
+        "latitude": 44.5168,
+        "longitude": -80.01637
+    },
+    {
+        "name": "Уотерфорд",
+        "latitude": 42.9334,
+        "longitude": -80.28296
+    },
+    {
+        "name": "Ватерлоо",
+        "latitude": 43.4668,
+        "longitude": -80.51639
+    },
+    {
+        "name": "Уотфорд",
+        "latitude": 42.95008,
+        "longitude": -81.88309
+    },
+    {
+        "name": "Вава",
+        "latitude": 47.98877,
+        "longitude": -84.77411
+    },
+    {
+        "name": "Ну и",
+        "latitude": 42.98342,
+        "longitude": -79.24958
+    },
+    {
+        "name": "Уэлсли",
+        "latitude": 43.47691,
+        "longitude": -80.76209
+    },
+    {
+        "name": "Вендовер",
+        "latitude": 45.57275,
+        "longitude": -75.12757
+    },
+    {
+        "name": "Вест Лорн",
+        "latitude": 42.60009,
+        "longitude": -81.59976
+    },
+    {
+        "name": "Уиллоудейл",
+        "latitude": 43.76672,
+        "longitude": -79.39909
+    },
+    {
+        "name": "Винчестер",
+        "latitude": 45.0834,
+        "longitude": -75.34933
+    },
+    {
+        "name": "Виндзор",
+        "latitude": 42.30008,
+        "longitude": -83.01654
+    },
+    {
+        "name": "Уингем",
+        "latitude": 43.88793,
+        "longitude": -81.31145
+    },
+    {
+        "name": "Вудсток",
+        "latitude": 43.13339,
+        "longitude": -80.7497
+    },
+    {
+        "name": "Йорк",
+        "latitude": 44.00011,
+        "longitude": -79.46632
+    },
+    {
+        "name": "Альбертон",
+        "latitude": 46.81685,
+        "longitude": -64.06542
+    },
+    {
+        "name": "Белфаст",
+        "latitude": 46.08341,
+        "longitude": -62.88197
+    },
+    {
+        "name": "Шарлоттаун",
+        "latitude": 46.23899,
+        "longitude": -63.13414
+    },
+    {
+        "name": "Корнуолл",
+        "latitude": 46.22652,
+        "longitude": -63.21809
+    },
+    {
+        "name": "Фоллингбрук",
+        "latitude": 45.47558,
+        "longitude": -75.48401
+    },
+    {
+        "name": "Кенсингтон",
+        "latitude": 46.43343,
+        "longitude": -63.64871
+    },
+    {
+        "name": "Монтегю",
+        "latitude": 46.16681,
+        "longitude": -62.64866
+    },
+    {
+        "name": "Мышь",
+        "latitude": 46.3501,
+        "longitude": -62.24862
+    },
+    {
+        "name": "Саммерсайд",
+        "latitude": 46.39593,
+        "longitude": -63.78762
+    },
+    {
+        "name": "Abit-Techno-Teemaming",
+        "latitude": 48.10018,
+        "longitude": -77.7828
+    },
+    {
+        "name": "Эктон Вейл",
+        "latitude": 45.65007,
+        "longitude": -72.56582
+    },
+    {
+        "name": "Рекламный сток",
+        "latitude": 46.05007,
+        "longitude": -71.08235
+    },
+    {
+        "name": "Альбанель",
+        "latitude": 48.88324,
+        "longitude": -72.44867
+    },
+    {
+        "name": "Альма",
+        "latitude": 48.55009,
+        "longitude": -71.6491
+    },
+    {
+        "name": "Амос",
+        "latitude": 48.56688,
+        "longitude": -78.11624
+    },
+    {
+        "name": "Амки",
+        "latitude": 48.46382,
+        "longitude": -67.43134
+    },
+    {
+        "name": "Ангел-хранитель",
+        "latitude": 45.35008,
+        "longitude": -72.93244
+    },
+    {
+        "name": "Асбест",
+        "latitude": 45.76678,
+        "longitude": -71.9324
+    },
+    {
+        "name": "Кровать-комо",
+        "latitude": 49.21679,
+        "longitude": -68.14894
+    },
+    {
+        "name": "К -'лфе",
+        "latitude": 45.41397,
+        "longitude": -73.91586
+    },
+    {
+        "name": "Be-Saint-Pol",
+        "latitude": 47.44109,
+        "longitude": -70.49858
+    },
+    {
+        "name": "Барроте",
+        "latitude": 48.43349,
+        "longitude": -77.63279
+    },
+    {
+        "name": "Ба-Сен-Лавр",
+        "latitude": 48.0503,
+        "longitude": -68.02266
+    },
+    {
+        "name": "Биконсфилд",
+        "latitude": 45.43341,
+        "longitude": -73.86586
+    },
+    {
+        "name": "Босвилл",
+        "latitude": 46.21785,
+        "longitude": -70.77873
+    },
+    {
+        "name": "Богарнуа",
+        "latitude": 45.31341,
+        "longitude": -73.8725
+    },
+    {
+        "name": "Бушприт",
+        "latitude": 47.04428,
+        "longitude": -70.89529
+    },
+    {
+        "name": "Беканкур",
+        "latitude": 46.34106,
+        "longitude": -72.43224
+    },
+    {
+        "name": "Бедфорд",
+        "latitude": 45.11678,
+        "longitude": -72.98244
+    },
+    {
+        "name": "Белойль",
+        "latitude": 45.56839,
+        "longitude": -73.20568
+    },
+    {
+        "name": "Бертьевилль",
+        "latitude": 46.08336,
+        "longitude": -73.18245
+    },
+    {
+        "name": "Бленвиль",
+        "latitude": 45.66678,
+        "longitude": -73.88249
+    },
+    {
+        "name": "Буа-де-Филион",
+        "latitude": 45.66678,
+        "longitude": -73.74918
+    },
+    {
+        "name": "Буасбриан",
+        "latitude": 45.61678,
+        "longitude": -73.83249
+    },
+    {
+        "name": "Бонавентура",
+        "latitude": 48.04573,
+        "longitude": -65.49259
+    },
+    {
+        "name": "Бушервиль",
+        "latitude": 45.59104,
+        "longitude": -73.43605
+    },
+    {
+        "name": "Брейкивилл",
+        "latitude": 46.68037,
+        "longitude": -71.22327
+    },
+    {
+        "name": "Бромонт",
+        "latitude": 45.31678,
+        "longitude": -72.64912
+    },
+    {
+        "name": "Броссар",
+        "latitude": 45.45008,
+        "longitude": -73.46583
+    },
+    {
+        "name": "Браунсбург-Чатем",
+        "latitude": 45.68342,
+        "longitude": -74.4159
+    },
+    {
+        "name": "Букингем",
+        "latitude": 45.58563,
+        "longitude": -75.4208
+    },
+    {
+        "name": "Кабано",
+        "latitude": 47.68065,
+        "longitude": -68.8781
+    },
+    {
+        "name": "Какуна",
+        "latitude": 47.91657,
+        "longitude": -69.50054
+    },
+    {
+        "name": "Кандиак",
+        "latitude": 45.38338,
+        "longitude": -73.51587
+    },
+    {
+        "name": "Кэнтли",
+        "latitude": 45.5668,
+        "longitude": -75.78265
+    },
+    {
+        "name": "Кэп-Чат",
+        "latitude": 49.10009,
+        "longitude": -66.68212
+    },
+    {
+        "name": "Кап-Санте",
+        "latitude": 46.67159,
+        "longitude": -71.78812
+    },
+    {
+        "name": "Капитал-Националь",
+        "latitude": 47.376,
+        "longitude": -71.12337
+    },
+    {
+        "name": "Кариньян",
+        "latitude": 45.45008,
+        "longitude": -73.29916
+    },
+    {
+        "name": "Карлтон",
+        "latitude": 48.09838,
+        "longitude": -66.10036
+    },
+    {
+        "name": "Карлтон-сюр-Мер",
+        "latitude": 48.10749,
+        "longitude": -66.128
+    },
+    {
+        "name": "Центральный Квебек",
+        "latitude": 46.01985,
+        "longitude": -71.98242
+    },
+    {
+        "name": "Шамбли",
+        "latitude": 45.45008,
+        "longitude": -73.28246
+    },
+    {
+        "name": "Шамбор",
+        "latitude": 48.43339,
+        "longitude": -72.06583
+    },
+    {
+        "name": "Чендлер",
+        "latitude": 48.34935,
+        "longitude": -64.67926
+    },
+    {
+        "name": "Мощности",
+        "latitude": 49.78344,
+        "longitude": -74.84919
+    },
+    {
+        "name": "Карл Великий",
+        "latitude": 45.71678,
+        "longitude": -73.48247
+    },
+    {
+        "name": "Чате",
+        "latitude": 46.96031,
+        "longitude": -71.03219
+    },
+    {
+        "name": "Шатоге",
+        "latitude": 45.38338,
+        "longitude": -73.74919
+    },
+    {
+        "name": "Shodier-Appalashi",
+        "latitude": 46.555,
+        "longitude": -70.8308
+    },
+    {
+        "name": "Херцеи",
+        "latitude": 46.07109,
+        "longitude": -73.89095
+    },
+    {
+        "name": "Шибугамо",
+        "latitude": 49.91684,
+        "longitude": -74.36586
+    },
+    {
+        "name": "Шют-о-Утард",
+        "latitude": 49.11679,
+        "longitude": -68.39896
+    },
+    {
+        "name": "Коатикук",
+        "latitude": 45.13339,
+        "longitude": -71.79907
+    },
+    {
+        "name": "Неохотно",
+        "latitude": 45.85008,
+        "longitude": -73.23245
+    },
+    {
+        "name": "Кукшир",
+        "latitude": 45.41536,
+        "longitude": -71.62962
+    },
+    {
+        "name": "Kukashir-Itond",
+        "latitude": 45.41675,
+        "longitude": -71.6324
+    },
+    {
+        "name": "Северное побережье",
+        "latitude": 50.86683,
+        "longitude": -65.81541
+    },
+    {
+        "name": "Кот-Сен-Люк",
+        "latitude": 45.46536,
+        "longitude": -73.66585
+    },
+    {
+        "name": "Квота-де-лакер",
+        "latitude": 45.30008,
+        "longitude": -74.18253
+    },
+    {
+        "name": "Коуэнсвилл",
+        "latitude": 45.20008,
+        "longitude": -72.74913
+    },
+    {
+        "name": "Крэбтри",
+        "latitude": 45.96677,
+        "longitude": -73.46586
+    },
+    {
+        "name": "Данвилл",
+        "latitude": 45.78337,
+        "longitude": -72.0158
+    },
+    {
+        "name": "Давелювилль",
+        "latitude": 46.20006,
+        "longitude": -72.13239
+    },
+    {
+        "name": "Делсон",
+        "latitude": 45.36678,
+        "longitude": -73.54917
+    },
+    {
+        "name": "Де-Монтан",
+        "latitude": 45.53455,
+        "longitude": -73.90168
+    },
+    {
+        "name": "Дизраэли",
+        "latitude": 45.90007,
+        "longitude": -71.34907
+    },
+    {
+        "name": "Дольф-Мистассини",
+        "latitude": 48.8786,
+        "longitude": -72.23142
+    },
+    {
+        "name": "Долларовое морское ушко",
+        "latitude": 45.49452,
+        "longitude": -73.82419
+    },
+    {
+        "name": "Доннакона",
+        "latitude": 46.68042,
+        "longitude": -71.7239
+    },
+    {
+        "name": "Дорваль",
+        "latitude": 45.4473,
+        "longitude": -73.75335
+    },
+    {
+        "name": "Драммондвилль",
+        "latitude": 45.88336,
+        "longitude": -72.48241
+    },
+    {
+        "name": "Данэм",
+        "latitude": 45.13338,
+        "longitude": -72.79913
+    },
+    {
+        "name": "Восточный Ангус",
+        "latitude": 45.48338,
+        "longitude": -71.66577
+    },
+    {
+        "name": "Тот же-Ботон",
+        "latitude": 46.21358,
+        "longitude": -71.07674
+    },
+    {
+        "name": "Фарнем",
+        "latitude": 45.28338,
+        "longitude": -72.98244
+    },
+    {
+        "name": "Ферм-Нёв",
+        "latitude": 46.70011,
+        "longitude": -75.44929
+    },
+    {
+        "name": "Вермонт",
+        "latitude": 52.78345,
+        "longitude": -67.08204
+    },
+    {
+        "name": "Форествилл",
+        "latitude": 48.73808,
+        "longitude": -69.08478
+    },
+    {
+        "name": "Форт-Кулонж",
+        "latitude": 45.85011,
+        "longitude": -76.73272
+    },
+    {
+        "name": "Фоссамбо-сюр-ле-Лак",
+        "latitude": 46.87662,
+        "longitude": -71.61541
+    },
+    {
+        "name": "Франклин",
+        "latitude": 45.03338,
+        "longitude": -73.91591
+    },
+    {
+        "name": "Гаспе",
+        "latitude": 48.83341,
+        "longitude": -64.48194
+    },
+    {
+        "name": "Гаспези-Иль-де-ла-Мадлен",
+        "latitude": 48.87555,
+        "longitude": -65.4071
+    },
+    {
+        "name": "Гатино",
+        "latitude": 45.47723,
+        "longitude": -75.70164
+    },
+    {
+        "name": "Годфри",
+        "latitude": 51.75012,
+        "longitude": -68.08213
+    },
+    {
+        "name": "Грэнби",
+        "latitude": 45.40008,
+        "longitude": -72.73243
+    },
+    {
+        "name": "Хэмпстед",
+        "latitude": 45.48064,
+        "longitude": -73.66307
+    },
+    {
+        "name": "Отерив",
+        "latitude": 49.19572,
+        "longitude": -68.25813
+    },
+    {
+        "name": "Гавр-Сен-Пьер",
+        "latitude": 50.24342,
+        "longitude": -63.60264
+    },
+    {
+        "name": "Героуксвилль",
+        "latitude": 46.66617,
+        "longitude": -72.62512
+    },
+    {
+        "name": "Хадсон",
+        "latitude": 45.45008,
+        "longitude": -74.14922
+    },
+    {
+        "name": "Хантингдон",
+        "latitude": 45.08339,
+        "longitude": -74.16593
+    },
+    {
+        "name": "Жольетта",
+        "latitude": 46.0164,
+        "longitude": -73.4236
+    },
+    {
+        "name": "Жонкьер",
+        "latitude": 48.41648,
+        "longitude": -71.24884
+    },
+    {
+        "name": "Kings-Fols",
+        "latitude": 45.85007,
+        "longitude": -72.0658
+    },
+    {
+        "name": "Киркланд",
+        "latitude": 45.45008,
+        "longitude": -73.86586
+    },
+    {
+        "name": "Ансьен-Лоретт",
+        "latitude": 46.79392,
+        "longitude": -71.35191
+    },
+    {
+        "name": "Ангел-хранитель",
+        "latitude": 46.91976,
+        "longitude": -71.08253
+    },
+    {
+        "name": "Вознесение Господа нашего",
+        "latitude": 48.68339,
+        "longitude": -71.6658
+    },
+    {
+        "name": "Предположение",
+        "latitude": 45.82318,
+        "longitude": -73.4294
+    },
+    {
+        "name": "Богоявление",
+        "latitude": 45.85008,
+        "longitude": -73.48246
+    },
+    {
+        "name": "Л'Иль-Перро",
+        "latitude": 45.38338,
+        "longitude": -73.9492
+    },
+    {
+        "name": "Дизайн",
+        "latitude": 46.15009,
+        "longitude": -74.69925
+    },
+    {
+        "name": "Верхний Сен-Шарль",
+        "latitude": 46.89028,
+        "longitude": -71.37222
+    },
+    {
+        "name": "Ла Мальбе",
+        "latitude": 47.654,
+        "longitude": -70.15268
+    },
+    {
+        "name": "Минерва",
+        "latitude": 46.25009,
+        "longitude": -74.93257
+    },
+    {
+        "name": "Ла Покатьер",
+        "latitude": 47.36733,
+        "longitude": -70.03484
+    },
+    {
+        "name": "Ла Прери",
+        "latitude": 45.41678,
+        "longitude": -73.49917
+    },
+    {
+        "name": "Саар",
+        "latitude": 48.80019,
+        "longitude": -79.19964
+    },
+    {
+        "name": "Туке",
+        "latitude": 47.43337,
+        "longitude": -72.7824
+    },
+    {
+        "name": "Лабелль",
+        "latitude": 46.28339,
+        "longitude": -74.73255
+    },
+    {
+        "name": "Лак-Алуэтт",
+        "latitude": 45.81698,
+        "longitude": -73.9592
+    },
+    {
+        "name": "Бром Лейк",
+        "latitude": 45.21678,
+        "longitude": -72.51581
+    },
+    {
+        "name": "Лак-Коннелли",
+        "latitude": 45.89788,
+        "longitude": -73.9723
+    },
+    {
+        "name": "Лак-Лапьер",
+        "latitude": 45.89837,
+        "longitude": -73.77308
+    },
+    {
+        "name": "Мегантическое озеро",
+        "latitude": 45.58338,
+        "longitude": -70.88234
+    },
+    {
+        "name": "Лак-Симон",
+        "latitude": 46.15699,
+        "longitude": -74.74129
+    },
+    {
+        "name": "Лакуте",
+        "latitude": 45.65008,
+        "longitude": -74.33253
+    },
+    {
+        "name": "Лаколь",
+        "latitude": 45.08338,
+        "longitude": -73.36585
+    },
+    {
+        "name": "Ланораи",
+        "latitude": 45.96677,
+        "longitude": -73.21585
+    },
+    {
+        "name": "Лаваль",
+        "latitude": 45.56995,
+        "longitude": -73.692
+    },
+    {
+        "name": "Лавальтри",
+        "latitude": 45.88338,
+        "longitude": -73.28245
+    },
+    {
+        "name": "Бик",
+        "latitude": 48.37549,
+        "longitude": -68.69415
+    },
+    {
+        "name": "поднос",
+        "latitude": 45.43514,
+        "longitude": -75.7803
+    },
+    {
+        "name": "Лебель-сюр-Кевийон",
+        "latitude": 49.05018,
+        "longitude": -76.98273
+    },
+    {
+        "name": "Леблан",
+        "latitude": 48.26683,
+        "longitude": -74.34914
+    },
+    {
+        "name": "Кедры",
+        "latitude": 45.30008,
+        "longitude": -74.04922
+    },
+    {
+        "name": "Холмы",
+        "latitude": 45.28338,
+        "longitude": -74.23254
+    },
+    {
+        "name": "Ле Эскумен",
+        "latitude": 48.35191,
+        "longitude": -69.40724
+    },
+    {
+        "name": "Леви'с",
+        "latitude": 46.80326,
+        "longitude": -71.17793
+    },
+    {
+        "name": "Линьер",
+        "latitude": 46.00007,
+        "longitude": -70.41572
+    },
+    {
+        "name": "Лонгёй",
+        "latitude": 45.53121,
+        "longitude": -73.51806
+    },
+    {
+        "name": "Лотарингия",
+        "latitude": 45.68338,
+        "longitude": -73.78249
+    },
+    {
+        "name": "Луисвилль",
+        "latitude": 46.25594,
+        "longitude": -72.94145
+    },
+    {
+        "name": "Люсевиль",
+        "latitude": 48.54498,
+        "longitude": -68.39658
+    },
+    {
+        "name": "Товар",
+        "latitude": 48.75018,
+        "longitude": -78.99962
+    },
+    {
+        "name": "Магог",
+        "latitude": 45.26678,
+        "longitude": -72.14909
+    },
+    {
+        "name": "Малартик",
+        "latitude": 48.13348,
+        "longitude": -78.13283
+    },
+    {
+        "name": "Малиотенам",
+        "latitude": 50.21119,
+        "longitude": -66.18164
+    },
+    {
+        "name": "пропадать",
+        "latitude": 47.22029,
+        "longitude": -74.38606
+    },
+    {
+        "name": "Мандевиль",
+        "latitude": 46.36677,
+        "longitude": -73.34915
+    },
+    {
+        "name": "Маниваки",
+        "latitude": 46.38341,
+        "longitude": -75.96605
+    },
+    {
+        "name": "Мария",
+        "latitude": 48.1749,
+        "longitude": -65.98595
+    },
+    {
+        "name": "Маривилл",
+        "latitude": 45.43338,
+        "longitude": -73.16585
+    },
+    {
+        "name": "Маскуш",
+        "latitude": 45.74965,
+        "longitude": -73.59956
+    },
+    {
+        "name": "Мускуллинг",
+        "latitude": 46.2286,
+        "longitude": -73.01917
+    },
+    {
+        "name": "Матагами",
+        "latitude": 49.75018,
+        "longitude": -77.63277
+    },
+    {
+        "name": "Женщины",
+        "latitude": 48.82857,
+        "longitude": -67.52197
+    },
+    {
+        "name": "Мориси",
+        "latitude": 47.55009,
+        "longitude": -73.41583
+    },
+    {
+        "name": "Мелошвилль",
+        "latitude": 45.31726,
+        "longitude": -73.9371
+    },
+    {
+        "name": "Мерсье",
+        "latitude": 45.31678,
+        "longitude": -73.74919
+    },
+    {
+        "name": "Метабетшуан",
+        "latitude": 48.36679,
+        "longitude": -72.01583
+    },
+    {
+        "name": "Метабетшуан-Лак-а-ля-Круа",
+        "latitude": 48.41,
+        "longitude": -71.78
+    },
+    {
+        "name": "Мирабель",
+        "latitude": 45.65008,
+        "longitude": -74.08251
+    },
+    {
+        "name": "Мистиссини",
+        "latitude": 50.41667,
+        "longitude": -73.88333
+    },
+    {
+        "name": "Мон-Жоли",
+        "latitude": 48.58388,
+        "longitude": -68.19214
+    },
+    {
+        "name": "Мон-Лорье",
+        "latitude": 46.55011,
+        "longitude": -75.4993
+    },
+    {
+        "name": "Мон-Руаяль",
+        "latitude": 45.51675,
+        "longitude": -73.64918
+    },
+    {
+        "name": "Мон-Сен-Грегуар",
+        "latitude": 45.33338,
+        "longitude": -73.16585
+    },
+    {
+        "name": "Мон-Сен-Илер",
+        "latitude": 45.56515,
+        "longitude": -73.1868
+    },
+    {
+        "name": "Мон-Тремблан",
+        "latitude": 46.21274,
+        "longitude": -74.58438
+    },
+    {
+        "name": "Монманьи",
+        "latitude": 46.98043,
+        "longitude": -70.55493
+    },
+    {
+        "name": "Монреаль",
+        "latitude": 45.50008,
+        "longitude": -73.68248
+    },
+    {
+        "name": "Монреаль Восток",
+        "latitude": 45.63202,
+        "longitude": -73.5075
+    },
+    {
+        "name": "Монреаль Вест",
+        "latitude": 45.45286,
+        "longitude": -73.64918
+    },
+    {
+        "name": "Морин-Хайтс",
+        "latitude": 45.90009,
+        "longitude": -74.24922
+    },
+    {
+        "name": "Нэпьервилл",
+        "latitude": 45.18648,
+        "longitude": -73.40468
+    },
+    {
+        "name": "Невиль",
+        "latitude": 46.69823,
+        "longitude": -71.58275
+    },
+    {
+        "name": "Нью-Карлайл",
+        "latitude": 48.00956,
+        "longitude": -65.33621
+    },
+    {
+        "name": "Нью-Ричмонд",
+        "latitude": 48.16059,
+        "longitude": -65.85823
+    },
+    {
+        "name": "Николет",
+        "latitude": 46.21676,
+        "longitude": -72.61582
+    },
+    {
+        "name": "Северный Квебек",
+        "latitude": 51.962,
+        "longitude": -74.8961
+    },
+    {
+        "name": "Нормандия",
+        "latitude": 48.83328,
+        "longitude": -72.53209
+    },
+    {
+        "name": "Нотр-Дам-де-Грас",
+        "latitude": 45.47675,
+        "longitude": -73.61432
+    },
+    {
+        "name": "Нотр-Дам-де-л’Иль-Перро",
+        "latitude": 45.36678,
+        "longitude": -73.9325
+    },
+    {
+        "name": "Нотр-Дам-де-Прери",
+        "latitude": 46.05007,
+        "longitude": -73.43245
+    },
+    {
+        "name": "Нотр-Дам-дю-Лак",
+        "latitude": 46.75012,
+        "longitude": -79.04961
+    },
+    {
+        "name": "Богоматерь горы Кармель",
+        "latitude": 46.0168,
+        "longitude": -75.08259
+    },
+    {
+        "name": "Ока",
+        "latitude": 45.46489,
+        "longitude": -74.08892
+    },
+    {
+        "name": "Ормстаун",
+        "latitude": 45.13338,
+        "longitude": -73.99922
+    },
+    {
+        "name": "Оттерберн Парк",
+        "latitude": 45.53338,
+        "longitude": -73.21585
+    },
+    {
+        "name": "Утауаис",
+        "latitude": 46.26681,
+        "longitude": -76.31606
+    },
+    {
+        "name": "Папиновилль",
+        "latitude": 45.6168,
+        "longitude": -75.01599
+    },
+    {
+        "name": "Парк Бутен",
+        "latitude": 45.29209,
+        "longitude": -73.26154
+    },
+    {
+        "name": "Пьемонт",
+        "latitude": 45.90008,
+        "longitude": -74.13251
+    },
+    {
+        "name": "Пьервиль",
+        "latitude": 46.07034,
+        "longitude": -72.81125
+    },
+    {
+        "name": "Пинкур",
+        "latitude": 45.38338,
+        "longitude": -73.9825
+    },
+    {
+        "name": "Плессисвилль",
+        "latitude": 46.21856,
+        "longitude": -71.76201
+    },
+    {
+        "name": "я смеюсь",
+        "latitude": 47.46315,
+        "longitude": -69.22666
+    },
+    {
+        "name": "Пойнт Калумет",
+        "latitude": 45.50008,
+        "longitude": -73.9659
+    },
+    {
+        "name": "Пуэнт-Клер",
+        "latitude": 45.44868,
+        "longitude": -73.81669
+    },
+    {
+        "name": "Пуэнт-дю-Лак",
+        "latitude": 48.50009,
+        "longitude": -71.78241
+    },
+    {
+        "name": "Красный мост",
+        "latitude": 48.88332,
+        "longitude": -72.08247
+    },
+    {
+        "name": "Мон-Руж",
+        "latitude": 46.75468,
+        "longitude": -71.69566
+    },
+    {
+        "name": "Порт-Картье",
+        "latitude": 50.03339,
+        "longitude": -66.86545
+    },
+    {
+        "name": "Портнеф",
+        "latitude": 46.69058,
+        "longitude": -71.89011
+    },
+    {
+        "name": "Прево",
+        "latitude": 45.86678,
+        "longitude": -74.08251
+    },
+    {
+        "name": "Принсвилл",
+        "latitude": 46.17163,
+        "longitude": -71.87462
+    },
+    {
+        "name": "Квебек",
+        "latitude": 46.81228,
+        "longitude": -71.21454
+    },
+    {
+        "name": "Родон",
+        "latitude": 46.05007,
+        "longitude": -73.71587
+    },
+    {
+        "name": "Репентиньи",
+        "latitude": 45.74222,
+        "longitude": -73.45008
+    },
+    {
+        "name": "Ришелье",
+        "latitude": 45.44336,
+        "longitude": -73.24602
+    },
+    {
+        "name": "Ричмонд",
+        "latitude": 45.66677,
+        "longitude": -72.1491
+    },
+    {
+        "name": "Риго",
+        "latitude": 45.47927,
+        "longitude": -74.30238
+    },
+    {
+        "name": "Римовский",
+        "latitude": 48.44879,
+        "longitude": -68.52396
+    },
+    {
+        "name": "Волчья река",
+        "latitude": 47.82699,
+        "longitude": -69.54243
+    },
+    {
+        "name": "Красная река",
+        "latitude": 46.41679,
+        "longitude": -74.86596
+    },
+    {
+        "name": "Роберваль",
+        "latitude": 48.5168,
+        "longitude": -72.23244
+    },
+    {
+        "name": "Рок Форест",
+        "latitude": 45.35699,
+        "longitude": -71.99676
+    },
+    {
+        "name": "Розмер",
+        "latitude": 45.63338,
+        "longitude": -73.79919
+    },
+    {
+        "name": "Ружмон",
+        "latitude": 45.43338,
+        "longitude": -73.04914
+    },
+    {
+        "name": "Руан-Норанда",
+        "latitude": 48.23656,
+        "longitude": -79.02311
+    },
+    {
+        "name": "Священное Сердце",
+        "latitude": 48.2297,
+        "longitude": -69.80061
+    },
+    {
+        "name": "Сагеней",
+        "latitude": 48.41675,
+        "longitude": -71.06573
+    },
+    {
+        "name": "Сен-Адольф-д'Говард",
+        "latitude": 45.96679,
+        "longitude": -74.33253
+    },
+    {
+        "name": "Сен-Александр",
+        "latitude": 45.5001,
+        "longitude": -75.74935
+    },
+    {
+        "name": "Сен-Амабль",
+        "latitude": 45.65008,
+        "longitude": -73.29916
+    },
+    {
+        "name": "Сен-Амбруаз",
+        "latitude": 48.55009,
+        "longitude": -71.33238
+    },
+    {
+        "name": "Сен-Андре-Авеллен",
+        "latitude": 45.7168,
+        "longitude": -75.06599
+    },
+    {
+        "name": "Святой Ансельм",
+        "latitude": 46.62922,
+        "longitude": -70.9734
+    },
+    {
+        "name": "Сен-Антуан-де-Тилли",
+        "latitude": 46.66346,
+        "longitude": -71.57335
+    },
+    {
+        "name": "Сент-Огюстен",
+        "latitude": 51.22602,
+        "longitude": -58.65017
+    },
+    {
+        "name": "Сен-Огюстен-де-Демур",
+        "latitude": 46.74064,
+        "longitude": -71.45131
+    },
+    {
+        "name": "Сен-Барнаб-Сюд",
+        "latitude": 45.72977,
+        "longitude": -72.92244
+    },
+    {
+        "name": "Сен-Базиль-ле-Гран",
+        "latitude": 45.53338,
+        "longitude": -73.28246
+    },
+    {
+        "name": "Сен-Бонифас",
+        "latitude": 46.50011,
+        "longitude": -75.98264
+    },
+    {
+        "name": "Сен-Бруно",
+        "latitude": 48.46679,
+        "longitude": -71.6491
+    },
+    {
+        "name": "Сен-Брюно-де-Гиг",
+        "latitude": 47.46685,
+        "longitude": -79.43296
+    },
+    {
+        "name": "Сен-Брюно-де-Монтарвиль",
+        "latitude": 45.53341,
+        "longitude": -73.34916
+    },
+    {
+        "name": "Сен-Канут",
+        "latitude": 45.71502,
+        "longitude": -74.08376
+    },
+    {
+        "name": "Сен-Сезар",
+        "latitude": 45.41678,
+        "longitude": -72.99914
+    },
+    {
+        "name": "Сен-Шарль",
+        "latitude": 45.70288,
+        "longitude": -73.55417
+    },
+    {
+        "name": "Сен-Ком-Линьер",
+        "latitude": 46.06677,
+        "longitude": -70.51573
+    },
+    {
+        "name": "Сен-Констан",
+        "latitude": 45.36678,
+        "longitude": -73.56588
+    },
+    {
+        "name": "Сен-Сирилль-де-Вендовер",
+        "latitude": 45.93336,
+        "longitude": -72.43241
+    },
+    {
+        "name": "Сен-Дамас",
+        "latitude": 45.53341,
+        "longitude": -72.99914
+    },
+    {
+        "name": "Сен-Дени-сюр-Ришелье",
+        "latitude": 45.78338,
+        "longitude": -73.14915
+    },
+    {
+        "name": "Сен-Дона-де-Монкальм",
+        "latitude": 46.31868,
+        "longitude": -74.22171
+    },
+    {
+        "name": "Сен-Эдуард",
+        "latitude": 45.23338,
+        "longitude": -73.51588
+    },
+    {
+        "name": "Сен-Эльзер",
+        "latitude": 45.60338,
+        "longitude": -73.72698
+    },
+    {
+        "name": "Сен-Эфрем-де-Бос",
+        "latitude": 46.06677,
+        "longitude": -70.94905
+    },
+    {
+        "name": "Сент-Эсташ",
+        "latitude": 45.565,
+        "longitude": -73.90554
+    },
+    {
+        "name": "Сен-Фелисьен",
+        "latitude": 48.65007,
+        "longitude": -72.44906
+    },
+    {
+        "name": "Сен-Феликс-де-Валуа",
+        "latitude": 46.16977,
+        "longitude": -73.42525
+    },
+    {
+        "name": "Святой Габриэль",
+        "latitude": 46.30007,
+        "longitude": -73.38245
+    },
+    {
+        "name": "Сен-Гедеон",
+        "latitude": 48.50009,
+        "longitude": -71.76581
+    },
+    {
+        "name": "Святой Георг",
+        "latitude": 46.11353,
+        "longitude": -70.66526
+    },
+    {
+        "name": "Сен-Жермен-де-Грантам",
+        "latitude": 45.83337,
+        "longitude": -72.56582
+    },
+    {
+        "name": "Сен-Анри",
+        "latitude": 46.69314,
+        "longitude": -71.06927
+    },
+    {
+        "name": "Сен-Ипполит",
+        "latitude": 45.93338,
+        "longitude": -74.0159
+    },
+    {
+        "name": "заслуженный святой",
+        "latitude": 48.53338,
+        "longitude": -71.08236
+    },
+    {
+        "name": "Сен-Гиацинт",
+        "latitude": 45.63076,
+        "longitude": -72.95699
+    },
+    {
+        "name": "Сен-Исидор",
+        "latitude": 47.43345,
+        "longitude": -79.29965
+    },
+    {
+        "name": "Сен-Жак-ле-Лесс",
+        "latitude": 45.28338,
+        "longitude": -73.41587
+    },
+    {
+        "name": "Сен-Жан-Батист",
+        "latitude": 45.3806,
+        "longitude": -74.0121
+    },
+    {
+        "name": "Сен-Жан-сюр-Ришелье",
+        "latitude": 45.30713,
+        "longitude": -73.26259
+    },
+    {
+        "name": "Сен-Жером",
+        "latitude": 45.78036,
+        "longitude": -74.00365
+    },
+    {
+        "name": "Святой Иосиф",
+        "latitude": 45.95817,
+        "longitude": -73.22025
+    },
+    {
+        "name": "Сен-Жозеф-де-Бо",
+        "latitude": 46.3,
+        "longitude": -70.86667
+    },
+    {
+        "name": "Сен-Жозеф-де-Колрен",
+        "latitude": 45.96677,
+        "longitude": -71.36577
+    },
+    {
+        "name": "Сен-Жозеф-дю-Лак",
+        "latitude": 45.53338,
+        "longitude": -73.9992
+    },
+    {
+        "name": "Сен-Ламбер-де-Лозон",
+        "latitude": 46.58624,
+        "longitude": -71.20892
+    },
+    {
+        "name": "Сен-Лоран",
+        "latitude": 45.50008,
+        "longitude": -73.66585
+    },
+    {
+        "name": "Сен-Лазар",
+        "latitude": 45.40008,
+        "longitude": -74.13256
+    },
+    {
+        "name": "Сен-Леонард",
+        "latitude": 45.58773,
+        "longitude": -73.59501
+    },
+    {
+        "name": "Сен-Леонар-д’Астон",
+        "latitude": 46.10006,
+        "longitude": -72.3658
+    },
+    {
+        "name": "Сен-Либуар",
+        "latitude": 45.65068,
+        "longitude": -72.76348
+    },
+    {
+        "name": "Сен-Лин-Лорентид",
+        "latitude": 45.85008,
+        "longitude": -73.76588
+    },
+    {
+        "name": "Сен-Марк-де-Карьер",
+        "latitude": 46.68335,
+        "longitude": -72.0491
+    },
+    {
+        "name": "Сен-Матье",
+        "latitude": 45.31678,
+        "longitude": -73.51587
+    },
+    {
+        "name": "Сен-Мишель",
+        "latitude": 45.56758,
+        "longitude": -73.62168
+    },
+    {
+        "name": "Сен-Мишель-де-Сен",
+        "latitude": 46.67702,
+        "longitude": -73.91881
+    },
+    {
+        "name": "Сен-Назер",
+        "latitude": 48.58944,
+        "longitude": -71.55247
+    },
+    {
+        "name": "Сен-Норбер",
+        "latitude": 46.16949,
+        "longitude": -73.31494
+    },
+    {
+        "name": "Сен-Паком",
+        "latitude": 47.40457,
+        "longitude": -69.95025
+    },
+    {
+        "name": "Сен-Паскаль",
+        "latitude": 47.51813,
+        "longitude": -69.80301
+    },
+    {
+        "name": "Сен-Филипп-де-ла-Прери",
+        "latitude": 45.35723,
+        "longitude": -73.47706
+    },
+    {
+        "name": "Сен-Пи",
+        "latitude": 45.50277,
+        "longitude": -72.9089
+    },
+    {
+        "name": "Сен-Пьер-ле-Бекке",
+        "latitude": 46.50005,
+        "longitude": -72.1991
+    },
+    {
+        "name": "Сен-Прайм",
+        "latitude": 48.58339,
+        "longitude": -72.33244
+    },
+    {
+        "name": "Сен-Рафаэль",
+        "latitude": 46.25011,
+        "longitude": -76.01605
+    },
+    {
+        "name": "Сен-Раймон",
+        "latitude": 45.46698,
+        "longitude": -73.60948
+    },
+    {
+        "name": "Сен-Реми",
+        "latitude": 45.26678,
+        "longitude": -73.61588
+    },
+    {
+        "name": "Сен-Реми-де-Тингвик",
+        "latitude": 45.86677,
+        "longitude": -71.81581
+    },
+    {
+        "name": "Святой Спаситель",
+        "latitude": 45.88686,
+        "longitude": -74.17943
+    },
+    {
+        "name": "Сен-Совер-де-Мон",
+        "latitude": 45.90008,
+        "longitude": -74.16591
+    },
+    {
+        "name": "Сен-Симеон",
+        "latitude": 47.84431,
+        "longitude": -69.87837
+    },
+    {
+        "name": "Сент-Томас",
+        "latitude": 46.01677,
+        "longitude": -73.34915
+    },
+    {
+        "name": "Сен-Титус",
+        "latitude": 46.73336,
+        "longitude": -72.56581
+    },
+    {
+        "name": "Сен-Виктор",
+        "latitude": 45.61118,
+        "longitude": -73.51527
+    },
+    {
+        "name": "Сен-Зотич",
+        "latitude": 45.25009,
+        "longitude": -74.24924
+    },
+    {
+        "name": "Святая Екатерина Жака Картье",
+        "latitude": 46.85244,
+        "longitude": -71.62056
+    },
+    {
+        "name": "Сент-Адель",
+        "latitude": 45.95008,
+        "longitude": -74.13251
+    },
+    {
+        "name": "Сент-Агат-де-Мон",
+        "latitude": 46.05009,
+        "longitude": -74.28252
+    },
+    {
+        "name": "Сент-Анн-де-Бельвю",
+        "latitude": 45.40618,
+        "longitude": -73.9456
+    },
+    {
+        "name": "Сент-Анн-де-Мон",
+        "latitude": 49.12402,
+        "longitude": -66.49243
+    },
+    {
+        "name": "Сент-Анн-де-Плен",
+        "latitude": 45.76468,
+        "longitude": -73.81156
+    },
+    {
+        "name": "Сент-Беатрикс",
+        "latitude": 46.20007,
+        "longitude": -73.61587
+    },
+    {
+        "name": "Святая Екатерина",
+        "latitude": 45.40008,
+        "longitude": -73.58248
+    },
+    {
+        "name": "Святой Крест",
+        "latitude": 45.13368,
+        "longitude": -72.80083
+    },
+    {
+        "name": "Святая Елизавета",
+        "latitude": 46.09502,
+        "longitude": -73.35176
+    },
+    {
+        "name": "Сент-Жюли",
+        "latitude": 45.58338,
+        "longitude": -73.33246
+    },
+    {
+        "name": "Сент-Жюльен",
+        "latitude": 45.96677,
+        "longitude": -73.71587
+    },
+    {
+        "name": "Сент-Мадлен",
+        "latitude": 45.60008,
+        "longitude": -73.09914
+    },
+    {
+        "name": "Сент-Мари",
+        "latitude": 46.43401,
+        "longitude": -71.01168
+    },
+    {
+        "name": "Сент-Март-сюр-ле-Лак",
+        "latitude": 45.53338,
+        "longitude": -73.9325
+    },
+    {
+        "name": "Сент-Мартин",
+        "latitude": 45.25008,
+        "longitude": -73.79919
+    },
+    {
+        "name": "Собор Святой Софии",
+        "latitude": 45.81678,
+        "longitude": -73.89919
+    },
+    {
+        "name": "Сент-Текль",
+        "latitude": 46.81676,
+        "longitude": -72.49911
+    },
+    {
+        "name": "Сент-Тереза",
+        "latitude": 45.63922,
+        "longitude": -73.82757
+    },
+    {
+        "name": "Салаберри-де-Валлефилд",
+        "latitude": 45.25008,
+        "longitude": -74.13253
+    },
+    {
+        "name": "Он отдал честь",
+        "latitude": 62.20411,
+        "longitude": -75.64344
+    },
+    {
+        "name": "Сенна терре",
+        "latitude": 48.39302,
+        "longitude": -77.23951
+    },
+    {
+        "name": "Сент-Иль",
+        "latitude": 50.20011,
+        "longitude": -66.38208
+    },
+    {
+        "name": "Шеннон",
+        "latitude": 46.88026,
+        "longitude": -71.51464
+    },
+    {
+        "name": "Шавиниган",
+        "latitude": 46.56675,
+        "longitude": -72.74913
+    },
+    {
+        "name": "Шовилл",
+        "latitude": 45.60011,
+        "longitude": -76.4827
+    },
+    {
+        "name": "Шербрук",
+        "latitude": 45.40008,
+        "longitude": -71.89908
+    },
+    {
+        "name": "Сорель-Трейси",
+        "latitude": 46.04178,
+        "longitude": -73.11358
+    },
+    {
+        "name": "Сен-Жан-Пор-Жоли",
+        "latitude": 47.21418,
+        "longitude": -70.26969
+    },
+    {
+        "name": "Саттон",
+        "latitude": 45.10008,
+        "longitude": -72.61582
+    },
+    {
+        "name": "Темискаминг",
+        "latitude": 46.72122,
+        "longitude": -79.09712
+    },
+    {
+        "name": "Терраса де Пен",
+        "latitude": 45.86449,
+        "longitude": -74.06627
+    },
+    {
+        "name": "Терребонн",
+        "latitude": 45.70004,
+        "longitude": -73.64732
+    },
+    {
+        "name": "Тетфорд-Майнс",
+        "latitude": 46.09371,
+        "longitude": -71.30539
+    },
+    {
+        "name": "Также",
+        "latitude": 45.6001,
+        "longitude": -75.24931
+    },
+    {
+        "name": "Труа-Ривьер",
+        "latitude": 46.34515,
+        "longitude": -72.5477
+    },
+    {
+        "name": "Валь-д'Ор",
+        "latitude": 48.0974,
+        "longitude": -77.79737
+    },
+    {
+        "name": "Валь-Давид",
+        "latitude": 46.03338,
+        "longitude": -74.21592
+    },
+    {
+        "name": "Валь-де-Мон",
+        "latitude": 45.6501,
+        "longitude": -75.66604
+    },
+    {
+        "name": "Валь-Морен",
+        "latitude": 46.00008,
+        "longitude": -74.18251
+    },
+    {
+        "name": "Валькур",
+        "latitude": 45.50008,
+        "longitude": -72.31581
+    },
+    {
+        "name": "Валле-Джоншен",
+        "latitude": 46.37441,
+        "longitude": -70.91881
+    },
+    {
+        "name": "Варенн",
+        "latitude": 45.68338,
+        "longitude": -73.43246
+    },
+    {
+        "name": "Водрей-Дорион",
+        "latitude": 45.40008,
+        "longitude": -74.03251
+    },
+    {
+        "name": "Венеция в Квебеке",
+        "latitude": 45.08338,
+        "longitude": -73.13245
+    },
+    {
+        "name": "Вершер",
+        "latitude": 45.78338,
+        "longitude": -73.34916
+    },
+    {
+        "name": "Викториавилл",
+        "latitude": 46.05007,
+        "longitude": -71.96579
+    },
+    {
+        "name": "Вилль-Мари",
+        "latitude": 47.33345,
+        "longitude": -79.43297
+    },
+    {
+        "name": "Уэйкфилд",
+        "latitude": 45.6668,
+        "longitude": -75.83265
+    },
+    {
+        "name": "Уорик",
+        "latitude": 45.95007,
+        "longitude": -71.9824
+    },
+    {
+        "name": "Васкаганиш",
+        "latitude": 51.48333,
+        "longitude": -78.75
+    },
+    {
+        "name": "В Васвани",
+        "latitude": 49.73346,
+        "longitude": -76.16604
+    },
+    {
+        "name": "Ватерлоо",
+        "latitude": 45.35008,
+        "longitude": -72.51582
+    },
+    {
+        "name": "Уидон Центр",
+        "latitude": 45.70802,
+        "longitude": -71.45986
+    },
+    {
+        "name": "Вестмаунт",
+        "latitude": 45.48341,
+        "longitude": -73.59918
+    },
+    {
+        "name": "Веймонтачи",
+        "latitude": 47.8994,
+        "longitude": -73.7772
+    },
+    {
+        "name": "Виндзор",
+        "latitude": 45.56678,
+        "longitude": -71.99909
+    },
+    {
+        "name": "Ямачиче",
+        "latitude": 46.26676,
+        "longitude": -72.83243
+    },
+    {
+        "name": "Ассинибойя",
+        "latitude": 49.63336,
+        "longitude": -105.98446
+    },
+    {
+        "name": "Биггар",
+        "latitude": 52.0668,
+        "longitude": -108.00135
+    },
+    {
+        "name": "Пение",
+        "latitude": 51.63328,
+        "longitude": -102.43425
+    },
+    {
+        "name": "Карлайл",
+        "latitude": 49.63334,
+        "longitude": -102.26765
+    },
+    {
+        "name": "Дальмени",
+        "latitude": 52.33339,
+        "longitude": -106.76792
+    },
+    {
+        "name": "Эстерхази",
+        "latitude": 50.65001,
+        "longitude": -102.08426
+    },
+    {
+        "name": "Эстеван",
+        "latitude": 49.13337,
+        "longitude": -102.98422
+    },
+    {
+        "name": "Пенное озеро",
+        "latitude": 51.65001,
+        "longitude": -103.53431
+    },
+    {
+        "name": "Гравелбург",
+        "latitude": 49.88336,
+        "longitude": -106.55122
+    },
+    {
+        "name": "Гудзонов залив",
+        "latitude": 52.85003,
+        "longitude": -102.38425
+    },
+    {
+        "name": "Гумбольдт",
+        "latitude": 52.20005,
+        "longitude": -105.1255
+    },
+    {
+        "name": "Индийская голова",
+        "latitude": 50.53336,
+        "longitude": -103.66775
+    },
+    {
+        "name": "Камсак",
+        "latitude": 51.56668,
+        "longitude": -101.90093
+    },
+    {
+        "name": "Керроберт",
+        "latitude": 51.91682,
+        "longitude": -109.13479
+    },
+    {
+        "name": "Киндерсли",
+        "latitude": 51.46681,
+        "longitude": -109.16818
+    },
+    {
+        "name": "Ла Ронж",
+        "latitude": 55.10013,
+        "longitude": -105.28422
+    },
+    {
+        "name": "Лангенбург",
+        "latitude": 50.84999,
+        "longitude": -101.71763
+    },
+    {
+        "name": "Лэнгэм",
+        "latitude": 52.3668,
+        "longitude": -106.96793
+    },
+    {
+        "name": "Ланиган",
+        "latitude": 51.85006,
+        "longitude": -105.03443
+    },
+    {
+        "name": "Ламсден",
+        "latitude": 50.65009,
+        "longitude": -104.86783
+    },
+    {
+        "name": "Маклин",
+        "latitude": 52.33344,
+        "longitude": -109.93484
+    },
+    {
+        "name": "Мэйпл-Крик",
+        "latitude": 49.91678,
+        "longitude": -109.48481
+    },
+    {
+        "name": "Мартенсвилл",
+        "latitude": 52.28339,
+        "longitude": -106.66792
+    },
+    {
+        "name": "Луговое озеро",
+        "latitude": 54.13348,
+        "longitude": -108.43471
+    },
+    {
+        "name": "Мелфорт",
+        "latitude": 52.86673,
+        "longitude": -104.61768
+    },
+    {
+        "name": "Мелвилл",
+        "latitude": 50.91671,
+        "longitude": -102.80099
+    },
+    {
+        "name": "Лосиная Челюсть",
+        "latitude": 50.40005,
+        "longitude": -105.53445
+    },
+    {
+        "name": "Мусомин",
+        "latitude": 50.13332,
+        "longitude": -101.66766
+    },
+    {
+        "name": "Каждый день",
+        "latitude": 53.36678,
+        "longitude": -104.00092
+    },
+    {
+        "name": "Норт-Бэтлфорд",
+        "latitude": 52.77972,
+        "longitude": -108.2967
+    },
+    {
+        "name": "Перспективы",
+        "latitude": 51.50008,
+        "longitude": -107.05128
+    },
+    {
+        "name": "Старица",
+        "latitude": 49.23335,
+        "longitude": -102.1676
+    },
+    {
+        "name": "Пеликан Нэрроуз",
+        "latitude": 55.16685,
+        "longitude": -102.9341
+    },
+    {
+        "name": "Пилот Бьютт",
+        "latitude": 50.46678,
+        "longitude": -104.41778
+    },
+    {
+        "name": "Присвилл",
+        "latitude": 51.94998,
+        "longitude": -102.66766
+    },
+    {
+        "name": "Принц Альберт",
+        "latitude": 53.20008,
+        "longitude": -105.76772
+    },
+    {
+        "name": "Регина",
+        "latitude": 50.45008,
+        "longitude": -104.6178
+    },
+    {
+        "name": "Регина Бич",
+        "latitude": 50.78338,
+        "longitude": -105.00112
+    },
+    {
+        "name": "Розтаун",
+        "latitude": 51.5501,
+        "longitude": -108.00136
+    },
+    {
+        "name": "Ростерн",
+        "latitude": 52.66679,
+        "longitude": -106.33446
+    },
+    {
+        "name": "Саскатун",
+        "latitude": 52.13238,
+        "longitude": -106.66892
+    },
+    {
+        "name": "Шонавон",
+        "latitude": 49.65005,
+        "longitude": -108.4181
+    },
+    {
+        "name": "Шеллбрук",
+        "latitude": 53.21679,
+        "longitude": -106.40109
+    },
+    {
+        "name": "Быстрое течение",
+        "latitude": 50.28337,
+        "longitude": -107.80135
+    },
+    {
+        "name": "Тисдейл",
+        "latitude": 52.85002,
+        "longitude": -104.05096
+    },
+    {
+        "name": "Единство",
+        "latitude": 52.45014,
+        "longitude": -109.16816
+    },
+    {
+        "name": "Датчане",
+        "latitude": 51.94999,
+        "longitude": -103.80102
+    },
+    {
+        "name": "Уорман",
+        "latitude": 52.31679,
+        "longitude": -106.56791
+    },
+    {
+        "name": "Уотрус",
+        "latitude": 51.66677,
+        "longitude": -105.46788
+    },
+    {
+        "name": "Вейберн",
+        "latitude": 49.66675,
+        "longitude": -103.85109
+    },
+    {
+        "name": "Белый город",
+        "latitude": 50.43338,
+        "longitude": -104.36778
+    },
+    {
+        "name": "Уилки",
+        "latitude": 52.41683,
+        "longitude": -108.70142
+    },
+    {
+        "name": "Виньярд",
+        "latitude": 51.76674,
+        "longitude": -104.18436
+    },
+    {
+        "name": "Йорктон",
+        "latitude": 51.2167,
+        "longitude": -102.46766
+    },
+    {
+        "name": "Доусон Сити",
+        "latitude": 64.06013,
+        "longitude": -139.43328
+    },
+    {
+        "name": "Хейнс Джанкшен",
+        "latitude": 60.75216,
+        "longitude": -137.51082
+    },
+    {
+        "name": "Уотсон Лейк",
+        "latitude": 60.06349,
+        "longitude": -128.70893
+    },
+    {
+        "name": "Белая лошадь",
+        "latitude": 60.71611,
+        "longitude": -135.05375
+    }
+]

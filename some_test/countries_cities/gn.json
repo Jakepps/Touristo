@@ -1,0 +1,272 @@
+[
+    {
+        "name": "Boffa",
+        "latitude": 10.33333,
+        "longitude": -14.16667
+    },
+    {
+        "name": "Bok\u00e9",
+        "latitude": 10.93217,
+        "longitude": -14.29055
+    },
+    {
+        "name": "Boke Prefecture",
+        "latitude": 11.08333,
+        "longitude": -14.41667
+    },
+    {
+        "name": "Fria",
+        "latitude": 10.41667,
+        "longitude": -13.58333
+    },
+    {
+        "name": "Gaoual",
+        "latitude": 11.75,
+        "longitude": -13.2
+    },
+    {
+        "name": "Gaoual Prefecture",
+        "latitude": 11.75,
+        "longitude": -13.2
+    },
+    {
+        "name": "Kimbo",
+        "latitude": 10.4,
+        "longitude": -13.55
+    },
+    {
+        "name": "Koundara",
+        "latitude": 12.48333,
+        "longitude": -13.3
+    },
+    {
+        "name": "Koundara Prefecture",
+        "latitude": 12.41667,
+        "longitude": -13.16667
+    },
+    {
+        "name": "Sangu\u00e9ya",
+        "latitude": 10.7,
+        "longitude": -14.36667
+    },
+    {
+        "name": "Youkounkoun",
+        "latitude": 12.5311,
+        "longitude": -13.1224
+    },
+    {
+        "name": "Camayenne",
+        "latitude": 9.535,
+        "longitude": -13.68778
+    },
+    {
+        "name": "Conakry",
+        "latitude": 9.53795,
+        "longitude": -13.67729
+    },
+    {
+        "name": "Kankan",
+        "latitude": 10.38542,
+        "longitude": -9.30568
+    },
+    {
+        "name": "Kankan Prefecture",
+        "latitude": 10.271,
+        "longitude": -9.178
+    },
+    {
+        "name": "K\u00e9rouan\u00e9",
+        "latitude": 9.26667,
+        "longitude": -9.01667
+    },
+    {
+        "name": "Kerouane Prefecture",
+        "latitude": 9.16667,
+        "longitude": -9.08333
+    },
+    {
+        "name": "Kouroussa",
+        "latitude": 10.66667,
+        "longitude": -9.91667
+    },
+    {
+        "name": "Mandiana",
+        "latitude": 10.62577,
+        "longitude": -8.69413
+    },
+    {
+        "name": "Mandiana Prefecture",
+        "latitude": 10.658,
+        "longitude": -8.615
+    },
+    {
+        "name": "Siguiri",
+        "latitude": 11.42282,
+        "longitude": -9.16852
+    },
+    {
+        "name": "Siguiri Prefecture",
+        "latitude": 11.66667,
+        "longitude": -9.5
+    },
+    {
+        "name": "Tokonou",
+        "latitude": 9.65,
+        "longitude": -9.78333
+    },
+    {
+        "name": "Coyah",
+        "latitude": 9.75,
+        "longitude": -13.41667
+    },
+    {
+        "name": "Dubr\u00e9ka",
+        "latitude": 9.79111,
+        "longitude": -13.52333
+    },
+    {
+        "name": "For\u00e9cariah",
+        "latitude": 9.43056,
+        "longitude": -13.08806
+    },
+    {
+        "name": "Kindia",
+        "latitude": 10.08333,
+        "longitude": -12.8
+    },
+    {
+        "name": "Pr\u00e9fecture de Dubr\u00e9ka",
+        "latitude": 10.25,
+        "longitude": -13.41667
+    },
+    {
+        "name": "Pr\u00e9fecture de For\u00e9cariah",
+        "latitude": 9.43333,
+        "longitude": -13.1
+    },
+    {
+        "name": "T\u00e9lim\u00e9l\u00e9",
+        "latitude": 10.9,
+        "longitude": -13.03333
+    },
+    {
+        "name": "Telimele Prefecture",
+        "latitude": 10.91667,
+        "longitude": -13.33333
+    },
+    {
+        "name": "Tondon",
+        "latitude": 10.36667,
+        "longitude": -13.35
+    },
+    {
+        "name": "Koubia",
+        "latitude": 11.58333,
+        "longitude": -11.83333
+    },
+    {
+        "name": "Lab\u00e9",
+        "latitude": 11.31823,
+        "longitude": -12.28332
+    },
+    {
+        "name": "Labe Prefecture",
+        "latitude": 11.366,
+        "longitude": -12.3
+    },
+    {
+        "name": "L\u00e9louma",
+        "latitude": 11.42383,
+        "longitude": -12.68183
+    },
+    {
+        "name": "Lelouma Prefecture",
+        "latitude": 11.41667,
+        "longitude": -12.66667
+    },
+    {
+        "name": "Mali",
+        "latitude": 12.079,
+        "longitude": -12.2982
+    },
+    {
+        "name": "Mali Prefecture",
+        "latitude": 12.08333,
+        "longitude": -12.08333
+    },
+    {
+        "name": "Tougu\u00e9",
+        "latitude": 11.44503,
+        "longitude": -11.66422
+    },
+    {
+        "name": "Tougue Prefecture",
+        "latitude": 11.46667,
+        "longitude": -11.6
+    },
+    {
+        "name": "Dalaba",
+        "latitude": 10.75,
+        "longitude": -12.3
+    },
+    {
+        "name": "Mamou",
+        "latitude": 10.37546,
+        "longitude": -12.09148
+    },
+    {
+        "name": "Mamou Prefecture",
+        "latitude": 10.459,
+        "longitude": -11.815
+    },
+    {
+        "name": "Pita",
+        "latitude": 10.83333,
+        "longitude": -12.58333
+    },
+    {
+        "name": "Beyla",
+        "latitude": 8.69011,
+        "longitude": -8.64869
+    },
+    {
+        "name": "Beyla Prefecture",
+        "latitude": 8.91667,
+        "longitude": -8.41667
+    },
+    {
+        "name": "Gueckedou",
+        "latitude": 8.56744,
+        "longitude": -10.1336
+    },
+    {
+        "name": "Lola",
+        "latitude": 7.83333,
+        "longitude": -8.33333
+    },
+    {
+        "name": "Macenta",
+        "latitude": 8.5,
+        "longitude": -9.41667
+    },
+    {
+        "name": "Nz\u00e9r\u00e9kor\u00e9",
+        "latitude": 7.75624,
+        "longitude": -8.8179
+    },
+    {
+        "name": "Nzerekore Prefecture",
+        "latitude": 7.945,
+        "longitude": -8.783
+    },
+    {
+        "name": "Pr\u00e9fecture de Gu\u00e9k\u00e9dou",
+        "latitude": 8.66667,
+        "longitude": -10.25
+    },
+    {
+        "name": "Yomou",
+        "latitude": 7.5,
+        "longitude": -9.16667
+    }
+]

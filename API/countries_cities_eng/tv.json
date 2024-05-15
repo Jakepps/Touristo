@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Alapi Village",
+        "latitude": -8.52074,
+        "longitude": 179.1968
+    },
+    {
+        "name": "Fakaifou Village",
+        "latitude": -8.51758,
+        "longitude": 179.20094
+    },
+    {
+        "name": "Funafuti",
+        "latitude": -8.52425,
+        "longitude": 179.19417
+    },
+    {
+        "name": "Toga Village",
+        "latitude": -6.28764,
+        "longitude": 176.31472
+    },
+    {
+        "name": "Kulia Village",
+        "latitude": -6.10819,
+        "longitude": 177.33393
+    },
+    {
+        "name": "Niulakita",
+        "latitude": -10.788,
+        "longitude": 179.466
+    },
+    {
+        "name": "Tanrake Village",
+        "latitude": -7.24562,
+        "longitude": 177.14511
+    },
+    {
+        "name": "Savave Village",
+        "latitude": -8.02731,
+        "longitude": 178.31351
+    },
+    {
+        "name": "Asau Village",
+        "latitude": -7.49026,
+        "longitude": 178.68016
+    }
+]

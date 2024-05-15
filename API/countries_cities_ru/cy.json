@@ -1,0 +1,477 @@
+[
+    {
+        "name": "Ачерита",
+        "latitude": 35.10022,
+        "longitude": 33.86155
+    },
+    {
+        "name": "Грудь",
+        "latitude": 35.05515,
+        "longitude": 33.78388
+    },
+    {
+        "name": "Муниципалитет Аммохостос",
+        "latitude": 35.11755,
+        "longitude": 33.94335
+    },
+    {
+        "name": "Авгору",
+        "latitude": 35.03615,
+        "longitude": 33.83918
+    },
+    {
+        "name": "Айя-Напа",
+        "latitude": 34.98213,
+        "longitude": 34.00183
+    },
+    {
+        "name": "Дериния",
+        "latitude": 35.06484,
+        "longitude": 33.96083
+    },
+    {
+        "name": "Фамагуста",
+        "latitude": 35.12054,
+        "longitude": 33.93894
+    },
+    {
+        "name": "Френарос",
+        "latitude": 35.04121,
+        "longitude": 33.92242
+    },
+    {
+        "name": "Лефконой",
+        "latitude": 35.2598,
+        "longitude": 33.73189
+    },
+    {
+        "name": "Леонариссо",
+        "latitude": 35.46892,
+        "longitude": 34.13886
+    },
+    {
+        "name": "Лиопетри",
+        "latitude": 35.00885,
+        "longitude": 33.89256
+    },
+    {
+        "name": "Паралимпиец",
+        "latitude": 35.03945,
+        "longitude": 33.98181
+    },
+    {
+        "name": "Протарос",
+        "latitude": 35.0125,
+        "longitude": 34.05833
+    },
+    {
+        "name": "Рисовое карпассо",
+        "latitude": 35.59719,
+        "longitude": 34.37916
+    },
+    {
+        "name": "Трихомо",
+        "latitude": 35.28628,
+        "longitude": 33.89167
+    },
+    {
+        "name": "Кирения",
+        "latitude": 35.33634,
+        "longitude": 33.31729
+    },
+    {
+        "name": "Муниципалитет Кирении",
+        "latitude": 35.33672,
+        "longitude": 33.31504
+    },
+    {
+        "name": "Лапитос",
+        "latitude": 35.33823,
+        "longitude": 33.17368
+    },
+    {
+        "name": "от Арадиппы",
+        "latitude": 34.95151,
+        "longitude": 33.59199
+    },
+    {
+        "name": "Афины",
+        "latitude": 35.0618,
+        "longitude": 33.54156
+    },
+    {
+        "name": "Дромолаксия",
+        "latitude": 34.87551,
+        "longitude": 33.58684
+    },
+    {
+        "name": "Шпаклевка",
+        "latitude": 34.84696,
+        "longitude": 33.57344
+    },
+    {
+        "name": "С кофеином",
+        "latitude": 34.82449,
+        "longitude": 33.3913
+    },
+    {
+        "name": "Колоссы",
+        "latitude": 34.66865,
+        "longitude": 32.93375
+    },
+    {
+        "name": "Болезненный",
+        "latitude": 34.92396,
+        "longitude": 33.39764
+    },
+    {
+        "name": "Ларнака",
+        "latitude": 34.92291,
+        "longitude": 33.6233
+    },
+    {
+        "name": "Луг",
+        "latitude": 34.95118,
+        "longitude": 33.62658
+    },
+    {
+        "name": "Мне",
+        "latitude": 34.86114,
+        "longitude": 33.59516
+    },
+    {
+        "name": "Мосфилоти",
+        "latitude": 34.95256,
+        "longitude": 33.42511
+    },
+    {
+        "name": "Пергам",
+        "latitude": 35.04167,
+        "longitude": 33.70833
+    },
+    {
+        "name": "Периволия",
+        "latitude": 34.83355,
+        "longitude": 33.58196
+    },
+    {
+        "name": "Это подделка",
+        "latitude": 34.94653,
+        "longitude": 33.46277
+    },
+    {
+        "name": "Пыльца",
+        "latitude": 35.01237,
+        "longitude": 33.69188
+    },
+    {
+        "name": "Терсефан",
+        "latitude": 34.85411,
+        "longitude": 33.54746
+    },
+    {
+        "name": "Труллуа",
+        "latitude": 35.03203,
+        "longitude": 33.61501
+    },
+    {
+        "name": "Вороклини",
+        "latitude": 34.986,
+        "longitude": 33.65387
+    },
+    {
+        "name": "Ксилофаг",
+        "latitude": 34.97743,
+        "longitude": 33.84894
+    },
+    {
+        "name": "Ксилотимбус",
+        "latitude": 35.0172,
+        "longitude": 33.74245
+    },
+    {
+        "name": "Агиос Томас",
+        "latitude": 34.71158,
+        "longitude": 32.73129
+    },
+    {
+        "name": "Агиос Тихон",
+        "latitude": 34.72606,
+        "longitude": 33.13872
+    },
+    {
+        "name": "Эрими",
+        "latitude": 34.67766,
+        "longitude": 32.91815
+    },
+    {
+        "name": "Гермасойя",
+        "latitude": 34.72207,
+        "longitude": 33.08254
+    },
+    {
+        "name": "Кипр",
+        "latitude": 34.93815,
+        "longitude": 32.97551
+    },
+    {
+        "name": "Это мясисто",
+        "latitude": 34.69218,
+        "longitude": 33.02854
+    },
+    {
+        "name": "Лимассол",
+        "latitude": 34.68406,
+        "longitude": 33.03794
+    },
+    {
+        "name": "Муттагиака",
+        "latitude": 34.72022,
+        "longitude": 33.10066
+    },
+    {
+        "name": "Пахнет",
+        "latitude": 34.77874,
+        "longitude": 32.79355
+    },
+    {
+        "name": "Мистер Полемдия",
+        "latitude": 34.70559,
+        "longitude": 32.99269
+    },
+    {
+        "name": "Клише",
+        "latitude": 34.74583,
+        "longitude": 33.15833
+    },
+    {
+        "name": "Пелендри",
+        "latitude": 34.89597,
+        "longitude": 32.96817
+    },
+    {
+        "name": "Писающий",
+        "latitude": 34.66942,
+        "longitude": 32.70132
+    },
+    {
+        "name": "Пиргос",
+        "latitude": 34.74167,
+        "longitude": 33.18333
+    },
+    {
+        "name": "Обжаренный",
+        "latitude": 34.71189,
+        "longitude": 32.8634
+    },
+    {
+        "name": "Трунг подбородка",
+        "latitude": 34.7357,
+        "longitude": 32.88437
+    },
+    {
+        "name": "Ипсон",
+        "latitude": 34.68797,
+        "longitude": 32.96191
+    },
+    {
+        "name": "Акаки",
+        "latitude": 35.13341,
+        "longitude": 33.12873
+    },
+    {
+        "name": "К лампе",
+        "latitude": 34.98898,
+        "longitude": 33.39887
+    },
+    {
+        "name": "Аредио",
+        "latitude": 35.04844,
+        "longitude": 33.1961
+    },
+    {
+        "name": "Астромерит",
+        "latitude": 35.14096,
+        "longitude": 33.03793
+    },
+    {
+        "name": "Вперед, продолжать",
+        "latitude": 35.02294,
+        "longitude": 33.42195
+    },
+    {
+        "name": "Это эргия",
+        "latitude": 35.05365,
+        "longitude": 33.24292
+    },
+    {
+        "name": "Джерри",
+        "latitude": 35.1056,
+        "longitude": 33.41977
+    },
+    {
+        "name": "Какопетрия",
+        "latitude": 34.98768,
+        "longitude": 32.90468
+    },
+    {
+        "name": "Как Дефтера",
+        "latitude": 35.08489,
+        "longitude": 33.27558
+    },
+    {
+        "name": "Как Пиргос",
+        "latitude": 35.17897,
+        "longitude": 32.686
+    },
+    {
+        "name": "Прозрачный",
+        "latitude": 35.02004,
+        "longitude": 33.17806
+    },
+    {
+        "name": "Река Коккинотримити",
+        "latitude": 35.15303,
+        "longitude": 33.19966
+    },
+    {
+        "name": "Лефка",
+        "latitude": 35.11199,
+        "longitude": 32.84997
+    },
+    {
+        "name": "Олимпия",
+        "latitude": 34.99889,
+        "longitude": 33.46175
+    },
+    {
+        "name": "Литродонтас",
+        "latitude": 34.95105,
+        "longitude": 33.29777
+    },
+    {
+        "name": "мамочка",
+        "latitude": 35.17604,
+        "longitude": 33.20435
+    },
+    {
+        "name": "Менико",
+        "latitude": 35.10945,
+        "longitude": 33.14474
+    },
+    {
+        "name": "Превращаться",
+        "latitude": 35.19869,
+        "longitude": 32.99338
+    },
+    {
+        "name": "Никосия",
+        "latitude": 35.17531,
+        "longitude": 33.3642
+    },
+    {
+        "name": "Муниципалитет Никосии",
+        "latitude": 35.16944,
+        "longitude": 33.36081
+    },
+    {
+        "name": "Блокнот с буфером обмена",
+        "latitude": 35.07778,
+        "longitude": 33.26584
+    },
+    {
+        "name": "Ручка",
+        "latitude": 35.0335,
+        "longitude": 33.25413
+    },
+    {
+        "name": "Перистерон",
+        "latitude": 35.12928,
+        "longitude": 33.07858
+    },
+    {
+        "name": "Псимолофу",
+        "latitude": 35.0625,
+        "longitude": 33.2625
+    },
+    {
+        "name": "Кери",
+        "latitude": 35.07307,
+        "longitude": 33.32344
+    },
+    {
+        "name": "Аргака",
+        "latitude": 35.06646,
+        "longitude": 32.49446
+    },
+    {
+        "name": "Хлороз",
+        "latitude": 34.79768,
+        "longitude": 32.41207
+    },
+    {
+        "name": "Эмба",
+        "latitude": 34.807,
+        "longitude": 32.42406
+    },
+    {
+        "name": "Героскипу",
+        "latitude": 34.75498,
+        "longitude": 32.45155
+    },
+    {
+        "name": "Героскипу (четверть)",
+        "latitude": 34.7619,
+        "longitude": 32.45135
+    },
+    {
+        "name": "Муниципалитет Героскипу",
+        "latitude": 34.75142,
+        "longitude": 32.45449
+    },
+    {
+        "name": "Киссонерга",
+        "latitude": 34.82279,
+        "longitude": 32.40131
+    },
+    {
+        "name": "Колония",
+        "latitude": 34.75228,
+        "longitude": 32.46487
+    },
+    {
+        "name": "Лошадь",
+        "latitude": 34.78516,
+        "longitude": 32.459
+    },
+    {
+        "name": "мясистый",
+        "latitude": 34.81577,
+        "longitude": 32.45542
+    },
+    {
+        "name": "Пафос",
+        "latitude": 34.77679,
+        "longitude": 32.42451
+    },
+    {
+        "name": "Пейя",
+        "latitude": 34.88341,
+        "longitude": 32.38166
+    },
+    {
+        "name": "Полис",
+        "latitude": 35.03534,
+        "longitude": 32.42575
+    },
+    {
+        "name": "Поле",
+        "latitude": 34.83745,
+        "longitude": 32.43272
+    },
+    {
+        "name": "Када",
+        "latitude": 34.83801,
+        "longitude": 32.47547
+    }
+]

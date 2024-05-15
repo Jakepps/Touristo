@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Андриевица",
+        "latitude": 42.73389,
+        "longitude": 19.79194
+    },
+    {
+        "name": "Бар",
+        "latitude": 42.09306,
+        "longitude": 19.10028
+    },
+    {
+        "name": "Старый Бар",
+        "latitude": 42.097,
+        "longitude": 19.136
+    },
+    {
+        "name": "Шушань",
+        "latitude": 42.11556,
+        "longitude": 19.08833
+    },
+    {
+        "name": "Сутоморе",
+        "latitude": 42.14278,
+        "longitude": 19.04667
+    },
+    {
+        "name": "Беране",
+        "latitude": 42.8425,
+        "longitude": 19.87333
+    },
+    {
+        "name": "Биело Поле",
+        "latitude": 43.03834,
+        "longitude": 19.74758
+    },
+    {
+        "name": "Будва",
+        "latitude": 42.28639,
+        "longitude": 18.84
+    },
+    {
+        "name": "Петровац на Мору",
+        "latitude": 42.20556,
+        "longitude": 18.9425
+    },
+    {
+        "name": "Даниловград",
+        "latitude": 42.55384,
+        "longitude": 19.14608
+    },
+    {
+        "name": "Губка",
+        "latitude": 42.515,
+        "longitude": 19.195
+    },
+    {
+        "name": "Гусеницы",
+        "latitude": 42.56194,
+        "longitude": 19.83389
+    },
+    {
+        "name": "Колашин",
+        "latitude": 42.82229,
+        "longitude": 19.51653
+    },
+    {
+        "name": "Доброта",
+        "latitude": 42.45417,
+        "longitude": 18.76833
+    },
+    {
+        "name": "Котор",
+        "latitude": 42.42067,
+        "longitude": 18.76825
+    },
+    {
+        "name": "Пршечань",
+        "latitude": 42.4575,
+        "longitude": 18.74222
+    },
+    {
+        "name": "Рис",
+        "latitude": 42.515,
+        "longitude": 18.69556
+    },
+    {
+        "name": "Мойковац",
+        "latitude": 42.96044,
+        "longitude": 19.5833
+    },
+    {
+        "name": "Никшич",
+        "latitude": 42.7731,
+        "longitude": 18.94446
+    },
+    {
+        "name": "Цетинье",
+        "latitude": 42.39063,
+        "longitude": 18.91417
+    },
+    {
+        "name": "Синий",
+        "latitude": 42.59694,
+        "longitude": 19.94556
+    },
+    {
+        "name": "Плевля",
+        "latitude": 43.3567,
+        "longitude": 19.35843
+    },
+    {
+        "name": "шлейфы",
+        "latitude": 43.15278,
+        "longitude": 18.83944
+    },
+    {
+        "name": "Голубовцы",
+        "latitude": 42.335,
+        "longitude": 19.23111
+    },
+    {
+        "name": "Жители Гори",
+        "latitude": 42.33222,
+        "longitude": 19.21194
+    },
+    {
+        "name": "Парикмахерские",
+        "latitude": 42.32361,
+        "longitude": 19.27278
+    },
+    {
+        "name": "Мояновичи",
+        "latitude": 42.34167,
+        "longitude": 19.22139
+    },
+    {
+        "name": "Подгорица",
+        "latitude": 42.44111,
+        "longitude": 19.26361
+    },
+    {
+        "name": "Мы знаем",
+        "latitude": 42.36556,
+        "longitude": 19.33139
+    },
+    {
+        "name": "Рожае",
+        "latitude": 42.83299,
+        "longitude": 20.16652
+    },
+    {
+        "name": "Шавник",
+        "latitude": 42.95639,
+        "longitude": 19.09667
+    },
+    {
+        "name": "Тиват",
+        "latitude": 42.43639,
+        "longitude": 18.69611
+    },
+    {
+        "name": "Улцинь",
+        "latitude": 41.92936,
+        "longitude": 19.22436
+    },
+    {
+        "name": "Лягушка",
+        "latitude": 43.15423,
+        "longitude": 19.12325
+    }
+]

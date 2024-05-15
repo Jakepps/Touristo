@@ -1,0 +1,1862 @@
+[
+    {
+        "name": "Атенри",
+        "latitude": 53.29639,
+        "longitude": -8.74306
+    },
+    {
+        "name": "Баллагадеррин",
+        "latitude": 53.9,
+        "longitude": -8.58333
+    },
+    {
+        "name": "Баллина",
+        "latitude": 54.11667,
+        "longitude": -9.16667
+    },
+    {
+        "name": "Баллинасло",
+        "latitude": 53.3275,
+        "longitude": -8.21944
+    },
+    {
+        "name": "Баллинроб",
+        "latitude": 53.63333,
+        "longitude": -9.23333
+    },
+    {
+        "name": "Баллисодар",
+        "latitude": 54.2111,
+        "longitude": -8.50865
+    },
+    {
+        "name": "Баллихаунис",
+        "latitude": 53.76667,
+        "longitude": -8.76667
+    },
+    {
+        "name": "Баллимот",
+        "latitude": 54.08333,
+        "longitude": -8.51667
+    },
+    {
+        "name": "Зазор",
+        "latitude": 53.25194,
+        "longitude": -9.14972
+    },
+    {
+        "name": "Белмуллет",
+        "latitude": 54.225,
+        "longitude": -9.99083
+    },
+    {
+        "name": "Бойл",
+        "latitude": 53.96667,
+        "longitude": -8.3
+    },
+    {
+        "name": "Каррик-он-Шеннон",
+        "latitude": 53.94694,
+        "longitude": -8.09
+    },
+    {
+        "name": "Каслбар",
+        "latitude": 53.85,
+        "longitude": -9.3
+    },
+    {
+        "name": "Каслреа",
+        "latitude": 53.76667,
+        "longitude": -8.5
+    },
+    {
+        "name": "Клэрегалуэй",
+        "latitude": 53.33861,
+        "longitude": -8.945
+    },
+    {
+        "name": "Клерморрис",
+        "latitude": 53.71667,
+        "longitude": -9.0
+    },
+    {
+        "name": "Клифден",
+        "latitude": 53.48907,
+        "longitude": -10.0191
+    },
+    {
+        "name": "Коллуни",
+        "latitude": 54.18333,
+        "longitude": -8.5
+    },
+    {
+        "name": "Графство Голуэй",
+        "latitude": 53.33333,
+        "longitude": -9.0
+    },
+    {
+        "name": "Графство Литрим",
+        "latitude": 54.11667,
+        "longitude": -8.0
+    },
+    {
+        "name": "Кроссмолина",
+        "latitude": 54.1,
+        "longitude": -9.31667
+    },
+    {
+        "name": "Фоксфорд",
+        "latitude": 53.9807,
+        "longitude": -9.11551
+    },
+    {
+        "name": "Голуэй",
+        "latitude": 53.27194,
+        "longitude": -9.04889
+    },
+    {
+        "name": "Голуэй Сити",
+        "latitude": 53.2877,
+        "longitude": -9.05004
+    },
+    {
+        "name": "Горт",
+        "latitude": 53.06639,
+        "longitude": -8.81667
+    },
+    {
+        "name": "Инишкроне",
+        "latitude": 54.21591,
+        "longitude": -9.09197
+    },
+    {
+        "name": "Килтамах",
+        "latitude": 53.85,
+        "longitude": -9.0
+    },
+    {
+        "name": "Кинлоу",
+        "latitude": 54.45,
+        "longitude": -8.28333
+    },
+    {
+        "name": "Лохрея",
+        "latitude": 53.19694,
+        "longitude": -8.56694
+    },
+    {
+        "name": "Манорхамилтон",
+        "latitude": 54.30639,
+        "longitude": -8.17611
+    },
+    {
+        "name": "Округ Мейо",
+        "latitude": 53.9,
+        "longitude": -9.25
+    },
+    {
+        "name": "Мойкуллен",
+        "latitude": 53.33783,
+        "longitude": -9.18002
+    },
+    {
+        "name": "Оранмор",
+        "latitude": 53.26833,
+        "longitude": -8.92
+    },
+    {
+        "name": "Утерард",
+        "latitude": 53.41667,
+        "longitude": -9.33333
+    },
+    {
+        "name": "порт",
+        "latitude": 53.08917,
+        "longitude": -8.21889
+    },
+    {
+        "name": "Роскоммон",
+        "latitude": 53.75,
+        "longitude": -8.25
+    },
+    {
+        "name": "Слайго",
+        "latitude": 54.25,
+        "longitude": -8.66667
+    },
+    {
+        "name": "Стрэндхилл",
+        "latitude": 54.27194,
+        "longitude": -8.59333
+    },
+    {
+        "name": "Суинфорд",
+        "latitude": 53.95,
+        "longitude": -8.95
+    },
+    {
+        "name": "Тоберкарри",
+        "latitude": 54.05,
+        "longitude": -8.73333
+    },
+    {
+        "name": "Туам",
+        "latitude": 53.51667,
+        "longitude": -8.85
+    },
+    {
+        "name": "Вестпорт",
+        "latitude": 53.8,
+        "longitude": -9.51667
+    },
+    {
+        "name": "Аббелейкс",
+        "latitude": 52.91331,
+        "longitude": -7.34456
+    },
+    {
+        "name": "Уэстмит",
+        "latitude": 53.5,
+        "longitude": -7.5
+    },
+    {
+        "name": "Лонгфорд",
+        "latitude": 53.66667,
+        "longitude": -7.75
+    },
+    {
+        "name": "Месяц",
+        "latitude": 53.66667,
+        "longitude": -6.66667
+    },
+    {
+        "name": "Маллингар",
+        "latitude": 53.53333,
+        "longitude": -7.35
+    },
+    {
+        "name": "Ан Рос",
+        "latitude": 53.52424,
+        "longitude": -6.10497
+    },
+    {
+        "name": "Арди",
+        "latitude": 53.85972,
+        "longitude": -6.54056
+    },
+    {
+        "name": "Арклоу",
+        "latitude": 52.79306,
+        "longitude": -6.14139
+    },
+    {
+        "name": "Артан",
+        "latitude": 53.38712,
+        "longitude": -6.2138
+    },
+    {
+        "name": "Эшборн",
+        "latitude": 53.51163,
+        "longitude": -6.39821
+    },
+    {
+        "name": "Эшфорд",
+        "latitude": 53.00833,
+        "longitude": -6.11139
+    },
+    {
+        "name": "Атбой",
+        "latitude": 53.62327,
+        "longitude": -6.91434
+    },
+    {
+        "name": "Атгарван",
+        "latitude": 53.15229,
+        "longitude": -6.78173
+    },
+    {
+        "name": "Атлон",
+        "latitude": 53.43333,
+        "longitude": -7.95
+    },
+    {
+        "name": "Ати",
+        "latitude": 52.99139,
+        "longitude": -6.98028
+    },
+    {
+        "name": "Огрим",
+        "latitude": 52.85333,
+        "longitude": -6.3275
+    },
+    {
+        "name": "Багеналстаун",
+        "latitude": 52.70031,
+        "longitude": -6.96181
+    },
+    {
+        "name": "Балалли",
+        "latitude": 53.27504,
+        "longitude": -6.23594
+    },
+    {
+        "name": "Балбригган",
+        "latitude": 53.60846,
+        "longitude": -6.1831
+    },
+    {
+        "name": "Болдойл",
+        "latitude": 53.39972,
+        "longitude": -6.12583
+    },
+    {
+        "name": "Баллинроуд",
+        "latitude": 52.51789,
+        "longitude": -6.40619
+    },
+    {
+        "name": "Баллинтир",
+        "latitude": 53.27409,
+        "longitude": -6.25397
+    },
+    {
+        "name": "Балливор",
+        "latitude": 53.53167,
+        "longitude": -6.96111
+    },
+    {
+        "name": "Баллибоден",
+        "latitude": 53.28056,
+        "longitude": -6.31639
+    },
+    {
+        "name": "Баллифермот",
+        "latitude": 53.34283,
+        "longitude": -6.3548
+    },
+    {
+        "name": "Баллиджерри",
+        "latitude": 52.24917,
+        "longitude": -6.35739
+    },
+    {
+        "name": "Баллилинан",
+        "latitude": 52.94497,
+        "longitude": -7.04073
+    },
+    {
+        "name": "Баллимахон",
+        "latitude": 53.56667,
+        "longitude": -7.76667
+    },
+    {
+        "name": "Баллимун",
+        "latitude": 53.39807,
+        "longitude": -6.26693
+    },
+    {
+        "name": "Баллираггет",
+        "latitude": 52.78889,
+        "longitude": -7.33028
+    },
+    {
+        "name": "Балротери",
+        "latitude": 53.58828,
+        "longitude": -6.18728
+    },
+    {
+        "name": "Балтингласс",
+        "latitude": 52.93722,
+        "longitude": -6.70917
+    },
+    {
+        "name": "Банагер",
+        "latitude": 53.18861,
+        "longitude": -7.98667
+    },
+    {
+        "name": "Бэйсайд",
+        "latitude": 53.38895,
+        "longitude": -6.14041
+    },
+    {
+        "name": "Бомонт",
+        "latitude": 53.38721,
+        "longitude": -6.22713
+    },
+    {
+        "name": "Бирр",
+        "latitude": 53.09139,
+        "longitude": -7.91333
+    },
+    {
+        "name": "Черная гора",
+        "latitude": 53.3015,
+        "longitude": -6.1778
+    },
+    {
+        "name": "Бланчардстаун",
+        "latitude": 53.38806,
+        "longitude": -6.37556
+    },
+    {
+        "name": "Блессингтон",
+        "latitude": 53.17,
+        "longitude": -6.5325
+    },
+    {
+        "name": "Боннибрук",
+        "latitude": 53.39835,
+        "longitude": -6.20749
+    },
+    {
+        "name": "Бутерстаун",
+        "latitude": 53.30447,
+        "longitude": -6.19985
+    },
+    {
+        "name": "Брей",
+        "latitude": 53.20278,
+        "longitude": -6.09833
+    },
+    {
+        "name": "Банклоди",
+        "latitude": 52.6553,
+        "longitude": -6.65359
+    },
+    {
+        "name": "Кабинтили",
+        "latitude": 53.26973,
+        "longitude": -6.16058
+    },
+    {
+        "name": "Козел",
+        "latitude": 53.36694,
+        "longitude": -6.29444
+    },
+    {
+        "name": "Каллан",
+        "latitude": 52.545,
+        "longitude": -7.39111
+    },
+    {
+        "name": "Карлингфорд",
+        "latitude": 54.04,
+        "longitude": -6.18833
+    },
+    {
+        "name": "Карлоу",
+        "latitude": 52.84083,
+        "longitude": -6.92611
+    },
+    {
+        "name": "Карнью",
+        "latitude": 52.70806,
+        "longitude": -6.49444
+    },
+    {
+        "name": "Каслбеллингем",
+        "latitude": 53.90083,
+        "longitude": -6.39028
+    },
+    {
+        "name": "Каслбридж",
+        "latitude": 52.38639,
+        "longitude": -6.44944
+    },
+    {
+        "name": "Каслкомер",
+        "latitude": 52.80611,
+        "longitude": -7.21056
+    },
+    {
+        "name": "Каслдермот",
+        "latitude": 52.90889,
+        "longitude": -6.84222
+    },
+    {
+        "name": "Каслнок",
+        "latitude": 53.37483,
+        "longitude": -6.36336
+    },
+    {
+        "name": "Каслполлард",
+        "latitude": 53.67935,
+        "longitude": -7.29736
+    },
+    {
+        "name": "Каслтаун",
+        "latitude": 52.72306,
+        "longitude": -6.18944
+    },
+    {
+        "name": "Селбридж",
+        "latitude": 53.34165,
+        "longitude": -6.54419
+    },
+    {
+        "name": "Чапелизод",
+        "latitude": 53.34846,
+        "longitude": -6.34301
+    },
+    {
+        "name": "Чарльзленд",
+        "latitude": 53.12771,
+        "longitude": -6.06347
+    },
+    {
+        "name": "Вишневый сад",
+        "latitude": 53.33605,
+        "longitude": -6.37799
+    },
+    {
+        "name": "Черривилл",
+        "latitude": 53.15694,
+        "longitude": -6.96667
+    },
+    {
+        "name": "Клейн",
+        "latitude": 53.29139,
+        "longitude": -6.68917
+    },
+    {
+        "name": "Клара",
+        "latitude": 53.3425,
+        "longitude": -7.61389
+    },
+    {
+        "name": "Клогерхед",
+        "latitude": 53.79361,
+        "longitude": -6.2375
+    },
+    {
+        "name": "Клондалкин",
+        "latitude": 53.32444,
+        "longitude": -6.39722
+    },
+    {
+        "name": "Клонски",
+        "latitude": 53.31467,
+        "longitude": -6.23148
+    },
+    {
+        "name": "Конфи",
+        "latitude": 53.37923,
+        "longitude": -6.49052
+    },
+    {
+        "name": "Кулок",
+        "latitude": 53.3887,
+        "longitude": -6.19998
+    },
+    {
+        "name": "Графство Карлоу",
+        "latitude": 52.66667,
+        "longitude": -6.83333
+    },
+    {
+        "name": "Кортаун",
+        "latitude": 52.64424,
+        "longitude": -6.22899
+    },
+    {
+        "name": "Крамлин",
+        "latitude": 53.32154,
+        "longitude": -6.31439
+    },
+    {
+        "name": "Твердый",
+        "latitude": 53.29611,
+        "longitude": -7.28944
+    },
+    {
+        "name": "Моя страна",
+        "latitude": 53.27833,
+        "longitude": -6.10028
+    },
+    {
+        "name": "Дарндейл",
+        "latitude": 53.39948,
+        "longitude": -6.18886
+    },
+    {
+        "name": "Дерринтурн",
+        "latitude": 53.34167,
+        "longitude": -6.94111
+    },
+    {
+        "name": "Доллимаунт",
+        "latitude": 53.36489,
+        "longitude": -6.18032
+    },
+    {
+        "name": "Пожертвовать",
+        "latitude": 53.48722,
+        "longitude": -6.15194
+    },
+    {
+        "name": "Донахмед",
+        "latitude": 53.39845,
+        "longitude": -6.16179
+    },
+    {
+        "name": "Доннибрук",
+        "latitude": 53.31375,
+        "longitude": -6.22274
+    },
+    {
+        "name": "Донникарни",
+        "latitude": 53.3735,
+        "longitude": -6.20976
+    },
+    {
+        "name": "Дроэда",
+        "latitude": 53.71889,
+        "longitude": -6.34778
+    },
+    {
+        "name": "Новый мост",
+        "latitude": 53.18194,
+        "longitude": -6.79667
+    },
+    {
+        "name": "Дромискин",
+        "latitude": 53.92538,
+        "longitude": -6.40292
+    },
+    {
+        "name": "Драмкондра",
+        "latitude": 53.37058,
+        "longitude": -6.25298
+    },
+    {
+        "name": "Дублин",
+        "latitude": 53.33306,
+        "longitude": -6.24889
+    },
+    {
+        "name": "Дублин Сити",
+        "latitude": 53.35512,
+        "longitude": -6.24922
+    },
+    {
+        "name": "Дулик",
+        "latitude": 53.65667,
+        "longitude": -6.41917
+    },
+    {
+        "name": "Дун Лаогэр",
+        "latitude": 53.29395,
+        "longitude": -6.13586
+    },
+    {
+        "name": "Дун Лаогэр-Ратдаун",
+        "latitude": 53.29436,
+        "longitude": -6.13489
+    },
+    {
+        "name": "Данбойн",
+        "latitude": 53.41901,
+        "longitude": -6.47375
+    },
+    {
+        "name": "Дандолк",
+        "latitude": 54.0,
+        "longitude": -6.41667
+    },
+    {
+        "name": "Дандрам",
+        "latitude": 53.29067,
+        "longitude": -6.25714
+    },
+    {
+        "name": "Данлир",
+        "latitude": 53.835,
+        "longitude": -6.39611
+    },
+    {
+        "name": "Даншоглин",
+        "latitude": 53.5125,
+        "longitude": -6.54
+    },
+    {
+        "name": "Идстаун",
+        "latitude": 53.20278,
+        "longitude": -6.57806
+    },
+    {
+        "name": "Эдендерри",
+        "latitude": 53.33948,
+        "longitude": -7.04752
+    },
+    {
+        "name": "Эджвортстаун",
+        "latitude": 53.7,
+        "longitude": -7.61667
+    },
+    {
+        "name": "Энфилд",
+        "latitude": 53.41419,
+        "longitude": -6.83229
+    },
+    {
+        "name": "Эннискорти",
+        "latitude": 52.50083,
+        "longitude": -6.55778
+    },
+    {
+        "name": "Эннискерри",
+        "latitude": 53.1925,
+        "longitude": -6.16917
+    },
+    {
+        "name": "Фэрвью",
+        "latitude": 53.36597,
+        "longitude": -6.23985
+    },
+    {
+        "name": "Запрещено",
+        "latitude": 53.26944,
+        "longitude": -7.82694
+    },
+    {
+        "name": "Папоротники",
+        "latitude": 52.58833,
+        "longitude": -6.49972
+    },
+    {
+        "name": "Фингалский уезд",
+        "latitude": 53.45909,
+        "longitude": -6.21942
+    },
+    {
+        "name": "Финглас",
+        "latitude": 53.38917,
+        "longitude": -6.29694
+    },
+    {
+        "name": "Фирхаус",
+        "latitude": 53.28167,
+        "longitude": -6.33917
+    },
+    {
+        "name": "Фоксрок",
+        "latitude": 53.26667,
+        "longitude": -6.17417
+    },
+    {
+        "name": "Гласневин",
+        "latitude": 53.37851,
+        "longitude": -6.28028
+    },
+    {
+        "name": "Гори",
+        "latitude": 52.67472,
+        "longitude": -6.2925
+    },
+    {
+        "name": "Грайгенамана",
+        "latitude": 52.54028,
+        "longitude": -6.95472
+    },
+    {
+        "name": "Гранар",
+        "latitude": 53.77928,
+        "longitude": -7.49429
+    },
+    {
+        "name": "Зеленые холмы",
+        "latitude": 53.33467,
+        "longitude": -6.30302
+    },
+    {
+        "name": "Грейстоуны",
+        "latitude": 53.14083,
+        "longitude": -6.06306
+    },
+    {
+        "name": "Хартстаун",
+        "latitude": 53.39306,
+        "longitude": -6.42694
+    },
+    {
+        "name": "Хаут",
+        "latitude": 53.38778,
+        "longitude": -6.06528
+    },
+    {
+        "name": "Джобстаун",
+        "latitude": 53.27866,
+        "longitude": -6.40803
+    },
+    {
+        "name": "Джонстаун",
+        "latitude": 53.23833,
+        "longitude": -6.62222
+    },
+    {
+        "name": "Келлс",
+        "latitude": 53.72639,
+        "longitude": -6.87917
+    },
+    {
+        "name": "Кентстаун",
+        "latitude": 53.62754,
+        "longitude": -6.52674
+    },
+    {
+        "name": "Килбегган",
+        "latitude": 53.36944,
+        "longitude": -7.50333
+    },
+    {
+        "name": "Килкок",
+        "latitude": 53.40222,
+        "longitude": -6.67083
+    },
+    {
+        "name": "Килкул",
+        "latitude": 53.10278,
+        "longitude": -6.065
+    },
+    {
+        "name": "Килкаллен",
+        "latitude": 53.13028,
+        "longitude": -6.74444
+    },
+    {
+        "name": "Килдэр",
+        "latitude": 53.16667,
+        "longitude": -6.75
+    },
+    {
+        "name": "Килкенни",
+        "latitude": 52.58333,
+        "longitude": -7.25
+    },
+    {
+        "name": "Убийство",
+        "latitude": 53.25139,
+        "longitude": -6.59167
+    },
+    {
+        "name": "Киллестер",
+        "latitude": 53.37322,
+        "longitude": -6.20431
+    },
+    {
+        "name": "Килмаканог",
+        "latitude": 53.16722,
+        "longitude": -6.13361
+    },
+    {
+        "name": "Килпеддер",
+        "latitude": 53.10917,
+        "longitude": -6.10667
+    },
+    {
+        "name": "Килкуэйд",
+        "latitude": 53.09743,
+        "longitude": -6.08411
+    },
+    {
+        "name": "Киннегад",
+        "latitude": 53.45222,
+        "longitude": -7.09972
+    },
+    {
+        "name": "Кинсли-Дринан",
+        "latitude": 53.44395,
+        "longitude": -6.20334
+    },
+    {
+        "name": "Ноклайон",
+        "latitude": 53.2803,
+        "longitude": -6.3313
+    },
+    {
+        "name": "Лейнсборо",
+        "latitude": 53.66667,
+        "longitude": -7.98333
+    },
+    {
+        "name": "Лаосский",
+        "latitude": 53.0,
+        "longitude": -7.4
+    },
+    {
+        "name": "Лейтаун",
+        "latitude": 53.68194,
+        "longitude": -6.23917
+    },
+    {
+        "name": "Лейкслип",
+        "latitude": 53.36583,
+        "longitude": -6.49556
+    },
+    {
+        "name": "Маленький Брей",
+        "latitude": 53.20444,
+        "longitude": -6.12083
+    },
+    {
+        "name": "Уэксфорд",
+        "latitude": 52.5,
+        "longitude": -6.66667
+    },
+    {
+        "name": "Лонгфорд",
+        "latitude": 53.72536,
+        "longitude": -7.79823
+    },
+    {
+        "name": "Лонгвуд",
+        "latitude": 53.45389,
+        "longitude": -6.92194
+    },
+    {
+        "name": "Лафлинстаун",
+        "latitude": 53.24389,
+        "longitude": -6.13306
+    },
+    {
+        "name": "Меньше",
+        "latitude": 53.83333,
+        "longitude": -6.5
+    },
+    {
+        "name": "Лукан",
+        "latitude": 53.35736,
+        "longitude": -6.44859
+    },
+    {
+        "name": "Ласк",
+        "latitude": 53.52743,
+        "longitude": -6.16423
+    },
+    {
+        "name": "Малахайд",
+        "latitude": 53.45083,
+        "longitude": -6.15444
+    },
+    {
+        "name": "Марино",
+        "latitude": 53.37022,
+        "longitude": -6.23646
+    },
+    {
+        "name": "Мейнут",
+        "latitude": 53.385,
+        "longitude": -6.59361
+    },
+    {
+        "name": "Миллтаун",
+        "latitude": 53.31301,
+        "longitude": -6.2453
+    },
+    {
+        "name": "Ров",
+        "latitude": 53.39389,
+        "longitude": -7.71722
+    },
+    {
+        "name": "Монастеревин",
+        "latitude": 53.14056,
+        "longitude": -7.06639
+    },
+    {
+        "name": "Монкстаун",
+        "latitude": 53.29308,
+        "longitude": -6.15312
+    },
+    {
+        "name": "Мункоин",
+        "latitude": 52.28944,
+        "longitude": -7.24833
+    },
+    {
+        "name": "Мун",
+        "latitude": 52.97556,
+        "longitude": -6.815
+    },
+    {
+        "name": "Гора Меррион",
+        "latitude": 53.30008,
+        "longitude": -6.21504
+    },
+    {
+        "name": "Маунтмеллик",
+        "latitude": 53.11361,
+        "longitude": -7.32
+    },
+    {
+        "name": "Маунтрат",
+        "latitude": 52.99889,
+        "longitude": -7.47278
+    },
+    {
+        "name": "Наас",
+        "latitude": 53.21583,
+        "longitude": -6.66694
+    },
+    {
+        "name": "Наван",
+        "latitude": 53.65278,
+        "longitude": -6.68139
+    },
+    {
+        "name": "Нью Росс",
+        "latitude": 52.39667,
+        "longitude": -6.93667
+    },
+    {
+        "name": "Ньюкасл",
+        "latitude": 53.30111,
+        "longitude": -6.50222
+    },
+    {
+        "name": "Ньютаун Трим",
+        "latitude": 53.55611,
+        "longitude": -6.77
+    },
+    {
+        "name": "НьютаунМаунткеннеди",
+        "latitude": 53.09052,
+        "longitude": -6.11149
+    },
+    {
+        "name": "Старый Килкаллен",
+        "latitude": 53.10639,
+        "longitude": -6.76528
+    },
+    {
+        "name": "Старый",
+        "latitude": 53.27556,
+        "longitude": -6.3675
+    },
+    {
+        "name": "Старый замок",
+        "latitude": 53.76648,
+        "longitude": -7.16284
+    },
+    {
+        "name": "Палмерстаун",
+        "latitude": 53.35019,
+        "longitude": -6.37778
+    },
+    {
+        "name": "Пилтаун",
+        "latitude": 52.35333,
+        "longitude": -7.34028
+    },
+    {
+        "name": "Портарлингтон",
+        "latitude": 53.16222,
+        "longitude": -7.19111
+    },
+    {
+        "name": "Портлауаз",
+        "latitude": 53.03441,
+        "longitude": -7.29979
+    },
+    {
+        "name": "Портмарнок",
+        "latitude": 53.42306,
+        "longitude": -6.1375
+    },
+    {
+        "name": "Портрет",
+        "latitude": 53.49667,
+        "longitude": -6.11111
+    },
+    {
+        "name": "Процветающий",
+        "latitude": 53.29028,
+        "longitude": -6.75389
+    },
+    {
+        "name": "Когда",
+        "latitude": 53.38681,
+        "longitude": -6.18067
+    },
+    {
+        "name": "Ратанган",
+        "latitude": 53.22139,
+        "longitude": -6.995
+    },
+    {
+        "name": "Рэткул",
+        "latitude": 53.28278,
+        "longitude": -6.47278
+    },
+    {
+        "name": "Ратдауни",
+        "latitude": 52.85472,
+        "longitude": -7.58028
+    },
+    {
+        "name": "Ратдрам",
+        "latitude": 52.92639,
+        "longitude": -6.23556
+    },
+    {
+        "name": "Ратгар",
+        "latitude": 53.31457,
+        "longitude": -6.275
+    },
+    {
+        "name": "Ратмайнс",
+        "latitude": 53.32028,
+        "longitude": -6.26333
+    },
+    {
+        "name": "Ротью",
+        "latitude": 52.99056,
+        "longitude": -6.08528
+    },
+    {
+        "name": "Ратвайр",
+        "latitude": 53.50767,
+        "longitude": -7.1351
+    },
+    {
+        "name": "Ратоат",
+        "latitude": 53.50806,
+        "longitude": -6.4625
+    },
+    {
+        "name": "Риальто",
+        "latitude": 53.33625,
+        "longitude": -6.29718
+    },
+    {
+        "name": "Звонок Отправить",
+        "latitude": 53.34194,
+        "longitude": -6.22639
+    },
+    {
+        "name": "Рочфортбридж",
+        "latitude": 53.41417,
+        "longitude": -7.29611
+    },
+    {
+        "name": "Росслэр",
+        "latitude": 52.27583,
+        "longitude": -6.38444
+    },
+    {
+        "name": "Саггарт",
+        "latitude": 53.28028,
+        "longitude": -6.44444
+    },
+    {
+        "name": "Саллинс",
+        "latitude": 53.24889,
+        "longitude": -6.66611
+    },
+    {
+        "name": "Саллиноггс",
+        "latitude": 53.27917,
+        "longitude": -6.14058
+    },
+    {
+        "name": "Сэндифорд",
+        "latitude": 53.2747,
+        "longitude": -6.2253
+    },
+    {
+        "name": "Сэндимаунт",
+        "latitude": 53.32815,
+        "longitude": -6.22224
+    },
+    {
+        "name": "Шанкилл",
+        "latitude": 53.22611,
+        "longitude": -6.12444
+    },
+    {
+        "name": "Шхеры",
+        "latitude": 53.58278,
+        "longitude": -6.10833
+    },
+    {
+        "name": "Слейн",
+        "latitude": 53.71,
+        "longitude": -6.54333
+    },
+    {
+        "name": "Южный Дублин",
+        "latitude": 53.28595,
+        "longitude": -6.37739
+    },
+    {
+        "name": "Стамула",
+        "latitude": 53.62889,
+        "longitude": -6.26833
+    },
+    {
+        "name": "Страдбалли",
+        "latitude": 53.01556,
+        "longitude": -7.15278
+    },
+    {
+        "name": "Саттон",
+        "latitude": 53.38947,
+        "longitude": -6.11059
+    },
+    {
+        "name": "Мечи",
+        "latitude": 53.45972,
+        "longitude": -6.21806
+    },
+    {
+        "name": "Таллахт",
+        "latitude": 53.2859,
+        "longitude": -6.37344
+    },
+    {
+        "name": "Темплог",
+        "latitude": 53.29528,
+        "longitude": -6.30889
+    },
+    {
+        "name": "Теренуре",
+        "latitude": 53.30972,
+        "longitude": -6.28528
+    },
+    {
+        "name": "Термонфекин",
+        "latitude": 53.76333,
+        "longitude": -6.26778
+    },
+    {
+        "name": "Томастаун",
+        "latitude": 52.52667,
+        "longitude": -7.13722
+    },
+    {
+        "name": "Подрезать",
+        "latitude": 53.555,
+        "longitude": -6.79167
+    },
+    {
+        "name": "Талламор",
+        "latitude": 53.27389,
+        "longitude": -7.48889
+    },
+    {
+        "name": "Таллоу",
+        "latitude": 52.80028,
+        "longitude": -6.73694
+    },
+    {
+        "name": "В Туллиалле",
+        "latitude": 53.73611,
+        "longitude": -6.42278
+    },
+    {
+        "name": "Оффали",
+        "latitude": 53.25,
+        "longitude": -7.5
+    },
+    {
+        "name": "Вэллимаунт",
+        "latitude": 53.10389,
+        "longitude": -6.55361
+    },
+    {
+        "name": "Уиклоу",
+        "latitude": 53.0,
+        "longitude": -6.41667
+    },
+    {
+        "name": "Эббифил",
+        "latitude": 52.38139,
+        "longitude": -9.3025
+    },
+    {
+        "name": "Маршировать",
+        "latitude": 52.56194,
+        "longitude": -8.79556
+    },
+    {
+        "name": "Агада",
+        "latitude": 51.83917,
+        "longitude": -8.21222
+    },
+    {
+        "name": "Шоу",
+        "latitude": 52.83333,
+        "longitude": -9.0
+    },
+    {
+        "name": "Аннакотти",
+        "latitude": 52.66768,
+        "longitude": -8.53121
+    },
+    {
+        "name": "Арднакруша",
+        "latitude": 52.70908,
+        "longitude": -8.61431
+    },
+    {
+        "name": "Аскитон",
+        "latitude": 52.59972,
+        "longitude": -8.97556
+    },
+    {
+        "name": "Баллина",
+        "latitude": 52.80778,
+        "longitude": -8.43556
+    },
+    {
+        "name": "Баллибаннион",
+        "latitude": 52.51108,
+        "longitude": -9.67097
+    },
+    {
+        "name": "Бэндон",
+        "latitude": 51.74694,
+        "longitude": -8.7425
+    },
+    {
+        "name": "Бэнтри",
+        "latitude": 51.68333,
+        "longitude": -9.45
+    },
+    {
+        "name": "Бларни",
+        "latitude": 51.93333,
+        "longitude": -8.56667
+    },
+    {
+        "name": "Каэрконлиш",
+        "latitude": 52.59361,
+        "longitude": -8.47028
+    },
+    {
+        "name": "Каэрсайвин",
+        "latitude": 51.94861,
+        "longitude": -10.22222
+    },
+    {
+        "name": "Каир",
+        "latitude": 52.37694,
+        "longitude": -7.92167
+    },
+    {
+        "name": "Каррик-он-Шир",
+        "latitude": 52.34917,
+        "longitude": -7.41306
+    },
+    {
+        "name": "Карригалин",
+        "latitude": 51.81167,
+        "longitude": -8.39861
+    },
+    {
+        "name": "Карригтухилл",
+        "latitude": 51.90833,
+        "longitude": -8.26333
+    },
+    {
+        "name": "Кашел",
+        "latitude": 52.51583,
+        "longitude": -7.88556
+    },
+    {
+        "name": "Каслконнелл",
+        "latitude": 52.71389,
+        "longitude": -8.49944
+    },
+    {
+        "name": "КаслАйленд",
+        "latitude": 52.23333,
+        "longitude": -9.46667
+    },
+    {
+        "name": "Замокмученик",
+        "latitude": 51.91028,
+        "longitude": -8.05389
+    },
+    {
+        "name": "Керри",
+        "latitude": 52.16667,
+        "longitude": -9.75
+    },
+    {
+        "name": "Килларни",
+        "latitude": 52.0598,
+        "longitude": -9.50858
+    },
+    {
+        "name": "Клонакилти",
+        "latitude": 51.62306,
+        "longitude": -8.87056
+    },
+    {
+        "name": "Клойн",
+        "latitude": 51.86278,
+        "longitude": -8.12444
+    },
+    {
+        "name": "Клонмел",
+        "latitude": 52.355,
+        "longitude": -7.70389
+    },
+    {
+        "name": "Кобх",
+        "latitude": 51.85046,
+        "longitude": -8.2948
+    },
+    {
+        "name": "Корк",
+        "latitude": 51.89797,
+        "longitude": -8.47061
+    },
+    {
+        "name": "Корк Сити",
+        "latitude": 51.89755,
+        "longitude": -8.46773
+    },
+    {
+        "name": "Графство Корк",
+        "latitude": 51.96667,
+        "longitude": -8.58333
+    },
+    {
+        "name": "Графство Типперэри",
+        "latitude": 52.66667,
+        "longitude": -7.83333
+    },
+    {
+        "name": "Крум",
+        "latitude": 52.51944,
+        "longitude": -8.71778
+    },
+    {
+        "name": "Кроссхейвен",
+        "latitude": 51.79833,
+        "longitude": -8.30083
+    },
+    {
+        "name": "Дерри",
+        "latitude": 51.58666,
+        "longitude": -9.05026
+    },
+    {
+        "name": "Дингл",
+        "latitude": 52.14083,
+        "longitude": -10.26889
+    },
+    {
+        "name": "Дангарван",
+        "latitude": 52.08806,
+        "longitude": -7.62528
+    },
+    {
+        "name": "Данмэнуэй",
+        "latitude": 51.71667,
+        "longitude": -9.11667
+    },
+    {
+        "name": "Данмор Ист",
+        "latitude": 52.15108,
+        "longitude": -6.99872
+    },
+    {
+        "name": "Эннис",
+        "latitude": 52.84361,
+        "longitude": -8.98639
+    },
+    {
+        "name": "Fermoy",
+        "latitude": 52.13583,
+        "longitude": -8.27583
+    },
+    {
+        "name": "Фетхард",
+        "latitude": 52.46722,
+        "longitude": -7.69111
+    },
+    {
+        "name": "Кантюрк",
+        "latitude": 52.16667,
+        "longitude": -8.9
+    },
+    {
+        "name": "Кенмэр",
+        "latitude": 51.88333,
+        "longitude": -9.58333
+    },
+    {
+        "name": "Киллалоэ",
+        "latitude": 52.80667,
+        "longitude": -8.44361
+    },
+    {
+        "name": "Киллорглин",
+        "latitude": 52.1,
+        "longitude": -9.78333
+    },
+    {
+        "name": "Килламни",
+        "latitude": 51.87243,
+        "longitude": -8.64781
+    },
+    {
+        "name": "Килмаллок",
+        "latitude": 52.4,
+        "longitude": -8.57722
+    },
+    {
+        "name": "Килраш",
+        "latitude": 52.63972,
+        "longitude": -9.48333
+    },
+    {
+        "name": "Кинсейл",
+        "latitude": 51.7075,
+        "longitude": -8.53056
+    },
+    {
+        "name": "Листоуэл",
+        "latitude": 52.44639,
+        "longitude": -9.485
+    },
+    {
+        "name": "Лимерик",
+        "latitude": 52.66472,
+        "longitude": -8.62306
+    },
+    {
+        "name": "Макрум",
+        "latitude": 51.90663,
+        "longitude": -8.96968
+    },
+    {
+        "name": "Мальва",
+        "latitude": 52.13333,
+        "longitude": -8.63333
+    },
+    {
+        "name": "Мидлтон",
+        "latitude": 51.91526,
+        "longitude": -8.18052
+    },
+    {
+        "name": "Миллстрит",
+        "latitude": 52.05935,
+        "longitude": -9.06031
+    },
+    {
+        "name": "Митчелстаун",
+        "latitude": 52.26583,
+        "longitude": -8.26806
+    },
+    {
+        "name": "Моро",
+        "latitude": 52.65111,
+        "longitude": -8.39611
+    },
+    {
+        "name": "Мойросс",
+        "latitude": 52.68198,
+        "longitude": -8.63955
+    },
+    {
+        "name": "Нина",
+        "latitude": 52.86194,
+        "longitude": -8.19667
+    },
+    {
+        "name": "Мост Нена",
+        "latitude": 52.88167,
+        "longitude": -8.19583
+    },
+    {
+        "name": "Ньюкасл Вест",
+        "latitude": 52.44917,
+        "longitude": -9.06111
+    },
+    {
+        "name": "Ньюмаркет на Фергусе",
+        "latitude": 52.76,
+        "longitude": -8.89556
+    },
+    {
+        "name": "Ньюпорт",
+        "latitude": 52.71111,
+        "longitude": -8.40972
+    },
+    {
+        "name": "Пассаж Запад",
+        "latitude": 51.87389,
+        "longitude": -8.34444
+    },
+    {
+        "name": "Портлоу",
+        "latitude": 52.28833,
+        "longitude": -7.32056
+    },
+    {
+        "name": "Ратлурк",
+        "latitude": 52.35,
+        "longitude": -8.68333
+    },
+    {
+        "name": "Раткормак",
+        "latitude": 52.07694,
+        "longitude": -8.28194
+    },
+    {
+        "name": "Раткил",
+        "latitude": 52.52444,
+        "longitude": -8.93806
+    },
+    {
+        "name": "Роскреа",
+        "latitude": 52.95111,
+        "longitude": -7.80167
+    },
+    {
+        "name": "Шеннон",
+        "latitude": 52.70389,
+        "longitude": -8.86417
+    },
+    {
+        "name": "Сиксмайлбридж",
+        "latitude": 52.74139,
+        "longitude": -8.77417
+    },
+    {
+        "name": "Скибберин",
+        "latitude": 51.55,
+        "longitude": -9.26667
+    },
+    {
+        "name": "Темплмор",
+        "latitude": 52.79472,
+        "longitude": -7.83389
+    },
+    {
+        "name": "Терлс",
+        "latitude": 52.68194,
+        "longitude": -7.80222
+    },
+    {
+        "name": "Типперэри",
+        "latitude": 52.47333,
+        "longitude": -8.15583
+    },
+    {
+        "name": "Башня",
+        "latitude": 51.92599,
+        "longitude": -8.60747
+    },
+    {
+        "name": "Трамор",
+        "latitude": 52.16235,
+        "longitude": -7.15244
+    },
+    {
+        "name": "Трали",
+        "latitude": 52.27042,
+        "longitude": -9.70264
+    },
+    {
+        "name": "Уотерфорд",
+        "latitude": 52.25833,
+        "longitude": -7.11194
+    },
+    {
+        "name": "Уотерграссхилл",
+        "latitude": 52.01139,
+        "longitude": -8.34417
+    },
+    {
+        "name": "Уайтгейт",
+        "latitude": 51.83056,
+        "longitude": -8.22972
+    },
+    {
+        "name": "Йол",
+        "latitude": 51.95,
+        "longitude": -7.85056
+    },
+    {
+        "name": "Каван",
+        "latitude": 53.91667,
+        "longitude": -7.25
+    },
+    {
+        "name": "Бэйлиборо",
+        "latitude": 53.91667,
+        "longitude": -6.96667
+    },
+    {
+        "name": "Баллибофи",
+        "latitude": 54.8,
+        "longitude": -7.78333
+    },
+    {
+        "name": "Балликоннелл",
+        "latitude": 54.11667,
+        "longitude": -7.58333
+    },
+    {
+        "name": "Баллиджемсдафф",
+        "latitude": 53.86528,
+        "longitude": -7.20278
+    },
+    {
+        "name": "Баллишаннон",
+        "latitude": 54.5,
+        "longitude": -8.18333
+    },
+    {
+        "name": "Белтурбет",
+        "latitude": 54.1,
+        "longitude": -7.45
+    },
+    {
+        "name": "Букрана",
+        "latitude": 55.13333,
+        "longitude": -7.45
+    },
+    {
+        "name": "Бандоран",
+        "latitude": 54.47782,
+        "longitude": -8.28094
+    },
+    {
+        "name": "Карндона",
+        "latitude": 55.25,
+        "longitude": -7.26667
+    },
+    {
+        "name": "Каррикмакросс",
+        "latitude": 53.97278,
+        "longitude": -6.71889
+    },
+    {
+        "name": "Каслблэйни",
+        "latitude": 54.11667,
+        "longitude": -6.73333
+    },
+    {
+        "name": "Каван",
+        "latitude": 53.99083,
+        "longitude": -7.36056
+    },
+    {
+        "name": "Клоны",
+        "latitude": 54.18333,
+        "longitude": -7.23333
+    },
+    {
+        "name": "Конвой",
+        "latitude": 54.86083,
+        "longitude": -7.66556
+    },
+    {
+        "name": "Кутхилл",
+        "latitude": 54.0725,
+        "longitude": -7.08194
+    },
+    {
+        "name": "Графство Донегол",
+        "latitude": 54.91667,
+        "longitude": -8.0
+    },
+    {
+        "name": "Графство Монаган",
+        "latitude": 54.25,
+        "longitude": -7.0
+    },
+    {
+        "name": "Деррибег",
+        "latitude": 55.08333,
+        "longitude": -8.28944
+    },
+    {
+        "name": "Донегол",
+        "latitude": 54.65378,
+        "longitude": -8.11134
+    },
+    {
+        "name": "Данглоу",
+        "latitude": 54.95111,
+        "longitude": -8.35917
+    },
+    {
+        "name": "Данлеви",
+        "latitude": 55.01667,
+        "longitude": -8.1
+    },
+    {
+        "name": "Гвидор",
+        "latitude": 55.05028,
+        "longitude": -8.23194
+    },
+    {
+        "name": "Киллибегс",
+        "latitude": 54.63333,
+        "longitude": -8.45
+    },
+    {
+        "name": "Кингскорт",
+        "latitude": 53.90806,
+        "longitude": -6.80556
+    },
+    {
+        "name": "Лейфер",
+        "latitude": 54.83194,
+        "longitude": -7.48361
+    },
+    {
+        "name": "Леттеркенни",
+        "latitude": 54.95,
+        "longitude": -7.73333
+    },
+    {
+        "name": "Монаган",
+        "latitude": 54.25,
+        "longitude": -6.96667
+    },
+    {
+        "name": "Мовилл",
+        "latitude": 55.19153,
+        "longitude": -7.03873
+    },
+    {
+        "name": "Муфта",
+        "latitude": 55.06667,
+        "longitude": -7.26667
+    },
+    {
+        "name": "Муллах",
+        "latitude": 53.81306,
+        "longitude": -6.95139
+    },
+    {
+        "name": "Ньютаун Каннингем",
+        "latitude": 54.99639,
+        "longitude": -7.51917
+    },
+    {
+        "name": "Рамелтон",
+        "latitude": 55.03673,
+        "longitude": -7.64923
+    },
+    {
+        "name": "Рафо",
+        "latitude": 54.87472,
+        "longitude": -7.59833
+    },
+    {
+        "name": "Вирджиния",
+        "latitude": 53.83389,
+        "longitude": -7.07556
+    }
+]

@@ -1,0 +1,677 @@
+[
+    {
+        "name": "Ана",
+        "latitude": 34.36857,
+        "longitude": 41.98194
+    },
+    {
+        "name": "‘Анат аль-Кадима",
+        "latitude": 34.46934,
+        "longitude": 41.94223
+    },
+    {
+        "name": "Аль-Фаллуджа",
+        "latitude": 33.34913,
+        "longitude": 43.78599
+    },
+    {
+        "name": "Ар-Рукба",
+        "latitude": 33.03718,
+        "longitude": 40.28586
+    },
+    {
+        "name": "Хадита",
+        "latitude": 34.13661,
+        "longitude": 42.37727
+    },
+    {
+        "name": "Ударять",
+        "latitude": 33.63664,
+        "longitude": 42.82768
+    },
+    {
+        "name": "Хит Район",
+        "latitude": 33.73482,
+        "longitude": 42.68228
+    },
+    {
+        "name": "Рамади",
+        "latitude": 33.42056,
+        "longitude": 43.30778
+    },
+    {
+        "name": "Равах",
+        "latitude": 34.48229,
+        "longitude": 41.91898
+    },
+    {
+        "name": "Ар-Румайта",
+        "latitude": 31.52845,
+        "longitude": 45.20377
+    },
+    {
+        "name": "Ас-Самава",
+        "latitude": 31.33198,
+        "longitude": 45.2944
+    },
+    {
+        "name": "Афак",
+        "latitude": 32.0643,
+        "longitude": 45.24743
+    },
+    {
+        "name": "Ад Дивания",
+        "latitude": 31.99289,
+        "longitude": 44.92552
+    },
+    {
+        "name": "Аш Шамия",
+        "latitude": 31.96257,
+        "longitude": 44.60075
+    },
+    {
+        "name": "Натият аш Шинафия",
+        "latitude": 31.58376,
+        "longitude": 44.64675
+    },
+    {
+        "name": "Нахият Гаммас",
+        "latitude": 31.74311,
+        "longitude": 44.6196
+    },
+    {
+        "name": "Аль-Хилла",
+        "latitude": 32.46367,
+        "longitude": 44.41963
+    },
+    {
+        "name": "Аль-Мусайиб",
+        "latitude": 32.77872,
+        "longitude": 44.29005
+    },
+    {
+        "name": "Имам Касим",
+        "latitude": 32.29799,
+        "longitude": 44.68282
+    },
+    {
+        "name": "Натият Саддат аль-Хиндия",
+        "latitude": 32.71557,
+        "longitude": 44.27857
+    },
+    {
+        "name": "Район Абу-Грейб",
+        "latitude": 33.29194,
+        "longitude": 44.06919
+    },
+    {
+        "name": "Абу Гурайб",
+        "latitude": 33.30563,
+        "longitude": 44.18477
+    },
+    {
+        "name": "Адамия",
+        "latitude": 33.369178,
+        "longitude": 44.3395594
+    },
+    {
+        "name": "Аль Адель",
+        "latitude": 33.3591283,
+        "longitude": 44.2813868
+    },
+    {
+        "name": "Аль-Баладият",
+        "latitude": 33.3493161,
+        "longitude": 44.4107153
+    },
+    {
+        "name": "Аль-Джамаа",
+        "latitude": 33.3411447,
+        "longitude": 44.3406269
+    },
+    {
+        "name": "Парк Аль-Саадун",
+        "latitude": 33.3248036,
+        "longitude": 44.4147098
+    },
+    {
+        "name": "Аль Салхия",
+        "latitude": 33.3225401,
+        "longitude": 44.3842505
+    },
+    {
+        "name": "Аль-Зафрания",
+        "latitude": 33.3185775,
+        "longitude": 44.4868639
+    },
+    {
+        "name": "Аль-Убайди",
+        "latitude": 33.3203603,
+        "longitude": 44.4595591
+    },
+    {
+        "name": "Аль-Вахда",
+        "latitude": 33.3111582,
+        "longitude": 44.4335228
+    },
+    {
+        "name": "Америя",
+        "latitude": 33.2967102,
+        "longitude": 44.2707679
+    },
+    {
+        "name": "Амильский район",
+        "latitude": 33.2760609,
+        "longitude": 44.3103717
+    },
+    {
+        "name": "Аминь",
+        "latitude": 33.3124874,
+        "longitude": 44.4863415
+    },
+    {
+        "name": "Арасат Аль-Хиндия",
+        "latitude": 33.2933579,
+        "longitude": 44.4230245
+    },
+    {
+        "name": "В Таифии",
+        "latitude": 33.3564394,
+        "longitude": 44.357911
+    },
+    {
+        "name": "Баб Аль Моатам",
+        "latitude": 33.3601417,
+        "longitude": 44.365077
+    },
+    {
+        "name": "Баб Аль-Шарки",
+        "latitude": 33.3324906,
+        "longitude": 44.4140791
+    },
+    {
+        "name": "Багдад",
+        "latitude": 33.34058,
+        "longitude": 44.40088
+    },
+    {
+        "name": "Багдад Аль-Джадида",
+        "latitude": 33.3133544,
+        "longitude": 44.4715792
+    },
+    {
+        "name": "Байджай",
+        "latitude": 33.33254,
+        "longitude": 44.3450955
+    },
+    {
+        "name": "Батауин",
+        "latitude": 33.3211235,
+        "longitude": 44.4085568
+    },
+    {
+        "name": "Публично заявить",
+        "latitude": 33.2825544,
+        "longitude": 44.3752803
+    },
+    {
+        "name": "Бинук",
+        "latitude": 33.3927812,
+        "longitude": 44.4111448
+    },
+    {
+        "name": "Боайта",
+        "latitude": 33.2419463,
+        "longitude": 44.4269509
+    },
+    {
+        "name": "Лагерь Сара",
+        "latitude": 33.3011293,
+        "longitude": 44.444696
+    },
+    {
+        "name": "Дауди",
+        "latitude": 33.3121403,
+        "longitude": 44.3258482
+    },
+    {
+        "name": "Дора",
+        "latitude": 33.2312686,
+        "longitude": 44.3619812
+    },
+    {
+        "name": "Гадир",
+        "latitude": 33.3374974,
+        "longitude": 44.4628184
+    },
+    {
+        "name": "Газалия",
+        "latitude": 33.3414353,
+        "longitude": 44.2235442
+    },
+    {
+        "name": "Герайат",
+        "latitude": 33.3920837,
+        "longitude": 44.3044314
+    },
+    {
+        "name": "Зеленая зона",
+        "latitude": 33.313761,
+        "longitude": 44.3590056
+    },
+    {
+        "name": "Хабибия",
+        "latitude": 33.3392027,
+        "longitude": 44.4684612
+    },
+    {
+        "name": "Хартия",
+        "latitude": 33.2262612,
+        "longitude": 44.3982675
+    },
+    {
+        "name": "Хуррия",
+        "latitude": 33.3424187,
+        "longitude": 44.306563
+    },
+    {
+        "name": "Урегулирование",
+        "latitude": 33.3340593,
+        "longitude": 44.323031
+    },
+    {
+        "name": "Джадрия",
+        "latitude": 33.2607636,
+        "longitude": 44.411172
+    },
+    {
+        "name": "Джамиля",
+        "latitude": 33.3510884,
+        "longitude": 44.414956
+    },
+    {
+        "name": "Джихад",
+        "latitude": 33.252892,
+        "longitude": 44.2923118
+    },
+    {
+        "name": "Кадхимия",
+        "latitude": 33.3812961,
+        "longitude": 44.3513918
+    },
+    {
+        "name": "Камалия",
+        "latitude": 33.3500848,
+        "longitude": 44.5089411
+    },
+    {
+        "name": "Сухопутный",
+        "latitude": 33.2933661,
+        "longitude": 44.3964153
+    },
+    {
+        "name": "Хадра",
+        "latitude": 33.3197247,
+        "longitude": 44.287647
+    },
+    {
+        "name": "Мансур",
+        "latitude": 33.3142296,
+        "longitude": 44.3363123
+    },
+    {
+        "name": "Маштал",
+        "latitude": 33.3244321,
+        "longitude": 44.4931483
+    },
+    {
+        "name": "Мустансирия",
+        "latitude": 33.3629892,
+        "longitude": 44.3869543
+    },
+    {
+        "name": "Кадисия",
+        "latitude": 33.3271963,
+        "longitude": 44.3162384
+    },
+    {
+        "name": "Садр Сити",
+        "latitude": 33.3769233,
+        "longitude": 44.4044638
+    },
+    {
+        "name": "Саидия",
+        "latitude": 33.2650093,
+        "longitude": 44.3315934
+    },
+    {
+        "name": "Шааб",
+        "latitude": 33.413091,
+        "longitude": 44.3861103
+    },
+    {
+        "name": "Шейх Мааруф",
+        "latitude": 33.3389601,
+        "longitude": 44.3478958
+    },
+    {
+        "name": "Шорджа",
+        "latitude": 33.3461394,
+        "longitude": 44.3950442
+    },
+    {
+        "name": "Сулейх",
+        "latitude": 33.3934332,
+        "longitude": 44.361445
+    },
+    {
+        "name": "Урский район",
+        "latitude": 33.41694,
+        "longitude": 44.3906079
+    },
+    {
+        "name": "Вы устали",
+        "latitude": 33.3636617,
+        "longitude": 44.3819655
+    },
+    {
+        "name": "Ярмук",
+        "latitude": 33.3393836,
+        "longitude": 44.3221252
+    },
+    {
+        "name": "Это правда",
+        "latitude": 33.3248434,
+        "longitude": 44.454546
+    },
+    {
+        "name": "Аль-Басра аль-Кадима",
+        "latitude": 30.50316,
+        "longitude": 47.81507
+    },
+    {
+        "name": "Аль-Фау",
+        "latitude": 29.97421,
+        "longitude": 48.47309
+    },
+    {
+        "name": "Аль-Харита",
+        "latitude": 30.58481,
+        "longitude": 47.76114
+    },
+    {
+        "name": "Зубайр",
+        "latitude": 30.39213,
+        "longitude": 47.70175
+    },
+    {
+        "name": "Басра",
+        "latitude": 30.50852,
+        "longitude": 47.7804
+    },
+    {
+        "name": "Умм Гашр",
+        "latitude": 30.0362,
+        "longitude": 47.91951
+    },
+    {
+        "name": "Аш Шатра",
+        "latitude": 31.40906,
+        "longitude": 46.1727
+    },
+    {
+        "name": "Натият аль Фухуд",
+        "latitude": 30.96972,
+        "longitude": 46.72278
+    },
+    {
+        "name": "Насирия",
+        "latitude": 31.05799,
+        "longitude": 46.25726
+    },
+    {
+        "name": "Аль-Микдадия",
+        "latitude": 33.97861,
+        "longitude": 44.93694
+    },
+    {
+        "name": "Баладруз",
+        "latitude": 33.69631,
+        "longitude": 45.07782
+    },
+    {
+        "name": "Бакуба",
+        "latitude": 33.75403,
+        "longitude": 44.60518
+    },
+    {
+        "name": "Халиш",
+        "latitude": 33.80809,
+        "longitude": 44.53343
+    },
+    {
+        "name": "Куфри",
+        "latitude": 34.68963,
+        "longitude": 44.96057
+    },
+    {
+        "name": "Мандалай",
+        "latitude": 33.7481,
+        "longitude": 45.55503
+    },
+    {
+        "name": "Када Кифри",
+        "latitude": 34.52289,
+        "longitude": 44.85821
+    },
+    {
+        "name": "Аль-Амадия",
+        "latitude": 37.09214,
+        "longitude": 43.48769
+    },
+    {
+        "name": "Батифа",
+        "latitude": 37.17454,
+        "longitude": 43.01233
+    },
+    {
+        "name": "Это произошло",
+        "latitude": 36.86709,
+        "longitude": 42.98845
+    },
+    {
+        "name": "Сина",
+        "latitude": 36.80851,
+        "longitude": 43.03935
+    },
+    {
+        "name": "Заксо",
+        "latitude": 37.14871,
+        "longitude": 42.68591
+    },
+    {
+        "name": "Эрбиль",
+        "latitude": 36.1907,
+        "longitude": 44.00947
+    },
+    {
+        "name": "Эрбиль",
+        "latitude": 36.18333,
+        "longitude": 44.01193
+    },
+    {
+        "name": "Койсинчек",
+        "latitude": 36.08289,
+        "longitude": 44.62873
+    },
+    {
+        "name": "Руандийский",
+        "latitude": 36.61207,
+        "longitude": 44.52372
+    },
+    {
+        "name": "Шаклава",
+        "latitude": 36.40422,
+        "longitude": 44.32563
+    },
+    {
+        "name": "спрашивать",
+        "latitude": 36.6532,
+        "longitude": 44.54407
+    },
+    {
+        "name": "Аль-Хиндия",
+        "latitude": 32.54671,
+        "longitude": 44.22765
+    },
+    {
+        "name": "Кербела",
+        "latitude": 32.61603,
+        "longitude": 44.02488
+    },
+    {
+        "name": "Киркук",
+        "latitude": 35.46806,
+        "longitude": 44.39222
+    },
+    {
+        "name": "Али аль-Гарби",
+        "latitude": 32.46186,
+        "longitude": 46.68794
+    },
+    {
+        "name": "Аль Амара",
+        "latitude": 31.83561,
+        "longitude": 47.14483
+    },
+    {
+        "name": "Район Аль-Меджар Аль-Каби",
+        "latitude": 31.4294,
+        "longitude": 47.20355
+    },
+    {
+        "name": "Аль Мишхаб",
+        "latitude": 31.80437,
+        "longitude": 44.4893
+    },
+    {
+        "name": "Куфа",
+        "latitude": 32.05114,
+        "longitude": 44.44017
+    },
+    {
+        "name": "Наджаф",
+        "latitude": 32.02594,
+        "longitude": 44.34625
+    },
+    {
+        "name": "'Акр",
+        "latitude": 36.76038,
+        "longitude": 43.89428
+    },
+    {
+        "name": "Аль Мавсил Аль Джадида",
+        "latitude": 36.33271,
+        "longitude": 43.10555
+    },
+    {
+        "name": "Аль-Хамдания",
+        "latitude": 36.27093,
+        "longitude": 43.37758
+    },
+    {
+        "name": "Аш Шейхан",
+        "latitude": 36.69595,
+        "longitude": 43.35202
+    },
+    {
+        "name": "Мосул",
+        "latitude": 36.335,
+        "longitude": 43.11889
+    },
+    {
+        "name": "Синджар",
+        "latitude": 36.29548,
+        "longitude": 41.89315
+    },
+    {
+        "name": "Высокий «вдалеке»",
+        "latitude": 36.37913,
+        "longitude": 42.44806
+    },
+    {
+        "name": "Талькайф",
+        "latitude": 36.49118,
+        "longitude": 43.12114
+    },
+    {
+        "name": "Ад Дуджайл",
+        "latitude": 33.84667,
+        "longitude": 44.23444
+    },
+    {
+        "name": "Балад",
+        "latitude": 34.01485,
+        "longitude": 44.14574
+    },
+    {
+        "name": "Байджи",
+        "latitude": 34.92915,
+        "longitude": 43.48878
+    },
+    {
+        "name": "Самарра",
+        "latitude": 34.1959,
+        "longitude": 43.88568
+    },
+    {
+        "name": "Тикрит",
+        "latitude": 34.61581,
+        "longitude": 43.67861
+    },
+    {
+        "name": "Тозхурмато",
+        "latitude": 34.88808,
+        "longitude": 44.63256
+    },
+    {
+        "name": "Как Сулеймания",
+        "latitude": 35.56496,
+        "longitude": 45.4329
+    },
+    {
+        "name": "Байнджиуэйн",
+        "latitude": 35.62054,
+        "longitude": 45.94908
+    },
+    {
+        "name": "Халабджа",
+        "latitude": 35.17778,
+        "longitude": 45.98611
+    },
+    {
+        "name": "Джамджамал",
+        "latitude": 35.53356,
+        "longitude": 44.8343
+    },
+    {
+        "name": "Аль Азизия",
+        "latitude": 32.90941,
+        "longitude": 45.06359
+    },
+    {
+        "name": "К Хайю",
+        "latitude": 32.17419,
+        "longitude": 46.04345
+    },
+    {
+        "name": "Аль Кут",
+        "latitude": 32.5128,
+        "longitude": 45.81817
+    },
+    {
+        "name": "Эш Шувайра",
+        "latitude": 32.92556,
+        "longitude": 44.77583
+    }
+]

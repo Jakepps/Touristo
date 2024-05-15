@@ -1,0 +1,357 @@
+[
+    {
+        "name": "Аль-Хасахейса",
+        "latitude": 14.75264,
+        "longitude": 33.29836
+    },
+    {
+        "name": "Аль-Хилалия",
+        "latitude": 14.9398,
+        "longitude": 33.234
+    },
+    {
+        "name": "Аль Киремит аль Аракийин",
+        "latitude": 14.3476,
+        "longitude": 32.9437
+    },
+    {
+        "name": "Аль-Манакиль",
+        "latitude": 14.2459,
+        "longitude": 32.9891
+    },
+    {
+        "name": "Аль-Масаламия",
+        "latitude": 14.5748,
+        "longitude": 33.3373
+    },
+    {
+        "name": "Вад Медани",
+        "latitude": 14.40118,
+        "longitude": 33.51989
+    },
+    {
+        "name": "Вад Рава",
+        "latitude": 15.16028,
+        "longitude": 33.13972
+    },
+    {
+        "name": "Аль Хавата",
+        "latitude": 13.41667,
+        "longitude": 34.63333
+    },
+    {
+        "name": "Аль-Кадариф",
+        "latitude": 14.03493,
+        "longitude": 35.38344
+    },
+    {
+        "name": "Закон",
+        "latitude": 13.51667,
+        "longitude": 35.76667
+    },
+    {
+        "name": "Ад-Дамазин",
+        "latitude": 11.7891,
+        "longitude": 34.3592
+    },
+    {
+        "name": "Или Русер",
+        "latitude": 11.8659,
+        "longitude": 34.3869
+    },
+    {
+        "name": "Курмук",
+        "latitude": 10.55,
+        "longitude": 34.28333
+    },
+    {
+        "name": "Залингей",
+        "latitude": 12.90918,
+        "longitude": 23.47058
+    },
+    {
+        "name": "Эль Даейн",
+        "latitude": 11.46186,
+        "longitude": 26.12583
+    },
+    {
+        "name": "Аромат",
+        "latitude": 15.81667,
+        "longitude": 36.13333
+    },
+    {
+        "name": "Кассала",
+        "latitude": 15.45099,
+        "longitude": 36.39998
+    },
+    {
+        "name": "Вагар",
+        "latitude": 16.1525,
+        "longitude": 36.2032
+    },
+    {
+        "name": "Хартум",
+        "latitude": 15.55177,
+        "longitude": 32.53241
+    },
+    {
+        "name": "Омдурман",
+        "latitude": 15.64453,
+        "longitude": 32.47773
+    },
+    {
+        "name": "Эль-Фашир",
+        "latitude": 13.62793,
+        "longitude": 25.34936
+    },
+    {
+        "name": "Кутум",
+        "latitude": 14.2,
+        "longitude": 24.66667
+    },
+    {
+        "name": "Умм Кадада",
+        "latitude": 13.60169,
+        "longitude": 26.68759
+    },
+    {
+        "name": "Ар Деньги",
+        "latitude": 12.71667,
+        "longitude": 30.65
+    },
+    {
+        "name": "Бара",
+        "latitude": 13.7,
+        "longitude": 30.36667
+    },
+    {
+        "name": "Эль-Обейд",
+        "latitude": 13.18421,
+        "longitude": 30.21669
+    },
+    {
+        "name": "Умм Руваба",
+        "latitude": 12.9061,
+        "longitude": 31.2158
+    },
+    {
+        "name": "Ад Дабба",
+        "latitude": 18.05,
+        "longitude": 30.95
+    },
+    {
+        "name": "Арго",
+        "latitude": 19.51667,
+        "longitude": 30.41667
+    },
+    {
+        "name": "Донгола",
+        "latitude": 19.18163,
+        "longitude": 30.47689
+    },
+    {
+        "name": "Карма ан Нузул",
+        "latitude": 19.63333,
+        "longitude": 30.41667
+    },
+    {
+        "name": "Курайма",
+        "latitude": 18.55,
+        "longitude": 31.85
+    },
+    {
+        "name": "Мерове",
+        "latitude": 18.47036,
+        "longitude": 31.81126
+    },
+    {
+        "name": "Область",
+        "latitude": 21.06667,
+        "longitude": 36.31667
+    },
+    {
+        "name": "Порт-Судан",
+        "latitude": 19.61745,
+        "longitude": 37.21644
+    },
+    {
+        "name": "Савакин",
+        "latitude": 19.1059,
+        "longitude": 37.3321
+    },
+    {
+        "name": "Также",
+        "latitude": 18.4254,
+        "longitude": 37.729
+    },
+    {
+        "name": "Атбара",
+        "latitude": 17.70217,
+        "longitude": 33.98638
+    },
+    {
+        "name": "берберский",
+        "latitude": 18.02158,
+        "longitude": 33.98299
+    },
+    {
+        "name": "Эд Дамер",
+        "latitude": 17.59898,
+        "longitude": 33.97205
+    },
+    {
+        "name": "Эль Бауга",
+        "latitude": 18.26197,
+        "longitude": 33.90812
+    },
+    {
+        "name": "Эль Матама",
+        "latitude": 16.7095,
+        "longitude": 33.3565
+    },
+    {
+        "name": "Shendi",
+        "latitude": 16.6915,
+        "longitude": 33.4341
+    },
+    {
+        "name": "Ад Диндар",
+        "latitude": 13.2,
+        "longitude": 34.16667
+    },
+    {
+        "name": "Как Суки",
+        "latitude": 13.31667,
+        "longitude": 33.88333
+    },
+    {
+        "name": "Джалкани",
+        "latitude": 12.4486,
+        "longitude": 34.2186
+    },
+    {
+        "name": "Кинан",
+        "latitude": 14.0361,
+        "longitude": 33.1712
+    },
+    {
+        "name": "Майурно",
+        "latitude": 13.41667,
+        "longitude": 33.66667
+    },
+    {
+        "name": "Одинокий",
+        "latitude": 13.1483,
+        "longitude": 33.93117
+    },
+    {
+        "name": "грешник",
+        "latitude": 13.56907,
+        "longitude": 33.56718
+    },
+    {
+        "name": "Готовый",
+        "latitude": 11.27543,
+        "longitude": 25.14026
+    },
+    {
+        "name": "На",
+        "latitude": 12.04888,
+        "longitude": 24.88069
+    },
+    {
+        "name": "Абу Джибеха",
+        "latitude": 11.4562,
+        "longitude": 31.2285
+    },
+    {
+        "name": "Аль Фула",
+        "latitude": 11.73292,
+        "longitude": 28.35786
+    },
+    {
+        "name": "Диллинг",
+        "latitude": 12.05,
+        "longitude": 29.65
+    },
+    {
+        "name": "Кадугли",
+        "latitude": 11.01111,
+        "longitude": 29.71833
+    },
+    {
+        "name": "Бедный",
+        "latitude": 10.63246,
+        "longitude": 30.3797
+    },
+    {
+        "name": "Генейна",
+        "latitude": 13.45262,
+        "longitude": 22.44725
+    },
+    {
+        "name": "Абу Забад",
+        "latitude": 12.35,
+        "longitude": 29.25
+    },
+    {
+        "name": "Аль Лагова",
+        "latitude": 11.4,
+        "longitude": 29.13333
+    },
+    {
+        "name": "Аль-Миджлад",
+        "latitude": 11.03333,
+        "longitude": 27.73333
+    },
+    {
+        "name": "Ан Нухуд",
+        "latitude": 12.7,
+        "longitude": 28.43333
+    },
+    {
+        "name": "В Дуи",
+        "latitude": 14.0012,
+        "longitude": 32.3116
+    },
+    {
+        "name": "Аль Кава",
+        "latitude": 13.7463,
+        "longitude": 32.4996
+    },
+    {
+        "name": "Аль-Кицена",
+        "latitude": 14.8648,
+        "longitude": 32.3668
+    },
+    {
+        "name": "Преимущества",
+        "latitude": 13.1629,
+        "longitude": 32.66347
+    },
+    {
+        "name": "Марабба",
+        "latitude": 12.35,
+        "longitude": 32.18333
+    },
+    {
+        "name": "Рабак",
+        "latitude": 13.18087,
+        "longitude": 32.73999
+    },
+    {
+        "name": "в Тандалти",
+        "latitude": 13.01667,
+        "longitude": 31.86667
+    },
+    {
+        "name": "Ум Джар Аль Гарбия",
+        "latitude": 13.8013,
+        "longitude": 32.4078
+    },
+    {
+        "name": "Вад — это Заки",
+        "latitude": 14.4619,
+        "longitude": 32.2065
+    }
+]

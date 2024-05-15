@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Уистины",
+        "latitude": 13.07067,
+        "longitude": -59.54637
+    },
+    {
+        "name": "Гренландия",
+        "latitude": 13.25808,
+        "longitude": -59.57763
+    },
+    {
+        "name": "Холтаун",
+        "latitude": 13.18672,
+        "longitude": -59.63808
+    },
+    {
+        "name": "Ваннуба",
+        "latitude": 13.21133,
+        "longitude": -59.52596
+    },
+    {
+        "name": "Бриджтаун",
+        "latitude": 13.10732,
+        "longitude": -59.62021
+    },
+    {
+        "name": "Speightstown",
+        "latitude": 13.25072,
+        "longitude": -59.64396
+    },
+    {
+        "name": "Кран",
+        "latitude": 13.10487,
+        "longitude": -59.44861
+    }
+]

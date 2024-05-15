@@ -1,0 +1,627 @@
+[
+    {
+        "name": "Аглона",
+        "latitude": 56.13274,
+        "longitude": 27.00682
+    },
+    {
+        "name": "Гусиные лапки",
+        "latitude": 56.60477,
+        "longitude": 25.25534
+    },
+    {
+        "name": "Пыль",
+        "latitude": 56.72108,
+        "longitude": 21.60156
+    },
+    {
+        "name": "Болезнь печени",
+        "latitude": 56.16152,
+        "longitude": 25.74783
+    },
+    {
+        "name": "Хозяин",
+        "latitude": 57.76723,
+        "longitude": 24.87743
+    },
+    {
+        "name": "Стайцеле",
+        "latitude": 57.83579,
+        "longitude": 24.74706
+    },
+    {
+        "name": "Алсунга",
+        "latitude": 56.98194,
+        "longitude": 21.55938
+    },
+    {
+        "name": "Алуксне",
+        "latitude": 57.42162,
+        "longitude": 27.04662
+    },
+    {
+        "name": "Обезьяна",
+        "latitude": 57.53928,
+        "longitude": 26.69291
+    },
+    {
+        "name": "Ой",
+        "latitude": 56.45981,
+        "longitude": 22.90169
+    },
+    {
+        "name": "Пинки",
+        "latitude": 56.94189,
+        "longitude": 23.91365
+    },
+    {
+        "name": "Балдоне",
+        "latitude": 56.74451,
+        "longitude": 24.40078
+    },
+    {
+        "name": "Балтинава",
+        "latitude": 56.94394,
+        "longitude": 27.64401
+    },
+    {
+        "name": "Награды",
+        "latitude": 57.1313,
+        "longitude": 27.26583
+    },
+    {
+        "name": "Бауска",
+        "latitude": 56.40794,
+        "longitude": 24.19443
+    },
+    {
+        "name": "Мурмуйжа",
+        "latitude": 57.47312,
+        "longitude": 25.49174
+    },
+    {
+        "name": "Братья",
+        "latitude": 56.6789,
+        "longitude": 22.56945
+    },
+    {
+        "name": "Царникава",
+        "latitude": 57.12935,
+        "longitude": 24.28423
+    },
+    {
+        "name": "Цесис",
+        "latitude": 57.31188,
+        "longitude": 25.27456
+    },
+    {
+        "name": "Цессвейн",
+        "latitude": 56.96754,
+        "longitude": 26.30764
+    },
+    {
+        "name": "Сибла",
+        "latitude": 56.5498,
+        "longitude": 27.8837
+    },
+    {
+        "name": "Дагда",
+        "latitude": 56.09512,
+        "longitude": 27.53723
+    },
+    {
+        "name": "Даугавпилс",
+        "latitude": 55.88333,
+        "longitude": 26.53333
+    },
+    {
+        "name": "Добеле",
+        "latitude": 56.62372,
+        "longitude": 23.2751
+    },
+    {
+        "name": "Данда",
+        "latitude": 57.50498,
+        "longitude": 22.35041
+    },
+    {
+        "name": "вассал",
+        "latitude": 56.58173,
+        "longitude": 21.33399
+    },
+    {
+        "name": "Запах",
+        "latitude": 56.9542,
+        "longitude": 23.33736
+    },
+    {
+        "name": "Иглз",
+        "latitude": 56.89752,
+        "longitude": 25.63668
+    },
+    {
+        "name": "Гаркалне",
+        "latitude": 57.04486,
+        "longitude": 24.41951
+    },
+    {
+        "name": "Гробина",
+        "latitude": 56.53521,
+        "longitude": 21.16782
+    },
+    {
+        "name": "Гулбене",
+        "latitude": 57.17767,
+        "longitude": 26.75291
+    },
+    {
+        "name": "Инкава",
+        "latitude": 56.59766,
+        "longitude": 24.20763
+    },
+    {
+        "name": "Кончик",
+        "latitude": 56.83399,
+        "longitude": 24.49679
+    },
+    {
+        "name": "Илуксте",
+        "latitude": 55.97754,
+        "longitude": 26.29655
+    },
+    {
+        "name": "Инчукалнс",
+        "latitude": 57.09867,
+        "longitude": 24.6863
+    },
+    {
+        "name": "Вангажи",
+        "latitude": 57.09358,
+        "longitude": 24.54468
+    },
+    {
+        "name": "Яунелгава",
+        "latitude": 56.61319,
+        "longitude": 25.08316
+    },
+    {
+        "name": "Яунпилс",
+        "latitude": 56.73137,
+        "longitude": 23.01247
+    },
+    {
+        "name": "Екабпилс",
+        "latitude": 56.49903,
+        "longitude": 25.85735
+    },
+    {
+        "name": "Крустпилс",
+        "latitude": 56.51068,
+        "longitude": 25.86117
+    },
+    {
+        "name": "Елгава",
+        "latitude": 56.65,
+        "longitude": 23.71278
+    },
+    {
+        "name": "Чисто",
+        "latitude": 56.83991,
+        "longitude": 23.58902
+    },
+    {
+        "name": "Юрмала",
+        "latitude": 56.968,
+        "longitude": 23.77038
+    },
+    {
+        "name": "Кандава",
+        "latitude": 57.04087,
+        "longitude": 22.77466
+    },
+    {
+        "name": "Карсава",
+        "latitude": 56.78405,
+        "longitude": 27.68829
+    },
+    {
+        "name": "Кегум",
+        "latitude": 56.7451,
+        "longitude": 24.72439
+    },
+    {
+        "name": "Голуби",
+        "latitude": 56.87643,
+        "longitude": 24.11825
+    },
+    {
+        "name": "Кекава",
+        "latitude": 56.82662,
+        "longitude": 24.23
+    },
+    {
+        "name": "Деревья",
+        "latitude": 57.52057,
+        "longitude": 25.33821
+    },
+    {
+        "name": "Кокнесе",
+        "latitude": 56.65163,
+        "longitude": 25.43637
+    },
+    {
+        "name": "Краслава",
+        "latitude": 55.89514,
+        "longitude": 27.16799
+    },
+    {
+        "name": "Кулдига",
+        "latitude": 56.97399,
+        "longitude": 21.95721
+    },
+    {
+        "name": "Отличное слово",
+        "latitude": 56.72066,
+        "longitude": 24.80743
+    },
+    {
+        "name": "Карусель",
+        "latitude": 56.55128,
+        "longitude": 21.01287
+    },
+    {
+        "name": "Лиепая",
+        "latitude": 56.50474,
+        "longitude": 21.01085
+    },
+    {
+        "name": "связка",
+        "latitude": 57.23429,
+        "longitude": 25.04059
+    },
+    {
+        "name": "Лимбажи",
+        "latitude": 57.51287,
+        "longitude": 24.71941
+    },
+    {
+        "name": "Ливани",
+        "latitude": 56.35431,
+        "longitude": 26.17579
+    },
+    {
+        "name": "Лубана",
+        "latitude": 56.90425,
+        "longitude": 26.71606
+    },
+    {
+        "name": "Лудза",
+        "latitude": 56.53958,
+        "longitude": 27.71891
+    },
+    {
+        "name": "Мадонна",
+        "latitude": 56.85329,
+        "longitude": 26.21698
+    },
+    {
+        "name": "Малпилс",
+        "latitude": 57.0101,
+        "longitude": 24.95783
+    },
+    {
+        "name": "Марупе",
+        "latitude": 56.90544,
+        "longitude": 24.05113
+    },
+    {
+        "name": "Мазсалаца",
+        "latitude": 57.86329,
+        "longitude": 25.05475
+    },
+    {
+        "name": "Наукшени",
+        "latitude": 57.88349,
+        "longitude": 25.45609
+    },
+    {
+        "name": "Не редкость",
+        "latitude": 56.20279,
+        "longitude": 25.30752
+    },
+    {
+        "name": "Хороший",
+        "latitude": 56.34601,
+        "longitude": 21.06401
+    },
+    {
+        "name": "Юмправа",
+        "latitude": 56.67613,
+        "longitude": 24.9721
+    },
+    {
+        "name": "Огр",
+        "latitude": 56.8162,
+        "longitude": 24.61401
+    },
+    {
+        "name": "Олайне",
+        "latitude": 56.79472,
+        "longitude": 23.9358
+    },
+    {
+        "name": "Дубы",
+        "latitude": 56.68986,
+        "longitude": 23.7761
+    },
+    {
+        "name": "Штальбе",
+        "latitude": 57.37065,
+        "longitude": 25.03106
+    },
+    {
+        "name": "Павилоста",
+        "latitude": 56.88791,
+        "longitude": 21.18593
+    },
+    {
+        "name": "Луга",
+        "latitude": 56.6178,
+        "longitude": 25.72552
+    },
+    {
+        "name": "Яунаглона",
+        "latitude": 56.16066,
+        "longitude": 27.00714
+    },
+    {
+        "name": "Крендели с солью",
+        "latitude": 56.29444,
+        "longitude": 26.72459
+    },
+    {
+        "name": "Приекуле",
+        "latitude": 56.44679,
+        "longitude": 21.58968
+    },
+    {
+        "name": "Удовольствия",
+        "latitude": 57.315,
+        "longitude": 25.36147
+    },
+    {
+        "name": "Круглый",
+        "latitude": 57.33173,
+        "longitude": 25.60947
+    },
+    {
+        "name": "Резекне",
+        "latitude": 56.51028,
+        "longitude": 27.34
+    },
+    {
+        "name": "Шины",
+        "latitude": 56.3428,
+        "longitude": 26.79995
+    },
+    {
+        "name": "Болдерая",
+        "latitude": 57.03132,
+        "longitude": 24.05571
+    },
+    {
+        "name": "Даугавгрива",
+        "latitude": 57.04315,
+        "longitude": 24.03613
+    },
+    {
+        "name": "Яунциемс",
+        "latitude": 57.0391,
+        "longitude": 24.17413
+    },
+    {
+        "name": "Лесопарк",
+        "latitude": 57.00008,
+        "longitude": 24.15997
+    },
+    {
+        "name": "Рига",
+        "latitude": 56.946,
+        "longitude": 24.10589
+    },
+    {
+        "name": "Роя",
+        "latitude": 57.50146,
+        "longitude": 22.80881
+    },
+    {
+        "name": "Ропажи",
+        "latitude": 56.9747,
+        "longitude": 24.63295
+    },
+    {
+        "name": "Руцава",
+        "latitude": 56.16314,
+        "longitude": 21.16156
+    },
+    {
+        "name": "щетина",
+        "latitude": 57.00325,
+        "longitude": 27.13371
+    },
+    {
+        "name": "Руижения",
+        "latitude": 57.89752,
+        "longitude": 25.33155
+    },
+    {
+        "name": "Пилсрундале",
+        "latitude": 56.41812,
+        "longitude": 24.01625
+    },
+    {
+        "name": "Пейзажи",
+        "latitude": 57.86348,
+        "longitude": 24.35853
+    },
+    {
+        "name": "Салацгрива",
+        "latitude": 57.75312,
+        "longitude": 24.35895
+    },
+    {
+        "name": "Саласпилс",
+        "latitude": 56.86014,
+        "longitude": 24.36544
+    },
+    {
+        "name": "Сладкий",
+        "latitude": 56.66363,
+        "longitude": 22.48807
+    },
+    {
+        "name": "Солнечный пляж",
+        "latitude": 57.26224,
+        "longitude": 24.41471
+    },
+    {
+        "name": "Энгуре",
+        "latitude": 57.16061,
+        "longitude": 23.22527
+    },
+    {
+        "name": "Тукум",
+        "latitude": 56.96764,
+        "longitude": 23.15554
+    },
+    {
+        "name": "Сигулда",
+        "latitude": 57.15375,
+        "longitude": 24.85953
+    },
+    {
+        "name": "Писцы",
+        "latitude": 56.645,
+        "longitude": 25.12058
+    },
+    {
+        "name": "хруст",
+        "latitude": 56.67749,
+        "longitude": 22.01649
+    },
+    {
+        "name": "Смилтене",
+        "latitude": 57.42444,
+        "longitude": 25.90164
+    },
+    {
+        "name": "Улбрук",
+        "latitude": 56.9363,
+        "longitude": 24.30387
+    },
+    {
+        "name": "Что",
+        "latitude": 57.65042,
+        "longitude": 25.75089
+    },
+    {
+        "name": "Растягивается",
+        "latitude": 57.62574,
+        "longitude": 25.68535
+    },
+    {
+        "name": "Соболь",
+        "latitude": 57.04577,
+        "longitude": 22.57261
+    },
+    {
+        "name": "Сложить",
+        "latitude": 57.14497,
+        "longitude": 22.53482
+    },
+    {
+        "name": "Талси",
+        "latitude": 57.24562,
+        "longitude": 22.58137
+    },
+    {
+        "name": "Валдемарпилс",
+        "latitude": 57.37068,
+        "longitude": 22.59188
+    },
+    {
+        "name": "Тервете",
+        "latitude": 56.47989,
+        "longitude": 23.38895
+    },
+    {
+        "name": "Зельмени",
+        "latitude": 56.45167,
+        "longitude": 23.35194
+    },
+    {
+        "name": "Вини это",
+        "latitude": 56.41848,
+        "longitude": 21.85405
+    },
+    {
+        "name": "Валка",
+        "latitude": 57.7752,
+        "longitude": 26.01013
+    },
+    {
+        "name": "Валмиера",
+        "latitude": 57.54108,
+        "longitude": 25.42751
+    },
+    {
+        "name": "Варакляни",
+        "latitude": 56.60826,
+        "longitude": 26.75377
+    },
+    {
+        "name": "Вецваркава",
+        "latitude": 56.19838,
+        "longitude": 26.50811
+    },
+    {
+        "name": "Старое пособие",
+        "latitude": 57.0609,
+        "longitude": 25.81624
+    },
+    {
+        "name": "Старые люди",
+        "latitude": 56.60608,
+        "longitude": 24.52232
+    },
+    {
+        "name": "Вентспилс",
+        "latitude": 57.38988,
+        "longitude": 21.57288
+    },
+    {
+        "name": "Пилтене",
+        "latitude": 57.22426,
+        "longitude": 21.67439
+    },
+    {
+        "name": "Гость",
+        "latitude": 56.34751,
+        "longitude": 25.55514
+    },
+    {
+        "name": "Виляка",
+        "latitude": 57.18458,
+        "longitude": 27.6722
+    },
+    {
+        "name": "Заманчиво",
+        "latitude": 56.55253,
+        "longitude": 26.92449
+    },
+    {
+        "name": "Зилупе",
+        "latitude": 56.38616,
+        "longitude": 28.12165
+    }
+]

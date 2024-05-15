@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Тубманбург",
+        "latitude": 6.87064,
+        "longitude": -10.8211
+    },
+    {
+        "name": "Вперед, продолжать",
+        "latitude": 6.99543,
+        "longitude": -9.47122
+    },
+    {
+        "name": "Бополу",
+        "latitude": 7.06667,
+        "longitude": -10.4875
+    },
+    {
+        "name": "Бьюкенен",
+        "latitude": 5.87693,
+        "longitude": -10.04964
+    },
+    {
+        "name": "Робертспорт",
+        "latitude": 6.75329,
+        "longitude": -11.3671
+    },
+    {
+        "name": "Зведру",
+        "latitude": 6.06846,
+        "longitude": -8.13559
+    },
+    {
+        "name": "Баркливилл",
+        "latitude": 4.67443,
+        "longitude": -8.23306
+    },
+    {
+        "name": "Воинджама",
+        "latitude": 8.42194,
+        "longitude": -9.74778
+    },
+    {
+        "name": "Моя бабушка",
+        "latitude": 6.53104,
+        "longitude": -10.35368
+    },
+    {
+        "name": "Харпер",
+        "latitude": 4.3782,
+        "longitude": -7.71081
+    },
+    {
+        "name": "Бенсонвилл",
+        "latitude": 6.44716,
+        "longitude": -10.61283
+    },
+    {
+        "name": "Монровия",
+        "latitude": 6.30054,
+        "longitude": -10.7969
+    },
+    {
+        "name": "Ганта",
+        "latitude": 7.30222,
+        "longitude": -8.53083
+    },
+    {
+        "name": "Нью-Йекепа",
+        "latitude": 7.57944,
+        "longitude": -8.53778
+    },
+    {
+        "name": "Санникелли",
+        "latitude": 7.36215,
+        "longitude": -8.71326
+    },
+    {
+        "name": "Городские корзины",
+        "latitude": 5.45683,
+        "longitude": -9.58167
+    },
+    {
+        "name": "Рыбный городок",
+        "latitude": 5.19739,
+        "longitude": -7.87579
+    },
+    {
+        "name": "Гринвилл",
+        "latitude": 5.01133,
+        "longitude": -9.0388
+    }
+]

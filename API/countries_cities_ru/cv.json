@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Сал Рей",
+        "latitude": 16.17611,
+        "longitude": -22.91722
+    },
+    {
+        "name": "Новая Синтра",
+        "latitude": 14.87139,
+        "longitude": -24.69556
+    },
+    {
+        "name": "Деревня Майо",
+        "latitude": 15.13823,
+        "longitude": -23.21158
+    },
+    {
+        "name": "Церковь",
+        "latitude": 15.03389,
+        "longitude": -24.325
+    },
+    {
+        "name": "Голуби",
+        "latitude": 17.15026,
+        "longitude": -25.02007
+    },
+    {
+        "name": "Порт",
+        "latitude": 17.01969,
+        "longitude": -25.06471
+    },
+    {
+        "name": "Молиться",
+        "latitude": 14.93152,
+        "longitude": -23.51254
+    },
+    {
+        "name": "Рибейра Брава",
+        "latitude": 16.61583,
+        "longitude": -24.29833
+    },
+    {
+        "name": "Понта-ду-Соль",
+        "latitude": 17.20171,
+        "longitude": -25.09217
+    },
+    {
+        "name": "Рибейра Гранде",
+        "latitude": 17.1825,
+        "longitude": -25.065
+    },
+    {
+        "name": "Старый город",
+        "latitude": 14.91531,
+        "longitude": -23.60527
+    },
+    {
+        "name": "Спаржа",
+        "latitude": 16.75524,
+        "longitude": -22.9446
+    },
+    {
+        "name": "Санта Мария",
+        "latitude": 16.59796,
+        "longitude": -22.90509
+    },
+    {
+        "name": "В Ассаме",
+        "latitude": 15.1,
+        "longitude": -23.68333
+    },
+    {
+        "name": "Кова Фигейра",
+        "latitude": 14.89054,
+        "longitude": -24.29343
+    },
+    {
+        "name": "Педро Бадехо",
+        "latitude": 15.1375,
+        "longitude": -23.53083
+    },
+    {
+        "name": "Санта Круз",
+        "latitude": 15.13333,
+        "longitude": -23.56667
+    },
+    {
+        "name": "Сен-Домингос",
+        "latitude": 15.02438,
+        "longitude": -23.5625
+    },
+    {
+        "name": "Святой Филипп",
+        "latitude": 14.8961,
+        "longitude": -24.49556
+    },
+    {
+        "name": "Жоао Тевес",
+        "latitude": 15.06694,
+        "longitude": -23.58917
+    },
+    {
+        "name": "Кальета",
+        "latitude": 15.18613,
+        "longitude": -23.59228
+    },
+    {
+        "name": "Минделу",
+        "latitude": 16.89014,
+        "longitude": -24.98042
+    },
+    {
+        "name": "Таррафал",
+        "latitude": 15.27881,
+        "longitude": -23.75192
+    },
+    {
+        "name": "Таррафал де Сан-Николау",
+        "latitude": 16.56622,
+        "longitude": -24.35793
+    }
+]

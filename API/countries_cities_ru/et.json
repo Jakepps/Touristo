@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Аддис-Абеба",
+        "latitude": 9.02497,
+        "longitude": 38.74689
+    },
+    {
+        "name": "Административная зона 2",
+        "latitude": 13.68513,
+        "longitude": 40.05615
+    },
+    {
+        "name": "Административная зона 3",
+        "latitude": 10.00902,
+        "longitude": 40.47394
+    },
+    {
+        "name": "Асайта",
+        "latitude": 11.56838,
+        "longitude": 41.43869
+    },
+    {
+        "name": "Аваш",
+        "latitude": 8.98333,
+        "longitude": 40.16667
+    },
+    {
+        "name": "Сомневаться",
+        "latitude": 11.73292,
+        "longitude": 41.082
+    },
+    {
+        "name": "Увеличивать",
+        "latitude": 10.16658,
+        "longitude": 40.64689
+    },
+    {
+        "name": "Семера",
+        "latitude": 11.79342,
+        "longitude": 41.00578
+    },
+    {
+        "name": "Абомса",
+        "latitude": 9.98333,
+        "longitude": 39.98333
+    },
+    {
+        "name": "Аддит Канна",
+        "latitude": 11.26667,
+        "longitude": 37.48333
+    },
+    {
+        "name": "Земенские скины",
+        "latitude": 12.11667,
+        "longitude": 37.78333
+    },
+    {
+        "name": "Бахир Дар",
+        "latitude": 11.59364,
+        "longitude": 37.39077
+    },
+    {
+        "name": "Запад",
+        "latitude": 11.19152,
+        "longitude": 40.01675
+    },
+    {
+        "name": "Бичена",
+        "latitude": 10.45,
+        "longitude": 38.2
+    },
+    {
+        "name": "В парусе",
+        "latitude": 10.7,
+        "longitude": 37.06667
+    },
+    {
+        "name": "Он дал",
+        "latitude": 12.98417,
+        "longitude": 37.765
+    },
+    {
+        "name": "высадиться",
+        "latitude": 13.15611,
+        "longitude": 37.89806
+    },
+    {
+        "name": "Дебре Бирхан",
+        "latitude": 9.67954,
+        "longitude": 39.53262
+    },
+    {
+        "name": "Дебре Маркос",
+        "latitude": 10.35,
+        "longitude": 37.73333
+    },
+    {
+        "name": "Дебре Сина",
+        "latitude": 9.84752,
+        "longitude": 39.76027
+    },
+    {
+        "name": "Дебре Табор",
+        "latitude": 11.85,
+        "longitude": 38.01667
+    },
+    {
+        "name": "Работа сбота '",
+        "latitude": 10.66667,
+        "longitude": 38.16667
+    },
+    {
+        "name": "Тесто",
+        "latitude": 10.16667,
+        "longitude": 38.13333
+    },
+    {
+        "name": "Десс",
+        "latitude": 11.13333,
+        "longitude": 39.63333
+    },
+    {
+        "name": "Привет Финот",
+        "latitude": 10.7,
+        "longitude": 37.26667
+    },
+    {
+        "name": "Гондэр",
+        "latitude": 12.6,
+        "longitude": 37.46667
+    },
+    {
+        "name": "В Кемисе",
+        "latitude": 10.71668,
+        "longitude": 39.86997
+    },
+    {
+        "name": "Комболча",
+        "latitude": 11.08155,
+        "longitude": 39.74339
+    },
+    {
+        "name": "Лалибела",
+        "latitude": 12.03219,
+        "longitude": 39.04756
+    },
+    {
+        "name": "Зона Северная Шева",
+        "latitude": 9.769,
+        "longitude": 39.668
+    },
+    {
+        "name": "Зона Северного Волло",
+        "latitude": 11.92,
+        "longitude": 39.1
+    },
+    {
+        "name": "Чтобы сделать дырку",
+        "latitude": 12.01667,
+        "longitude": 39.63333
+    },
+    {
+        "name": "Зона Южный Гондэр",
+        "latitude": 11.8385,
+        "longitude": 38.09954
+    },
+    {
+        "name": "Зона Южного Волло",
+        "latitude": 11.0,
+        "longitude": 39.25
+    },
+    {
+        "name": "Зона Ваг Хемра",
+        "latitude": 12.765,
+        "longitude": 38.843
+    },
+    {
+        "name": "Были угорь",
+        "latitude": 10.58964,
+        "longitude": 39.43767
+    },
+    {
+        "name": "Верота",
+        "latitude": 11.91667,
+        "longitude": 37.7
+    },
+    {
+        "name": "Воскресенье",
+        "latitude": 10.0,
+        "longitude": 34.5
+    },
+    {
+        "name": "Метекель",
+        "latitude": 10.42673,
+        "longitude": 35.71975
+    },
+    {
+        "name": "Дире Дава",
+        "latitude": 9.59306,
+        "longitude": 41.86611
+    },
+    {
+        "name": "Административная зона 1",
+        "latitude": 8.14699,
+        "longitude": 33.97335
+    },
+    {
+        "name": "Гамбела",
+        "latitude": 8.25,
+        "longitude": 34.58333
+    },
+    {
+        "name": "Харар",
+        "latitude": 9.31387,
+        "longitude": 42.11815
+    },
+    {
+        "name": "В скинах 'Алем",
+        "latitude": 9.03333,
+        "longitude": 38.4
+    },
+    {
+        "name": "Агаро",
+        "latitude": 7.85,
+        "longitude": 36.65
+    },
+    {
+        "name": "Зона Арси",
+        "latitude": 7.5,
+        "longitude": 39.5
+    },
+    {
+        "name": "Асаса",
+        "latitude": 7.1,
+        "longitude": 39.2
+    },
+    {
+        "name": "Асбе Тефери",
+        "latitude": 9.08569,
+        "longitude": 40.86708
+    },
+    {
+        "name": "Беделе",
+        "latitude": 8.456,
+        "longitude": 36.35302
+    },
+    {
+        "name": "Бедеса",
+        "latitude": 8.9,
+        "longitude": 40.78333
+    },
+    {
+        "name": "Бишофту",
+        "latitude": 8.75225,
+        "longitude": 38.97846
+    },
+    {
+        "name": "Дедер",
+        "latitude": 9.31168,
+        "longitude": 41.44301
+    },
+    {
+        "name": "Демби Доло",
+        "latitude": 8.53333,
+        "longitude": 34.8
+    },
+    {
+        "name": "Додола",
+        "latitude": 6.98333,
+        "longitude": 39.18333
+    },
+    {
+        "name": "Восточная зона Харэрге",
+        "latitude": 8.70114,
+        "longitude": 42.00241
+    },
+    {
+        "name": "Зона Восточная Шева",
+        "latitude": 8.21353,
+        "longitude": 38.84809
+    },
+    {
+        "name": "Зона Восточная Веллега",
+        "latitude": 9.51928,
+        "longitude": 36.75762
+    },
+    {
+        "name": "Фиш",
+        "latitude": 9.8,
+        "longitude": 38.73333
+    },
+    {
+        "name": "Черный Гебре",
+        "latitude": 9.8,
+        "longitude": 38.4
+    },
+    {
+        "name": "Идти",
+        "latitude": 9.01667,
+        "longitude": 37.45
+    },
+    {
+        "name": "Гелемсо",
+        "latitude": 8.81667,
+        "longitude": 40.51667
+    },
+    {
+        "name": "Жене",
+        "latitude": 9.06667,
+        "longitude": 38.5
+    },
+    {
+        "name": "Принцесса",
+        "latitude": 9.17031,
+        "longitude": 35.83491
+    },
+    {
+        "name": "гинир",
+        "latitude": 7.13952,
+        "longitude": 40.71083
+    },
+    {
+        "name": "Быть",
+        "latitude": 7.01667,
+        "longitude": 39.98333
+    },
+    {
+        "name": "Гор",
+        "latitude": 8.15,
+        "longitude": 35.53333
+    },
+    {
+        "name": "Зона Гуджи",
+        "latitude": 5.588,
+        "longitude": 39.067
+    },
+    {
+        "name": "Хегере Хийвет",
+        "latitude": 8.98333,
+        "longitude": 37.85
+    },
+    {
+        "name": "Хагере Марьям",
+        "latitude": 5.63418,
+        "longitude": 38.23603
+    },
+    {
+        "name": "Хирна",
+        "latitude": 9.21667,
+        "longitude": 41.1
+    },
+    {
+        "name": "Повредить",
+        "latitude": 8.15,
+        "longitude": 39.35
+    },
+    {
+        "name": "Зона Иллубабор",
+        "latitude": 8.27526,
+        "longitude": 35.75596
+    },
+    {
+        "name": "Джимма",
+        "latitude": 7.67344,
+        "longitude": 36.83441
+    },
+    {
+        "name": "Джимма Зона",
+        "latitude": 7.66667,
+        "longitude": 37.0
+    },
+    {
+        "name": "Кибре Менгист",
+        "latitude": 5.88333,
+        "longitude": 38.98333
+    },
+    {
+        "name": "В Кофеле",
+        "latitude": 7.06667,
+        "longitude": 38.78333
+    },
+    {
+        "name": "Любовь",
+        "latitude": 4.05,
+        "longitude": 38.3
+    },
+    {
+        "name": "Менди",
+        "latitude": 9.8,
+        "longitude": 35.1
+    },
+    {
+        "name": "Метахара",
+        "latitude": 8.9,
+        "longitude": 39.91667
+    },
+    {
+        "name": "Годы",
+        "latitude": 8.3,
+        "longitude": 35.58333
+    },
+    {
+        "name": "Моджо",
+        "latitude": 8.58679,
+        "longitude": 39.12111
+    },
+    {
+        "name": "Бросить взгляд",
+        "latitude": 8.55,
+        "longitude": 39.26667
+    },
+    {
+        "name": "Неа",
+        "latitude": 9.5,
+        "longitude": 35.5
+    },
+    {
+        "name": "Зона Северная Шева",
+        "latitude": 9.66915,
+        "longitude": 38.8124
+    },
+    {
+        "name": "Себет",
+        "latitude": 8.91667,
+        "longitude": 38.61667
+    },
+    {
+        "name": "Нюхать",
+        "latitude": 9.15203,
+        "longitude": 39.02335
+    },
+    {
+        "name": "Сомневаться",
+        "latitude": 5.76494,
+        "longitude": 38.91006
+    },
+    {
+        "name": "Шамбу",
+        "latitude": 9.56667,
+        "longitude": 37.1
+    },
+    {
+        "name": "Шашемене",
+        "latitude": 7.2,
+        "longitude": 38.6
+    },
+    {
+        "name": "Сирр",
+        "latitude": 8.31667,
+        "longitude": 39.48333
+    },
+    {
+        "name": "Тулу Боло",
+        "latitude": 8.66667,
+        "longitude": 38.21667
+    },
+    {
+        "name": "Вализо",
+        "latitude": 8.53417,
+        "longitude": 37.96515
+    },
+    {
+        "name": "Вэньцзи",
+        "latitude": 8.45,
+        "longitude": 39.28333
+    },
+    {
+        "name": "Западная зона Харэрге",
+        "latitude": 8.67245,
+        "longitude": 40.84885
+    },
+    {
+        "name": "Западная зона Веллеги",
+        "latitude": 9.17283,
+        "longitude": 35.05279
+    },
+    {
+        "name": "Ябело",
+        "latitude": 4.88333,
+        "longitude": 38.08333
+    },
+    {
+        "name": "Зивей",
+        "latitude": 7.93333,
+        "longitude": 38.71667
+    },
+    {
+        "name": "Послезона",
+        "latitude": 5.25,
+        "longitude": 43.0
+    },
+    {
+        "name": "Дегехабурская зона",
+        "latitude": 8.25,
+        "longitude": 43.75
+    },
+    {
+        "name": "Хорошая зона",
+        "latitude": 6.0,
+        "longitude": 43.75
+    },
+    {
+        "name": "Запястье",
+        "latitude": 9.35,
+        "longitude": 42.8
+    },
+    {
+        "name": "Свободная зона",
+        "latitude": 4.75,
+        "longitude": 40.5
+    },
+    {
+        "name": "Зона Шиниле",
+        "latitude": 10.17097,
+        "longitude": 41.83748
+    },
+    {
+        "name": "Алаба Специальное Слово",
+        "latitude": 7.45347,
+        "longitude": 38.21189
+    },
+    {
+        "name": "Арба Минч",
+        "latitude": 6.03333,
+        "longitude": 37.55
+    },
+    {
+        "name": "Арека",
+        "latitude": 7.06667,
+        "longitude": 37.7
+    },
+    {
+        "name": "Гость",
+        "latitude": 5.78333,
+        "longitude": 36.56667
+    },
+    {
+        "name": "Скамейка в водной зоне",
+        "latitude": 6.45994,
+        "longitude": 35.30549
+    },
+    {
+        "name": "Бодити",
+        "latitude": 6.96667,
+        "longitude": 37.86667
+    },
+    {
+        "name": "Спасибо",
+        "latitude": 7.28333,
+        "longitude": 36.23333
+    },
+    {
+        "name": "Бутаира",
+        "latitude": 8.11667,
+        "longitude": 38.36667
+    },
+    {
+        "name": "Сын",
+        "latitude": 6.41667,
+        "longitude": 38.31667
+    },
+    {
+        "name": "Фелеге Ньюэй",
+        "latitude": 6.3,
+        "longitude": 36.88333
+    },
+    {
+        "name": "Зона Гедео",
+        "latitude": 6.12727,
+        "longitude": 38.27716
+    },
+    {
+        "name": "В Гидоле",
+        "latitude": 5.65,
+        "longitude": 37.36667
+    },
+    {
+        "name": "Зона Гураге",
+        "latitude": 8.25,
+        "longitude": 38.0
+    },
+    {
+        "name": "Зона Хадия",
+        "latitude": 7.5,
+        "longitude": 37.75
+    },
+    {
+        "name": "Привет, Хагере",
+        "latitude": 6.48333,
+        "longitude": 38.51667
+    },
+    {
+        "name": "Общество",
+        "latitude": 7.06205,
+        "longitude": 38.47635
+    },
+    {
+        "name": "Хосаина",
+        "latitude": 7.54978,
+        "longitude": 37.85374
+    },
+    {
+        "name": "Демон",
+        "latitude": 5.65,
+        "longitude": 36.65
+    },
+    {
+        "name": "К'олито",
+        "latitude": 7.31667,
+        "longitude": 38.08333
+    },
+    {
+        "name": "Кембата видит зону Тембаро",
+        "latitude": 7.27039,
+        "longitude": 37.77887
+    },
+    {
+        "name": "Минусы",
+        "latitude": 5.25,
+        "longitude": 37.48333
+    },
+    {
+        "name": "место",
+        "latitude": 6.87309,
+        "longitude": 38.44425
+    },
+    {
+        "name": "Этот пол",
+        "latitude": 4.83333,
+        "longitude": 36.1
+    },
+    {
+        "name": "Мизан Тефери",
+        "latitude": 6.99865,
+        "longitude": 35.58879
+    },
+    {
+        "name": "Шекинская зона",
+        "latitude": 7.56166,
+        "longitude": 35.40174
+    },
+    {
+        "name": "Зона Сидама",
+        "latitude": 6.718,
+        "longitude": 38.448
+    },
+    {
+        "name": "Сад",
+        "latitude": 6.86,
+        "longitude": 37.76159
+    },
+    {
+        "name": "Типы",
+        "latitude": 7.2,
+        "longitude": 35.45
+    },
+    {
+        "name": "миномет",
+        "latitude": 4.96667,
+        "longitude": 36.48333
+    },
+    {
+        "name": "Вендо",
+        "latitude": 6.6,
+        "longitude": 38.41667
+    },
+    {
+        "name": "Зона Волайита",
+        "latitude": 6.84312,
+        "longitude": 37.70051
+    },
+    {
+        "name": "Приманка",
+        "latitude": 7.83333,
+        "longitude": 37.5
+    },
+    {
+        "name": "Йирга Алем",
+        "latitude": 6.75,
+        "longitude": 38.41667
+    },
+    {
+        "name": "Адиграт",
+        "latitude": 14.277,
+        "longitude": 39.462
+    },
+    {
+        "name": "Аксум",
+        "latitude": 14.12109,
+        "longitude": 38.72337
+    },
+    {
+        "name": "Где Сайлас?",
+        "latitude": 14.10307,
+        "longitude": 38.28289
+    },
+    {
+        "name": "Корем",
+        "latitude": 12.50583,
+        "longitude": 39.52278
+    },
+    {
+        "name": "Майча",
+        "latitude": 12.7875,
+        "longitude": 39.54222
+    },
+    {
+        "name": "Мекка",
+        "latitude": 13.49667,
+        "longitude": 39.47528
+    },
+    {
+        "name": "Юго-восточная зона Тыграй",
+        "latitude": 13.24797,
+        "longitude": 39.53156
+    },
+    {
+        "name": "Южная Тыграйская зона",
+        "latitude": 12.96033,
+        "longitude": 39.52831
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Аль-Гувайрия",
+        "latitude": 25.82882,
+        "longitude": 51.24567
+    },
+    {
+        "name": "Аль-Хор",
+        "latitude": 25.68389,
+        "longitude": 51.50583
+    },
+    {
+        "name": "Ар Райян",
+        "latitude": 25.29194,
+        "longitude": 51.42444
+    },
+    {
+        "name": "Умм Баб",
+        "latitude": 25.21417,
+        "longitude": 50.80722
+    },
+    {
+        "name": "Аль-Вакра",
+        "latitude": 25.17151,
+        "longitude": 51.60337
+    },
+    {
+        "name": "Аль Вукайр",
+        "latitude": 25.15107,
+        "longitude": 51.53718
+    },
+    {
+        "name": "Мусайид",
+        "latitude": 24.99226,
+        "longitude": 51.55067
+    },
+    {
+        "name": "Аль-Джумайлия",
+        "latitude": 25.61068,
+        "longitude": 51.09108
+    },
+    {
+        "name": "Аш Шихания",
+        "latitude": 25.37088,
+        "longitude": 51.22264
+    },
+    {
+        "name": "Духан",
+        "latitude": 25.42485,
+        "longitude": 50.78227
+    },
+    {
+        "name": "Доха",
+        "latitude": 25.28545,
+        "longitude": 51.53096
+    },
+    {
+        "name": "Да Мероприятия",
+        "latitude": 26.13978,
+        "longitude": 51.21493
+    },
+    {
+        "name": "Фувайрис",
+        "latitude": 26.02565,
+        "longitude": 51.36971
+    },
+    {
+        "name": "Мадинат аш Шамаль",
+        "latitude": 26.12933,
+        "longitude": 51.2009
+    },
+    {
+        "name": "Умм Салал Мухаммад",
+        "latitude": 25.41524,
+        "longitude": 51.40647
+    }
+]

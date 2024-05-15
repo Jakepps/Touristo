@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Айдаркен",
+        "latitude": 39.94319,
+        "longitude": 71.34184
+    },
+    {
+        "name": "Баткен",
+        "latitude": 40.06259,
+        "longitude": 70.81939
+    },
+    {
+        "name": "Эти ворота",
+        "latitude": 40.26667,
+        "longitude": 72.1
+    },
+    {
+        "name": "Исфана",
+        "latitude": 39.83895,
+        "longitude": 69.5276
+    },
+    {
+        "name": "Караван",
+        "latitude": 40.29513,
+        "longitude": 72.18627
+    },
+    {
+        "name": "Kyzyl-Kyya",
+        "latitude": 40.25684,
+        "longitude": 72.12793
+    },
+    {
+        "name": "Сулюкту",
+        "latitude": 39.93652,
+        "longitude": 69.56779
+    },
+    {
+        "name": "Бишкек",
+        "latitude": 42.87,
+        "longitude": 74.59
+    },
+    {
+        "name": "Alamudunskiy Rayon",
+        "latitude": 42.81985,
+        "longitude": 74.59398
+    },
+    {
+        "name": "Belovodskoye",
+        "latitude": 42.82944,
+        "longitude": 74.1083
+    },
+    {
+        "name": "Chuyskiy Rayon",
+        "latitude": 42.66667,
+        "longitude": 75.33333
+    },
+    {
+        "name": "Ивановка",
+        "latitude": 42.88778,
+        "longitude": 75.085
+    },
+    {
+        "name": "Каинды",
+        "latitude": 42.82469,
+        "longitude": 73.67585
+    },
+    {
+        "name": "Кант",
+        "latitude": 42.89106,
+        "longitude": 74.85077
+    },
+    {
+        "name": "Черный Топор",
+        "latitude": 42.81423,
+        "longitude": 73.84813
+    },
+    {
+        "name": "Химия",
+        "latitude": 42.78611,
+        "longitude": 75.69167
+    },
+    {
+        "name": "Lebedinovka",
+        "latitude": 42.88454,
+        "longitude": 74.67819
+    },
+    {
+        "name": "Sokulukskiy Rayon",
+        "latitude": 42.83333,
+        "longitude": 74.33333
+    },
+    {
+        "name": "Сосновка",
+        "latitude": 42.63707,
+        "longitude": 73.89608
+    },
+    {
+        "name": "Токмок",
+        "latitude": 42.84194,
+        "longitude": 75.30149
+    },
+    {
+        "name": "Иссык-Ата",
+        "latitude": 42.72665,
+        "longitude": 75.07444
+    },
+    {
+        "name": "Белая вода",
+        "latitude": 42.49948,
+        "longitude": 78.52702
+    },
+    {
+        "name": "Балыкчи",
+        "latitude": 42.46017,
+        "longitude": 76.18709
+    },
+    {
+        "name": "Чолпон-Ата",
+        "latitude": 42.64944,
+        "longitude": 77.08225
+    },
+    {
+        "name": "Каджи-Сай",
+        "latitude": 42.14107,
+        "longitude": 77.17848
+    },
+    {
+        "name": "Полицейский участок",
+        "latitude": 42.49068,
+        "longitude": 78.39362
+    },
+    {
+        "name": "Красная вода",
+        "latitude": 42.34211,
+        "longitude": 78.00644
+    },
+    {
+        "name": "Тюп",
+        "latitude": 42.7276,
+        "longitude": 78.36476
+    },
+    {
+        "name": "Ала-Бука",
+        "latitude": 41.40806,
+        "longitude": 71.46306
+    },
+    {
+        "name": "Базар-Коргон",
+        "latitude": 41.0376,
+        "longitude": 72.74586
+    },
+    {
+        "name": "Джалал-Абад",
+        "latitude": 40.93333,
+        "longitude": 73.0
+    },
+    {
+        "name": "Казарман",
+        "latitude": 41.405,
+        "longitude": 74.037
+    },
+    {
+        "name": "Выемки",
+        "latitude": 41.49399,
+        "longitude": 71.75826
+    },
+    {
+        "name": "Кочкор-Ата",
+        "latitude": 41.03709,
+        "longitude": 72.4832
+    },
+    {
+        "name": "Подагра",
+        "latitude": 40.8982,
+        "longitude": 72.90481
+    },
+    {
+        "name": "Таш-Кумыр",
+        "latitude": 41.34612,
+        "longitude": 72.21707
+    },
+    {
+        "name": "Токтогул",
+        "latitude": 41.87442,
+        "longitude": 72.94192
+    },
+    {
+        "name": "Токтогульский район",
+        "latitude": 41.75,
+        "longitude": 73.0
+    },
+    {
+        "name": "Ат-Баши",
+        "latitude": 41.16951,
+        "longitude": 75.80099
+    },
+    {
+        "name": "Джумгал",
+        "latitude": 41.94924,
+        "longitude": 74.40566
+    },
+    {
+        "name": "Нарын",
+        "latitude": 41.42866,
+        "longitude": 75.99111
+    },
+    {
+        "name": "Чонг-Алайский район",
+        "latitude": 39.47614,
+        "longitude": 72.33017
+    },
+    {
+        "name": "Дароот-Коргон",
+        "latitude": 39.55274,
+        "longitude": 72.20518
+    },
+    {
+        "name": "Кара Куля",
+        "latitude": 40.64095,
+        "longitude": 73.49411
+    },
+    {
+        "name": "Кара Суу",
+        "latitude": 40.7046,
+        "longitude": 72.86666
+    },
+    {
+        "name": "Кызыл-Эшме",
+        "latitude": 39.56559,
+        "longitude": 72.27153
+    },
+    {
+        "name": "уголок",
+        "latitude": 40.26597,
+        "longitude": 72.61834
+    },
+    {
+        "name": "Ош",
+        "latitude": 40.52828,
+        "longitude": 72.7985
+    },
+    {
+        "name": "Узген",
+        "latitude": 40.76994,
+        "longitude": 73.30068
+    },
+    {
+        "name": "Узгенский район",
+        "latitude": 40.55,
+        "longitude": 73.3
+    },
+    {
+        "name": "Kara-Buurinskiy Rayon",
+        "latitude": 42.5,
+        "longitude": 71.41667
+    },
+    {
+        "name": "Разговорный",
+        "latitude": 42.52277,
+        "longitude": 72.24274
+    },
+    {
+        "name": "Talasskiy Rayon",
+        "latitude": 42.18647,
+        "longitude": 72.69408
+    }
+]

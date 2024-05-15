@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Пруд для мусора",
+        "latitude": 5.05594,
+        "longitude": -54.98043
+    },
+    {
+        "name": "Браунсуг",
+        "latitude": 5.00435,
+        "longitude": -55.15333
+    },
+    {
+        "name": "Мариенбург",
+        "latitude": 5.87722,
+        "longitude": -55.04322
+    },
+    {
+        "name": "Новый Амстердам",
+        "latitude": 5.88573,
+        "longitude": -55.08871
+    },
+    {
+        "name": "Тотнесс",
+        "latitude": 5.87618,
+        "longitude": -56.32572
+    },
+    {
+        "name": "Пчела",
+        "latitude": 5.49788,
+        "longitude": -54.05522
+    },
+    {
+        "name": "Моенго",
+        "latitude": 5.61411,
+        "longitude": -54.40121
+    },
+    {
+        "name": "Новый Никери",
+        "latitude": 5.92606,
+        "longitude": -56.97297
+    },
+    {
+        "name": "Вагенинген",
+        "latitude": 5.7601,
+        "longitude": -56.66523
+    },
+    {
+        "name": "Непредвиденный",
+        "latitude": 5.58983,
+        "longitude": -55.19462
+    },
+    {
+        "name": "Парамарибо",
+        "latitude": 5.86638,
+        "longitude": -55.16682
+    },
+    {
+        "name": "Гронинген",
+        "latitude": 5.8,
+        "longitude": -55.46667
+    },
+    {
+        "name": "Лелидорп",
+        "latitude": 5.7,
+        "longitude": -55.23333
+    }
+]

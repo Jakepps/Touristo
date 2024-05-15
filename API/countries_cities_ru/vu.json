@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Слесарь",
+        "latitude": -16.09992,
+        "longitude": 167.41636
+    },
+    {
+        "name": "Норсуп",
+        "latitude": -16.06536,
+        "longitude": 167.39714
+    },
+    {
+        "name": "Луганвиль",
+        "latitude": -15.51989,
+        "longitude": 167.16235
+    },
+    {
+        "name": "Порт-Олри",
+        "latitude": -15.04175,
+        "longitude": 167.07265
+    },
+    {
+        "name": "Порт-Вила",
+        "latitude": -17.73648,
+        "longitude": 168.31366
+    },
+    {
+        "name": "Ангел",
+        "latitude": -19.54167,
+        "longitude": 169.28167
+    },
+    {
+        "name": "Сола",
+        "latitude": -13.87611,
+        "longitude": 167.55167
+    }
+]

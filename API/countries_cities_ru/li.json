@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Бальцерс",
+        "latitude": 47.06665,
+        "longitude": 9.50251
+    },
+    {
+        "name": "Ясени",
+        "latitude": 47.21071,
+        "longitude": 9.52223
+    },
+    {
+        "name": "Гамприн",
+        "latitude": 47.22038,
+        "longitude": 9.50935
+    },
+    {
+        "name": "мавры",
+        "latitude": 47.21805,
+        "longitude": 9.5442
+    },
+    {
+        "name": "Доски",
+        "latitude": 47.18516,
+        "longitude": 9.54437
+    },
+    {
+        "name": "Руггелль",
+        "latitude": 47.23799,
+        "longitude": 9.5254
+    },
+    {
+        "name": "Шаан",
+        "latitude": 47.16498,
+        "longitude": 9.50867
+    },
+    {
+        "name": "Шелленберг",
+        "latitude": 47.23123,
+        "longitude": 9.54678
+    },
+    {
+        "name": "Тризен",
+        "latitude": 47.10752,
+        "longitude": 9.52815
+    },
+    {
+        "name": "Тризенберг",
+        "latitude": 47.11815,
+        "longitude": 9.54197
+    },
+    {
+        "name": "Вадуц",
+        "latitude": 47.14151,
+        "longitude": 9.52154
+    }
+]

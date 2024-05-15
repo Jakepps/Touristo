@@ -1,0 +1,5372 @@
+[
+    {
+        "name": "Филиал церкви",
+        "latitude": 46.84025,
+        "longitude": 19.45208
+    },
+    {
+        "name": "Вешалка",
+        "latitude": 46.69167,
+        "longitude": 19.20423
+    },
+    {
+        "name": "Апостаг",
+        "latitude": 46.88208,
+        "longitude": 18.9621
+    },
+    {
+        "name": "Баксалмас",
+        "latitude": 46.12648,
+        "longitude": 19.3326
+    },
+    {
+        "name": "Баксалмаш Харас",
+        "latitude": 46.10167,
+        "longitude": 19.33063
+    },
+    {
+        "name": "Твой дядя",
+        "latitude": 46.125,
+        "longitude": 19.15621
+    },
+    {
+        "name": "Баха",
+        "latitude": 46.18299,
+        "longitude": 18.95307
+    },
+    {
+        "name": "Баха Ярош",
+        "latitude": 46.14507,
+        "longitude": 19.01359
+    },
+    {
+        "name": "Угол мяча",
+        "latitude": 46.86216,
+        "longitude": 19.57092
+    },
+    {
+        "name": "Брат",
+        "latitude": 46.488,
+        "longitude": 18.95419
+    },
+    {
+        "name": "Бугач",
+        "latitude": 46.68704,
+        "longitude": 19.68074
+    },
+    {
+        "name": "Императорское наполнение",
+        "latitude": 46.42194,
+        "longitude": 19.18361
+    },
+    {
+        "name": "Это мошенничество",
+        "latitude": 46.18917,
+        "longitude": 19.14667
+    },
+    {
+        "name": "Ваш звонок",
+        "latitude": 46.71543,
+        "longitude": 19.26802
+    },
+    {
+        "name": "Давод",
+        "latitude": 45.995,
+        "longitude": 18.91722
+    },
+    {
+        "name": "Дунапата",
+        "latitude": 46.644,
+        "longitude": 18.99632
+    },
+    {
+        "name": "Дунавече",
+        "latitude": 46.91478,
+        "longitude": 18.97127
+    },
+    {
+        "name": "Дуснок",
+        "latitude": 46.39085,
+        "longitude": 18.96296
+    },
+    {
+        "name": "Архиепископ Чанад",
+        "latitude": 46.25352,
+        "longitude": 18.98457
+    },
+    {
+        "name": "Старший год",
+        "latitude": 46.19713,
+        "longitude": 19.18686
+    },
+    {
+        "name": "Филиппины",
+        "latitude": 46.74221,
+        "longitude": 19.72132
+    },
+    {
+        "name": "Проживание на Филиппинах",
+        "latitude": 46.82075,
+        "longitude": 19.23748
+    },
+    {
+        "name": "Мы",
+        "latitude": 46.03194,
+        "longitude": 19.04278
+    },
+    {
+        "name": "Лодочник",
+        "latitude": 46.39861,
+        "longitude": 19.12056
+    },
+    {
+        "name": "Свойство",
+        "latitude": 46.69758,
+        "longitude": 19.0311
+    },
+    {
+        "name": "Гельвеция",
+        "latitude": 46.83661,
+        "longitude": 19.62251
+    },
+    {
+        "name": "Херцегсанто",
+        "latitude": 45.95,
+        "longitude": 18.93917
+    },
+    {
+        "name": "Исаак",
+        "latitude": 46.80454,
+        "longitude": 19.35172
+    },
+    {
+        "name": "Яношалма",
+        "latitude": 46.29861,
+        "longitude": 19.32583
+    },
+    {
+        "name": "Яношалмай Ярас",
+        "latitude": 46.28283,
+        "longitude": 19.31742
+    },
+    {
+        "name": "Святой Ласло",
+        "latitude": 46.56685,
+        "longitude": 19.76065
+    },
+    {
+        "name": "Калоча",
+        "latitude": 46.52981,
+        "longitude": 18.97283
+    },
+    {
+        "name": "Калоксай Ярас",
+        "latitude": 46.55646,
+        "longitude": 19.04211
+    },
+    {
+        "name": "Катымар",
+        "latitude": 46.03398,
+        "longitude": 19.20935
+    },
+    {
+        "name": "Кечел",
+        "latitude": 46.52528,
+        "longitude": 19.25194
+    },
+    {
+        "name": "Козакемет",
+        "latitude": 46.90618,
+        "longitude": 19.69128
+    },
+    {
+        "name": "Кечкемет Ярош",
+        "latitude": 46.88283,
+        "longitude": 19.58701
+    },
+    {
+        "name": "Келебия",
+        "latitude": 46.1968,
+        "longitude": 19.61659
+    },
+    {
+        "name": "Керекехаза",
+        "latitude": 46.93722,
+        "longitude": 19.47806
+    },
+    {
+        "name": "Мелкокожий",
+        "latitude": 46.62139,
+        "longitude": 19.28528
+    },
+    {
+        "name": "Прогулка Кискорёси",
+        "latitude": 46.63309,
+        "longitude": 19.33726
+    },
+    {
+        "name": "Кишкунфелихаза",
+        "latitude": 46.71213,
+        "longitude": 19.84458
+    },
+    {
+        "name": "Кишкунфеледьхази Харас",
+        "latitude": 46.65721,
+        "longitude": 19.77006
+    },
+    {
+        "name": "Это маленькая рыбка",
+        "latitude": 46.43402,
+        "longitude": 19.48479
+    },
+    {
+        "name": "Прогулка Кишкунхаласи",
+        "latitude": 46.35832,
+        "longitude": 19.53067
+    },
+    {
+        "name": "Кишкунмайса",
+        "latitude": 46.49028,
+        "longitude": 19.74
+    },
+    {
+        "name": "Кишкунмайсай Харас",
+        "latitude": 46.49608,
+        "longitude": 19.72316
+    },
+    {
+        "name": "Короткий визит",
+        "latitude": 46.28009,
+        "longitude": 19.48954
+    },
+    {
+        "name": "Кунфехерто",
+        "latitude": 46.36091,
+        "longitude": 19.41454
+    },
+    {
+        "name": "Кунсентмиклош",
+        "latitude": 47.02699,
+        "longitude": 19.12575
+    },
+    {
+        "name": "Прогулка Кунсентмиклош",
+        "latitude": 46.9481,
+        "longitude": 19.15563
+    },
+    {
+        "name": "Лойошмиже",
+        "latitude": 47.02133,
+        "longitude": 19.56171
+    },
+    {
+        "name": "Квартиры",
+        "latitude": 46.87601,
+        "longitude": 19.99504
+    },
+    {
+        "name": "Мадарас",
+        "latitude": 46.0587,
+        "longitude": 19.26121
+    },
+    {
+        "name": "Меликут",
+        "latitude": 46.21509,
+        "longitude": 19.38102
+    },
+    {
+        "name": "Большой персик",
+        "latitude": 46.04248,
+        "longitude": 18.9059
+    },
+    {
+        "name": "Немеснадвар",
+        "latitude": 46.34051,
+        "longitude": 19.05115
+    },
+    {
+        "name": "Дача",
+        "latitude": 46.86017,
+        "longitude": 19.87836
+    },
+    {
+        "name": "Организованный",
+        "latitude": 46.75087,
+        "longitude": 19.47259
+    },
+    {
+        "name": "Хиромантия",
+        "latitude": 46.62417,
+        "longitude": 19.95156
+    },
+    {
+        "name": "Соль",
+        "latitude": 46.80101,
+        "longitude": 19.00098
+    },
+    {
+        "name": "Солтвадский сад",
+        "latitude": 46.57889,
+        "longitude": 19.39389
+    },
+    {
+        "name": "Выкрикивать",
+        "latitude": 46.28181,
+        "longitude": 18.99524
+    },
+    {
+        "name": "Бесплатное проживание",
+        "latitude": 46.87575,
+        "longitude": 19.22324
+    },
+    {
+        "name": "Салксентмартон",
+        "latitude": 46.97565,
+        "longitude": 19.01178
+    },
+    {
+        "name": "хвостовик",
+        "latitude": 46.55713,
+        "longitude": 19.66103
+    },
+    {
+        "name": "Святой Король",
+        "latitude": 46.91892,
+        "longitude": 19.91846
+    },
+    {
+        "name": "ТАСС",
+        "latitude": 47.02095,
+        "longitude": 19.02988
+    },
+    {
+        "name": "Таблица цен",
+        "latitude": 46.54824,
+        "longitude": 19.51436
+    },
+    {
+        "name": "Тисаалпарр",
+        "latitude": 46.81279,
+        "longitude": 19.99841
+    },
+    {
+        "name": "Тисаккеке",
+        "latitude": 46.93261,
+        "longitude": 20.10349
+    },
+    {
+        "name": "Тисакеке Ярас",
+        "latitude": 46.86013,
+        "longitude": 19.97298
+    },
+    {
+        "name": "Тупой",
+        "latitude": 46.20605,
+        "longitude": 19.5391
+    },
+    {
+        "name": "Городская земля",
+        "latitude": 46.81674,
+        "longitude": 19.75668
+    },
+    {
+        "name": "Железная дорога",
+        "latitude": 46.10782,
+        "longitude": 18.98514
+    },
+    {
+        "name": "Beremend",
+        "latitude": 45.79108,
+        "longitude": 18.43263
+    },
+    {
+        "name": "Були",
+        "latitude": 45.96722,
+        "longitude": 18.51833
+    },
+    {
+        "name": "Большой Ярош",
+        "latitude": 45.98075,
+        "longitude": 18.48449
+    },
+    {
+        "name": "Нажми на это",
+        "latitude": 46.10751,
+        "longitude": 17.9882
+    },
+    {
+        "name": "Трубка Дунашека",
+        "latitude": 46.0874,
+        "longitude": 18.7587
+    },
+    {
+        "name": "Дятел",
+        "latitude": 45.85002,
+        "longitude": 18.23668
+    },
+    {
+        "name": "Прогулка по Хегихату",
+        "latitude": 46.27247,
+        "longitude": 18.13758
+    },
+    {
+        "name": "Медленный",
+        "latitude": 46.2568,
+        "longitude": 18.4954
+    },
+    {
+        "name": "Длинные выходные",
+        "latitude": 46.16414,
+        "longitude": 18.35077
+    },
+    {
+        "name": "Хмель",
+        "latitude": 46.19278,
+        "longitude": 18.26494
+    },
+    {
+        "name": "Комлой Ярас",
+        "latitude": 46.22019,
+        "longitude": 18.2862
+    },
+    {
+        "name": "Козармислены",
+        "latitude": 46.02967,
+        "longitude": 18.2921
+    },
+    {
+        "name": "Девушка поцелуй",
+        "latitude": 46.00543,
+        "longitude": 18.62526
+    },
+    {
+        "name": "Магоч",
+        "latitude": 46.34998,
+        "longitude": 18.2324
+    },
+    {
+        "name": "Месекские камыши",
+        "latitude": 46.22468,
+        "longitude": 18.47076
+    },
+    {
+        "name": "Мохач",
+        "latitude": 45.9902,
+        "longitude": 18.68621
+    },
+    {
+        "name": "Мохач Харас",
+        "latitude": 46.02004,
+        "longitude": 18.68
+    },
+    {
+        "name": "Печ",
+        "latitude": 46.08333,
+        "longitude": 18.23333
+    },
+    {
+        "name": "Печ Харас",
+        "latitude": 46.0799,
+        "longitude": 18.25253
+    },
+    {
+        "name": "Замок Печ",
+        "latitude": 46.16033,
+        "longitude": 18.42321
+    },
+    {
+        "name": "Печварад Харас",
+        "latitude": 46.16782,
+        "longitude": 18.45456
+    },
+    {
+        "name": "Пеллерд",
+        "latitude": 46.03438,
+        "longitude": 18.15403
+    },
+    {
+        "name": "Шасд",
+        "latitude": 46.2552,
+        "longitude": 18.10776
+    },
+    {
+        "name": "Sellye",
+        "latitude": 45.87247,
+        "longitude": 17.84711
+    },
+    {
+        "name": "Селли Харас",
+        "latitude": 45.86955,
+        "longitude": 17.89827
+    },
+    {
+        "name": "Скольжение",
+        "latitude": 45.85499,
+        "longitude": 18.29752
+    },
+    {
+        "name": "Лыжная прогулка",
+        "latitude": 45.84981,
+        "longitude": 18.31052
+    },
+    {
+        "name": "Сасвар",
+        "latitude": 46.27673,
+        "longitude": 18.37566
+    },
+    {
+        "name": "Сентлеринц",
+        "latitude": 46.04016,
+        "longitude": 17.98719
+    },
+    {
+        "name": "Сентлоринц Харас",
+        "latitude": 46.04694,
+        "longitude": 18.01528
+    },
+    {
+        "name": "Сигетвар",
+        "latitude": 46.04865,
+        "longitude": 17.80554
+    },
+    {
+        "name": "Сигетвар Ярош",
+        "latitude": 46.07336,
+        "longitude": 17.80391
+    },
+    {
+        "name": "Пахта",
+        "latitude": 45.85957,
+        "longitude": 17.98406
+    },
+    {
+        "name": "Электричество",
+        "latitude": 45.86889,
+        "longitude": 18.45389
+    },
+    {
+        "name": "Кнопка",
+        "latitude": 46.28333,
+        "longitude": 21.01667
+    },
+    {
+        "name": "мирный",
+        "latitude": 46.76667,
+        "longitude": 21.13333
+    },
+    {
+        "name": "Бекешчаба",
+        "latitude": 46.68333,
+        "longitude": 21.1
+    },
+    {
+        "name": "Прогулка по Бекешчабе",
+        "latitude": 46.68133,
+        "longitude": 21.07413
+    },
+    {
+        "name": "Бекеш Харас",
+        "latitude": 46.83317,
+        "longitude": 21.1
+    },
+    {
+        "name": "Бекесамсон",
+        "latitude": 46.41667,
+        "longitude": 20.63333
+    },
+    {
+        "name": "Бекесентандрас",
+        "latitude": 46.86667,
+        "longitude": 20.48333
+    },
+    {
+        "name": "орех",
+        "latitude": 47.2,
+        "longitude": 21.0
+    },
+    {
+        "name": "Куриный маринад",
+        "latitude": 46.55,
+        "longitude": 20.88333
+    },
+    {
+        "name": "Утечка",
+        "latitude": 46.63333,
+        "longitude": 20.83333
+    },
+    {
+        "name": "Он сумасшедший",
+        "latitude": 47.03333,
+        "longitude": 20.96667
+    },
+    {
+        "name": "Коробка",
+        "latitude": 46.73333,
+        "longitude": 21.25
+    },
+    {
+        "name": "Домбегьхаз",
+        "latitude": 46.33333,
+        "longitude": 21.13333
+    },
+    {
+        "name": "я живу",
+        "latitude": 46.53333,
+        "longitude": 21.25
+    },
+    {
+        "name": "Ивовая колония",
+        "latitude": 47.1,
+        "longitude": 21.21667
+    },
+    {
+        "name": "Гадорос",
+        "latitude": 46.66667,
+        "longitude": 20.6
+    },
+    {
+        "name": "Ваш контроль над сорняками",
+        "latitude": 46.93333,
+        "longitude": 20.83333
+    },
+    {
+        "name": "Дьомаендрод Харас",
+        "latitude": 46.98216,
+        "longitude": 20.84851
+    },
+    {
+        "name": "Дьюла",
+        "latitude": 46.65,
+        "longitude": 21.28333
+    },
+    {
+        "name": "Дьюлай Харас",
+        "latitude": 46.58626,
+        "longitude": 21.22454
+    },
+    {
+        "name": "Кашапер",
+        "latitude": 46.46667,
+        "longitude": 20.83333
+    },
+    {
+        "name": "Две церкви",
+        "latitude": 46.53333,
+        "longitude": 21.18333
+    },
+    {
+        "name": "Кевермес",
+        "latitude": 46.41667,
+        "longitude": 21.18333
+    },
+    {
+        "name": "Кондор",
+        "latitude": 46.76667,
+        "longitude": 20.8
+    },
+    {
+        "name": "Корёсладаны",
+        "latitude": 46.96667,
+        "longitude": 21.08333
+    },
+    {
+        "name": "Циркулярная пила",
+        "latitude": 46.88333,
+        "longitude": 21.03333
+    },
+    {
+        "name": "Кунагота",
+        "latitude": 46.43333,
+        "longitude": 21.05
+    },
+    {
+        "name": "Стрелковый дом",
+        "latitude": 46.43333,
+        "longitude": 21.23333
+    },
+    {
+        "name": "Мадьярбанхедьес",
+        "latitude": 46.45,
+        "longitude": 20.96667
+    },
+    {
+        "name": "Медгесехаза",
+        "latitude": 46.5,
+        "longitude": 21.03333
+    },
+    {
+        "name": "Мехкерек",
+        "latitude": 46.78333,
+        "longitude": 21.45
+    },
+    {
+        "name": "Мезоберень",
+        "latitude": 46.81667,
+        "longitude": 21.03333
+    },
+    {
+        "name": "Точка поля",
+        "latitude": 46.31667,
+        "longitude": 20.81667
+    },
+    {
+        "name": "Дом Мезёковача",
+        "latitude": 46.4,
+        "longitude": 20.91667
+    },
+    {
+        "name": "Ярас Месиоковачазай",
+        "latitude": 46.40888,
+        "longitude": 21.00318
+    },
+    {
+        "name": "Большое сено",
+        "latitude": 46.68333,
+        "longitude": 20.66667
+    },
+    {
+        "name": "Окани",
+        "latitude": 46.9,
+        "longitude": 21.35
+    },
+    {
+        "name": "Орошхаза",
+        "latitude": 46.56667,
+        "longitude": 20.66667
+    },
+    {
+        "name": "Орошази Харас",
+        "latitude": 46.56355,
+        "longitude": 20.73357
+    },
+    {
+        "name": "Замок Пустошей",
+        "latitude": 46.53333,
+        "longitude": 20.8
+    },
+    {
+        "name": "Вы поворачиваете",
+        "latitude": 46.75,
+        "longitude": 21.38333
+    },
+    {
+        "name": "Ходить вокруг",
+        "latitude": 46.86154,
+        "longitude": 21.44875
+    },
+    {
+        "name": "Бесплатная змея",
+        "latitude": 46.61667,
+        "longitude": 21.1
+    },
+    {
+        "name": "Олень",
+        "latitude": 46.86667,
+        "longitude": 20.55
+    },
+    {
+        "name": "Олень Прогулка",
+        "latitude": 46.82891,
+        "longitude": 20.63707
+    },
+    {
+        "name": "Сехалми Харас",
+        "latitude": 47.0,
+        "longitude": 21.17
+    },
+    {
+        "name": "Куча гвоздей",
+        "latitude": 47.03333,
+        "longitude": 21.16667
+    },
+    {
+        "name": "Прудовый хмель",
+        "latitude": 46.41667,
+        "longitude": 20.73333
+    },
+    {
+        "name": "Новая Змея",
+        "latitude": 46.58333,
+        "longitude": 21.03333
+    },
+    {
+        "name": "Неудачник",
+        "latitude": 46.91667,
+        "longitude": 21.26667
+    },
+    {
+        "name": "Абауйсанто",
+        "latitude": 48.28333,
+        "longitude": 21.2
+    },
+    {
+        "name": "Подсолить",
+        "latitude": 48.06982,
+        "longitude": 20.88046
+    },
+    {
+        "name": "Арло",
+        "latitude": 48.18333,
+        "longitude": 20.26667
+    },
+    {
+        "name": "Арно",
+        "latitude": 48.13058,
+        "longitude": 20.85832
+    },
+    {
+        "name": "Сушилка",
+        "latitude": 48.21667,
+        "longitude": 20.96667
+    },
+    {
+        "name": "Бекеч",
+        "latitude": 48.15,
+        "longitude": 21.18333
+    },
+    {
+        "name": "Извини",
+        "latitude": 48.05,
+        "longitude": 20.96667
+    },
+    {
+        "name": "Богач",
+        "latitude": 47.9,
+        "longitude": 20.53333
+    },
+    {
+        "name": "Болдва",
+        "latitude": 48.21667,
+        "longitude": 20.8
+    },
+    {
+        "name": "Добавить перец",
+        "latitude": 48.11667,
+        "longitude": 20.25
+    },
+    {
+        "name": "Цыган",
+        "latitude": 48.25561,
+        "longitude": 21.89195
+    },
+    {
+        "name": "Цыганская прогулка",
+        "latitude": 48.30338,
+        "longitude": 21.87651
+    },
+    {
+        "name": "Тарелки",
+        "latitude": 48.3,
+        "longitude": 20.73333
+    },
+    {
+        "name": "Эделеньи Ярас",
+        "latitude": 48.40864,
+        "longitude": 20.77506
+    },
+    {
+        "name": "Ваша мать",
+        "latitude": 47.93333,
+        "longitude": 20.81667
+    },
+    {
+        "name": "Энкс",
+        "latitude": 48.33333,
+        "longitude": 21.13333
+    },
+    {
+        "name": "Энчи Уок",
+        "latitude": 48.39948,
+        "longitude": 21.08169
+    },
+    {
+        "name": "Волчья нора",
+        "latitude": 48.18333,
+        "longitude": 20.31667
+    },
+    {
+        "name": "Упсольца",
+        "latitude": 48.1,
+        "longitude": 20.86667
+    },
+    {
+        "name": "Жест",
+        "latitude": 48.1,
+        "longitude": 20.96667
+    },
+    {
+        "name": "Генц",
+        "latitude": 48.46667,
+        "longitude": 21.28333
+    },
+    {
+        "name": "Гонци Ярас",
+        "latitude": 48.39948,
+        "longitude": 21.28307
+    },
+    {
+        "name": "Халмай",
+        "latitude": 48.25,
+        "longitude": 21.0
+    },
+    {
+        "name": "Громкий",
+        "latitude": 47.96667,
+        "longitude": 20.75
+    },
+    {
+        "name": "В Хейёбу",
+        "latitude": 47.9,
+        "longitude": 20.95
+    },
+    {
+        "name": "Немец из Эрнада",
+        "latitude": 48.06667,
+        "longitude": 20.98333
+    },
+    {
+        "name": "Изовалва",
+        "latitude": 48.3,
+        "longitude": 20.66667
+    },
+    {
+        "name": "Тротуарный дом",
+        "latitude": 48.15,
+        "longitude": 20.25
+    },
+    {
+        "name": "Стройный",
+        "latitude": 48.3113,
+        "longitude": 21.80537
+    },
+    {
+        "name": "Казинцбарчика",
+        "latitude": 48.25,
+        "longitude": 20.63333
+    },
+    {
+        "name": "Прогулка по Казинцбарчике",
+        "latitude": 48.26371,
+        "longitude": 20.57978
+    },
+    {
+        "name": "Безумный",
+        "latitude": 48.19442,
+        "longitude": 21.28208
+    },
+    {
+        "name": "Малли",
+        "latitude": 48.01667,
+        "longitude": 20.83333
+    },
+    {
+        "name": "Это отвратительно",
+        "latitude": 48.18333,
+        "longitude": 21.05
+    },
+    {
+        "name": "Мезёчат",
+        "latitude": 47.81667,
+        "longitude": 20.91667
+    },
+    {
+        "name": "Мезочат Харас",
+        "latitude": 47.79841,
+        "longitude": 20.91693
+    },
+    {
+        "name": "Полевой крест",
+        "latitude": 47.83333,
+        "longitude": 20.7
+    },
+    {
+        "name": "Полевой камень",
+        "latitude": 47.81667,
+        "longitude": 20.58333
+    },
+    {
+        "name": "Прогулка Мезёкёвесди",
+        "latitude": 47.84876,
+        "longitude": 20.63623
+    },
+    {
+        "name": "Полевой зомби",
+        "latitude": 48.15,
+        "longitude": 21.26667
+    },
+    {
+        "name": "Мишкольц",
+        "latitude": 48.1,
+        "longitude": 20.78333
+    },
+    {
+        "name": "Мишкольц Прогулка",
+        "latitude": 48.08675,
+        "longitude": 20.77353
+    },
+    {
+        "name": "я монах",
+        "latitude": 48.21102,
+        "longitude": 21.15052
+    },
+    {
+        "name": "Муксони",
+        "latitude": 48.26667,
+        "longitude": 20.68333
+    },
+    {
+        "name": "Некехаза",
+        "latitude": 47.98333,
+        "longitude": 20.83333
+    },
+    {
+        "name": "Олашлишка",
+        "latitude": 48.25,
+        "longitude": 21.43333
+    },
+    {
+        "name": "Нравиться",
+        "latitude": 48.11667,
+        "longitude": 20.91667
+    },
+    {
+        "name": "Онод",
+        "latitude": 48.0,
+        "longitude": 20.91667
+    },
+    {
+        "name": "Оз",
+        "latitude": 48.21667,
+        "longitude": 20.3
+    },
+    {
+        "name": "Озд Ярас",
+        "latitude": 48.18133,
+        "longitude": 20.24874
+    },
+    {
+        "name": "Прага",
+        "latitude": 48.08333,
+        "longitude": 21.25
+    },
+    {
+        "name": "Путнок",
+        "latitude": 48.3,
+        "longitude": 20.43333
+    },
+    {
+        "name": "Путноки Прогулка",
+        "latitude": 48.33694,
+        "longitude": 20.46384
+    },
+    {
+        "name": "Риссе",
+        "latitude": 48.32565,
+        "longitude": 21.97069
+    },
+    {
+        "name": "Рудабанья",
+        "latitude": 48.38333,
+        "longitude": 20.63333
+    },
+    {
+        "name": "Кукольный",
+        "latitude": 48.16667,
+        "longitude": 20.73333
+    },
+    {
+        "name": "Сайоказа",
+        "latitude": 48.28333,
+        "longitude": 20.58333
+    },
+    {
+        "name": "Спасибо",
+        "latitude": 48.05,
+        "longitude": 20.9
+    },
+    {
+        "name": "Сайорос",
+        "latitude": 47.95,
+        "longitude": 21.03333
+    },
+    {
+        "name": "Сайосентпетер",
+        "latitude": 48.21667,
+        "longitude": 20.71667
+    },
+    {
+        "name": "Ваш ракурс",
+        "latitude": 47.95,
+        "longitude": 21.0
+    },
+    {
+        "name": "Таможенник",
+        "latitude": 48.18171,
+        "longitude": 20.83149
+    },
+    {
+        "name": "Залы",
+        "latitude": 47.95,
+        "longitude": 20.66667
+    },
+    {
+        "name": "Мутный ручей",
+        "latitude": 48.3245,
+        "longitude": 21.57383
+    },
+    {
+        "name": "Шарошпатаки Прогулка",
+        "latitude": 48.29575,
+        "longitude": 21.52716
+    },
+    {
+        "name": "Шаторальяуйхей",
+        "latitude": 48.39492,
+        "longitude": 21.65871
+    },
+    {
+        "name": "Шаторальяуйхей Харас",
+        "latitude": 48.45898,
+        "longitude": 21.54394
+    },
+    {
+        "name": "Сзендро",
+        "latitude": 48.4,
+        "longitude": 20.73333
+    },
+    {
+        "name": "Святой Стефан",
+        "latitude": 47.76667,
+        "longitude": 20.66667
+    },
+    {
+        "name": "Удачи",
+        "latitude": 48.15993,
+        "longitude": 21.2097
+    },
+    {
+        "name": "Счастливая прогулка",
+        "latitude": 48.14929,
+        "longitude": 21.16865
+    },
+    {
+        "name": "Сиксо",
+        "latitude": 48.2,
+        "longitude": 20.93333
+    },
+    {
+        "name": "Шиксой Ярас",
+        "latitude": 48.30032,
+        "longitude": 20.95507
+    },
+    {
+        "name": "Лепестковый дождь",
+        "latitude": 48.15,
+        "longitude": 20.8
+    },
+    {
+        "name": "Тактахарканс",
+        "latitude": 48.08333,
+        "longitude": 21.13333
+    },
+    {
+        "name": "Тактасада",
+        "latitude": 48.11667,
+        "longitude": 21.18333
+    },
+    {
+        "name": "Тарелка",
+        "latitude": 48.23333,
+        "longitude": 21.23333
+    },
+    {
+        "name": "Таркаль",
+        "latitude": 48.13333,
+        "longitude": 21.35
+    },
+    {
+        "name": "Тисакарад",
+        "latitude": 48.2,
+        "longitude": 21.71667
+    },
+    {
+        "name": "Тисакеси",
+        "latitude": 47.78333,
+        "longitude": 21.0
+    },
+    {
+        "name": "До свидания",
+        "latitude": 48.03774,
+        "longitude": 21.07261
+    },
+    {
+        "name": "Тисауйварош",
+        "latitude": 47.93333,
+        "longitude": 21.08333
+    },
+    {
+        "name": "Тисауйварош Харас",
+        "latitude": 47.92656,
+        "longitude": 20.99321
+    },
+    {
+        "name": "Токай",
+        "latitude": 48.11667,
+        "longitude": 21.41667
+    },
+    {
+        "name": "Токайская прогулка",
+        "latitude": 48.14014,
+        "longitude": 21.37002
+    },
+    {
+        "name": "Толчва",
+        "latitude": 48.28333,
+        "longitude": 21.45
+    },
+    {
+        "name": "Будапешт",
+        "latitude": 47.49835,
+        "longitude": 19.04045
+    },
+    {
+        "name": "Будапешт I. район",
+        "latitude": 47.49705,
+        "longitude": 19.03961
+    },
+    {
+        "name": "Будапешт II. округ",
+        "latitude": 47.51984,
+        "longitude": 19.02218
+    },
+    {
+        "name": "Будапешт III. округ",
+        "latitude": 47.54157,
+        "longitude": 19.04501
+    },
+    {
+        "name": "Будапешт IV. округ",
+        "latitude": 47.56182,
+        "longitude": 19.08909
+    },
+    {
+        "name": "Будапешт VI. округ",
+        "latitude": 47.50369,
+        "longitude": 19.06583
+    },
+    {
+        "name": "Будапешт VIII. округ",
+        "latitude": 47.48919,
+        "longitude": 19.07012
+    },
+    {
+        "name": "Будапештский округ X",
+        "latitude": 47.4791,
+        "longitude": 19.15835
+    },
+    {
+        "name": "Будапешт XI. округ",
+        "latitude": 47.47603,
+        "longitude": 19.03605
+    },
+    {
+        "name": "Будапешт XII. округ",
+        "latitude": 47.49192,
+        "longitude": 19.01493
+    },
+    {
+        "name": "Будапешт XIII. округ",
+        "latitude": 47.52978,
+        "longitude": 19.08068
+    },
+    {
+        "name": "Будапешт XV. округ",
+        "latitude": 47.56263,
+        "longitude": 19.11681
+    },
+    {
+        "name": "Будапешт XVI. округ",
+        "latitude": 47.51482,
+        "longitude": 19.17028
+    },
+    {
+        "name": "Будапешт XVII. округ",
+        "latitude": 47.47997,
+        "longitude": 19.25388
+    },
+    {
+        "name": "Будапешт XVIII. округ",
+        "latitude": 47.44417,
+        "longitude": 19.17595
+    },
+    {
+        "name": "Будапешт XX. округ",
+        "latitude": 47.43674,
+        "longitude": 19.10093
+    },
+    {
+        "name": "Будапешт XXI. округ",
+        "latitude": 47.43047,
+        "longitude": 19.07098
+    },
+    {
+        "name": "Будапешт XXII. округ",
+        "latitude": 47.42698,
+        "longitude": 19.04016
+    },
+    {
+        "name": "Будапешт XXIII. округ",
+        "latitude": 47.39788,
+        "longitude": 19.11492
+    },
+    {
+        "name": "Эржебетварош",
+        "latitude": 47.50207,
+        "longitude": 19.07218
+    },
+    {
+        "name": "Йожефварош",
+        "latitude": 47.48938,
+        "longitude": 19.07292
+    },
+    {
+        "name": "Кишпешт",
+        "latitude": 47.4515,
+        "longitude": 19.14017
+    },
+    {
+        "name": "Зугло",
+        "latitude": 47.51758,
+        "longitude": 19.10549
+    },
+    {
+        "name": "Альдьо",
+        "latitude": 46.33472,
+        "longitude": 20.20849
+    },
+    {
+        "name": "деревня Аббата",
+        "latitude": 46.16667,
+        "longitude": 20.58333
+    },
+    {
+        "name": "Выкопанная свая",
+        "latitude": 46.19875,
+        "longitude": 19.78334
+    },
+    {
+        "name": "Бакс",
+        "latitude": 46.54297,
+        "longitude": 20.10213
+    },
+    {
+        "name": "Арбалет",
+        "latitude": 46.42277,
+        "longitude": 20.00816
+    },
+    {
+        "name": "Бордань",
+        "latitude": 46.31843,
+        "longitude": 19.92306
+    },
+    {
+        "name": "Чанадпалота",
+        "latitude": 46.25,
+        "longitude": 20.73333
+    },
+    {
+        "name": "я сука",
+        "latitude": 46.59501,
+        "longitude": 20.12342
+    },
+    {
+        "name": "Белл",
+        "latitude": 46.54234,
+        "longitude": 19.86358
+    },
+    {
+        "name": "Чонград",
+        "latitude": 46.71332,
+        "longitude": 20.14241
+    },
+    {
+        "name": "Чонград Харас",
+        "latitude": 46.66146,
+        "longitude": 20.08792
+    },
+    {
+        "name": "Рабочий стол",
+        "latitude": 46.21802,
+        "longitude": 20.24322
+    },
+    {
+        "name": "Домас стул",
+        "latitude": 46.24917,
+        "longitude": 20.01111
+    },
+    {
+        "name": "Фабиансбестьен",
+        "latitude": 46.68333,
+        "longitude": 20.46667
+    },
+    {
+        "name": "Земляне",
+        "latitude": 46.31667,
+        "longitude": 20.5
+    },
+    {
+        "name": "Хорошо",
+        "latitude": 46.36528,
+        "longitude": 19.90973
+    },
+    {
+        "name": "Ходмезёвашархей",
+        "latitude": 46.41667,
+        "longitude": 20.33333
+    },
+    {
+        "name": "Ходмезёвашархей Харас",
+        "latitude": 46.43301,
+        "longitude": 20.37598
+    },
+    {
+        "name": "Мелкие предметы",
+        "latitude": 46.4725,
+        "longitude": 19.97972
+    },
+    {
+        "name": "Кистелек Уолк",
+        "latitude": 46.48835,
+        "longitude": 19.99568
+    },
+    {
+        "name": "Маленький бомж",
+        "latitude": 46.18333,
+        "longitude": 20.43333
+    },
+    {
+        "name": "Мако",
+        "latitude": 46.21667,
+        "longitude": 20.48333
+    },
+    {
+        "name": "Мако Харас",
+        "latitude": 46.26698,
+        "longitude": 20.542
+    },
+    {
+        "name": "Маросле",
+        "latitude": 46.26667,
+        "longitude": 20.35
+    },
+    {
+        "name": "Ебена мать",
+        "latitude": 46.52362,
+        "longitude": 20.19038
+    },
+    {
+        "name": "Морахалми Харас",
+        "latitude": 46.2684,
+        "longitude": 19.82256
+    },
+    {
+        "name": "Куча болота",
+        "latitude": 46.21806,
+        "longitude": 19.8851
+    },
+    {
+        "name": "Противоядие",
+        "latitude": 46.48592,
+        "longitude": 20.08722
+    },
+    {
+        "name": "Очищающее средство",
+        "latitude": 46.55083,
+        "longitude": 19.98823
+    },
+    {
+        "name": "Рёшке",
+        "latitude": 46.18796,
+        "longitude": 20.03372
+    },
+    {
+        "name": "Руза",
+        "latitude": 46.28806,
+        "longitude": 19.74714
+    },
+    {
+        "name": "Александровская деревня",
+        "latitude": 46.36087,
+        "longitude": 20.09889
+    },
+    {
+        "name": "Сатымаз",
+        "latitude": 46.34306,
+        "longitude": 20.0402
+    },
+    {
+        "name": "Сегед",
+        "latitude": 46.253,
+        "longitude": 20.14824
+    },
+    {
+        "name": "Сегед Харас",
+        "latitude": 46.29536,
+        "longitude": 20.13758
+    },
+    {
+        "name": "Сегвар",
+        "latitude": 46.5874,
+        "longitude": 20.22408
+    },
+    {
+        "name": "Он домосед",
+        "latitude": 46.5,
+        "longitude": 20.53333
+    },
+    {
+        "name": "Святой",
+        "latitude": 46.65834,
+        "longitude": 20.2608
+    },
+    {
+        "name": "Сентеш Харас",
+        "latitude": 46.66005,
+        "longitude": 20.37314
+    },
+    {
+        "name": "Краткий",
+        "latitude": 46.61716,
+        "longitude": 20.04357
+    },
+    {
+        "name": "Сидя",
+        "latitude": 46.33611,
+        "longitude": 19.84454
+    },
+    {
+        "name": "Закань стул",
+        "latitude": 46.27453,
+        "longitude": 19.88975
+    },
+    {
+        "name": "Живой мертвец",
+        "latitude": 46.32566,
+        "longitude": 19.97464
+    },
+    {
+        "name": "Аба",
+        "latitude": 47.02907,
+        "longitude": 18.52172
+    },
+    {
+        "name": "Донни",
+        "latitude": 47.1194,
+        "longitude": 18.86493
+    },
+    {
+        "name": "Основа",
+        "latitude": 46.79915,
+        "longitude": 18.68938
+    },
+    {
+        "name": "Облепиха",
+        "latitude": 47.32395,
+        "longitude": 18.07509
+    },
+    {
+        "name": "Барак",
+        "latitude": 46.88202,
+        "longitude": 18.90658
+    },
+    {
+        "name": "Поросенок",
+        "latitude": 47.28225,
+        "longitude": 18.75853
+    },
+    {
+        "name": "Бике",
+        "latitude": 47.48419,
+        "longitude": 18.64404
+    },
+    {
+        "name": "Бичке Ярош",
+        "latitude": 47.4338,
+        "longitude": 18.56757
+    },
+    {
+        "name": "Кинжал",
+        "latitude": 47.32352,
+        "longitude": 18.23312
+    },
+    {
+        "name": "Сиси",
+        "latitude": 46.77056,
+        "longitude": 18.62826
+    },
+    {
+        "name": "Чаквар",
+        "latitude": 47.39184,
+        "longitude": 18.46501
+    },
+    {
+        "name": "Десять",
+        "latitude": 46.86807,
+        "longitude": 18.45042
+    },
+    {
+        "name": "Дунауйварош",
+        "latitude": 46.96737,
+        "longitude": 18.93288
+    },
+    {
+        "name": "Дунауйварош Харас",
+        "latitude": 47.02801,
+        "longitude": 18.82997
+    },
+    {
+        "name": "Предварительная посадка",
+        "latitude": 46.83094,
+        "longitude": 18.83481
+    },
+    {
+        "name": "Все нормально",
+        "latitude": 46.93046,
+        "longitude": 18.24202
+    },
+    {
+        "name": "Эньинги Харас",
+        "latitude": 46.8724,
+        "longitude": 18.30975
+    },
+    {
+        "name": "Эрджи",
+        "latitude": 47.25194,
+        "longitude": 18.89623
+    },
+    {
+        "name": "я ем",
+        "latitude": 47.44794,
+        "longitude": 18.75328
+    },
+    {
+        "name": "Фехерварчарго",
+        "latitude": 47.29349,
+        "longitude": 18.2646
+    },
+    {
+        "name": "Гардони",
+        "latitude": 47.20942,
+        "longitude": 18.63607
+    },
+    {
+        "name": "Гардоньи Ярош",
+        "latitude": 47.22785,
+        "longitude": 18.63622
+    },
+    {
+        "name": "Иванча",
+        "latitude": 47.1567,
+        "longitude": 18.8203
+    },
+    {
+        "name": "пират",
+        "latitude": 46.95464,
+        "longitude": 18.48259
+    },
+    {
+        "name": "Священник часовни",
+        "latitude": 47.24004,
+        "longitude": 18.67564
+    },
+    {
+        "name": "Сокровищница",
+        "latitude": 47.26444,
+        "longitude": 18.2779
+    },
+    {
+        "name": "Маленькое пламя",
+        "latitude": 46.95744,
+        "longitude": 18.38813
+    },
+    {
+        "name": "Лайоскомаром",
+        "latitude": 46.84201,
+        "longitude": 18.33763
+    },
+    {
+        "name": "Блин",
+        "latitude": 46.99036,
+        "longitude": 18.24357
+    },
+    {
+        "name": "Ловасберень",
+        "latitude": 47.30997,
+        "longitude": 18.55177
+    },
+    {
+        "name": "Много",
+        "latitude": 47.53352,
+        "longitude": 18.65627
+    },
+    {
+        "name": "Мартонвасар",
+        "latitude": 47.31601,
+        "longitude": 18.79045
+    },
+    {
+        "name": "Мартонвасар Ярош",
+        "latitude": 47.2904,
+        "longitude": 18.79945
+    },
+    {
+        "name": "Полевая деревня",
+        "latitude": 46.93184,
+        "longitude": 18.77177
+    },
+    {
+        "name": "Полевой лед",
+        "latitude": 46.81109,
+        "longitude": 18.47789
+    },
+    {
+        "name": "Большой",
+        "latitude": 47.37787,
+        "longitude": 18.20353
+    },
+    {
+        "name": "Мори Харас",
+        "latitude": 47.34685,
+        "longitude": 18.19838
+    },
+    {
+        "name": "Соленый огурец",
+        "latitude": 47.21369,
+        "longitude": 18.53306
+    },
+    {
+        "name": "Пасманд",
+        "latitude": 47.28755,
+        "longitude": 18.65356
+    },
+    {
+        "name": "Перкат",
+        "latitude": 47.04701,
+        "longitude": 18.78734
+    },
+    {
+        "name": "Гражданская гвардия",
+        "latitude": 47.06099,
+        "longitude": 18.302
+    },
+    {
+        "name": "Пустошь",
+        "latitude": 47.13718,
+        "longitude": 18.76704
+    },
+    {
+        "name": "Обычаи пустыни",
+        "latitude": 47.42948,
+        "longitude": 18.22648
+    },
+    {
+        "name": "Это позор",
+        "latitude": 47.02263,
+        "longitude": 18.94056
+    },
+    {
+        "name": "Крабовый переправа",
+        "latitude": 47.2736,
+        "longitude": 18.83343
+    },
+    {
+        "name": "Сарбогард",
+        "latitude": 46.88692,
+        "longitude": 18.62041
+    },
+    {
+        "name": "Сарбогардская прогулка",
+        "latitude": 46.84036,
+        "longitude": 18.60723
+    },
+    {
+        "name": "Тур по Грязевому Кресту",
+        "latitude": 47.0054,
+        "longitude": 18.54391
+    },
+    {
+        "name": "Грязь это",
+        "latitude": 47.04273,
+        "longitude": 18.64357
+    },
+    {
+        "name": "Сент-Майкл",
+        "latitude": 47.15321,
+        "longitude": 18.33879
+    },
+    {
+        "name": "Скворец",
+        "latitude": 47.1105,
+        "longitude": 18.565
+    },
+    {
+        "name": "я не лечу",
+        "latitude": 47.01485,
+        "longitude": 18.45343
+    },
+    {
+        "name": "Сабадбаттян",
+        "latitude": 47.11902,
+        "longitude": 18.36823
+    },
+    {
+        "name": "Шарлигет",
+        "latitude": 47.51581,
+        "longitude": 18.4948
+    },
+    {
+        "name": "Секешфехервар",
+        "latitude": 47.18995,
+        "longitude": 18.41034
+    },
+    {
+        "name": "Секешфехервар Харас",
+        "latitude": 47.16531,
+        "longitude": 18.41349
+    },
+    {
+        "name": "С",
+        "latitude": 47.36264,
+        "longitude": 18.67931
+    },
+    {
+        "name": "Венеция",
+        "latitude": 47.23855,
+        "longitude": 18.65484
+    },
+    {
+        "name": "Упрямство",
+        "latitude": 47.31667,
+        "longitude": 18.4081
+    },
+    {
+        "name": "Абда",
+        "latitude": 47.69464,
+        "longitude": 17.54489
+    },
+    {
+        "name": "Филиал деревни",
+        "latitude": 47.68991,
+        "longitude": 16.51658
+    },
+    {
+        "name": "Экскаватор полезных ископаемых",
+        "latitude": 47.82733,
+        "longitude": 17.49418
+    },
+    {
+        "name": "Святой Ласло Баконь",
+        "latitude": 47.38901,
+        "longitude": 17.80321
+    },
+    {
+        "name": "Быть во главе",
+        "latitude": 47.46594,
+        "longitude": 17.09294
+    },
+    {
+        "name": "Бони",
+        "latitude": 47.65,
+        "longitude": 17.86977
+    },
+    {
+        "name": "Большой дракон",
+        "latitude": 47.68821,
+        "longitude": 17.25
+    },
+    {
+        "name": "отток",
+        "latitude": 47.61155,
+        "longitude": 17.25012
+    },
+    {
+        "name": "Чорнай Ярас",
+        "latitude": 47.58403,
+        "longitude": 17.26041
+    },
+    {
+        "name": "Фарад",
+        "latitude": 47.60633,
+        "longitude": 17.20024
+    },
+    {
+        "name": "Ты заразен",
+        "latitude": 47.62173,
+        "longitude": 16.87088
+    },
+    {
+        "name": "Инфекционный рак",
+        "latitude": 47.72017,
+        "longitude": 16.6504
+    },
+    {
+        "name": "Фертосентмиклош",
+        "latitude": 47.58996,
+        "longitude": 16.87517
+    },
+    {
+        "name": "Дьер",
+        "latitude": 47.68333,
+        "longitude": 17.63512
+    },
+    {
+        "name": "Дьер Ярош",
+        "latitude": 47.67273,
+        "longitude": 17.67936
+    },
+    {
+        "name": "Дьёрсемере",
+        "latitude": 47.55256,
+        "longitude": 17.56356
+    },
+    {
+        "name": "Новый друг Дьера",
+        "latitude": 47.60643,
+        "longitude": 17.64875
+    },
+    {
+        "name": "Ловит рыбу",
+        "latitude": 47.8893,
+        "longitude": 17.32615
+    },
+    {
+        "name": "печаль Джона",
+        "latitude": 47.78621,
+        "longitude": 17.13603
+    },
+    {
+        "name": "Сторожка",
+        "latitude": 47.59224,
+        "longitude": 17.02886
+    },
+    {
+        "name": "Капувари Прогулка",
+        "latitude": 47.56705,
+        "longitude": 17.04056
+    },
+    {
+        "name": "с кем",
+        "latitude": 47.81726,
+        "longitude": 17.36642
+    },
+    {
+        "name": "Кони",
+        "latitude": 47.63053,
+        "longitude": 17.35717
+    },
+    {
+        "name": "Существо",
+        "latitude": 47.73574,
+        "longitude": 17.39076
+    },
+    {
+        "name": "Майкл",
+        "latitude": 47.51384,
+        "longitude": 17.09507
+    },
+    {
+        "name": "Мошонмадьяровар",
+        "latitude": 47.86789,
+        "longitude": 17.26994
+    },
+    {
+        "name": "Прогулка по Мошонмадьяровару",
+        "latitude": 47.85767,
+        "longitude": 17.28212
+    },
+    {
+        "name": "Мосонсентмиклош",
+        "latitude": 47.72778,
+        "longitude": 17.42784
+    },
+    {
+        "name": "Нагиценк",
+        "latitude": 47.60435,
+        "longitude": 16.69732
+    },
+    {
+        "name": "Кролик",
+        "latitude": 47.59047,
+        "longitude": 17.68904
+    },
+    {
+        "name": "Сплав",
+        "latitude": 47.71946,
+        "longitude": 17.48474
+    },
+    {
+        "name": "Паннонская свая",
+        "latitude": 47.54946,
+        "longitude": 17.75535
+    },
+    {
+        "name": "Прогулка Паннонхалми",
+        "latitude": 47.45571,
+        "longitude": 17.81335
+    },
+    {
+        "name": "Пер",
+        "latitude": 47.61153,
+        "longitude": 17.80632
+    },
+    {
+        "name": "Рабапатон",
+        "latitude": 47.63224,
+        "longitude": 17.48004
+    },
+    {
+        "name": "Райка",
+        "latitude": 47.99643,
+        "longitude": 17.19821
+    },
+    {
+        "name": "Шопрон",
+        "latitude": 47.68501,
+        "longitude": 16.59049
+    },
+    {
+        "name": "Прогулка по Шопрону",
+        "latitude": 47.60385,
+        "longitude": 16.75654
+    },
+    {
+        "name": "Саны",
+        "latitude": 47.46423,
+        "longitude": 17.30402
+    },
+    {
+        "name": "Делать ставку",
+        "latitude": 47.51922,
+        "longitude": 17.50802
+    },
+    {
+        "name": "Ставка Прогулка",
+        "latitude": 47.51515,
+        "longitude": 17.51612
+    },
+    {
+        "name": "Загрузка пруда",
+        "latitude": 47.62609,
+        "longitude": 17.73376
+    },
+    {
+        "name": "Багамер",
+        "latitude": 47.44882,
+        "longitude": 21.989
+    },
+    {
+        "name": "Балмазуйварош",
+        "latitude": 47.61667,
+        "longitude": 21.35
+    },
+    {
+        "name": "Балмазуйварош Харас",
+        "latitude": 47.6184,
+        "longitude": 21.14882
+    },
+    {
+        "name": "Ягненок",
+        "latitude": 47.3,
+        "longitude": 21.23333
+    },
+    {
+        "name": "Береттьоуйфалу",
+        "latitude": 47.21667,
+        "longitude": 21.55
+    },
+    {
+        "name": "Береттьоуйфалуи Харас",
+        "latitude": 47.14109,
+        "longitude": 21.55233
+    },
+    {
+        "name": "Бихарский крест",
+        "latitude": 47.13333,
+        "longitude": 21.71667
+    },
+    {
+        "name": "Бихарский дедушка",
+        "latitude": 47.21667,
+        "longitude": 21.23333
+    },
+    {
+        "name": "Он маленький",
+        "latitude": 47.03333,
+        "longitude": 21.3
+    },
+    {
+        "name": "Дебрецен",
+        "latitude": 47.53333,
+        "longitude": 21.63333
+    },
+    {
+        "name": "Дебрецен Харас",
+        "latitude": 47.52706,
+        "longitude": 21.66869
+    },
+    {
+        "name": "Деречке",
+        "latitude": 47.35,
+        "longitude": 21.56667
+    },
+    {
+        "name": "Деречке Ярош",
+        "latitude": 47.38194,
+        "longitude": 21.74836
+    },
+    {
+        "name": "Эбес",
+        "latitude": 47.46667,
+        "longitude": 21.5
+    },
+    {
+        "name": "я ем",
+        "latitude": 47.63333,
+        "longitude": 20.9
+    },
+    {
+        "name": "Земляной",
+        "latitude": 47.3,
+        "longitude": 21.36667
+    },
+    {
+        "name": "Кривой дом",
+        "latitude": 47.83333,
+        "longitude": 21.23333
+    },
+    {
+        "name": "Хаджусобосло Харас",
+        "latitude": 47.4811,
+        "longitude": 21.31
+    },
+    {
+        "name": "Хайдубагош",
+        "latitude": 47.39295,
+        "longitude": 21.66551
+    },
+    {
+        "name": "Хайдубёсормен",
+        "latitude": 47.66667,
+        "longitude": 21.51667
+    },
+    {
+        "name": "Гайдубёсёрмен из Хараса",
+        "latitude": 47.74,
+        "longitude": 21.5
+    },
+    {
+        "name": "Хайдудорог",
+        "latitude": 47.81667,
+        "longitude": 21.5
+    },
+    {
+        "name": "Хайдухадаз",
+        "latitude": 47.68333,
+        "longitude": 21.66667
+    },
+    {
+        "name": "Хайдухадхази Харас",
+        "latitude": 47.67,
+        "longitude": 21.7
+    },
+    {
+        "name": "Хайдунас",
+        "latitude": 47.85,
+        "longitude": 21.43333
+    },
+    {
+        "name": "Хайдунанас Ярас",
+        "latitude": 47.8335,
+        "longitude": 21.25256
+    },
+    {
+        "name": "Хайдусамсон",
+        "latitude": 47.6,
+        "longitude": 21.76667
+    },
+    {
+        "name": "Хайдусобосло",
+        "latitude": 47.45,
+        "longitude": 21.4
+    },
+    {
+        "name": "Хайдушова",
+        "latitude": 47.38333,
+        "longitude": 21.48333
+    },
+    {
+        "name": "Хортобадь",
+        "latitude": 47.58278,
+        "longitude": 21.15108
+    },
+    {
+        "name": "Хоссупали",
+        "latitude": 47.39303,
+        "longitude": 21.7328
+    },
+    {
+        "name": "Каба",
+        "latitude": 47.35,
+        "longitude": 21.28333
+    },
+    {
+        "name": "Это забавно",
+        "latitude": 47.0,
+        "longitude": 21.5
+    },
+    {
+        "name": "Ветвь",
+        "latitude": 47.31667,
+        "longitude": 21.66667
+    },
+    {
+        "name": "Жизненная сила",
+        "latitude": 47.38333,
+        "longitude": 21.9
+    },
+    {
+        "name": "Майк Перкс",
+        "latitude": 47.45,
+        "longitude": 21.63333
+    },
+    {
+        "name": "Моносторпали",
+        "latitude": 47.4,
+        "longitude": 21.78333
+    },
+    {
+        "name": "Тростниковый двор",
+        "latitude": 47.41667,
+        "longitude": 21.16667
+    },
+    {
+        "name": "Довольно много",
+        "latitude": 47.2,
+        "longitude": 21.33333
+    },
+    {
+        "name": "Фигурка березы",
+        "latitude": 47.55311,
+        "longitude": 22.02401
+    },
+    {
+        "name": "Ваша березка",
+        "latitude": 47.6033,
+        "longitude": 21.97208
+    },
+    {
+        "name": "Береза",
+        "latitude": 47.69746,
+        "longitude": 21.91878
+    },
+    {
+        "name": "Прогулка Ньирадонь",
+        "latitude": 47.57873,
+        "longitude": 22.01381
+    },
+    {
+        "name": "деревня Ньирмартон",
+        "latitude": 47.58333,
+        "longitude": 21.9
+    },
+    {
+        "name": "Возможности",
+        "latitude": 47.28333,
+        "longitude": 21.81667
+    },
+    {
+        "name": "Гражданин",
+        "latitude": 47.86667,
+        "longitude": 21.11667
+    },
+    {
+        "name": "Епископский дом",
+        "latitude": 47.31667,
+        "longitude": 21.11667
+    },
+    {
+        "name": "Пюспекклад Ярас",
+        "latitude": 47.31279,
+        "longitude": 21.21177
+    },
+    {
+        "name": "Вы хотите",
+        "latitude": 47.4,
+        "longitude": 21.63333
+    },
+    {
+        "name": "Грязевой двор",
+        "latitude": 47.23333,
+        "longitude": 21.2
+    },
+    {
+        "name": "Кирпичная кладка",
+        "latitude": 47.71667,
+        "longitude": 21.68333
+    },
+    {
+        "name": "Тисачеге",
+        "latitude": 47.7,
+        "longitude": 21.0
+    },
+    {
+        "name": "Таможенное оформление",
+        "latitude": 47.53333,
+        "longitude": 21.9
+    },
+    {
+        "name": "Абасар",
+        "latitude": 47.79705,
+        "longitude": 20.00324
+    },
+    {
+        "name": "Пожертвование",
+        "latitude": 47.6921,
+        "longitude": 19.97696
+    },
+    {
+        "name": "Андронакталая",
+        "latitude": 47.85,
+        "longitude": 20.41667
+    },
+    {
+        "name": "БТР",
+        "latitude": 47.79419,
+        "longitude": 19.69429
+    },
+    {
+        "name": "деревня Белапат",
+        "latitude": 48.05,
+        "longitude": 20.36667
+    },
+    {
+        "name": "Прогулка по Белапатфальве",
+        "latitude": 48.06386,
+        "longitude": 20.36163
+    },
+    {
+        "name": "я проникну в тебя",
+        "latitude": 47.7,
+        "longitude": 20.43333
+    },
+    {
+        "name": "Счастливый",
+        "latitude": 47.60285,
+        "longitude": 19.68839
+    },
+    {
+        "name": "Чань",
+        "latitude": 47.64829,
+        "longitude": 19.82972
+    },
+    {
+        "name": "Домусло",
+        "latitude": 47.83333,
+        "longitude": 20.11667
+    },
+    {
+        "name": "Сбежал",
+        "latitude": 47.73267,
+        "longitude": 19.76696
+    },
+    {
+        "name": "Эгер",
+        "latitude": 47.90265,
+        "longitude": 20.37329
+    },
+    {
+        "name": "Эгерсалок",
+        "latitude": 47.86667,
+        "longitude": 20.33333
+    },
+    {
+        "name": "Эгри Харас",
+        "latitude": 47.92961,
+        "longitude": 20.37383
+    },
+    {
+        "name": "Лесной участок",
+        "latitude": 47.68333,
+        "longitude": 20.31667
+    },
+    {
+        "name": "Верхний Дракон",
+        "latitude": 47.96667,
+        "longitude": 20.41667
+    },
+    {
+        "name": "Фюзесабони",
+        "latitude": 47.75,
+        "longitude": 20.41667
+    },
+    {
+        "name": "Прогулка по Фюзесабоньи",
+        "latitude": 47.72671,
+        "longitude": 20.42875
+    },
+    {
+        "name": "Жемчужный",
+        "latitude": 47.78257,
+        "longitude": 19.928
+    },
+    {
+        "name": "Рыбак жемчуга",
+        "latitude": 47.74161,
+        "longitude": 19.92876
+    },
+    {
+        "name": "Дьёндьёши Ярош",
+        "latitude": 47.79079,
+        "longitude": 19.9543
+    },
+    {
+        "name": "Лопата жемчуга",
+        "latitude": 47.81505,
+        "longitude": 19.78925
+    },
+    {
+        "name": "Сапсан",
+        "latitude": 47.81724,
+        "longitude": 19.93619
+    },
+    {
+        "name": "На своем жемчуге",
+        "latitude": 47.81369,
+        "longitude": 19.86724
+    },
+    {
+        "name": "Шестьдесят",
+        "latitude": 47.66667,
+        "longitude": 19.68333
+    },
+    {
+        "name": "Хатвани Ярас",
+        "latitude": 47.69468,
+        "longitude": 19.72852
+    },
+    {
+        "name": "Херед",
+        "latitude": 47.70638,
+        "longitude": 19.63314
+    },
+    {
+        "name": "Яростный",
+        "latitude": 47.6,
+        "longitude": 20.28333
+    },
+    {
+        "name": "Насильственная ходьба",
+        "latitude": 47.61535,
+        "longitude": 20.31739
+    },
+    {
+        "name": "Хорт",
+        "latitude": 47.69081,
+        "longitude": 19.7893
+    },
+    {
+        "name": "Капуста",
+        "latitude": 47.73333,
+        "longitude": 20.26667
+    },
+    {
+        "name": "Рождество",
+        "latitude": 47.72962,
+        "longitude": 20.03076
+    },
+    {
+        "name": "Тишина",
+        "latitude": 47.8,
+        "longitude": 20.35
+    },
+    {
+        "name": "Чик хор",
+        "latitude": 47.5,
+        "longitude": 20.5
+    },
+    {
+        "name": "Компольт",
+        "latitude": 47.73333,
+        "longitude": 20.25
+    },
+    {
+        "name": "Лоринчи",
+        "latitude": 47.73295,
+        "longitude": 19.67867
+    },
+    {
+        "name": "Маклер",
+        "latitude": 47.8,
+        "longitude": 20.41667
+    },
+    {
+        "name": "Матрадерексе",
+        "latitude": 47.95,
+        "longitude": 20.08333
+    },
+    {
+        "name": "Это здорово",
+        "latitude": 47.76543,
+        "longitude": 19.84819
+    },
+    {
+        "name": "Хлыстовая травма",
+        "latitude": 47.86667,
+        "longitude": 20.43333
+    },
+    {
+        "name": "Большой",
+        "latitude": 47.92323,
+        "longitude": 20.02972
+    },
+    {
+        "name": "Парадсасвар",
+        "latitude": 47.9126,
+        "longitude": 19.97709
+    },
+    {
+        "name": "в Петербург",
+        "latitude": 48.01667,
+        "longitude": 20.1
+    },
+    {
+        "name": "Петервасара Харас",
+        "latitude": 48.00589,
+        "longitude": 20.09466
+    },
+    {
+        "name": "Петефибанья",
+        "latitude": 47.7696,
+        "longitude": 19.69988
+    },
+    {
+        "name": "Дастер",
+        "latitude": 47.65,
+        "longitude": 20.66667
+    },
+    {
+        "name": "Визг",
+        "latitude": 47.93333,
+        "longitude": 20.11667
+    },
+    {
+        "name": "Розсасентмартон",
+        "latitude": 47.782,
+        "longitude": 19.7421
+    },
+    {
+        "name": "Подвал",
+        "latitude": 47.93333,
+        "longitude": 20.2
+    },
+    {
+        "name": "Вздох",
+        "latitude": 47.76667,
+        "longitude": 20.48333
+    },
+    {
+        "name": "Сильвашварад",
+        "latitude": 48.1,
+        "longitude": 20.4
+    },
+    {
+        "name": "ты будешь тренировать меня",
+        "latitude": 48.05,
+        "longitude": 20.18333
+    },
+    {
+        "name": "Тарнайорс",
+        "latitude": 47.59499,
+        "longitude": 20.05254
+    },
+    {
+        "name": "Тиссана",
+        "latitude": 47.56667,
+        "longitude": 20.53333
+    },
+    {
+        "name": "Вамошдьёрк",
+        "latitude": 47.68429,
+        "longitude": 19.92924
+    },
+    {
+        "name": "Отвали",
+        "latitude": 47.85,
+        "longitude": 20.23333
+    },
+    {
+        "name": "Шлаковый плуг",
+        "latitude": 47.77703,
+        "longitude": 19.67092
+    },
+    {
+        "name": "Абдсалос",
+        "latitude": 47.46667,
+        "longitude": 20.6
+    },
+    {
+        "name": "Под",
+        "latitude": 47.42705,
+        "longitude": 20.04219
+    },
+    {
+        "name": "Угол Бесеньи",
+        "latitude": 47.3,
+        "longitude": 20.26667
+    },
+    {
+        "name": "Хижина дом",
+        "latitude": 46.95976,
+        "longitude": 20.19753
+    },
+    {
+        "name": "Индюшачий виноград",
+        "latitude": 46.8632,
+        "longitude": 20.18701
+    },
+    {
+        "name": "Они вооружены",
+        "latitude": 47.26667,
+        "longitude": 20.53333
+    },
+    {
+        "name": "Яношида",
+        "latitude": 47.38333,
+        "longitude": 20.06667
+    },
+    {
+        "name": "Ясалсхосентдьёрдь",
+        "latitude": 47.36667,
+        "longitude": 20.1
+    },
+    {
+        "name": "Ясапати",
+        "latitude": 47.51667,
+        "longitude": 20.15
+    },
+    {
+        "name": "Ясапат Ярас",
+        "latitude": 47.46126,
+        "longitude": 20.06567
+    },
+    {
+        "name": "Ясароксаллаш",
+        "latitude": 47.64238,
+        "longitude": 19.98038
+    },
+    {
+        "name": "Ясберень",
+        "latitude": 47.5,
+        "longitude": 19.91667
+    },
+    {
+        "name": "Ясберень Ярас",
+        "latitude": 47.565,
+        "longitude": 19.86887
+    },
+    {
+        "name": "Ясждожа",
+        "latitude": 47.5661,
+        "longitude": 20.01534
+    },
+    {
+        "name": "Куча камней",
+        "latitude": 47.52038,
+        "longitude": 19.99086
+    },
+    {
+        "name": "Яшкисер",
+        "latitude": 47.45,
+        "longitude": 20.21667
+    },
+    {
+        "name": "Ясладани",
+        "latitude": 47.36667,
+        "longitude": 20.16667
+    },
+    {
+        "name": "Яссентандрас",
+        "latitude": 47.58333,
+        "longitude": 20.18333
+    },
+    {
+        "name": "Скелет",
+        "latitude": 47.31667,
+        "longitude": 20.93333
+    },
+    {
+        "name": "Ходьба конечностями",
+        "latitude": 47.28583,
+        "longitude": 20.84218
+    },
+    {
+        "name": "Конопля",
+        "latitude": 47.25,
+        "longitude": 20.68333
+    },
+    {
+        "name": "Стремя",
+        "latitude": 47.08333,
+        "longitude": 20.33333
+    },
+    {
+        "name": "Небольшое размещение",
+        "latitude": 47.21667,
+        "longitude": 20.76667
+    },
+    {
+        "name": "Это указано",
+        "latitude": 47.36667,
+        "longitude": 20.63333
+    },
+    {
+        "name": "Прогулка Кунхегес",
+        "latitude": 47.40329,
+        "longitude": 20.59199
+    },
+    {
+        "name": "Кунмадарас",
+        "latitude": 47.43333,
+        "longitude": 20.8
+    },
+    {
+        "name": "Кунсентмартон",
+        "latitude": 46.83916,
+        "longitude": 20.28879
+    },
+    {
+        "name": "Прогулка по Кунсентмартону",
+        "latitude": 46.87698,
+        "longitude": 20.25179
+    },
+    {
+        "name": "Экскурсия",
+        "latitude": 47.0,
+        "longitude": 20.63333
+    },
+    {
+        "name": "Экскурсия",
+        "latitude": 47.02495,
+        "longitude": 20.59046
+    },
+    {
+        "name": "Твой младший брат",
+        "latitude": 46.9,
+        "longitude": 20.4
+    },
+    {
+        "name": "Поедание крабов",
+        "latitude": 47.08333,
+        "longitude": 20.23333
+    },
+    {
+        "name": "Ракоциуйфалу",
+        "latitude": 47.06667,
+        "longitude": 20.26667
+    },
+    {
+        "name": "Сайол",
+        "latitude": 47.18333,
+        "longitude": 20.3
+    },
+    {
+        "name": "Кусочек",
+        "latitude": 46.80259,
+        "longitude": 20.20283
+    },
+    {
+        "name": "Сольнок",
+        "latitude": 47.18333,
+        "longitude": 20.2
+    },
+    {
+        "name": "Сольнок Прогулка",
+        "latitude": 47.2248,
+        "longitude": 20.19839
+    },
+    {
+        "name": "Тисабо",
+        "latitude": 47.3,
+        "longitude": 20.48333
+    },
+    {
+        "name": "Тисабура",
+        "latitude": 47.45,
+        "longitude": 20.46667
+    },
+    {
+        "name": "Тисафельдвар",
+        "latitude": 46.98333,
+        "longitude": 20.25
+    },
+    {
+        "name": "Тисафюред",
+        "latitude": 47.61667,
+        "longitude": 20.76667
+    },
+    {
+        "name": "Тисафюред Харас",
+        "latitude": 47.53907,
+        "longitude": 20.78879
+    },
+    {
+        "name": "Тисапёки",
+        "latitude": 47.21667,
+        "longitude": 20.31667
+    },
+    {
+        "name": "Тисаров",
+        "latitude": 47.4,
+        "longitude": 20.45
+    },
+    {
+        "name": "Тисасулы",
+        "latitude": 47.38333,
+        "longitude": 20.4
+    },
+    {
+        "name": "Тисасентим",
+        "latitude": 47.48333,
+        "longitude": 20.73333
+    },
+    {
+        "name": "Это виноград",
+        "latitude": 47.55707,
+        "longitude": 20.71949
+    },
+    {
+        "name": "Тероксентмиклош",
+        "latitude": 47.18333,
+        "longitude": 20.41667
+    },
+    {
+        "name": "Прогулка Тёрёксентмиклош",
+        "latitude": 47.18209,
+        "longitude": 20.44859
+    },
+    {
+        "name": "Тосег",
+        "latitude": 47.1,
+        "longitude": 20.15
+    },
+    {
+        "name": "Туркеве",
+        "latitude": 47.1,
+        "longitude": 20.75
+    },
+    {
+        "name": "Новый Саксон",
+        "latitude": 47.3,
+        "longitude": 20.08333
+    },
+    {
+        "name": "суспензия",
+        "latitude": 47.26667,
+        "longitude": 20.13333
+    },
+    {
+        "name": "Плотник",
+        "latitude": 47.71,
+        "longitude": 18.01555556
+    },
+    {
+        "name": "он же",
+        "latitude": 47.40206944,
+        "longitude": 18.07163056
+    },
+    {
+        "name": "Яблочная соковыжималка",
+        "latitude": 47.7287,
+        "longitude": 18.25538889
+    },
+    {
+        "name": "Асар",
+        "latitude": 47.5095,
+        "longitude": 18.00313889
+    },
+    {
+        "name": "Марионетка",
+        "latitude": 47.64166667,
+        "longitude": 17.97861111
+    },
+    {
+        "name": "Беда",
+        "latitude": 47.72722222,
+        "longitude": 18.55583333
+    },
+    {
+        "name": "Баки банк",
+        "latitude": 47.46548056,
+        "longitude": 17.90243056
+    },
+    {
+        "name": "Рогатый дракон",
+        "latitude": 47.44851944,
+        "longitude": 18.09916111
+    },
+    {
+        "name": "Баконисомбатхей",
+        "latitude": 47.47208056,
+        "longitude": 17.96018056
+    },
+    {
+        "name": "Мне",
+        "latitude": 47.64986111,
+        "longitude": 17.92116944
+    },
+    {
+        "name": "Банида",
+        "latitude": 47.57111111,
+        "longitude": 18.38611111
+    },
+    {
+        "name": "Бархатистый",
+        "latitude": 47.5114,
+        "longitude": 17.91896944
+    },
+    {
+        "name": "Император",
+        "latitude": 47.50203056,
+        "longitude": 18.14206111
+    },
+    {
+        "name": "Цатка",
+        "latitude": 47.38031944,
+        "longitude": 17.97628889
+    },
+    {
+        "name": "Ребенок",
+        "latitude": 47.68118056,
+        "longitude": 18.08686111
+    },
+    {
+        "name": "Хороший",
+        "latitude": 47.57863056,
+        "longitude": 18.06365
+    },
+    {
+        "name": "я сапожник",
+        "latitude": 47.69346944,
+        "longitude": 18.71303889
+    },
+    {
+        "name": "Папа",
+        "latitude": 47.51881111,
+        "longitude": 18.22463056
+    },
+    {
+        "name": "Даг",
+        "latitude": 47.6625,
+        "longitude": 18.72
+    },
+    {
+        "name": "Демо",
+        "latitude": 47.7648,
+        "longitude": 18.91436944
+    },
+    {
+        "name": "Он булькает",
+        "latitude": 47.72095,
+        "longitude": 18.73641
+    },
+    {
+        "name": "Дунайское яблоко",
+        "latitude": 47.72961111,
+        "longitude": 18.3217
+    },
+    {
+        "name": "Дунасентмиклош",
+        "latitude": 47.70566944,
+        "longitude": 18.37958056
+    },
+    {
+        "name": "Эпель",
+        "latitude": 47.64708056,
+        "longitude": 18.63558056
+    },
+    {
+        "name": "Эстергом",
+        "latitude": 47.78555556,
+        "longitude": 18.74027778
+    },
+    {
+        "name": "Эте",
+        "latitude": 47.53168889,
+        "longitude": 18.07201111
+    },
+    {
+        "name": "Ребенок",
+        "latitude": 47.59186944,
+        "longitude": 18.64178056
+    },
+    {
+        "name": "Херег",
+        "latitude": 47.64703056,
+        "longitude": 18.51063889
+    },
+    {
+        "name": "Твоя коза",
+        "latitude": 47.52311111,
+        "longitude": 18.30683056
+    },
+    {
+        "name": "Езда на велосипеде",
+        "latitude": 47.51635,
+        "longitude": 17.93891944
+    },
+    {
+        "name": "Рисование воронки",
+        "latitude": 47.71358056,
+        "longitude": 18.7952
+    },
+    {
+        "name": "Маленькая зарплата",
+        "latitude": 47.50166667,
+        "longitude": 18.02666667
+    },
+    {
+        "name": "Маленький Сигизмунд",
+        "latitude": 47.6544,
+        "longitude": 18.0971
+    },
+    {
+        "name": "Перевозка",
+        "latitude": 47.60668056,
+        "longitude": 18.21536111
+    },
+    {
+        "name": "Мой комар",
+        "latitude": 47.74318,
+        "longitude": 18.11913
+    },
+    {
+        "name": "Ты мочишься",
+        "latitude": 47.54678056,
+        "longitude": 18.26048056
+    },
+    {
+        "name": "Окружение",
+        "latitude": 47.54533889,
+        "longitude": 18.32696944
+    },
+    {
+        "name": "Безногий",
+        "latitude": 47.74694444,
+        "longitude": 18.49611111
+    },
+    {
+        "name": "Девичий замок",
+        "latitude": 47.68268056,
+        "longitude": 18.7702
+    },
+    {
+        "name": "Мариахалом",
+        "latitude": 47.62746944,
+        "longitude": 18.7076
+    },
+    {
+        "name": "двигаться",
+        "latitude": 47.6712,
+        "longitude": 18.18465
+    },
+    {
+        "name": "Фундуковый рудник",
+        "latitude": 47.72806,
+        "longitude": 18.60351
+    },
+    {
+        "name": "Дед",
+        "latitude": 47.63253056,
+        "longitude": 18.05568889
+    },
+    {
+        "name": "Большое болото",
+        "latitude": 47.68481111,
+        "longitude": 18.60163056
+    },
+    {
+        "name": "Нашали",
+        "latitude": 47.69873056,
+        "longitude": 18.26075
+    },
+    {
+        "name": "Это личное",
+        "latitude": 47.7329,
+        "longitude": 18.3451
+    },
+    {
+        "name": "Ньергесуйфалу",
+        "latitude": 47.76027778,
+        "longitude": 18.55666667
+    },
+    {
+        "name": "Львица",
+        "latitude": 47.48916667,
+        "longitude": 18.31638889
+    },
+    {
+        "name": "Пилишцев",
+        "latitude": 47.6771,
+        "longitude": 18.81488889
+    },
+    {
+        "name": "Пилигрим-гриндер",
+        "latitude": 47.78403889,
+        "longitude": 18.87551944
+    },
+    {
+        "name": "Реде",
+        "latitude": 47.43058056,
+        "longitude": 17.91865
+    },
+    {
+        "name": "Грязевая яма",
+        "latitude": 47.67465278,
+        "longitude": 18.68096944
+    },
+    {
+        "name": "Кислый",
+        "latitude": 47.37083889,
+        "longitude": 18.02876111
+    },
+    {
+        "name": "Печь",
+        "latitude": 47.75675,
+        "longitude": 18.44145
+    },
+    {
+        "name": "Сзаксенд",
+        "latitude": 47.55713056,
+        "longitude": 18.16313056
+    },
+    {
+        "name": "Сомод",
+        "latitude": 47.68253,
+        "longitude": 18.3418
+    },
+    {
+        "name": "Грусть",
+        "latitude": 47.59305,
+        "longitude": 18.66328889
+    },
+    {
+        "name": "Ковер",
+        "latitude": 47.73333333,
+        "longitude": 18.16666667
+    },
+    {
+        "name": "Это длится",
+        "latitude": 47.6618,
+        "longitude": 18.44358
+    },
+    {
+        "name": "На его стороне",
+        "latitude": 47.61055556,
+        "longitude": 18.51083333
+    },
+    {
+        "name": "Дракон",
+        "latitude": 47.59135,
+        "longitude": 18.00366111
+    },
+    {
+        "name": "Татабаня",
+        "latitude": 47.58616,
+        "longitude": 18.39485
+    },
+    {
+        "name": "Хранение кейсов",
+        "latitude": 47.7339,
+        "longitude": 18.68946
+    },
+    {
+        "name": "Союз",
+        "latitude": 47.64246944,
+        "longitude": 18.73786944
+    },
+    {
+        "name": "Ожидающий",
+        "latitude": 47.47526944,
+        "longitude": 18.39731944
+    },
+    {
+        "name": "Вертескетели",
+        "latitude": 47.48721111,
+        "longitude": 18.08346944
+    },
+    {
+        "name": "Свертывание крови",
+        "latitude": 47.50973889,
+        "longitude": 18.36705
+    },
+    {
+        "name": "Кровавый виноград",
+        "latitude": 47.61883889,
+        "longitude": 18.3803
+    },
+    {
+        "name": "Анализ крови",
+        "latitude": 47.62838889,
+        "longitude": 18.45643889
+    },
+    {
+        "name": "Колония Баласса",
+        "latitude": 48.07296,
+        "longitude": 19.29614
+    },
+    {
+        "name": "Прогулка Балассадьярмати",
+        "latitude": 48.01657,
+        "longitude": 19.30594
+    },
+    {
+        "name": "Батонитерен",
+        "latitude": 47.96962,
+        "longitude": 19.84076
+    },
+    {
+        "name": "Батонитереней Прогулка",
+        "latitude": 47.97691,
+        "longitude": 19.87345
+    },
+    {
+        "name": "Берсель",
+        "latitude": 47.87057,
+        "longitude": 19.40715
+    },
+    {
+        "name": "похотливый",
+        "latitude": 47.88352,
+        "longitude": 19.54381
+    },
+    {
+        "name": "Щелкунчик",
+        "latitude": 47.93968,
+        "longitude": 19.04317
+    },
+    {
+        "name": "Дикий сад архиепископа",
+        "latitude": 47.99619,
+        "longitude": 19.20231
+    },
+    {
+        "name": "Привет",
+        "latitude": 47.78017,
+        "longitude": 19.58519
+    },
+    {
+        "name": "Джоббадьи",
+        "latitude": 47.83238,
+        "longitude": 19.67762
+    },
+    {
+        "name": "Каранкеси",
+        "latitude": 48.16353,
+        "longitude": 19.69686
+    },
+    {
+        "name": "Обжимная ручка",
+        "latitude": 48.15,
+        "longitude": 19.73333
+    },
+    {
+        "name": "Хазар",
+        "latitude": 48.04952,
+        "longitude": 19.86143
+    },
+    {
+        "name": "Матрановак",
+        "latitude": 48.03809,
+        "longitude": 19.98257
+    },
+    {
+        "name": "Матратерен",
+        "latitude": 48.03267,
+        "longitude": 19.94762
+    },
+    {
+        "name": "Варикозное расширение вен Матры",
+        "latitude": 47.97421,
+        "longitude": 19.78049
+    },
+    {
+        "name": "Великий русский",
+        "latitude": 48.00503,
+        "longitude": 19.0905
+    },
+    {
+        "name": "Дворец",
+        "latitude": 47.79528,
+        "longitude": 19.59618
+    },
+    {
+        "name": "пушту",
+        "latitude": 47.92019,
+        "longitude": 19.69829
+    },
+    {
+        "name": "Пастушья прогулка",
+        "latitude": 47.87012,
+        "longitude": 19.60648
+    },
+    {
+        "name": "Это позор",
+        "latitude": 47.92816,
+        "longitude": 19.1372
+    },
+    {
+        "name": "Ужасная прогулка",
+        "latitude": 47.91741,
+        "longitude": 19.16101
+    },
+    {
+        "name": "Римок",
+        "latitude": 48.03695,
+        "longitude": 19.5301
+    },
+    {
+        "name": "Куча щебня",
+        "latitude": 47.92618,
+        "longitude": 19.25723
+    },
+    {
+        "name": "Салготарьян",
+        "latitude": 48.09872,
+        "longitude": 19.80303
+    },
+    {
+        "name": "Прогулка по Шальготарьяну",
+        "latitude": 48.10048,
+        "longitude": 19.81548
+    },
+    {
+        "name": "Сомоскьюифалу",
+        "latitude": 48.16374,
+        "longitude": 19.82303
+    },
+    {
+        "name": "Сечени",
+        "latitude": 48.08057,
+        "longitude": 19.52019
+    },
+    {
+        "name": "Сеченьи Харас",
+        "latitude": 48.07301,
+        "longitude": 19.55156
+    },
+    {
+        "name": "Епископское ущелье",
+        "latitude": 47.85923,
+        "longitude": 19.69218
+    },
+    {
+        "name": "Деготь",
+        "latitude": 47.95371,
+        "longitude": 19.7461
+    },
+    {
+        "name": "Абони",
+        "latitude": 47.1899,
+        "longitude": 20.00476
+    },
+    {
+        "name": "Акса",
+        "latitude": 47.79425,
+        "longitude": 19.38795
+    },
+    {
+        "name": "Альбертирса",
+        "latitude": 47.24315,
+        "longitude": 19.61686
+    },
+    {
+        "name": "Нижненемецкий",
+        "latitude": 47.31524,
+        "longitude": 19.15843
+    },
+    {
+        "name": "Азод",
+        "latitude": 47.65174,
+        "longitude": 19.4785
+    },
+    {
+        "name": "Асод Уок",
+        "latitude": 47.64738,
+        "longitude": 19.5424
+    },
+    {
+        "name": "Сумка",
+        "latitude": 47.63333,
+        "longitude": 19.48333
+    },
+    {
+        "name": "Биаторбадь",
+        "latitude": 47.4706,
+        "longitude": 18.81892
+    },
+    {
+        "name": "Будакалас",
+        "latitude": 47.61667,
+        "longitude": 19.05
+    },
+    {
+        "name": "Будакеси",
+        "latitude": 47.51083,
+        "longitude": 18.92717
+    },
+    {
+        "name": "Будакеси Прогулка",
+        "latitude": 47.49788,
+        "longitude": 18.8498
+    },
+    {
+        "name": "Ну давай же",
+        "latitude": 47.46181,
+        "longitude": 18.95845
+    },
+    {
+        "name": "Трусики",
+        "latitude": 47.22748,
+        "longitude": 19.14664
+    },
+    {
+        "name": "Кирпичный сок",
+        "latitude": 47.17266,
+        "longitude": 19.79952
+    },
+    {
+        "name": "Сегледберсель",
+        "latitude": 47.2237,
+        "longitude": 19.66828
+    },
+    {
+        "name": "Чегледи-Вок",
+        "latitude": 47.2,
+        "longitude": 19.82463
+    },
+    {
+        "name": "Малыш",
+        "latitude": 47.11799,
+        "longitude": 19.69092
+    },
+    {
+        "name": "Чобанка",
+        "latitude": 47.64637,
+        "longitude": 18.96189
+    },
+    {
+        "name": "Комок",
+        "latitude": 47.55,
+        "longitude": 19.23333
+    },
+    {
+        "name": "Природа",
+        "latitude": 47.18594,
+        "longitude": 19.31091
+    },
+    {
+        "name": "Дабаси Уок",
+        "latitude": 47.19,
+        "longitude": 19.33
+    },
+    {
+        "name": "Дансентмиклош",
+        "latitude": 47.21486,
+        "longitude": 19.54695
+    },
+    {
+        "name": "Данный",
+        "latitude": 47.52,
+        "longitude": 19.544
+    },
+    {
+        "name": "Южная церковь",
+        "latitude": 47.24135,
+        "longitude": 19.09019
+    },
+    {
+        "name": "Чокнутый",
+        "latitude": 47.4095,
+        "longitude": 18.94898
+    },
+    {
+        "name": "Домони",
+        "latitude": 47.65552,
+        "longitude": 19.43229
+    },
+    {
+        "name": "Ты пухлый",
+        "latitude": 47.09005,
+        "longitude": 19.01106
+    },
+    {
+        "name": "Дунабогданцы",
+        "latitude": 47.79052,
+        "longitude": 19.04125
+    },
+    {
+        "name": "Дунахарасти",
+        "latitude": 47.3545,
+        "longitude": 19.09822
+    },
+    {
+        "name": "Дунакеси",
+        "latitude": 47.63641,
+        "longitude": 19.13864
+    },
+    {
+        "name": "Прогулка Дунакеси",
+        "latitude": 47.63365,
+        "longitude": 19.16254
+    },
+    {
+        "name": "Дунаваршань",
+        "latitude": 47.27859,
+        "longitude": 19.06617
+    },
+    {
+        "name": "Эсер",
+        "latitude": 47.44389,
+        "longitude": 19.3245
+    },
+    {
+        "name": "Стоило того",
+        "latitude": 47.39489,
+        "longitude": 18.91361
+    },
+    {
+        "name": "Эрди Ярош",
+        "latitude": 47.356,
+        "longitude": 18.90167
+    },
+    {
+        "name": "Лесной садовник",
+        "latitude": 47.67261,
+        "longitude": 19.30786
+    },
+    {
+        "name": "Фермы",
+        "latitude": 47.36067,
+        "longitude": 19.84619
+    },
+    {
+        "name": "Верхнее покрытие",
+        "latitude": 47.34329,
+        "longitude": 19.23698
+    },
+    {
+        "name": "Жарко",
+        "latitude": 47.45504,
+        "longitude": 19.66001
+    },
+    {
+        "name": "Ступня",
+        "latitude": 47.6177,
+        "longitude": 19.1887
+    },
+    {
+        "name": "Гальгаевиз",
+        "latitude": 47.61667,
+        "longitude": 19.56667
+    },
+    {
+        "name": "Гальгамача",
+        "latitude": 47.69562,
+        "longitude": 19.38724
+    },
+    {
+        "name": "Яма",
+        "latitude": 47.68324,
+        "longitude": 19.13417
+    },
+    {
+        "name": "Гойольо",
+        "latitude": 47.59657,
+        "longitude": 19.35515
+    },
+    {
+        "name": "Гойёллё Харас",
+        "latitude": 47.55127,
+        "longitude": 19.39595
+    },
+    {
+        "name": "Гриб",
+        "latitude": 47.37095,
+        "longitude": 19.53057
+    },
+    {
+        "name": "Все в порядке",
+        "latitude": 47.38449,
+        "longitude": 19.2214
+    },
+    {
+        "name": "Дьяли Ярош",
+        "latitude": 47.36821,
+        "longitude": 19.27543
+    },
+    {
+        "name": "Домрё",
+        "latitude": 47.42733,
+        "longitude": 19.40133
+    },
+    {
+        "name": "я тебя поймал",
+        "latitude": 47.36173,
+        "longitude": 18.98119
+    },
+    {
+        "name": "Эрнад",
+        "latitude": 47.16238,
+        "longitude": 19.43295
+    },
+    {
+        "name": "Хевизджорк",
+        "latitude": 47.63333,
+        "longitude": 19.51667
+    },
+    {
+        "name": "Одетый",
+        "latitude": 47.66533,
+        "longitude": 19.4361
+    },
+    {
+        "name": "Инаркс",
+        "latitude": 47.262,
+        "longitude": 19.327
+    },
+    {
+        "name": "Исасег",
+        "latitude": 47.53011,
+        "longitude": 19.40205
+    },
+    {
+        "name": "Яшкаранё",
+        "latitude": 47.05,
+        "longitude": 20.06667
+    },
+    {
+        "name": "Какуч",
+        "latitude": 47.242,
+        "longitude": 19.36467
+    },
+    {
+        "name": "Орел",
+        "latitude": 47.67133,
+        "longitude": 19.542
+    },
+    {
+        "name": "Закругленный",
+        "latitude": 47.56008,
+        "longitude": 19.28289
+    },
+    {
+        "name": "Кискунлачаза",
+        "latitude": 47.18839,
+        "longitude": 19.0093
+    },
+    {
+        "name": "Кисмарос",
+        "latitude": 47.83742,
+        "longitude": 19.00463
+    },
+    {
+        "name": "Маленькая звезда",
+        "latitude": 47.54757,
+        "longitude": 19.26247
+    },
+    {
+        "name": "Перевозка",
+        "latitude": 47.00165,
+        "longitude": 19.92067
+    },
+    {
+        "name": "Кокс",
+        "latitude": 47.48552,
+        "longitude": 19.57876
+    },
+    {
+        "name": "Косд",
+        "latitude": 47.80791,
+        "longitude": 19.17821
+    },
+    {
+        "name": "Леаньфалу",
+        "latitude": 47.71778,
+        "longitude": 19.08585
+    },
+    {
+        "name": "Ваше ядро",
+        "latitude": 47.44258,
+        "longitude": 19.36438
+    },
+    {
+        "name": "Века",
+        "latitude": 47.43133,
+        "longitude": 19.45628
+    },
+    {
+        "name": "Ты спятил",
+        "latitude": 47.59748,
+        "longitude": 19.2407
+    },
+    {
+        "name": "Монор",
+        "latitude": 47.35133,
+        "longitude": 19.44733
+    },
+    {
+        "name": "Монори Уок",
+        "latitude": 47.3499,
+        "longitude": 19.4768
+    },
+    {
+        "name": "Надьката",
+        "latitude": 47.41514,
+        "longitude": 19.7441
+    },
+    {
+        "name": "Надьката Харас",
+        "latitude": 47.39109,
+        "longitude": 19.7392
+    },
+    {
+        "name": "Надьешь",
+        "latitude": 47.03419,
+        "longitude": 19.77857
+    },
+    {
+        "name": "Надькероши Ярас",
+        "latitude": 47.03563,
+        "longitude": 19.79259
+    },
+    {
+        "name": "Надьковачи",
+        "latitude": 47.65,
+        "longitude": 19.01667
+    },
+    {
+        "name": "Надьмарош",
+        "latitude": 47.7928,
+        "longitude": 18.95984
+    },
+    {
+        "name": "Отличный диск",
+        "latitude": 47.53128,
+        "longitude": 19.28343
+    },
+    {
+        "name": "Летняя церковь",
+        "latitude": 47.26175,
+        "longitude": 19.50146
+    },
+    {
+        "name": "Старомодный",
+        "latitude": 47.29986,
+        "longitude": 19.23057
+    },
+    {
+        "name": "На Орботтие",
+        "latitude": 47.68711,
+        "longitude": 19.28239
+    },
+    {
+        "name": "Это коротко",
+        "latitude": 47.12991,
+        "longitude": 19.43324
+    },
+    {
+        "name": "Панда",
+        "latitude": 47.35333,
+        "longitude": 19.63571
+    },
+    {
+        "name": "Пати",
+        "latitude": 47.51709,
+        "longitude": 18.82851
+    },
+    {
+        "name": "Песель",
+        "latitude": 47.48962,
+        "longitude": 19.34162
+    },
+    {
+        "name": "Пербал",
+        "latitude": 47.58957,
+        "longitude": 18.76099
+    },
+    {
+        "name": "Питера",
+        "latitude": 47.39104,
+        "longitude": 19.40981
+    },
+    {
+        "name": "Замок",
+        "latitude": 47.28904,
+        "longitude": 19.54848
+    },
+    {
+        "name": "Пилишская винная девушка",
+        "latitude": 47.60744,
+        "longitude": 18.99322
+    },
+    {
+        "name": "Пилишчаба",
+        "latitude": 47.63417,
+        "longitude": 18.82886
+    },
+    {
+        "name": "Плуг-пилигрим",
+        "latitude": 47.66909,
+        "longitude": 18.88762
+    },
+    {
+        "name": "Пилиссентиван",
+        "latitude": 47.60964,
+        "longitude": 18.8994
+    },
+    {
+        "name": "Пилишсент Крест",
+        "latitude": 47.69143,
+        "longitude": 18.90503
+    },
+    {
+        "name": "Пилисворёшвар",
+        "latitude": 47.61386,
+        "longitude": 18.90893
+    },
+    {
+        "name": "Прогулка по Пилишвёрёшвару",
+        "latitude": 47.60925,
+        "longitude": 18.86658
+    },
+    {
+        "name": "Помада",
+        "latitude": 47.64227,
+        "longitude": 19.02784
+    },
+    {
+        "name": "Рак",
+        "latitude": 47.16095,
+        "longitude": 18.94478
+    },
+    {
+        "name": "Рацкевей Ярас",
+        "latitude": 47.15158,
+        "longitude": 19.01456
+    },
+    {
+        "name": "Сокольничий",
+        "latitude": 47.59246,
+        "longitude": 18.93212
+    },
+    {
+        "name": "Блюдце",
+        "latitude": 47.40665,
+        "longitude": 18.82247
+    },
+    {
+        "name": "Борщевик",
+        "latitude": 47.45206,
+        "longitude": 19.53369
+    },
+    {
+        "name": "Сада",
+        "latitude": 47.63333,
+        "longitude": 19.31667
+    },
+    {
+        "name": "Сто стопок",
+        "latitude": 47.32949,
+        "longitude": 18.93878
+    },
+    {
+        "name": "Сентендре",
+        "latitude": 47.66943,
+        "longitude": 19.07561
+    },
+    {
+        "name": "Сентендре Ярош",
+        "latitude": 47.71146,
+        "longitude": 19.02524
+    },
+    {
+        "name": "Сентлоринската",
+        "latitude": 47.51947,
+        "longitude": 19.75286
+    },
+    {
+        "name": "Сентмартонката",
+        "latitude": 47.45419,
+        "longitude": 19.70143
+    },
+    {
+        "name": "Выбор острова",
+        "latitude": 47.26492,
+        "longitude": 18.97048
+    },
+    {
+        "name": "Куча островов",
+        "latitude": 47.32228,
+        "longitude": 19.00262
+    },
+    {
+        "name": "Сигетсентмиклош",
+        "latitude": 47.34382,
+        "longitude": 19.04335
+    },
+    {
+        "name": "Прогулка по Сигетсентмиклошу",
+        "latitude": 47.30566,
+        "longitude": 19.02829
+    },
+    {
+        "name": "деревня Сигетой",
+        "latitude": 47.23417,
+        "longitude": 18.92746
+    },
+    {
+        "name": "комната",
+        "latitude": 47.81921,
+        "longitude": 18.8702
+    },
+    {
+        "name": "Ходьба по комнате",
+        "latitude": 47.93419,
+        "longitude": 18.85438
+    },
+    {
+        "name": "Вы говорите",
+        "latitude": 47.72439,
+        "longitude": 19.17046
+    },
+    {
+        "name": "Весенний сад",
+        "latitude": 47.73259,
+        "longitude": 19.14749
+    },
+    {
+        "name": "Таборфальва",
+        "latitude": 47.09942,
+        "longitude": 19.47837
+    },
+    {
+        "name": "Тахитофалу",
+        "latitude": 47.75,
+        "longitude": 19.1
+    },
+    {
+        "name": "Такса",
+        "latitude": 47.32968,
+        "longitude": 19.06695
+    },
+    {
+        "name": "Нож для тапиоки",
+        "latitude": 47.36096,
+        "longitude": 19.68609
+    },
+    {
+        "name": "Тапиока",
+        "latitude": 47.33505,
+        "longitude": 19.95276
+    },
+    {
+        "name": "Диетизм",
+        "latitude": 47.402,
+        "longitude": 19.63047
+    },
+    {
+        "name": "Тапиока в трубочке",
+        "latitude": 47.45,
+        "longitude": 19.60923
+    },
+    {
+        "name": "Тапиока",
+        "latitude": 47.33609,
+        "longitude": 19.87724
+    },
+    {
+        "name": "Тапиосентмартон",
+        "latitude": 47.3399,
+        "longitude": 19.74648
+    },
+    {
+        "name": "Тапиока виноградная",
+        "latitude": 47.30248,
+        "longitude": 19.85133
+    },
+    {
+        "name": "Тарнок",
+        "latitude": 47.37327,
+        "longitude": 18.84579
+    },
+    {
+        "name": "Палатка",
+        "latitude": 47.54791,
+        "longitude": 18.82816
+    },
+    {
+        "name": "Озерное яблоко",
+        "latitude": 47.50782,
+        "longitude": 19.66657
+    },
+    {
+        "name": "Это отстой",
+        "latitude": 47.32178,
+        "longitude": 18.96249
+    },
+    {
+        "name": "Турецкий кит",
+        "latitude": 47.42931,
+        "longitude": 18.91356
+    },
+    {
+        "name": "Это ломает",
+        "latitude": 47.12209,
+        "longitude": 19.93714
+    },
+    {
+        "name": "Тура",
+        "latitude": 47.60924,
+        "longitude": 19.60279
+    },
+    {
+        "name": "Уйхартян",
+        "latitude": 47.21981,
+        "longitude": 19.38638
+    },
+    {
+        "name": "Новая слива",
+        "latitude": 47.27477,
+        "longitude": 19.92477
+    },
+    {
+        "name": "Наковальня",
+        "latitude": 47.38771,
+        "longitude": 19.35533
+    },
+    {
+        "name": "Сэр",
+        "latitude": 47.41429,
+        "longitude": 19.52762
+    },
+    {
+        "name": "Горькая полынь",
+        "latitude": 47.59674,
+        "longitude": 19.01583
+    },
+    {
+        "name": "Вак",
+        "latitude": 47.77591,
+        "longitude": 19.13612
+    },
+    {
+        "name": "Ваци Ярас",
+        "latitude": 47.78316,
+        "longitude": 19.23882
+    },
+    {
+        "name": "Вачсентласло",
+        "latitude": 47.574,
+        "longitude": 19.53771
+    },
+    {
+        "name": "Валко",
+        "latitude": 47.56391,
+        "longitude": 19.51267
+    },
+    {
+        "name": "Это отстой",
+        "latitude": 47.40705,
+        "longitude": 19.28648
+    },
+    {
+        "name": "Вечес Ярас",
+        "latitude": 47.42923,
+        "longitude": 19.30136
+    },
+    {
+        "name": "Церковь Мученичества",
+        "latitude": 47.6459,
+        "longitude": 19.29536
+    },
+    {
+        "name": "Верёче",
+        "latitude": 47.82468,
+        "longitude": 19.03484
+    },
+    {
+        "name": "Вышеград",
+        "latitude": 47.78526,
+        "longitude": 18.9709
+    },
+    {
+        "name": "Шамбек",
+        "latitude": 47.54814,
+        "longitude": 18.72011
+    },
+    {
+        "name": "Ловушки",
+        "latitude": 47.54381,
+        "longitude": 19.61048
+    },
+    {
+        "name": "Дай это мне",
+        "latitude": 46.85931,
+        "longitude": 18.16442
+    },
+    {
+        "name": "Кукла",
+        "latitude": 46.04155,
+        "longitude": 17.34332
+    },
+    {
+        "name": "Балатонберень",
+        "latitude": 46.70701,
+        "longitude": 17.32013
+    },
+    {
+        "name": "Балатонбоглар",
+        "latitude": 46.77525,
+        "longitude": 17.64415
+    },
+    {
+        "name": "Балатонфеньвес",
+        "latitude": 46.71542,
+        "longitude": 17.49223
+    },
+    {
+        "name": "Балатонфельдвар",
+        "latitude": 46.85255,
+        "longitude": 17.88123
+    },
+    {
+        "name": "Балатонлелле",
+        "latitude": 46.78318,
+        "longitude": 17.69498
+    },
+    {
+        "name": "Балатонсабади",
+        "latitude": 46.89397,
+        "longitude": 18.13737
+    },
+    {
+        "name": "Балатонсарсо",
+        "latitude": 46.82946,
+        "longitude": 17.82426
+    },
+    {
+        "name": "Бартс",
+        "latitude": 45.96,
+        "longitude": 17.45861
+    },
+    {
+        "name": "Барчи Ярош",
+        "latitude": 46.03687,
+        "longitude": 17.47434
+    },
+    {
+        "name": "Барзанс",
+        "latitude": 46.20907,
+        "longitude": 17.1481
+    },
+    {
+        "name": "Это шутка",
+        "latitude": 46.41345,
+        "longitude": 17.38037
+    },
+    {
+        "name": "Утечка",
+        "latitude": 46.25314,
+        "longitude": 17.1006
+    },
+    {
+        "name": "Чургой Харас",
+        "latitude": 46.29502,
+        "longitude": 17.10021
+    },
+    {
+        "name": "Фоньод",
+        "latitude": 46.75552,
+        "longitude": 17.57945
+    },
+    {
+        "name": "Фоньод Харас",
+        "latitude": 46.67289,
+        "longitude": 17.7
+    },
+    {
+        "name": "Кадакут",
+        "latitude": 46.23623,
+        "longitude": 17.62014
+    },
+    {
+        "name": "Вратарь",
+        "latitude": 46.36167,
+        "longitude": 17.704
+    },
+    {
+        "name": "Капошвар",
+        "latitude": 46.36667,
+        "longitude": 17.8
+    },
+    {
+        "name": "Капошвар Ярош",
+        "latitude": 46.39791,
+        "longitude": 17.7699
+    },
+    {
+        "name": "Ваш друг",
+        "latitude": 46.69076,
+        "longitude": 17.84136
+    },
+    {
+        "name": "Два места",
+        "latitude": 46.64605,
+        "longitude": 17.39362
+    },
+    {
+        "name": "Лабод",
+        "latitude": 46.20535,
+        "longitude": 17.45419
+    },
+    {
+        "name": "Из Польши",
+        "latitude": 46.67013,
+        "longitude": 17.64398
+    },
+    {
+        "name": "Маркали",
+        "latitude": 46.58498,
+        "longitude": 17.41196
+    },
+    {
+        "name": "Марсали Харас",
+        "latitude": 46.54382,
+        "longitude": 17.39203
+    },
+    {
+        "name": "Ваше величие",
+        "latitude": 46.22961,
+        "longitude": 17.35788
+    },
+    {
+        "name": "Надьятад Харас",
+        "latitude": 46.252,
+        "longitude": 17.3752
+    },
+    {
+        "name": "Большая проблема",
+        "latitude": 46.39232,
+        "longitude": 17.51147
+    },
+    {
+        "name": "Сегесд",
+        "latitude": 46.34142,
+        "longitude": 17.35132
+    },
+    {
+        "name": "Шиофок",
+        "latitude": 46.90413,
+        "longitude": 18.058
+    },
+    {
+        "name": "Шиофок Харас",
+        "latitude": 46.8506,
+        "longitude": 17.99625
+    },
+    {
+        "name": "Сомогивар",
+        "latitude": 46.5814,
+        "longitude": 17.66289
+    },
+    {
+        "name": "Вкладка",
+        "latitude": 46.73135,
+        "longitude": 18.03201
+    },
+    {
+        "name": "Таби Харас",
+        "latitude": 46.68037,
+        "longitude": 18.0056
+    },
+    {
+        "name": "Тазар",
+        "latitude": 46.37467,
+        "longitude": 17.90594
+    },
+    {
+        "name": "Замарди",
+        "latitude": 46.88488,
+        "longitude": 17.95366
+    },
+    {
+        "name": "Приглашать",
+        "latitude": 48.17664,
+        "longitude": 22.06273
+    },
+    {
+        "name": "Анаркс",
+        "latitude": 48.17642,
+        "longitude": 22.11167
+    },
+    {
+        "name": "Конечно",
+        "latitude": 47.96431,
+        "longitude": 21.93539
+    },
+    {
+        "name": "Араньосапати",
+        "latitude": 48.20595,
+        "longitude": 22.25916
+    },
+    {
+        "name": "Бакталорантаза",
+        "latitude": 48.0,
+        "longitude": 22.08333
+    },
+    {
+        "name": "Бакталорантазай Харас",
+        "latitude": 48.00436,
+        "longitude": 22.02449
+    },
+    {
+        "name": "Балканский",
+        "latitude": 47.77066,
+        "longitude": 21.86314
+    },
+    {
+        "name": "Бёкек",
+        "latitude": 47.73333,
+        "longitude": 21.75
+    },
+    {
+        "name": "будж",
+        "latitude": 48.1,
+        "longitude": 21.65
+    },
+    {
+        "name": "Ценгер",
+        "latitude": 47.83582,
+        "longitude": 22.68096
+    },
+    {
+        "name": "Ченгери Уок",
+        "latitude": 47.83045,
+        "longitude": 22.5981
+    },
+    {
+        "name": "Демечер",
+        "latitude": 48.11648,
+        "longitude": 21.92624
+    },
+    {
+        "name": "Дож",
+        "latitude": 48.26246,
+        "longitude": 22.06339
+    },
+    {
+        "name": "Ваш холм",
+        "latitude": 48.23333,
+        "longitude": 21.93333
+    },
+    {
+        "name": "Включать",
+        "latitude": 47.73333,
+        "longitude": 22.11667
+    },
+    {
+        "name": "Белая колония",
+        "latitude": 47.98333,
+        "longitude": 22.51667
+    },
+    {
+        "name": "Фехергьялмати Харас",
+        "latitude": 48.00436,
+        "longitude": 22.63014
+    },
+    {
+        "name": "Яркий свет",
+        "latitude": 48.27133,
+        "longitude": 22.10009
+    },
+    {
+        "name": "Бедный парень",
+        "latitude": 48.15,
+        "longitude": 21.95
+    },
+    {
+        "name": "Дом Дьюлы",
+        "latitude": 48.13333,
+        "longitude": 22.11667
+    },
+    {
+        "name": "Охотник",
+        "latitude": 47.91834,
+        "longitude": 22.20153
+    },
+    {
+        "name": "Ибрани",
+        "latitude": 48.12329,
+        "longitude": 21.70953
+    },
+    {
+        "name": "Ибраньи Ярош",
+        "latitude": 48.12794,
+        "longitude": 21.69344
+    },
+    {
+        "name": "На моей остановке",
+        "latitude": 47.86081,
+        "longitude": 21.93929
+    },
+    {
+        "name": "Кальманхаза",
+        "latitude": 47.88333,
+        "longitude": 21.58333
+    },
+    {
+        "name": "Канторьяноши",
+        "latitude": 47.93333,
+        "longitude": 22.15
+    },
+    {
+        "name": "Синий",
+        "latitude": 48.11667,
+        "longitude": 21.88333
+    },
+    {
+        "name": "Кемече",
+        "latitude": 48.07532,
+        "longitude": 21.80625
+    },
+    {
+        "name": "Кемече Ярас",
+        "latitude": 48.10048,
+        "longitude": 21.88414
+    },
+    {
+        "name": "Небольшое существование",
+        "latitude": 47.84244,
+        "longitude": 22.00393
+    },
+    {
+        "name": "Кишварда",
+        "latitude": 48.21667,
+        "longitude": 22.08333
+    },
+    {
+        "name": "Кишварда Ярас",
+        "latitude": 48.221,
+        "longitude": 22.06415
+    },
+    {
+        "name": "Паб",
+        "latitude": 47.93912,
+        "longitude": 22.38333
+    },
+    {
+        "name": "Котай",
+        "latitude": 48.05,
+        "longitude": 21.71667
+    },
+    {
+        "name": "Буквы",
+        "latitude": 47.96282,
+        "longitude": 21.98537
+    },
+    {
+        "name": "я умоляю",
+        "latitude": 48.32149,
+        "longitude": 22.19107
+    },
+    {
+        "name": "Мариапоч",
+        "latitude": 47.88303,
+        "longitude": 22.02501
+    },
+    {
+        "name": "Матесалка",
+        "latitude": 47.95528,
+        "longitude": 22.32348
+    },
+    {
+        "name": "Матесалка Харас",
+        "latitude": 47.92961,
+        "longitude": 22.31892
+    },
+    {
+        "name": "бренды",
+        "latitude": 47.78824,
+        "longitude": 22.38038
+    },
+    {
+        "name": "Великий черкес",
+        "latitude": 47.96667,
+        "longitude": 21.53333
+    },
+    {
+        "name": "Барабан-мажор",
+        "latitude": 48.05759,
+        "longitude": 22.30423
+    },
+    {
+        "name": "Твой прадедушка",
+        "latitude": 47.86547,
+        "longitude": 22.39159
+    },
+    {
+        "name": "Большой рыбак",
+        "latitude": 48.13266,
+        "longitude": 21.76104
+    },
+    {
+        "name": "Отличная остановка",
+        "latitude": 47.87491,
+        "longitude": 21.84082
+    },
+    {
+        "name": "Надькалло Ярош",
+        "latitude": 47.79994,
+        "longitude": 21.84753
+    },
+    {
+        "name": "Время суток",
+        "latitude": 47.93797,
+        "longitude": 21.86763
+    },
+    {
+        "name": "Береза ​​храбрая",
+        "latitude": 47.83333,
+        "longitude": 22.13333
+    },
+    {
+        "name": "Ньирбатор Харас",
+        "latitude": 47.77553,
+        "longitude": 22.11755
+    },
+    {
+        "name": "Тонкая кишка",
+        "latitude": 47.7,
+        "longitude": 22.13333
+    },
+    {
+        "name": "Березовый клоп",
+        "latitude": 47.8034,
+        "longitude": 22.06561
+    },
+    {
+        "name": "Береза",
+        "latitude": 48.05723,
+        "longitude": 21.88242
+    },
+    {
+        "name": "Березовый дом",
+        "latitude": 47.90383,
+        "longitude": 22.3363
+    },
+    {
+        "name": "Ньиредьхаза",
+        "latitude": 47.95539,
+        "longitude": 21.71671
+    },
+    {
+        "name": "Ньиредьхази Харас",
+        "latitude": 47.97691,
+        "longitude": 21.64463
+    },
+    {
+        "name": "Ньиргюлай",
+        "latitude": 47.88622,
+        "longitude": 22.09781
+    },
+    {
+        "name": "Береза",
+        "latitude": 48.09477,
+        "longitude": 22.10463
+    },
+    {
+        "name": "Береза",
+        "latitude": 47.69315,
+        "longitude": 22.04476
+    },
+    {
+        "name": "Ньирмада",
+        "latitude": 48.06667,
+        "longitude": 22.2
+    },
+    {
+        "name": "Берёзовая вишня",
+        "latitude": 47.91667,
+        "longitude": 22.26667
+    },
+    {
+        "name": "Ньирмихалиди",
+        "latitude": 47.73976,
+        "longitude": 21.96445
+    },
+    {
+        "name": "Ньирпазонс",
+        "latitude": 47.98333,
+        "longitude": 21.8
+    },
+    {
+        "name": "Вырезать это",
+        "latitude": 48.11667,
+        "longitude": 22.03333
+    },
+    {
+        "name": "я порезал тебя",
+        "latitude": 48.01667,
+        "longitude": 21.63333
+    },
+    {
+        "name": "Ньирвасвари",
+        "latitude": 47.81667,
+        "longitude": 22.18683
+    },
+    {
+        "name": "Офеэрто",
+        "latitude": 47.93333,
+        "longitude": 22.05
+    },
+    {
+        "name": "Волынщик, ездящий на быке",
+        "latitude": 47.91862,
+        "longitude": 22.5081
+    },
+    {
+        "name": "Опайи",
+        "latitude": 47.99771,
+        "longitude": 22.32617
+    },
+    {
+        "name": "Патроха",
+        "latitude": 48.16667,
+        "longitude": 22.0
+    },
+    {
+        "name": "Петнехаза",
+        "latitude": 48.06084,
+        "longitude": 22.07485
+    },
+    {
+        "name": "Мучнистая роса",
+        "latitude": 47.88333,
+        "longitude": 22.56667
+    },
+    {
+        "name": "Ракамааз",
+        "latitude": 48.12372,
+        "longitude": 21.46429
+    },
+    {
+        "name": "Саколи",
+        "latitude": 47.76667,
+        "longitude": 21.91667
+    },
+    {
+        "name": "Самосег",
+        "latitude": 48.04561,
+        "longitude": 22.36582
+    },
+    {
+        "name": "Вечеринка",
+        "latitude": 48.1048,
+        "longitude": 22.53744
+    },
+    {
+        "name": "Тисаберчел",
+        "latitude": 48.15,
+        "longitude": 21.65
+    },
+    {
+        "name": "Тисабездет",
+        "latitude": 48.36667,
+        "longitude": 22.15
+    },
+    {
+        "name": "Тисадада",
+        "latitude": 48.03333,
+        "longitude": 21.25
+    },
+    {
+        "name": "Возвращение",
+        "latitude": 48.01667,
+        "longitude": 21.16667
+    },
+    {
+        "name": "Тисаэслар",
+        "latitude": 48.05,
+        "longitude": 21.46667
+    },
+    {
+        "name": "Мне жаль",
+        "latitude": 48.01667,
+        "longitude": 21.38333
+    },
+    {
+        "name": "деревня Тишаны",
+        "latitude": 48.1,
+        "longitude": 21.48333
+    },
+    {
+        "name": "Тисавашвари",
+        "latitude": 47.96667,
+        "longitude": 21.35
+    },
+    {
+        "name": "Тисавашвар Харас",
+        "latitude": 47.98606,
+        "longitude": 21.36545
+    },
+    {
+        "name": "Башенная палочка",
+        "latitude": 48.26667,
+        "longitude": 22.18333
+    },
+    {
+        "name": "Туньогматолч",
+        "latitude": 47.96667,
+        "longitude": 22.46667
+    },
+    {
+        "name": "Опухоль",
+        "latitude": 48.34407,
+        "longitude": 22.11762
+    },
+    {
+        "name": "Строить",
+        "latitude": 47.85378,
+        "longitude": 22.5633
+    },
+    {
+        "name": "Уйфехерто",
+        "latitude": 47.8,
+        "longitude": 21.68333
+    },
+    {
+        "name": "Нуждаться",
+        "latitude": 48.00574,
+        "longitude": 22.16761
+    },
+    {
+        "name": "Товар на рынке",
+        "latitude": 48.12542,
+        "longitude": 22.31325
+    },
+    {
+        "name": "Прогулка Вашарошнамень",
+        "latitude": 48.17981,
+        "longitude": 22.35859
+    },
+    {
+        "name": "Цветники",
+        "latitude": 48.40906,
+        "longitude": 22.17614
+    },
+    {
+        "name": "Захоньи Ярош",
+        "latitude": 48.34914,
+        "longitude": 22.18925
+    },
+    {
+        "name": "Лодка",
+        "latitude": 46.12864,
+        "longitude": 18.77027
+    },
+    {
+        "name": "Баташек",
+        "latitude": 46.19373,
+        "longitude": 18.72307
+    },
+    {
+        "name": "Ягодный сок",
+        "latitude": 46.38638,
+        "longitude": 18.82962
+    },
+    {
+        "name": "Он мудрый",
+        "latitude": 46.74102,
+        "longitude": 18.96736
+    },
+    {
+        "name": "твоя задница",
+        "latitude": 46.29921,
+        "longitude": 18.53024
+    },
+    {
+        "name": "Бонихад Ярош",
+        "latitude": 46.33998,
+        "longitude": 18.49739
+    },
+    {
+        "name": "Декабрь",
+        "latitude": 46.28428,
+        "longitude": 18.76
+    },
+    {
+        "name": "Это кошмар",
+        "latitude": 46.42178,
+        "longitude": 18.23953
+    },
+    {
+        "name": "Замок на холме",
+        "latitude": 46.37657,
+        "longitude": 18.13696
+    },
+    {
+        "name": "Домбовар Прогулка",
+        "latitude": 46.45592,
+        "longitude": 18.19076
+    },
+    {
+        "name": "Дунафёльдвар",
+        "latitude": 46.80713,
+        "longitude": 18.92763
+    },
+    {
+        "name": "Дунасентдьердь",
+        "latitude": 46.52852,
+        "longitude": 18.81771
+    },
+    {
+        "name": "причуда",
+        "latitude": 46.46476,
+        "longitude": 18.81925
+    },
+    {
+        "name": "Мы выигрываем",
+        "latitude": 46.55603,
+        "longitude": 18.47694
+    },
+    {
+        "name": "Котельщик",
+        "latitude": 46.49697,
+        "longitude": 18.41841
+    },
+    {
+        "name": "Нервная гранула",
+        "latitude": 46.69286,
+        "longitude": 18.18581
+    },
+    {
+        "name": "Документы",
+        "latitude": 46.6879,
+        "longitude": 18.95791
+    },
+    {
+        "name": "Дрожь",
+        "latitude": 46.62749,
+        "longitude": 18.65565
+    },
+    {
+        "name": "Гиганты",
+        "latitude": 46.27911,
+        "longitude": 18.45489
+    },
+    {
+        "name": "Он просит немецкий",
+        "latitude": 46.71637,
+        "longitude": 18.76311
+    },
+    {
+        "name": "Очень",
+        "latitude": 46.3137,
+        "longitude": 18.75749
+    },
+    {
+        "name": "Озора",
+        "latitude": 46.75133,
+        "longitude": 18.4001
+    },
+    {
+        "name": "Толстый",
+        "latitude": 46.6221,
+        "longitude": 18.85569
+    },
+    {
+        "name": "Пакси Ярош",
+        "latitude": 46.66035,
+        "longitude": 18.78572
+    },
+    {
+        "name": "Пинсхели",
+        "latitude": 46.68095,
+        "longitude": 18.43935
+    },
+    {
+        "name": "Симонтор",
+        "latitude": 46.75462,
+        "longitude": 18.5549
+    },
+    {
+        "name": "Ежевика",
+        "latitude": 46.47551,
+        "longitude": 18.68305
+    },
+    {
+        "name": "Сексард",
+        "latitude": 46.35014,
+        "longitude": 18.70905
+    },
+    {
+        "name": "Сексард Ярас",
+        "latitude": 46.33998,
+        "longitude": 18.67893
+    },
+    {
+        "name": "Сентгальпуста",
+        "latitude": 46.37479,
+        "longitude": 18.62601
+    },
+    {
+        "name": "Тамаси",
+        "latitude": 46.63333,
+        "longitude": 18.28333
+    },
+    {
+        "name": "Тамаш Ярас",
+        "latitude": 46.65424,
+        "longitude": 18.35857
+    },
+    {
+        "name": "Ось",
+        "latitude": 46.52878,
+        "longitude": 18.71117
+    },
+    {
+        "name": "Толна",
+        "latitude": 46.42677,
+        "longitude": 18.78248
+    },
+    {
+        "name": "Толна Харас",
+        "latitude": 46.42541,
+        "longitude": 18.82691
+    },
+    {
+        "name": "Зомба",
+        "latitude": 46.41084,
+        "longitude": 18.56577
+    },
+    {
+        "name": "Бук",
+        "latitude": 47.38486,
+        "longitude": 16.75065
+    },
+    {
+        "name": "Ячейковый удар",
+        "latitude": 47.25713,
+        "longitude": 17.15027
+    },
+    {
+        "name": "Прогулка по Целлдомёлки",
+        "latitude": 47.25001,
+        "longitude": 17.13209
+    },
+    {
+        "name": "Капать",
+        "latitude": 47.40098,
+        "longitude": 16.70881
+    },
+    {
+        "name": "Генеральная команда",
+        "latitude": 47.28496,
+        "longitude": 16.59575
+    },
+    {
+        "name": "Як",
+        "latitude": 47.14249,
+        "longitude": 16.58148
+    },
+    {
+        "name": "Яношаза",
+        "latitude": 47.11937,
+        "longitude": 17.16503
+    },
+    {
+        "name": "Прогуляться",
+        "latitude": 47.01096,
+        "longitude": 16.60596
+    },
+    {
+        "name": "Корменди Уок",
+        "latitude": 46.92164,
+        "longitude": 16.53291
+    },
+    {
+        "name": "Кёсег",
+        "latitude": 47.38922,
+        "longitude": 16.541
+    },
+    {
+        "name": "Кёсег Ярас",
+        "latitude": 47.375,
+        "longitude": 16.6565
+    },
+    {
+        "name": "я летаю",
+        "latitude": 47.42105,
+        "longitude": 17.01795
+    },
+    {
+        "name": "Шарвар",
+        "latitude": 47.25395,
+        "longitude": 16.93525
+    },
+    {
+        "name": "Шарвар Харас",
+        "latitude": 47.23868,
+        "longitude": 16.93299
+    },
+    {
+        "name": "Сентготтхард",
+        "latitude": 46.95261,
+        "longitude": 16.27358
+    },
+    {
+        "name": "Сентготтхард Харас",
+        "latitude": 46.93674,
+        "longitude": 16.30362
+    },
+    {
+        "name": "Сомбатхей",
+        "latitude": 47.23088,
+        "longitude": 16.62155
+    },
+    {
+        "name": "Сомбатхей Ярош",
+        "latitude": 47.21037,
+        "longitude": 16.63954
+    },
+    {
+        "name": "Святой крест Таплана",
+        "latitude": 47.19496,
+        "longitude": 16.69613
+    },
+    {
+        "name": "Железный Замок",
+        "latitude": 47.04928,
+        "longitude": 16.79954
+    },
+    {
+        "name": "Васвар Харас",
+        "latitude": 47.03487,
+        "longitude": 16.85939
+    },
+    {
+        "name": "Только",
+        "latitude": 47.23041,
+        "longitude": 16.72248
+    },
+    {
+        "name": "Губы",
+        "latitude": 47.10196,
+        "longitude": 17.55892
+    },
+    {
+        "name": "Губная ходьба",
+        "latitude": 47.07988,
+        "longitude": 17.56375
+    },
+    {
+        "name": "Бадачонь Томай",
+        "latitude": 46.80711,
+        "longitude": 17.51385
+    },
+    {
+        "name": "Балатоналмади",
+        "latitude": 47.03526,
+        "longitude": 18.02076
+    },
+    {
+        "name": "Балатоналмади Харас",
+        "latitude": 47.04174,
+        "longitude": 18.09617
+    },
+    {
+        "name": "Балатонфюред",
+        "latitude": 46.96188,
+        "longitude": 17.87187
+    },
+    {
+        "name": "Прогулка по Балатонфюреду",
+        "latitude": 46.93952,
+        "longitude": 17.79411
+    },
+    {
+        "name": "Балатонкенесе",
+        "latitude": 47.04019,
+        "longitude": 18.10671
+    },
+    {
+        "name": "Берхида",
+        "latitude": 47.11131,
+        "longitude": 18.12948
+    },
+    {
+        "name": "Я шучу",
+        "latitude": 47.01356,
+        "longitude": 17.29108
+    },
+    {
+        "name": "Четни",
+        "latitude": 47.31806,
+        "longitude": 17.99208
+    },
+    {
+        "name": "Капля",
+        "latitude": 46.97709,
+        "longitude": 17.91819
+    },
+    {
+        "name": "Девечер",
+        "latitude": 47.10316,
+        "longitude": 17.43802
+    },
+    {
+        "name": "Девечери Уок",
+        "latitude": 47.16836,
+        "longitude": 17.32271
+    },
+    {
+        "name": "Попросите сменить прическу",
+        "latitude": 47.14513,
+        "longitude": 18.01964
+    },
+    {
+        "name": "Херенд",
+        "latitude": 47.13333,
+        "longitude": 17.75
+    },
+    {
+        "name": "Литература",
+        "latitude": 47.10104,
+        "longitude": 18.00454
+    },
+    {
+        "name": "Мы не смешиваем",
+        "latitude": 47.05514,
+        "longitude": 17.87477
+    },
+    {
+        "name": "Древний",
+        "latitude": 47.14722,
+        "longitude": 18.18833
+    },
+    {
+        "name": "Папа Римский",
+        "latitude": 47.33004,
+        "longitude": 17.4674
+    },
+    {
+        "name": "Папский визит",
+        "latitude": 47.33769,
+        "longitude": 17.49663
+    },
+    {
+        "name": "Петфюрдо",
+        "latitude": 47.16667,
+        "longitude": 18.11667
+    },
+    {
+        "name": "Эйр Филиппины",
+        "latitude": 46.82573,
+        "longitude": 17.61967
+    },
+    {
+        "name": "Это отстой",
+        "latitude": 46.97703,
+        "longitude": 17.28209
+    },
+    {
+        "name": "Шумеги Ярош",
+        "latitude": 47.02648,
+        "longitude": 17.26779
+    },
+    {
+        "name": "Сабаджа Святого Кинга",
+        "latitude": 47.0576,
+        "longitude": 17.97052
+    },
+    {
+        "name": "Тапольца",
+        "latitude": 46.88152,
+        "longitude": 17.44117
+    },
+    {
+        "name": "Тапольца Харас",
+        "latitude": 46.89833,
+        "longitude": 17.4951
+    },
+    {
+        "name": "Тихань",
+        "latitude": 46.91369,
+        "longitude": 17.88918
+    },
+    {
+        "name": "Господи, ну",
+        "latitude": 47.08505,
+        "longitude": 17.64393
+    },
+    {
+        "name": "Замковый дворец",
+        "latitude": 47.19936,
+        "longitude": 18.13954
+    },
+    {
+        "name": "Замковая прогулка",
+        "latitude": 47.18514,
+        "longitude": 18.12211
+    },
+    {
+        "name": "Веспрем",
+        "latitude": 47.09327,
+        "longitude": 17.91149
+    },
+    {
+        "name": "Веспремская прогулка",
+        "latitude": 47.09666,
+        "longitude": 17.82157
+    },
+    {
+        "name": "Занька",
+        "latitude": 46.87146,
+        "longitude": 17.68473
+    },
+    {
+        "name": "Цирк",
+        "latitude": 47.26362,
+        "longitude": 17.87373
+    },
+    {
+        "name": "Зирчи Прогулка",
+        "latitude": 47.28583,
+        "longitude": 17.88412
+    },
+    {
+        "name": "Бечехей",
+        "latitude": 46.44755,
+        "longitude": 16.7771
+    },
+    {
+        "name": "Черсег томай",
+        "latitude": 46.80165,
+        "longitude": 17.22096
+    },
+    {
+        "name": "Дьенесдиас",
+        "latitude": 46.77058,
+        "longitude": 17.2866
+    },
+    {
+        "name": "Хевиз",
+        "latitude": 46.79031,
+        "longitude": 17.18408
+    },
+    {
+        "name": "Кестхей",
+        "latitude": 46.76812,
+        "longitude": 17.24317
+    },
+    {
+        "name": "Кестхей Ярош",
+        "latitude": 46.78356,
+        "longitude": 17.22381
+    },
+    {
+        "name": "Высадился",
+        "latitude": 46.62403,
+        "longitude": 16.53863
+    },
+    {
+        "name": "Идя вниз",
+        "latitude": 46.65649,
+        "longitude": 16.57443
+    },
+    {
+        "name": "Пойдем",
+        "latitude": 46.43301,
+        "longitude": 16.72583
+    },
+    {
+        "name": "Летенье Ярас",
+        "latitude": 46.50552,
+        "longitude": 16.76503
+    },
+    {
+        "name": "Муракерестур",
+        "latitude": 46.36422,
+        "longitude": 16.88177
+    },
+    {
+        "name": "Бабушка",
+        "latitude": 46.45347,
+        "longitude": 16.99104
+    },
+    {
+        "name": "Надьканижа Харас",
+        "latitude": 46.51873,
+        "longitude": 17.04433
+    },
+    {
+        "name": "Мир",
+        "latitude": 46.71981,
+        "longitude": 17.01401
+    },
+    {
+        "name": "Грязевая добавка",
+        "latitude": 46.71221,
+        "longitude": 17.16865
+    },
+    {
+        "name": "Шишка",
+        "latitude": 46.98366,
+        "longitude": 17.10742
+    },
+    {
+        "name": "Воньярцвашедь",
+        "latitude": 46.75742,
+        "longitude": 17.31172
+    },
+    {
+        "name": "Залаэгерсег",
+        "latitude": 46.84,
+        "longitude": 16.84389
+    },
+    {
+        "name": "Прогулка по Залаэгерсегу",
+        "latitude": 46.8,
+        "longitude": 16.83
+    },
+    {
+        "name": "Залакомар",
+        "latitude": 46.53795,
+        "longitude": 17.18094
+    },
+    {
+        "name": "Зал стрелок",
+        "latitude": 46.84802,
+        "longitude": 16.5875
+    },
+    {
+        "name": "Заласентгрот",
+        "latitude": 46.94474,
+        "longitude": 17.07925
+    },
+    {
+        "name": "Прогулка по Заласентгроту",
+        "latitude": 46.9207,
+        "longitude": 17.10095
+    }
+]

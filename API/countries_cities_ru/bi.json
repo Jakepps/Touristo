@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Барабан",
+        "latitude": -3.0804,
+        "longitude": 29.391
+    },
+    {
+        "name": "Голда",
+        "latitude": -3.38193,
+        "longitude": 29.36142
+    },
+    {
+        "name": "Бурури",
+        "latitude": -3.94877,
+        "longitude": 29.62438
+    },
+    {
+        "name": "Cankuzo",
+        "latitude": -3.2186,
+        "longitude": 30.5528
+    },
+    {
+        "name": "Cibitoke",
+        "latitude": -2.8869,
+        "longitude": 29.1248
+    },
+    {
+        "name": "Гитега",
+        "latitude": -3.42708,
+        "longitude": 29.92463
+    },
+    {
+        "name": "Карусин",
+        "latitude": -3.10139,
+        "longitude": 30.16278
+    },
+    {
+        "name": "Смотреть",
+        "latitude": -2.9221,
+        "longitude": 29.6293
+    },
+    {
+        "name": "Кирундо",
+        "latitude": -2.5845,
+        "longitude": 30.0959
+    },
+    {
+        "name": "Мамакоб",
+        "latitude": -4.1348,
+        "longitude": 29.804
+    },
+    {
+        "name": "Мурамвья",
+        "latitude": -3.2682,
+        "longitude": 29.6079
+    },
+    {
+        "name": "К мужуму",
+        "latitude": -2.8451,
+        "longitude": 30.3414
+    },
+    {
+        "name": "Мваро",
+        "latitude": -3.51128,
+        "longitude": 29.70334
+    },
+    {
+        "name": "Нгозы",
+        "latitude": -2.9075,
+        "longitude": 29.8306
+    },
+    {
+        "name": "Rumonge",
+        "latitude": -3.9736,
+        "longitude": 29.4386
+    },
+    {
+        "name": "Лютиновый",
+        "latitude": -3.9279,
+        "longitude": 29.992
+    },
+    {
+        "name": "Руйиги",
+        "latitude": -3.47639,
+        "longitude": 30.24861
+    }
+]

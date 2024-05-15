@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "Адмирал",
+        "latitude": 9.30091,
+        "longitude": -82.4018
+    },
+    {
+        "name": "Овраг",
+        "latitude": 9.51984,
+        "longitude": -82.70424
+    },
+    {
+        "name": "Барранко Адентро",
+        "latitude": 9.52757,
+        "longitude": -82.73344
+    },
+    {
+        "name": "Бастиментос",
+        "latitude": 9.34707,
+        "longitude": -82.2088
+    },
+    {
+        "name": "Бычьи рты",
+        "latitude": 9.34031,
+        "longitude": -82.24204
+    },
+    {
+        "name": "Кошеро",
+        "latitude": 9.15226,
+        "longitude": -82.2645
+    },
+    {
+        "name": "Чангинола",
+        "latitude": 9.43,
+        "longitude": -82.52
+    },
+    {
+        "name": "Чирики Гранде",
+        "latitude": 8.94557,
+        "longitude": -82.11769
+    },
+    {
+        "name": "Округ Чирики-Гранде",
+        "latitude": 8.94748,
+        "longitude": -82.12418
+    },
+    {
+        "name": "Район Бокас-дель-Торо",
+        "latitude": 9.36235,
+        "longitude": -82.26288
+    },
+    {
+        "name": "Чангинолаский район",
+        "latitude": 9.25,
+        "longitude": -82.63333
+    },
+    {
+        "name": "перекресток",
+        "latitude": 9.41667,
+        "longitude": -82.51667
+    },
+    {
+        "name": "Тишина",
+        "latitude": 9.37222,
+        "longitude": -82.52877
+    },
+    {
+        "name": "Гуабито",
+        "latitude": 9.48968,
+        "longitude": -82.61279
+    },
+    {
+        "name": "Остров Бастиментос",
+        "latitude": 9.3,
+        "longitude": -82.13333
+    },
+    {
+        "name": "Стол",
+        "latitude": 9.49587,
+        "longitude": -82.67534
+    },
+    {
+        "name": "Мирамар",
+        "latitude": 8.99482,
+        "longitude": -82.24147
+    },
+    {
+        "name": "Пунта Лорел",
+        "latitude": 9.141,
+        "longitude": -82.12717
+    },
+    {
+        "name": "Пунта Пенья",
+        "latitude": 8.91659,
+        "longitude": -82.18488
+    },
+    {
+        "name": "Пунта Робало",
+        "latitude": 9.03631,
+        "longitude": -82.24952
+    },
+    {
+        "name": "Риско Вэлли",
+        "latitude": 9.23064,
+        "longitude": -82.42748
+    },
+    {
+        "name": "Апельсин",
+        "latitude": 8.39791,
+        "longitude": -82.55947
+    },
+    {
+        "name": "Рожковые деревья вверху",
+        "latitude": 8.5155,
+        "longitude": -82.42263
+    },
+    {
+        "name": "Верхний Бокете",
+        "latitude": 8.73458,
+        "longitude": -82.43213
+    },
+    {
+        "name": "Лесопилка Гарише",
+        "latitude": 8.48257,
+        "longitude": -82.79086
+    },
+    {
+        "name": "Багала",
+        "latitude": 8.46399,
+        "longitude": -82.52617
+    },
+    {
+        "name": "Нижний Бокете",
+        "latitude": 8.77058,
+        "longitude": -82.43306
+    },
+    {
+        "name": "Район Гуадалупе",
+        "latitude": 8.86482,
+        "longitude": -82.56523
+    },
+    {
+        "name": "Биджагуаль",
+        "latitude": 8.51486,
+        "longitude": -82.33361
+    },
+    {
+        "name": "Бока Чика",
+        "latitude": 8.21911,
+        "longitude": -82.21592
+    },
+    {
+        "name": "Бока-дель-Монте",
+        "latitude": 8.35296,
+        "longitude": -82.11379
+    },
+    {
+        "name": "Анчоус",
+        "latitude": 8.5051,
+        "longitude": -82.57025
+    },
+    {
+        "name": "Минет",
+        "latitude": 8.78024,
+        "longitude": -82.44136
+    },
+    {
+        "name": "Бреньон",
+        "latitude": 8.62491,
+        "longitude": -82.81277
+    },
+    {
+        "name": "Распечатать",
+        "latitude": 8.48255,
+        "longitude": -82.61991
+    },
+    {
+        "name": "Бугабита вверх",
+        "latitude": 8.52143,
+        "longitude": -82.63638
+    },
+    {
+        "name": "Каймито",
+        "latitude": 8.54162,
+        "longitude": -82.419
+    },
+    {
+        "name": "Кальдера",
+        "latitude": 8.64907,
+        "longitude": -82.38058
+    },
+    {
+        "name": "Толстые камыши",
+        "latitude": 8.74309,
+        "longitude": -82.91275
+    },
+    {
+        "name": "Сельмира",
+        "latitude": 8.54026,
+        "longitude": -82.80022
+    },
+    {
+        "name": "Вершина холма",
+        "latitude": 8.84968,
+        "longitude": -82.57261
+    },
+    {
+        "name": "Старый холм",
+        "latitude": 8.25349,
+        "longitude": -81.57658
+    },
+    {
+        "name": "Чирики",
+        "latitude": 8.39291,
+        "longitude": -82.31993
+    },
+    {
+        "name": "Перевозка внизу",
+        "latitude": 8.50512,
+        "longitude": -82.35878
+    },
+    {
+        "name": "Кордильеры",
+        "latitude": 8.70683,
+        "longitude": -82.60327
+    },
+    {
+        "name": "Дэйвид",
+        "latitude": 8.42729,
+        "longitude": -82.43085
+    },
+    {
+        "name": "Аланский округ",
+        "latitude": 8.39842,
+        "longitude": -82.64065
+    },
+    {
+        "name": "Баруский район",
+        "latitude": 8.29482,
+        "longitude": -82.92726
+    },
+    {
+        "name": "Бокеронский район",
+        "latitude": 8.61667,
+        "longitude": -82.56667
+    },
+    {
+        "name": "Район Букете",
+        "latitude": 8.74896,
+        "longitude": -82.36842
+    },
+    {
+        "name": "Бугабинский район",
+        "latitude": 8.68786,
+        "longitude": -82.67937
+    },
+    {
+        "name": "Давид Район",
+        "latitude": 8.4,
+        "longitude": -82.4
+    },
+    {
+        "name": "Долегский район",
+        "latitude": 8.61667,
+        "longitude": -82.45
+    },
+    {
+        "name": "Гуалака Район",
+        "latitude": 8.57398,
+        "longitude": -82.22207
+    },
+    {
+        "name": "Ремедиос Район",
+        "latitude": 8.20253,
+        "longitude": -81.81163
+    },
+    {
+        "name": "Район Возрождения",
+        "latitude": 8.71667,
+        "longitude": -82.76667
+    },
+    {
+        "name": "Район Сан-Феликс",
+        "latitude": 8.27768,
+        "longitude": -81.87377
+    },
+    {
+        "name": "Район Сан-Лоренцо",
+        "latitude": 8.29366,
+        "longitude": -82.08922
+    },
+    {
+        "name": "Толе район",
+        "latitude": 8.19015,
+        "longitude": -81.66007
+    },
+    {
+        "name": "Дивала",
+        "latitude": 8.41066,
+        "longitude": -82.71332
+    },
+    {
+        "name": "Долегский район",
+        "latitude": 8.56667,
+        "longitude": -82.41407
+    },
+    {
+        "name": "Нансито",
+        "latitude": 8.23811,
+        "longitude": -81.73218
+    },
+    {
+        "name": "Эль Пальмар",
+        "latitude": 8.30098,
+        "longitude": -82.85344
+    },
+    {
+        "name": "Будущее",
+        "latitude": 8.22919,
+        "longitude": -81.83278
+    },
+    {
+        "name": "Техар",
+        "latitude": 8.42973,
+        "longitude": -82.57294
+    },
+    {
+        "name": "Уайт Эстейт",
+        "latitude": 8.37979,
+        "longitude": -82.87385
+    },
+    {
+        "name": "Гомес",
+        "latitude": 8.56085,
+        "longitude": -82.74142
+    },
+    {
+        "name": "Гуабал",
+        "latitude": 8.57466,
+        "longitude": -82.5373
+    },
+    {
+        "name": "Гуака прибывает",
+        "latitude": 8.53733,
+        "longitude": -82.49281
+    },
+    {
+        "name": "Гуалака",
+        "latitude": 8.53006,
+        "longitude": -82.29959
+    },
+    {
+        "name": "Гуарумаль",
+        "latitude": 8.34523,
+        "longitude": -82.53205
+    },
+    {
+        "name": "Гуаябал",
+        "latitude": 8.62193,
+        "longitude": -82.57935
+    },
+    {
+        "name": "Горконцитос",
+        "latitude": 8.31142,
+        "longitude": -82.15102
+    },
+    {
+        "name": "Концепция",
+        "latitude": 8.51212,
+        "longitude": -82.61858
+    },
+    {
+        "name": "Надежда",
+        "latitude": 8.40344,
+        "longitude": -82.79197
+    },
+    {
+        "name": "Звезда",
+        "latitude": 8.51572,
+        "longitude": -82.67212
+    },
+    {
+        "name": "Плиты внутри",
+        "latitude": 8.24981,
+        "longitude": -81.87779
+    },
+    {
+        "name": "Плиты Толе",
+        "latitude": 8.16994,
+        "longitude": -81.69654
+    },
+    {
+        "name": "Плиты",
+        "latitude": 8.24184,
+        "longitude": -81.86931
+    },
+    {
+        "name": "Холмы",
+        "latitude": 8.42927,
+        "longitude": -82.38743
+    },
+    {
+        "name": "Лимоны",
+        "latitude": 8.10007,
+        "longitude": -82.86679
+    },
+    {
+        "name": "Альгарробос",
+        "latitude": 8.49601,
+        "longitude": -82.42417
+    },
+    {
+        "name": "Анастасиос",
+        "latitude": 8.53027,
+        "longitude": -82.42295
+    },
+    {
+        "name": "Ангелы",
+        "latitude": 8.52271,
+        "longitude": -82.19997
+    },
+    {
+        "name": "Апельсиновые деревья",
+        "latitude": 8.7921,
+        "longitude": -82.44665
+    },
+    {
+        "name": "Манака Гражданский",
+        "latitude": 8.32458,
+        "longitude": -82.8157
+    },
+    {
+        "name": "Манака Северная",
+        "latitude": 8.33419,
+        "longitude": -82.81003
+    },
+    {
+        "name": "Мата-дель-Нансе",
+        "latitude": 8.45056,
+        "longitude": -82.40057
+    },
+    {
+        "name": "Гора Лили",
+        "latitude": 8.78935,
+        "longitude": -82.82865
+    },
+    {
+        "name": "Нью-Сан-Карлитос",
+        "latitude": 8.45698,
+        "longitude": -82.43712
+    },
+    {
+        "name": "Соломенная шляпа",
+        "latitude": 8.68335,
+        "longitude": -82.31911
+    },
+    {
+        "name": "Пальмира",
+        "latitude": 8.73401,
+        "longitude": -82.45887
+    },
+    {
+        "name": "Пальмира Центр",
+        "latitude": 8.73956,
+        "longitude": -82.45228
+    },
+    {
+        "name": "Рай",
+        "latitude": 8.65842,
+        "longitude": -82.58625
+    },
+    {
+        "name": "Пасо Каноас Арриба",
+        "latitude": 8.56516,
+        "longitude": -82.82214
+    },
+    {
+        "name": "осыпь",
+        "latitude": 8.36586,
+        "longitude": -82.43524
+    },
+    {
+        "name": "Кайсанская площадь",
+        "latitude": 8.73672,
+        "longitude": -82.81968
+    },
+    {
+        "name": "Потрерильос внизу",
+        "latitude": 8.63978,
+        "longitude": -82.4856
+    },
+    {
+        "name": "Потрерильос Арриба",
+        "latitude": 8.68547,
+        "longitude": -82.4909
+    },
+    {
+        "name": "Прогресс",
+        "latitude": 8.44669,
+        "longitude": -82.83859
+    },
+    {
+        "name": "Старый город",
+        "latitude": 8.25081,
+        "longitude": -81.66259
+    },
+    {
+        "name": "Пуэрто-Армуэльес",
+        "latitude": 8.27775,
+        "longitude": -82.86206
+    },
+    {
+        "name": "Пунта де Бурика",
+        "latitude": 8.03333,
+        "longitude": -82.86667
+    },
+    {
+        "name": "Каменное ущелье",
+        "latitude": 8.09418,
+        "longitude": -81.67915
+    },
+    {
+        "name": "Керевало",
+        "latitude": 8.37174,
+        "longitude": -82.5267
+    },
+    {
+        "name": "Кинтеньо",
+        "latitude": 8.47102,
+        "longitude": -82.39352
+    },
+    {
+        "name": "Средства",
+        "latitude": 8.22436,
+        "longitude": -81.82747
+    },
+    {
+        "name": "Угол",
+        "latitude": 8.46374,
+        "longitude": -82.27951
+    },
+    {
+        "name": "Безмятежная река",
+        "latitude": 8.81741,
+        "longitude": -82.85731
+    },
+    {
+        "name": "Ровира прибывает",
+        "latitude": 8.63822,
+        "longitude": -82.49965
+    },
+    {
+        "name": "Святой Андрей",
+        "latitude": 8.6026,
+        "longitude": -82.72588
+    },
+    {
+        "name": "Сент-Чарльз",
+        "latitude": 8.51663,
+        "longitude": -82.50906
+    },
+    {
+        "name": "Святой Феликс",
+        "latitude": 8.29063,
+        "longitude": -81.86702
+    },
+    {
+        "name": "Сан-Исидро",
+        "latitude": 8.53032,
+        "longitude": -82.8272
+    },
+    {
+        "name": "Святой Лаврентий",
+        "latitude": 8.30561,
+        "longitude": -82.10114
+    },
+    {
+        "name": "Сан-Пабло Нуэво-Абахо",
+        "latitude": 8.42558,
+        "longitude": -82.50173
+    },
+    {
+        "name": "Сан-Пабло-Вьехо внизу",
+        "latitude": 8.45339,
+        "longitude": -82.50179
+    },
+    {
+        "name": "Сент-Клер",
+        "latitude": 8.83376,
+        "longitude": -82.77945
+    },
+    {
+        "name": "Санта Круз",
+        "latitude": 8.23219,
+        "longitude": -81.91323
+    },
+    {
+        "name": "Санта-Марта",
+        "latitude": 8.51406,
+        "longitude": -82.6987
+    },
+    {
+        "name": "Санта Роза",
+        "latitude": 8.59958,
+        "longitude": -82.68489
+    },
+    {
+        "name": "Санто-Доминго",
+        "latitude": 8.50803,
+        "longitude": -82.71295
+    },
+    {
+        "name": "Сент-Томас",
+        "latitude": 8.38959,
+        "longitude": -82.65058
+    },
+    {
+        "name": "Сиоги Абахо",
+        "latitude": 8.48678,
+        "longitude": -82.66539
+    },
+    {
+        "name": "Сиоги Арриба",
+        "latitude": 8.53865,
+        "longitude": -82.68619
+    },
+    {
+        "name": "Sortova",
+        "latitude": 8.54642,
+        "longitude": -82.6517
+    },
+    {
+        "name": "Ножницы",
+        "latitude": 8.47514,
+        "longitude": -82.56058
+    },
+    {
+        "name": "Банки",
+        "latitude": 8.55281,
+        "longitude": -82.45963
+    },
+    {
+        "name": "дыра",
+        "latitude": 8.23989,
+        "longitude": -81.67168
+    },
+    {
+        "name": "Парусная лодка",
+        "latitude": 8.23136,
+        "longitude": -81.65417
+    },
+    {
+        "name": "Вулкан",
+        "latitude": 8.77291,
+        "longitude": -82.63823
+    },
+    {
+        "name": "Сладкая вода",
+        "latitude": 8.24183,
+        "longitude": -80.54609
+    },
+    {
+        "name": "Белые воды",
+        "latitude": 8.50351,
+        "longitude": -80.31169
+    },
+    {
+        "name": "Высота Ла Эстансии",
+        "latitude": 8.58792,
+        "longitude": -80.18443
+    },
+    {
+        "name": "Антон",
+        "latitude": 8.39733,
+        "longitude": -80.26063
+    },
+    {
+        "name": "Колорадо Ущелье",
+        "latitude": 8.38937,
+        "longitude": -80.63546
+    },
+    {
+        "name": "Кабальеро",
+        "latitude": 8.54343,
+        "longitude": -80.19769
+    },
+    {
+        "name": "Кабуя",
+        "latitude": 8.54703,
+        "longitude": -80.16756
+    },
+    {
+        "name": "Каймито",
+        "latitude": 8.62271,
+        "longitude": -80.23919
+    },
+    {
+        "name": "Ридбед",
+        "latitude": 8.517,
+        "longitude": -80.42916
+    },
+    {
+        "name": "капелланство",
+        "latitude": 8.29858,
+        "longitude": -80.5548
+    },
+    {
+        "name": "Чигоре",
+        "latitude": 8.53035,
+        "longitude": -80.35117
+    },
+    {
+        "name": "Чигири Арриба",
+        "latitude": 8.67187,
+        "longitude": -80.18975
+    },
+    {
+        "name": "Чурукита Чикита",
+        "latitude": 8.57555,
+        "longitude": -80.27161
+    },
+    {
+        "name": "Большая Чурукита",
+        "latitude": 8.59449,
+        "longitude": -80.27182
+    },
+    {
+        "name": "Кокле",
+        "latitude": 8.45601,
+        "longitude": -80.42899
+    },
+    {
+        "name": "Агуадульсе Район",
+        "latitude": 8.2127,
+        "longitude": -80.61441
+    },
+    {
+        "name": "Антонский район",
+        "latitude": 8.45394,
+        "longitude": -80.18361
+    },
+    {
+        "name": "Район Ла-Пинтада",
+        "latitude": 8.71801,
+        "longitude": -80.53946
+    },
+    {
+        "name": "Натский район",
+        "latitude": 8.34416,
+        "longitude": -80.60934
+    },
+    {
+        "name": "Привет район",
+        "latitude": 8.48053,
+        "longitude": -80.65324
+    },
+    {
+        "name": "Пенономский район",
+        "latitude": 8.63,
+        "longitude": -80.28333
+    },
+    {
+        "name": "Каньо",
+        "latitude": 8.40195,
+        "longitude": -80.51791
+    },
+    {
+        "name": "Чиру",
+        "latitude": 8.39876,
+        "longitude": -80.18721
+    },
+    {
+        "name": "Кокос",
+        "latitude": 8.39716,
+        "longitude": -80.35
+    },
+    {
+        "name": "Эль Копе",
+        "latitude": 8.62036,
+        "longitude": -80.58433
+    },
+    {
+        "name": "Кортесо",
+        "latitude": 8.34556,
+        "longitude": -80.58721
+    },
+    {
+        "name": "Христос",
+        "latitude": 8.25071,
+        "longitude": -80.62093
+    },
+    {
+        "name": "Потреро",
+        "latitude": 8.52146,
+        "longitude": -80.51681
+    },
+    {
+        "name": "Выход на пенсию",
+        "latitude": 8.48014,
+        "longitude": -80.15426
+    },
+    {
+        "name": "Дуб",
+        "latitude": 8.1685,
+        "longitude": -80.65897
+    },
+    {
+        "name": "Вход",
+        "latitude": 8.5688,
+        "longitude": -80.20743
+    },
+    {
+        "name": "Утес",
+        "latitude": 8.35658,
+        "longitude": -80.13723
+    },
+    {
+        "name": "Гузман",
+        "latitude": 8.51969,
+        "longitude": -80.58405
+    },
+    {
+        "name": "Хуан Диас",
+        "latitude": 8.4624,
+        "longitude": -80.2828
+    },
+    {
+        "name": "Понедельник",
+        "latitude": 8.16667,
+        "longitude": -80.63742
+    },
+    {
+        "name": "Нарисованный",
+        "latitude": 8.59299,
+        "longitude": -80.44349
+    },
+    {
+        "name": "Уакас-дель-Кихе",
+        "latitude": 8.46702,
+        "longitude": -80.75089
+    },
+    {
+        "name": "Марии",
+        "latitude": 8.88809,
+        "longitude": -80.21893
+    },
+    {
+        "name": "Шахты",
+        "latitude": 8.64118,
+        "longitude": -80.39432
+    },
+    {
+        "name": "Листы",
+        "latitude": 8.58141,
+        "longitude": -80.67978
+    },
+    {
+        "name": "Большая квартира",
+        "latitude": 8.63817,
+        "longitude": -80.43848
+    },
+    {
+        "name": "Льяно Марин",
+        "latitude": 8.47696,
+        "longitude": -80.32499
+    },
+    {
+        "name": "Куры",
+        "latitude": 8.39898,
+        "longitude": -80.15731
+    },
+    {
+        "name": "Крем",
+        "latitude": 8.33209,
+        "longitude": -80.51969
+    },
+    {
+        "name": "Наш мастер",
+        "latitude": 8.44485,
+        "longitude": -80.58934
+    },
+    {
+        "name": "Привет",
+        "latitude": 8.41807,
+        "longitude": -80.65123
+    },
+    {
+        "name": "Пеноном",
+        "latitude": 8.51889,
+        "longitude": -80.35727
+    },
+    {
+        "name": "Жирные камни",
+        "latitude": 8.63777,
+        "longitude": -80.51024
+    },
+    {
+        "name": "Мопс",
+        "latitude": 8.25814,
+        "longitude": -80.55
+    },
+    {
+        "name": "Рио-Гранде",
+        "latitude": 8.42679,
+        "longitude": -80.48457
+    },
+    {
+        "name": "Река Хато",
+        "latitude": 8.3794,
+        "longitude": -80.16621
+    },
+    {
+        "name": "Святой Иоанн Божий",
+        "latitude": 8.55119,
+        "longitude": -80.22623
+    },
+    {
+        "name": "Тоабре",
+        "latitude": 8.65131,
+        "longitude": -80.32017
+    },
+    {
+        "name": "Чистый",
+        "latitude": 8.34542,
+        "longitude": -80.64012
+    },
+    {
+        "name": "Красивый вид",
+        "latitude": 8.52687,
+        "longitude": -80.37486
+    },
+    {
+        "name": "Хороший вид",
+        "latitude": 9.27356,
+        "longitude": -79.69551
+    },
+    {
+        "name": "Пленять",
+        "latitude": 9.36218,
+        "longitude": -79.83232
+    },
+    {
+        "name": "Северное Кокле",
+        "latitude": 9.0754,
+        "longitude": -80.57177
+    },
+    {
+        "name": "Двоеточие",
+        "latitude": 9.35451,
+        "longitude": -79.90011
+    },
+    {
+        "name": "Кристобаль",
+        "latitude": 9.35222,
+        "longitude": -79.90444
+    },
+    {
+        "name": "Чагресский район",
+        "latitude": 9.123,
+        "longitude": -80.11841
+    },
+    {
+        "name": "Колонский район",
+        "latitude": 9.24313,
+        "longitude": -79.79463
+    },
+    {
+        "name": "Доносо Район",
+        "latitude": 9.01999,
+        "longitude": -80.42967
+    },
+    {
+        "name": "Портобело (район)",
+        "latitude": 9.49748,
+        "longitude": -79.6073
+    },
+    {
+        "name": "Район Санта-Исабель",
+        "latitude": 9.48333,
+        "longitude": -79.31667
+    },
+    {
+        "name": "Гираль",
+        "latitude": 9.24509,
+        "longitude": -79.69266
+    },
+    {
+        "name": "Гуабо",
+        "latitude": 9.07842,
+        "longitude": -80.08316
+    },
+    {
+        "name": "Юнион-Вэлли",
+        "latitude": 9.2363,
+        "longitude": -79.65986
+    },
+    {
+        "name": "Эскобаль",
+        "latitude": 9.14373,
+        "longitude": -79.96439
+    },
+    {
+        "name": "Ворота",
+        "latitude": 9.28922,
+        "longitude": -79.77204
+    },
+    {
+        "name": "Гатунчилло",
+        "latitude": 9.24346,
+        "longitude": -79.64856
+    },
+    {
+        "name": "Ромашки",
+        "latitude": 9.32603,
+        "longitude": -79.89028
+    },
+    {
+        "name": "Мария Чикита",
+        "latitude": 9.43991,
+        "longitude": -79.75455
+    },
+    {
+        "name": "Мирамар",
+        "latitude": 9.57544,
+        "longitude": -79.33573
+    },
+    {
+        "name": "Имя Бога",
+        "latitude": 9.57937,
+        "longitude": -79.47109
+    },
+    {
+        "name": "Новый Чагрес",
+        "latitude": 9.23979,
+        "longitude": -80.08267
+    },
+    {
+        "name": "Нью-Сан-Хуан",
+        "latitude": 9.22205,
+        "longitude": -79.66602
+    },
+    {
+        "name": "Новый наблюдатель",
+        "latitude": 9.24263,
+        "longitude": -79.60756
+    },
+    {
+        "name": "Паленке",
+        "latitude": 9.5697,
+        "longitude": -79.36341
+    },
+    {
+        "name": "Красивые Пальмы",
+        "latitude": 9.22838,
+        "longitude": -80.08503
+    },
+    {
+        "name": "Пальмира",
+        "latitude": 9.54359,
+        "longitude": -79.21946
+    },
+    {
+        "name": "Пляж Чикита",
+        "latitude": 9.5662,
+        "longitude": -79.29185
+    },
+    {
+        "name": "Портобело",
+        "latitude": 9.55303,
+        "longitude": -79.65693
+    },
+    {
+        "name": "скрытый порт",
+        "latitude": 9.19333,
+        "longitude": -80.08833
+    },
+    {
+        "name": "Пуэрто Пилон",
+        "latitude": 9.36316,
+        "longitude": -79.79333
+    },
+    {
+        "name": "Кебрада Бонита Внутри",
+        "latitude": 9.29662,
+        "longitude": -79.70606
+    },
+    {
+        "name": "Александр Ривер",
+        "latitude": 9.37149,
+        "longitude": -79.78809
+    },
+    {
+        "name": "Река Дуке",
+        "latitude": 9.25688,
+        "longitude": -79.67937
+    },
+    {
+        "name": "Река Рита",
+        "latitude": 9.30296,
+        "longitude": -79.79234
+    },
+    {
+        "name": "Сабанитас",
+        "latitude": 9.34269,
+        "longitude": -79.80961
+    },
+    {
+        "name": "Святая Елизавета",
+        "latitude": 9.53922,
+        "longitude": -79.1957
+    },
+    {
+        "name": "Санта-Рита выше",
+        "latitude": 9.33032,
+        "longitude": -79.79363
+    },
+    {
+        "name": "Холодный ветер",
+        "latitude": 9.58263,
+        "longitude": -79.4069
+    },
+    {
+        "name": "Купе Рот",
+        "latitude": 8.03003,
+        "longitude": -77.58978
+    },
+    {
+        "name": "Камоганти",
+        "latitude": 8.04171,
+        "longitude": -77.88682
+    },
+    {
+        "name": "Кукунати",
+        "latitude": 8.57508,
+        "longitude": -78.25671
+    },
+    {
+        "name": "Чепиганский район",
+        "latitude": 7.84374,
+        "longitude": -77.8383
+    },
+    {
+        "name": "Пиноганский район",
+        "latitude": 7.89343,
+        "longitude": -77.52562
+    },
+    {
+        "name": "Гарачине",
+        "latitude": 8.06684,
+        "longitude": -78.36436
+    },
+    {
+        "name": "Жак",
+        "latitude": 7.51826,
+        "longitude": -78.16343
+    },
+    {
+        "name": "Пальмовое",
+        "latitude": 8.40608,
+        "longitude": -78.13964
+    },
+    {
+        "name": "Подметание",
+        "latitude": 8.49909,
+        "longitude": -77.97897
+    },
+    {
+        "name": "Морти",
+        "latitude": 8.84246,
+        "longitude": -77.97539
+    },
+    {
+        "name": "Буря",
+        "latitude": 7.97876,
+        "longitude": -77.48758
+    },
+    {
+        "name": "Санта-Фе",
+        "latitude": 8.65525,
+        "longitude": -78.1614
+    },
+    {
+        "name": "Явиза",
+        "latitude": 8.15835,
+        "longitude": -77.69276
+    },
+    {
+        "name": "Баямон",
+        "latitude": 7.96817,
+        "longitude": -78.21648
+    },
+    {
+        "name": "Чемако",
+        "latitude": 8.08285,
+        "longitude": -77.5421
+    },
+    {
+        "name": "Коросаль",
+        "latitude": 8.20108,
+        "longitude": -77.59637
+    },
+    {
+        "name": "Сожительство",
+        "latitude": 7.82013,
+        "longitude": -78.11005
+    },
+    {
+        "name": "Юнион Чоко",
+        "latitude": 8.08404,
+        "longitude": -77.53507
+    },
+    {
+        "name": "Ага",
+        "latitude": 8.09839,
+        "longitude": -77.59817
+    },
+    {
+        "name": "Ачутупо",
+        "latitude": 9.19827,
+        "longitude": -77.98729
+    },
+    {
+        "name": "Аллиганты",
+        "latitude": 9.2281,
+        "longitude": -78.02778
+    },
+    {
+        "name": "Карти Сугдуп",
+        "latitude": 9.4646,
+        "longitude": -78.95931
+    },
+    {
+        "name": "Будущее",
+        "latitude": 9.55276,
+        "longitude": -78.9523
+    },
+    {
+        "name": "Мулатупо",
+        "latitude": 8.94672,
+        "longitude": -77.7508
+    },
+    {
+        "name": "Наргана",
+        "latitude": 9.44394,
+        "longitude": -78.58666
+    },
+    {
+        "name": "Маленькая игровая площадка",
+        "latitude": 9.31128,
+        "longitude": -78.2327
+    },
+    {
+        "name": "Пуэрто-Обалдия",
+        "latitude": 8.66632,
+        "longitude": -77.41922
+    },
+    {
+        "name": "Святой Игнатий Тупиле",
+        "latitude": 9.28905,
+        "longitude": -78.15206
+    },
+    {
+        "name": "Тубуала",
+        "latitude": 9.51667,
+        "longitude": -79.03333
+    },
+    {
+        "name": "Отвали",
+        "latitude": 9.13112,
+        "longitude": -77.9262
+    },
+    {
+        "name": "Парита Рот",
+        "latitude": 8.00796,
+        "longitude": -80.4532
+    },
+    {
+        "name": "Кабуя",
+        "latitude": 8.03138,
+        "longitude": -80.63227
+    },
+    {
+        "name": "Лонг Хилл",
+        "latitude": 7.83377,
+        "longitude": -80.83168
+    },
+    {
+        "name": "Читре",
+        "latitude": 7.96082,
+        "longitude": -80.42944
+    },
+    {
+        "name": "Чумикал",
+        "latitude": 7.84482,
+        "longitude": -80.72627
+    },
+    {
+        "name": "Чупампа",
+        "latitude": 8.0762,
+        "longitude": -80.77656
+    },
+    {
+        "name": "Читре район",
+        "latitude": 7.98333,
+        "longitude": -80.43333
+    },
+    {
+        "name": "Район Лас-Минас",
+        "latitude": 7.76525,
+        "longitude": -80.82249
+    },
+    {
+        "name": "Лос-Посос (район)",
+        "latitude": 7.70944,
+        "longitude": -80.64311
+    },
+    {
+        "name": "Район Оку",
+        "latitude": 7.90641,
+        "longitude": -80.79752
+    },
+    {
+        "name": "Паритинский район",
+        "latitude": 8.0624,
+        "longitude": -80.56373
+    },
+    {
+        "name": "Песе район",
+        "latitude": 7.88194,
+        "longitude": -80.63261
+    },
+    {
+        "name": "район Санта-Мария",
+        "latitude": 8.11667,
+        "longitude": -80.68333
+    },
+    {
+        "name": "Калабачито",
+        "latitude": 7.71843,
+        "longitude": -80.59757
+    },
+    {
+        "name": "Капури",
+        "latitude": 7.72571,
+        "longitude": -80.64349
+    },
+    {
+        "name": "Кедр",
+        "latitude": 7.68565,
+        "longitude": -80.65927
+    },
+    {
+        "name": "Каменный",
+        "latitude": 7.93642,
+        "longitude": -80.63807
+    },
+    {
+        "name": "Угол",
+        "latitude": 8.11923,
+        "longitude": -80.61707
+    },
+    {
+        "name": "Бык",
+        "latitude": 7.7511,
+        "longitude": -80.86943
+    },
+    {
+        "name": "Песок",
+        "latitude": 7.96766,
+        "longitude": -80.46523
+    },
+    {
+        "name": "Троица",
+        "latitude": 7.91457,
+        "longitude": -80.70332
+    },
+    {
+        "name": "Гуабас",
+        "latitude": 7.90949,
+        "longitude": -80.80706
+    },
+    {
+        "name": "Шахты",
+        "latitude": 7.79581,
+        "longitude": -80.7457
+    },
+    {
+        "name": "Львы вверх",
+        "latitude": 7.7659,
+        "longitude": -80.84515
+    },
+    {
+        "name": "Ножницы Лимон",
+        "latitude": 7.81756,
+        "longitude": -80.91335
+    },
+    {
+        "name": "Красивая равнина",
+        "latitude": 7.97637,
+        "longitude": -80.41646
+    },
+    {
+        "name": "Льяно де ла Крус",
+        "latitude": 7.95178,
+        "longitude": -80.64239
+    },
+    {
+        "name": "Большая квартира",
+        "latitude": 7.97406,
+        "longitude": -80.71103
+    },
+    {
+        "name": "Лос-Канелос",
+        "latitude": 8.11722,
+        "longitude": -80.70769
+    },
+    {
+        "name": "Замки",
+        "latitude": 7.98565,
+        "longitude": -80.61886
+    },
+    {
+        "name": "Серритос",
+        "latitude": 7.79746,
+        "longitude": -80.61071
+    },
+    {
+        "name": "Соломенные холмы",
+        "latitude": 7.71821,
+        "longitude": -80.67273
+    },
+    {
+        "name": "Уэллс",
+        "latitude": 7.783,
+        "longitude": -80.64524
+    },
+    {
+        "name": "Монагрилло",
+        "latitude": 7.98179,
+        "longitude": -80.43764
+    },
+    {
+        "name": "Папочка",
+        "latitude": 7.94052,
+        "longitude": -80.77936
+    },
+    {
+        "name": "Париж",
+        "latitude": 8.05053,
+        "longitude": -80.55409
+    },
+    {
+        "name": "Равный",
+        "latitude": 7.99393,
+        "longitude": -80.52097
+    },
+    {
+        "name": "Пеньяс Чатас",
+        "latitude": 8.01502,
+        "longitude": -80.80366
+    },
+    {
+        "name": "Взвешенный",
+        "latitude": 7.90863,
+        "longitude": -80.61433
+    },
+    {
+        "name": "Питалоза Вверх",
+        "latitude": 7.64216,
+        "longitude": -80.66788
+    },
+    {
+        "name": "Портобелильо",
+        "latitude": 8.01738,
+        "longitude": -80.59538
+    },
+    {
+        "name": "Отрезать",
+        "latitude": 8.06317,
+        "longitude": -80.62271
+    },
+    {
+        "name": "Ущелье Росарио",
+        "latitude": 7.71238,
+        "longitude": -80.74222
+    },
+    {
+        "name": "Глубокий угол",
+        "latitude": 7.84436,
+        "longitude": -80.60397
+    },
+    {
+        "name": "большая простыня",
+        "latitude": 7.88002,
+        "longitude": -80.63818
+    },
+    {
+        "name": "Святой Иоанн Креститель",
+        "latitude": 7.96099,
+        "longitude": -80.41283
+    },
+    {
+        "name": "Санта Мария",
+        "latitude": 8.11143,
+        "longitude": -80.66582
+    },
+    {
+        "name": "Хорошая вода",
+        "latitude": 7.83465,
+        "longitude": -80.39405
+    },
+    {
+        "name": "Аве Мария",
+        "latitude": 7.32481,
+        "longitude": -80.45361
+    },
+    {
+        "name": "Хонда Бэй",
+        "latitude": 7.70517,
+        "longitude": -80.45342
+    },
+    {
+        "name": "Под Корралом",
+        "latitude": 7.60463,
+        "longitude": -80.26016
+    },
+    {
+        "name": "Баяно",
+        "latitude": 7.63014,
+        "longitude": -80.38201
+    },
+    {
+        "name": "Красивый вид",
+        "latitude": 7.75,
+        "longitude": -80.23333
+    },
+    {
+        "name": "Камбутал",
+        "latitude": 7.26534,
+        "longitude": -80.49105
+    },
+    {
+        "name": "белые волосы",
+        "latitude": 7.44713,
+        "longitude": -80.2648
+    },
+    {
+        "name": "Кедр выше",
+        "latitude": 7.78097,
+        "longitude": -80.53057
+    },
+    {
+        "name": "Район Гуараре",
+        "latitude": 7.77021,
+        "longitude": -80.37515
+    },
+    {
+        "name": "Район Лас-Таблас",
+        "latitude": 7.64843,
+        "longitude": -80.29933
+    },
+    {
+        "name": "Лос-Сантос (район)",
+        "latitude": 7.88333,
+        "longitude": -80.45
+    },
+    {
+        "name": "Макаракасский район",
+        "latitude": 7.65817,
+        "longitude": -80.53526
+    },
+    {
+        "name": "Педасский район",
+        "latitude": 7.48528,
+        "longitude": -80.12747
+    },
+    {
+        "name": "Покрийский район",
+        "latitude": 7.63721,
+        "longitude": -80.1647
+    },
+    {
+        "name": "Тоносский район",
+        "latitude": 7.43597,
+        "longitude": -80.45828
+    },
+    {
+        "name": "Какао",
+        "latitude": 7.4457,
+        "longitude": -80.40938
+    },
+    {
+        "name": "Каньяфистуло",
+        "latitude": 7.61768,
+        "longitude": -80.23322
+    },
+    {
+        "name": "Эль Карат",
+        "latitude": 7.73124,
+        "longitude": -80.29691
+    },
+    {
+        "name": "Кокал",
+        "latitude": 7.73697,
+        "longitude": -80.2798
+    },
+    {
+        "name": "Кортесо",
+        "latitude": 7.42661,
+        "longitude": -80.63311
+    },
+    {
+        "name": "Эхидо",
+        "latitude": 7.91634,
+        "longitude": -80.38686
+    },
+    {
+        "name": "Гуазимо",
+        "latitude": 7.8064,
+        "longitude": -80.52991
+    },
+    {
+        "name": "Хато",
+        "latitude": 7.79316,
+        "longitude": -80.38267
+    },
+    {
+        "name": "Макано",
+        "latitude": 7.68489,
+        "longitude": -80.40309
+    },
+    {
+        "name": "Весна",
+        "latitude": 7.78245,
+        "longitude": -80.24713
+    },
+    {
+        "name": "Муньос",
+        "latitude": 7.67582,
+        "longitude": -80.3213
+    },
+    {
+        "name": "Каменный",
+        "latitude": 7.69173,
+        "longitude": -80.32793
+    },
+    {
+        "name": "Флорес",
+        "latitude": 7.48157,
+        "longitude": -80.40695
+    },
+    {
+        "name": "Гуараре",
+        "latitude": 7.81531,
+        "longitude": -80.28345
+    },
+    {
+        "name": "Гуараре выше",
+        "latitude": 7.80023,
+        "longitude": -80.35983
+    },
+    {
+        "name": "Красный",
+        "latitude": 7.82362,
+        "longitude": -80.55552
+    },
+    {
+        "name": "Эней",
+        "latitude": 7.83333,
+        "longitude": -80.27417
+    },
+    {
+        "name": "Эспигадилья",
+        "latitude": 7.88389,
+        "longitude": -80.39039
+    },
+    {
+        "name": "Ла Лаха",
+        "latitude": 7.73102,
+        "longitude": -80.25298
+    },
+    {
+        "name": "Стол",
+        "latitude": 7.6567,
+        "longitude": -80.61794
+    },
+    {
+        "name": "Мед",
+        "latitude": 7.56022,
+        "longitude": -80.32736
+    },
+    {
+        "name": "Пальмовое",
+        "latitude": 7.71667,
+        "longitude": -80.38333
+    },
+    {
+        "name": "Пасера",
+        "latitude": 7.79757,
+        "longitude": -80.30342
+    },
+    {
+        "name": "Мел",
+        "latitude": 7.7511,
+        "longitude": -80.29216
+    },
+    {
+        "name": "Троноса",
+        "latitude": 7.43609,
+        "longitude": -80.58698
+    },
+    {
+        "name": "Мое имя",
+        "latitude": 7.58587,
+        "longitude": -80.13212
+    },
+    {
+        "name": "Кресты",
+        "latitude": 7.82285,
+        "longitude": -80.43003
+    },
+    {
+        "name": "Гуабас",
+        "latitude": 7.81469,
+        "longitude": -80.50155
+    },
+    {
+        "name": "Пальмы",
+        "latitude": 7.68314,
+        "longitude": -80.49728
+    },
+    {
+        "name": "Лас-Пальмитас",
+        "latitude": 7.76523,
+        "longitude": -80.2935
+    },
+    {
+        "name": "Столы",
+        "latitude": 7.76472,
+        "longitude": -80.27483
+    },
+    {
+        "name": "Транкас",
+        "latitude": 7.734,
+        "longitude": -80.37384
+    },
+    {
+        "name": "Обычный вниз",
+        "latitude": 7.78598,
+        "longitude": -80.4106
+    },
+    {
+        "name": "Каменная равнина",
+        "latitude": 7.65972,
+        "longitude": -80.56347
+    },
+    {
+        "name": "Длинная равнина",
+        "latitude": 7.90607,
+        "longitude": -80.42561
+    },
+    {
+        "name": "Ангелы",
+        "latitude": 7.88422,
+        "longitude": -80.35772
+    },
+    {
+        "name": "Сиденья",
+        "latitude": 7.51656,
+        "longitude": -80.13521
+    },
+    {
+        "name": "Оливковые деревья",
+        "latitude": 7.91589,
+        "longitude": -80.48884
+    },
+    {
+        "name": "Святые",
+        "latitude": 7.93333,
+        "longitude": -80.41667
+    },
+    {
+        "name": "Макаракас",
+        "latitude": 7.73168,
+        "longitude": -80.55364
+    },
+    {
+        "name": "Моголлон",
+        "latitude": 7.64261,
+        "longitude": -80.4595
+    },
+    {
+        "name": "Нуарио",
+        "latitude": 7.53047,
+        "longitude": -80.32692
+    },
+    {
+        "name": "Ория идет",
+        "latitude": 7.50505,
+        "longitude": -80.20567
+    },
+    {
+        "name": "Пальмира",
+        "latitude": 7.66347,
+        "longitude": -80.35728
+    },
+    {
+        "name": "Рай",
+        "latitude": 7.6851,
+        "longitude": -80.16082
+    },
+    {
+        "name": "Наравне",
+        "latitude": 7.62848,
+        "longitude": -80.1724
+    },
+    {
+        "name": "Педаси",
+        "latitude": 7.53034,
+        "longitude": -80.02699
+    },
+    {
+        "name": "Белая печаль",
+        "latitude": 7.71931,
+        "longitude": -80.28366
+    },
+    {
+        "name": "грушевые деревья",
+        "latitude": 7.77461,
+        "longitude": -80.32494
+    },
+    {
+        "name": "Мопс",
+        "latitude": 7.65816,
+        "longitude": -80.12119
+    },
+    {
+        "name": "Глубокая река",
+        "latitude": 7.71192,
+        "longitude": -80.35904
+    },
+    {
+        "name": "большая простыня",
+        "latitude": 7.83543,
+        "longitude": -80.3649
+    },
+    {
+        "name": "Святой Иосиф",
+        "latitude": 7.67395,
+        "longitude": -80.24438
+    },
+    {
+        "name": "Санта-Ана-Арриба",
+        "latitude": 7.933,
+        "longitude": -80.36369
+    },
+    {
+        "name": "Санто-Доминго",
+        "latitude": 7.74614,
+        "longitude": -80.24173
+    },
+    {
+        "name": "Сестедеро",
+        "latitude": 7.73885,
+        "longitude": -80.24854
+    },
+    {
+        "name": "Тонны",
+        "latitude": 7.40684,
+        "longitude": -80.44217
+    },
+    {
+        "name": "Три Кебрады",
+        "latitude": 7.84018,
+        "longitude": -80.4074
+    },
+    {
+        "name": "Рико Вэлли",
+        "latitude": 7.62011,
+        "longitude": -80.35076
+    },
+    {
+        "name": "Валлеррикито",
+        "latitude": 7.62163,
+        "longitude": -80.31975
+    },
+    {
+        "name": "Вилла Лурдес",
+        "latitude": 7.81141,
+        "longitude": -80.47029
+    },
+    {
+        "name": "Блю Бэй",
+        "latitude": 9.14176,
+        "longitude": -81.89425
+    },
+    {
+        "name": "Традиционный",
+        "latitude": 8.54863,
+        "longitude": -82.0898
+    },
+    {
+        "name": "готовить его",
+        "latitude": 8.89553,
+        "longitude": -81.85352
+    },
+    {
+        "name": "Плот Рот",
+        "latitude": 8.52995,
+        "longitude": -82.03132
+    },
+    {
+        "name": "Буэнос айрес",
+        "latitude": 8.41384,
+        "longitude": -81.4844
+    },
+    {
+        "name": "Креветки",
+        "latitude": 8.38324,
+        "longitude": -81.99345
+    },
+    {
+        "name": "Банк Хилл",
+        "latitude": 8.45797,
+        "longitude": -82.03081
+    },
+    {
+        "name": "Серро-Кана",
+        "latitude": 8.35174,
+        "longitude": -81.6105
+    },
+    {
+        "name": "Серебряный Холм",
+        "latitude": 8.47733,
+        "longitude": -81.54585
+    },
+    {
+        "name": "Чичика",
+        "latitude": 8.35885,
+        "longitude": -81.66582
+    },
+    {
+        "name": "Гуаябито",
+        "latitude": 8.53949,
+        "longitude": -81.48225
+    },
+    {
+        "name": "Хато Чами",
+        "latitude": 8.44281,
+        "longitude": -81.77196
+    },
+    {
+        "name": "Великий Короту",
+        "latitude": 8.33516,
+        "longitude": -81.9703
+    },
+    {
+        "name": "я буду страдать",
+        "latitude": 8.89503,
+        "longitude": -81.8575
+    },
+    {
+        "name": "Кусапин",
+        "latitude": 9.17119,
+        "longitude": -81.89621
+    },
+    {
+        "name": "Ладжеро Вверх",
+        "latitude": 8.2906,
+        "longitude": -81.77047
+    },
+    {
+        "name": "Льяно Нопо",
+        "latitude": 8.41996,
+        "longitude": -81.61865
+    },
+    {
+        "name": "Лома Юка",
+        "latitude": 8.71817,
+        "longitude": -81.40492
+    },
+    {
+        "name": "Майрон",
+        "latitude": 8.40469,
+        "longitude": -81.83064
+    },
+    {
+        "name": "Мой",
+        "latitude": 8.35035,
+        "longitude": -81.67219
+    },
+    {
+        "name": "Ноле Дуйма",
+        "latitude": 8.32682,
+        "longitude": -81.81531
+    },
+    {
+        "name": "вроде",
+        "latitude": 8.47815,
+        "longitude": -81.47015
+    },
+    {
+        "name": "Собственный",
+        "latitude": 8.35019,
+        "longitude": -81.80177
+    },
+    {
+        "name": "Вверх по стене",
+        "latitude": 8.45977,
+        "longitude": -81.19592
+    },
+    {
+        "name": "План де Чорча",
+        "latitude": 8.46168,
+        "longitude": -82.15924
+    },
+    {
+        "name": "Новый город",
+        "latitude": 8.8807,
+        "longitude": -82.22411
+    },
+    {
+        "name": "Кебрада Каноа",
+        "latitude": 8.43333,
+        "longitude": -81.78333
+    },
+    {
+        "name": "Тульское ущелье",
+        "latitude": 8.84037,
+        "longitude": -81.99645
+    },
+    {
+        "name": "Сайт Прадо",
+        "latitude": 8.37233,
+        "longitude": -81.58141
+    },
+    {
+        "name": "Тобобе",
+        "latitude": 9.12111,
+        "longitude": -81.82471
+    },
+    {
+        "name": "Эспино Хайтс",
+        "latitude": 8.84213,
+        "longitude": -79.84551
+    },
+    {
+        "name": "Сан-Франциско Хайтс",
+        "latitude": 8.86167,
+        "longitude": -79.79
+    },
+    {
+        "name": "Сэнди",
+        "latitude": 9.03978,
+        "longitude": -79.95128
+    },
+    {
+        "name": "Аросемена",
+        "latitude": 8.97091,
+        "longitude": -79.96641
+    },
+    {
+        "name": "Аррайжан",
+        "latitude": 8.95187,
+        "longitude": -79.66011
+    },
+    {
+        "name": "Бежуко",
+        "latitude": 8.60037,
+        "longitude": -79.88988
+    },
+    {
+        "name": "Буэнос айрес",
+        "latitude": 8.63146,
+        "longitude": -79.94775
+    },
+    {
+        "name": "Кабуя",
+        "latitude": 8.57472,
+        "longitude": -79.92714
+    },
+    {
+        "name": "Каймито",
+        "latitude": 8.81143,
+        "longitude": -79.94738
+    },
+    {
+        "name": "Пойму",
+        "latitude": 8.75636,
+        "longitude": -79.87996
+    },
+    {
+        "name": "Черменьо",
+        "latitude": 8.74082,
+        "longitude": -79.85299
+    },
+    {
+        "name": "Серро Кама",
+        "latitude": 9.02802,
+        "longitude": -79.90744
+    },
+    {
+        "name": "Вызов",
+        "latitude": 8.57753,
+        "longitude": -79.88595
+    },
+    {
+        "name": "Сири де Лос Сотос",
+        "latitude": 8.97206,
+        "longitude": -80.09209
+    },
+    {
+        "name": "Аррайханский район",
+        "latitude": 8.95,
+        "longitude": -79.7
+    },
+    {
+        "name": "Капирский район",
+        "latitude": 8.76228,
+        "longitude": -79.88275
+    },
+    {
+        "name": "Чамский район",
+        "latitude": 8.6,
+        "longitude": -79.91667
+    },
+    {
+        "name": "Район Ла Чоррера",
+        "latitude": 8.95,
+        "longitude": -79.85
+    },
+    {
+        "name": "Район Сан-Карлос",
+        "latitude": 8.53196,
+        "longitude": -80.06906
+    },
+    {
+        "name": "Какао",
+        "latitude": 8.76134,
+        "longitude": -80.01294
+    },
+    {
+        "name": "Кокос",
+        "latitude": 8.87009,
+        "longitude": -79.80415
+    },
+    {
+        "name": "Эспаве",
+        "latitude": 8.66161,
+        "longitude": -79.87584
+    },
+    {
+        "name": "Боярышник",
+        "latitude": 8.83795,
+        "longitude": -79.84925
+    },
+    {
+        "name": "ИНЖИР",
+        "latitude": 8.44731,
+        "longitude": -80.03603
+    },
+    {
+        "name": "Либано",
+        "latitude": 8.61685,
+        "longitude": -79.83483
+    },
+    {
+        "name": "Гваделупа",
+        "latitude": 8.85452,
+        "longitude": -79.81408
+    },
+    {
+        "name": "Гуаябито",
+        "latitude": 8.54828,
+        "longitude": -80.0135
+    },
+    {
+        "name": "Горное стадо",
+        "latitude": 8.91938,
+        "longitude": -79.73915
+    },
+    {
+        "name": "Чоррера",
+        "latitude": 8.88028,
+        "longitude": -79.78333
+    },
+    {
+        "name": "Эрмитаж",
+        "latitude": 8.45622,
+        "longitude": -80.06835
+    },
+    {
+        "name": "Подкова",
+        "latitude": 8.84848,
+        "longitude": -79.80404
+    },
+    {
+        "name": "Лагуна",
+        "latitude": 9.04404,
+        "longitude": -79.84215
+    },
+    {
+        "name": "Митра",
+        "latitude": 8.84091,
+        "longitude": -79.78648
+    },
+    {
+        "name": "Вес",
+        "latitude": 8.85073,
+        "longitude": -79.82374
+    },
+    {
+        "name": "Холмы",
+        "latitude": 8.55,
+        "longitude": -80.08333
+    },
+    {
+        "name": "Плиты",
+        "latitude": 8.54963,
+        "longitude": -79.93521
+    },
+    {
+        "name": "Виноград",
+        "latitude": 8.45937,
+        "longitude": -80.00075
+    },
+    {
+        "name": "Длинная равнина",
+        "latitude": 8.83463,
+        "longitude": -79.80765
+    },
+    {
+        "name": "Равнины",
+        "latitude": 8.59787,
+        "longitude": -80.09503
+    },
+    {
+        "name": "Мендоса",
+        "latitude": 9.01471,
+        "longitude": -79.85073
+    },
+    {
+        "name": "Нью Сэнди",
+        "latitude": 8.86944,
+        "longitude": -79.99472
+    },
+    {
+        "name": "Новая Горгона",
+        "latitude": 8.55,
+        "longitude": -79.87547
+    },
+    {
+        "name": "Нью-Аррайхан",
+        "latitude": 8.92453,
+        "longitude": -79.72004
+    },
+    {
+        "name": "Новый Император",
+        "latitude": 9.00273,
+        "longitude": -79.73141
+    },
+    {
+        "name": "Плайя-Леона",
+        "latitude": 8.78389,
+        "longitude": -79.77547
+    },
+    {
+        "name": "Большой Паддок",
+        "latitude": 8.88051,
+        "longitude": -79.82795
+    },
+    {
+        "name": "Пуэрто Каймито",
+        "latitude": 8.87022,
+        "longitude": -79.71423
+    },
+    {
+        "name": "Река Конго",
+        "latitude": 8.96666,
+        "longitude": -79.76105
+    },
+    {
+        "name": "Сент-Чарльз",
+        "latitude": 8.47323,
+        "longitude": -79.96104
+    },
+    {
+        "name": "Святой Иосиф",
+        "latitude": 8.93333,
+        "longitude": -79.73333
+    },
+    {
+        "name": "Сан-Висенте-де-Бике",
+        "latitude": 8.91143,
+        "longitude": -79.6736
+    },
+    {
+        "name": "Сент-Клер",
+        "latitude": 9.02875,
+        "longitude": -79.75443
+    },
+    {
+        "name": "Санта Рита",
+        "latitude": 8.85681,
+        "longitude": -79.87954
+    },
+    {
+        "name": "Сора",
+        "latitude": 8.63191,
+        "longitude": -80.00888
+    },
+    {
+        "name": "Веракрус",
+        "latitude": 8.88988,
+        "longitude": -79.62603
+    },
+    {
+        "name": "Вилла Кармен",
+        "latitude": 8.79832,
+        "longitude": -79.86929
+    },
+    {
+        "name": "Вилла Росарио",
+        "latitude": 8.77379,
+        "longitude": -79.87547
+    },
+    {
+        "name": "Хорошие виды",
+        "latitude": 8.92772,
+        "longitude": -79.7028
+    },
+    {
+        "name": "Мэр Диас",
+        "latitude": 9.12016,
+        "longitude": -79.55641
+    },
+    {
+        "name": "Анкон",
+        "latitude": 8.96015,
+        "longitude": -79.5514
+    },
+    {
+        "name": "Ведьмы",
+        "latitude": 8.58536,
+        "longitude": -78.53008
+    },
+    {
+        "name": "Коза номер один",
+        "latitude": 9.10863,
+        "longitude": -79.33694
+    },
+    {
+        "name": "Каймитильо",
+        "latitude": 9.15559,
+        "longitude": -79.53974
+    },
+    {
+        "name": "Длинная дамба",
+        "latitude": 9.17272,
+        "longitude": -79.56212
+    },
+    {
+        "name": "Канита",
+        "latitude": 9.22236,
+        "longitude": -78.89509
+    },
+    {
+        "name": "Голубой холм",
+        "latitude": 9.15735,
+        "longitude": -79.42097
+    },
+    {
+        "name": "Чепилло",
+        "latitude": 8.95396,
+        "longitude": -79.12856
+    },
+    {
+        "name": "Чепо",
+        "latitude": 9.17019,
+        "longitude": -79.10083
+    },
+    {
+        "name": "Весы",
+        "latitude": 9.15093,
+        "longitude": -79.62098
+    },
+    {
+        "name": "Чиман",
+        "latitude": 8.69125,
+        "longitude": -78.6357
+    },
+    {
+        "name": "Бухгалтер",
+        "latitude": 8.62483,
+        "longitude": -79.03748
+    },
+    {
+        "name": "Курунду",
+        "latitude": 8.97092,
+        "longitude": -79.54612
+    },
+    {
+        "name": "Бальбоа Район",
+        "latitude": 8.46667,
+        "longitude": -79.0
+    },
+    {
+        "name": "Чепоский район",
+        "latitude": 9.17391,
+        "longitude": -78.70374
+    },
+    {
+        "name": "Чиманский район",
+        "latitude": 8.76043,
+        "longitude": -78.5647
+    },
+    {
+        "name": "Район Панамы",
+        "latitude": 9.30612,
+        "longitude": -79.45246
+    },
+    {
+        "name": "Район Табога",
+        "latitude": 8.78333,
+        "longitude": -79.55833
+    },
+    {
+        "name": "Эль Чоррильо",
+        "latitude": 8.94964,
+        "longitude": -79.54715
+    },
+    {
+        "name": "Прогресс",
+        "latitude": 9.26667,
+        "longitude": -79.11667
+    },
+    {
+        "name": "Гонсалильо",
+        "latitude": 9.09183,
+        "longitude": -79.51928
+    },
+    {
+        "name": "Говард",
+        "latitude": 8.93942,
+        "longitude": -79.59097
+    },
+    {
+        "name": "Хуан Диас",
+        "latitude": 9.05,
+        "longitude": -79.45
+    },
+    {
+        "name": "Кабима",
+        "latitude": 9.11865,
+        "longitude": -79.5366
+    },
+    {
+        "name": "Красный",
+        "latitude": 9.10224,
+        "longitude": -79.416
+    },
+    {
+        "name": "Бухта",
+        "latitude": 8.36618,
+        "longitude": -78.84606
+    },
+    {
+        "name": "Изумруд",
+        "latitude": 8.26817,
+        "longitude": -78.9246
+    },
+    {
+        "name": "Гвинея",
+        "latitude": 8.3425,
+        "longitude": -78.9343
+    },
+    {
+        "name": "Стол",
+        "latitude": 9.17308,
+        "longitude": -79.27401
+    },
+    {
+        "name": "Холмы",
+        "latitude": 9.08916,
+        "longitude": -79.52809
+    },
+    {
+        "name": "Ромашки",
+        "latitude": 9.18426,
+        "longitude": -79.0873
+    },
+    {
+        "name": "Лидице",
+        "latitude": 8.74869,
+        "longitude": -79.90974
+    },
+    {
+        "name": "Лоты",
+        "latitude": 9.12425,
+        "longitude": -79.28929
+    },
+    {
+        "name": "Новая надежда",
+        "latitude": 9.1021,
+        "longitude": -79.33414
+    },
+    {
+        "name": "Новый Вифлеем",
+        "latitude": 9.07939,
+        "longitude": -79.39556
+    },
+    {
+        "name": "Пакора",
+        "latitude": 9.07937,
+        "longitude": -79.28997
+    },
+    {
+        "name": "Панама",
+        "latitude": 8.9936,
+        "longitude": -79.51973
+    },
+    {
+        "name": "Лефевр Парк",
+        "latitude": 9.01667,
+        "longitude": -79.48333
+    },
+    {
+        "name": "Пасига",
+        "latitude": 8.93647,
+        "longitude": -78.90917
+    },
+    {
+        "name": "осыпь",
+        "latitude": 9.06667,
+        "longitude": -79.43333
+    },
+    {
+        "name": "Вниз по реке",
+        "latitude": 9.01667,
+        "longitude": -79.5
+    },
+    {
+        "name": "Сан Антонио",
+        "latitude": 9.1729,
+        "longitude": -79.54743
+    },
+    {
+        "name": "Сан-Фелипе",
+        "latitude": 8.95118,
+        "longitude": -79.53726
+    },
+    {
+        "name": "Сан-Мигель",
+        "latitude": 8.45685,
+        "longitude": -78.93695
+    },
+    {
+        "name": "Сан-Мигелито",
+        "latitude": 9.05032,
+        "longitude": -79.47068
+    },
+    {
+        "name": "Сент-Винсент",
+        "latitude": 9.11445,
+        "longitude": -79.59755
+    },
+    {
+        "name": "Токумен",
+        "latitude": 9.08939,
+        "longitude": -79.3831
+    },
+    {
+        "name": "Торти",
+        "latitude": 8.92132,
+        "longitude": -78.40546
+    },
+    {
+        "name": "Асуэро Юнион",
+        "latitude": 9.15256,
+        "longitude": -79.17005
+    },
+    {
+        "name": "Союз Сантенья",
+        "latitude": 8.83525,
+        "longitude": -78.65104
+    },
+    {
+        "name": "Объединенная деревня",
+        "latitude": 9.18908,
+        "longitude": -79.62452
+    },
+    {
+        "name": "Красивый вид",
+        "latitude": 9.11178,
+        "longitude": -79.36113
+    },
+    {
+        "name": "Альто де Хесус",
+        "latitude": 8.26152,
+        "longitude": -81.48412
+    },
+    {
+        "name": "Арены",
+        "latitude": 7.36865,
+        "longitude": -80.86268
+    },
+    {
+        "name": "Сторожевая башня",
+        "latitude": 8.04213,
+        "longitude": -80.92528
+    },
+    {
+        "name": "лак",
+        "latitude": 8.4046,
+        "longitude": -80.77765
+    },
+    {
+        "name": "Бисвальес",
+        "latitude": 8.18298,
+        "longitude": -81.22092
+    },
+    {
+        "name": "Анчоус",
+        "latitude": 8.24414,
+        "longitude": -80.85897
+    },
+    {
+        "name": "Бор",
+        "latitude": 8.16933,
+        "longitude": -81.30071
+    },
+    {
+        "name": "Калабачито",
+        "latitude": 8.24817,
+        "longitude": -81.08187
+    },
+    {
+        "name": "Калидония",
+        "latitude": 7.95756,
+        "longitude": -81.38633
+    },
+    {
+        "name": "горячий",
+        "latitude": 8.31886,
+        "longitude": -80.84067
+    },
+    {
+        "name": "Каловебора",
+        "latitude": 8.78703,
+        "longitude": -81.21056
+    },
+    {
+        "name": "Канасас",
+        "latitude": 8.32004,
+        "longitude": -81.21152
+    },
+    {
+        "name": "Простая песня",
+        "latitude": 8.12472,
+        "longitude": -80.96374
+    },
+    {
+        "name": "Коросаль",
+        "latitude": 8.07712,
+        "longitude": -81.4399
+    },
+    {
+        "name": "Аталайский район",
+        "latitude": 8.02899,
+        "longitude": -80.91739
+    },
+    {
+        "name": "Район Калобре",
+        "latitude": 8.39684,
+        "longitude": -80.85124
+    },
+    {
+        "name": "Каньясас (район)",
+        "latitude": 8.35596,
+        "longitude": -81.28633
+    },
+    {
+        "name": "район Ла Меса",
+        "latitude": 8.10976,
+        "longitude": -81.17767
+    },
+    {
+        "name": "Район Лас-Пальмас",
+        "latitude": 8.14532,
+        "longitude": -81.42849
+    },
+    {
+        "name": "Район Монтихо",
+        "latitude": 7.95316,
+        "longitude": -81.05301
+    },
+    {
+        "name": "Район Рио-де-Жезус",
+        "latitude": 7.91438,
+        "longitude": -81.16133
+    },
+    {
+        "name": "Район Сан-Франциско",
+        "latitude": 8.26965,
+        "longitude": -81.00108
+    },
+    {
+        "name": "район Санта-Фе",
+        "latitude": 8.72063,
+        "longitude": -80.95858
+    },
+    {
+        "name": "Сантьяго Район",
+        "latitude": 8.12425,
+        "longitude": -80.87827
+    },
+    {
+        "name": "Сона Район",
+        "latitude": 7.84378,
+        "longitude": -81.36612
+    },
+    {
+        "name": "Высокий",
+        "latitude": 8.51191,
+        "longitude": -81.03646
+    },
+    {
+        "name": "Окрестности",
+        "latitude": 7.96059,
+        "longitude": -80.94801
+    },
+    {
+        "name": "Кокла",
+        "latitude": 8.32143,
+        "longitude": -80.92069
+    },
+    {
+        "name": "Боярышник Санта-Розы",
+        "latitude": 8.09286,
+        "longitude": -80.8238
+    },
+    {
+        "name": "Мараньон",
+        "latitude": 8.03582,
+        "longitude": -81.21489
+    },
+    {
+        "name": "Мария",
+        "latitude": 8.02905,
+        "longitude": -81.44384
+    },
+    {
+        "name": "Птица",
+        "latitude": 7.95342,
+        "longitude": -81.12154
+    },
+    {
+        "name": "Болото",
+        "latitude": 8.53755,
+        "longitude": -81.06941
+    },
+    {
+        "name": "Рок",
+        "latitude": 8.35,
+        "longitude": -80.9762
+    },
+    {
+        "name": "Пикадор",
+        "latitude": 8.37803,
+        "longitude": -81.25621
+    },
+    {
+        "name": "Потреро",
+        "latitude": 8.37692,
+        "longitude": -80.79434
+    },
+    {
+        "name": "Угол",
+        "latitude": 8.18422,
+        "longitude": -81.43333
+    },
+    {
+        "name": "Увито",
+        "latitude": 8.11648,
+        "longitude": -80.98461
+    },
+    {
+        "name": "Гуарумаль",
+        "latitude": 7.79404,
+        "longitude": -81.25904
+    },
+    {
+        "name": "Красный",
+        "latitude": 8.01319,
+        "longitude": -80.9859
+    },
+    {
+        "name": "Ла Гарсеана",
+        "latitude": 7.93708,
+        "longitude": -81.01643
+    },
+    {
+        "name": "Лагуна",
+        "latitude": 8.33882,
+        "longitude": -80.72949
+    },
+    {
+        "name": "Понедельник",
+        "latitude": 7.43708,
+        "longitude": -80.89118
+    },
+    {
+        "name": "Стол",
+        "latitude": 8.14707,
+        "longitude": -81.18114
+    },
+    {
+        "name": "Монтаньуэла",
+        "latitude": 8.02487,
+        "longitude": -80.86325
+    },
+    {
+        "name": "Грусть",
+        "latitude": 8.12784,
+        "longitude": -81.02693
+    },
+    {
+        "name": "Рая де Калобре",
+        "latitude": 8.2163,
+        "longitude": -80.82729
+    },
+    {
+        "name": "Санта-Мария-Райя",
+        "latitude": 8.16429,
+        "longitude": -80.82143
+    },
+    {
+        "name": "Йегуада",
+        "latitude": 8.4306,
+        "longitude": -80.85752
+    },
+    {
+        "name": "Руководства ниже",
+        "latitude": 8.19451,
+        "longitude": -80.75494
+    },
+    {
+        "name": "Уакас",
+        "latitude": 7.90167,
+        "longitude": -81.14056
+    },
+    {
+        "name": "Пальмы",
+        "latitude": 8.13564,
+        "longitude": -81.45674
+    },
+    {
+        "name": "Львы вверх",
+        "latitude": 7.75415,
+        "longitude": -81.11556
+    },
+    {
+        "name": "Большая квартира",
+        "latitude": 8.07473,
+        "longitude": -81.13626
+    },
+    {
+        "name": "Лола",
+        "latitude": 8.09326,
+        "longitude": -81.47163
+    },
+    {
+        "name": "Альгарробос",
+        "latitude": 8.10898,
+        "longitude": -81.01355
+    },
+    {
+        "name": "Замки",
+        "latitude": 8.02326,
+        "longitude": -81.11941
+    },
+    {
+        "name": "Инжир",
+        "latitude": 8.20553,
+        "longitude": -80.86022
+    },
+    {
+        "name": "Район Мариато",
+        "latitude": 7.6781,
+        "longitude": -81.00409
+    },
+    {
+        "name": "Монхарас",
+        "latitude": 8.36942,
+        "longitude": -80.86667
+    },
+    {
+        "name": "Монтихо",
+        "latitude": 7.98858,
+        "longitude": -81.05643
+    },
+    {
+        "name": "Жирные камни",
+        "latitude": 8.52419,
+        "longitude": -80.91152
+    },
+    {
+        "name": "Слуга",
+        "latitude": 7.88245,
+        "longitude": -80.9788
+    },
+    {
+        "name": "Пуэрто Видаль",
+        "latitude": 8.04834,
+        "longitude": -81.60499
+    },
+    {
+        "name": "Золотое ущелье",
+        "latitude": 8.03548,
+        "longitude": -81.38692
+    },
+    {
+        "name": "Река Иисуса",
+        "latitude": 7.97882,
+        "longitude": -81.16162
+    },
+    {
+        "name": "Рио-Гранде",
+        "latitude": 7.71907,
+        "longitude": -81.33423
+    },
+    {
+        "name": "Старое Родео",
+        "latitude": 8.11205,
+        "longitude": -81.31684
+    },
+    {
+        "name": "Сан-Бартоло",
+        "latitude": 8.21063,
+        "longitude": -81.27572
+    },
+    {
+        "name": "Сан-Франциско",
+        "latitude": 8.06667,
+        "longitude": -81.36667
+    },
+    {
+        "name": "Святой Иосиф",
+        "latitude": 8.46704,
+        "longitude": -80.80514
+    },
+    {
+        "name": "Сан -Хухан",
+        "latitude": 8.30311,
+        "longitude": -81.01575
+    },
+    {
+        "name": "Святой Марцелл",
+        "latitude": 8.27252,
+        "longitude": -81.15988
+    },
+    {
+        "name": "Сан-Педро-дель-Эспино",
+        "latitude": 8.14011,
+        "longitude": -81.08663
+    },
+    {
+        "name": "Санта-Фе",
+        "latitude": 8.51063,
+        "longitude": -81.07802
+    },
+    {
+        "name": "Джеймс Верагуас",
+        "latitude": 8.1,
+        "longitude": -80.98333
+    },
+    {
+        "name": "Сона",
+        "latitude": 8.01223,
+        "longitude": -81.32163
+    },
+    {
+        "name": "Тебарио",
+        "latitude": 7.71369,
+        "longitude": -80.97825
+    },
+    {
+        "name": "Утира",
+        "latitude": 7.97208,
+        "longitude": -81.21777
+    },
+    {
+        "name": "я живу",
+        "latitude": 8.33921,
+        "longitude": -81.49823
+    },
+    {
+        "name": "Сапотилло",
+        "latitude": 8.00532,
+        "longitude": -81.50653
+    }
+]

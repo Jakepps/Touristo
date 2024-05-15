@@ -1,0 +1,1647 @@
+[
+    {
+        "name": "Антиполь",
+        "latitude": 52.2038,
+        "longitude": 24.7863
+    },
+    {
+        "name": "Аснежицы",
+        "latitude": 52.1891,
+        "longitude": 26.1299
+    },
+    {
+        "name": "Барановичи",
+        "latitude": 53.1327,
+        "longitude": 26.0139
+    },
+    {
+        "name": "Барановичский Район",
+        "latitude": 53.16667,
+        "longitude": 25.83333
+    },
+    {
+        "name": "Брест",
+        "latitude": 52.09755,
+        "longitude": 23.68775
+    },
+    {
+        "name": "Брестский Район",
+        "latitude": 52.0,
+        "longitude": 23.75
+    },
+    {
+        "name": "Береза",
+        "latitude": 52.5314,
+        "longitude": 24.9786
+    },
+    {
+        "name": "Берозовский район",
+        "latitude": 52.5,
+        "longitude": 25.0
+    },
+    {
+        "name": "Белозер",
+        "latitude": 52.4731,
+        "longitude": 25.1784
+    },
+    {
+        "name": "Чернавчицы",
+        "latitude": 52.21948,
+        "longitude": 23.74043
+    },
+    {
+        "name": "Домачава",
+        "latitude": 51.75,
+        "longitude": 23.6
+    },
+    {
+        "name": "Давид-Городок",
+        "latitude": 52.0566,
+        "longitude": 27.2161
+    },
+    {
+        "name": "Наркозависимость",
+        "latitude": 52.1874,
+        "longitude": 25.1597
+    },
+    {
+        "name": "Дрогичинский район",
+        "latitude": 52.16667,
+        "longitude": 25.0
+    },
+    {
+        "name": "Ганцевичи",
+        "latitude": 52.758,
+        "longitude": 26.43
+    },
+    {
+        "name": "Ганцевицкий район",
+        "latitude": 52.66667,
+        "longitude": 26.5
+    },
+    {
+        "name": "Они не купаются",
+        "latitude": 53.3247,
+        "longitude": 26.0107
+    },
+    {
+        "name": "Горад Барановичи",
+        "latitude": 53.13333,
+        "longitude": 26.03333
+    },
+    {
+        "name": "Город Брест",
+        "latitude": 52.1,
+        "longitude": 23.7
+    },
+    {
+        "name": "Иванова",
+        "latitude": 52.1451,
+        "longitude": 25.5365
+    },
+    {
+        "name": "Ивановский район",
+        "latitude": 52.16667,
+        "longitude": 25.58333
+    },
+    {
+        "name": "Ивацевичи",
+        "latitude": 52.709,
+        "longitude": 25.3401
+    },
+    {
+        "name": "Камянец",
+        "latitude": 52.40013,
+        "longitude": 23.81
+    },
+    {
+        "name": "Камянецки Район",
+        "latitude": 52.41667,
+        "longitude": 23.66667
+    },
+    {
+        "name": "Камянюки",
+        "latitude": 52.55757,
+        "longitude": 23.80525
+    },
+    {
+        "name": "Кобрин",
+        "latitude": 52.2138,
+        "longitude": 24.3564
+    },
+    {
+        "name": "Косово",
+        "latitude": 52.7583,
+        "longitude": 25.1554
+    },
+    {
+        "name": "Лагишин",
+        "latitude": 52.339,
+        "longitude": 25.9867
+    },
+    {
+        "name": "Лунинец",
+        "latitude": 52.2472,
+        "longitude": 26.8047
+    },
+    {
+        "name": "Ляховичи",
+        "latitude": 53.0388,
+        "longitude": 26.2656
+    },
+    {
+        "name": "Малярия",
+        "latitude": 51.7905,
+        "longitude": 24.074
+    },
+    {
+        "name": "Микашевичи",
+        "latitude": 52.2173,
+        "longitude": 27.476
+    },
+    {
+        "name": "свернутый",
+        "latitude": 52.3138,
+        "longitude": 25.6072
+    },
+    {
+        "name": "Это будет",
+        "latitude": 52.644,
+        "longitude": 25.2027
+    },
+    {
+        "name": "Пинск",
+        "latitude": 52.1229,
+        "longitude": 26.0951
+    },
+    {
+        "name": "Пружанский Район",
+        "latitude": 52.66667,
+        "longitude": 24.58333
+    },
+    {
+        "name": "Пружаны",
+        "latitude": 52.556,
+        "longitude": 24.4573
+    },
+    {
+        "name": "Ружаны",
+        "latitude": 52.86322,
+        "longitude": 24.89357
+    },
+    {
+        "name": "Украденный",
+        "latitude": 51.89115,
+        "longitude": 26.84597
+    },
+    {
+        "name": "Столински Район",
+        "latitude": 52.0,
+        "longitude": 27.0
+    },
+    {
+        "name": "Целиаханы",
+        "latitude": 52.5175,
+        "longitude": 25.8429
+    },
+    {
+        "name": "Высокае",
+        "latitude": 52.37091,
+        "longitude": 23.37083
+    },
+    {
+        "name": "Лягушка",
+        "latitude": 52.1984,
+        "longitude": 24.0115
+    },
+    {
+        "name": "Жабинковский район",
+        "latitude": 52.16667,
+        "longitude": 24.08333
+    },
+    {
+        "name": "цифра",
+        "latitude": 51.88168,
+        "longitude": 23.65545
+    },
+    {
+        "name": "Актсябрский",
+        "latitude": 52.644,
+        "longitude": 28.8801
+    },
+    {
+        "name": "Брамин",
+        "latitude": 51.787,
+        "longitude": 30.2677
+    },
+    {
+        "name": "Брагинский район",
+        "latitude": 51.66667,
+        "longitude": 30.33333
+    },
+    {
+        "name": "Буда-Кошелево",
+        "latitude": 52.7179,
+        "longitude": 30.5701
+    },
+    {
+        "name": "Чачерск",
+        "latitude": 52.9164,
+        "longitude": 30.9179
+    },
+    {
+        "name": "Чачерский район",
+        "latitude": 52.91667,
+        "longitude": 31.08333
+    },
+    {
+        "name": "Пожалуйста",
+        "latitude": 52.4089,
+        "longitude": 31.3237
+    },
+    {
+        "name": "Дуск",
+        "latitude": 53.1571,
+        "longitude": 30.4601
+    },
+    {
+        "name": "Гомель",
+        "latitude": 52.4345,
+        "longitude": 30.9754
+    },
+    {
+        "name": "Гомельский район",
+        "latitude": 52.33333,
+        "longitude": 31.0
+    },
+    {
+        "name": "Калинковичи",
+        "latitude": 52.1323,
+        "longitude": 29.3257
+    },
+    {
+        "name": "Караневка",
+        "latitude": 52.3506,
+        "longitude": 31.1121
+    },
+    {
+        "name": "Карма",
+        "latitude": 53.1301,
+        "longitude": 30.8016
+    },
+    {
+        "name": "Касцюковка",
+        "latitude": 52.5387,
+        "longitude": 30.9173
+    },
+    {
+        "name": "Хальч",
+        "latitude": 52.5643,
+        "longitude": 31.1364
+    },
+    {
+        "name": "Хойники",
+        "latitude": 51.8911,
+        "longitude": 29.9552
+    },
+    {
+        "name": "Лоев",
+        "latitude": 51.9458,
+        "longitude": 30.7953
+    },
+    {
+        "name": "Район Лелвицки",
+        "latitude": 51.83333,
+        "longitude": 28.25
+    },
+    {
+        "name": "Лель’чицы",
+        "latitude": 51.7862,
+        "longitude": 28.3288
+    },
+    {
+        "name": "Мозырь",
+        "latitude": 52.0495,
+        "longitude": 29.2456
+    },
+    {
+        "name": "Мозырский район",
+        "latitude": 52.0,
+        "longitude": 29.0
+    },
+    {
+        "name": "Наровля",
+        "latitude": 51.7961,
+        "longitude": 29.5004
+    },
+    {
+        "name": "Новая Нота",
+        "latitude": 52.1032,
+        "longitude": 30.9837
+    },
+    {
+        "name": "Парики",
+        "latitude": 52.8042,
+        "longitude": 29.4176
+    },
+    {
+        "name": "Победа",
+        "latitude": 52.3973,
+        "longitude": 31.071
+    },
+    {
+        "name": "Петриков",
+        "latitude": 52.1289,
+        "longitude": 28.4921
+    },
+    {
+        "name": "Рогачев",
+        "latitude": 53.0934,
+        "longitude": 30.0495
+    },
+    {
+        "name": "Рогачевский район",
+        "latitude": 53.16667,
+        "longitude": 30.16667
+    },
+    {
+        "name": "Слово",
+        "latitude": 52.3617,
+        "longitude": 30.3916
+    },
+    {
+        "name": "Сасновый Бор",
+        "latitude": 52.5194,
+        "longitude": 29.5988
+    },
+    {
+        "name": "Светлогорск",
+        "latitude": 52.6329,
+        "longitude": 29.7389
+    },
+    {
+        "name": "Турав",
+        "latitude": 52.0683,
+        "longitude": 27.735
+    },
+    {
+        "name": "Васильевичи",
+        "latitude": 52.2512,
+        "longitude": 29.8288
+    },
+    {
+        "name": "Ветка",
+        "latitude": 52.5591,
+        "longitude": 31.1794
+    },
+    {
+        "name": "Веткавски Район",
+        "latitude": 52.66667,
+        "longitude": 31.25
+    },
+    {
+        "name": "Ельск",
+        "latitude": 51.8141,
+        "longitude": 29.1522
+    },
+    {
+        "name": "Жлобин",
+        "latitude": 52.8926,
+        "longitude": 30.024
+    },
+    {
+        "name": "Жлобинский Район",
+        "latitude": 52.75,
+        "longitude": 29.83333
+    },
+    {
+        "name": "Житковичи",
+        "latitude": 52.2168,
+        "longitude": 27.8561
+    },
+    {
+        "name": "Ашмянский Район",
+        "latitude": 54.41667,
+        "longitude": 25.91667
+    },
+    {
+        "name": "Ошмяны",
+        "latitude": 54.421,
+        "longitude": 25.936
+    },
+    {
+        "name": "Астравец",
+        "latitude": 54.61378,
+        "longitude": 25.95537
+    },
+    {
+        "name": "Астравецки Район",
+        "latitude": 54.66667,
+        "longitude": 26.0
+    },
+    {
+        "name": "Баруни",
+        "latitude": 54.3171,
+        "longitude": 26.1376
+    },
+    {
+        "name": "Берозавка",
+        "latitude": 53.72406,
+        "longitude": 25.49709
+    },
+    {
+        "name": "Дятлово",
+        "latitude": 53.4631,
+        "longitude": 25.4068
+    },
+    {
+        "name": "Гродненский Район",
+        "latitude": 53.66667,
+        "longitude": 24.0
+    },
+    {
+        "name": "Галшани",
+        "latitude": 54.2585,
+        "longitude": 26.0144
+    },
+    {
+        "name": "Город Гродно",
+        "latitude": 53.68333,
+        "longitude": 23.83333
+    },
+    {
+        "name": "Гродно",
+        "latitude": 53.6884,
+        "longitude": 23.8258
+    },
+    {
+        "name": "Иераньони",
+        "latitude": 54.1159,
+        "longitude": 25.5773
+    },
+    {
+        "name": "Терпеть",
+        "latitude": 53.4605,
+        "longitude": 23.8823
+    },
+    {
+        "name": "Рвать",
+        "latitude": 53.9299,
+        "longitude": 25.7727
+    },
+    {
+        "name": "Кареличи",
+        "latitude": 53.5648,
+        "longitude": 26.1406
+    },
+    {
+        "name": "Карелицки Район",
+        "latitude": 53.5,
+        "longitude": 26.25
+    },
+    {
+        "name": "Красносель’ский",
+        "latitude": 53.2645,
+        "longitude": 24.4301
+    },
+    {
+        "name": "Кровать",
+        "latitude": 54.3118,
+        "longitude": 26.2916
+    },
+    {
+        "name": "Лида",
+        "latitude": 53.88333,
+        "longitude": 25.29972
+    },
+    {
+        "name": "Лидский Район",
+        "latitude": 53.66667,
+        "longitude": 25.25
+    },
+    {
+        "name": "С любовью",
+        "latitude": 53.7522,
+        "longitude": 26.0603
+    },
+    {
+        "name": "Мир",
+        "latitude": 53.4544,
+        "longitude": 26.467
+    },
+    {
+        "name": "Мосты",
+        "latitude": 53.4122,
+        "longitude": 24.5387
+    },
+    {
+        "name": "Новогрудок",
+        "latitude": 53.5942,
+        "longitude": 25.8191
+    },
+    {
+        "name": "Росс",
+        "latitude": 53.28451,
+        "longitude": 24.40335
+    },
+    {
+        "name": "Сапоцкин",
+        "latitude": 53.8329,
+        "longitude": 23.6598
+    },
+    {
+        "name": "Щукин",
+        "latitude": 53.6014,
+        "longitude": 24.7465
+    },
+    {
+        "name": "Щуховский район",
+        "latitude": 53.58333,
+        "longitude": 24.66667
+    },
+    {
+        "name": "на лыжах",
+        "latitude": 53.5904,
+        "longitude": 24.2478
+    },
+    {
+        "name": "Для слона",
+        "latitude": 53.0869,
+        "longitude": 25.3163
+    },
+    {
+        "name": "Сморгонь",
+        "latitude": 54.4798,
+        "longitude": 26.3957
+    },
+    {
+        "name": "Солнце",
+        "latitude": 54.51301,
+        "longitude": 26.19381
+    },
+    {
+        "name": "Швейцария",
+        "latitude": 53.03474,
+        "longitude": 24.09829
+    },
+    {
+        "name": "Вишнева",
+        "latitude": 54.7102,
+        "longitude": 26.5228
+    },
+    {
+        "name": "Волковыск",
+        "latitude": 53.1561,
+        "longitude": 24.4513
+    },
+    {
+        "name": "Воронава",
+        "latitude": 54.1492,
+        "longitude": 25.3112
+    },
+    {
+        "name": "Вяликая Бераставица",
+        "latitude": 53.196,
+        "longitude": 24.0166
+    },
+    {
+        "name": "Зельва",
+        "latitude": 53.1504,
+        "longitude": 24.8153
+    },
+    {
+        "name": "Жалодок",
+        "latitude": 53.5974,
+        "longitude": 24.9828
+    },
+    {
+        "name": "Жировичи",
+        "latitude": 53.0131,
+        "longitude": 25.3443
+    },
+    {
+        "name": "Фрунзенский Район",
+        "latitude": 53.90056,
+        "longitude": 27.495
+    },
+    {
+        "name": "Кастрихницки Район",
+        "latitude": 53.85667,
+        "longitude": 27.54139
+    },
+    {
+        "name": "Ленинский Район",
+        "latitude": 53.85944,
+        "longitude": 27.58778
+    },
+    {
+        "name": "Московский район",
+        "latitude": 53.87417,
+        "longitude": 27.50278
+    },
+    {
+        "name": "Минск",
+        "latitude": 53.9,
+        "longitude": 27.56667
+    },
+    {
+        "name": "Партизанский район",
+        "latitude": 53.88028,
+        "longitude": 27.67
+    },
+    {
+        "name": "Советский Район",
+        "latitude": 53.91778,
+        "longitude": 27.59417
+    },
+    {
+        "name": "Централ’но Район",
+        "latitude": 53.91778,
+        "longitude": 27.56333
+    },
+    {
+        "name": "Заводский Район",
+        "latitude": 53.86194,
+        "longitude": 27.66222
+    },
+    {
+        "name": "Острашицкий Городок",
+        "latitude": 54.0651,
+        "longitude": 27.695
+    },
+    {
+        "name": "Атолин",
+        "latitude": 53.7817,
+        "longitude": 27.4346
+    },
+    {
+        "name": "Озеро",
+        "latitude": 53.8397,
+        "longitude": 27.3917
+    },
+    {
+        "name": "Балшавик",
+        "latitude": 54.0036,
+        "longitude": 27.5669
+    },
+    {
+        "name": "Борисов",
+        "latitude": 54.2279,
+        "longitude": 28.505
+    },
+    {
+        "name": "Борисовский район",
+        "latitude": 54.33333,
+        "longitude": 28.58333
+    },
+    {
+        "name": "блондинка",
+        "latitude": 53.5269,
+        "longitude": 28.1732
+    },
+    {
+        "name": "Бобр",
+        "latitude": 54.342,
+        "longitude": 29.2736
+    },
+    {
+        "name": "Боровляны",
+        "latitude": 54.0022,
+        "longitude": 27.6754
+    },
+    {
+        "name": "Виарежински Район",
+        "latitude": 53.83333,
+        "longitude": 29.0
+    },
+    {
+        "name": "До скорой встречи",
+        "latitude": 53.8391,
+        "longitude": 28.9879
+    },
+    {
+        "name": "Червень’",
+        "latitude": 53.7059,
+        "longitude": 28.4313
+    },
+    {
+        "name": "Червень’ский Район",
+        "latitude": 53.75,
+        "longitude": 28.5
+    },
+    {
+        "name": "Червоная Слобода",
+        "latitude": 52.8522,
+        "longitude": 27.1698
+    },
+    {
+        "name": "киста",
+        "latitude": 54.2698,
+        "longitude": 27.1067
+    },
+    {
+        "name": "Дружно",
+        "latitude": 53.6238,
+        "longitude": 27.8977
+    },
+    {
+        "name": "Мы делаем",
+        "latitude": 53.6786,
+        "longitude": 27.94
+    },
+    {
+        "name": "Дзяржынск",
+        "latitude": 53.6832,
+        "longitude": 27.138
+    },
+    {
+        "name": "Энергия",
+        "latitude": 53.5871,
+        "longitude": 27.0535
+    },
+    {
+        "name": "Фаниполь",
+        "latitude": 53.74998,
+        "longitude": 27.33338
+    },
+    {
+        "name": "Городзея",
+        "latitude": 53.3121,
+        "longitude": 26.538
+    },
+    {
+        "name": "Твердый",
+        "latitude": 53.7829,
+        "longitude": 27.6407
+    },
+    {
+        "name": "Город Смолевичи.",
+        "latitude": 54.0249,
+        "longitude": 28.0894
+    },
+    {
+        "name": "город Жодино",
+        "latitude": 54.0985,
+        "longitude": 28.3331
+    },
+    {
+        "name": "Хок",
+        "latitude": 52.5215,
+        "longitude": 27.1385
+    },
+    {
+        "name": "Илья",
+        "latitude": 54.4167,
+        "longitude": 27.2958
+    },
+    {
+        "name": "Ивенец",
+        "latitude": 53.8864,
+        "longitude": 26.7432
+    },
+    {
+        "name": "Уэллс",
+        "latitude": 53.944,
+        "longitude": 27.7823
+    },
+    {
+        "name": "Капля",
+        "latitude": 53.1516,
+        "longitude": 27.0913
+    },
+    {
+        "name": "Капыльский район",
+        "latitude": 53.16667,
+        "longitude": 27.08333
+    },
+    {
+        "name": "Хацежина",
+        "latitude": 53.9094,
+        "longitude": 27.3069
+    },
+    {
+        "name": "Голопеничи",
+        "latitude": 54.51746,
+        "longitude": 28.95645
+    },
+    {
+        "name": "Клецк",
+        "latitude": 53.0635,
+        "longitude": 26.6321
+    },
+    {
+        "name": "Клецкий Район",
+        "latitude": 53.0,
+        "longitude": 26.66667
+    },
+    {
+        "name": "Королев Стан",
+        "latitude": 53.9865,
+        "longitude": 27.7982
+    },
+    {
+        "name": "Краснае",
+        "latitude": 54.2438,
+        "longitude": 27.0758
+    },
+    {
+        "name": "Крупки",
+        "latitude": 54.3178,
+        "longitude": 29.1374
+    },
+    {
+        "name": "Кривичи",
+        "latitude": 54.7132,
+        "longitude": 27.2886
+    },
+    {
+        "name": "Логойск",
+        "latitude": 54.2064,
+        "longitude": 27.8512
+    },
+    {
+        "name": "Лошница",
+        "latitude": 54.2796,
+        "longitude": 28.7649
+    },
+    {
+        "name": "Луговая Слобода",
+        "latitude": 53.7823,
+        "longitude": 27.8434
+    },
+    {
+        "name": "Лясны",
+        "latitude": 54.0072,
+        "longitude": 27.6963
+    },
+    {
+        "name": "Лесной орех",
+        "latitude": 54.0024,
+        "longitude": 27.7108
+    },
+    {
+        "name": "Любань’",
+        "latitude": 52.7985,
+        "longitude": 28.0048
+    },
+    {
+        "name": "Мачулишти",
+        "latitude": 53.7788,
+        "longitude": 27.5948
+    },
+    {
+        "name": "Молодечно",
+        "latitude": 54.3167,
+        "longitude": 26.854
+    },
+    {
+        "name": "Марьина Горка",
+        "latitude": 53.509,
+        "longitude": 28.147
+    },
+    {
+        "name": "Миханович",
+        "latitude": 53.73937,
+        "longitude": 27.69276
+    },
+    {
+        "name": "Мядель",
+        "latitude": 54.8789,
+        "longitude": 26.9371
+    },
+    {
+        "name": "Мядельский район",
+        "latitude": 54.83333,
+        "longitude": 27.0
+    },
+    {
+        "name": "Нара",
+        "latitude": 54.9102,
+        "longitude": 26.708
+    },
+    {
+        "name": "Нарушение",
+        "latitude": 54.30441,
+        "longitude": 26.78209
+    },
+    {
+        "name": "Новосел’е",
+        "latitude": 53.9162,
+        "longitude": 27.2009
+    },
+    {
+        "name": "Новый Свержан’",
+        "latitude": 53.4542,
+        "longitude": 26.7301
+    },
+    {
+        "name": "Несвиж",
+        "latitude": 53.2189,
+        "longitude": 26.6779
+    },
+    {
+        "name": "Несвижский район",
+        "latitude": 53.25,
+        "longitude": 26.66667
+    },
+    {
+        "name": "Плещаницы",
+        "latitude": 54.4235,
+        "longitude": 27.8301
+    },
+    {
+        "name": "Правдзинский",
+        "latitude": 53.5248,
+        "longitude": 27.8303
+    },
+    {
+        "name": "Привол",
+        "latitude": 53.7969,
+        "longitude": 27.7967
+    },
+    {
+        "name": "Похавичи",
+        "latitude": 53.5297,
+        "longitude": 28.2467
+    },
+    {
+        "name": "Пуховичский район",
+        "latitude": 53.5,
+        "longitude": 28.0
+    },
+    {
+        "name": "Пятрышки",
+        "latitude": 54.0686,
+        "longitude": 27.2179
+    },
+    {
+        "name": "Радашковичи",
+        "latitude": 54.1554,
+        "longitude": 27.2412
+    },
+    {
+        "name": "Ну давай же",
+        "latitude": 53.9674,
+        "longitude": 27.0562
+    },
+    {
+        "name": "Руденск",
+        "latitude": 53.5983,
+        "longitude": 27.8621
+    },
+    {
+        "name": "Солигорск",
+        "latitude": 52.7876,
+        "longitude": 27.5415
+    },
+    {
+        "name": "Самахваловичи",
+        "latitude": 53.7396,
+        "longitude": 27.5037
+    },
+    {
+        "name": "Сарачи",
+        "latitude": 52.7867,
+        "longitude": 28.0186
+    },
+    {
+        "name": "Щомыслица",
+        "latitude": 53.8211,
+        "longitude": 27.4522
+    },
+    {
+        "name": "Слабость",
+        "latitude": 54.0087,
+        "longitude": 27.8866
+    },
+    {
+        "name": "Слуцк",
+        "latitude": 53.0274,
+        "longitude": 27.5597
+    },
+    {
+        "name": "Слуцкий район",
+        "latitude": 53.0,
+        "longitude": 27.66667
+    },
+    {
+        "name": "Смалявицки Район",
+        "latitude": 54.0,
+        "longitude": 28.16667
+    },
+    {
+        "name": "Смиловичи",
+        "latitude": 53.7496,
+        "longitude": 28.0115
+    },
+    {
+        "name": "Снег",
+        "latitude": 53.2201,
+        "longitude": 26.401
+    },
+    {
+        "name": "Станков",
+        "latitude": 53.6292,
+        "longitude": 27.229
+    },
+    {
+        "name": "Старадарожски Район",
+        "latitude": 53.0,
+        "longitude": 28.16667
+    },
+    {
+        "name": "Пожилой человек",
+        "latitude": 52.7267,
+        "longitude": 27.4606
+    },
+    {
+        "name": "Старый разрыв",
+        "latitude": 53.0402,
+        "longitude": 28.267
+    },
+    {
+        "name": "Ставбцовский район",
+        "latitude": 53.58333,
+        "longitude": 26.66667
+    },
+    {
+        "name": "Столбцы",
+        "latitude": 53.4785,
+        "longitude": 26.7434
+    },
+    {
+        "name": "Бернс",
+        "latitude": 54.8517,
+        "longitude": 26.395
+    },
+    {
+        "name": "Швейцария",
+        "latitude": 53.6404,
+        "longitude": 27.9199
+    },
+    {
+        "name": "Сеница",
+        "latitude": 53.8313,
+        "longitude": 27.5343
+    },
+    {
+        "name": "Семково",
+        "latitude": 54.0101,
+        "longitude": 27.441
+    },
+    {
+        "name": "Тимкавичи",
+        "latitude": 53.0672,
+        "longitude": 26.9902
+    },
+    {
+        "name": "Торец-Баяро",
+        "latitude": 54.3785,
+        "longitude": 26.6581
+    },
+    {
+        "name": "Уречча",
+        "latitude": 52.9479,
+        "longitude": 27.893
+    },
+    {
+        "name": "Все",
+        "latitude": 54.07598,
+        "longitude": 28.00698
+    },
+    {
+        "name": "Уздечка",
+        "latitude": 53.4627,
+        "longitude": 27.2137
+    },
+    {
+        "name": "Уздзенски Район",
+        "latitude": 53.41667,
+        "longitude": 27.33333
+    },
+    {
+        "name": "Вигин",
+        "latitude": 54.0892,
+        "longitude": 26.5266
+    },
+    {
+        "name": "Вилейка",
+        "latitude": 54.4914,
+        "longitude": 26.9111
+    },
+    {
+        "name": "Вилейский Район",
+        "latitude": 54.5,
+        "longitude": 27.08333
+    },
+    {
+        "name": "Вялики Трясцянец",
+        "latitude": 53.851,
+        "longitude": 27.7139
+    },
+    {
+        "name": "Годовщина",
+        "latitude": 53.8191,
+        "longitude": 27.5215
+    },
+    {
+        "name": "Замосточье",
+        "latitude": 53.8198,
+        "longitude": 27.8685
+    },
+    {
+        "name": "Заславье",
+        "latitude": 54.0114,
+        "longitude": 27.2695
+    },
+    {
+        "name": "Ждановичи",
+        "latitude": 53.9432,
+        "longitude": 27.425
+    },
+    {
+        "name": "Зембин",
+        "latitude": 54.3579,
+        "longitude": 28.2207
+    },
+    {
+        "name": "Октябрьский",
+        "latitude": 54.04059,
+        "longitude": 28.19813
+    },
+    {
+        "name": "Осиповичи",
+        "latitude": 53.3011,
+        "longitude": 28.6386
+    },
+    {
+        "name": "Асиповицки Район",
+        "latitude": 53.33333,
+        "longitude": 28.75
+    },
+    {
+        "name": "Бобруйск",
+        "latitude": 53.1384,
+        "longitude": 29.2214
+    },
+    {
+        "name": "Бабруйски Район",
+        "latitude": 53.08333,
+        "longitude": 29.16667
+    },
+    {
+        "name": "Буйничий",
+        "latitude": 53.8536,
+        "longitude": 30.2671
+    },
+    {
+        "name": "Белыничи",
+        "latitude": 53.9994,
+        "longitude": 29.7141
+    },
+    {
+        "name": "Бялыницки Район",
+        "latitude": 54.0,
+        "longitude": 29.75
+    },
+    {
+        "name": "Быхов",
+        "latitude": 53.521,
+        "longitude": 30.2454
+    },
+    {
+        "name": "Чавуский район",
+        "latitude": 53.83333,
+        "longitude": 30.91667
+    },
+    {
+        "name": "Чавусы",
+        "latitude": 53.8098,
+        "longitude": 30.9717
+    },
+    {
+        "name": "Чериков",
+        "latitude": 53.5689,
+        "longitude": 31.3831
+    },
+    {
+        "name": "Черрикавский район",
+        "latitude": 53.66667,
+        "longitude": 31.33333
+    },
+    {
+        "name": "Дашкавка",
+        "latitude": 53.7352,
+        "longitude": 30.2625
+    },
+    {
+        "name": "Дриппин",
+        "latitude": 54.1192,
+        "longitude": 31.0939
+    },
+    {
+        "name": "Дрибински Район",
+        "latitude": 54.08333,
+        "longitude": 31.0
+    },
+    {
+        "name": "Раздавить это",
+        "latitude": 53.0868,
+        "longitude": 28.8567
+    },
+    {
+        "name": "Хлуск",
+        "latitude": 52.903,
+        "longitude": 28.6845
+    },
+    {
+        "name": "Хоратский район",
+        "latitude": 54.33333,
+        "longitude": 31.0
+    },
+    {
+        "name": "Заранее",
+        "latitude": 54.2862,
+        "longitude": 30.9863
+    },
+    {
+        "name": "Кадино",
+        "latitude": 53.88389,
+        "longitude": 30.52028
+    },
+    {
+        "name": "Каменныя Лавы",
+        "latitude": 54.0898,
+        "longitude": 30.2962
+    },
+    {
+        "name": "Касцюковичи",
+        "latitude": 53.3525,
+        "longitude": 32.0514
+    },
+    {
+        "name": "Ходасий",
+        "latitude": 53.9266,
+        "longitude": 31.4779
+    },
+    {
+        "name": "Хочимск",
+        "latitude": 53.4086,
+        "longitude": 32.578
+    },
+    {
+        "name": "Хоцимский Район",
+        "latitude": 53.41667,
+        "longitude": 32.5
+    },
+    {
+        "name": "Киравск",
+        "latitude": 53.2693,
+        "longitude": 29.4752
+    },
+    {
+        "name": "Кличев",
+        "latitude": 53.4923,
+        "longitude": 29.3356
+    },
+    {
+        "name": "Климовичи",
+        "latitude": 53.6079,
+        "longitude": 31.9586
+    },
+    {
+        "name": "Краснопольский район",
+        "latitude": 53.33333,
+        "longitude": 31.41667
+    },
+    {
+        "name": "Краснополье",
+        "latitude": 53.3353,
+        "longitude": 31.3999
+    },
+    {
+        "name": "Красный Берег",
+        "latitude": 53.3291,
+        "longitude": 30.1929
+    },
+    {
+        "name": "Круглый",
+        "latitude": 54.2497,
+        "longitude": 29.7968
+    },
+    {
+        "name": "Кричав",
+        "latitude": 53.7125,
+        "longitude": 31.717
+    },
+    {
+        "name": "Могилёв",
+        "latitude": 53.9168,
+        "longitude": 30.3449
+    },
+    {
+        "name": "Могилевский район",
+        "latitude": 53.83333,
+        "longitude": 30.25
+    },
+    {
+        "name": "Мстислав",
+        "latitude": 54.0185,
+        "longitude": 31.7217
+    },
+    {
+        "name": "Мясо",
+        "latitude": 53.7776,
+        "longitude": 30.1765
+    },
+    {
+        "name": "Мышкавичи",
+        "latitude": 53.2172,
+        "longitude": 29.512
+    },
+    {
+        "name": "Пелика Першия",
+        "latitude": 53.9854,
+        "longitude": 30.36
+    },
+    {
+        "name": "Posëlok Voskhod",
+        "latitude": 53.7766,
+        "longitude": 30.3497
+    },
+    {
+        "name": "Романовичи",
+        "latitude": 53.8653,
+        "longitude": 30.5597
+    },
+    {
+        "name": "Шклов",
+        "latitude": 54.2131,
+        "longitude": 30.2877
+    },
+    {
+        "name": "Шкловский район",
+        "latitude": 54.16667,
+        "longitude": 30.33333
+    },
+    {
+        "name": "Славгород",
+        "latitude": 53.4429,
+        "longitude": 31.0014
+    },
+    {
+        "name": "Вейно",
+        "latitude": 53.83333,
+        "longitude": 30.38333
+    },
+    {
+        "name": "Выше",
+        "latitude": 53.9805,
+        "longitude": 29.9925
+    },
+    {
+        "name": "Он упал",
+        "latitude": 53.3994,
+        "longitude": 29.0048
+    },
+    {
+        "name": "Балбасава",
+        "latitude": 54.4207,
+        "longitude": 30.2909
+    },
+    {
+        "name": "Ягненок",
+        "latitude": 54.4784,
+        "longitude": 30.3159
+    },
+    {
+        "name": "Браслав",
+        "latitude": 55.6413,
+        "longitude": 27.0418
+    },
+    {
+        "name": "Браславский район",
+        "latitude": 55.55972,
+        "longitude": 27.0
+    },
+    {
+        "name": "Бяхомль",
+        "latitude": 54.7316,
+        "longitude": 28.0577
+    },
+    {
+        "name": "Бешанковицки Район",
+        "latitude": 55.0,
+        "longitude": 29.5
+    },
+    {
+        "name": "Чашники",
+        "latitude": 54.8584,
+        "longitude": 29.1608
+    },
+    {
+        "name": "Чашницкий район",
+        "latitude": 54.75,
+        "longitude": 29.25
+    },
+    {
+        "name": "Докшицкий Район",
+        "latitude": 54.83333,
+        "longitude": 27.91667
+    },
+    {
+        "name": "Докшицы",
+        "latitude": 54.8918,
+        "longitude": 27.7667
+    },
+    {
+        "name": "Друя",
+        "latitude": 55.7906,
+        "longitude": 27.4505
+    },
+    {
+        "name": "Дубровник",
+        "latitude": 54.5716,
+        "longitude": 30.691
+    },
+    {
+        "name": "Дисней",
+        "latitude": 55.5676,
+        "longitude": 28.2076
+    },
+    {
+        "name": "Городок",
+        "latitude": 55.4624,
+        "longitude": 29.9845
+    },
+    {
+        "name": "Городоцкий район",
+        "latitude": 55.66667,
+        "longitude": 30.16667
+    },
+    {
+        "name": "Глибика",
+        "latitude": 55.1384,
+        "longitude": 27.6905
+    },
+    {
+        "name": "Глыбоцкий район",
+        "latitude": 55.16667,
+        "longitude": 27.83333
+    },
+    {
+        "name": "Коханово",
+        "latitude": 54.4611,
+        "longitude": 30.0018
+    },
+    {
+        "name": "Константиново",
+        "latitude": 54.6593,
+        "longitude": 29.2684
+    },
+    {
+        "name": "Лепель",
+        "latitude": 54.8814,
+        "longitude": 28.699
+    },
+    {
+        "name": "Лепельский район",
+        "latitude": 54.83333,
+        "longitude": 28.66667
+    },
+    {
+        "name": "Лынтупы",
+        "latitude": 55.0516,
+        "longitude": 26.3103
+    },
+    {
+        "name": "Лезна",
+        "latitude": 55.0247,
+        "longitude": 30.797
+    },
+    {
+        "name": "Лозненский район",
+        "latitude": 55.0,
+        "longitude": 30.66667
+    },
+    {
+        "name": "Мозер",
+        "latitude": 55.2232,
+        "longitude": 27.4609
+    },
+    {
+        "name": "Миар район",
+        "latitude": 55.58333,
+        "longitude": 27.83333
+    },
+    {
+        "name": "Миори",
+        "latitude": 55.6222,
+        "longitude": 27.6281
+    },
+    {
+        "name": "Новополоцк",
+        "latitude": 55.5318,
+        "longitude": 28.5987
+    },
+    {
+        "name": "Новолукомль",
+        "latitude": 54.66192,
+        "longitude": 29.15016
+    },
+    {
+        "name": "Орша",
+        "latitude": 54.5081,
+        "longitude": 30.4172
+    },
+    {
+        "name": "завоеван",
+        "latitude": 56.0147,
+        "longitude": 28.11049
+    },
+    {
+        "name": "Паставы",
+        "latitude": 55.11676,
+        "longitude": 26.83263
+    },
+    {
+        "name": "Поставский район",
+        "latitude": 55.08333,
+        "longitude": 26.91667
+    },
+    {
+        "name": "Польский",
+        "latitude": 55.4879,
+        "longitude": 28.7856
+    },
+    {
+        "name": "Полацки Район",
+        "latitude": 55.58333,
+        "longitude": 29.0
+    },
+    {
+        "name": "Расонский район",
+        "latitude": 55.83333,
+        "longitude": 28.91667
+    },
+    {
+        "name": "СМИ",
+        "latitude": 55.9058,
+        "longitude": 28.8135
+    },
+    {
+        "name": "Шарковщина",
+        "latitude": 55.3689,
+        "longitude": 27.4686
+    },
+    {
+        "name": "Шаркавщинский район",
+        "latitude": 55.41667,
+        "longitude": 27.41667
+    },
+    {
+        "name": "Шумилински Район",
+        "latitude": 55.33333,
+        "longitude": 29.5
+    },
+    {
+        "name": "Сянно",
+        "latitude": 54.8108,
+        "longitude": 29.7086
+    },
+    {
+        "name": "Сенненски Район",
+        "latitude": 54.83333,
+        "longitude": 29.83333
+    },
+    {
+        "name": "Таллахт",
+        "latitude": 54.4087,
+        "longitude": 29.6955
+    },
+    {
+        "name": "Ушачи",
+        "latitude": 55.179,
+        "longitude": 28.6158
+    },
+    {
+        "name": "Аудитория",
+        "latitude": 55.3945,
+        "longitude": 26.6305
+    },
+    {
+        "name": "Витебск",
+        "latitude": 55.1904,
+        "longitude": 30.2049
+    },
+    {
+        "name": "Верхнядзьвинск",
+        "latitude": 55.7777,
+        "longitude": 27.9389
+    },
+    {
+        "name": "Верхнядзьвински Район",
+        "latitude": 55.75,
+        "longitude": 28.16667
+    }
+]

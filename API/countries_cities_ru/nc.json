@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Лифу",
+        "latitude": -20.9667,
+        "longitude": 167.2333
+    },
+    {
+        "name": "Прилив",
+        "latitude": -21.5167,
+        "longitude": 167.9833
+    },
+    {
+        "name": "Уайлу",
+        "latitude": -21.2909,
+        "longitude": 165.6217
+    },
+    {
+        "name": "Коне",
+        "latitude": -21.059,
+        "longitude": 164.8518
+    },
+    {
+        "name": "Пуандимье",
+        "latitude": -20.9496,
+        "longitude": 165.3293
+    },
+    {
+        "name": "Бурай",
+        "latitude": -21.5701,
+        "longitude": 165.4804
+    },
+    {
+        "name": "Думбеа",
+        "latitude": -22.15,
+        "longitude": 166.45
+    },
+    {
+        "name": "Мон-Дор",
+        "latitude": -22.2157,
+        "longitude": 166.4665
+    },
+    {
+        "name": "Нумеа",
+        "latitude": -22.2758,
+        "longitude": 166.458
+    },
+    {
+        "name": "Паита",
+        "latitude": -22.1337,
+        "longitude": 166.3505
+    }
+]
