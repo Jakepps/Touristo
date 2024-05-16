@@ -42,7 +42,7 @@ def rename_json_files(json_directory, country_codes, country_data):
             nocode_file.write(f'{country}\n')
 
 # Пример использования
-json_directory = 'json/arrivals'  # Путь к директории с JSON файлами
+json_directory = 'json/transport'  # Путь к директории с JSON файлами
 txt_file = 'output.txt'  # Имя файла с кодами стран
 json_file = 'all_country_data.json'  # Имя файла с данными о странах
 

@@ -4,7 +4,7 @@ import json
 def load_country_codes(txt_file):
     with open(txt_file, 'r', encoding='utf-8') as file:
         content = file.read()
-        content = content.replace('\n', '').replace(' ', '')
+        content = content.replace('\n', '')
         country_codes = json.loads(f'{{{content}}}')
     return country_codes
 
@@ -42,8 +42,8 @@ def rename_json_files(json_directory, country_codes):
             nocode_file.write(f'{country}\n')
 
 # Пример использования
-json_directory = 'json/arrivals'  # Путь к директории с JSON файлами
-txt_file = 'output2.txt'  # Имя файла с кодами стран
+json_directory = 'json/transport'  # Путь к директории с JSON файлами
+txt_file = 'add_code.txt'  # Имя файла с кодами стран
 
 country_codes = load_country_codes(txt_file)
 rename_json_files(json_directory, country_codes)
