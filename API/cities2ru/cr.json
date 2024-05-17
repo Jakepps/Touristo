@@ -1,0 +1,797 @@
+[
+    {
+        "name": "Алахуэла",
+        "latitude": 10.01625,
+        "longitude": -84.21163
+    },
+    {
+        "name": "Атенас",
+        "latitude": 9.98333,
+        "longitude": -84.38333
+    },
+    {
+        "name": "Биджагуа",
+        "latitude": 10.73279,
+        "longitude": -85.05676
+    },
+    {
+        "name": "Каррильос",
+        "latitude": 10.02918,
+        "longitude": -84.27403
+    },
+    {
+        "name": "Десампарадос",
+        "latitude": 9.94727,
+        "longitude": -84.50626
+    },
+    {
+        "name": "Эскипулас",
+        "latitude": 10.05676,
+        "longitude": -84.42337
+    },
+    {
+        "name": "Греция",
+        "latitude": 10.06892,
+        "longitude": -84.31458
+    },
+    {
+        "name": "Гуатузо",
+        "latitude": 10.66667,
+        "longitude": -84.83333
+    },
+    {
+        "name": "Ла Фортуна",
+        "latitude": 10.47089,
+        "longitude": -84.64535
+    },
+    {
+        "name": "Лос-Чилис",
+        "latitude": 10.86667,
+        "longitude": -84.66667
+    },
+    {
+        "name": "Наранхо",
+        "latitude": 10.11667,
+        "longitude": -84.4
+    },
+    {
+        "name": "Оротина",
+        "latitude": 9.9,
+        "longitude": -84.56667
+    },
+    {
+        "name": "Пальмарес",
+        "latitude": 10.03333,
+        "longitude": -84.43333
+    },
+    {
+        "name": "Питал",
+        "latitude": 10.45056,
+        "longitude": -84.27406
+    },
+    {
+        "name": "Поас",
+        "latitude": 10.08333,
+        "longitude": -84.23333
+    },
+    {
+        "name": "Покосол",
+        "latitude": 10.36667,
+        "longitude": -84.61667
+    },
+    {
+        "name": "Кесада",
+        "latitude": 10.32381,
+        "longitude": -84.42714
+    },
+    {
+        "name": "Рио-Второй",
+        "latitude": 10.24138,
+        "longitude": -84.27933
+    },
+    {
+        "name": "Сабанилья",
+        "latitude": 10.07404,
+        "longitude": -84.21551
+    },
+    {
+        "name": "Сан-Карлос",
+        "latitude": 10.58333,
+        "longitude": -84.41667
+    },
+    {
+        "name": "Сан - Хосе",
+        "latitude": 10.95173,
+        "longitude": -85.1361
+    },
+    {
+        "name": "Сан-Хуан",
+        "latitude": 10.10248,
+        "longitude": -84.31694
+    },
+    {
+        "name": "Сан-Матео",
+        "latitude": 9.95,
+        "longitude": -84.51667
+    },
+    {
+        "name": "Сан-Рафаэль",
+        "latitude": 10.06403,
+        "longitude": -84.47281
+    },
+    {
+        "name": "Сан-Рамон",
+        "latitude": 10.08718,
+        "longitude": -84.47044
+    },
+    {
+        "name": "Сантьяго",
+        "latitude": 10.02275,
+        "longitude": -84.4442
+    },
+    {
+        "name": "Упала",
+        "latitude": 10.85,
+        "longitude": -85.16667
+    },
+    {
+        "name": "Вальверде Вега",
+        "latitude": 10.18721,
+        "longitude": -84.3029
+    },
+    {
+        "name": "Сарсеро",
+        "latitude": 10.2,
+        "longitude": -84.4
+    },
+    {
+        "name": "Абангарес",
+        "latitude": 10.21667,
+        "longitude": -85.0
+    },
+    {
+        "name": "Багасы",
+        "latitude": 10.5,
+        "longitude": -85.25
+    },
+    {
+        "name": "Белен",
+        "latitude": 10.40789,
+        "longitude": -85.58836
+    },
+    {
+        "name": "Каньяс",
+        "latitude": 10.48005,
+        "longitude": -85.11349
+    },
+    {
+        "name": "Каррильо",
+        "latitude": 10.41667,
+        "longitude": -85.58333
+    },
+    {
+        "name": "Фортуна",
+        "latitude": 10.67384,
+        "longitude": -85.19984
+    },
+    {
+        "name": "Hojancha",
+        "latitude": 9.96667,
+        "longitude": -85.41667
+    },
+    {
+        "name": "Хунты",
+        "latitude": 10.28089,
+        "longitude": -84.95951
+    },
+    {
+        "name": "Ла Круз",
+        "latitude": 11.0,
+        "longitude": -85.58333
+    },
+    {
+        "name": "Либерия",
+        "latitude": 10.63504,
+        "longitude": -85.43772
+    },
+    {
+        "name": "Nandayure",
+        "latitude": 9.91667,
+        "longitude": -85.28333
+    },
+    {
+        "name": "Никойя",
+        "latitude": 10.08333,
+        "longitude": -85.5
+    },
+    {
+        "name": "Самара",
+        "latitude": 9.88147,
+        "longitude": -85.52809
+    },
+    {
+        "name": "Санта Круз",
+        "latitude": 10.25,
+        "longitude": -85.66667
+    },
+    {
+        "name": "Сардинал",
+        "latitude": 10.51674,
+        "longitude": -85.64748
+    },
+    {
+        "name": "Тиларан",
+        "latitude": 10.45878,
+        "longitude": -84.97513
+    },
+    {
+        "name": "Анхелес",
+        "latitude": 9.99591,
+        "longitude": -84.05126
+    },
+    {
+        "name": "Барва",
+        "latitude": 10.08333,
+        "longitude": -84.1
+    },
+    {
+        "name": "Белен",
+        "latitude": 9.98333,
+        "longitude": -84.16667
+    },
+    {
+        "name": "Флорес",
+        "latitude": 10.0,
+        "longitude": -84.15
+    },
+    {
+        "name": "Эредиа",
+        "latitude": 10.00236,
+        "longitude": -84.11651
+    },
+    {
+        "name": "Ла Асунсьон",
+        "latitude": 9.97961,
+        "longitude": -84.17281
+    },
+    {
+        "name": "Льоренте",
+        "latitude": 9.99844,
+        "longitude": -84.15448
+    },
+    {
+        "name": "Мерседес",
+        "latitude": 10.00695,
+        "longitude": -84.13396
+    },
+    {
+        "name": "Сан Антонио",
+        "latitude": 9.98333,
+        "longitude": -84.18333
+    },
+    {
+        "name": "Сан-Франциско",
+        "latitude": 9.99299,
+        "longitude": -84.12934
+    },
+    {
+        "name": "Сан-Исидро",
+        "latitude": 10.03333,
+        "longitude": -84.03333
+    },
+    {
+        "name": "Сан-Хосесито",
+        "latitude": 10.01667,
+        "longitude": -84.1
+    },
+    {
+        "name": "Сан-Пабло",
+        "latitude": 10.0,
+        "longitude": -84.08333
+    },
+    {
+        "name": "Сан-Рафаэль",
+        "latitude": 10.05,
+        "longitude": -84.06667
+    },
+    {
+        "name": "Санта Барбара",
+        "latitude": 10.08333,
+        "longitude": -84.15
+    },
+    {
+        "name": "Санто-Доминго",
+        "latitude": 10.06389,
+        "longitude": -84.15499
+    },
+    {
+        "name": "Сарапики",
+        "latitude": 10.5,
+        "longitude": -84.0
+    },
+    {
+        "name": "Батан",
+        "latitude": 10.08354,
+        "longitude": -83.33413
+    },
+    {
+        "name": "Гуасимо",
+        "latitude": 10.2,
+        "longitude": -83.66667
+    },
+    {
+        "name": "Гуапилес",
+        "latitude": 10.21682,
+        "longitude": -83.78483
+    },
+    {
+        "name": "Лимон",
+        "latitude": 9.99074,
+        "longitude": -83.03596
+    },
+    {
+        "name": "Матина",
+        "latitude": 10.0,
+        "longitude": -83.25
+    },
+    {
+        "name": "Покочи",
+        "latitude": 10.5,
+        "longitude": -83.63333
+    },
+    {
+        "name": "Покора",
+        "latitude": 10.17185,
+        "longitude": -83.60439
+    },
+    {
+        "name": "Роксана",
+        "latitude": 10.26712,
+        "longitude": -83.7511
+    },
+    {
+        "name": "Сикирры",
+        "latitude": 10.11667,
+        "longitude": -83.5
+    },
+    {
+        "name": "Sixaola",
+        "latitude": 9.52766,
+        "longitude": -82.62185
+    },
+    {
+        "name": "Таламанка",
+        "latitude": 9.5,
+        "longitude": -83.08333
+    },
+    {
+        "name": "Альварадо",
+        "latitude": 9.93333,
+        "longitude": -83.8
+    },
+    {
+        "name": "Картаго",
+        "latitude": 9.86444,
+        "longitude": -83.91944
+    },
+    {
+        "name": "Консепсьон",
+        "latitude": 9.93333,
+        "longitude": -84.0
+    },
+    {
+        "name": "Детская кроватка",
+        "latitude": 9.89449,
+        "longitude": -83.87302
+    },
+    {
+        "name": "Эль Гуарко",
+        "latitude": 9.75,
+        "longitude": -83.91667
+    },
+    {
+        "name": "Хименес",
+        "latitude": 9.75,
+        "longitude": -83.68333
+    },
+    {
+        "name": "Ла Суиза",
+        "latitude": 9.85065,
+        "longitude": -83.6169
+    },
+    {
+        "name": "Ла Юнион",
+        "latitude": 9.91667,
+        "longitude": -83.98333
+    },
+    {
+        "name": "Oreamuno",
+        "latitude": 10.0,
+        "longitude": -83.83333
+    },
+    {
+        "name": "Ороси",
+        "latitude": 9.79617,
+        "longitude": -83.85383
+    },
+    {
+        "name": "Пакайя",
+        "latitude": 9.80709,
+        "longitude": -84.04764
+    },
+    {
+        "name": "Параисо",
+        "latitude": 9.75,
+        "longitude": -83.8
+    },
+    {
+        "name": "Пежибай",
+        "latitude": 9.81135,
+        "longitude": -83.70336
+    },
+    {
+        "name": "Сан Диего",
+        "latitude": 9.89898,
+        "longitude": -84.00287
+    },
+    {
+        "name": "Тобоси",
+        "latitude": 9.83837,
+        "longitude": -83.98391
+    },
+    {
+        "name": "Трес Риос",
+        "latitude": 9.90644,
+        "longitude": -83.9876
+    },
+    {
+        "name": "Тукуррике",
+        "latitude": 9.85336,
+        "longitude": -83.72273
+    },
+    {
+        "name": "Турриальба",
+        "latitude": 9.8,
+        "longitude": -83.53333
+    },
+    {
+        "name": "Буэнос айрес",
+        "latitude": 9.11667,
+        "longitude": -83.25
+    },
+    {
+        "name": "Каноас",
+        "latitude": 8.53305,
+        "longitude": -82.83844
+    },
+    {
+        "name": "Чакарита",
+        "latitude": 9.98424,
+        "longitude": -84.77892
+    },
+    {
+        "name": "Сьюдад-Кортес",
+        "latitude": 8.95988,
+        "longitude": -83.52381
+    },
+    {
+        "name": "Корредор",
+        "latitude": 8.64002,
+        "longitude": -82.946
+    },
+    {
+        "name": "Корредорес",
+        "latitude": 8.58333,
+        "longitude": -82.91667
+    },
+    {
+        "name": "Кото Брус",
+        "latitude": 8.88333,
+        "longitude": -82.96667
+    },
+    {
+        "name": "Эспарса",
+        "latitude": 10.0,
+        "longitude": -84.66667
+    },
+    {
+        "name": "Garabito",
+        "latitude": 9.61903,
+        "longitude": -84.62013
+    },
+    {
+        "name": "Гольфито",
+        "latitude": 8.6,
+        "longitude": -83.12
+    },
+    {
+        "name": "Хако",
+        "latitude": 9.61497,
+        "longitude": -84.62975
+    },
+    {
+        "name": "Мирамар",
+        "latitude": 10.0925,
+        "longitude": -84.72978
+    },
+    {
+        "name": "Монтес де Оро",
+        "latitude": 10.1,
+        "longitude": -84.75
+    },
+    {
+        "name": "Оса",
+        "latitude": 8.83333,
+        "longitude": -83.5
+    },
+    {
+        "name": "Центр Гаваны",
+        "latitude": 9.82005,
+        "longitude": -84.93513
+    },
+    {
+        "name": "Паррита",
+        "latitude": 9.55,
+        "longitude": -84.33333
+    },
+    {
+        "name": "Пунтаренас",
+        "latitude": 9.97625,
+        "longitude": -84.83836
+    },
+    {
+        "name": "Кепос",
+        "latitude": 9.43187,
+        "longitude": -84.16141
+    },
+    {
+        "name": "Сан-Вито",
+        "latitude": 8.82079,
+        "longitude": -82.97092
+    },
+    {
+        "name": "Акоста",
+        "latitude": 9.8,
+        "longitude": -84.2
+    },
+    {
+        "name": "Алахуэлита",
+        "latitude": 9.9,
+        "longitude": -84.1
+    },
+    {
+        "name": "Асерри",
+        "latitude": 9.86667,
+        "longitude": -84.1
+    },
+    {
+        "name": "Калле Бланкос",
+        "latitude": 9.95,
+        "longitude": -84.06667
+    },
+    {
+        "name": "Колима",
+        "latitude": 9.95091,
+        "longitude": -84.08503
+    },
+    {
+        "name": "Двоеточие",
+        "latitude": 9.91491,
+        "longitude": -84.2417
+    },
+    {
+        "name": "Курридабат",
+        "latitude": 9.91667,
+        "longitude": -84.03333
+    },
+    {
+        "name": "Дэниел Флорес",
+        "latitude": 9.33554,
+        "longitude": -83.6694
+    },
+    {
+        "name": "Десампарадос",
+        "latitude": 9.9,
+        "longitude": -84.06667
+    },
+    {
+        "name": "Дота",
+        "latitude": 9.65,
+        "longitude": -83.95
+    },
+    {
+        "name": "Эскасу",
+        "latitude": 9.93333,
+        "longitude": -84.13333
+    },
+    {
+        "name": "Гойкоэчеа",
+        "latitude": 9.94848,
+        "longitude": -84.06365
+    },
+    {
+        "name": "Гранадилья",
+        "latitude": 9.93491,
+        "longitude": -84.01688
+    },
+    {
+        "name": "Гваделупа",
+        "latitude": 9.94805,
+        "longitude": -84.05665
+    },
+    {
+        "name": "Ипис",
+        "latitude": 9.96745,
+        "longitude": -84.01326
+    },
+    {
+        "name": "Леон Кортес",
+        "latitude": 9.683,
+        "longitude": -84.04781
+    },
+    {
+        "name": "Мерседес",
+        "latitude": 9.2627,
+        "longitude": -83.58202
+    },
+    {
+        "name": "Торрес дель Пайне",
+        "latitude": 9.9396,
+        "longitude": -84.03013
+    },
+    {
+        "name": "Мора",
+        "latitude": 9.91667,
+        "longitude": -84.25
+    },
+    {
+        "name": "Моравия",
+        "latitude": 10.04,
+        "longitude": -84.0
+    },
+    {
+        "name": "Пальмичал",
+        "latitude": 9.83778,
+        "longitude": -84.20478
+    },
+    {
+        "name": "Патарра",
+        "latitude": 9.88071,
+        "longitude": -84.03501
+    },
+    {
+        "name": "Перес Зеледон",
+        "latitude": 9.35473,
+        "longitude": -83.63484
+    },
+    {
+        "name": "Пурискаль",
+        "latitude": 9.75,
+        "longitude": -84.41667
+    },
+    {
+        "name": "Мурлыканье",
+        "latitude": 9.95808,
+        "longitude": -84.0305
+    },
+    {
+        "name": "Сабанилья",
+        "latitude": 9.94522,
+        "longitude": -84.03927
+    },
+    {
+        "name": "Салитрал",
+        "latitude": 9.91163,
+        "longitude": -84.17835
+    },
+    {
+        "name": "Салитрильос",
+        "latitude": 9.85259,
+        "longitude": -84.09062
+    },
+    {
+        "name": "Сан-Фелипе",
+        "latitude": 9.90488,
+        "longitude": -84.10551
+    },
+    {
+        "name": "Сан-Игнасио",
+        "latitude": 9.79853,
+        "longitude": -84.16173
+    },
+    {
+        "name": "Сан-Исидро",
+        "latitude": 9.3674,
+        "longitude": -83.69713
+    },
+    {
+        "name": "Сан - Хосе",
+        "latitude": 9.93333,
+        "longitude": -84.08333
+    },
+    {
+        "name": "Сан-Хуан",
+        "latitude": 9.95974,
+        "longitude": -84.08165
+    },
+    {
+        "name": "Сан-Хуан-де-Диос",
+        "latitude": 9.8773,
+        "longitude": -84.0847
+    },
+    {
+        "name": "Сан-Маркос",
+        "latitude": 9.6601,
+        "longitude": -84.02026
+    },
+    {
+        "name": "Сан-Мигель",
+        "latitude": 9.87121,
+        "longitude": -84.06084
+    },
+    {
+        "name": "Сан-Педро",
+        "latitude": 9.92829,
+        "longitude": -84.05074
+    },
+    {
+        "name": "Сан-Рафаэль",
+        "latitude": 9.92787,
+        "longitude": -84.13722
+    },
+    {
+        "name": "Сан-Рафаэль Абахо",
+        "latitude": 9.831,
+        "longitude": -84.29008
+    },
+    {
+        "name": "Сан-Рафаэль Арриба",
+        "latitude": 9.87556,
+        "longitude": -84.07661
+    },
+    {
+        "name": "Сан-Висенте",
+        "latitude": 9.96016,
+        "longitude": -84.04762
+    },
+    {
+        "name": "Сан-Висенте-де-Моравия",
+        "latitude": 9.96164,
+        "longitude": -84.0488
+    },
+    {
+        "name": "Санта Ана",
+        "latitude": 9.9326,
+        "longitude": -84.18255
+    },
+    {
+        "name": "Сантьяго",
+        "latitude": 9.84636,
+        "longitude": -84.31428
+    },
+    {
+        "name": "Пенкауэ",
+        "latitude": 9.65965,
+        "longitude": -84.02138
+    },
+    {
+        "name": "Техар",
+        "latitude": 9.74622,
+        "longitude": -84.23368
+    },
+    {
+        "name": "Тибас",
+        "latitude": 9.96667,
+        "longitude": -84.08333
+    },
+    {
+        "name": "Туррубарес",
+        "latitude": 9.75,
+        "longitude": -84.5
+    },
+    {
+        "name": "Васкес де Коронадо",
+        "latitude": 10.06,
+        "longitude": -84.0
+    }
+]

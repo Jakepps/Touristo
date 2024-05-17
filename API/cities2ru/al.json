@@ -1,0 +1,652 @@
+[
+    {
+        "name": "Банско",
+        "latitude": 40.82492,
+        "longitude": 19.84074
+    },
+    {
+        "name": "Башкия Берат",
+        "latitude": 40.69997,
+        "longitude": 19.94983
+    },
+    {
+        "name": "Башкия Куцова",
+        "latitude": 40.82489,
+        "longitude": 19.9535
+    },
+    {
+        "name": "Башкия Поличан",
+        "latitude": 40.58608,
+        "longitude": 20.04535
+    },
+    {
+        "name": "Башкия Скрапар",
+        "latitude": 40.56036,
+        "longitude": 20.25477
+    },
+    {
+        "name": "Джалокати",
+        "latitude": 40.70583,
+        "longitude": 19.95222
+    },
+    {
+        "name": "Чороводэ",
+        "latitude": 40.50417,
+        "longitude": 20.22722
+    },
+    {
+        "name": "Кучова",
+        "latitude": 40.80028,
+        "longitude": 19.91667
+    },
+    {
+        "name": "Поличан",
+        "latitude": 40.61222,
+        "longitude": 20.09806
+    },
+    {
+        "name": "Ррети и Бератит",
+        "latitude": 40.66667,
+        "longitude": 20.0
+    },
+    {
+        "name": "Ррети и Кучовес",
+        "latitude": 40.83333,
+        "longitude": 19.91667
+    },
+    {
+        "name": "Ррети и Скрапарит",
+        "latitude": 40.55,
+        "longitude": 20.26667
+    },
+    {
+        "name": "Ура Вайгуроре",
+        "latitude": 40.76889,
+        "longitude": 19.87778
+    },
+    {
+        "name": "Башкия Булкизе",
+        "latitude": 41.47152,
+        "longitude": 20.33192
+    },
+    {
+        "name": "Башкия Клос",
+        "latitude": 41.50826,
+        "longitude": 20.07107
+    },
+    {
+        "name": "Башкия Мат",
+        "latitude": 41.63317,
+        "longitude": 20.01228
+    },
+    {
+        "name": "Община Сатовча",
+        "latitude": 41.49167,
+        "longitude": 20.22194
+    },
+    {
+        "name": "Баррел",
+        "latitude": 41.61028,
+        "longitude": 20.00889
+    },
+    {
+        "name": "Клос",
+        "latitude": 41.50694,
+        "longitude": 20.08667
+    },
+    {
+        "name": "Пешкопи",
+        "latitude": 41.685,
+        "longitude": 20.42889
+    },
+    {
+        "name": "Ррети и Булкизес",
+        "latitude": 41.5,
+        "longitude": 20.33333
+    },
+    {
+        "name": "Ррети и Дибрес",
+        "latitude": 41.75,
+        "longitude": 20.33333
+    },
+    {
+        "name": "Ррети и Матит",
+        "latitude": 41.58333,
+        "longitude": 20.08333
+    },
+    {
+        "name": "Улез",
+        "latitude": 41.68278,
+        "longitude": 19.89333
+    },
+    {
+        "name": "Башкия Дуррес",
+        "latitude": 41.42743,
+        "longitude": 19.4869
+    },
+    {
+        "name": "Башкия Круя",
+        "latitude": 41.50091,
+        "longitude": 19.72571
+    },
+    {
+        "name": "Башкия Шиджак",
+        "latitude": 41.33558,
+        "longitude": 19.58977
+    },
+    {
+        "name": "Дуррес",
+        "latitude": 41.32355,
+        "longitude": 19.45469
+    },
+    {
+        "name": "Дурресский район",
+        "latitude": 41.3166,
+        "longitude": 19.45
+    },
+    {
+        "name": "Фусе-Круя",
+        "latitude": 41.47833,
+        "longitude": 19.71778
+    },
+    {
+        "name": "Круя",
+        "latitude": 41.50917,
+        "longitude": 19.79278
+    },
+    {
+        "name": "Ррети и Круес",
+        "latitude": 41.55,
+        "longitude": 19.75
+    },
+    {
+        "name": "Шиджак",
+        "latitude": 41.34556,
+        "longitude": 19.56722
+    },
+    {
+        "name": "Суктх",
+        "latitude": 41.38056,
+        "longitude": 19.53778
+    },
+    {
+        "name": "Боллш",
+        "latitude": 40.59889,
+        "longitude": 19.73472
+    },
+    {
+        "name": "Башкия Дивьяке",
+        "latitude": 40.95716,
+        "longitude": 19.52364
+    },
+    {
+        "name": "Башкия Фиер",
+        "latitude": 40.72937,
+        "longitude": 19.4869
+    },
+    {
+        "name": "Башкия Маллакастер",
+        "latitude": 40.55669,
+        "longitude": 19.77347
+    },
+    {
+        "name": "Башкия Патос",
+        "latitude": 40.67793,
+        "longitude": 19.65591
+    },
+    {
+        "name": "Дивьяке",
+        "latitude": 40.99667,
+        "longitude": 19.52944
+    },
+    {
+        "name": "Фиери",
+        "latitude": 40.72389,
+        "longitude": 19.55611
+    },
+    {
+        "name": "Фьер-Чифчи",
+        "latitude": 40.71667,
+        "longitude": 19.56667
+    },
+    {
+        "name": "Лушне",
+        "latitude": 40.94194,
+        "longitude": 19.705
+    },
+    {
+        "name": "Патос",
+        "latitude": 40.68333,
+        "longitude": 19.61944
+    },
+    {
+        "name": "Патос Фшат",
+        "latitude": 40.64278,
+        "longitude": 19.65083
+    },
+    {
+        "name": "Росковец",
+        "latitude": 40.7375,
+        "longitude": 19.70222
+    },
+    {
+        "name": "Ррети и Маллакастрес",
+        "latitude": 40.55,
+        "longitude": 19.78333
+    },
+    {
+        "name": "Башкия Дропалл",
+        "latitude": 39.98584,
+        "longitude": 20.30529
+    },
+    {
+        "name": "Башкия Кельцире",
+        "latitude": 40.36196,
+        "longitude": 20.16476
+    },
+    {
+        "name": "Башкия Либохова",
+        "latitude": 40.10754,
+        "longitude": 20.25753
+    },
+    {
+        "name": "Башкия Мемалаяй",
+        "latitude": 40.41524,
+        "longitude": 19.96911
+    },
+    {
+        "name": "Башкия Пермет",
+        "latitude": 40.23246,
+        "longitude": 20.41091
+    },
+    {
+        "name": "Башкия Тепелене",
+        "latitude": 40.26736,
+        "longitude": 19.97003
+    },
+    {
+        "name": "Гджинкар",
+        "latitude": 40.19944,
+        "longitude": 20.40611
+    },
+    {
+        "name": "Гирокастра",
+        "latitude": 40.07583,
+        "longitude": 20.13889
+    },
+    {
+        "name": "Келсире",
+        "latitude": 40.31306,
+        "longitude": 20.18944
+    },
+    {
+        "name": "Лазарат",
+        "latitude": 40.04667,
+        "longitude": 20.1475
+    },
+    {
+        "name": "Либохова",
+        "latitude": 40.03111,
+        "longitude": 20.26306
+    },
+    {
+        "name": "Мемальядж",
+        "latitude": 40.35167,
+        "longitude": 19.98028
+    },
+    {
+        "name": "Пермет",
+        "latitude": 40.23361,
+        "longitude": 20.35167
+    },
+    {
+        "name": "Тепелэнэ",
+        "latitude": 40.29583,
+        "longitude": 20.01917
+    },
+    {
+        "name": "Башкия Деволл",
+        "latitude": 40.60078,
+        "longitude": 20.93814
+    },
+    {
+        "name": "Башкия Колонье",
+        "latitude": 40.3142,
+        "longitude": 20.61482
+    },
+    {
+        "name": "Башкия Малик",
+        "latitude": 40.75508,
+        "longitude": 20.60748
+    },
+    {
+        "name": "Башкия Пустец",
+        "latitude": 40.83591,
+        "longitude": 20.89405
+    },
+    {
+        "name": "Билишт",
+        "latitude": 40.6275,
+        "longitude": 20.99
+    },
+    {
+        "name": "Эрсекэ",
+        "latitude": 40.33778,
+        "longitude": 20.67889
+    },
+    {
+        "name": "Корча",
+        "latitude": 40.61861,
+        "longitude": 20.78083
+    },
+    {
+        "name": "Лесковик",
+        "latitude": 40.15139,
+        "longitude": 20.59722
+    },
+    {
+        "name": "Либоник",
+        "latitude": 40.70444,
+        "longitude": 20.70861
+    },
+    {
+        "name": "Малик",
+        "latitude": 40.70583,
+        "longitude": 20.69972
+    },
+    {
+        "name": "Мборье",
+        "latitude": 40.60333,
+        "longitude": 20.80306
+    },
+    {
+        "name": "Поградец",
+        "latitude": 40.9025,
+        "longitude": 20.6525
+    },
+    {
+        "name": "Нойзидль-ам-Зее",
+        "latitude": 40.58333,
+        "longitude": 20.91667
+    },
+    {
+        "name": "Ррети и Колоньес",
+        "latitude": 40.25,
+        "longitude": 20.66667
+    },
+    {
+        "name": "Вельчан",
+        "latitude": 40.95472,
+        "longitude": 20.46222
+    },
+    {
+        "name": "Воскопое",
+        "latitude": 40.63306,
+        "longitude": 20.58889
+    },
+    {
+        "name": "Байрам Карри",
+        "latitude": 42.35734,
+        "longitude": 20.07679
+    },
+    {
+        "name": "Круме",
+        "latitude": 42.19694,
+        "longitude": 20.41333
+    },
+    {
+        "name": "Кукес",
+        "latitude": 42.07694,
+        "longitude": 20.42194
+    },
+    {
+        "name": "Ррети и Хасит",
+        "latitude": 42.16667,
+        "longitude": 20.33333
+    },
+    {
+        "name": "Ррети и Кукесит",
+        "latitude": 42.0,
+        "longitude": 20.33333
+    },
+    {
+        "name": "Башкия Курбин",
+        "latitude": 41.62215,
+        "longitude": 19.70734
+    },
+    {
+        "name": "Башкия Лежа",
+        "latitude": 41.8132,
+        "longitude": 19.64121
+    },
+    {
+        "name": "Башкия Мирдите",
+        "latitude": 41.80953,
+        "longitude": 19.99024
+    },
+    {
+        "name": "Курбнеш",
+        "latitude": 41.77972,
+        "longitude": 20.08361
+    },
+    {
+        "name": "Лач",
+        "latitude": 41.63556,
+        "longitude": 19.71306
+    },
+    {
+        "name": "Лежа",
+        "latitude": 41.78361,
+        "longitude": 19.64361
+    },
+    {
+        "name": "Мамуррас",
+        "latitude": 41.5775,
+        "longitude": 19.69222
+    },
+    {
+        "name": "Мило",
+        "latitude": 41.68389,
+        "longitude": 19.71556
+    },
+    {
+        "name": "Ррешен",
+        "latitude": 41.7675,
+        "longitude": 19.87556
+    },
+    {
+        "name": "Ррети и Курбинит",
+        "latitude": 41.63333,
+        "longitude": 19.71667
+    },
+    {
+        "name": "Рубик",
+        "latitude": 41.77444,
+        "longitude": 19.78611
+    },
+    {
+        "name": "Шэнджин",
+        "latitude": 41.81361,
+        "longitude": 19.59389
+    },
+    {
+        "name": "Башкия Малеси и Мадхе",
+        "latitude": 42.36798,
+        "longitude": 19.58977
+    },
+    {
+        "name": "Башкия Пуке",
+        "latitude": 42.02997,
+        "longitude": 19.92778
+    },
+    {
+        "name": "Башкия Вау и Дежес",
+        "latitude": 42.04834,
+        "longitude": 19.69999
+    },
+    {
+        "name": "Фусе-Аррес",
+        "latitude": 42.06222,
+        "longitude": 20.01667
+    },
+    {
+        "name": "Коплик",
+        "latitude": 42.21361,
+        "longitude": 19.43639
+    },
+    {
+        "name": "Пукэ",
+        "latitude": 42.04444,
+        "longitude": 19.89972
+    },
+    {
+        "name": "Ррети и Малесия и Мадхе",
+        "latitude": 42.33333,
+        "longitude": 19.58333
+    },
+    {
+        "name": "Ррети и Шкодрес",
+        "latitude": 42.06917,
+        "longitude": 19.53506
+    },
+    {
+        "name": "Кортрейк",
+        "latitude": 42.06828,
+        "longitude": 19.51258
+    },
+    {
+        "name": "Вау и Дежес",
+        "latitude": 42.01,
+        "longitude": 19.62472
+    },
+    {
+        "name": "Вукатанэ",
+        "latitude": 42.02806,
+        "longitude": 19.54778
+    },
+    {
+        "name": "Башкия Кавая",
+        "latitude": 41.18127,
+        "longitude": 19.55579
+    },
+    {
+        "name": "Башкия Ворё",
+        "latitude": 41.39804,
+        "longitude": 19.67703
+    },
+    {
+        "name": "Камез",
+        "latitude": 41.38167,
+        "longitude": 19.76028
+    },
+    {
+        "name": "Кавая",
+        "latitude": 41.18556,
+        "longitude": 19.55694
+    },
+    {
+        "name": "Кррабе",
+        "latitude": 41.21556,
+        "longitude": 19.97139
+    },
+    {
+        "name": "Ррети и Кавайес",
+        "latitude": 41.16667,
+        "longitude": 19.58333
+    },
+    {
+        "name": "Ррети и Тиранес",
+        "latitude": 41.33333,
+        "longitude": 19.91667
+    },
+    {
+        "name": "Ррогожина",
+        "latitude": 41.07639,
+        "longitude": 19.66528
+    },
+    {
+        "name": "Синабаллай",
+        "latitude": 41.06889,
+        "longitude": 19.69944
+    },
+    {
+        "name": "Тирана",
+        "latitude": 41.3275,
+        "longitude": 19.81889
+    },
+    {
+        "name": "Ворэ",
+        "latitude": 41.39083,
+        "longitude": 19.655
+    },
+    {
+        "name": "Башкия Финик",
+        "latitude": 39.84393,
+        "longitude": 20.16659
+    },
+    {
+        "name": "Башкия Химара",
+        "latitude": 40.11581,
+        "longitude": 19.81389
+    },
+    {
+        "name": "Башкия Конисполь",
+        "latitude": 39.70064,
+        "longitude": 20.13353
+    },
+    {
+        "name": "Башкия Селеница",
+        "latitude": 40.39503,
+        "longitude": 19.65958
+    },
+    {
+        "name": "Башкия Влёра",
+        "latitude": 40.4134,
+        "longitude": 19.49792
+    },
+    {
+        "name": "Дельвина",
+        "latitude": 39.95111,
+        "longitude": 20.09778
+    },
+    {
+        "name": "Химара",
+        "latitude": 40.10167,
+        "longitude": 19.74472
+    },
+    {
+        "name": "Конисполь",
+        "latitude": 39.65889,
+        "longitude": 20.18139
+    },
+    {
+        "name": "Ксамил",
+        "latitude": 39.76889,
+        "longitude": 19.99972
+    },
+    {
+        "name": "Орикум",
+        "latitude": 40.32528,
+        "longitude": 19.47139
+    },
+    {
+        "name": "Ррети и Дельвинес",
+        "latitude": 39.91667,
+        "longitude": 20.08333
+    },
+    {
+        "name": "Саранда",
+        "latitude": 39.87534,
+        "longitude": 20.00477
+    },
+    {
+        "name": "Селенице",
+        "latitude": 40.53056,
+        "longitude": 19.63583
+    },
+    {
+        "name": "Влёра",
+        "latitude": 40.4686,
+        "longitude": 19.48318
+    }
+]

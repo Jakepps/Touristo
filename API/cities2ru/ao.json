@@ -1,0 +1,342 @@
+[
+    {
+        "name": "Банско",
+        "latitude": -7.8574,
+        "longitude": 13.1251
+    },
+    {
+        "name": "Була Атумба",
+        "latitude": -7.3117,
+        "longitude": 14.3147
+    },
+    {
+        "name": "Какшито",
+        "latitude": -8.57848,
+        "longitude": 13.66425
+    },
+    {
+        "name": "Данде",
+        "latitude": -8.1133,
+        "longitude": 13.7652
+    },
+    {
+        "name": "Муксима",
+        "latitude": -9.5879,
+        "longitude": 13.5251
+    },
+    {
+        "name": "Намбуангонго",
+        "latitude": -8.5656,
+        "longitude": 13.6572
+    },
+    {
+        "name": "Панго Алукем",
+        "latitude": -8.5544,
+        "longitude": 13.5815
+    },
+    {
+        "name": "Провинция дю Муун",
+        "latitude": -8.6724,
+        "longitude": 13.6829
+    },
+    {
+        "name": "Байя Фарта",
+        "latitude": -12.5766,
+        "longitude": 13.4776
+    },
+    {
+        "name": "Баломбо",
+        "latitude": -12.9046,
+        "longitude": 13.5959
+    },
+    {
+        "name": "Бенгела",
+        "latitude": -12.57626,
+        "longitude": 13.40547
+    },
+    {
+        "name": "Бокойо",
+        "latitude": -12.5303,
+        "longitude": 13.4042
+    },
+    {
+        "name": "Каимбамбо",
+        "latitude": -12.6133,
+        "longitude": 14.4194
+    },
+    {
+        "name": "Катумбела",
+        "latitude": -12.3986,
+        "longitude": 13.5494
+    },
+    {
+        "name": "Катумбела",
+        "latitude": -12.43002,
+        "longitude": 13.54677
+    },
+    {
+        "name": "Чонгорой",
+        "latitude": -12.7888,
+        "longitude": 13.7975
+    },
+    {
+        "name": "Брахманбария",
+        "latitude": -12.5885,
+        "longitude": 14.4267
+    },
+    {
+        "name": "Ганда",
+        "latitude": -12.6825,
+        "longitude": 14.4233
+    },
+    {
+        "name": "Лобито",
+        "latitude": -12.3644,
+        "longitude": 13.53601
+    },
+    {
+        "name": "Сумбе",
+        "latitude": -11.2061,
+        "longitude": 13.8448
+    },
+    {
+        "name": "Камакупа",
+        "latitude": -12.01667,
+        "longitude": 17.48333
+    },
+    {
+        "name": "Катабола",
+        "latitude": -12.15,
+        "longitude": 17.28333
+    },
+    {
+        "name": "Чисамба",
+        "latitude": -12.16667,
+        "longitude": 17.33333
+    },
+    {
+        "name": "Куито",
+        "latitude": -12.38333,
+        "longitude": 16.93333
+    },
+    {
+        "name": "Кабинда",
+        "latitude": -5.55,
+        "longitude": 12.2
+    },
+    {
+        "name": "Менонге",
+        "latitude": -14.6585,
+        "longitude": 17.69099
+    },
+    {
+        "name": "Камабатела",
+        "latitude": -8.18812,
+        "longitude": 15.37495
+    },
+    {
+        "name": "Н'далатандо",
+        "latitude": -9.29782,
+        "longitude": 14.91162
+    },
+    {
+        "name": "Кибала",
+        "latitude": -10.73366,
+        "longitude": 14.97995
+    },
+    {
+        "name": "Сумбе",
+        "latitude": -11.20605,
+        "longitude": 13.84371
+    },
+    {
+        "name": "Уаку Кунго",
+        "latitude": -11.35669,
+        "longitude": 15.11719
+    },
+    {
+        "name": "Онджива",
+        "latitude": -17.06667,
+        "longitude": 15.73333
+    },
+    {
+        "name": "Каала",
+        "latitude": -12.8525,
+        "longitude": 15.56056
+    },
+    {
+        "name": "Чела",
+        "latitude": -12.30261,
+        "longitude": 15.43358
+    },
+    {
+        "name": "Уамбо",
+        "latitude": -12.77611,
+        "longitude": 15.73917
+    },
+    {
+        "name": "Лонгонджо",
+        "latitude": -12.90667,
+        "longitude": 15.25333
+    },
+    {
+        "name": "Каконда",
+        "latitude": -13.73333,
+        "longitude": 15.06667
+    },
+    {
+        "name": "Калукембе",
+        "latitude": -13.92093,
+        "longitude": 14.53476
+    },
+    {
+        "name": "Chibia",
+        "latitude": -15.23657,
+        "longitude": 13.88468
+    },
+    {
+        "name": "Горица",
+        "latitude": -14.30788,
+        "longitude": 14.98672
+    },
+    {
+        "name": "Чипиндо",
+        "latitude": -13.8683,
+        "longitude": 15.73277
+    },
+    {
+        "name": "Куванго",
+        "latitude": -14.27693,
+        "longitude": 16.31475
+    },
+    {
+        "name": "Гамбос",
+        "latitude": -15.80926,
+        "longitude": 14.07661
+    },
+    {
+        "name": "Хумпата",
+        "latitude": -15.0725,
+        "longitude": 13.36771
+    },
+    {
+        "name": "Джамба",
+        "latitude": -14.76294,
+        "longitude": 15.83493
+    },
+    {
+        "name": "Лубанго",
+        "latitude": -14.91717,
+        "longitude": 13.4925
+    },
+    {
+        "name": "Матала",
+        "latitude": -15.23967,
+        "longitude": 15.17246
+    },
+    {
+        "name": "Киленге",
+        "latitude": -13.99213,
+        "longitude": 13.76705
+    },
+    {
+        "name": "Кипунго",
+        "latitude": -15.12203,
+        "longitude": 14.55953
+    },
+    {
+        "name": "Белас",
+        "latitude": -9.06875,
+        "longitude": 13.16072
+    },
+    {
+        "name": "Какуако",
+        "latitude": -8.8296,
+        "longitude": 13.2973
+    },
+    {
+        "name": "Казенга",
+        "latitude": -8.8286,
+        "longitude": 13.2665
+    },
+    {
+        "name": "Иколо и Бенго",
+        "latitude": -9.24191,
+        "longitude": 13.73549
+    },
+    {
+        "name": "Луанда",
+        "latitude": -8.83682,
+        "longitude": 13.23432
+    },
+    {
+        "name": "Талатона",
+        "latitude": -8.8957,
+        "longitude": 13.1943
+    },
+    {
+        "name": "Виана",
+        "latitude": -8.9021,
+        "longitude": 13.2861
+    },
+    {
+        "name": "Лукапа",
+        "latitude": -8.68337,
+        "longitude": 20.27045
+    },
+    {
+        "name": "Казаджи",
+        "latitude": -11.06715,
+        "longitude": 20.70148
+    },
+    {
+        "name": "Сауримо",
+        "latitude": -9.66078,
+        "longitude": 20.39155
+    },
+    {
+        "name": "Маланже",
+        "latitude": -9.54015,
+        "longitude": 16.34096
+    },
+    {
+        "name": "Леуа",
+        "latitude": -11.65,
+        "longitude": 20.45
+    },
+    {
+        "name": "Луау",
+        "latitude": -10.70727,
+        "longitude": 22.22466
+    },
+    {
+        "name": "Луена",
+        "latitude": -11.78333,
+        "longitude": 19.91667
+    },
+    {
+        "name": "Лумедже",
+        "latitude": -11.55,
+        "longitude": 20.78333
+    },
+    {
+        "name": "Уиже",
+        "latitude": -7.60874,
+        "longitude": 15.06131
+    },
+    {
+        "name": "Мбанза Конго",
+        "latitude": -6.26703,
+        "longitude": 14.2401
+    },
+    {
+        "name": "Нзето",
+        "latitude": -7.23116,
+        "longitude": 12.8666
+    },
+    {
+        "name": "Сойо",
+        "latitude": -6.1349,
+        "longitude": 12.36894
+    }
+]

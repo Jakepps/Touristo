@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Джидд Хафш",
+        "latitude": 26.21861,
+        "longitude": 50.54778
+    },
+    {
+        "name": "Манама",
+        "latitude": 26.22787,
+        "longitude": 50.58565
+    },
+    {
+        "name": "Ситра",
+        "latitude": 26.15472,
+        "longitude": 50.62056
+    },
+    {
+        "name": "Мадинат Хамад",
+        "latitude": 26.11528,
+        "longitude": 50.50694
+    },
+    {
+        "name": "Аль-Хадд",
+        "latitude": 26.24556,
+        "longitude": 50.65417
+    },
+    {
+        "name": "Аль Мухаррак",
+        "latitude": 26.25722,
+        "longitude": 50.61194
+    },
+    {
+        "name": "Ар Рифа",
+        "latitude": 26.13,
+        "longitude": 50.555
+    },
+    {
+        "name": "Дар Кулайб",
+        "latitude": 26.06861,
+        "longitude": 50.50389
+    },
+    {
+        "name": "Мадинат Иса",
+        "latitude": 26.17361,
+        "longitude": 50.54778
+    }
+]

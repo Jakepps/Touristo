@@ -1,0 +1,377 @@
+[
+    {
+        "name": "Гобожанго",
+        "latitude": -21.8327,
+        "longitude": 28.72882
+    },
+    {
+        "name": "Гвета",
+        "latitude": -20.18333,
+        "longitude": 25.23333
+    },
+    {
+        "name": "Каламаре",
+        "latitude": -22.93369,
+        "longitude": 26.57032
+    },
+    {
+        "name": "Летлхакане",
+        "latitude": -21.41494,
+        "longitude": 25.59263
+    },
+    {
+        "name": "Летшенг",
+        "latitude": -22.66384,
+        "longitude": 27.2239
+    },
+    {
+        "name": "Маапи",
+        "latitude": -22.75785,
+        "longitude": 27.35001
+    },
+    {
+        "name": "Machaneng",
+        "latitude": -23.18621,
+        "longitude": 27.48856
+    },
+    {
+        "name": "Махалапье",
+        "latitude": -23.10407,
+        "longitude": 26.81421
+    },
+    {
+        "name": "Макобенг",
+        "latitude": -22.99637,
+        "longitude": 27.66766
+    },
+    {
+        "name": "Маквата",
+        "latitude": -23.28333,
+        "longitude": 27.3
+    },
+    {
+        "name": "Матхакола",
+        "latitude": -22.72125,
+        "longitude": 27.31057
+    },
+    {
+        "name": "Матхамбгване",
+        "latitude": -20.99075,
+        "longitude": 27.33158
+    },
+    {
+        "name": "Мататан",
+        "latitude": -22.26875,
+        "longitude": 28.74946
+    },
+    {
+        "name": "Маунатлала",
+        "latitude": -22.59701,
+        "longitude": 27.63006
+    },
+    {
+        "name": "Могапи",
+        "latitude": -22.32301,
+        "longitude": 27.83492
+    },
+    {
+        "name": "Мойджабана",
+        "latitude": -22.43333,
+        "longitude": 26.41667
+    },
+    {
+        "name": "Мукан",
+        "latitude": -23.68805,
+        "longitude": 26.65948
+    },
+    {
+        "name": "Mopipi",
+        "latitude": -21.18333,
+        "longitude": 24.88333
+    },
+    {
+        "name": "Мозесе",
+        "latitude": -20.75,
+        "longitude": 26.65
+    },
+    {
+        "name": "Ната",
+        "latitude": -20.21667,
+        "longitude": 26.18333
+    },
+    {
+        "name": "Орапа",
+        "latitude": -21.3115,
+        "longitude": 25.37642
+    },
+    {
+        "name": "Палапье",
+        "latitude": -22.54605,
+        "longitude": 27.12507
+    },
+    {
+        "name": "Пиликве",
+        "latitude": -22.79904,
+        "longitude": 27.19376
+    },
+    {
+        "name": "Ракопс",
+        "latitude": -21.02257,
+        "longitude": 24.36052
+    },
+    {
+        "name": "Рамокгонами",
+        "latitude": -22.8645,
+        "longitude": 27.42391
+    },
+    {
+        "name": "Махала",
+        "latitude": -22.72454,
+        "longitude": 27.57199
+    },
+    {
+        "name": "Сефоф",
+        "latitude": -22.18333,
+        "longitude": 27.96667
+    },
+    {
+        "name": "Серове",
+        "latitude": -22.38754,
+        "longitude": 26.71077
+    },
+    {
+        "name": "Суа",
+        "latitude": -20.05,
+        "longitude": 26.2
+    },
+    {
+        "name": "Тамасане",
+        "latitude": -22.4184,
+        "longitude": 27.40127
+    },
+    {
+        "name": "Тобане",
+        "latitude": -21.95,
+        "longitude": 27.9
+    },
+    {
+        "name": "Tonota",
+        "latitude": -21.44236,
+        "longitude": 27.46153
+    },
+    {
+        "name": "Декар",
+        "latitude": -21.53333,
+        "longitude": 21.93333
+    },
+    {
+        "name": "Ганзи",
+        "latitude": -21.69785,
+        "longitude": 21.64581
+    },
+    {
+        "name": "Хукунци",
+        "latitude": -23.9988,
+        "longitude": 21.77962
+    },
+    {
+        "name": "Канг",
+        "latitude": -23.67518,
+        "longitude": 22.78762
+    },
+    {
+        "name": "Лехутуту",
+        "latitude": -23.96667,
+        "longitude": 21.86667
+    },
+    {
+        "name": "Маньяна",
+        "latitude": -23.4,
+        "longitude": 21.71667
+    },
+    {
+        "name": "Чабонг",
+        "latitude": -26.05,
+        "longitude": 22.45
+    },
+    {
+        "name": "Верда",
+        "latitude": -25.26667,
+        "longitude": 23.28333
+    },
+    {
+        "name": "Бокаа",
+        "latitude": -24.45,
+        "longitude": 26.01667
+    },
+    {
+        "name": "Мматубудудукване",
+        "latitude": -24.6,
+        "longitude": 26.43333
+    },
+    {
+        "name": "Мочуди",
+        "latitude": -24.41667,
+        "longitude": 26.15
+    },
+    {
+        "name": "Пилане",
+        "latitude": -24.45,
+        "longitude": 26.13333
+    },
+    {
+        "name": "Ботлапатлу",
+        "latitude": -24.02591,
+        "longitude": 25.48976
+    },
+    {
+        "name": "Дутлве",
+        "latitude": -23.98333,
+        "longitude": 23.9
+    },
+    {
+        "name": "Габане",
+        "latitude": -24.66667,
+        "longitude": 25.78222
+    },
+    {
+        "name": "Гафатшве",
+        "latitude": -24.57389,
+        "longitude": 25.83417
+    },
+    {
+        "name": "Худумелапье",
+        "latitude": -23.88333,
+        "longitude": 24.75
+    },
+    {
+        "name": "Ленчве Ле Тау",
+        "latitude": -24.38333,
+        "longitude": 25.85
+    },
+    {
+        "name": "Летлхакенг",
+        "latitude": -24.09442,
+        "longitude": 25.02977
+    },
+    {
+        "name": "Мецемотлхаба",
+        "latitude": -24.55139,
+        "longitude": 25.80306
+    },
+    {
+        "name": "Ммопоне",
+        "latitude": -24.56694,
+        "longitude": 25.87417
+    },
+    {
+        "name": "Могодитшане",
+        "latitude": -24.62694,
+        "longitude": 25.86556
+    },
+    {
+        "name": "Молепололе",
+        "latitude": -24.40659,
+        "longitude": 25.49508
+    },
+    {
+        "name": "Нкояфири",
+        "latitude": -24.63222,
+        "longitude": 25.83139
+    },
+    {
+        "name": "Тамага",
+        "latitude": -24.67014,
+        "longitude": 25.53975
+    },
+    {
+        "name": "Дукве",
+        "latitude": -20.58333,
+        "longitude": 26.41667
+    },
+    {
+        "name": "Макаленг",
+        "latitude": -20.9,
+        "longitude": 27.28333
+    },
+    {
+        "name": "Масунга",
+        "latitude": -20.62455,
+        "longitude": 27.44875
+    },
+    {
+        "name": "Себина",
+        "latitude": -20.86667,
+        "longitude": 27.25
+    },
+    {
+        "name": "Маун",
+        "latitude": -19.98333,
+        "longitude": 23.41667
+    },
+    {
+        "name": "Ноканенг",
+        "latitude": -19.66667,
+        "longitude": 22.26667
+    },
+    {
+        "name": "Пандаматенга",
+        "latitude": -18.52779,
+        "longitude": 25.62698
+    },
+    {
+        "name": "Сехитва",
+        "latitude": -20.46667,
+        "longitude": 22.71667
+    },
+    {
+        "name": "Шакаве",
+        "latitude": -18.36536,
+        "longitude": 21.84219
+    },
+    {
+        "name": "Габороне",
+        "latitude": -24.76234,
+        "longitude": 25.7995
+    },
+    {
+        "name": "Джаненг",
+        "latitude": -25.41667,
+        "longitude": 25.55
+    },
+    {
+        "name": "Копонг",
+        "latitude": -24.48333,
+        "longitude": 25.88333
+    },
+    {
+        "name": "Отсе",
+        "latitude": -25.01667,
+        "longitude": 25.73333
+    },
+    {
+        "name": "Рамоцва",
+        "latitude": -24.87158,
+        "longitude": 25.86989
+    },
+    {
+        "name": "Канье",
+        "latitude": -24.96675,
+        "longitude": 25.33273
+    },
+    {
+        "name": "Хахеа",
+        "latitude": -24.68954,
+        "longitude": 23.49403
+    },
+    {
+        "name": "Мосопа",
+        "latitude": -24.7718,
+        "longitude": 25.42156
+    },
+    {
+        "name": "Sekoma",
+        "latitude": -24.4,
+        "longitude": 23.88333
+    }
+]

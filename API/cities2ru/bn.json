@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Куала Белайт",
+        "latitude": 4.58361,
+        "longitude": 114.2312
+    },
+    {
+        "name": "Серия",
+        "latitude": 4.60637,
+        "longitude": 114.32476
+    },
+    {
+        "name": "Бандар Сери Бегаван",
+        "latitude": 4.89035,
+        "longitude": 114.94006
+    },
+    {
+        "name": "Беракас А",
+        "latitude": 4.97032,
+        "longitude": 114.92989
+    },
+    {
+        "name": "Капок",
+        "latitude": 5.02447,
+        "longitude": 115.04664
+    },
+    {
+        "name": "Ментири",
+        "latitude": 4.97058,
+        "longitude": 115.02078
+    },
+    {
+        "name": "Сераса",
+        "latitude": 5.01718,
+        "longitude": 115.05841
+    },
+    {
+        "name": "Бангар",
+        "latitude": 4.70861,
+        "longitude": 115.07167
+    },
+    {
+        "name": "Тутонг",
+        "latitude": 4.80278,
+        "longitude": 114.64917
+    }
+]

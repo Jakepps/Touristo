@@ -1,0 +1,2152 @@
+[
+    {
+        "name": "Окиркебю",
+        "latitude": 55.0708,
+        "longitude": 14.91978
+    },
+    {
+        "name": "Альбертслунд",
+        "latitude": 55.65691,
+        "longitude": 12.36381
+    },
+    {
+        "name": "Коммуна Альбертслунд",
+        "latitude": 55.68022,
+        "longitude": 12.34797
+    },
+    {
+        "name": "Коммуна Аллерёд",
+        "latitude": 55.85856,
+        "longitude": 12.32558
+    },
+    {
+        "name": "Баллеруп",
+        "latitude": 55.73165,
+        "longitude": 12.36328
+    },
+    {
+        "name": "Коммуна Баллеруп",
+        "latitude": 55.73248,
+        "longitude": 12.35793
+    },
+    {
+        "name": "Биркерёд",
+        "latitude": 55.84759,
+        "longitude": 12.42791
+    },
+    {
+        "name": "Бловстрёд",
+        "latitude": 55.87038,
+        "longitude": 12.3864
+    },
+    {
+        "name": "Борнхольмская коммуна",
+        "latitude": 55.12386,
+        "longitude": 14.91115
+    },
+    {
+        "name": "Коммуна Брондбю",
+        "latitude": 55.6429,
+        "longitude": 12.41101
+    },
+    {
+        "name": "Шарлоттенлунд",
+        "latitude": 55.75238,
+        "longitude": 12.5745
+    },
+    {
+        "name": "Кристиансхавн",
+        "latitude": 55.67383,
+        "longitude": 12.59541
+    },
+    {
+        "name": "Кристиансё",
+        "latitude": 55.31982,
+        "longitude": 15.18783
+    },
+    {
+        "name": "Копенгаген",
+        "latitude": 55.67594,
+        "longitude": 12.56553
+    },
+    {
+        "name": "Драгор",
+        "latitude": 55.5928,
+        "longitude": 12.67221
+    },
+    {
+        "name": "Коммуна Драгор",
+        "latitude": 55.58233,
+        "longitude": 12.62756
+    },
+    {
+        "name": "Коммуна Эгедал",
+        "latitude": 55.75556,
+        "longitude": 12.22778
+    },
+    {
+        "name": "Эспергэрде",
+        "latitude": 55.99464,
+        "longitude": 12.54733
+    },
+    {
+        "name": "Фарум",
+        "latitude": 55.80858,
+        "longitude": 12.36066
+    },
+    {
+        "name": "Фленг",
+        "latitude": 55.66212,
+        "longitude": 12.18698
+    },
+    {
+        "name": "Фреденсборг",
+        "latitude": 55.97558,
+        "longitude": 12.40314
+    },
+    {
+        "name": "Коммуна Фреденсборг",
+        "latitude": 55.95,
+        "longitude": 12.45
+    },
+    {
+        "name": "Фредериксберг",
+        "latitude": 55.67938,
+        "longitude": 12.53463
+    },
+    {
+        "name": "Коммуна Фредериксберг",
+        "latitude": 55.67856,
+        "longitude": 12.52216
+    },
+    {
+        "name": "Фредерикссунд",
+        "latitude": 55.83956,
+        "longitude": 12.06896
+    },
+    {
+        "name": "Влахово Бржези",
+        "latitude": 55.80957,
+        "longitude": 12.04038
+    },
+    {
+        "name": "Фредериксверк",
+        "latitude": 55.97073,
+        "longitude": 12.0225
+    },
+    {
+        "name": "Коммуна Фуресё",
+        "latitude": 55.78333,
+        "longitude": 12.34167
+    },
+    {
+        "name": "Ганлёсе",
+        "latitude": 55.79124,
+        "longitude": 12.26421
+    },
+    {
+        "name": "Гентофте Коммуна",
+        "latitude": 55.75,
+        "longitude": 12.55
+    },
+    {
+        "name": "Гиллелехе",
+        "latitude": 56.12196,
+        "longitude": 12.31056
+    },
+    {
+        "name": "Муниципалитет Гладсакс",
+        "latitude": 55.76667,
+        "longitude": 12.43333
+    },
+    {
+        "name": "Глоструп",
+        "latitude": 55.6666,
+        "longitude": 12.40377
+    },
+    {
+        "name": "Коммуна Глоструп",
+        "latitude": 55.68188,
+        "longitude": 12.41018
+    },
+    {
+        "name": "Грестед",
+        "latitude": 56.06558,
+        "longitude": 12.28512
+    },
+    {
+        "name": "Грибсковская коммуна",
+        "latitude": 56.05833,
+        "longitude": 12.24167
+    },
+    {
+        "name": "Коммуна Халснес",
+        "latitude": 55.96765,
+        "longitude": 11.94214
+    },
+    {
+        "name": "Хедехусене",
+        "latitude": 55.67594,
+        "longitude": 12.56553
+    },
+    {
+        "name": "Хеллебек",
+        "latitude": 56.06823,
+        "longitude": 12.55782
+    },
+    {
+        "name": "Хельсинге",
+        "latitude": 56.02283,
+        "longitude": 12.19752
+    },
+    {
+        "name": "Хельсингёр",
+        "latitude": 56.03606,
+        "longitude": 12.6136
+    },
+    {
+        "name": "Хельсингёрская коммуна",
+        "latitude": 56.05,
+        "longitude": 12.5
+    },
+    {
+        "name": "Херлевская коммуна",
+        "latitude": 55.73317,
+        "longitude": 12.43106
+    },
+    {
+        "name": "Хиллерёд",
+        "latitude": 55.92791,
+        "longitude": 12.30081
+    },
+    {
+        "name": "Коммуна Хиллерёд",
+        "latitude": 55.92319,
+        "longitude": 12.23794
+    },
+    {
+        "name": "Хорнбек",
+        "latitude": 56.09027,
+        "longitude": 12.45693
+    },
+    {
+        "name": "Коммуна Хёйе-Тааструп",
+        "latitude": 55.65643,
+        "longitude": 12.24854
+    },
+    {
+        "name": "Хёрсхольм",
+        "latitude": 55.88098,
+        "longitude": 12.50111
+    },
+    {
+        "name": "Коммуна Хёрсхольм",
+        "latitude": 55.88759,
+        "longitude": 12.48566
+    },
+    {
+        "name": "Гумлебек",
+        "latitude": 55.9618,
+        "longitude": 12.5341
+    },
+    {
+        "name": "Хундестед",
+        "latitude": 55.96397,
+        "longitude": 11.85044
+    },
+    {
+        "name": "Хвидовре",
+        "latitude": 55.65719,
+        "longitude": 12.47364
+    },
+    {
+        "name": "Видовре Коммуна",
+        "latitude": 55.63166,
+        "longitude": 12.46615
+    },
+    {
+        "name": "Ишой",
+        "latitude": 55.61543,
+        "longitude": 12.35182
+    },
+    {
+        "name": "Коммуна Ишёй",
+        "latitude": 55.62299,
+        "longitude": 12.30567
+    },
+    {
+        "name": "Егерсприс",
+        "latitude": 55.85248,
+        "longitude": 11.98565
+    },
+    {
+        "name": "Коккедал",
+        "latitude": 55.91179,
+        "longitude": 12.49952
+    },
+    {
+        "name": "Конгенс Люнгбю",
+        "latitude": 55.77044,
+        "longitude": 12.50378
+    },
+    {
+        "name": "Копенгаген",
+        "latitude": 55.6711,
+        "longitude": 12.56529
+    },
+    {
+        "name": "Лиллерёд",
+        "latitude": 55.87496,
+        "longitude": 12.34579
+    },
+    {
+        "name": "Лиселее",
+        "latitude": 56.01295,
+        "longitude": 11.96544
+    },
+    {
+        "name": "Коммуна Люнгбю-Торбек",
+        "latitude": 55.78456,
+        "longitude": 12.50508
+    },
+    {
+        "name": "Люнге",
+        "latitude": 55.83941,
+        "longitude": 12.27725
+    },
+    {
+        "name": "Молов",
+        "latitude": 55.75528,
+        "longitude": 12.32327
+    },
+    {
+        "name": "Нексё",
+        "latitude": 55.06067,
+        "longitude": 15.13058
+    },
+    {
+        "name": "Нива",
+        "latitude": 55.93405,
+        "longitude": 12.50485
+    },
+    {
+        "name": "Нодебо",
+        "latitude": 55.97877,
+        "longitude": 12.34685
+    },
+    {
+        "name": "Ольстикке",
+        "latitude": 55.79567,
+        "longitude": 12.15509
+    },
+    {
+        "name": "Рёдовре",
+        "latitude": 55.68062,
+        "longitude": 12.45373
+    },
+    {
+        "name": "Коммуна Рёдовре",
+        "latitude": 55.68852,
+        "longitude": 12.44834
+    },
+    {
+        "name": "Рённе",
+        "latitude": 55.10091,
+        "longitude": 14.70664
+    },
+    {
+        "name": "Коммуна Рудерсдаль",
+        "latitude": 55.825,
+        "longitude": 12.49167
+    },
+    {
+        "name": "Скевинге",
+        "latitude": 55.90785,
+        "longitude": 12.15036
+    },
+    {
+        "name": "Скибби",
+        "latitude": 55.75122,
+        "longitude": 11.96083
+    },
+    {
+        "name": "Слангерап",
+        "latitude": 55.85,
+        "longitude": 12.18333
+    },
+    {
+        "name": "Смёрумнедре",
+        "latitude": 55.74232,
+        "longitude": 12.30276
+    },
+    {
+        "name": "Ставнсхольт",
+        "latitude": 55.81479,
+        "longitude": 12.40545
+    },
+    {
+        "name": "Стенлёзе",
+        "latitude": 55.76828,
+        "longitude": 12.19723
+    },
+    {
+        "name": "Тааструп",
+        "latitude": 55.65006,
+        "longitude": 12.3016
+    },
+    {
+        "name": "Торнбю",
+        "latitude": 55.6303,
+        "longitude": 12.60035
+    },
+    {
+        "name": "Коммуна Торнбю",
+        "latitude": 55.60391,
+        "longitude": 12.59599
+    },
+    {
+        "name": "Трёрёд",
+        "latitude": 55.83946,
+        "longitude": 12.54432
+    },
+    {
+        "name": "Валленсбек",
+        "latitude": 55.62199,
+        "longitude": 12.38511
+    },
+    {
+        "name": "Коммуна Валленсбек",
+        "latitude": 55.63128,
+        "longitude": 12.37369
+    },
+    {
+        "name": "Ванлёсе",
+        "latitude": 55.68361,
+        "longitude": 12.48713
+    },
+    {
+        "name": "Верлёзе",
+        "latitude": 55.78251,
+        "longitude": 12.36856
+    },
+    {
+        "name": "Вексё",
+        "latitude": 55.75473,
+        "longitude": 12.23837
+    },
+    {
+        "name": "Орхус",
+        "latitude": 56.15674,
+        "longitude": 10.21076
+    },
+    {
+        "name": "Орхусская коммуна",
+        "latitude": 56.16317,
+        "longitude": 10.16897
+    },
+    {
+        "name": "Аллингабро",
+        "latitude": 56.46432,
+        "longitude": 10.31957
+    },
+    {
+        "name": "Ассентофт",
+        "latitude": 56.4421,
+        "longitude": 10.1517
+    },
+    {
+        "name": "Аунинг",
+        "latitude": 56.43079,
+        "longitude": 10.37818
+    },
+    {
+        "name": "Авлум",
+        "latitude": 56.26539,
+        "longitude": 8.79256
+    },
+    {
+        "name": "Бедер",
+        "latitude": 56.06025,
+        "longitude": 10.21179
+    },
+    {
+        "name": "Бьеррингбро",
+        "latitude": 56.37797,
+        "longitude": 9.66065
+    },
+    {
+        "name": "Бординг Киркеби",
+        "latitude": 56.16871,
+        "longitude": 9.24384
+    },
+    {
+        "name": "Бранде",
+        "latitude": 55.94316,
+        "longitude": 9.12798
+    },
+    {
+        "name": "Бредструп",
+        "latitude": 55.97153,
+        "longitude": 9.61129
+    },
+    {
+        "name": "Эбельтофт",
+        "latitude": 56.19442,
+        "longitude": 10.6821
+    },
+    {
+        "name": "Фаврсковская коммуна",
+        "latitude": 56.31667,
+        "longitude": 9.94
+    },
+    {
+        "name": "Фрамлев",
+        "latitude": 56.15664,
+        "longitude": 10.01318
+    },
+    {
+        "name": "Гальтен",
+        "latitude": 56.15902,
+        "longitude": 9.91691
+    },
+    {
+        "name": "Гьеллеруп",
+        "latitude": 56.14616,
+        "longitude": 9.05467
+    },
+    {
+        "name": "Гренаа",
+        "latitude": 56.41578,
+        "longitude": 10.87825
+    },
+    {
+        "name": "Хадстен",
+        "latitude": 56.32819,
+        "longitude": 10.04931
+    },
+    {
+        "name": "Хаммель",
+        "latitude": 56.25762,
+        "longitude": 9.86316
+    },
+    {
+        "name": "Хаммерум",
+        "latitude": 56.13361,
+        "longitude": 9.06121
+    },
+    {
+        "name": "Харбоёр",
+        "latitude": 56.61752,
+        "longitude": 8.18069
+    },
+    {
+        "name": "Хеденстед",
+        "latitude": 55.77043,
+        "longitude": 9.7011
+    },
+    {
+        "name": "Хеденстед Коммуна",
+        "latitude": 55.7968,
+        "longitude": 9.744
+    },
+    {
+        "name": "Хернинг",
+        "latitude": 56.13615,
+        "longitude": 8.97662
+    },
+    {
+        "name": "Хернинг Коммуна",
+        "latitude": 56.14997,
+        "longitude": 8.89712
+    },
+    {
+        "name": "Хиннеруп",
+        "latitude": 56.26608,
+        "longitude": 10.06299
+    },
+    {
+        "name": "Хьортсхой",
+        "latitude": 56.24811,
+        "longitude": 10.26533
+    },
+    {
+        "name": "Хольстебро",
+        "latitude": 56.36009,
+        "longitude": 8.61607
+    },
+    {
+        "name": "Коммуна Хольстебро",
+        "latitude": 56.35916,
+        "longitude": 8.59631
+    },
+    {
+        "name": "Хорнслет",
+        "latitude": 56.3155,
+        "longitude": 10.32041
+    },
+    {
+        "name": "Хорнсилд",
+        "latitude": 55.75621,
+        "longitude": 9.85643
+    },
+    {
+        "name": "Хорсенс",
+        "latitude": 55.86066,
+        "longitude": 9.85034
+    },
+    {
+        "name": "Коммуна Хорсенс",
+        "latitude": 55.9274,
+        "longitude": 9.77377
+    },
+    {
+        "name": "Хёрнинг",
+        "latitude": 56.08701,
+        "longitude": 10.03716
+    },
+    {
+        "name": "Кастаньюэлас",
+        "latitude": 55.99866,
+        "longitude": 8.12605
+    },
+    {
+        "name": "Икаст",
+        "latitude": 56.13883,
+        "longitude": 9.15768
+    },
+    {
+        "name": "Коммуна Икаст-Бранде",
+        "latitude": 55.98333,
+        "longitude": 9.21667
+    },
+    {
+        "name": "Юльсминде",
+        "latitude": 55.70876,
+        "longitude": 10.01668
+    },
+    {
+        "name": "Каруп",
+        "latitude": 56.30673,
+        "longitude": 9.16835
+    },
+    {
+        "name": "Кибек",
+        "latitude": 56.0317,
+        "longitude": 8.85697
+    },
+    {
+        "name": "Кьеллеруп",
+        "latitude": 56.28581,
+        "longitude": 9.43528
+    },
+    {
+        "name": "Кольт",
+        "latitude": 56.10845,
+        "longitude": 10.06986
+    },
+    {
+        "name": "Ланго",
+        "latitude": 56.39026,
+        "longitude": 9.89486
+    },
+    {
+        "name": "Лемвиг",
+        "latitude": 56.54856,
+        "longitude": 8.31019
+    },
+    {
+        "name": "Коммуна Лемвиг",
+        "latitude": 56.49136,
+        "longitude": 8.29927
+    },
+    {
+        "name": "Линд",
+        "latitude": 56.106,
+        "longitude": 8.97915
+    },
+    {
+        "name": "Лёгтен",
+        "latitude": 56.27459,
+        "longitude": 10.31181
+    },
+    {
+        "name": "Листруп",
+        "latitude": 56.2375,
+        "longitude": 10.23778
+    },
+    {
+        "name": "Моллинг",
+        "latitude": 56.03632,
+        "longitude": 10.19632
+    },
+    {
+        "name": "Морслет",
+        "latitude": 56.0669,
+        "longitude": 10.16112
+    },
+    {
+        "name": "Коммуна Норддюрс",
+        "latitude": 56.44124,
+        "longitude": 10.7666
+    },
+    {
+        "name": "Странный",
+        "latitude": 55.97313,
+        "longitude": 10.153
+    },
+    {
+        "name": "Странная коммуна",
+        "latitude": 55.92967,
+        "longitude": 10.15304
+    },
+    {
+        "name": "Рандерс",
+        "latitude": 56.4607,
+        "longitude": 10.03639
+    },
+    {
+        "name": "Коммуна Рандерс",
+        "latitude": 56.51561,
+        "longitude": 10.06901
+    },
+    {
+        "name": "Рингкёбинг",
+        "latitude": 56.09006,
+        "longitude": 8.24402
+    },
+    {
+        "name": "Коммуна Рингкёбинг-Скьерн",
+        "latitude": 56.01,
+        "longitude": 8.39667
+    },
+    {
+        "name": "Рёнде",
+        "latitude": 56.30145,
+        "longitude": 10.47505
+    },
+    {
+        "name": "Рай",
+        "latitude": 56.09038,
+        "longitude": 9.76505
+    },
+    {
+        "name": "Ремгорд",
+        "latitude": 56.3843,
+        "longitude": 10.50295
+    },
+    {
+        "name": "Сабро",
+        "latitude": 56.21333,
+        "longitude": 10.03441
+    },
+    {
+        "name": "Коммуна Самсё",
+        "latitude": 55.85245,
+        "longitude": 10.60045
+    },
+    {
+        "name": "Силькеборг",
+        "latitude": 56.1697,
+        "longitude": 9.54508
+    },
+    {
+        "name": "Коммуна Силькеборг",
+        "latitude": 56.17495,
+        "longitude": 9.54666
+    },
+    {
+        "name": "Скандерборг",
+        "latitude": 56.03434,
+        "longitude": 9.93177
+    },
+    {
+        "name": "Коммуна Скандерборг",
+        "latitude": 56.07956,
+        "longitude": 9.89868
+    },
+    {
+        "name": "Скив",
+        "latitude": 56.56699,
+        "longitude": 9.02707
+    },
+    {
+        "name": "Скивская коммуна",
+        "latitude": 56.64478,
+        "longitude": 8.9766
+    },
+    {
+        "name": "Скьерн",
+        "latitude": 55.95,
+        "longitude": 8.5
+    },
+    {
+        "name": "Сковби",
+        "latitude": 56.15672,
+        "longitude": 9.94523
+    },
+    {
+        "name": "Снейбьерг",
+        "latitude": 56.13291,
+        "longitude": 8.90353
+    },
+    {
+        "name": "Сольбьерг",
+        "latitude": 56.04271,
+        "longitude": 10.08631
+    },
+    {
+        "name": "Сёфтен",
+        "latitude": 56.23801,
+        "longitude": 10.0851
+    },
+    {
+        "name": "Шпентрап",
+        "latitude": 56.53703,
+        "longitude": 10.03792
+    },
+    {
+        "name": "Ставтруп",
+        "latitude": 56.13124,
+        "longitude": 10.11987
+    },
+    {
+        "name": "успокоение",
+        "latitude": 56.06224,
+        "longitude": 9.98822
+    },
+    {
+        "name": "Стогольм",
+        "latitude": 56.48454,
+        "longitude": 9.14617
+    },
+    {
+        "name": "Струер",
+        "latitude": 56.49205,
+        "longitude": 8.59397
+    },
+    {
+        "name": "Струер Коммуна",
+        "latitude": 56.46667,
+        "longitude": 8.58333
+    },
+    {
+        "name": "Сундс",
+        "latitude": 56.20743,
+        "longitude": 9.01386
+    },
+    {
+        "name": "Швейбек",
+        "latitude": 56.13255,
+        "longitude": 9.63289
+    },
+    {
+        "name": "Коммуна Сидджурс",
+        "latitude": 56.3125,
+        "longitude": 10.52083
+    },
+    {
+        "name": "Тарм",
+        "latitude": 55.90861,
+        "longitude": 8.53041
+    },
+    {
+        "name": "Тиборон",
+        "latitude": 56.69846,
+        "longitude": 8.21238
+    },
+    {
+        "name": "Тёрринг",
+        "latitude": 55.85,
+        "longitude": 9.48333
+    },
+    {
+        "name": "Транбьерг",
+        "latitude": 56.09519,
+        "longitude": 10.13605
+    },
+    {
+        "name": "Триге",
+        "latitude": 56.25291,
+        "longitude": 10.1484
+    },
+    {
+        "name": "Ульфборг",
+        "latitude": 56.26725,
+        "longitude": 8.32167
+    },
+    {
+        "name": "Ульструп",
+        "latitude": 56.38994,
+        "longitude": 9.79354
+    },
+    {
+        "name": "Выборг",
+        "latitude": 56.45319,
+        "longitude": 9.40201
+    },
+    {
+        "name": "Выборгская коммуна",
+        "latitude": 56.45,
+        "longitude": 9.36667
+    },
+    {
+        "name": "Видебек",
+        "latitude": 56.0876,
+        "longitude": 8.62852
+    },
+    {
+        "name": "Вильдбьерг",
+        "latitude": 56.2,
+        "longitude": 8.76667
+    },
+    {
+        "name": "Виндеруп",
+        "latitude": 56.48176,
+        "longitude": 8.77991
+    },
+    {
+        "name": "Вирклунд",
+        "latitude": 56.13218,
+        "longitude": 9.55582
+    },
+    {
+        "name": "Ольборг",
+        "latitude": 57.048,
+        "longitude": 9.9187
+    },
+    {
+        "name": "Аарс",
+        "latitude": 56.80399,
+        "longitude": 9.51441
+    },
+    {
+        "name": "Обибро",
+        "latitude": 57.16249,
+        "longitude": 9.72996
+    },
+    {
+        "name": "Ольборгская коммуна",
+        "latitude": 57.0,
+        "longitude": 9.95
+    },
+    {
+        "name": "Олеструп",
+        "latitude": 56.6947,
+        "longitude": 9.49336
+    },
+    {
+        "name": "Арден",
+        "latitude": 56.76899,
+        "longitude": 9.86184
+    },
+    {
+        "name": "Бровст",
+        "latitude": 57.0975,
+        "longitude": 9.52264
+    },
+    {
+        "name": "Брондерслев",
+        "latitude": 57.27021,
+        "longitude": 9.94102
+    },
+    {
+        "name": "Коммуна Брондерслев",
+        "latitude": 57.23506,
+        "longitude": 10.10061
+    },
+    {
+        "name": "Дроннинглунд",
+        "latitude": 57.16035,
+        "longitude": 10.29287
+    },
+    {
+        "name": "Фарсё",
+        "latitude": 56.77276,
+        "longitude": 9.33925
+    },
+    {
+        "name": "Фьерритслев",
+        "latitude": 57.08822,
+        "longitude": 9.26622
+    },
+    {
+        "name": "Фредериксхавн",
+        "latitude": 57.44073,
+        "longitude": 10.53661
+    },
+    {
+        "name": "Коммуна Фредериксхавн",
+        "latitude": 57.43347,
+        "longitude": 10.42507
+    },
+    {
+        "name": "Фрейлев",
+        "latitude": 57.00623,
+        "longitude": 9.81711
+    },
+    {
+        "name": "Гиструп",
+        "latitude": 56.9943,
+        "longitude": 9.99085
+    },
+    {
+        "name": "Хадсунд",
+        "latitude": 56.71482,
+        "longitude": 10.11682
+    },
+    {
+        "name": "Хальс",
+        "latitude": 56.99609,
+        "longitude": 10.30807
+    },
+    {
+        "name": "Ханстхольм",
+        "latitude": 57.11667,
+        "longitude": 8.61667
+    },
+    {
+        "name": "Хиртсхальс",
+        "latitude": 57.58812,
+        "longitude": 9.95922
+    },
+    {
+        "name": "Хьяллеруп",
+        "latitude": 57.16466,
+        "longitude": 10.14571
+    },
+    {
+        "name": "Йёрринг",
+        "latitude": 57.46417,
+        "longitude": 9.98229
+    },
+    {
+        "name": "Коммуна Йёрринг",
+        "latitude": 57.45682,
+        "longitude": 10.05859
+    },
+    {
+        "name": "Хобро",
+        "latitude": 56.64306,
+        "longitude": 9.79029
+    },
+    {
+        "name": "Хуруп",
+        "latitude": 56.74944,
+        "longitude": 8.41953
+    },
+    {
+        "name": "Коммуна Джаммербугт",
+        "latitude": 57.14583,
+        "longitude": 9.5625
+    },
+    {
+        "name": "Кос",
+        "latitude": 57.19774,
+        "longitude": 9.67173
+    },
+    {
+        "name": "Кларуп",
+        "latitude": 57.01194,
+        "longitude": 10.05617
+    },
+    {
+        "name": "Лесо Коммуна",
+        "latitude": 57.26774,
+        "longitude": 11.02265
+    },
+    {
+        "name": "Лёгстёр",
+        "latitude": 56.96245,
+        "longitude": 9.2583
+    },
+    {
+        "name": "Лёккен",
+        "latitude": 57.37047,
+        "longitude": 9.71466
+    },
+    {
+        "name": "Мариагер",
+        "latitude": 56.64985,
+        "longitude": 9.97515
+    },
+    {
+        "name": "Коммуна Мариагерфьорд",
+        "latitude": 56.69722,
+        "longitude": 9.84722
+    },
+    {
+        "name": "Коммуна Морсё",
+        "latitude": 56.79622,
+        "longitude": 8.73272
+    },
+    {
+        "name": "Нибе",
+        "latitude": 56.9815,
+        "longitude": 9.63917
+    },
+    {
+        "name": "Нёрресуннбю",
+        "latitude": 57.05877,
+        "longitude": 9.92284
+    },
+    {
+        "name": "Нюкёбинг Морс",
+        "latitude": 56.79334,
+        "longitude": 8.85282
+    },
+    {
+        "name": "Пандруп",
+        "latitude": 57.22147,
+        "longitude": 9.67569
+    },
+    {
+        "name": "Ребилд Коммуна",
+        "latitude": 56.80556,
+        "longitude": 9.77778
+    },
+    {
+        "name": "Сэби",
+        "latitude": 57.33188,
+        "longitude": 10.52251
+    },
+    {
+        "name": "Синдал",
+        "latitude": 57.47117,
+        "longitude": 10.20312
+    },
+    {
+        "name": "Скаген",
+        "latitude": 57.72093,
+        "longitude": 10.58394
+    },
+    {
+        "name": "Скорпинг",
+        "latitude": 56.83626,
+        "longitude": 9.89255
+    },
+    {
+        "name": "Сторворде",
+        "latitude": 57.00392,
+        "longitude": 10.10125
+    },
+    {
+        "name": "Стёвринг",
+        "latitude": 56.88536,
+        "longitude": 9.83839
+    },
+    {
+        "name": "Страндби",
+        "latitude": 57.4915,
+        "longitude": 10.49609
+    },
+    {
+        "name": "Свенструп",
+        "latitude": 56.9723,
+        "longitude": 9.84806
+    },
+    {
+        "name": "Торс",
+        "latitude": 57.38333,
+        "longitude": 10.11667
+    },
+    {
+        "name": "Тистед",
+        "latitude": 56.95523,
+        "longitude": 8.69491
+    },
+    {
+        "name": "Тистед Коммуна",
+        "latitude": 57.00397,
+        "longitude": 8.61834
+    },
+    {
+        "name": "Вадум",
+        "latitude": 57.1179,
+        "longitude": 9.857
+    },
+    {
+        "name": "Вестбьерг",
+        "latitude": 57.13166,
+        "longitude": 9.95942
+    },
+    {
+        "name": "Вестер Хассинг",
+        "latitude": 57.06767,
+        "longitude": 10.12558
+    },
+    {
+        "name": "Коммуна Вестиммерланд",
+        "latitude": 56.8,
+        "longitude": 9.37083
+    },
+    {
+        "name": "Водсков",
+        "latitude": 57.10854,
+        "longitude": 10.02215
+    },
+    {
+        "name": "Вро",
+        "latitude": 57.3537,
+        "longitude": 9.94176
+    },
+    {
+        "name": "Обенро",
+        "latitude": 55.04434,
+        "longitude": 9.41741
+    },
+    {
+        "name": "Коммуна Обенро",
+        "latitude": 54.9898,
+        "longitude": 9.31282
+    },
+    {
+        "name": "Орслев",
+        "latitude": 55.30353,
+        "longitude": 10.46428
+    },
+    {
+        "name": "Оруп",
+        "latitude": 55.37315,
+        "longitude": 10.04131
+    },
+    {
+        "name": "Ассенс",
+        "latitude": 55.27023,
+        "longitude": 9.90081
+    },
+    {
+        "name": "Коммуна Ассенс",
+        "latitude": 55.29958,
+        "longitude": 10.07952
+    },
+    {
+        "name": "Аугустенборг",
+        "latitude": 54.95201,
+        "longitude": 9.87216
+    },
+    {
+        "name": "Коммуна Эрё",
+        "latitude": 54.85833,
+        "longitude": 10.43333
+    },
+    {
+        "name": "Эрёскёбинг",
+        "latitude": 54.88803,
+        "longitude": 10.41117
+    },
+    {
+        "name": "Беллиндж",
+        "latitude": 55.33535,
+        "longitude": 10.32045
+    },
+    {
+        "name": "Биллунд",
+        "latitude": 55.73349,
+        "longitude": 9.10785
+    },
+    {
+        "name": "Биллунд Коммуна",
+        "latitude": 55.73079,
+        "longitude": 8.96844
+    },
+    {
+        "name": "Богенсе",
+        "latitude": 55.56691,
+        "longitude": 10.08863
+    },
+    {
+        "name": "Коттингбрунн",
+        "latitude": 55.64195,
+        "longitude": 9.64958
+    },
+    {
+        "name": "Брэмминг",
+        "latitude": 55.46946,
+        "longitude": 8.70007
+    },
+    {
+        "name": "Брейнинг",
+        "latitude": 55.66594,
+        "longitude": 9.67217
+    },
+    {
+        "name": "Брендеруп",
+        "latitude": 55.48407,
+        "longitude": 9.97908
+    },
+    {
+        "name": "Броагер",
+        "latitude": 54.8894,
+        "longitude": 9.67465
+    },
+    {
+        "name": "Броруп",
+        "latitude": 55.48194,
+        "longitude": 9.01756
+    },
+    {
+        "name": "Буллерап",
+        "latitude": 55.42686,
+        "longitude": 10.47137
+    },
+    {
+        "name": "Кристиансфельд",
+        "latitude": 55.35817,
+        "longitude": 9.48701
+    },
+    {
+        "name": "Диббёль",
+        "latitude": 54.91079,
+        "longitude": 9.73601
+    },
+    {
+        "name": "Эгтвед",
+        "latitude": 55.61613,
+        "longitude": 9.30763
+    },
+    {
+        "name": "Эйби",
+        "latitude": 55.4301,
+        "longitude": 9.92973
+    },
+    {
+        "name": "Эсбьерг",
+        "latitude": 55.47028,
+        "longitude": 8.45187
+    },
+    {
+        "name": "Коммуна Эсбьерг",
+        "latitude": 55.46893,
+        "longitude": 8.46222
+    },
+    {
+        "name": "Фааборг",
+        "latitude": 55.0951,
+        "longitude": 10.24226
+    },
+    {
+        "name": "Коммуна Фааборг-Мидтфин",
+        "latitude": 55.22667,
+        "longitude": 10.40667
+    },
+    {
+        "name": "Коммуна Фано",
+        "latitude": 55.41667,
+        "longitude": 8.41667
+    },
+    {
+        "name": "Кейравилль",
+        "latitude": 55.56568,
+        "longitude": 9.75257
+    },
+    {
+        "name": "Фредериция Коммуна",
+        "latitude": 55.57271,
+        "longitude": 9.69489
+    },
+    {
+        "name": "Давать",
+        "latitude": 55.84523,
+        "longitude": 9.23769
+    },
+    {
+        "name": "Гламсбьерг",
+        "latitude": 55.27237,
+        "longitude": 10.10483
+    },
+    {
+        "name": "Грамм",
+        "latitude": 55.28948,
+        "longitude": 9.04913
+    },
+    {
+        "name": "Гростен",
+        "latitude": 54.91918,
+        "longitude": 9.59523
+    },
+    {
+        "name": "Гринстед",
+        "latitude": 55.75726,
+        "longitude": 8.9275
+    },
+    {
+        "name": "Гудеруп",
+        "latitude": 54.98978,
+        "longitude": 9.87174
+    },
+    {
+        "name": "Хадерслев",
+        "latitude": 55.24943,
+        "longitude": 9.48771
+    },
+    {
+        "name": "Коммуна Хадерслев",
+        "latitude": 55.24441,
+        "longitude": 9.32261
+    },
+    {
+        "name": "Хорби",
+        "latitude": 55.22357,
+        "longitude": 10.12268
+    },
+    {
+        "name": "Холстед",
+        "latitude": 55.51086,
+        "longitude": 8.91872
+    },
+    {
+        "name": "Хойбю",
+        "latitude": 55.33177,
+        "longitude": 10.43725
+    },
+    {
+        "name": "Хоруфав",
+        "latitude": 54.91017,
+        "longitude": 9.89872
+    },
+    {
+        "name": "Еллинг",
+        "latitude": 55.75588,
+        "longitude": 9.4258
+    },
+    {
+        "name": "Кертеминде",
+        "latitude": 55.44903,
+        "longitude": 10.65769
+    },
+    {
+        "name": "Коммуна Кертеминде",
+        "latitude": 55.45498,
+        "longitude": 10.6222
+    },
+    {
+        "name": "Колдинг",
+        "latitude": 55.4904,
+        "longitude": 9.47216
+    },
+    {
+        "name": "Колдинг Коммуна",
+        "latitude": 55.45006,
+        "longitude": 9.45807
+    },
+    {
+        "name": "Крусо",
+        "latitude": 54.85097,
+        "longitude": 9.40129
+    },
+    {
+        "name": "Коммуна Лангеланд",
+        "latitude": 54.9,
+        "longitude": 10.77222
+    },
+    {
+        "name": "Лангесков",
+        "latitude": 55.35655,
+        "longitude": 10.58447
+    },
+    {
+        "name": "Лёгумклостер",
+        "latitude": 55.05941,
+        "longitude": 8.95508
+    },
+    {
+        "name": "Лойт Киркеби",
+        "latitude": 55.08959,
+        "longitude": 9.46084
+    },
+    {
+        "name": "Лундерсков",
+        "latitude": 55.48375,
+        "longitude": 9.29917
+    },
+    {
+        "name": "Марстал",
+        "latitude": 54.85621,
+        "longitude": 10.51726
+    },
+    {
+        "name": "Миддельфарт",
+        "latitude": 55.50591,
+        "longitude": 9.73054
+    },
+    {
+        "name": "Миддельфартская коммуна",
+        "latitude": 55.45782,
+        "longitude": 9.881
+    },
+    {
+        "name": "Мункебо",
+        "latitude": 55.45553,
+        "longitude": 10.55433
+    },
+    {
+        "name": "Недер Холлуф",
+        "latitude": 55.36451,
+        "longitude": 10.44824
+    },
+    {
+        "name": "Нордборг",
+        "latitude": 55.05732,
+        "longitude": 9.7408
+    },
+    {
+        "name": "Нордби",
+        "latitude": 55.44603,
+        "longitude": 8.39786
+    },
+    {
+        "name": "Кялвия",
+        "latitude": 55.52222,
+        "longitude": 10.22222
+    },
+    {
+        "name": "Нёрре Обю",
+        "latitude": 55.46107,
+        "longitude": 9.8794
+    },
+    {
+        "name": "Нюборг",
+        "latitude": 55.31274,
+        "longitude": 10.78964
+    },
+    {
+        "name": "Нюборгская коммуна",
+        "latitude": 55.29473,
+        "longitude": 10.7031
+    },
+    {
+        "name": "Оденсе",
+        "latitude": 55.39594,
+        "longitude": 10.38831
+    },
+    {
+        "name": "Оденсе Коммуна",
+        "latitude": 55.3957,
+        "longitude": 10.37761
+    },
+    {
+        "name": "Оксбёль",
+        "latitude": 55.6268,
+        "longitude": 8.28757
+    },
+    {
+        "name": "Оттерап",
+        "latitude": 55.51527,
+        "longitude": 10.39756
+    },
+    {
+        "name": "Олгод",
+        "latitude": 55.80682,
+        "longitude": 8.62859
+    },
+    {
+        "name": "Падборг",
+        "latitude": 54.82657,
+        "longitude": 9.36247
+    },
+    {
+        "name": "Рибе",
+        "latitude": 55.33051,
+        "longitude": 8.76966
+    },
+    {
+        "name": "Ринге",
+        "latitude": 55.23828,
+        "longitude": 10.4786
+    },
+    {
+        "name": "Рёдинг",
+        "latitude": 55.36569,
+        "longitude": 9.06316
+    },
+    {
+        "name": "Родекро",
+        "latitude": 55.07076,
+        "longitude": 9.33531
+    },
+    {
+        "name": "Рудкёбинг",
+        "latitude": 54.93639,
+        "longitude": 10.71019
+    },
+    {
+        "name": "Седен",
+        "latitude": 55.42648,
+        "longitude": 10.44265
+    },
+    {
+        "name": "Скербек",
+        "latitude": 55.15735,
+        "longitude": 8.76901
+    },
+    {
+        "name": "Снохой",
+        "latitude": 55.52253,
+        "longitude": 9.72125
+    },
+    {
+        "name": "Сёндер Бьерт",
+        "latitude": 55.45272,
+        "longitude": 9.56741
+    },
+    {
+        "name": "Сённерборг",
+        "latitude": 54.90896,
+        "longitude": 9.78917
+    },
+    {
+        "name": "Коммуна Сённерборг",
+        "latitude": 54.91667,
+        "longitude": 9.8
+    },
+    {
+        "name": "Сёндерсё",
+        "latitude": 55.48526,
+        "longitude": 10.2554
+    },
+    {
+        "name": "Старап",
+        "latitude": 55.24097,
+        "longitude": 9.53503
+    },
+    {
+        "name": "Стиг",
+        "latitude": 55.43941,
+        "longitude": 10.4094
+    },
+    {
+        "name": "Стриб",
+        "latitude": 55.54021,
+        "longitude": 9.76748
+    },
+    {
+        "name": "Свендборг",
+        "latitude": 55.05982,
+        "longitude": 10.60677
+    },
+    {
+        "name": "Свендборгская коммуна",
+        "latitude": 55.0841,
+        "longitude": 10.61391
+    },
+    {
+        "name": "Таулов",
+        "latitude": 55.54582,
+        "longitude": 9.61553
+    },
+    {
+        "name": "Турё Би",
+        "latitude": 55.0474,
+        "longitude": 10.66385
+    },
+    {
+        "name": "Тинглев",
+        "latitude": 54.93788,
+        "longitude": 9.25547
+    },
+    {
+        "name": "Тьереборг",
+        "latitude": 55.46457,
+        "longitude": 8.57968
+    },
+    {
+        "name": "Тофтлунд",
+        "latitude": 55.18858,
+        "longitude": 9.06925
+    },
+    {
+        "name": "Томмерап",
+        "latitude": 55.31952,
+        "longitude": 10.20659
+    },
+    {
+        "name": "Томмерап Стейшнсби",
+        "latitude": 55.34535,
+        "longitude": 10.17594
+    },
+    {
+        "name": "Тёндер",
+        "latitude": 54.93306,
+        "longitude": 8.86674
+    },
+    {
+        "name": "Коммуна Тондер",
+        "latitude": 55.07304,
+        "longitude": 8.87214
+    },
+    {
+        "name": "Уллерслев",
+        "latitude": 55.36172,
+        "longitude": 10.6519
+    },
+    {
+        "name": "Вамдруп",
+        "latitude": 55.42764,
+        "longitude": 9.28435
+    },
+    {
+        "name": "Варде",
+        "latitude": 55.62112,
+        "longitude": 8.48069
+    },
+    {
+        "name": "Коммуна Варде",
+        "latitude": 55.61667,
+        "longitude": 8.5
+    },
+    {
+        "name": "Вейен",
+        "latitude": 55.48117,
+        "longitude": 9.13795
+    },
+    {
+        "name": "Коммуна Вейен",
+        "latitude": 55.46312,
+        "longitude": 9.05004
+    },
+    {
+        "name": "Вайле",
+        "latitude": 55.70927,
+        "longitude": 9.5357
+    },
+    {
+        "name": "Коммуна Вайле",
+        "latitude": 55.74874,
+        "longitude": 9.40421
+    },
+    {
+        "name": "Вестер-Скернинге",
+        "latitude": 55.07322,
+        "longitude": 10.45536
+    },
+    {
+        "name": "Виндебю",
+        "latitude": 55.04489,
+        "longitude": 10.61309
+    },
+    {
+        "name": "Виссенбьерг",
+        "latitude": 55.38482,
+        "longitude": 10.13784
+    },
+    {
+        "name": "Войенс",
+        "latitude": 55.24639,
+        "longitude": 9.30603
+    },
+    {
+        "name": "Аснес",
+        "latitude": 55.81229,
+        "longitude": 11.50129
+    },
+    {
+        "name": "Бьеверсков",
+        "latitude": 55.45756,
+        "longitude": 12.03651
+    },
+    {
+        "name": "Боруп",
+        "latitude": 55.49472,
+        "longitude": 11.97584
+    },
+    {
+        "name": "Дианалунд",
+        "latitude": 55.53133,
+        "longitude": 11.4925
+    },
+    {
+        "name": "Эйби",
+        "latitude": 55.4858,
+        "longitude": 12.08171
+    },
+    {
+        "name": "Факс",
+        "latitude": 55.25561,
+        "longitude": 12.11926
+    },
+    {
+        "name": "Факс Коммуна",
+        "latitude": 55.29444,
+        "longitude": 12.06111
+    },
+    {
+        "name": "Факс Ладепладс",
+        "latitude": 55.21981,
+        "longitude": 12.17013
+    },
+    {
+        "name": "Фенсмарк",
+        "latitude": 55.27919,
+        "longitude": 11.80382
+    },
+    {
+        "name": "Форлев",
+        "latitude": 55.37445,
+        "longitude": 11.25966
+    },
+    {
+        "name": "Фредериксберг",
+        "latitude": 55.41618,
+        "longitude": 11.56934
+    },
+    {
+        "name": "Фуглебьерг",
+        "latitude": 55.30604,
+        "longitude": 11.54766
+    },
+    {
+        "name": "Гёрлев",
+        "latitude": 55.53926,
+        "longitude": 11.22708
+    },
+    {
+        "name": "Греве",
+        "latitude": 55.58333,
+        "longitude": 12.3
+    },
+    {
+        "name": "Греве Коммуна",
+        "latitude": 55.5877,
+        "longitude": 12.2506
+    },
+    {
+        "name": "Коммуна Гульдборгсунд",
+        "latitude": 54.76944,
+        "longitude": 11.83611
+    },
+    {
+        "name": "Гундсёмагле",
+        "latitude": 55.73565,
+        "longitude": 12.15158
+    },
+    {
+        "name": "Хорлев",
+        "latitude": 55.34936,
+        "longitude": 12.23382
+    },
+    {
+        "name": "Хаслев",
+        "latitude": 55.32346,
+        "longitude": 11.96389
+    },
+    {
+        "name": "Хавдруп",
+        "latitude": 55.54481,
+        "longitude": 12.12392
+    },
+    {
+        "name": "Хольбек",
+        "latitude": 55.7175,
+        "longitude": 11.71279
+    },
+    {
+        "name": "Коммуна Холбек",
+        "latitude": 55.65919,
+        "longitude": 11.62049
+    },
+    {
+        "name": "Холеби",
+        "latitude": 54.71148,
+        "longitude": 11.46416
+    },
+    {
+        "name": "Хонг",
+        "latitude": 55.50736,
+        "longitude": 11.28873
+    },
+    {
+        "name": "Хорве",
+        "latitude": 55.75292,
+        "longitude": 11.45298
+    },
+    {
+        "name": "Джидеруп",
+        "latitude": 55.66399,
+        "longitude": 11.42029
+    },
+    {
+        "name": "Юллинге",
+        "latitude": 55.75295,
+        "longitude": 12.10315
+    },
+    {
+        "name": "Калундборг",
+        "latitude": 55.67954,
+        "longitude": 11.08864
+    },
+    {
+        "name": "Коммуна Калундборг",
+        "latitude": 55.63545,
+        "longitude": 11.19993
+    },
+    {
+        "name": "Кирке Хвалсё",
+        "latitude": 55.5917,
+        "longitude": 11.86253
+    },
+    {
+        "name": "Корсёр",
+        "latitude": 55.32993,
+        "longitude": 11.13857
+    },
+    {
+        "name": "Кёге",
+        "latitude": 55.45802,
+        "longitude": 12.18214
+    },
+    {
+        "name": "Кёге Коммуна",
+        "latitude": 55.45668,
+        "longitude": 12.07332
+    },
+    {
+        "name": "Лейре",
+        "latitude": 55.60461,
+        "longitude": 11.97477
+    },
+    {
+        "name": "Лейре Коммуна",
+        "latitude": 55.63375,
+        "longitude": 11.92234
+    },
+    {
+        "name": "Лолланд Коммуна",
+        "latitude": 54.80238,
+        "longitude": 11.29524
+    },
+    {
+        "name": "Марибо",
+        "latitude": 54.77662,
+        "longitude": 11.50017
+    },
+    {
+        "name": "Наксков",
+        "latitude": 54.83038,
+        "longitude": 11.13567
+    },
+    {
+        "name": "Нествед",
+        "latitude": 55.22992,
+        "longitude": 11.76092
+    },
+    {
+        "name": "Коммуна Нествед",
+        "latitude": 55.25855,
+        "longitude": 11.74615
+    },
+    {
+        "name": "Недер Виндинге",
+        "latitude": 55.03211,
+        "longitude": 11.88356
+    },
+    {
+        "name": "Нёрре Алслев",
+        "latitude": 54.89784,
+        "longitude": 11.88414
+    },
+    {
+        "name": "Нюкёбинг Фальстер",
+        "latitude": 54.76906,
+        "longitude": 11.87425
+    },
+    {
+        "name": "Нюкёбинг Сьелланд",
+        "latitude": 55.92491,
+        "longitude": 11.67109
+    },
+    {
+        "name": "Нюрод",
+        "latitude": 55.00511,
+        "longitude": 11.9606
+    },
+    {
+        "name": "Коммуна Одшерред",
+        "latitude": 55.88333,
+        "longitude": 11.59444
+    },
+    {
+        "name": "Остед",
+        "latitude": 55.56228,
+        "longitude": 11.95786
+    },
+    {
+        "name": "Орслев",
+        "latitude": 55.04356,
+        "longitude": 11.96792
+    },
+    {
+        "name": "Престо",
+        "latitude": 55.12374,
+        "longitude": 12.04477
+    },
+    {
+        "name": "Рингстед",
+        "latitude": 55.4426,
+        "longitude": 11.79011
+    },
+    {
+        "name": "Коммуна Рингстед",
+        "latitude": 55.44721,
+        "longitude": 11.8172
+    },
+    {
+        "name": "Роскилле",
+        "latitude": 55.64152,
+        "longitude": 12.08035
+    },
+    {
+        "name": "Коммуна Роскилле",
+        "latitude": 55.65,
+        "longitude": 12.1
+    },
+    {
+        "name": "Родби",
+        "latitude": 54.69495,
+        "longitude": 11.38885
+    },
+    {
+        "name": "Родбихавн",
+        "latitude": 54.65944,
+        "longitude": 11.35504
+    },
+    {
+        "name": "Редвиг",
+        "latitude": 55.2554,
+        "longitude": 12.37936
+    },
+    {
+        "name": "Рённеде",
+        "latitude": 55.2571,
+        "longitude": 12.02125
+    },
+    {
+        "name": "Сакскёбинг",
+        "latitude": 54.7997,
+        "longitude": 11.62599
+    },
+    {
+        "name": "Скельскор",
+        "latitude": 55.25058,
+        "longitude": 11.29352
+    },
+    {
+        "name": "Слагельсе",
+        "latitude": 55.40276,
+        "longitude": 11.35459
+    },
+    {
+        "name": "Слагельсе Коммуна",
+        "latitude": 55.34546,
+        "longitude": 11.3339
+    },
+    {
+        "name": "Солрёд",
+        "latitude": 55.53628,
+        "longitude": 12.1827
+    },
+    {
+        "name": "Коммуна Сольрёд",
+        "latitude": 55.53553,
+        "longitude": 12.17337
+    },
+    {
+        "name": "Солрёд Странд",
+        "latitude": 55.53285,
+        "longitude": 12.22227
+    },
+    {
+        "name": "Сорё",
+        "latitude": 55.43184,
+        "longitude": 11.55547
+    },
+    {
+        "name": "Коммуна Сорё",
+        "latitude": 55.48268,
+        "longitude": 11.55693
+    },
+    {
+        "name": "Стеге",
+        "latitude": 54.98704,
+        "longitude": 12.28461
+    },
+    {
+        "name": "Стенлиль",
+        "latitude": 55.53888,
+        "longitude": 11.5912
+    },
+    {
+        "name": "Стевнс Коммуна",
+        "latitude": 55.33373,
+        "longitude": 12.30692
+    },
+    {
+        "name": "Магазин Хеддинге",
+        "latitude": 55.30965,
+        "longitude": 12.38885
+    },
+    {
+        "name": "Строби Эгеде",
+        "latitude": 55.41382,
+        "longitude": 12.24502
+    },
+    {
+        "name": "Стуббекёбинг",
+        "latitude": 54.88875,
+        "longitude": 12.04102
+    },
+    {
+        "name": "Сундбю",
+        "latitude": 54.76711,
+        "longitude": 11.84979
+    },
+    {
+        "name": "Кемпеле",
+        "latitude": 55.65183,
+        "longitude": 11.28658
+    },
+    {
+        "name": "Свиннинге",
+        "latitude": 55.72111,
+        "longitude": 11.46547
+    },
+    {
+        "name": "Свогерслев",
+        "latitude": 55.63423,
+        "longitude": 12.01465
+    },
+    {
+        "name": "Тёллёсе",
+        "latitude": 55.6125,
+        "longitude": 11.77034
+    },
+    {
+        "name": "Настроить",
+        "latitude": 55.59287,
+        "longitude": 12.16968
+    },
+    {
+        "name": "Виби",
+        "latitude": 55.54872,
+        "longitude": 12.02391
+    },
+    {
+        "name": "Виндинге",
+        "latitude": 55.62298,
+        "longitude": 12.1387
+    },
+    {
+        "name": "Випперёд",
+        "latitude": 55.66768,
+        "longitude": 11.73967
+    },
+    {
+        "name": "Вордингборг",
+        "latitude": 55.00801,
+        "longitude": 11.91057
+    },
+    {
+        "name": "Коммуна Вордингборг",
+        "latitude": 55.01383,
+        "longitude": 12.10008
+    }
+]

@@ -1,0 +1,577 @@
+[
+    {
+        "name": "Кантон Сан-Фернандо",
+        "latitude": -3.13349,
+        "longitude": -79.26893
+    },
+    {
+        "name": "Куэнка",
+        "latitude": -2.90055,
+        "longitude": -79.00453
+    },
+    {
+        "name": "Гуаласео",
+        "latitude": -2.89264,
+        "longitude": -78.77814
+    },
+    {
+        "name": "Ла Юнион",
+        "latitude": -2.85,
+        "longitude": -78.78333
+    },
+    {
+        "name": "Льякао",
+        "latitude": -2.86667,
+        "longitude": -78.88333
+    },
+    {
+        "name": "Нулти",
+        "latitude": -2.91667,
+        "longitude": -78.85
+    },
+    {
+        "name": "Гуаранда",
+        "latitude": -1.59263,
+        "longitude": -79.00098
+    },
+    {
+        "name": "Сан-Мигель",
+        "latitude": -1.70884,
+        "longitude": -79.04311
+    },
+    {
+        "name": "Азоги",
+        "latitude": -2.73969,
+        "longitude": -78.8486
+    },
+    {
+        "name": "Каньяр",
+        "latitude": -2.56062,
+        "longitude": -78.9394
+    },
+    {
+        "name": "Ла Тронкаль",
+        "latitude": -2.42355,
+        "longitude": -79.33977
+    },
+    {
+        "name": "Эль Анхель",
+        "latitude": 0.62279,
+        "longitude": -77.94003
+    },
+    {
+        "name": "Сан-Габриэль",
+        "latitude": 0.59318,
+        "longitude": -77.83078
+    },
+    {
+        "name": "Тулькан",
+        "latitude": 0.81187,
+        "longitude": -77.71727
+    },
+    {
+        "name": "Алауси",
+        "latitude": -2.20329,
+        "longitude": -78.84714
+    },
+    {
+        "name": "Гуано",
+        "latitude": -1.60789,
+        "longitude": -78.63105
+    },
+    {
+        "name": "Риобамба",
+        "latitude": -1.67098,
+        "longitude": -78.64712
+    },
+    {
+        "name": "Ла Мана",
+        "latitude": -0.94094,
+        "longitude": -79.22506
+    },
+    {
+        "name": "Латакунга",
+        "latitude": -0.93521,
+        "longitude": -78.61554
+    },
+    {
+        "name": "Пухили",
+        "latitude": -0.95759,
+        "longitude": -78.69636
+    },
+    {
+        "name": "Сан-Мигель де Сальседо",
+        "latitude": -1.04547,
+        "longitude": -78.59063
+    },
+    {
+        "name": "Сакисили",
+        "latitude": -0.8399,
+        "longitude": -78.667
+    },
+    {
+        "name": "Уакильяс",
+        "latitude": -3.47523,
+        "longitude": -80.23084
+    },
+    {
+        "name": "Мачала",
+        "latitude": -3.25861,
+        "longitude": -79.96053
+    },
+    {
+        "name": "Пасахе",
+        "latitude": -3.32561,
+        "longitude": -79.80697
+    },
+    {
+        "name": "Пиньяс",
+        "latitude": -3.68107,
+        "longitude": -79.68083
+    },
+    {
+        "name": "Портовело",
+        "latitude": -3.72145,
+        "longitude": -79.62187
+    },
+    {
+        "name": "Пуэрто Боливар",
+        "latitude": -3.26649,
+        "longitude": -79.99749
+    },
+    {
+        "name": "Санта Роза",
+        "latitude": -3.44882,
+        "longitude": -79.95952
+    },
+    {
+        "name": "Зарума",
+        "latitude": -3.69132,
+        "longitude": -79.61174
+    },
+    {
+        "name": "Эсмеральдас",
+        "latitude": 0.9592,
+        "longitude": -79.65397
+    },
+    {
+        "name": "Муисне",
+        "latitude": 0.61129,
+        "longitude": -80.01863
+    },
+    {
+        "name": "Пампаналь де Боливар",
+        "latitude": 1.35251,
+        "longitude": -78.8936
+    },
+    {
+        "name": "Рио-Верде",
+        "latitude": 1.06235,
+        "longitude": -79.39939
+    },
+    {
+        "name": "Роза Сарате",
+        "latitude": 0.32779,
+        "longitude": -79.47407
+    },
+    {
+        "name": "Сан-Лоренцо-де-Эсмеральдас",
+        "latitude": 1.28626,
+        "longitude": -78.83514
+    },
+    {
+        "name": "Вальдес",
+        "latitude": 1.24917,
+        "longitude": -78.98306
+    },
+    {
+        "name": "Пуэрто-Айора",
+        "latitude": -0.74018,
+        "longitude": -90.3138
+    },
+    {
+        "name": "Пуэрто Бакерисо Морено",
+        "latitude": -0.90172,
+        "longitude": -89.61021
+    },
+    {
+        "name": "Пуэрто-Вильямиль",
+        "latitude": -0.95542,
+        "longitude": -90.96654
+    },
+    {
+        "name": "Альфредо Бакерисо Морено",
+        "latitude": -1.91667,
+        "longitude": -79.51667
+    },
+    {
+        "name": "Балао",
+        "latitude": -2.911,
+        "longitude": -79.81441
+    },
+    {
+        "name": "Бальзар",
+        "latitude": -1.36501,
+        "longitude": -79.90494
+    },
+    {
+        "name": "Колим",
+        "latitude": -1.54553,
+        "longitude": -80.01165
+    },
+    {
+        "name": "Коронель Марселино Маридуэнья",
+        "latitude": -2.20924,
+        "longitude": -79.43248
+    },
+    {
+        "name": "Эль Триунфо",
+        "latitude": -1.93333,
+        "longitude": -79.96667
+    },
+    {
+        "name": "Элой Альфаро",
+        "latitude": -2.17579,
+        "longitude": -79.85519
+    },
+    {
+        "name": "Гуаякиль",
+        "latitude": -2.19616,
+        "longitude": -79.88621
+    },
+    {
+        "name": "Ломас де Сархентилло",
+        "latitude": -1.88333,
+        "longitude": -80.08333
+    },
+    {
+        "name": "Милагро",
+        "latitude": -2.13404,
+        "longitude": -79.59415
+    },
+    {
+        "name": "Наранджал",
+        "latitude": -2.67364,
+        "longitude": -79.6183
+    },
+    {
+        "name": "Наранхито",
+        "latitude": -2.16671,
+        "longitude": -79.4654
+    },
+    {
+        "name": "Палестина",
+        "latitude": -1.93709,
+        "longitude": -79.71396
+    },
+    {
+        "name": "Педро Карбо",
+        "latitude": -1.81563,
+        "longitude": -80.23309
+    },
+    {
+        "name": "Плайяс",
+        "latitude": -2.63199,
+        "longitude": -80.38808
+    },
+    {
+        "name": "Самборондон",
+        "latitude": -1.96276,
+        "longitude": -79.72402
+    },
+    {
+        "name": "Санта-Люсия",
+        "latitude": -2.18333,
+        "longitude": -80.0
+    },
+    {
+        "name": "Веласко Ибарра",
+        "latitude": -1.04376,
+        "longitude": -79.63837
+    },
+    {
+        "name": "Ягуачи Нуэво",
+        "latitude": -2.0968,
+        "longitude": -79.69485
+    },
+    {
+        "name": "Атунтаки",
+        "latitude": 0.33247,
+        "longitude": -78.21371
+    },
+    {
+        "name": "Котакачи",
+        "latitude": 0.30107,
+        "longitude": -78.26428
+    },
+    {
+        "name": "Ибарра",
+        "latitude": 0.35171,
+        "longitude": -78.12233
+    },
+    {
+        "name": "Отавало",
+        "latitude": 0.23457,
+        "longitude": -78.26248
+    },
+    {
+        "name": "Пимампиро",
+        "latitude": 0.39116,
+        "longitude": -77.94068
+    },
+    {
+        "name": "Лоха",
+        "latitude": -3.99313,
+        "longitude": -79.20422
+    },
+    {
+        "name": "Бабахойо",
+        "latitude": -1.80217,
+        "longitude": -79.53443
+    },
+    {
+        "name": "Катарама",
+        "latitude": -1.57504,
+        "longitude": -79.45998
+    },
+    {
+        "name": "Монтальво",
+        "latitude": -1.79008,
+        "longitude": -79.28759
+    },
+    {
+        "name": "Паленке",
+        "latitude": -1.43795,
+        "longitude": -79.75647
+    },
+    {
+        "name": "Кеведо",
+        "latitude": -1.02863,
+        "longitude": -79.46352
+    },
+    {
+        "name": "Вентанас",
+        "latitude": -1.44158,
+        "longitude": -79.45943
+    },
+    {
+        "name": "Винс",
+        "latitude": -1.55611,
+        "longitude": -79.75191
+    },
+    {
+        "name": "Баия-де-Каракес",
+        "latitude": -0.59792,
+        "longitude": -80.42367
+    },
+    {
+        "name": "Департамент Тоай",
+        "latitude": -0.84582,
+        "longitude": -80.16389
+    },
+    {
+        "name": "Кантон Портовьехо",
+        "latitude": -1.05,
+        "longitude": -80.45
+    },
+    {
+        "name": "Чоне",
+        "latitude": -0.69819,
+        "longitude": -80.09361
+    },
+    {
+        "name": "Джипияпа",
+        "latitude": -1.34872,
+        "longitude": -80.57875
+    },
+    {
+        "name": "Хунин",
+        "latitude": -0.92777,
+        "longitude": -80.20583
+    },
+    {
+        "name": "Манта",
+        "latitude": -0.96212,
+        "longitude": -80.71271
+    },
+    {
+        "name": "Монтекристи",
+        "latitude": -1.04576,
+        "longitude": -80.65889
+    },
+    {
+        "name": "Паян",
+        "latitude": -1.55238,
+        "longitude": -80.42958
+    },
+    {
+        "name": "Педерналес",
+        "latitude": 0.07167,
+        "longitude": -80.0525
+    },
+    {
+        "name": "Портовьехо",
+        "latitude": -1.05458,
+        "longitude": -80.45445
+    },
+    {
+        "name": "Рокафуэрте",
+        "latitude": -0.9236,
+        "longitude": -80.44946
+    },
+    {
+        "name": "Сан-Висенте",
+        "latitude": -0.60435,
+        "longitude": -80.40267
+    },
+    {
+        "name": "Санта Ана",
+        "latitude": -1.20726,
+        "longitude": -80.37132
+    },
+    {
+        "name": "Сукре",
+        "latitude": -1.27974,
+        "longitude": -80.41885
+    },
+    {
+        "name": "Тосагуа",
+        "latitude": -0.78679,
+        "longitude": -80.23473
+    },
+    {
+        "name": "Гуалакиса",
+        "latitude": -3.40359,
+        "longitude": -78.58166
+    },
+    {
+        "name": "Макас",
+        "latitude": -2.30868,
+        "longitude": -78.11135
+    },
+    {
+        "name": "Палора",
+        "latitude": -1.70131,
+        "longitude": -77.96516
+    },
+    {
+        "name": "Сукуа",
+        "latitude": -2.45866,
+        "longitude": -78.17171
+    },
+    {
+        "name": "Арчидона",
+        "latitude": -0.9095,
+        "longitude": -77.80772
+    },
+    {
+        "name": "Тена",
+        "latitude": -0.9938,
+        "longitude": -77.81286
+    },
+    {
+        "name": "Бока Суно",
+        "latitude": -0.69832,
+        "longitude": -77.14083
+    },
+    {
+        "name": "Франсиско де Орельяна, кантон",
+        "latitude": -0.46667,
+        "longitude": -76.96667
+    },
+    {
+        "name": "Пауло Афонсу",
+        "latitude": -0.69487,
+        "longitude": -77.30255
+    },
+    {
+        "name": "Пуэрто-Франциско де Орельяна",
+        "latitude": -0.46645,
+        "longitude": -76.98719
+    },
+    {
+        "name": "Пуйо",
+        "latitude": -1.48369,
+        "longitude": -78.00257
+    },
+    {
+        "name": "Каямбе",
+        "latitude": 0.04084,
+        "longitude": -78.14524
+    },
+    {
+        "name": "Мачачи",
+        "latitude": -0.51011,
+        "longitude": -78.56712
+    },
+    {
+        "name": "Кито",
+        "latitude": -0.22985,
+        "longitude": -78.52495
+    },
+    {
+        "name": "Санголки",
+        "latitude": -0.33405,
+        "longitude": -78.45217
+    },
+    {
+        "name": "Тутамандахостел",
+        "latitude": -0.19727,
+        "longitude": -78.4975
+    },
+    {
+        "name": "Ла Либертад",
+        "latitude": -2.233,
+        "longitude": -80.91039
+    },
+    {
+        "name": "Салинас",
+        "latitude": -2.21452,
+        "longitude": -80.95151
+    },
+    {
+        "name": "Санта-Елена",
+        "latitude": -2.22622,
+        "longitude": -80.85873
+    },
+    {
+        "name": "Санто-Доминго-де-лос-Колорадос",
+        "latitude": -0.25305,
+        "longitude": -79.17536
+    },
+    {
+        "name": "Нуэва-Лоха",
+        "latitude": 0.086,
+        "longitude": -76.89528
+    },
+    {
+        "name": "Амбато",
+        "latitude": -1.24908,
+        "longitude": -78.61675
+    },
+    {
+        "name": "Баньос",
+        "latitude": -1.39699,
+        "longitude": -78.42289
+    },
+    {
+        "name": "Пелилео",
+        "latitude": -1.3299,
+        "longitude": -78.54341
+    },
+    {
+        "name": "Пилларо",
+        "latitude": -1.17414,
+        "longitude": -78.54676
+    },
+    {
+        "name": "Янцаза",
+        "latitude": -3.83261,
+        "longitude": -78.76076
+    },
+    {
+        "name": "Самора",
+        "latitude": -4.06685,
+        "longitude": -78.95488
+    }
+]

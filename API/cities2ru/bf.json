@@ -1,0 +1,462 @@
+[
+    {
+        "name": "Банско",
+        "latitude": 13.1691,
+        "longitude": -3.8899
+    },
+    {
+        "name": "Боромо",
+        "latitude": 11.74542,
+        "longitude": -2.93006
+    },
+    {
+        "name": "Дедугу",
+        "latitude": 12.46338,
+        "longitude": -3.46075
+    },
+    {
+        "name": "Нуна",
+        "latitude": 12.72939,
+        "longitude": -3.86305
+    },
+    {
+        "name": "Провинция ла Косси",
+        "latitude": 12.91667,
+        "longitude": -3.83333
+    },
+    {
+        "name": "Провинция Бале",
+        "latitude": 11.71667,
+        "longitude": -3.05
+    },
+    {
+        "name": "Провинция Банва",
+        "latitude": 12.16667,
+        "longitude": -4.16667
+    },
+    {
+        "name": "Провинция дю Муун",
+        "latitude": 12.25,
+        "longitude": -3.41667
+    },
+    {
+        "name": "Провинция дю Наяла",
+        "latitude": 12.66667,
+        "longitude": -3.0
+    },
+    {
+        "name": "Провинция дю Суру",
+        "latitude": 13.25,
+        "longitude": -3.0
+    },
+    {
+        "name": "Салансо",
+        "latitude": 12.17423,
+        "longitude": -4.08477
+    },
+    {
+        "name": "Тома",
+        "latitude": 12.75844,
+        "longitude": -2.89879
+    },
+    {
+        "name": "Tougan",
+        "latitude": 13.0725,
+        "longitude": -3.0694
+    },
+    {
+        "name": "Банфора",
+        "latitude": 10.63333,
+        "longitude": -4.76667
+    },
+    {
+        "name": "Провинция ла Комоэ",
+        "latitude": 10.33333,
+        "longitude": -4.41667
+    },
+    {
+        "name": "Провинция ла Лераба",
+        "latitude": 10.66667,
+        "longitude": -5.2
+    },
+    {
+        "name": "Синду",
+        "latitude": 10.66667,
+        "longitude": -5.16667
+    },
+    {
+        "name": "Провинция Кадиого",
+        "latitude": 12.33333,
+        "longitude": -1.5
+    },
+    {
+        "name": "Уагадугу",
+        "latitude": 12.36566,
+        "longitude": -1.53388
+    },
+    {
+        "name": "Гаранго",
+        "latitude": 11.8,
+        "longitude": -0.55056
+    },
+    {
+        "name": "Купела",
+        "latitude": 12.17864,
+        "longitude": -0.35103
+    },
+    {
+        "name": "Провинция Куритенга",
+        "latitude": 12.2,
+        "longitude": -0.3
+    },
+    {
+        "name": "Уаргай",
+        "latitude": 11.50202,
+        "longitude": 0.05886
+    },
+    {
+        "name": "Провинция дю Бульгу",
+        "latitude": 11.5,
+        "longitude": -0.41667
+    },
+    {
+        "name": "Провинция Кульпелого",
+        "latitude": 11.41667,
+        "longitude": 0.16667
+    },
+    {
+        "name": "Tenkodogo",
+        "latitude": 11.78,
+        "longitude": -0.36972
+    },
+    {
+        "name": "Булса",
+        "latitude": 12.66664,
+        "longitude": -0.57469
+    },
+    {
+        "name": "Кая",
+        "latitude": 13.09167,
+        "longitude": -1.08444
+    },
+    {
+        "name": "Конгусси",
+        "latitude": 13.32583,
+        "longitude": -1.53472
+    },
+    {
+        "name": "Провинция дю Бам",
+        "latitude": 13.46667,
+        "longitude": -1.58333
+    },
+    {
+        "name": "Провинция дю Наментенга",
+        "latitude": 13.25,
+        "longitude": -0.5
+    },
+    {
+        "name": "Провинция Санматенга",
+        "latitude": 13.25,
+        "longitude": -1.08333
+    },
+    {
+        "name": "Гулур",
+        "latitude": 12.23484,
+        "longitude": -1.93394
+    },
+    {
+        "name": "Коколого",
+        "latitude": 12.19392,
+        "longitude": -1.87687
+    },
+    {
+        "name": "Кудугу",
+        "latitude": 12.25263,
+        "longitude": -2.36272
+    },
+    {
+        "name": "Лео",
+        "latitude": 11.10033,
+        "longitude": -2.10654
+    },
+    {
+        "name": "Башкия Дивьяке",
+        "latitude": 12.24564,
+        "longitude": -1.88148
+    },
+    {
+        "name": "Башкия Фиер",
+        "latitude": 11.33333,
+        "longitude": -2.25
+    },
+    {
+        "name": "Провинция Булькимде",
+        "latitude": 12.33333,
+        "longitude": -2.16667
+    },
+    {
+        "name": "Провинция дю Сангие",
+        "latitude": 12.16667,
+        "longitude": -2.66667
+    },
+    {
+        "name": "Провинция дю Зиро",
+        "latitude": 11.58333,
+        "longitude": -1.91667
+    },
+    {
+        "name": "Рео",
+        "latitude": 12.31963,
+        "longitude": -2.47094
+    },
+    {
+        "name": "Сапуи",
+        "latitude": 11.55444,
+        "longitude": -1.77361
+    },
+    {
+        "name": "Провинция Базега",
+        "latitude": 11.91667,
+        "longitude": -1.5
+    },
+    {
+        "name": "Комбиссири",
+        "latitude": 12.06884,
+        "longitude": -1.33644
+    },
+    {
+        "name": "Айзекс",
+        "latitude": 11.66361,
+        "longitude": -1.07306
+    },
+    {
+        "name": "Провинция Нахури",
+        "latitude": 11.25,
+        "longitude": -1.25
+    },
+    {
+        "name": "По",
+        "latitude": 11.16972,
+        "longitude": -1.145
+    },
+    {
+        "name": "Провинция Зундвеого",
+        "latitude": 11.58333,
+        "longitude": -1.0
+    },
+    {
+        "name": "Боганде",
+        "latitude": 12.9704,
+        "longitude": -0.14953
+    },
+    {
+        "name": "Диапага",
+        "latitude": 12.07305,
+        "longitude": 1.78838
+    },
+    {
+        "name": "Фада Н'гурма",
+        "latitude": 12.06157,
+        "longitude": 0.35843
+    },
+    {
+        "name": "Гайери",
+        "latitude": 12.64824,
+        "longitude": 0.49314
+    },
+    {
+        "name": "Провинция Ньянья",
+        "latitude": 12.9188,
+        "longitude": 0.0392
+    },
+    {
+        "name": "Пама",
+        "latitude": 11.24972,
+        "longitude": 0.7075
+    },
+    {
+        "name": "Провинция ла Командджоари",
+        "latitude": 12.66667,
+        "longitude": 0.66667
+    },
+    {
+        "name": "Провинция де ла Компьенга",
+        "latitude": 11.41667,
+        "longitude": 0.91667
+    },
+    {
+        "name": "Провинция де ла Тапоа",
+        "latitude": 12.0,
+        "longitude": 1.75
+    },
+    {
+        "name": "Провинция дю Гурма",
+        "latitude": 12.08333,
+        "longitude": 0.5
+    },
+    {
+        "name": "Бобо-Диуласо",
+        "latitude": 11.17715,
+        "longitude": -4.2979
+    },
+    {
+        "name": "Хунде",
+        "latitude": 11.5,
+        "longitude": -3.51667
+    },
+    {
+        "name": "Провинция дю Уэ",
+        "latitude": 11.33333,
+        "longitude": -4.25
+    },
+    {
+        "name": "Провинция Кенедугу",
+        "latitude": 11.41667,
+        "longitude": -5.0
+    },
+    {
+        "name": "Провинция дю Тюи",
+        "latitude": 11.41667,
+        "longitude": -3.41667
+    },
+    {
+        "name": "Гурси",
+        "latitude": 13.20776,
+        "longitude": -2.35893
+    },
+    {
+        "name": "Уахигуя",
+        "latitude": 13.58278,
+        "longitude": -2.42158
+    },
+    {
+        "name": "Провинция дю Лорум",
+        "latitude": 13.91667,
+        "longitude": -2.16667
+    },
+    {
+        "name": "Провинция дю Пассоре",
+        "latitude": 12.91667,
+        "longitude": -2.16667
+    },
+    {
+        "name": "Провинция дю Ятенга",
+        "latitude": 13.58333,
+        "longitude": -2.41667
+    },
+    {
+        "name": "Провинция дю Зондома",
+        "latitude": 13.18333,
+        "longitude": -2.36667
+    },
+    {
+        "name": "Титао",
+        "latitude": 13.76667,
+        "longitude": -2.06667
+    },
+    {
+        "name": "Яко",
+        "latitude": 12.9591,
+        "longitude": -2.26075
+    },
+    {
+        "name": "Буссе",
+        "latitude": 12.66121,
+        "longitude": -1.89515
+    },
+    {
+        "name": "Оубритенга",
+        "latitude": 12.66667,
+        "longitude": -1.33333
+    },
+    {
+        "name": "Провинция Ганзургу",
+        "latitude": 12.26667,
+        "longitude": -0.76667
+    },
+    {
+        "name": "Провинция Курвеого",
+        "latitude": 12.58333,
+        "longitude": -1.76667
+    },
+    {
+        "name": "Зиниаре",
+        "latitude": 12.58186,
+        "longitude": -1.2971
+    },
+    {
+        "name": "Зорго",
+        "latitude": 12.24922,
+        "longitude": -0.61527
+    },
+    {
+        "name": "Джибо",
+        "latitude": 14.0994,
+        "longitude": -1.62554
+    },
+    {
+        "name": "Кардстон",
+        "latitude": 14.0354,
+        "longitude": -0.0345
+    },
+    {
+        "name": "Гором-Гором",
+        "latitude": 14.4429,
+        "longitude": -0.23468
+    },
+    {
+        "name": "Провинция л’Удалан",
+        "latitude": 14.66667,
+        "longitude": -0.33333
+    },
+    {
+        "name": "Провинция дю Сено",
+        "latitude": 13.964,
+        "longitude": 0.012
+    },
+    {
+        "name": "Провинция дю Сум",
+        "latitude": 14.33333,
+        "longitude": -1.25
+    },
+    {
+        "name": "Провинция дю Яга",
+        "latitude": 13.41667,
+        "longitude": 0.58333
+    },
+    {
+        "name": "Батье",
+        "latitude": 9.88333,
+        "longitude": -2.91667
+    },
+    {
+        "name": "Дано",
+        "latitude": 11.1464,
+        "longitude": -3.05784
+    },
+    {
+        "name": "Дьебугу",
+        "latitude": 10.96209,
+        "longitude": -3.24967
+    },
+    {
+        "name": "Провинция ла Бугуриба",
+        "latitude": 10.83333,
+        "longitude": -3.41667
+    },
+    {
+        "name": "Провинция дю Иоба",
+        "latitude": 11.08333,
+        "longitude": -3.08333
+    },
+    {
+        "name": "Провинция дю Нумбьель",
+        "latitude": 9.83333,
+        "longitude": -3.0
+    },
+    {
+        "name": "Провинция дю Пони",
+        "latitude": 10.25,
+        "longitude": -3.41667
+    }
+]

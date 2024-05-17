@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Бакау",
+        "latitude": 13.47806,
+        "longitude": -16.68194
+    },
+    {
+        "name": "Банжул",
+        "latitude": 13.45274,
+        "longitude": -16.57803
+    },
+    {
+        "name": "Комбо, округ Сент-Мэри",
+        "latitude": 13.44389,
+        "longitude": -16.64583
+    },
+    {
+        "name": "Serekunda",
+        "latitude": 13.43833,
+        "longitude": -16.67806
+    },
+    {
+        "name": "Бансанг",
+        "latitude": 13.43333,
+        "longitude": -14.65
+    },
+    {
+        "name": "Брикама Ндинг",
+        "latitude": 13.53333,
+        "longitude": -14.93333
+    },
+    {
+        "name": "Данкунку",
+        "latitude": 13.56667,
+        "longitude": -15.31667
+    },
+    {
+        "name": "Denton",
+        "latitude": 13.5,
+        "longitude": -14.93333
+    },
+    {
+        "name": "Фулладу Вест",
+        "latitude": 13.5,
+        "longitude": -14.75
+    },
+    {
+        "name": "Галле Манда",
+        "latitude": 13.43333,
+        "longitude": -14.78333
+    },
+    {
+        "name": "Джорджтаун",
+        "latitude": 13.54039,
+        "longitude": -14.76374
+    },
+    {
+        "name": "Джахалы",
+        "latitude": 13.55,
+        "longitude": -14.96667
+    },
+    {
+        "name": "Джанжанбуре",
+        "latitude": 13.53564,
+        "longitude": -14.76515
+    },
+    {
+        "name": "Джарренг",
+        "latitude": 13.61667,
+        "longitude": -15.18333
+    },
+    {
+        "name": "Карантаба",
+        "latitude": 13.66667,
+        "longitude": -15.03333
+    },
+    {
+        "name": "Касс Воллоф",
+        "latitude": 13.78333,
+        "longitude": -14.93333
+    },
+    {
+        "name": "Кунтаур",
+        "latitude": 13.67085,
+        "longitude": -14.88977
+    },
+    {
+        "name": "Кунтинг",
+        "latitude": 13.53333,
+        "longitude": -14.66667
+    },
+    {
+        "name": "Нижний Салум",
+        "latitude": 13.71667,
+        "longitude": -15.36667
+    },
+    {
+        "name": "Ниамина Восточный округ",
+        "latitude": 13.63333,
+        "longitude": -15.08333
+    },
+    {
+        "name": "Ниамина Западный округ",
+        "latitude": 13.58333,
+        "longitude": -15.25
+    },
+    {
+        "name": "Ниани",
+        "latitude": 13.66667,
+        "longitude": -14.91667
+    },
+    {
+        "name": "Ниания Район",
+        "latitude": 13.729,
+        "longitude": -15.091
+    },
+    {
+        "name": "Хоркера",
+        "latitude": 13.61667,
+        "longitude": -15.06667
+    },
+    {
+        "name": "Сами",
+        "latitude": 13.58333,
+        "longitude": -15.2
+    },
+    {
+        "name": "Саамский район",
+        "latitude": 13.58333,
+        "longitude": -14.58333
+    },
+    {
+        "name": "Saruja",
+        "latitude": 13.55,
+        "longitude": -14.91667
+    },
+    {
+        "name": "Sukuta",
+        "latitude": 13.61667,
+        "longitude": -14.91667
+    },
+    {
+        "name": "Верхний Салум",
+        "latitude": 13.75,
+        "longitude": -15.2
+    },
+    {
+        "name": "Вассу",
+        "latitude": 13.69094,
+        "longitude": -14.87884
+    },
+    {
+        "name": "Баро Кунда",
+        "latitude": 13.48333,
+        "longitude": -15.26667
+    },
+    {
+        "name": "Буренг",
+        "latitude": 13.41667,
+        "longitude": -15.28333
+    },
+    {
+        "name": "Джали",
+        "latitude": 13.35,
+        "longitude": -15.96667
+    },
+    {
+        "name": "Джарра Сентрал",
+        "latitude": 13.41667,
+        "longitude": -15.41667
+    },
+    {
+        "name": "Джарра Восток",
+        "latitude": 13.41667,
+        "longitude": -15.25
+    },
+    {
+        "name": "Бри-э-Ангонн",
+        "latitude": 13.41667,
+        "longitude": -15.53333
+    },
+    {
+        "name": "Дженой",
+        "latitude": 13.48333,
+        "longitude": -15.56667
+    },
+    {
+        "name": "Jifarong",
+        "latitude": 13.3,
+        "longitude": -15.86667
+    },
+    {
+        "name": "Кайаф",
+        "latitude": 13.4,
+        "longitude": -15.61667
+    },
+    {
+        "name": "Карантаба",
+        "latitude": 13.43333,
+        "longitude": -15.51667
+    },
+    {
+        "name": "Кенеба",
+        "latitude": 13.32889,
+        "longitude": -16.015
+    },
+    {
+        "name": "Кианг Центральный",
+        "latitude": 13.4,
+        "longitude": -15.75
+    },
+    {
+        "name": "Кианг Восток",
+        "latitude": 13.41667,
+        "longitude": -15.63333
+    },
+    {
+        "name": "Кианг Западный округ",
+        "latitude": 13.33333,
+        "longitude": -16.0
+    },
+    {
+        "name": "Архона",
+        "latitude": 13.44325,
+        "longitude": -15.5357
+    },
+    {
+        "name": "Ниоро",
+        "latitude": 13.35,
+        "longitude": -15.75
+    },
+    {
+        "name": "Санквия",
+        "latitude": 13.46667,
+        "longitude": -15.51667
+    },
+    {
+        "name": "Си Кунда",
+        "latitude": 13.43333,
+        "longitude": -15.56667
+    },
+    {
+        "name": "Сома",
+        "latitude": 13.43333,
+        "longitude": -15.53333
+    },
+    {
+        "name": "Сутукунг",
+        "latitude": 13.46667,
+        "longitude": -15.26667
+    },
+    {
+        "name": "Тониатаба",
+        "latitude": 13.43333,
+        "longitude": -15.58333
+    },
+    {
+        "name": "Веллингара Ба",
+        "latitude": 13.41667,
+        "longitude": -15.4
+    },
+    {
+        "name": "Бамбали",
+        "latitude": 13.48333,
+        "longitude": -15.33333
+    },
+    {
+        "name": "Барра",
+        "latitude": 13.48278,
+        "longitude": -16.54556
+    },
+    {
+        "name": "Центральный Баддибу",
+        "latitude": 13.53333,
+        "longitude": -15.91667
+    },
+    {
+        "name": "Чилла",
+        "latitude": 13.55,
+        "longitude": -16.28333
+    },
+    {
+        "name": "Дару Рилван",
+        "latitude": 13.55,
+        "longitude": -15.98333
+    },
+    {
+        "name": "Моравский Крумлов",
+        "latitude": 13.48389,
+        "longitude": -16.53472
+    },
+    {
+        "name": "Фарафенни",
+        "latitude": 13.56667,
+        "longitude": -15.6
+    },
+    {
+        "name": "Гунджур",
+        "latitude": 13.52278,
+        "longitude": -16.02778
+    },
+    {
+        "name": "Джокаду",
+        "latitude": 13.53333,
+        "longitude": -16.18333
+    },
+    {
+        "name": "Катчанг",
+        "latitude": 13.5,
+        "longitude": -15.75
+    },
+    {
+        "name": "Кереван",
+        "latitude": 13.4898,
+        "longitude": -16.08879
+    },
+    {
+        "name": "Ламин",
+        "latitude": 13.35222,
+        "longitude": -16.43389
+    },
+    {
+        "name": "Нижний район Баддибу",
+        "latitude": 13.5,
+        "longitude": -16.05
+    },
+    {
+        "name": "Нижний Ниумиский район",
+        "latitude": 13.53333,
+        "longitude": -16.41667
+    },
+    {
+        "name": "Мараан",
+        "latitude": 13.56667,
+        "longitude": -15.83333
+    },
+    {
+        "name": "Эхинген",
+        "latitude": 13.51639,
+        "longitude": -16.04917
+    },
+    {
+        "name": "Сара Кунда",
+        "latitude": 13.53333,
+        "longitude": -15.41667
+    },
+    {
+        "name": "Верхний Баддибу",
+        "latitude": 13.55,
+        "longitude": -15.66667
+    },
+    {
+        "name": "Район Верхний Ниуми",
+        "latitude": 13.4,
+        "longitude": -16.33333
+    },
+    {
+        "name": "Бакадаги",
+        "latitude": 13.3,
+        "longitude": -14.38333
+    },
+    {
+        "name": "Бассе Санта Су",
+        "latitude": 13.30995,
+        "longitude": -14.21373
+    },
+    {
+        "name": "Brifu",
+        "latitude": 13.5,
+        "longitude": -13.93333
+    },
+    {
+        "name": "Даба Кунда",
+        "latitude": 13.31667,
+        "longitude": -14.3
+    },
+    {
+        "name": "Демба Кунда",
+        "latitude": 13.25,
+        "longitude": -14.26667
+    },
+    {
+        "name": "Диабугу",
+        "latitude": 13.38333,
+        "longitude": -14.4
+    },
+    {
+        "name": "Диабугу Базилья",
+        "latitude": 13.33333,
+        "longitude": -13.95
+    },
+    {
+        "name": "Фулладу Восток",
+        "latitude": 13.33333,
+        "longitude": -14.25
+    },
+    {
+        "name": "Гунджур Кута",
+        "latitude": 13.53333,
+        "longitude": -14.11667
+    },
+    {
+        "name": "Кантора",
+        "latitude": 13.41667,
+        "longitude": -13.91667
+    },
+    {
+        "name": "Койна",
+        "latitude": 13.48333,
+        "longitude": -13.86667
+    },
+    {
+        "name": "Кумбиджа",
+        "latitude": 13.26667,
+        "longitude": -14.18333
+    },
+    {
+        "name": "Ньяманари",
+        "latitude": 13.33333,
+        "longitude": -13.86667
+    },
+    {
+        "name": "Перай",
+        "latitude": 13.38333,
+        "longitude": -14.03333
+    },
+    {
+        "name": "Саби",
+        "latitude": 13.23333,
+        "longitude": -14.2
+    },
+    {
+        "name": "Санду",
+        "latitude": 13.41667,
+        "longitude": -14.36667
+    },
+    {
+        "name": "Судовол",
+        "latitude": 13.36667,
+        "longitude": -13.96667
+    },
+    {
+        "name": "Сунь Кунда",
+        "latitude": 13.38333,
+        "longitude": -13.85
+    },
+    {
+        "name": "Сутукоба",
+        "latitude": 13.5,
+        "longitude": -14.01667
+    },
+    {
+        "name": "Вули",
+        "latitude": 13.5,
+        "longitude": -14.08333
+    },
+    {
+        "name": "Абуко",
+        "latitude": 13.40417,
+        "longitude": -16.65583
+    },
+    {
+        "name": "Брикама",
+        "latitude": 13.27136,
+        "longitude": -16.64944
+    },
+    {
+        "name": "Фони Бондали",
+        "latitude": 13.21667,
+        "longitude": -15.93333
+    },
+    {
+        "name": "Фони Брефет",
+        "latitude": 13.21667,
+        "longitude": -16.33333
+    },
+    {
+        "name": "Эрисвиль",
+        "latitude": 13.23333,
+        "longitude": -15.83333
+    },
+    {
+        "name": "Фони Кансала",
+        "latitude": 13.21667,
+        "longitude": -16.05
+    },
+    {
+        "name": "Гунджур",
+        "latitude": 13.20194,
+        "longitude": -16.73389
+    },
+    {
+        "name": "Центральный район Комбо",
+        "latitude": 13.25,
+        "longitude": -16.66667
+    },
+    {
+        "name": "Комбо Восточный округ",
+        "latitude": 13.21667,
+        "longitude": -16.51667
+    },
+    {
+        "name": "Комбо Северный округ",
+        "latitude": 13.36667,
+        "longitude": -16.66667
+    },
+    {
+        "name": "Комбо Южный округ",
+        "latitude": 13.25,
+        "longitude": -16.75
+    },
+    {
+        "name": "Somita",
+        "latitude": 13.20583,
+        "longitude": -16.30556
+    },
+    {
+        "name": "Sukuta",
+        "latitude": 13.41033,
+        "longitude": -16.70815
+    }
+]
