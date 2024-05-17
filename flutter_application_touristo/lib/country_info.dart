@@ -95,7 +95,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
         final List<dynamic> cities = dataCity['cities'];
         accumulatedCities.addAll(cities);
 
-        if (currentPage * 1000 < dataCity['total_cities']) {
+        if (currentPage * 50 < dataCity['total_cities']) {
           _fetchAllCities(currentPage + 1, accumulatedCities);
         } else {
           setState(() {
