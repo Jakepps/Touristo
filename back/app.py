@@ -245,7 +245,7 @@ def remove_from_favorites(user_id, country_code):
 
 @app.route('/api/arrivals/<country_id>', methods=['GET'])
 def get_arrivals_data(country_id):
-    file_path = f'foreign_data/json/arrivals/{country_id}.json'
+    file_path = f'foreign_data/arrivals/{country_id}.json'
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             arrivals_data = json.load(file)
