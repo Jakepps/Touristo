@@ -279,6 +279,54 @@ def generate_arrivals_plot(data, country_code):
     plt.close()
     return plot_path
 
+def load_employment_info(country_code):
+    file_path = f'flows/employments/{country_code}.json'
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            employment_info = json.load(file)
+            return employment_info
+    else:
+        return None
+    
+@app.route('/api/flows/employment/<country_code>', methods=['GET'])
+def get_employment_data(country_code):
+    employment_info = load_employment_info(country_code)
+    if employment_info:
+        plot_path = generate_employment_plot(employment_info, country_code)
+        return send_file(plot_path, mimetype='image/png')
+    else:
+        return jsonify({'error': f'Employment data for the country with the code {country_code} was not found'}), 404
+
+def generate_employment_plot(data, country_code):
+    years = list(range(1995, 2022))
+    total_employment = [data['Total'].get(str(year), 0) or 0 for year in years]
+    accommodation_services = [data['Accommodation services for visitors (hotels and similar establishments)'].get(str(year), 0) or 0 for year in years]
+    other_accommodation = [data['Other accommodation services'].get(str(year), 0) or 0 for year in years]
+    food_beverage = [data['Food and beverage serving activities'].get(str(year), 0) or 0 for year in years]
+    passenger_transportation = [data['Passenger transportation'].get(str(year), 0) or 0 for year in years]
+    travel_agencies = [data['Travel agencies and other reservation services activities'].get(str(year), 0) or 0 for year in years]
+    other_tourism = [data['Other tourism industries'].get(str(year), 0) or 0 for year in years]
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(years, total_employment, label='Общая численность сотрудников')
+    plt.plot(years, accommodation_services, label='Услуги по размещению посетителей')
+    plt.plot(years, other_accommodation, label='Другие услуги по размещению')
+    plt.plot(years, food_beverage, label='Деятельность по подаче блюд и напитков')
+    plt.plot(years, passenger_transportation, label='Пассажирские перевозки')
+    plt.plot(years, travel_agencies, label='Туристические агентства и другие службы бронирования')
+    plt.plot(years, other_tourism, label='Другие отрасли туризма')
+
+    plt.xlabel('Год')
+    plt.ylabel('Количество сотрудников')
+    plt.title(f'Занятость в отраслях, связанных с туризмом, в {country_code}')
+    plt.legend()
+    plt.grid(True)
+
+    plot_path = f'temporary_plots/{country_code}_employment.png'
+    plt.savefig(plot_path)
+    plt.close()
+    return plot_path
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
