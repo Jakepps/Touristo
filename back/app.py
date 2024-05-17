@@ -244,12 +244,40 @@ def remove_from_favorites(user_id, country_code):
     else:
         return jsonify({"error": "Favorite not found"}), 404
 
+# Тур потоки
 def load_arrivals_info(country_code):
     file_path = f'flows/arrivals/{country_code}.json'
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             employment_info = json.load(file)
             return employment_info
+    else:
+        return None
+    
+def load_employment_info(country_code):
+    file_path = f'flows/employments/{country_code}.json'
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            employment_info = json.load(file)
+            return employment_info
+    else:
+        return None
+    
+def load_tourismInd_data(country_code):
+    file_path = f'flows/tourism_ind/{country_code}.json'
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            tourism_data = json.load(file)
+            return tourism_data
+    else:
+        return None
+
+def load_travel_data(country_code):
+    file_path = f'flows/transport/{country_code}.json'
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            travel_data = json.load(file)
+            return travel_data
     else:
         return None
 
@@ -261,6 +289,34 @@ def get_arrivals_data(country_code):
         return send_file(plot_path, mimetype='image/png')
     else:
         return jsonify({'error': f'Arrival data for the country with the ID {country_code} was not found'}), 404
+    
+@app.route('/api/flows/employment/<country_code>', methods=['GET'])
+def get_employment_data(country_code):
+    employment_info = load_employment_info(country_code)
+    if employment_info:
+        plot_path = generate_employment_plot(employment_info, country_code)
+        return send_file(plot_path, mimetype='image/png')
+    else:
+        return jsonify({'error': f'Employment data for the country with the code {country_code} was not found'}), 404
+    
+
+@app.route('/api/flows/tourism_ind/<country_code>', methods=['GET'])
+def get_tourismInd_data(country_code):
+    tourism_data = load_tourismInd_data(country_code)
+    if tourism_data:
+        plot_path = generate_tourismInd_plot(tourism_data, country_code)
+        return send_file(plot_path, mimetype='image/png')
+    else:
+        return jsonify({'error': f'Tourism data for the country with the code {country_code} was not found'}), 404
+
+@app.route('/api/flows/transport/<country_code>', methods=['GET'])
+def get_travel_data(country_code):
+    travel_data = load_travel_data(country_code)
+    if travel_data:
+        plot_path = generate_travel_plot(travel_data, country_code)
+        return send_file(plot_path, mimetype='image/png')
+    else:
+        return jsonify({'error': f'Travel data for the country with the code {country_code} was not found'}), 404
 
 def generate_arrivals_plot(data, country_code):
     years = list(range(1995, 2022))
@@ -277,7 +333,7 @@ def generate_arrivals_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Количество посетителей')
-    plt.title(f'Количество посетителей в {country_code}')
+    #plt.title(f'Количество посетителей в {country_code}')
     plt.legend()
     plt.grid(True)
 
@@ -285,25 +341,7 @@ def generate_arrivals_plot(data, country_code):
     plt.savefig(plot_path)
     plt.close()
     return plot_path
-
-def load_employment_info(country_code):
-    file_path = f'flows/employments/{country_code}.json'
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            employment_info = json.load(file)
-            return employment_info
-    else:
-        return None
-    
-@app.route('/api/flows/employment/<country_code>', methods=['GET'])
-def get_employment_data(country_code):
-    employment_info = load_employment_info(country_code)
-    if employment_info:
-        plot_path = generate_employment_plot(employment_info, country_code)
-        return send_file(plot_path, mimetype='image/png')
-    else:
-        return jsonify({'error': f'Employment data for the country with the code {country_code} was not found'}), 404
-
+  
 def generate_employment_plot(data, country_code):
     years = list(range(1995, 2022))
     total_employment = [data['Total'].get(str(year), 0) or 0 for year in years]
@@ -325,7 +363,7 @@ def generate_employment_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Количество сотрудников')
-    plt.title(f'Занятость в отраслях, связанных с туризмом, в {country_code}')
+    #plt.title(f'Занятость в отраслях, связанных с туризмом, в {country_code}')
     plt.legend()
     plt.grid(True)
 
@@ -333,24 +371,6 @@ def generate_employment_plot(data, country_code):
     plt.savefig(plot_path)
     plt.close()
     return plot_path
-
-def load_tourismInd_data(country_code):
-    file_path = f'flows/tourism_ind/{country_code}.json'
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            tourism_data = json.load(file)
-            return tourism_data
-    else:
-        return None
-
-@app.route('/api/flows/tourism_ind/<country_code>', methods=['GET'])
-def get_tourismInd_data(country_code):
-    tourism_data = load_tourismInd_data(country_code)
-    if tourism_data:
-        plot_path = generate_tourismInd_plot(tourism_data, country_code)
-        return send_file(plot_path, mimetype='image/png')
-    else:
-        return jsonify({'error': f'Tourism data for the country with the code {country_code} was not found'}), 404
 
 def generate_tourismInd_plot(data, country_code):
     years = list(range(1995, 2022))
@@ -373,7 +393,7 @@ def generate_tourismInd_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Значение')
-    plt.title(f'Данные туристической индустрии для {country_code}')
+    #plt.title(f'Данные туристической индустрии для {country_code}')
     plt.legend()
     plt.grid(True)
 
@@ -381,24 +401,6 @@ def generate_tourismInd_plot(data, country_code):
     plt.savefig(plot_path)
     plt.close()
     return plot_path
-
-def load_travel_data(country_code):
-    file_path = f'flows/transport/{country_code}.json'
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            travel_data = json.load(file)
-            return travel_data
-    else:
-        return None
-
-@app.route('/api/flows/transport/<country_code>', methods=['GET'])
-def get_travel_data(country_code):
-    travel_data = load_travel_data(country_code)
-    if travel_data:
-        plot_path = generate_travel_plot(travel_data, country_code)
-        return send_file(plot_path, mimetype='image/png')
-    else:
-        return jsonify({'error': f'Travel data for the country with the code {country_code} was not found'}), 404
 
 def generate_travel_plot(data, country_code):
     years = list(range(1995, 2022))
@@ -415,7 +417,7 @@ def generate_travel_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Количество путешественников')
-    plt.title(f'Количество пассажиров, путешествующих разными видами транспорта для {country_code}')
+    #plt.title(f'Количество пассажиров, путешествующих разными видами транспорта для {country_code}')
     plt.legend()
     plt.grid(True)
 
