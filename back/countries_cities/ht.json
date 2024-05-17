@@ -1,536 +1,536 @@
 [
     {
-        "name": "Anse Rouge",
+        "name": "Анс Руж",
         "latitude": 19.63382,
         "longitude": -73.0553
     },
     {
-        "name": "Arrondissement de Saint-Marc",
+        "name": "Округ Сен-Марк",
         "latitude": 19.0,
         "longitude": -72.5
     },
     {
-        "name": "D\u00e9sarmes",
+        "name": "Дезарм",
         "latitude": 18.99345,
         "longitude": -72.39058
     },
     {
-        "name": "Dessalines",
+        "name": "Дессалин",
         "latitude": 19.26177,
         "longitude": -72.51611
     },
     {
-        "name": "Ennery",
+        "name": "Эннери",
         "latitude": 19.48342,
         "longitude": -72.48537
     },
     {
-        "name": "Gona\u00efves",
+        "name": "Гонаив",
         "latitude": 19.44755,
         "longitude": -72.68928
     },
     {
-        "name": "Grande Saline",
+        "name": "Гранде Салин",
         "latitude": 19.26513,
         "longitude": -72.76897
     },
     {
-        "name": "Gros Morne",
+        "name": "Грос Морн",
         "latitude": 19.6708,
         "longitude": -72.67808
     },
     {
-        "name": "Marmelade",
+        "name": "Мармелад",
         "latitude": 19.51736,
         "longitude": -72.36133
     },
     {
-        "name": "Saint-Marc",
+        "name": "Сен-Марк",
         "latitude": 19.10819,
         "longitude": -72.69379
     },
     {
-        "name": "Verrettes",
+        "name": "Верретты",
         "latitude": 19.0505,
         "longitude": -72.46585
     },
     {
-        "name": "Arrondissement de Cerca La Source",
+        "name": "Округ Серка-ла-Сурс",
         "latitude": 19.11667,
         "longitude": -71.75
     },
     {
-        "name": "Cerca la Source",
+        "name": "Инженер Луиджи",
         "latitude": 19.16696,
         "longitude": -71.79015
     },
     {
-        "name": "Hinche",
+        "name": "Интендент Альвеар",
         "latitude": 19.15,
         "longitude": -72.01667
     },
     {
-        "name": "Lascahobas",
+        "name": "Ласкаобас",
         "latitude": 18.83047,
         "longitude": -71.93563
     },
     {
-        "name": "Mayisad",
+        "name": "Майисад",
         "latitude": 19.17607,
         "longitude": -72.13958
     },
     {
-        "name": "Mirebalais",
+        "name": "Миребале",
         "latitude": 18.83455,
         "longitude": -72.1048
     },
     {
-        "name": "Thomassique",
+        "name": "Томасик",
         "latitude": 19.08209,
         "longitude": -71.83855
     },
     {
-        "name": "Thomonde",
+        "name": "Томонд",
         "latitude": 19.0173,
         "longitude": -71.96235
     },
     {
-        "name": "Anse-\u00e0-Veau",
+        "name": "Анс-а-Во",
         "latitude": 18.5011,
         "longitude": -73.3449
     },
     {
-        "name": "Chambellan",
+        "name": "Шамбеллан",
         "latitude": 18.55037,
         "longitude": -74.31317
     },
     {
-        "name": "Corail",
+        "name": "Кораил",
         "latitude": 18.56766,
         "longitude": -73.88942
     },
     {
-        "name": "Dame-Marie",
+        "name": "Дама-Мари",
         "latitude": 18.56107,
         "longitude": -74.42167
     },
     {
-        "name": "Jeremi",
+        "name": "Джереми",
         "latitude": 18.58333,
         "longitude": -74.2
     },
     {
-        "name": "J\u00e9r\u00e9mie",
+        "name": "Жереми",
         "latitude": 18.65,
         "longitude": -74.11667
     },
     {
-        "name": "Les Abricots",
+        "name": "Ле Абрикосы",
         "latitude": 18.64901,
         "longitude": -74.30786
     },
     {
-        "name": "Les Irois",
+        "name": "Ле Ируа",
         "latitude": 18.4049,
         "longitude": -74.4528
     },
     {
-        "name": "Moron",
+        "name": "Придурок",
         "latitude": 18.56039,
         "longitude": -74.25777
     },
     {
-        "name": "Petite Rivi\u00e8re de Nippes",
+        "name": "Маленький Ривьер-де-Нип",
         "latitude": 18.47611,
         "longitude": -73.23495
     },
     {
-        "name": "Ansavo",
+        "name": "Ансаво",
         "latitude": 18.41667,
         "longitude": -73.5
     },
     {
-        "name": "Barad\u00e8res",
+        "name": "Барадер",
         "latitude": 18.48255,
         "longitude": -73.63884
     },
     {
-        "name": "Mirago\u00e2ne",
+        "name": "Мирагоан",
         "latitude": 18.44599,
         "longitude": -73.08957
     },
     {
-        "name": "Petit Trou de Nippes",
+        "name": "Пти-Тру-де-Ниппес",
         "latitude": 18.52535,
         "longitude": -73.50815
     },
     {
-        "name": "Acul du Nord",
+        "name": "Акуль-дю-Нор",
         "latitude": 19.66667,
         "longitude": -72.28333
     },
     {
-        "name": "Arrondissement de la Grande Rivi\u00e8re du Nord",
+        "name": "Округ Гранд-Ривьер-дю-Нор",
         "latitude": 19.51667,
         "longitude": -72.16667
     },
     {
-        "name": "Arrondissement de Plaisance",
+        "name": "Округ Плезанс",
         "latitude": 19.66756,
         "longitude": -72.54908
     },
     {
-        "name": "Arrondissement du Borgne",
+        "name": "Округ дю Борнь",
         "latitude": 19.75,
         "longitude": -72.5
     },
     {
-        "name": "Bahon",
+        "name": "Бахон",
         "latitude": 19.46959,
         "longitude": -72.11466
     },
     {
-        "name": "Borgne",
+        "name": "Боргне",
         "latitude": 19.84507,
         "longitude": -72.52349
     },
     {
-        "name": "Dondon",
+        "name": "Дондон",
         "latitude": 19.52734,
         "longitude": -72.24337
     },
     {
-        "name": "Grande Rivi\u00e8re du Nord",
+        "name": "Гранд-Ривьер-дю-Нор",
         "latitude": 19.57744,
         "longitude": -72.16872
     },
     {
-        "name": "Lenbe",
+        "name": "Ленбе",
         "latitude": 19.70603,
         "longitude": -72.40336
     },
     {
-        "name": "Limonade",
+        "name": "Лимонад",
         "latitude": 19.67014,
         "longitude": -72.1243
     },
     {
-        "name": "Milot",
+        "name": "Мило",
         "latitude": 19.60837,
         "longitude": -72.21319
     },
     {
-        "name": "Okap",
+        "name": "Окап",
         "latitude": 19.75938,
         "longitude": -72.19815
     },
     {
-        "name": "Pignon",
+        "name": "Пиньон",
         "latitude": 19.33594,
         "longitude": -72.11662
     },
     {
-        "name": "Pilate",
+        "name": "Пилат",
         "latitude": 19.66745,
         "longitude": -72.55229
     },
     {
-        "name": "Plaine du Nord",
+        "name": "Плен-дю-Нор",
         "latitude": 19.67707,
         "longitude": -72.26969
     },
     {
-        "name": "Plaisance",
+        "name": "Плезанс",
         "latitude": 19.59795,
         "longitude": -72.46994
     },
     {
-        "name": "Port-Margot",
+        "name": "Порт-Марго",
         "latitude": 19.7518,
         "longitude": -72.43006
     },
     {
-        "name": "Quartier Morin",
+        "name": "Квартал Морен",
         "latitude": 19.69696,
         "longitude": -72.15712
     },
     {
-        "name": "Ranquitte",
+        "name": "Ранкитт",
         "latitude": 19.41327,
         "longitude": -72.08077
     },
     {
-        "name": "Saint-Rapha\u00ebl",
+        "name": "Сен-Рафаэль",
         "latitude": 19.43877,
         "longitude": -72.1991
     },
     {
-        "name": "Arrondissement de Fort Libert\u00e9",
+        "name": "Округ Форт Либерте",
         "latitude": 19.56667,
         "longitude": -71.83333
     },
     {
-        "name": "Arrondissement du Trou du Nord",
+        "name": "Округ Тру-дю-Нор",
         "latitude": 19.55,
         "longitude": -71.98333
     },
     {
-        "name": "Caracol",
+        "name": "Караколь",
         "latitude": 19.69274,
         "longitude": -72.01733
     },
     {
-        "name": "Carice",
+        "name": "Кэрис",
         "latitude": 19.37795,
         "longitude": -71.8303
     },
     {
-        "name": "D\u00e9rac",
+        "name": "Дерак",
         "latitude": 19.65476,
         "longitude": -71.81451
     },
     {
-        "name": "Ferrier",
+        "name": "Ферье",
         "latitude": 19.61549,
         "longitude": -71.77792
     },
     {
-        "name": "Fort Libert\u00e9",
+        "name": "Форт Либерте",
         "latitude": 19.66273,
         "longitude": -71.83798
     },
     {
-        "name": "Mont\u00f2rganize",
+        "name": "Монтировать",
         "latitude": 19.40815,
         "longitude": -71.78132
     },
     {
-        "name": "Ouanaminthe",
+        "name": "Уанаминте",
         "latitude": 19.54934,
         "longitude": -71.72475
     },
     {
-        "name": "Perches",
+        "name": "Окуни",
         "latitude": 19.52201,
         "longitude": -71.92323
     },
     {
-        "name": "Pha\u00ebton",
+        "name": "Фаэтон",
         "latitude": 19.67525,
         "longitude": -71.89691
     },
     {
-        "name": "Trou du Nord",
+        "name": "Тру-дю-Нор",
         "latitude": 19.61668,
         "longitude": -72.02442
     },
     {
-        "name": "Wanament",
+        "name": "Ванамент",
         "latitude": 19.48333,
         "longitude": -71.76667
     },
     {
-        "name": "Arcahaie",
+        "name": "Аркахайе",
         "latitude": 19.81667,
         "longitude": -72.91667
     },
     {
-        "name": "Arrondissement de Port-de-Paix",
+        "name": "Округ Порт-де-Пе",
         "latitude": 19.83333,
         "longitude": -72.88333
     },
     {
-        "name": "Arrondissement de Saint-Louis du Nord",
+        "name": "Округ Сен-Луи-дю-Нор",
         "latitude": 19.85,
         "longitude": -72.66667
     },
     {
-        "name": "Arrondissement du M\u00f4le Saint-Nicolas",
+        "name": "Округ Моль Сен-Николя",
         "latitude": 19.75,
         "longitude": -73.25
     },
     {
-        "name": "Baie de Henne",
+        "name": "Байе де Хенне",
         "latitude": 19.66307,
         "longitude": -73.20943
     },
     {
-        "name": "Bombardopolis",
+        "name": "Бомбардополис",
         "latitude": 19.69142,
         "longitude": -73.33769
     },
     {
-        "name": "Fond Bassin Bleu",
+        "name": "Фонд Бассен Блю",
         "latitude": 19.79445,
         "longitude": -72.79949
     },
     {
-        "name": "Jean-Rabel",
+        "name": "Жан-Рабель",
         "latitude": 19.85379,
         "longitude": -73.19131
     },
     {
-        "name": "M\u00f4le Saint-Nicolas",
+        "name": "Моль Сен-Николя",
         "latitude": 19.807,
         "longitude": -73.37605
     },
     {
-        "name": "Petite Anse",
+        "name": "Маленький Анс",
         "latitude": 19.63011,
         "longitude": -73.15499
     },
     {
-        "name": "Port-de-Paix",
+        "name": "Порт-де-Пе",
         "latitude": 19.93984,
         "longitude": -72.83037
     },
     {
-        "name": "Saint-Louis du Nord",
+        "name": "Даловице",
         "latitude": 19.93397,
         "longitude": -72.72138
     },
     {
-        "name": "Ti Port-de-Paix",
+        "name": "Ти Порт-де-Пе",
         "latitude": 19.93333,
         "longitude": -72.83333
     },
     {
-        "name": "Anse \u00e0 Galets",
+        "name": "Анс-а-Гале",
         "latitude": 18.83449,
         "longitude": -72.86644
     },
     {
-        "name": "Arcahaie",
+        "name": "Аркахайе",
         "latitude": 18.83333,
         "longitude": -72.41667
     },
     {
-        "name": "Arrondissement de Croix des Bouquets",
+        "name": "Округ Круа-де-Буке",
         "latitude": 18.48333,
         "longitude": -72.01667
     },
     {
-        "name": "Arrondissement de L\u00e9og\u00e2ne",
+        "name": "Округ Леоган",
         "latitude": 18.41667,
         "longitude": -72.75
     },
     {
-        "name": "Arrondissement de Port-au-Prince",
+        "name": "Округ Порт-о-Пренс",
         "latitude": 18.5,
         "longitude": -72.36667
     },
     {
-        "name": "Cabaret",
+        "name": "Кабаре",
         "latitude": 18.73582,
         "longitude": -72.41929
     },
     {
-        "name": "Carrefour",
+        "name": "Карфур",
         "latitude": 18.54114,
         "longitude": -72.39922
     },
     {
-        "name": "Cornillon",
+        "name": "Корнильон",
         "latitude": 18.67546,
         "longitude": -71.95271
     },
     {
-        "name": "Croix-des-Bouquets",
+        "name": "Круа-де-Буке",
         "latitude": 18.57677,
         "longitude": -72.22625
     },
     {
-        "name": "Delmas 73",
+        "name": "Дельмас 73",
         "latitude": 18.54472,
         "longitude": -72.30278
     },
     {
-        "name": "Fond Parisien",
+        "name": "Фонд Парижа",
         "latitude": 18.50547,
         "longitude": -71.98122
     },
     {
-        "name": "Fonds Verrettes",
+        "name": "Фонд Верретт",
         "latitude": 18.39566,
         "longitude": -71.85634
     },
     {
-        "name": "Grangwav",
+        "name": "Грангвав",
         "latitude": 18.4259,
         "longitude": -72.76995
     },
     {
-        "name": "Gressier",
+        "name": "Гресье",
         "latitude": 18.54091,
         "longitude": -72.52679
     },
     {
-        "name": "Kenscoff",
+        "name": "Кенскофф",
         "latitude": 18.44773,
         "longitude": -72.28398
     },
     {
-        "name": "Lagonav",
+        "name": "Лагонав",
         "latitude": 18.85,
         "longitude": -73.05
     },
     {
-        "name": "L\u00e9og\u00e2ne",
+        "name": "Леоган",
         "latitude": 18.5111,
         "longitude": -72.63343
     },
     {
-        "name": "P\u00e9tionville",
+        "name": "Петионвиль",
         "latitude": 18.5125,
         "longitude": -72.28528
     },
     {
-        "name": "Port-au-Prince",
+        "name": "Порт-о-Пренс",
         "latitude": 18.54349,
         "longitude": -72.33881
     },
     {
-        "name": "Thomazeau",
+        "name": "Томазо",
         "latitude": 18.65297,
         "longitude": -72.09391
     },
     {
-        "name": "Tigwav",
+        "name": "Тигвав",
         "latitude": 18.43117,
         "longitude": -72.86521
     },
     {
-        "name": "Aquin",
+        "name": "Аквин",
         "latitude": 18.27974,
         "longitude": -73.39433
     },
     {
-        "name": "Arrondissement de Port-Salut",
+        "name": "Округ Пор-Салю",
         "latitude": 18.13333,
         "longitude": -73.9
     },
     {
-        "name": "Arrondissement des Cayes",
+        "name": "Округ Кайе",
         "latitude": 18.3,
         "longitude": -73.83333
     },
     {
-        "name": "Cavaillon",
+        "name": "Кавайон",
         "latitude": 18.29987,
         "longitude": -73.65455
     },
     {
-        "name": "Chantal",
+        "name": "Шанталь",
         "latitude": 18.20169,
         "longitude": -73.88957
     },
     {
-        "name": "Chardonni\u00e8re",
+        "name": "Шардоньер",
         "latitude": 18.27484,
         "longitude": -74.16613
     },
     {
-        "name": "Fond des Blancs",
+        "name": "Фонд де Блан",
         "latitude": 18.27782,
         "longitude": -73.12733
     },
@@ -540,82 +540,82 @@
         "longitude": -74.04013
     },
     {
-        "name": "Les Anglais",
+        "name": "Ле Угол",
         "latitude": 18.3054,
         "longitude": -74.21968
     },
     {
-        "name": "Les Cayes",
+        "name": "Ле-Ке",
         "latitude": 18.19331,
         "longitude": -73.74601
     },
     {
-        "name": "Port-\u00e0-Piment",
+        "name": "Порт-а-Пиман",
         "latitude": 18.24963,
         "longitude": -74.0971
     },
     {
-        "name": "Roche-\u00e0-Bateau",
+        "name": "Рош-а-Бато",
         "latitude": 18.18182,
         "longitude": -74.00345
     },
     {
-        "name": "Saint-Louis du Sud",
+        "name": "Сен-Луи-дю-Сюд",
         "latitude": 18.26241,
         "longitude": -73.54603
     },
     {
-        "name": "Tiburon",
+        "name": "Тибурон",
         "latitude": 18.32589,
         "longitude": -74.39598
     },
     {
-        "name": "Torbeck",
+        "name": "Торбек",
         "latitude": 18.16338,
         "longitude": -73.80949
     },
     {
-        "name": "Anse-\u00e0-Pitre",
+        "name": "Анс-а-Питр",
         "latitude": 18.05,
         "longitude": -71.75
     },
     {
-        "name": "Arrondissement de Bainet",
+        "name": "Округ Бене",
         "latitude": 18.25,
         "longitude": -72.85
     },
     {
-        "name": "Arrondissement de Jacmel",
+        "name": "Округ Жакмель",
         "latitude": 18.33333,
         "longitude": -72.5
     },
     {
-        "name": "Belle-Anse",
+        "name": "Бель-Анс",
         "latitude": 18.23768,
         "longitude": -72.06638
     },
     {
-        "name": "Cayes-Jacmel",
+        "name": "Кай-Жакмель",
         "latitude": 18.2311,
         "longitude": -72.39545
     },
     {
-        "name": "Jacmel",
+        "name": "Жакмель",
         "latitude": 18.23427,
         "longitude": -72.53539
     },
     {
-        "name": "Kotdef\u00e8",
+        "name": "Котдефе",
         "latitude": 18.18872,
         "longitude": -73.00287
     },
     {
-        "name": "Marigot",
+        "name": "Мариго",
         "latitude": 18.23167,
         "longitude": -72.32289
     },
     {
-        "name": "Thiotte",
+        "name": "Тиотте",
         "latitude": 18.24384,
         "longitude": -71.84157
     }

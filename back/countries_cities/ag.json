@@ -1,46 +1,46 @@
 [
     {
-        "name": "Codrington",
+        "name": "Банско",
         "latitude": 17.63333,
         "longitude": -61.83333
     },
     {
-        "name": "Piggotts",
+        "name": "Пигготтс",
         "latitude": 17.11667,
         "longitude": -61.8
     },
     {
-        "name": "Potters Village",
+        "name": "Деревня Поттеров",
         "latitude": 17.11337,
         "longitude": -61.81962
     },
     {
-        "name": "Saint John\u2019s",
+        "name": "Сент-Джонс",
         "latitude": 17.12096,
         "longitude": -61.84329
     },
     {
-        "name": "Bolands",
+        "name": "Боландс",
         "latitude": 17.06565,
         "longitude": -61.87466
     },
     {
-        "name": "Falmouth",
+        "name": "Фалмут",
         "latitude": 17.02741,
         "longitude": -61.78136
     },
     {
-        "name": "Liberta",
+        "name": "Либерта",
         "latitude": 17.04141,
         "longitude": -61.79052
     },
     {
-        "name": "All Saints",
+        "name": "Все святые",
         "latitude": 17.06671,
         "longitude": -61.79303
     },
     {
-        "name": "Parham",
+        "name": "Парэм",
         "latitude": 17.09682,
         "longitude": -61.77046
     }

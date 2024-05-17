@@ -1,106 +1,106 @@
 [
     {
-        "name": "Alice Town",
+        "name": "Элис Таун",
         "latitude": 25.728,
         "longitude": -79.29721
     },
     {
-        "name": "Arthur\u2019s Town",
+        "name": "Город Артура",
         "latitude": 24.6224,
         "longitude": -75.67151
     },
     {
-        "name": "Marsh Harbour",
+        "name": "Марш-Харбор",
         "latitude": 26.54124,
         "longitude": -77.0636
     },
     {
-        "name": "Colonel Hill",
+        "name": "Полковник Хилл",
         "latitude": 22.7545,
         "longitude": -74.20415
     },
     {
-        "name": "High Rock",
+        "name": "Хай Рок",
         "latitude": 26.60999,
         "longitude": -78.27863
     },
     {
-        "name": "George Town",
+        "name": "Джорджтаун",
         "latitude": 23.51616,
         "longitude": -75.78665
     },
     {
-        "name": "Freeport",
+        "name": "Свободный порт",
         "latitude": 26.53333,
         "longitude": -78.7
     },
     {
-        "name": "Lucaya",
+        "name": "Лукайя",
         "latitude": 26.53333,
         "longitude": -78.66667
     },
     {
-        "name": "Dunmore Town",
+        "name": "Данмор Таун",
         "latitude": 25.50216,
         "longitude": -76.63633
     },
     {
-        "name": "Matthew Town",
+        "name": "Мэтью Таун",
         "latitude": 20.94982,
         "longitude": -73.67346
     },
     {
-        "name": "Clarence Town",
+        "name": "Кларенс Таун",
         "latitude": 23.1,
         "longitude": -74.98333
     },
     {
-        "name": "Abraham\u2019s Bay",
+        "name": "Авраамс Бэй",
         "latitude": 22.36667,
         "longitude": -72.96667
     },
     {
-        "name": "Nassau",
+        "name": "Нассау",
         "latitude": 25.06666667,
         "longitude": -77.33333333
     },
     {
-        "name": "Cooper\u2019s Town",
+        "name": "Куперс Таун",
         "latitude": 26.87137,
         "longitude": -77.51131
     },
     {
-        "name": "Andros Town",
+        "name": "Андрос Таун",
         "latitude": 24.70502,
         "longitude": -77.76912
     },
     {
-        "name": "San Andros",
+        "name": "Сан Андрос",
         "latitude": 25.06667,
         "longitude": -78.05
     },
     {
-        "name": "Duncan Town",
+        "name": "Дункан Таун",
         "latitude": 22.19083,
         "longitude": -75.72583
     },
     {
-        "name": "Port Nelson",
+        "name": "Порт-Нельсон",
         "latitude": 23.64967,
         "longitude": -74.84157
     },
     {
-        "name": "Cockburn Town",
+        "name": "Кокберн Таун",
         "latitude": 24.05179,
         "longitude": -74.53138
     },
     {
-        "name": "Spanish Wells",
+        "name": "Спэниш-Уэллс",
         "latitude": 25.54717,
         "longitude": -76.76405
     },
     {
-        "name": "West End",
+        "name": "Западная часть",
         "latitude": 26.68711,
         "longitude": -78.97702
     }

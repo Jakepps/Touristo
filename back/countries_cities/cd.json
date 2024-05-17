@@ -1,46 +1,46 @@
 [
     {
-        "name": "Aketi",
+        "name": "Акети",
         "latitude": 2.73877,
         "longitude": 23.78326
     },
     {
-        "name": "Bondo",
+        "name": "Бондо",
         "latitude": 3.81461,
         "longitude": 23.68665
     },
     {
-        "name": "Buta",
+        "name": "Бута",
         "latitude": 2.78582,
         "longitude": 24.72997
     },
     {
-        "name": "Gemena",
+        "name": "Гемена",
         "latitude": 3.25651,
         "longitude": 19.77234
     },
     {
-        "name": "Lisala",
+        "name": "Лисала",
         "latitude": 2.15127,
         "longitude": 21.51672
     },
     {
-        "name": "Lukolela",
+        "name": "Луколела",
         "latitude": -1.06046,
         "longitude": 17.1821
     },
     {
-        "name": "Mbandaka",
+        "name": "Мбандака",
         "latitude": 0.04865,
         "longitude": 18.26034
     },
     {
-        "name": "Haut Katanga",
+        "name": "Верхняя Катанга",
         "latitude": -10.46044,
         "longitude": 27.94322
     },
     {
-        "name": "Kambove",
+        "name": "Камбово",
         "latitude": -10.87352,
         "longitude": 26.59746
     },
@@ -50,162 +50,162 @@
         "longitude": 27.25135
     },
     {
-        "name": "Likasi",
+        "name": "Ликаси",
         "latitude": -10.98303,
         "longitude": 26.7384
     },
     {
-        "name": "Lubumbashi",
+        "name": "Лубумбаши",
         "latitude": -11.66089,
         "longitude": 27.47938
     },
     {
-        "name": "Bukama",
+        "name": "Букама",
         "latitude": -9.20443,
         "longitude": 25.85475
     },
     {
-        "name": "Kamina",
+        "name": "Камина",
         "latitude": -8.73508,
         "longitude": 24.99798
     },
     {
-        "name": "Isiro",
+        "name": "Исиро",
         "latitude": 2.77391,
         "longitude": 27.61603
     },
     {
-        "name": "Wamba",
+        "name": "Вамба",
         "latitude": 2.14838,
         "longitude": 27.99466
     },
     {
-        "name": "Watsa",
+        "name": "Ватса",
         "latitude": 3.03716,
         "longitude": 29.53551
     },
     {
-        "name": "Bunia",
+        "name": "Буниа",
         "latitude": 1.55941,
         "longitude": 30.25224
     },
     {
-        "name": "Ilebo",
+        "name": "Илебо",
         "latitude": -4.33111,
         "longitude": 20.58638
     },
     {
-        "name": "Luebo",
+        "name": "Любо",
         "latitude": -5.35218,
         "longitude": 21.42192
     },
     {
-        "name": "Mweka",
+        "name": "Мвека",
         "latitude": -4.85187,
         "longitude": 21.5595
     },
     {
-        "name": "Tshikapa",
+        "name": "Чикапа",
         "latitude": -6.41621,
         "longitude": 20.79995
     },
     {
-        "name": "Gandajika",
+        "name": "Гандаджика",
         "latitude": -6.74504,
         "longitude": 23.95328
     },
     {
-        "name": "Kabinda",
+        "name": "Кабинда",
         "latitude": -6.13791,
         "longitude": 24.48179
     },
     {
-        "name": "Mbuji-Mayi",
+        "name": "Мбуджи-Майи",
         "latitude": -6.13603,
         "longitude": 23.58979
     },
     {
-        "name": "Kinshasa",
+        "name": "Киншаса",
         "latitude": -4.32758,
         "longitude": 15.31357
     },
     {
-        "name": "Masina",
+        "name": "Масина",
         "latitude": -4.38361,
         "longitude": 15.39139
     },
     {
-        "name": "Boma",
+        "name": "Бома",
         "latitude": -5.85098,
         "longitude": 13.05364
     },
     {
-        "name": "Kasangulu",
+        "name": "Касангулу",
         "latitude": -4.5833,
         "longitude": 15.16554
     },
     {
-        "name": "Matadi",
+        "name": "Матади",
         "latitude": -5.83861,
         "longitude": 13.46306
     },
     {
-        "name": "Mbanza-Ngungu",
+        "name": "Мбанза-Нгунгу",
         "latitude": -5.25837,
         "longitude": 14.85838
     },
     {
-        "name": "Moanda",
+        "name": "Моанда",
         "latitude": -5.92753,
         "longitude": 12.37148
     },
     {
-        "name": "Tshela",
+        "name": "Тшела",
         "latitude": -4.99707,
         "longitude": 12.9484
     },
     {
-        "name": "Kasongo-Lunda",
+        "name": "Касонго-Лунда",
         "latitude": -6.47833,
         "longitude": 16.81735
     },
     {
-        "name": "Bandundu",
+        "name": "Бандунду",
         "latitude": -3.31687,
         "longitude": 17.38063
     },
     {
-        "name": "Bulungu",
+        "name": "Булунгу",
         "latitude": -4.54437,
         "longitude": 18.60364
     },
     {
-        "name": "Kikwit",
+        "name": "Киквит",
         "latitude": -5.04098,
         "longitude": 18.81619
     },
     {
-        "name": "Mangai",
+        "name": "Мангай",
         "latitude": -4.02328,
         "longitude": 19.53385
     },
     {
-        "name": "Lubao",
+        "name": "Лубао",
         "latitude": -5.38771,
         "longitude": 25.74885
     },
     {
-        "name": "Mwene-Ditu",
+        "name": "Мвене-Диту",
         "latitude": -7.00906,
         "longitude": 23.45278
     },
     {
-        "name": "Bolobo",
+        "name": "Болобо",
         "latitude": -2.158,
         "longitude": 16.23249
     },
     {
-        "name": "Inongo",
+        "name": "Инонго",
         "latitude": -1.9275,
         "longitude": 18.2881
     },
@@ -215,132 +215,132 @@
         "longitude": 16.92238
     },
     {
-        "name": "Nioki",
+        "name": "Ниоки",
         "latitude": -2.72037,
         "longitude": 17.69001
     },
     {
-        "name": "Kampene",
+        "name": "Кампене",
         "latitude": -3.59678,
         "longitude": 26.66715
     },
     {
-        "name": "Kasongo",
+        "name": "Касонго",
         "latitude": -4.42741,
         "longitude": 26.66656
     },
     {
-        "name": "Kindu",
+        "name": "Кинду",
         "latitude": -2.94373,
         "longitude": 25.92237
     },
     {
-        "name": "Bumba",
+        "name": "Бумба",
         "latitude": 2.18771,
         "longitude": 22.46827
     },
     {
-        "name": "Beni",
+        "name": "Бени",
         "latitude": 0.49113,
         "longitude": 29.47306
     },
     {
-        "name": "Butembo",
+        "name": "Бутембо",
         "latitude": 0.14164,
         "longitude": 29.29117
     },
     {
-        "name": "Goma",
+        "name": "Гома",
         "latitude": -1.67409,
         "longitude": 29.22845
     },
     {
-        "name": "Sake",
+        "name": "Ради",
         "latitude": -1.57386,
         "longitude": 29.04339
     },
     {
-        "name": "Bosobolo",
+        "name": "Бособоло",
         "latitude": 4.1898,
         "longitude": 19.8833
     },
     {
-        "name": "Businga",
+        "name": "Бусинга",
         "latitude": 3.33863,
         "longitude": 20.88577
     },
     {
-        "name": "Gbadolite",
+        "name": "Гбадолите",
         "latitude": 4.279,
         "longitude": 21.00284
     },
     {
-        "name": "Lodja",
+        "name": "Лоджа",
         "latitude": -3.52105,
         "longitude": 23.6005
     },
     {
-        "name": "Lusambo",
+        "name": "Лусамбо",
         "latitude": -4.97503,
         "longitude": 23.44391
     },
     {
-        "name": "Bukavu",
+        "name": "Букаву",
         "latitude": -2.49077,
         "longitude": 28.84281
     },
     {
-        "name": "Kabare",
+        "name": "Кабаре",
         "latitude": -2.49682,
         "longitude": 28.79081
     },
     {
-        "name": "Uvira",
+        "name": "Увира",
         "latitude": -3.39534,
         "longitude": 29.13779
     },
     {
-        "name": "Bongandanga",
+        "name": "Бонганданга",
         "latitude": 1.50695,
         "longitude": 21.0726
     },
     {
-        "name": "Libenge",
+        "name": "Либенге",
         "latitude": 3.65332,
         "longitude": 18.63566
     },
     {
-        "name": "Kabalo",
+        "name": "Кабало",
         "latitude": -6.05255,
         "longitude": 26.9143
     },
     {
-        "name": "Kalemie",
+        "name": "Калемие",
         "latitude": -5.94749,
         "longitude": 29.19471
     },
     {
-        "name": "Kongolo",
+        "name": "Конголо",
         "latitude": -5.38532,
         "longitude": 27.00029
     },
     {
-        "name": "Basoko",
+        "name": "Басоко",
         "latitude": 1.23909,
         "longitude": 23.61598
     },
     {
-        "name": "Kisangani",
+        "name": "Кисангани",
         "latitude": 0.51528,
         "longitude": 25.19099
     },
     {
-        "name": "Yangambi",
+        "name": "Янгамби",
         "latitude": 0.76755,
         "longitude": 24.43973
     },
     {
-        "name": "Boende",
+        "name": "Боэнде",
         "latitude": -0.28163,
         "longitude": 20.88053
     }

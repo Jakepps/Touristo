@@ -1,406 +1,406 @@
 [
     {
-        "name": "Eot Municipality",
+        "name": "Муниципалитет Эот",
         "latitude": 7.3854,
         "longitude": 151.7392
     },
     {
-        "name": "Ettal Municipality",
+        "name": "Муниципалитет Этталь",
         "latitude": 5.592,
         "longitude": 153.56
     },
     {
-        "name": "Fananu Municipality",
+        "name": "Муниципалитет Фанану",
         "latitude": 8.55811,
         "longitude": 151.90822
     },
     {
-        "name": "Fanapanges Municipality",
+        "name": "Муниципалитет Фанапангес",
         "latitude": 7.353,
         "longitude": 151.6676
     },
     {
-        "name": "Fefen Municipality",
+        "name": "Муниципалитет Фефен",
         "latitude": 7.353,
         "longitude": 151.831
     },
     {
-        "name": "Fonoton Municipality",
+        "name": "Муниципалитет Фонотон",
         "latitude": 7.486,
         "longitude": 151.8794
     },
     {
-        "name": "Houk Municipality",
+        "name": "Муниципалитет Хук",
         "latitude": 6.683,
         "longitude": 149.3
     },
     {
-        "name": "Kuttu Municipality",
+        "name": "Муниципалитет Кутту",
         "latitude": 5.453,
         "longitude": 153.456
     },
     {
-        "name": "Lekinioch Municipality",
+        "name": "Муниципалитет Лекиниох",
         "latitude": 5.507,
         "longitude": 153.819
     },
     {
-        "name": "Losap Municipality",
+        "name": "Муниципалитет Лосап",
         "latitude": 6.894,
         "longitude": 152.739
     },
     {
-        "name": "Makur Municipality",
+        "name": "Муниципалитет Макур",
         "latitude": 8.985,
         "longitude": 150.126
     },
     {
-        "name": "Moch Municipality",
+        "name": "Муниципалитет Мох",
         "latitude": 5.4918,
         "longitude": 153.5385
     },
     {
-        "name": "Murilo",
+        "name": "Мурило",
         "latitude": 8.69242,
         "longitude": 152.33934
     },
     {
-        "name": "Murilo Municipality",
+        "name": "Муниципалитет Мурило",
         "latitude": 8.692,
         "longitude": 152.342
     },
     {
-        "name": "Namoluk Municipality",
+        "name": "Муниципалитет Намолук",
         "latitude": 5.915,
         "longitude": 153.136
     },
     {
-        "name": "Nema",
+        "name": "Нема",
         "latitude": 6.98922,
         "longitude": 152.57377
     },
     {
-        "name": "Nema Municipality",
+        "name": "Сан-Антонио-Оэсте",
         "latitude": 6.993,
         "longitude": 152.574
     },
     {
-        "name": "Nomwin Municipality",
+        "name": "Муниципалитет Номвин",
         "latitude": 8.43,
         "longitude": 151.745
     },
     {
-        "name": "Oneop Municipality",
+        "name": "Муниципалитет Онеоп",
         "latitude": 5.5066,
         "longitude": 153.709
     },
     {
-        "name": "Onou Municipality",
+        "name": "Муниципалитет Оноу",
         "latitude": 8.799,
         "longitude": 150.29
     },
     {
-        "name": "Onoun Municipality",
+        "name": "Муниципалитет Онун",
         "latitude": 8.575,
         "longitude": 149.6855
     },
     {
-        "name": "Paata-Tupunion Municipality",
+        "name": "Муниципалитет Паата-Тупунион",
         "latitude": 7.376,
         "longitude": 151.583
     },
     {
-        "name": "Parem Municipality",
+        "name": "Муниципалитет Парем",
         "latitude": 7.362,
         "longitude": 151.789
     },
     {
-        "name": "Piherarh Municipality",
+        "name": "Муниципалитет Пихерарх",
         "latitude": 8.569,
         "longitude": 150.418
     },
     {
-        "name": "Piis-Emwar Municipality",
+        "name": "Муниципалитет Пийс-Эмвар",
         "latitude": 6.834,
         "longitude": 152.7
     },
     {
-        "name": "Piis-Panewu Municipality",
+        "name": "Муниципалитет Пийс-Паневу",
         "latitude": 7.678,
         "longitude": 151.7634
     },
     {
-        "name": "Pollap Municipality",
+        "name": "Муниципалитет Поллап",
         "latitude": 7.63971,
         "longitude": 149.43011
     },
     {
-        "name": "Polowat Municipality",
+        "name": "Половатский муниципалитет",
         "latitude": 7.355,
         "longitude": 149.182
     },
     {
-        "name": "Pwene Municipality",
+        "name": "Муниципалитет Пвене",
         "latitude": 7.337,
         "longitude": 151.584
     },
     {
-        "name": "Ramanum Municipality",
+        "name": "Муниципалитет Раманум",
         "latitude": 7.4135,
         "longitude": 151.6646
     },
     {
-        "name": "Ruo Municipality",
+        "name": "Муниципалитет Руо",
         "latitude": 8.609,
         "longitude": 152.244
     },
     {
-        "name": "Satowan Municipality",
+        "name": "Муниципалитет Сатован",
         "latitude": 5.334,
         "longitude": 153.7365
     },
     {
-        "name": "Siis Municipality",
+        "name": "Муниципалитет Сийс",
         "latitude": 7.295,
         "longitude": 151.8246
     },
     {
-        "name": "Ta Municipality",
+        "name": "Муниципалитет Та",
         "latitude": 5.2842,
         "longitude": 153.6465
     },
     {
-        "name": "Tamatam Municipality",
+        "name": "Муниципалитет Таматам",
         "latitude": 7.53898,
         "longitude": 149.41175
     },
     {
-        "name": "Tolensom Municipality",
+        "name": "Муниципалитет Толенсом",
         "latitude": 7.333,
         "longitude": 151.623
     },
     {
-        "name": "Tonoas Municipality",
+        "name": "Муниципалитет Тоноас",
         "latitude": 7.381,
         "longitude": 151.89
     },
     {
-        "name": "Udot-Fonuweisom Municipality",
+        "name": "Муниципалитет Удот-Фонувейсом",
         "latitude": 7.389,
         "longitude": 151.708
     },
     {
-        "name": "Uman-Fonuweisom Municipality",
+        "name": "Умань-Фонувейсомский муниципалитет",
         "latitude": 7.299,
         "longitude": 151.877
     },
     {
-        "name": "Unanu Municipality",
+        "name": "Муниципалитет Унану",
         "latitude": 8.75,
         "longitude": 150.3395
     },
     {
-        "name": "Weno",
+        "name": "Мы не",
         "latitude": 7.44648,
         "longitude": 151.84135
     },
     {
-        "name": "Weno Municipality",
+        "name": "Муниципалитет Вено",
         "latitude": 7.44,
         "longitude": 151.881
     },
     {
-        "name": "Wonei Municipality",
+        "name": "Муниципалитет Воней",
         "latitude": 7.387,
         "longitude": 151.601
     },
     {
-        "name": "Lelu Municipality",
+        "name": "Муниципалитет Лелу",
         "latitude": 5.34865,
         "longitude": 163.01917
     },
     {
-        "name": "Malem Municipality",
+        "name": "Муниципалитет Малем",
         "latitude": 5.27507,
         "longitude": 163.01685
     },
     {
-        "name": "Tafunsak Municipality",
+        "name": "Муниципалитет Тафунсак",
         "latitude": 5.34993,
         "longitude": 162.96965
     },
     {
-        "name": "Tofol",
+        "name": "Тофол",
         "latitude": 5.32479,
         "longitude": 163.00781
     },
     {
-        "name": "Utwe Municipality",
+        "name": "Муниципалитет Утве",
         "latitude": 5.27511,
         "longitude": 162.95617
     },
     {
-        "name": "Kitti Municipality",
+        "name": "Муниципалитет Китти",
         "latitude": 6.8249,
         "longitude": 158.16081
     },
     {
-        "name": "Kolonia",
+        "name": "Колония",
         "latitude": 6.964,
         "longitude": 158.2062
     },
     {
-        "name": "Kolonia Municipality",
+        "name": "Муниципалитет Колония",
         "latitude": 6.964,
         "longitude": 158.2058
     },
     {
-        "name": "Kolonia Town",
+        "name": "Колония город",
         "latitude": 6.964,
         "longitude": 158.206
     },
     {
-        "name": "Madolenihm Municipality",
+        "name": "Муниципалитет Мадоленим",
         "latitude": 6.86759,
         "longitude": 158.31277
     },
     {
-        "name": "Mokil Municipality",
+        "name": "Мокильский муниципалитет",
         "latitude": 6.68916,
         "longitude": 159.7661
     },
     {
-        "name": "Nett Municipality",
+        "name": "Муниципалитет Нетт",
         "latitude": 6.95152,
         "longitude": 158.22437
     },
     {
-        "name": "Ngatik",
+        "name": "Нгатик",
         "latitude": 5.78849,
         "longitude": 157.15954
     },
     {
-        "name": "Nukuoro Municipality",
+        "name": "Муниципалитет Нукуоро",
         "latitude": 3.841,
         "longitude": 154.93
     },
     {
-        "name": "Palikir - National Government Center",
+        "name": "Паликир - Национальный правительственный центр",
         "latitude": 6.92477,
         "longitude": 158.16109
     },
     {
-        "name": "Pingelap Municipality",
+        "name": "Муниципалитет Пингелап",
         "latitude": 6.20908,
         "longitude": 160.71033
     },
     {
-        "name": "Sapwuahfik Municipality",
+        "name": "Муниципалитет Сапвуахфик",
         "latitude": 5.815,
         "longitude": 157.28
     },
     {
-        "name": "Sokehs Municipality",
+        "name": "Муниципалитет Сокес",
         "latitude": 6.93273,
         "longitude": 158.1427
     },
     {
-        "name": "U Municipality",
+        "name": "У Муниципалитет",
         "latitude": 6.94972,
         "longitude": 158.27361
     },
     {
-        "name": "Colonia",
+        "name": "Колония",
         "latitude": 9.51638,
         "longitude": 138.12167
     },
     {
-        "name": "Dalipebinaw Municipality",
+        "name": "Муниципалитет Далипебинав",
         "latitude": 9.52229,
         "longitude": 138.0854
     },
     {
-        "name": "Fais",
+        "name": "Фейс",
         "latitude": 9.766,
         "longitude": 140.52
     },
     {
-        "name": "Fais Municipality",
+        "name": "Муниципалитет Фаис",
         "latitude": 9.766,
         "longitude": 140.519
     },
     {
-        "name": "Fanif Municipality",
+        "name": "Муниципалитет Фаниф",
         "latitude": 9.56056,
         "longitude": 138.11333
     },
     {
-        "name": "Faraulep Municipality",
+        "name": "Муниципалитет Фараулеп",
         "latitude": 8.588,
         "longitude": 144.5065
     },
     {
-        "name": "Gagil Municipality",
+        "name": "Гагильский муниципалитет",
         "latitude": 9.54722,
         "longitude": 138.19028
     },
     {
-        "name": "Gilman Municipality",
+        "name": "Муниципалитет Гилмана",
         "latitude": 9.44611,
         "longitude": 138.06389
     },
     {
-        "name": "Kanifay Municipality",
+        "name": "Муниципалитет Канифай",
         "latitude": 9.46735,
         "longitude": 138.05935
     },
     {
-        "name": "Lamotrek Municipality",
+        "name": "Муниципалитет Ламотрек",
         "latitude": 7.491,
         "longitude": 146.303
     },
     {
-        "name": "Maap Municipality",
+        "name": "Муниципалитет Маап",
         "latitude": 9.58975,
         "longitude": 138.17119
     },
     {
-        "name": "Ngulu Municipality",
+        "name": "Муниципалитет Нгулу",
         "latitude": 8.45,
         "longitude": 137.481
     },
     {
-        "name": "Rull Municipality",
+        "name": "Муниципалитет Рулль",
         "latitude": 9.50773,
         "longitude": 138.1154
     },
     {
-        "name": "Rumung Municipality",
+        "name": "Муниципалитет Румунг",
         "latitude": 9.62428,
         "longitude": 138.15745
     },
     {
-        "name": "Satawal Municipality",
+        "name": "Муниципалитет Сатавал",
         "latitude": 7.382,
         "longitude": 147.0318
     },
     {
-        "name": "Tomil Municipality",
+        "name": "Томильский муниципалитет",
         "latitude": 9.52517,
         "longitude": 138.15488
     },
     {
-        "name": "Ulithi Municipality",
+        "name": "Муниципалитет Улити",
         "latitude": 9.9,
         "longitude": 139.6
     },
     {
-        "name": "Weloy Municipality",
+        "name": "Муниципалитет Велой",
         "latitude": 9.52712,
         "longitude": 138.11909
     },
     {
-        "name": "Woleai Municipality",
+        "name": "Муниципалитет Волеай",
         "latitude": 7.345,
         "longitude": 143.857
     }

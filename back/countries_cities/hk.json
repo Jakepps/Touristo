@@ -1,21 +1,21 @@
 [
     {
-        "name": "Admiralty",
+        "name": "Адмиралтейство",
         "latitude": 22.278,
         "longitude": 114.164
     },
     {
-        "name": "Central",
+        "name": "Централ",
         "latitude": 22.281,
         "longitude": 114.159
     },
     {
-        "name": "Tai O",
+        "name": "Тай О",
         "latitude": 22.247,
         "longitude": 113.869
     },
     {
-        "name": "Kowloon Tong",
+        "name": "Коулун Тонг",
         "latitude": 22.337,
         "longitude": 114.179
     },
@@ -25,7 +25,7 @@
         "longitude": 114.225
     },
     {
-        "name": "Lam Tin",
+        "name": "Лам Тин",
         "latitude": 22.307,
         "longitude": 114.235
     },
@@ -35,52 +35,52 @@
         "longitude": 114.123
     },
     {
-        "name": "Sai Kung",
+        "name": "Сай Кунг",
         "latitude": 22.384,
         "longitude": 114.273
     },
     {
-        "name": "Tseung Kwan O",
+        "name": "Цеунг Кван О",
         "latitude": 22.319,
         "longitude": 114.263
     },
     {
-        "name": "Ma On Shan",
+        "name": "Ма Он Шань",
         "latitude": 22.422,
         "longitude": 114.23
     },
     {
-        "name": "Sha Tin",
+        "name": "Ша Тин",
         "latitude": 22.383,
         "longitude": 114.188
     },
     {
-        "name": "Sha Tin Wai",
+        "name": "Ша Тин Вай",
         "latitude": 22.38,
         "longitude": 114.191
     },
     {
-        "name": "Cheung Sha Wan",
+        "name": "Юиу",
         "latitude": 22.336,
         "longitude": 114.151
     },
     {
-        "name": "Lai Chi Kok",
+        "name": "Лай Чи Кок",
         "latitude": 22.337,
         "longitude": 114.146
     },
     {
-        "name": "Aberdeen",
+        "name": "Абердин",
         "latitude": 22.247,
         "longitude": 114.152
     },
     {
-        "name": "Stanley",
+        "name": "Стэнли",
         "latitude": 22.22,
         "longitude": 114.214
     },
     {
-        "name": "Stanley Peninsula",
+        "name": "Полуостров Стэнли",
         "latitude": 22.21,
         "longitude": 114.217
     },
@@ -90,7 +90,7 @@
         "longitude": 114.184
     },
     {
-        "name": "Tai Po",
+        "name": "Тай По",
         "latitude": 22.449,
         "longitude": 114.16
     },
@@ -100,12 +100,12 @@
         "longitude": 114.114
     },
     {
-        "name": "Tuen Mun\t",
+        "name": "Туен Мун",
         "latitude": 22.395,
         "longitude": 113.973
     },
     {
-        "name": "Causeway Bay",
+        "name": "Козуэй Бэй",
         "latitude": 22.28,
         "longitude": 114.185
     },
@@ -115,17 +115,17 @@
         "longitude": 114.182
     },
     {
-        "name": "Wong Tai Sin",
+        "name": "Вонг Тай Син",
         "latitude": 22.341,
         "longitude": 114.193
     },
     {
-        "name": "Mong Kok",
+        "name": "Монг Кок",
         "latitude": 22.319,
         "longitude": 114.169
     },
     {
-        "name": "Tsim Sha Tsui",
+        "name": "Цим Ша Цуй",
         "latitude": 22.298,
         "longitude": 114.172
     },

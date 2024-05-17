@@ -1,121 +1,121 @@
 [
     {
-        "name": "Sal Rei",
+        "name": "Сал Рей",
         "latitude": 16.17611,
         "longitude": -22.91722
     },
     {
-        "name": "Nova Sintra",
+        "name": "Новая Синтра",
         "latitude": 14.87139,
         "longitude": -24.69556
     },
     {
-        "name": "Vila do Maio",
+        "name": "Вила-ду-Майо",
         "latitude": 15.13823,
         "longitude": -23.21158
     },
     {
-        "name": "Igreja",
+        "name": "Играя",
         "latitude": 15.03389,
         "longitude": -24.325
     },
     {
-        "name": "Pombas",
+        "name": "Помбас",
         "latitude": 17.15026,
         "longitude": -25.02007
     },
     {
-        "name": "Porto Novo",
+        "name": "Порто-Ново",
         "latitude": 17.01969,
         "longitude": -25.06471
     },
     {
-        "name": "Praia",
+        "name": "Прая",
         "latitude": 14.93152,
         "longitude": -23.51254
     },
     {
-        "name": "Ribeira Brava",
+        "name": "Рибейра Брава",
         "latitude": 16.61583,
         "longitude": -24.29833
     },
     {
-        "name": "Ponta do Sol",
+        "name": "Понта-ду-Соль",
         "latitude": 17.20171,
         "longitude": -25.09217
     },
     {
-        "name": "Ribeira Grande",
+        "name": "Рибейра Гранде",
         "latitude": 17.1825,
         "longitude": -25.065
     },
     {
-        "name": "Cidade Velha",
+        "name": "Сидаде-Велья",
         "latitude": 14.91531,
         "longitude": -23.60527
     },
     {
-        "name": "Espargos",
+        "name": "Эспаргос",
         "latitude": 16.75524,
         "longitude": -22.9446
     },
     {
-        "name": "Santa Maria",
+        "name": "Санта Мария",
         "latitude": 16.59796,
         "longitude": -22.90509
     },
     {
-        "name": "Assomada",
+        "name": "Ассомада",
         "latitude": 15.1,
         "longitude": -23.68333
     },
     {
-        "name": "Cova Figueira",
+        "name": "Кова Фигейра",
         "latitude": 14.89054,
         "longitude": -24.29343
     },
     {
-        "name": "Pedra Badejo",
+        "name": "Педра Бадехо",
         "latitude": 15.1375,
         "longitude": -23.53083
     },
     {
-        "name": "Santa Cruz",
+        "name": "Санта Круз",
         "latitude": 15.13333,
         "longitude": -23.56667
     },
     {
-        "name": "S\u00e3o Domingos",
+        "name": "Сан-Домингуш",
         "latitude": 15.02438,
         "longitude": -23.5625
     },
     {
-        "name": "S\u00e3o Filipe",
+        "name": "Сан-Филипи",
         "latitude": 14.8961,
         "longitude": -24.49556
     },
     {
-        "name": "Jo\u00e3o Teves",
+        "name": "Жоау Тевес",
         "latitude": 15.06694,
         "longitude": -23.58917
     },
     {
-        "name": "Calheta",
+        "name": "Кальета",
         "latitude": 15.18613,
         "longitude": -23.59228
     },
     {
-        "name": "Mindelo",
+        "name": "Минделу",
         "latitude": 16.89014,
         "longitude": -24.98042
     },
     {
-        "name": "Tarrafal",
+        "name": "Таррафал",
         "latitude": 15.27881,
         "longitude": -23.75192
     },
     {
-        "name": "Tarrafal de S\u00e3o Nicolau",
+        "name": "Таррафал де Сан-Николау",
         "latitude": 16.56622,
         "longitude": -24.35793
     }
