@@ -2,15 +2,16 @@ import json
 import os
 import jwt
 import datetime
-from flask import Flask, jsonify, send_from_directory, request
+from flask import Flask, jsonify, send_from_directory, request, send_file
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from werkzeug.utils import secure_filename
+import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///database_touristo.db'
-app.config['UPLOAD_FOLDER']='files/images_user'
+app.config['UPLOAD_FOLDER'] = 'files/images_user'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
 
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
@@ -243,17 +244,44 @@ def remove_from_favorites(user_id, country_code):
     else:
         return jsonify({"error": "Favorite not found"}), 404
 
-@app.route('/api/flows/<line>/<country_id>', methods=['GET'])
-def get_arrivals_data(line, country_id):
-    file_path = f'foreign_data/{line}/{country_id}.json'
+@app.route('/api/flows/arrivals/<country_code>', methods=['GET'])
+def get_arrivals_data(country_code):
+    file_path = f'flows/arrivals/{country_code}.json'
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             arrivals_data = json.load(file)
-            return jsonify(arrivals_data), 200
+            plot_path = generate_arrivals_plot(arrivals_data, country_code)
+            return send_file(plot_path, mimetype='image/png')
     else:
-        return jsonify({'error': f'Arrival data for the country with the ID {country_id} was not found'}), 404
+        return jsonify({'error': f'Arrival data for the country with the ID {country_code} was not found'}), 404
+
+def generate_arrivals_plot(data, country_code):
+    years = list(range(1995, 2022))
+    total_arrivals = [data['Total'].get(str(year), 0) or 0 for year in years]
+    overnight_visitors = [data['Overnights visitors (tourists)'].get(str(year), 0) or 0 for year in years]
+    same_day_visitors = [data['Same-day visitors (excursionists)'].get(str(year), 0) or 0 for year in years]
+    cruise_passengers = [data['of which, cruise passengers'].get(str(year), 0) or 0 for year in years]
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(years, total_arrivals, label='Общее количество прибывших')
+    plt.plot(years, overnight_visitors, label='Ночующие посетители (туристы)')
+    plt.plot(years, same_day_visitors, label='Посетители в тот же день (экскурсанты)')
+    plt.plot(years, cruise_passengers, label='Пассажиры круизных лайнеров')
+
+    plt.xlabel('Год')
+    plt.ylabel('Количество посетителей')
+    plt.title(f'Количество посетителей в {country_code}')
+    plt.legend()
+    plt.grid(True)
+
+    plot_path = f'temporary_plots/{country_code}_arrivals.png'
+    plt.savefig(plot_path)
+    plt.close()
+    return plot_path
 
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
+    if not os.path.exists('temporary_plots'):
+        os.makedirs('temporary_plots')
     app.run(debug=True)
