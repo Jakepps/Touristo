@@ -339,7 +339,7 @@ def generate_arrivals_plot(data, country_code):
 
     plot_path = f'temporary_plots/{country_code}_arrivals.png'
     plt.savefig(plot_path)
-    plt.close()
+    ##plt.close()
     return plot_path
   
 def generate_employment_plot(data, country_code):
@@ -369,7 +369,7 @@ def generate_employment_plot(data, country_code):
 
     plot_path = f'temporary_plots/{country_code}_employment.png'
     plt.savefig(plot_path)
-    plt.close()
+    #plt.close()
     return plot_path
 
 def generate_tourismInd_plot(data, country_code):
@@ -399,7 +399,7 @@ def generate_tourismInd_plot(data, country_code):
 
     plot_path = f'temporary_plots/{country_code}_tourism_ind.png'
     plt.savefig(plot_path)
-    plt.close()
+    #plt.close()
     return plot_path
 
 def generate_travel_plot(data, country_code):
@@ -423,7 +423,7 @@ def generate_travel_plot(data, country_code):
 
     plot_path = f'temporary_plots/{country_code}_transport.png'
     plt.savefig(plot_path)
-    plt.close()
+    #plt.close()
     return plot_path
 
 if __name__ == '__main__':
