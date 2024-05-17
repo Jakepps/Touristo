@@ -382,6 +382,48 @@ def generate_tourismInd_plot(data, country_code):
     plt.close()
     return plot_path
 
+def load_travel_data(country_code):
+    file_path = f'flows/transport/{country_code}.json'
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            travel_data = json.load(file)
+            return travel_data
+    else:
+        return None
+
+@app.route('/api/flows/transport/<country_code>', methods=['GET'])
+def get_travel_data(country_code):
+    travel_data = load_travel_data(country_code)
+    if travel_data:
+        plot_path = generate_travel_plot(travel_data, country_code)
+        return send_file(plot_path, mimetype='image/png')
+    else:
+        return jsonify({'error': f'Travel data for the country with the code {country_code} was not found'}), 404
+
+def generate_travel_plot(data, country_code):
+    years = list(range(1995, 2022))
+    total = [data['Total'].get(str(year), 0) or 0 for year in years]
+    air = [data['Air'].get(str(year), 0) or 0 for year in years]
+    water = [data['Water'].get(str(year), 0) or 0 for year in years]
+    land = [data['Land'].get(str(year), 0) or 0 for year in years]
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(years, total, label='Общее')
+    plt.plot(years, air, label='По воздуху')
+    plt.plot(years, water, label='По воде')
+    plt.plot(years, land, label='По суше')
+
+    plt.xlabel('Год')
+    plt.ylabel('Количество путешественников')
+    plt.title(f'Количество пассажиров, путешествующих разными видами транспорта для {country_code}')
+    plt.legend()
+    plt.grid(True)
+
+    plot_path = f'temporary_plots/{country_code}_transport.png'
+    plt.savefig(plot_path)
+    plt.close()
+    return plot_path
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
