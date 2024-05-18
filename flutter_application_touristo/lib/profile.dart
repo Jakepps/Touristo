@@ -64,14 +64,25 @@ class ProfileScreen extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.center,
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
-                        CircleAvatar(
-                          radius: 60,
-                          backgroundImage: authProvider.imageUrl != null &&
-                                  authProvider.imageUrl!.isNotEmpty
-                              ? NetworkImage(
-                                  'http://10.0.2.2:5000${authProvider.imageUrl}')
-                              : const AssetImage('assets/images/user_photo.jpg')
-                                  as ImageProvider,
+                        Container(
+                          padding: const EdgeInsets.all(2.0),
+                          decoration: BoxDecoration(
+                            shape: BoxShape.circle,
+                            border: Border.all(
+                              color: Colors.black,
+                              width: 5.0,
+                            ),
+                          ),
+                          child: CircleAvatar(
+                            radius: 70,
+                            backgroundImage: authProvider.imageUrl != null &&
+                                    authProvider.imageUrl!.isNotEmpty
+                                ? NetworkImage(
+                                    'http://10.0.2.2:5000${authProvider.imageUrl}')
+                                : const AssetImage(
+                                        'assets/images/user_photo.jpg')
+                                    as ImageProvider,
+                          ),
                         ),
                         const SizedBox(height: 20),
                         Text(
