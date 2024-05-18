@@ -4,7 +4,7 @@ import 'package:photo_view/photo_view.dart';
 
 class TouristFlowScreen extends StatelessWidget {
   final String countryCode;
-  final String url = 'http://10.0.2.2:5000';
+  final String url = 'http://127.0.0.1:5000';
 
   const TouristFlowScreen({super.key, required this.countryCode});
 
