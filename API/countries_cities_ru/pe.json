@@ -1,2416 +1,2416 @@
 [
     {
-        "name": "Большой Багуа",
+        "name": "Bagua Grande",
         "latitude": -5.75611,
         "longitude": -78.44111
     },
     {
-        "name": "Кахаруро",
+        "name": "Cajaruro",
         "latitude": -5.73639,
         "longitude": -78.42556
     },
     {
-        "name": "Чачапояс",
+        "name": "Chachapoyas",
         "latitude": -6.23169,
         "longitude": -77.86903
     },
     {
-        "name": "соболезновать",
+        "name": "Condorcanqui",
         "latitude": -4.16515,
         "longitude": -78.0384
     },
     {
-        "name": "Веснушка",
+        "name": "La Peca",
         "latitude": -5.61111,
         "longitude": -78.435
     },
     {
-        "name": "Провинция Багуа",
+        "name": "Provincia de Bagua",
         "latitude": -5.09006,
         "longitude": -78.39972
     },
     {
-        "name": "Провинция Бонгара",
+        "name": "Provincia de Bongar\u00e1",
         "latitude": -5.68341,
         "longitude": -77.87308
     },
     {
-        "name": "Провинция Чачапояс",
+        "name": "Provincia de Chachapoyas",
         "latitude": -6.2748,
         "longitude": -77.81067
     },
     {
-        "name": "Провинция Луя",
+        "name": "Provincia de Luya",
         "latitude": -6.41667,
         "longitude": -78.0
     },
     {
-        "name": "Провинция Родригес де Мендоса",
+        "name": "Provincia de Rodr\u00edguez de Mendoza",
         "latitude": -6.33333,
         "longitude": -77.41667
     },
     {
-        "name": "Уткубамба",
+        "name": "Utcubamba",
         "latitude": -5.77031,
         "longitude": -78.3285
     },
     {
-        "name": "Асунсьон",
+        "name": "Asuncion",
         "latitude": -9.18987,
         "longitude": -77.39878
     },
     {
-        "name": "Лица",
+        "name": "Car\u00e1s",
         "latitude": -9.04692,
         "longitude": -77.80901
     },
     {
-        "name": "Каруас",
+        "name": "Carhuaz",
         "latitude": -9.28194,
         "longitude": -77.64472
     },
     {
-        "name": "Карлос Фермин Фицкарральд",
+        "name": "Carlos Fermin Fitzcarrald",
         "latitude": -9.04415,
         "longitude": -77.24168
     },
     {
-        "name": "Чимботе",
+        "name": "Chimbote",
         "latitude": -9.08528,
         "longitude": -78.57833
     },
     {
-        "name": "Койшко",
+        "name": "Coishco",
         "latitude": -9.02306,
         "longitude": -78.61556
     },
     {
-        "name": "Уарас",
+        "name": "Huaraz",
         "latitude": -9.52779,
         "longitude": -77.52778
     },
     {
-        "name": "Хуарми",
+        "name": "Huarmey",
         "latitude": -10.06806,
         "longitude": -78.15222
     },
     {
-        "name": "Помабамба",
+        "name": "Pomabamba",
         "latitude": -8.83333,
         "longitude": -77.46667
     },
     {
-        "name": "Провинция Айя",
+        "name": "Provincia de Aija",
         "latitude": -9.83333,
         "longitude": -77.66667
     },
     {
-        "name": "Провинция Антонио Раймонди",
+        "name": "Provincia de Antonio Raymondi",
         "latitude": -9.08333,
         "longitude": -77.08333
     },
     {
-        "name": "Провинция Болоньези",
+        "name": "Provincia de Bolognesi",
         "latitude": -10.10723,
         "longitude": -77.14804
     },
     {
-        "name": "Провинция Каруас",
+        "name": "Provincia de Carhuaz",
         "latitude": -9.317,
         "longitude": -77.551
     },
     {
-        "name": "Провинция Касма",
+        "name": "Provincia de Casma",
         "latitude": -9.47638,
         "longitude": -78.24738
     },
     {
-        "name": "Провинция Коронго",
+        "name": "Provincia de Corongo",
         "latitude": -8.58333,
         "longitude": -77.91667
     },
     {
-        "name": "Провинция Уарас",
+        "name": "Provincia de Huaraz",
         "latitude": -9.56109,
         "longitude": -77.64605
     },
     {
-        "name": "Провинция Уари",
+        "name": "Provincia de Huari",
         "latitude": -9.33333,
         "longitude": -77.16667
     },
     {
-        "name": "Провинция Уармей",
+        "name": "Provincia de Huarmey",
         "latitude": -9.91667,
         "longitude": -78.0
     },
     {
-        "name": "Провинция Уайлас",
+        "name": "Provincia de Huaylas",
         "latitude": -8.91667,
         "longitude": -77.83333
     },
     {
-        "name": "Провинция Маршал Лузуриага",
+        "name": "Provincia de Mariscal Luzuriaga",
         "latitude": -8.83333,
         "longitude": -77.25
     },
     {
-        "name": "Провинция Палласка",
+        "name": "Provincia de Pallasca",
         "latitude": -8.33333,
         "longitude": -77.91667
     },
     {
-        "name": "Провинция Помабамба",
+        "name": "Provincia de Pomabamba",
         "latitude": -8.82311,
         "longitude": -77.47559
     },
     {
-        "name": "Провинция Рекуай",
+        "name": "Provincia de Recuay",
         "latitude": -10.0,
         "longitude": -77.41667
     },
     {
-        "name": "Провинция Санта",
+        "name": "Provincia de Santa",
         "latitude": -9.0,
         "longitude": -78.25
     },
     {
-        "name": "Провинция Сихуас",
+        "name": "Provincia de Sihuas",
         "latitude": -8.5,
         "longitude": -77.5
     },
     {
-        "name": "Провинция Юнгай",
+        "name": "Provincia de Yungay",
         "latitude": -9.16667,
         "longitude": -77.75
     },
     {
-        "name": "Пуэрто-Санта",
+        "name": "Puerto Santa",
         "latitude": -8.98772,
         "longitude": -78.64727
     },
     {
-        "name": "Оно пришло",
+        "name": "Yauya",
         "latitude": -8.98333,
         "longitude": -77.3
     },
     {
-        "name": "Юнгай",
+        "name": "Yungay",
         "latitude": -9.13833,
         "longitude": -77.74361
     },
     {
-        "name": "Абанкай",
+        "name": "Abancay",
         "latitude": -13.63389,
         "longitude": -72.88139
     },
     {
-        "name": "Андауайлас",
+        "name": "Andahuaylas",
         "latitude": -13.65556,
         "longitude": -73.38722
     },
     {
-        "name": "Провинция Абанкай",
+        "name": "Provincia de Abancay",
         "latitude": -13.66667,
         "longitude": -72.91667
     },
     {
-        "name": "Провинция Андауайлас",
+        "name": "Provincia de Andahuaylas",
         "latitude": -13.66667,
         "longitude": -73.41667
     },
     {
-        "name": "Провинция Антабамба",
+        "name": "Provincia de Antabamba",
         "latitude": -14.41667,
         "longitude": -72.75
     },
     {
-        "name": "Провинция Эмараеш",
+        "name": "Provincia de Aymaraes",
         "latitude": -14.41667,
         "longitude": -73.25
     },
     {
-        "name": "Провинция Котабамбас",
+        "name": "Provincia de Cotabambas",
         "latitude": -14.0,
         "longitude": -72.2
     },
     {
-        "name": "Провинция Грау",
+        "name": "Provincia de Grau",
         "latitude": -14.0,
         "longitude": -72.58333
     },
     {
-        "name": "Ты-Иромоно",
+        "name": "San Jer\u00f3nimo",
         "latitude": -13.65138,
         "longitude": -73.36388
     },
     {
-        "name": "Талавера",
+        "name": "Talavera",
         "latitude": -13.65306,
         "longitude": -73.42917
     },
     {
-        "name": "Акари",
+        "name": "Acar\u00ed",
         "latitude": -15.42393,
         "longitude": -74.61361
     },
     {
-        "name": "Арекипа",
+        "name": "Arequipa",
         "latitude": -16.39889,
         "longitude": -71.535
     },
     {
-        "name": "Камана",
+        "name": "Caman\u00e1",
         "latitude": -16.62375,
         "longitude": -72.71055
     },
     {
-        "name": "Кколо",
+        "name": "Ccolo",
         "latitude": -15.50611,
         "longitude": -71.49184
     },
     {
-        "name": "Чивай",
+        "name": "Chivay",
         "latitude": -15.63833,
         "longitude": -71.60111
     },
     {
-        "name": "Кокачакра",
+        "name": "Cocachacra",
         "latitude": -17.08833,
         "longitude": -71.7575
     },
     {
-        "name": "Котауаси",
+        "name": "Cotahuasi",
         "latitude": -15.21306,
         "longitude": -72.88861
     },
     {
-        "name": "Уаранканте",
+        "name": "Huarancante",
         "latitude": -15.76803,
         "longitude": -71.45952
     },
     {
-        "name": "Уаричанкара",
+        "name": "Huarichancara",
         "latitude": -15.63972,
         "longitude": -71.06111
     },
     {
-        "name": "Великий Оркочири",
+        "name": "Jatun Orcochiri",
         "latitude": -15.75003,
         "longitude": -71.34641
     },
     {
-        "name": "Джаюн",
+        "name": "Jayune",
         "latitude": -15.56277,
         "longitude": -71.30312
     },
     {
-        "name": "Лонгасора",
+        "name": "Llongasora",
         "latitude": -15.63951,
         "longitude": -71.29921
     },
     {
-        "name": "Ллута",
+        "name": "Lluta",
         "latitude": -16.01472,
         "longitude": -72.01417
     },
     {
-        "name": "Шлифование",
+        "name": "Mollendo",
         "latitude": -17.02306,
         "longitude": -72.01472
     },
     {
-        "name": "Оркопампа",
+        "name": "Orcopampa",
         "latitude": -15.26611,
         "longitude": -72.34167
     },
     {
-        "name": "Провинция Арекипа",
+        "name": "Provincia de Arequipa",
         "latitude": -16.33333,
         "longitude": -71.5
     },
     {
-        "name": "Провинция Камана",
+        "name": "Provincia de Caman\u00e1",
         "latitude": -16.41667,
         "longitude": -72.83333
     },
     {
-        "name": "Провинция Каравели",
+        "name": "Provincia de Caravel\u00ed",
         "latitude": -15.58333,
         "longitude": -74.0
     },
     {
-        "name": "Провинция Кастилия",
+        "name": "Provincia de Castilla",
         "latitude": -15.58333,
         "longitude": -72.41667
     },
     {
-        "name": "Провинция Кайлома",
+        "name": "Provincia de Caylloma",
         "latitude": -15.66667,
         "longitude": -71.58333
     },
     {
-        "name": "Провинция Кондесуйос",
+        "name": "Provincia de Condesuyos",
         "latitude": -15.58333,
         "longitude": -72.83333
     },
     {
-        "name": "Провинция Айлей",
+        "name": "Provincia de Islay",
         "latitude": -17.0,
         "longitude": -71.83333
     },
     {
-        "name": "Провинция Ла-Юнион",
+        "name": "Provincia de La Uni\u00f3n",
         "latitude": -15.0,
         "longitude": -72.83333
     },
     {
-        "name": "Пукара",
+        "name": "Pucara",
         "latitude": -15.97993,
         "longitude": -71.45988
     },
     {
-        "name": "Бонбон Совет",
+        "name": "Punta de Bomb\u00f3n",
         "latitude": -17.1719,
         "longitude": -71.7924
     },
     {
-        "name": "Вискачане",
+        "name": "Vizcachane",
         "latitude": -15.80861,
         "longitude": -71.20111
     },
     {
-        "name": "Юра",
+        "name": "Yura",
         "latitude": -16.25223,
         "longitude": -71.67969
     },
     {
-        "name": "Аякучо",
+        "name": "Ayacucho",
         "latitude": -13.15878,
         "longitude": -74.22321
     },
     {
-        "name": "Айна",
+        "name": "Ayna",
         "latitude": -12.65,
         "longitude": -73.91667
     },
     {
-        "name": "Коракора",
+        "name": "Coracora",
         "latitude": -15.03333,
         "longitude": -73.78333
     },
     {
-        "name": "Хуанта",
+        "name": "Huanta",
         "latitude": -12.93333,
         "longitude": -74.25
     },
     {
-        "name": "Паукар Дель Сара Сара",
+        "name": "Paucar Del Sara Sara",
         "latitude": -15.12275,
         "longitude": -73.26177
     },
     {
-        "name": "Провинция Кангалло",
+        "name": "Provincia de Cangallo",
         "latitude": -13.573,
         "longitude": -74.389
     },
     {
-        "name": "Провинция Уаманга",
+        "name": "Provincia de Huamanga",
         "latitude": -13.2,
         "longitude": -74.25
     },
     {
-        "name": "Провинция Уанка-Санкос",
+        "name": "Provincia de Huanca Sancos",
         "latitude": -14.076,
         "longitude": -74.428
     },
     {
-        "name": "Провинция Уанта",
+        "name": "Provincia de Huanta",
         "latitude": -12.5,
         "longitude": -74.16667
     },
     {
-        "name": "Провинция Ла Мар",
+        "name": "Provincia de La Mar",
         "latitude": -12.91667,
         "longitude": -73.83333
     },
     {
-        "name": "Провинция Луканас",
+        "name": "Provincia de Lucanas",
         "latitude": -14.5,
         "longitude": -74.33333
     },
     {
-        "name": "Провинция Паринакочас",
+        "name": "Provincia de Parinacochas",
         "latitude": -15.02965,
         "longitude": -73.63487
     },
     {
-        "name": "Провинция Сукре",
+        "name": "Provincia de Sucre",
         "latitude": -14.103,
         "longitude": -73.786
     },
     {
-        "name": "Провинция Виктор Фахардо",
+        "name": "Provincia de V\u00edctor Fajardo",
         "latitude": -13.75,
         "longitude": -74.33333
     },
     {
-        "name": "Провинция Вилкас-Ваман",
+        "name": "Provincia de Vilcas Huam\u00e1n",
         "latitude": -13.632,
         "longitude": -73.888
     },
     {
-        "name": "Пукио",
+        "name": "Puquio",
         "latitude": -14.7,
         "longitude": -74.13333
     },
     {
-        "name": "Сан-Мигель",
+        "name": "San Miguel",
         "latitude": -13.0125,
         "longitude": -73.98083
     },
     {
-        "name": "Тамбо",
+        "name": "Tambo",
         "latitude": -14.79847,
         "longitude": -73.92438
     },
     {
-        "name": "Бамбамарка",
+        "name": "Bambamarca",
         "latitude": -6.68333,
         "longitude": -78.53333
     },
     {
-        "name": "Красивый вид",
+        "name": "Bellavista",
         "latitude": -5.66417,
         "longitude": -78.67722
     },
     {
-        "name": "Каджабамба",
+        "name": "Cajabamba",
         "latitude": -7.61667,
         "longitude": -78.05
     },
     {
-        "name": "Кахамарка",
+        "name": "Cajamarca",
         "latitude": -7.16378,
         "longitude": -78.50027
     },
     {
-        "name": "Селендин",
+        "name": "Celend\u00edn",
         "latitude": -6.8659,
         "longitude": -78.14585
     },
     {
-        "name": "Чота",
+        "name": "Chota",
         "latitude": -6.55,
         "longitude": -78.65
     },
     {
-        "name": "Хаэн",
+        "name": "Ja\u00e9n",
         "latitude": -5.70729,
         "longitude": -78.80785
     },
     {
-        "name": "Провинция Кахабамба",
+        "name": "Provincia de Cajabamba",
         "latitude": -7.5,
         "longitude": -78.16667
     },
     {
-        "name": "Провинция Кахамарка",
+        "name": "Provincia de Cajamarca",
         "latitude": -7.33333,
         "longitude": -78.41667
     },
     {
-        "name": "Провинция Челендин",
+        "name": "Provincia de Celend\u00edn",
         "latitude": -6.83333,
         "longitude": -78.25
     },
     {
-        "name": "Провинция Чота",
+        "name": "Provincia de Chota",
         "latitude": -6.38332,
         "longitude": -79.18055
     },
     {
-        "name": "Провинция Контумаза",
+        "name": "Provincia de Contumaz\u00e1",
         "latitude": -7.33333,
         "longitude": -78.91667
     },
     {
-        "name": "Провинция Кутерво",
+        "name": "Provincia de Cutervo",
         "latitude": -6.36667,
         "longitude": -78.85
     },
     {
-        "name": "Провинция Уальгайок",
+        "name": "Provincia de Hualgayoc",
         "latitude": -6.68,
         "longitude": -78.53
     },
     {
-        "name": "Провинция Хаэн",
+        "name": "Provincia de Ja\u00e9n",
         "latitude": -5.71074,
         "longitude": -79.00438
     },
     {
-        "name": "Провинция Сан-Игнасио",
+        "name": "Provincia de San Ignacio",
         "latitude": -5.08333,
         "longitude": -79.0
     },
     {
-        "name": "Провинция Сан-Мигель",
+        "name": "Provincia de San Miguel",
         "latitude": -7.0,
         "longitude": -79.0
     },
     {
-        "name": "Провинция Санта-Крус",
+        "name": "Provincia de Santa Cruz",
         "latitude": -6.83333,
         "longitude": -79.0
     },
     {
-        "name": "Сан-Югнисио",
+        "name": "San Ignacio",
         "latitude": -5.14583,
         "longitude": -79.00139
     },
     {
-        "name": "Кальяо",
+        "name": "Callao",
         "latitude": -12.05659,
         "longitude": -77.11814
     },
     {
-        "name": "Анта",
+        "name": "Anta",
         "latitude": -13.47056,
         "longitude": -72.14833
     },
     {
-        "name": "Кауануйо",
+        "name": "Cahuanuyo",
         "latitude": -14.34147,
         "longitude": -71.46311
     },
     {
-        "name": "Калькутта",
+        "name": "Calca",
         "latitude": -13.33333,
         "longitude": -71.95
     },
     {
-        "name": "Калланка",
+        "name": "Callanca",
         "latitude": -14.18137,
         "longitude": -71.1407
     },
     {
-        "name": "Какиракунка",
+        "name": "Ccaquiracunca",
         "latitude": -14.27683,
         "longitude": -71.45026
     },
     {
-        "name": "Ккунтума",
+        "name": "Ccuntuma",
         "latitude": -14.1254,
         "longitude": -71.41216
     },
     {
-        "name": "Чекакуп",
+        "name": "Checacupe",
         "latitude": -14.02694,
         "longitude": -71.45278
     },
     {
-        "name": "Чекка",
+        "name": "Checca",
         "latitude": -14.47278,
         "longitude": -71.39389
     },
     {
-        "name": "Чигнайуа",
+        "name": "Chignayhua",
         "latitude": -14.2461,
         "longitude": -71.44442
     },
     {
-        "name": "Чинчеро",
+        "name": "Chinchero",
         "latitude": -13.39222,
         "longitude": -72.04778
     },
     {
-        "name": "Комбапата",
+        "name": "Combapata",
         "latitude": -14.10111,
         "longitude": -71.42944
     },
     {
-        "name": "Кончопата",
+        "name": "Conchopata",
         "latitude": -14.46968,
         "longitude": -71.19843
     },
     {
-        "name": "Калкуйр",
+        "name": "Cullcuyre",
         "latitude": -14.09272,
         "longitude": -71.33119
     },
     {
-        "name": "Куско",
+        "name": "Cusco",
         "latitude": -13.52264,
         "longitude": -71.96734
     },
     {
-        "name": "Уайна Мэр",
+        "name": "Huayna Alcalde",
         "latitude": -14.26989,
         "longitude": -71.09599
     },
     {
-        "name": "Джайобамба",
+        "name": "Jayobamba",
         "latitude": -14.09425,
         "longitude": -71.33922
     },
     {
-        "name": "Для окна",
+        "name": "Langui",
         "latitude": -14.43194,
         "longitude": -71.27306
     },
     {
-        "name": "Прочь",
+        "name": "Layo",
         "latitude": -14.49361,
         "longitude": -71.155
     },
     {
-        "name": "Лима Пампа",
+        "name": "Lima Pampa",
         "latitude": -14.08976,
         "longitude": -71.33664
     },
     {
-        "name": "Марангани",
+        "name": "Marangan\u00ed",
         "latitude": -14.35672,
         "longitude": -71.16924
     },
     {
-        "name": "Никто",
+        "name": "Maras",
         "latitude": -13.335,
         "longitude": -72.15667
     },
     {
-        "name": "Мосок Канча",
+        "name": "Mosoc Cancha",
         "latitude": -14.28514,
         "longitude": -71.08773
     },
     {
-        "name": "Мосоц Сити",
+        "name": "Mosoc Llacta",
         "latitude": -14.12,
         "longitude": -71.47278
     },
     {
-        "name": "Ольянтайтамбо",
+        "name": "Ollantaytambo",
         "latitude": -13.25722,
         "longitude": -72.26306
     },
     {
-        "name": "Оропеса",
+        "name": "Oropesa",
         "latitude": -13.59278,
         "longitude": -71.77194
     },
     {
-        "name": "Пампамарка",
+        "name": "Pampamarca",
         "latitude": -14.14639,
         "longitude": -71.45944
     },
     {
-        "name": "Черный",
+        "name": "Pangoa",
         "latitude": -12.11667,
         "longitude": -73.0
     },
     {
-        "name": "Паукартамбо",
+        "name": "Paucartambo",
         "latitude": -13.31522,
         "longitude": -71.59364
     },
     {
-        "name": "Писатель",
+        "name": "Pisac",
         "latitude": -13.4225,
         "longitude": -71.84667
     },
     {
-        "name": "Провинция Акомайо",
+        "name": "Provincia de Acomayo",
         "latitude": -13.91667,
         "longitude": -71.66667
     },
     {
-        "name": "Провинция Анта",
+        "name": "Provincia de Anta",
         "latitude": -13.5,
         "longitude": -72.33333
     },
     {
-        "name": "Провинция Калька",
+        "name": "Provincia de Calca",
         "latitude": -13.0,
         "longitude": -72.16667
     },
     {
-        "name": "Провинция Канас",
+        "name": "Provincia de Canas",
         "latitude": -14.41083,
         "longitude": -71.33694
     },
     {
-        "name": "Провинция Канчис",
+        "name": "Provincia de Canchis",
         "latitude": -14.08194,
         "longitude": -71.18556
     },
     {
-        "name": "Провинция Чумбивилкас",
+        "name": "Provincia de Chumbivilcas",
         "latitude": -14.41667,
         "longitude": -72.0
     },
     {
-        "name": "Провинция Куско",
+        "name": "Provincia de Cusco",
         "latitude": -13.5,
         "longitude": -72.0
     },
     {
-        "name": "Провинция Эспинар",
+        "name": "Provincia de Espinar",
         "latitude": -14.75,
         "longitude": -71.41667
     },
     {
-        "name": "Провинция Ла Конвенсьон",
+        "name": "Provincia de La Convenci\u00f3n",
         "latitude": -12.0,
         "longitude": -73.0
     },
     {
-        "name": "Провинция Паруро",
+        "name": "Provincia de Paruro",
         "latitude": -13.91667,
         "longitude": -71.91667
     },
     {
-        "name": "Провинция Паукартамбо",
+        "name": "Provincia de Paucartambo",
         "latitude": -13.16667,
         "longitude": -71.41667
     },
     {
-        "name": "Провинция Киспиканчис",
+        "name": "Provincia de Quispicanchis",
         "latitude": -13.41667,
         "longitude": -71.0
     },
     {
-        "name": "Провинция Урубамба",
+        "name": "Provincia de Urubamba",
         "latitude": -13.25,
         "longitude": -72.33333
     },
     {
-        "name": "Ккеа",
+        "name": "Qquea",
         "latitude": -14.05417,
         "longitude": -71.38583
     },
     {
-        "name": "Керомарка",
+        "name": "Queromarca",
         "latitude": -14.18391,
         "longitude": -71.38343
     },
     {
-        "name": "Святой Павел",
+        "name": "San Pablo",
         "latitude": -14.20278,
         "longitude": -71.31556
     },
     {
-        "name": "Санта Ана",
+        "name": "Santa Ana",
         "latitude": -12.86667,
         "longitude": -72.71667
     },
     {
-        "name": "Сент-Томас",
+        "name": "Santo Tomas",
         "latitude": -14.44556,
         "longitude": -72.08417
     },
     {
-        "name": "Сикуани",
+        "name": "Sicuani",
         "latitude": -14.26944,
         "longitude": -71.22611
     },
     {
-        "name": "Чернила",
+        "name": "Tinta",
         "latitude": -14.145,
         "longitude": -71.40694
     },
     {
-        "name": "Тунгасука",
+        "name": "Tungasuca",
         "latitude": -14.16389,
         "longitude": -71.47667
     },
     {
-        "name": "Горы",
+        "name": "Urcos",
         "latitude": -13.68611,
         "longitude": -71.62278
     },
     {
-        "name": "Урубамба",
+        "name": "Urubamba",
         "latitude": -13.30472,
         "longitude": -72.11583
     },
     {
-        "name": "Они умирают",
+        "name": "Yanaoca",
         "latitude": -14.21806,
         "longitude": -71.43167
     },
     {
-        "name": "Уанкавелика",
+        "name": "Huancavelica",
         "latitude": -12.78261,
         "longitude": -74.97266
     },
     {
-        "name": "Уайтара",
+        "name": "Huaytara",
         "latitude": -13.65616,
         "longitude": -75.09234
     },
     {
-        "name": "Пампасы",
+        "name": "Pampas",
         "latitude": -12.3949,
         "longitude": -74.86687
     },
     {
-        "name": "Провинция Акобамба",
+        "name": "Provincia de Acobamba",
         "latitude": -12.75,
         "longitude": -74.66667
     },
     {
-        "name": "Провинция Ангарес",
+        "name": "Provincia de Angaraes",
         "latitude": -13.0,
         "longitude": -74.75
     },
     {
-        "name": "Провинция Кастровиррейна",
+        "name": "Provincia de Castrovirreyna",
         "latitude": -13.14535,
         "longitude": -75.40598
     },
     {
-        "name": "Провинция Чуркампа",
+        "name": "Provincia de Churcampa",
         "latitude": -12.6,
         "longitude": -74.52
     },
     {
-        "name": "Провинция Уанкавелика",
+        "name": "Provincia de Huancavelica",
         "latitude": -12.66667,
         "longitude": -75.25
     },
     {
-        "name": "Провинция Таякаха",
+        "name": "Provincia de Tayacaja",
         "latitude": -12.25,
         "longitude": -74.75
     },
     {
-        "name": "Оба из них",
+        "name": "Ambo",
         "latitude": -10.13083,
         "longitude": -76.20472
     },
     {
-        "name": "Уакайбамба",
+        "name": "Huacaybamba",
         "latitude": -8.9948,
         "longitude": -76.81027
     },
     {
-        "name": "Уануко",
+        "name": "Hu\u00e1nuco",
         "latitude": -9.93062,
         "longitude": -76.24223
     },
     {
-        "name": "Союз",
+        "name": "La Uni\u00f3n",
         "latitude": -9.82702,
         "longitude": -76.80199
     },
     {
-        "name": "Лаурикоча",
+        "name": "Lauricocha",
         "latitude": -10.20055,
         "longitude": -76.70359
     },
     {
-        "name": "может",
+        "name": "Llata",
         "latitude": -9.41667,
         "longitude": -76.78333
     },
     {
-        "name": "Провинция Амбо",
+        "name": "Provincia de Ambo",
         "latitude": -10.16667,
         "longitude": -76.16667
     },
     {
-        "name": "Провинция Дос-де-Майо",
+        "name": "Provincia de Dos de Mayo",
         "latitude": -9.91667,
         "longitude": -76.75
     },
     {
-        "name": "Провинция Уамалиес",
+        "name": "Provincia de Huamal\u00edes",
         "latitude": -9.25,
         "longitude": -76.5
     },
     {
-        "name": "Провинция Уануко",
+        "name": "Provincia de Hu\u00e1nuco",
         "latitude": -9.66667,
         "longitude": -76.08333
     },
     {
-        "name": "Провинция Леонсио Прадо",
+        "name": "Provincia de Leoncio Prado",
         "latitude": -9.16667,
         "longitude": -76.0
     },
     {
-        "name": "Провинция Мараньон",
+        "name": "Provincia de Mara\u00f1\u00f3n",
         "latitude": -8.75,
         "longitude": -76.66667
     },
     {
-        "name": "Провинция Пачитеа",
+        "name": "Provincia de Pachitea",
         "latitude": -9.95262,
         "longitude": -75.8139
     },
     {
-        "name": "Пуэрто-Инка",
+        "name": "Puerto Inca",
         "latitude": -9.36696,
         "longitude": -75.08958
     },
     {
-        "name": "Сан-Мигель де Кори",
+        "name": "San Miguel de Cauri",
         "latitude": -10.13818,
         "longitude": -76.62288
     },
     {
-        "name": "Тинго Мария",
+        "name": "Tingo Mar\u00eda",
         "latitude": -9.29532,
         "longitude": -75.99574
     },
     {
-        "name": "Янаканча",
+        "name": "Yanacancha",
         "latitude": -10.24111,
         "longitude": -76.64556
     },
     {
-        "name": "Яровилка",
+        "name": "Yarowilca",
         "latitude": -9.80263,
         "longitude": -76.59516
     },
     {
-        "name": "Чинча Альта",
+        "name": "Chincha Alta",
         "latitude": -13.40985,
         "longitude": -76.13235
     },
     {
-        "name": "Ика",
+        "name": "Ica",
         "latitude": -14.06777,
         "longitude": -75.72861
     },
     {
-        "name": "Акихес",
+        "name": "Los Aquijes",
         "latitude": -14.09667,
         "longitude": -75.69083
     },
     {
-        "name": "Маркона Майнс",
+        "name": "Minas de Marcona",
         "latitude": -15.21194,
         "longitude": -75.11028
     },
     {
-        "name": "Наска",
+        "name": "Nazca",
         "latitude": -14.83098,
         "longitude": -74.93895
     },
     {
-        "name": "Пальпа",
+        "name": "Palpa",
         "latitude": -14.53361,
         "longitude": -75.18556
     },
     {
-        "name": "Паракас",
+        "name": "Paracas",
         "latitude": -13.86667,
         "longitude": -76.26667
     },
     {
-        "name": "Писко",
+        "name": "Pisco",
         "latitude": -13.71029,
         "longitude": -76.20538
     },
     {
-        "name": "Провинция Чинча",
+        "name": "Provincia de Chincha",
         "latitude": -13.31791,
         "longitude": -75.9393
     },
     {
-        "name": "Провинция Ика",
+        "name": "Provincia de Ica",
         "latitude": -14.33861,
         "longitude": -75.64833
     },
     {
-        "name": "Провинция Наска",
+        "name": "Provincia de Nazca",
         "latitude": -15.0,
         "longitude": -75.08333
     },
     {
-        "name": "Провинция Пальпа",
+        "name": "Provincia de Palpa",
         "latitude": -14.41667,
         "longitude": -75.16667
     },
     {
-        "name": "Провинция Писко",
+        "name": "Provincia de Pisco",
         "latitude": -13.80377,
         "longitude": -75.94264
     },
     {
-        "name": "Рио-Гранде",
+        "name": "R\u00edo Grande",
         "latitude": -14.516,
         "longitude": -75.19933
     },
     {
-        "name": "Сан-Клементе",
+        "name": "San Clemente",
         "latitude": -13.66667,
         "longitude": -76.15
     },
     {
-        "name": "Святой Иоанн Креститель",
+        "name": "San Juan Bautista",
         "latitude": -14.01083,
         "longitude": -75.73583
     },
     {
-        "name": "Сантьяго",
+        "name": "Santiago",
         "latitude": -14.18469,
         "longitude": -75.71124
     },
     {
-        "name": "Субтанхалла",
+        "name": "Subtanjalla",
         "latitude": -14.01889,
         "longitude": -75.75806
     },
     {
-        "name": "Вилла Тупак Амару",
+        "name": "Villa Tupac Amaru",
         "latitude": -13.71135,
         "longitude": -76.1498
     },
     {
-        "name": "добро пожаловать",
+        "name": "Acolla",
         "latitude": -11.73193,
         "longitude": -75.54634
     },
     {
-        "name": "Каруамайо",
+        "name": "Carhuamayo",
         "latitude": -10.91667,
         "longitude": -76.03333
     },
     {
-        "name": "Чанчамайо",
+        "name": "Chanchamayo",
         "latitude": -11.05,
         "longitude": -75.31667
     },
     {
-        "name": "Чупака",
+        "name": "Chupaca",
         "latitude": -12.06667,
         "longitude": -75.28333
     },
     {
-        "name": "Концепция",
+        "name": "Concepci\u00f3n",
         "latitude": -11.91762,
         "longitude": -75.31401
     },
     {
-        "name": "Уанкайо",
+        "name": "Huancayo",
         "latitude": -12.06513,
         "longitude": -75.20486
     },
     {
-        "name": "Уасауаси",
+        "name": "Huasahuasi",
         "latitude": -11.26527,
         "longitude": -75.64722
     },
     {
-        "name": "Уаюкачи",
+        "name": "Huayucachi",
         "latitude": -12.13333,
         "longitude": -75.23333
     },
     {
-        "name": "Хауха",
+        "name": "Jauja",
         "latitude": -11.77584,
         "longitude": -75.49656
     },
     {
-        "name": "Хунин",
+        "name": "Jun\u00edn",
         "latitude": -11.15895,
         "longitude": -75.99304
     },
     {
-        "name": "Ла Оройя",
+        "name": "La Oroya",
         "latitude": -11.51893,
         "longitude": -75.89935
     },
     {
-        "name": "Мазамари",
+        "name": "Mazamari",
         "latitude": -11.32583,
         "longitude": -74.53083
     },
     {
-        "name": "Марокко",
+        "name": "Morococha",
         "latitude": -11.59972,
         "longitude": -76.14111
     },
     {
-        "name": "Оркотуна",
+        "name": "Orcotuna",
         "latitude": -11.96886,
         "longitude": -75.3078
     },
     {
-        "name": "Пернатый",
+        "name": "Peren\u00e9",
         "latitude": -10.9451,
         "longitude": -75.22394
     },
     {
-        "name": "Пилкомай",
+        "name": "Pilcomay",
         "latitude": -12.04722,
         "longitude": -75.24931
     },
     {
-        "name": "Провинция Чупака",
+        "name": "Provincia de Chupaca",
         "latitude": -12.3,
         "longitude": -75.433
     },
     {
-        "name": "Провинция Консепсьон",
+        "name": "Provincia de Concepci\u00f3n",
         "latitude": -11.75,
         "longitude": -75.0
     },
     {
-        "name": "Провинция Уанкайо",
+        "name": "Provincia de Huancayo",
         "latitude": -12.17319,
         "longitude": -75.16169
     },
     {
-        "name": "Провинция Хауха",
+        "name": "Provincia de Jauja",
         "latitude": -11.726,
         "longitude": -75.547
     },
     {
-        "name": "Провинция Хунин",
+        "name": "Provincia de Jun\u00edn",
         "latitude": -11.08333,
         "longitude": -76.0
     },
     {
-        "name": "Провинция Сатипо",
+        "name": "Provincia de Satipo",
         "latitude": -11.5,
         "longitude": -74.25
     },
     {
-        "name": "Тармская провинция",
+        "name": "Provincia de Tarma",
         "latitude": -11.40562,
         "longitude": -75.69129
     },
     {
-        "name": "Провинция Яули",
+        "name": "Provincia de Yauli",
         "latitude": -11.66667,
         "longitude": -76.16667
     },
     {
-        "name": "Сан-Агустин",
+        "name": "San Agustin",
         "latitude": -11.97195,
         "longitude": -75.25562
     },
     {
-        "name": "Ты-Иромоно",
+        "name": "San Jer\u00f3nimo",
         "latitude": -11.95591,
         "longitude": -75.28411
     },
     {
-        "name": "Сан-Педро-де-Кахас",
+        "name": "San Pedro de Cajas",
         "latitude": -11.25061,
         "longitude": -75.86116
     },
     {
-        "name": "Сан-Рамон",
+        "name": "San Ram\u00f3n",
         "latitude": -11.12417,
         "longitude": -75.35733
     },
     {
-        "name": "Сатипо",
+        "name": "Satipo",
         "latitude": -11.25222,
         "longitude": -74.63861
     },
     {
-        "name": "Сикайя",
+        "name": "Sicaya",
         "latitude": -12.03333,
         "longitude": -75.28333
     },
     {
-        "name": "Тарма",
+        "name": "Tarma",
         "latitude": -11.41899,
         "longitude": -75.68992
     },
     {
-        "name": "Область применения",
+        "name": "Ascope",
         "latitude": -7.71444,
         "longitude": -79.10778
     },
     {
-        "name": "Ракушки",
+        "name": "Cascas",
         "latitude": -7.48333,
         "longitude": -78.81667
     },
     {
-        "name": "Чепен",
+        "name": "Chepen",
         "latitude": -7.14367,
         "longitude": -79.45674
     },
     {
-        "name": "Чикама",
+        "name": "Chicama",
         "latitude": -7.84472,
         "longitude": -79.14694
     },
     {
-        "name": "Чокопе",
+        "name": "Chocope",
         "latitude": -7.79139,
         "longitude": -79.22167
     },
     {
-        "name": "Гран Чиму",
+        "name": "Gran Chimu",
         "latitude": -7.57976,
         "longitude": -78.64718
     },
     {
-        "name": "Гваделупа",
+        "name": "Guadalupe",
         "latitude": -7.25,
         "longitude": -79.48333
     },
     {
-        "name": "Уамачуко",
+        "name": "Huamachuco",
         "latitude": -7.8,
         "longitude": -78.06667
     },
     {
-        "name": "Хулкан",
+        "name": "Julcan",
         "latitude": -8.17238,
         "longitude": -78.46356
     },
     {
-        "name": "Ларедо",
+        "name": "Laredo",
         "latitude": -8.08965,
         "longitude": -78.9602
     },
     {
-        "name": "Моче",
+        "name": "Moche",
         "latitude": -8.17111,
         "longitude": -79.00917
     },
     {
-        "name": "Отуско",
+        "name": "Otuzco",
         "latitude": -7.9,
         "longitude": -78.58333
     },
     {
-        "name": "Паканга",
+        "name": "Pacanga",
         "latitude": -7.16667,
         "longitude": -79.5
     },
     {
-        "name": "Пакасмайо",
+        "name": "Pacasmayo",
         "latitude": -7.40056,
         "longitude": -79.57139
     },
     {
-        "name": "В Пае",
+        "name": "Paij\u00e1n",
         "latitude": -7.73291,
         "longitude": -79.3015
     },
     {
-        "name": "Провинция Боливар",
+        "name": "Provincia de Bol\u00edvar",
         "latitude": -7.33333,
         "longitude": -77.75
     },
     {
-        "name": "Провинция Отуско",
+        "name": "Provincia de Otuzco",
         "latitude": -7.90457,
         "longitude": -78.56362
     },
     {
-        "name": "Провинция Пакасмайо",
+        "name": "Provincia de Pacasmayo",
         "latitude": -7.25,
         "longitude": -79.5
     },
     {
-        "name": "Провинция Патас",
+        "name": "Provincia de Pataz",
         "latitude": -8.25,
         "longitude": -77.33333
     },
     {
-        "name": "Провинция Сантьяго-де-Чуко",
+        "name": "Provincia de Santiago de Chuco",
         "latitude": -8.33333,
         "longitude": -78.25
     },
     {
-        "name": "Провинция Трухильо",
+        "name": "Provincia de Trujillo",
         "latitude": -8.08333,
         "longitude": -78.91667
     },
     {
-        "name": "Новый город",
+        "name": "Pueblo Nuevo",
         "latitude": -7.18806,
         "longitude": -79.51528
     },
     {
-        "name": "Кирувилка",
+        "name": "Quiruvilca",
         "latitude": -7.96667,
         "longitude": -78.2
     },
     {
-        "name": "Салаверри",
+        "name": "Salaverry",
         "latitude": -8.221,
         "longitude": -78.97698
     },
     {
-        "name": "Сан-Педро-де-Лок",
+        "name": "San Pedro de Lloc",
         "latitude": -7.4289,
         "longitude": -79.50416
     },
     {
-        "name": "Санчес Каррион",
+        "name": "Sanchez Carrion",
         "latitude": -7.78538,
         "longitude": -77.92586
     },
     {
-        "name": "Сантьяго-де-Као",
+        "name": "Santiago de Cao",
         "latitude": -7.95889,
         "longitude": -79.23917
     },
     {
-        "name": "Сантьяго де Чуко",
+        "name": "Santiago de Chuco",
         "latitude": -8.14099,
         "longitude": -78.17329
     },
     {
-        "name": "Трухильо",
+        "name": "Trujillo",
         "latitude": -8.11599,
         "longitude": -79.02998
     },
     {
-        "name": "Стек",
+        "name": "Viru",
         "latitude": -8.52199,
         "longitude": -78.60355
     },
     {
-        "name": "Чиклайо",
+        "name": "Chiclayo",
         "latitude": -6.77137,
         "longitude": -79.84088
     },
     {
-        "name": "Это верно",
+        "name": "Chongoyape",
         "latitude": -6.64056,
         "longitude": -79.38917
     },
     {
-        "name": "Есть",
+        "name": "Eten",
         "latitude": -6.90806,
         "longitude": -79.86417
     },
     {
-        "name": "Ферреньяфе",
+        "name": "Ferre\u00f1afe",
         "latitude": -6.63889,
         "longitude": -79.78889
     },
     {
-        "name": "Джаянка",
+        "name": "Jayanca",
         "latitude": -6.39083,
         "longitude": -79.82194
     },
     {
-        "name": "Ламбаек",
+        "name": "Lambayeque",
         "latitude": -6.70111,
         "longitude": -79.90611
     },
     {
-        "name": "Мочуми",
+        "name": "Mochum\u00ed",
         "latitude": -6.54364,
         "longitude": -79.86217
     },
     {
-        "name": "Монсеф",
+        "name": "Monsef\u00fa",
         "latitude": -6.87431,
         "longitude": -79.86871
     },
     {
-        "name": "Морроп",
+        "name": "M\u00f3rrope",
         "latitude": -6.53536,
         "longitude": -80.01104
     },
     {
-        "name": "Мотупе",
+        "name": "Motupe",
         "latitude": -6.15194,
         "longitude": -79.71417
     },
     {
-        "name": "Олмос",
+        "name": "Olmos",
         "latitude": -5.98472,
         "longitude": -79.74528
     },
     {
-        "name": "Ну давай же",
+        "name": "Oyot\u00fan",
         "latitude": -6.84438,
         "longitude": -79.30093
     },
     {
-        "name": "Пикси",
+        "name": "Picsi",
         "latitude": -6.71778,
         "longitude": -79.76972
     },
     {
-        "name": "Пиментел",
+        "name": "Pimentel",
         "latitude": -6.83667,
         "longitude": -79.93417
     },
     {
-        "name": "Провинция Чиклайо",
+        "name": "Provincia de Chiclayo",
         "latitude": -6.76667,
         "longitude": -79.85
     },
     {
-        "name": "Провинция Ферреньяфе",
+        "name": "Provincia de Ferre\u00f1afe",
         "latitude": -6.33333,
         "longitude": -79.5
     },
     {
-        "name": "Провинция Ламбаек",
+        "name": "Provincia de Lambayeque",
         "latitude": -6.08333,
         "longitude": -80.08333
     },
     {
-        "name": "Новый город",
+        "name": "Pueblo Nuevo",
         "latitude": -5.71667,
         "longitude": -79.88333
     },
     {
-        "name": "Запрос",
+        "name": "Reque",
         "latitude": -6.86556,
         "longitude": -79.81778
     },
     {
-        "name": "Святой Иосиф",
+        "name": "San Jos\u00e9",
         "latitude": -6.73813,
         "longitude": -79.8275
     },
     {
-        "name": "Ярость",
+        "name": "Sa\u00f1a",
         "latitude": -6.91888,
         "longitude": -79.582
     },
     {
-        "name": "Санта Роза",
+        "name": "Santa Rosa",
         "latitude": -6.75772,
         "longitude": -79.82747
     },
     {
-        "name": "Тукуме",
+        "name": "T\u00facume",
         "latitude": -6.50637,
         "longitude": -79.85725
     },
     {
-        "name": "Населенное поселение Николя де Пьерола",
+        "name": "Asentamiento Humano Nicolas de Pierola",
         "latitude": -11.93573,
         "longitude": -76.70611
     },
     {
-        "name": "Барранка",
+        "name": "Barranca",
         "latitude": -10.75,
         "longitude": -77.76667
     },
     {
-        "name": "Калета де Каркин",
+        "name": "Caleta de Carqu\u00edn",
         "latitude": -11.0925,
         "longitude": -77.62667
     },
     {
-        "name": "Чанкай",
+        "name": "Chancay",
         "latitude": -11.57139,
         "longitude": -77.26722
     },
     {
-        "name": "Чилка",
+        "name": "Chilca",
         "latitude": -12.52111,
         "longitude": -76.73722
     },
     {
-        "name": "Чосика",
+        "name": "Chosica",
         "latitude": -11.94306,
         "longitude": -76.70944
     },
     {
-        "name": "Уачо",
+        "name": "Huacho",
         "latitude": -11.10667,
         "longitude": -77.605
     },
     {
-        "name": "Хуалмай",
+        "name": "Hualmay",
         "latitude": -11.09639,
         "longitude": -77.61389
     },
     {
-        "name": "Уарал",
+        "name": "Huaral",
         "latitude": -11.495,
         "longitude": -77.20778
     },
     {
-        "name": "Уаура",
+        "name": "Huaura",
         "latitude": -11.07,
         "longitude": -77.59944
     },
     {
-        "name": "Империал",
+        "name": "Imperial",
         "latitude": -13.05927,
         "longitude": -76.35269
     },
     {
-        "name": "Независимость",
+        "name": "Independencia",
         "latitude": -11.99,
         "longitude": -77.04583
     },
     {
-        "name": "Лима",
+        "name": "Lima",
         "latitude": -12.04318,
         "longitude": -77.02824
     },
     {
-        "name": "Мала",
+        "name": "Mala",
         "latitude": -12.65806,
         "longitude": -76.63083
     },
     {
-        "name": "Матукана",
+        "name": "Matucana",
         "latitude": -11.85,
         "longitude": -76.4
     },
     {
-        "name": "Новый Империал",
+        "name": "Nuevo Imperial",
         "latitude": -13.07541,
         "longitude": -76.31719
     },
     {
-        "name": "Хорошо",
+        "name": "Oyon",
         "latitude": -10.75869,
         "longitude": -76.87634
     },
     {
-        "name": "Лосось",
+        "name": "Paramonga",
         "latitude": -10.66667,
         "longitude": -77.83333
     },
     {
-        "name": "Пативилка",
+        "name": "Pativilca",
         "latitude": -10.7,
         "longitude": -77.78333
     },
     {
-        "name": "Провинция Каджатамбо",
+        "name": "Provincia de Cajatambo",
         "latitude": -10.66667,
         "longitude": -77.0
     },
     {
-        "name": "Провинция Каньете",
+        "name": "Provincia de Ca\u00f1ete",
         "latitude": -12.75,
         "longitude": -76.33333
     },
     {
-        "name": "Провинция Канта",
+        "name": "Provincia de Canta",
         "latitude": -11.46667,
         "longitude": -76.61667
     },
     {
-        "name": "Провинция Уараль",
+        "name": "Provincia de Huaral",
         "latitude": -11.25,
         "longitude": -76.91667
     },
     {
-        "name": "Провинция Уарочири",
+        "name": "Provincia de Huarochir\u00ed",
         "latitude": -11.91667,
         "longitude": -76.41667
     },
     {
-        "name": "Провинция Яуйос",
+        "name": "Provincia de Yauyos",
         "latitude": -12.41667,
         "longitude": -76.0
     },
     {
-        "name": "Пуэрто-Супе",
+        "name": "Puerto Supe",
         "latitude": -10.80135,
         "longitude": -77.74333
     },
     {
-        "name": "Кильмана",
+        "name": "Quilman\u00e1",
         "latitude": -12.9486,
         "longitude": -76.38112
     },
     {
-        "name": "Рикардо Пальма",
+        "name": "Ricardo Palma",
         "latitude": -11.91978,
         "longitude": -76.6561
     },
     {
-        "name": "Сан-Бартоло",
+        "name": "San Bartolo",
         "latitude": -12.38333,
         "longitude": -76.78333
     },
     {
-        "name": "Сан-Исидро",
+        "name": "San Isidro",
         "latitude": -12.11667,
         "longitude": -77.05
     },
     {
-        "name": "Сент-Луис",
+        "name": "San Luis",
         "latitude": -12.07674,
         "longitude": -76.99435
     },
     {
-        "name": "Сан-Висенте-де-Каньете",
+        "name": "San Vicente de Ca\u00f1ete",
         "latitude": -13.07556,
         "longitude": -76.38528
     },
     {
-        "name": "Санта Мария",
+        "name": "Santa Mar\u00eda",
         "latitude": -12.00538,
         "longitude": -76.89329
     },
     {
-        "name": "Сантьяго де Сурко",
+        "name": "Santiago de Surco",
         "latitude": -12.13588,
         "longitude": -77.00742
     },
     {
-        "name": "Саян",
+        "name": "Say\u00e1n",
         "latitude": -11.13333,
         "longitude": -77.1946
     },
     {
-        "name": "Супе",
+        "name": "Supe",
         "latitude": -10.7975,
         "longitude": -77.71306
     },
     {
-        "name": "Урб. Санто-Доминго.",
+        "name": "Urb. Santo Domingo",
         "latitude": -11.87655,
         "longitude": -77.03345
     },
     {
-        "name": "Вегета",
+        "name": "V\u00e9gueta",
         "latitude": -11.02253,
         "longitude": -77.64378
     },
     {
-        "name": "Андоас",
+        "name": "Andoas",
         "latitude": -2.9025,
         "longitude": -76.4025
     },
     {
-        "name": "Борха",
+        "name": "Borja",
         "latitude": -4.43333333,
         "longitude": -77.55
     },
     {
-        "name": "Кабальокоча",
+        "name": "Caballococha",
         "latitude": -3.90583333,
         "longitude": -70.51638889
     },
     {
-        "name": "Мыс Пантоха",
+        "name": "Cape Pantoja",
         "latitude": -0.96435,
         "longitude": -75.18144
     },
     {
-        "name": "Индиана",
+        "name": "Indiana",
         "latitude": -3.501427,
         "longitude": -73.048096
     },
     {
-        "name": "Икитос",
+        "name": "Iquitos",
         "latitude": -3.73333333,
         "longitude": -73.25
     },
     {
-        "name": "Джеберос",
+        "name": "Jeberos",
         "latitude": -5.28333,
         "longitude": -76.28333
     },
     {
-        "name": "Дженаро Эррера",
+        "name": "Jenaro Herrera",
         "latitude": -4.90741,
         "longitude": -73.66779
     },
     {
-        "name": "Лагуны",
+        "name": "Lagunas",
         "latitude": -5.22694,
         "longitude": -75.67528
     },
     {
-        "name": "Быки",
+        "name": "Nauta",
         "latitude": -4.50833333,
         "longitude": -73.58333333
     },
     {
-        "name": "Пунчана",
+        "name": "Punchana",
         "latitude": -3.71666667,
         "longitude": -73.23333333
     },
     {
-        "name": "Рекена",
+        "name": "Requena",
         "latitude": -6.74797,
         "longitude": -75.05491
     },
     {
-        "name": "Сан-Антонио-дель-Эстречо",
+        "name": "San Antonio del Estrecho",
         "latitude": -2.45012,
         "longitude": -72.66896
     },
     {
-        "name": "Святой Лаврентий",
+        "name": "San Lorenzo",
         "latitude": -4.81667,
         "longitude": -76.6
     },
     {
-        "name": "Святой Павел",
+        "name": "San Pablo",
         "latitude": -4.01922,
         "longitude": -71.10281
     },
     {
-        "name": "Тамшияку",
+        "name": "Tamshiyacu",
         "latitude": -4.0032,
         "longitude": -73.1585
     },
     {
-        "name": "Юримагуас",
+        "name": "Yurimaguas",
         "latitude": -5.9,
         "longitude": -76.08333333
     },
     {
-        "name": "Иберия",
+        "name": "Iberia",
         "latitude": -11.35,
         "longitude": -69.58333
     },
     {
-        "name": "Провинция Ману",
+        "name": "Provincia de Man\u00fa",
         "latitude": -12.25,
         "longitude": -71.0
     },
     {
-        "name": "Провинция Тауаману",
+        "name": "Provincia de Tahuaman\u00fa",
         "latitude": -11.25,
         "longitude": -70.5
     },
     {
-        "name": "Провинция Тамбопата",
+        "name": "Provincia de Tambopata",
         "latitude": -12.19948,
         "longitude": -70.05006
     },
     {
-        "name": "Пуэрто Мальдонадо",
+        "name": "Puerto Maldonado",
         "latitude": -12.59331,
         "longitude": -69.18913
     },
     {
-        "name": "Спасение",
+        "name": "Salvaci\u00f3n",
         "latitude": -12.83605,
         "longitude": -71.3649
     },
     {
-        "name": "Тамбопата",
+        "name": "Tambopata",
         "latitude": -12.67191,
         "longitude": -69.35547
     },
     {
-        "name": "Ило",
+        "name": "Ilo",
         "latitude": -17.63185,
         "longitude": -71.34108
     },
     {
-        "name": "Мокегуа",
+        "name": "Moquegua",
         "latitude": -17.19832,
         "longitude": -70.93567
     },
     {
-        "name": "Пакоча",
+        "name": "Pacocha",
         "latitude": -17.64604,
         "longitude": -71.34481
     },
     {
-        "name": "Провинция Генерала Санчеса Серро",
+        "name": "Provincia de General S\u00e1nchez Cerro",
         "latitude": -16.5,
         "longitude": -70.66667
     },
     {
-        "name": "Провинция Ило",
+        "name": "Provincia de Ilo",
         "latitude": -17.49694,
         "longitude": -71.16722
     },
     {
-        "name": "Провинция Марискаль Ньето",
+        "name": "Provincia de Mariscal Nieto",
         "latitude": -17.08361,
         "longitude": -71.00333
     },
     {
-        "name": "Тората",
+        "name": "Torata",
         "latitude": -17.07694,
         "longitude": -70.84333
     },
     {
-        "name": "Паско Хилл",
+        "name": "Cerro de Pasco",
         "latitude": -10.66748,
         "longitude": -76.25668
     },
     {
-        "name": "Чаупимарка",
+        "name": "Chaupimarca",
         "latitude": -10.40696,
         "longitude": -76.46168
     },
     {
-        "name": "Оксапампа",
+        "name": "Oxapampa",
         "latitude": -10.5775,
         "longitude": -75.40167
     },
     {
-        "name": "Паукартамбо",
+        "name": "Paucartambo",
         "latitude": -10.77326,
         "longitude": -75.81109
     },
     {
-        "name": "Провинция Даниэль Каррион",
+        "name": "Provincia de Daniel Carri\u00f3n",
         "latitude": -10.5,
         "longitude": -76.5
     },
     {
-        "name": "Провинция Оксапампа",
+        "name": "Provincia de Oxapampa",
         "latitude": -10.33333,
         "longitude": -75.08333
     },
     {
-        "name": "Провинция Паско",
+        "name": "Provincia de Pasco",
         "latitude": -10.66667,
         "longitude": -76.08333
     },
     {
-        "name": "Тиньяуарко",
+        "name": "Tinyahuarco",
         "latitude": -10.76771,
         "longitude": -76.27523
     },
     {
-        "name": "Вилла Рика",
+        "name": "Villa Rica",
         "latitude": -10.73944,
         "longitude": -75.26972
     },
     {
-        "name": "Аябака",
+        "name": "Ayabaca",
         "latitude": -4.63983,
         "longitude": -79.71491
     },
     {
-        "name": "Берналь",
+        "name": "Bernal",
         "latitude": -5.45,
         "longitude": -80.75
     },
     {
-        "name": "Буэнос айрес",
+        "name": "Buenos Aires",
         "latitude": -5.26083,
         "longitude": -79.96417
     },
     {
-        "name": "Катакаос",
+        "name": "Catacaos",
         "latitude": -5.26667,
         "longitude": -80.68333
     },
     {
-        "name": "Чулуканас",
+        "name": "Chulucanas",
         "latitude": -5.0925,
         "longitude": -80.1625
     },
     {
-        "name": "Высокий",
+        "name": "El Alto",
         "latitude": -4.26851,
         "longitude": -81.21719
     },
     {
-        "name": "Уанкабамба",
+        "name": "Huancabamba",
         "latitude": -5.23861,
         "longitude": -79.45056
     },
     {
-        "name": "Ла Брейта",
+        "name": "La Breita",
         "latitude": -4.25691,
         "longitude": -80.88599
     },
     {
-        "name": "Уака",
+        "name": "La Huaca",
         "latitude": -4.91167,
         "longitude": -80.96
     },
     {
-        "name": "Союз",
+        "name": "La Uni\u00f3n",
         "latitude": -5.40232,
         "longitude": -80.74224
     },
     {
-        "name": "Холмы",
+        "name": "Las Lomas",
         "latitude": -4.65333,
         "longitude": -80.24667
     },
     {
-        "name": "Манкора",
+        "name": "M\u00e1ncora",
         "latitude": -4.10778,
         "longitude": -81.0475
     },
     {
-        "name": "Маркавелика",
+        "name": "Marcavelica",
         "latitude": -4.87778,
         "longitude": -80.70528
     },
     {
-        "name": "Морропон",
+        "name": "Morropon",
         "latitude": -5.25,
         "longitude": -80.0
     },
     {
-        "name": "Рубашка",
+        "name": "Paita",
         "latitude": -5.08917,
         "longitude": -81.11444
     },
     {
-        "name": "Пьюра",
+        "name": "Piura",
         "latitude": -5.19449,
         "longitude": -80.63282
     },
     {
-        "name": "Провинция Аябака",
+        "name": "Provincia de Ayabaca",
         "latitude": -4.75,
         "longitude": -79.83333
     },
     {
-        "name": "Провинция Уанкабамба",
+        "name": "Provincia de Huancabamba",
         "latitude": -5.5,
         "longitude": -79.58333
     },
     {
-        "name": "Провинция Паита",
+        "name": "Provincia de Paita",
         "latitude": -5.10189,
         "longitude": -81.09695
     },
     {
-        "name": "Провинция Пьюра",
+        "name": "Provincia de Piura",
         "latitude": -5.21416,
         "longitude": -80.40617
     },
     {
-        "name": "Провинция Суллана",
+        "name": "Provincia de Sullana",
         "latitude": -4.5,
         "longitude": -80.66667
     },
     {
-        "name": "Провинция Талара",
+        "name": "Provincia de Talara",
         "latitude": -4.41667,
         "longitude": -81.08333
     },
     {
-        "name": "Керекотильо",
+        "name": "Querecotillo",
         "latitude": -4.83778,
         "longitude": -80.64556
     },
     {
-        "name": "Салинера Колан",
+        "name": "Salinera Col\u00e1n",
         "latitude": -5.03333,
         "longitude": -81.06667
     },
     {
-        "name": "Салитрал",
+        "name": "Salitral",
         "latitude": -4.85722,
         "longitude": -80.68111
     },
     {
-        "name": "Засуха",
+        "name": "Sechura",
         "latitude": -5.55694,
         "longitude": -80.82222
     },
     {
-        "name": "Суллана",
+        "name": "Sullana",
         "latitude": -4.90389,
         "longitude": -80.68528
     },
     {
-        "name": "Талара",
+        "name": "Talara",
         "latitude": -4.57722,
         "longitude": -81.27194
     },
     {
-        "name": "Большой Тамбо",
+        "name": "Tambo Grande",
         "latitude": -4.92694,
         "longitude": -80.34472
     },
     {
-        "name": "Порок",
+        "name": "Vice",
         "latitude": -5.41667,
         "longitude": -80.78333
     },
     {
-        "name": "Приклей это",
+        "name": "Atuncolla",
         "latitude": -15.68333,
         "longitude": -70.15
     },
     {
-        "name": "Аявири",
+        "name": "Ayaviri",
         "latitude": -14.88639,
         "longitude": -70.58889
     },
     {
-        "name": "Азангаро",
+        "name": "Az\u00e1ngaro",
         "latitude": -14.90843,
         "longitude": -70.19616
     },
     {
-        "name": "Осушать",
+        "name": "Desaguadero",
         "latitude": -16.56556,
         "longitude": -69.04167
     },
     {
-        "name": "Коллао",
+        "name": "El Collao",
         "latitude": -16.72641,
         "longitude": -69.75515
     },
     {
-        "name": "Гасиенда Уанкане",
+        "name": "Hacienda Huancane",
         "latitude": -15.82327,
         "longitude": -70.8854
     },
     {
-        "name": "Дополнительный",
+        "name": "Ilave",
         "latitude": -16.08333,
         "longitude": -69.66667
     },
     {
-        "name": "Июль",
+        "name": "Juli",
         "latitude": -16.21667,
         "longitude": -69.45
     },
     {
-        "name": "Хулиака",
+        "name": "Juliaca",
         "latitude": -15.5,
         "longitude": -70.13333
     },
     {
-        "name": "Угловое место",
+        "name": "La Rinconada",
         "latitude": -14.63126,
         "longitude": -69.44638
     },
     {
-        "name": "Лампа",
+        "name": "Lampa",
         "latitude": -15.35,
         "longitude": -70.36667
     },
     {
-        "name": "Макусани",
+        "name": "Macusani",
         "latitude": -14.08333,
         "longitude": -70.43333
     },
     {
-        "name": "Сюньоа",
+        "name": "\u00d1u\u00f1oa",
         "latitude": -14.47788,
         "longitude": -70.63583
     },
     {
-        "name": "Провинция Азангаро",
+        "name": "Provincia de Az\u00e1ngaro",
         "latitude": -14.83333,
         "longitude": -70.16667
     },
     {
-        "name": "Провинция Карабая",
+        "name": "Provincia de Carabaya",
         "latitude": -13.83333,
         "longitude": -70.25
     },
     {
-        "name": "Провинция Чукуито",
+        "name": "Provincia de Chucuito",
         "latitude": -16.60545,
         "longitude": -69.35761
     },
     {
-        "name": "Провинция Уанкане",
+        "name": "Provincia de Huancan\u00e9",
         "latitude": -15.16667,
         "longitude": -69.58333
     },
     {
-        "name": "Провинция Лампа",
+        "name": "Provincia de Lampa",
         "latitude": -15.41667,
         "longitude": -70.58333
     },
     {
-        "name": "Провинция Мельгар",
+        "name": "Provincia de Melgar",
         "latitude": -14.75,
         "longitude": -70.75
     },
     {
-        "name": "Провинция Пуно",
+        "name": "Provincia de Puno",
         "latitude": -16.0,
         "longitude": -70.0
     },
     {
-        "name": "Провинция Сандия",
+        "name": "Provincia de Sandia",
         "latitude": -13.83333,
         "longitude": -69.33333
     },
     {
-        "name": "Много",
+        "name": "Puno",
         "latitude": -15.8422,
         "longitude": -70.0199
     },
     {
-        "name": "Сан-Антонио-де-Путина",
+        "name": "San Antonio De Putina",
         "latitude": -14.71175,
         "longitude": -69.61559
     },
     {
-        "name": "Сан-Роман",
+        "name": "San Roman",
         "latitude": -15.83333,
         "longitude": -70.5
     },
     {
-        "name": "Сент-Люсия",
+        "name": "Santa Luc\u00eda",
         "latitude": -15.69788,
         "longitude": -70.6061
     },
     {
-        "name": "Такиле",
+        "name": "Taquile",
         "latitude": -15.76667,
         "longitude": -69.68333
     },
     {
-        "name": "Юнгуйо",
+        "name": "Yunguyo",
         "latitude": -16.25,
         "longitude": -69.08333
     },
     {
-        "name": "Красивый вид",
+        "name": "Bellavista",
         "latitude": -7.05614,
         "longitude": -76.5911
     },
     {
-        "name": "Чазута",
+        "name": "Chazuta",
         "latitude": -6.57087,
         "longitude": -76.13753
     },
     {
-        "name": "Золотой",
+        "name": "El Dorado",
         "latitude": -6.56298,
         "longitude": -76.7413
     },
     {
-        "name": "Уикунго",
+        "name": "Huicungo",
         "latitude": -7.3186,
         "longitude": -76.77556
     },
     {
-        "name": "Джепеласио",
+        "name": "Jepelacio",
         "latitude": -6.11667,
         "longitude": -76.95
     },
     {
-        "name": "Хуанхуи",
+        "name": "Juanju\u00ed",
         "latitude": -7.17697,
         "longitude": -76.72774
     },
     {
-        "name": "Ламы",
+        "name": "Lamas",
         "latitude": -6.41667,
         "longitude": -76.53333
     },
     {
-        "name": "Мойобамба",
+        "name": "Moyobamba",
         "latitude": -6.03416,
         "longitude": -76.97168
     },
     {
-        "name": "Позорный столб",
+        "name": "Picota",
         "latitude": -6.92033,
         "longitude": -76.33142
     },
     {
-        "name": "Провинция Уальлага",
+        "name": "Provincia de Huallaga",
         "latitude": -6.75664,
         "longitude": -76.90143
     },
     {
-        "name": "Провинция Ламас",
+        "name": "Provincia de Lamas",
         "latitude": -6.33333,
         "longitude": -76.66667
     },
     {
-        "name": "Провинция Марискаль Касерес",
+        "name": "Provincia de Mariscal C\u00e1ceres",
         "latitude": -7.2739,
         "longitude": -77.18216
     },
     {
-        "name": "Провинция Мойобамба",
+        "name": "Provincia de Moyobamba",
         "latitude": -5.75,
         "longitude": -77.25
     },
     {
-        "name": "Провинция Риоха",
+        "name": "Provincia de Rioja",
         "latitude": -6.0,
         "longitude": -77.41667
     },
     {
-        "name": "Провинция Сан-Мартин",
+        "name": "Provincia de San Mart\u00edn",
         "latitude": -6.58333,
         "longitude": -76.16667
     },
     {
-        "name": "Риоха",
+        "name": "Rioja",
         "latitude": -6.05675,
         "longitude": -77.16651
     },
     {
-        "name": "Сапосоа",
+        "name": "Saposoa",
         "latitude": -6.93395,
         "longitude": -76.77158
     },
     {
-        "name": "Осталось",
+        "name": "Sisa",
         "latitude": -6.61085,
         "longitude": -76.69302
     },
     {
-        "name": "сестра",
+        "name": "Soritor",
         "latitude": -6.13917,
         "longitude": -77.10389
     },
     {
-        "name": "Табалосос",
+        "name": "Tabalosos",
         "latitude": -6.35,
         "longitude": -76.68333
     },
     {
-        "name": "Тарапото",
+        "name": "Tarapoto",
         "latitude": -6.50139,
         "longitude": -76.36556
     },
     {
-        "name": "Токаче",
+        "name": "Tocache",
         "latitude": -8.1877,
         "longitude": -76.52046
     },
     {
-        "name": "Ты исцеляешься",
+        "name": "Uchiza",
         "latitude": -8.45917,
         "longitude": -76.46333
     },
     {
-        "name": "Брюки",
+        "name": "Calana",
         "latitude": -17.94167,
         "longitude": -70.18694
     },
     {
-        "name": "Кандараве",
+        "name": "Candarave",
         "latitude": -17.26778,
         "longitude": -70.24944
     },
     {
-        "name": "испанский",
+        "name": "Chipispaya",
         "latitude": -17.4979,
         "longitude": -70.21714
     },
     {
-        "name": "Чукитира",
+        "name": "Chuquitira",
         "latitude": -17.28891,
         "longitude": -70.04363
     },
     {
-        "name": "Отпустить",
+        "name": "Ilabaya",
         "latitude": -17.42083,
         "longitude": -70.51333
     },
     {
-        "name": "Хорхе Басадре",
+        "name": "Jorge Basadre",
         "latitude": -17.57919,
         "longitude": -70.73083
     },
     {
-        "name": "Провинция Такна",
+        "name": "Provincia de Tacna",
         "latitude": -17.83333,
         "longitude": -70.5
     },
     {
-        "name": "Провинция Тарата",
+        "name": "Provincia de Tarata",
         "latitude": -17.41667,
         "longitude": -70.08333
     },
     {
-        "name": "Пужокучо",
+        "name": "Pujocucho",
         "latitude": -17.15778,
         "longitude": -70.35222
     },
     {
-        "name": "Килауани",
+        "name": "Quilahuani",
         "latitude": -17.31778,
         "longitude": -70.25806
     },
     {
-        "name": "Такна",
+        "name": "Tacna",
         "latitude": -18.01465,
         "longitude": -70.25362
     },
     {
-        "name": "Калиброванный",
+        "name": "Tarata",
         "latitude": -17.47444,
         "longitude": -70.03278
     },
     {
-        "name": "рогоз",
+        "name": "Totoral",
         "latitude": -17.4062,
         "longitude": -70.36464
     },
     {
-        "name": "Зеленые воды",
+        "name": "Aguas Verdes",
         "latitude": -3.48139,
         "longitude": -80.245
     },
     {
-        "name": "Папайал",
+        "name": "Papayal",
         "latitude": -4.07771,
         "longitude": -80.7369
     },
     {
-        "name": "Провинция Контральмиранте-Вильяр",
+        "name": "Provincia de Contralmirante Villar",
         "latitude": -4.0,
         "longitude": -80.75
     },
     {
-        "name": "Провинция Тумбес",
+        "name": "Provincia de Tumbes",
         "latitude": -3.75,
         "longitude": -80.41667
     },
     {
-        "name": "Провинция Сарумилла",
+        "name": "Provincia de Zarumilla",
         "latitude": -3.66667,
         "longitude": -80.25
     },
     {
-        "name": "Тумбес",
+        "name": "Tumbes",
         "latitude": -3.56694,
         "longitude": -80.45153
     },
     {
-        "name": "Сарумилла",
+        "name": "Zarumilla",
         "latitude": -3.50306,
         "longitude": -80.27306
     },
     {
-        "name": "Сорритос",
+        "name": "Zorritos",
         "latitude": -3.68046,
         "longitude": -80.67819
     },
     {
-        "name": "Сторожевая башня",
+        "name": "Atalaya",
         "latitude": -10.3898,
         "longitude": -73.21977
     },
     {
-        "name": "Зеленое поле",
+        "name": "Campoverde",
         "latitude": -8.47533,
         "longitude": -74.80709
     },
     {
-        "name": "Падре Абад",
+        "name": "Padre Abad",
         "latitude": -8.7968,
         "longitude": -75.4285
     },
     {
-        "name": "Провинция Коронель Портильо",
+        "name": "Provincia de Coronel Portillo",
         "latitude": -9.5,
         "longitude": -73.33333
     },
     {
-        "name": "Пукальпа",
+        "name": "Pucallpa",
         "latitude": -8.37915,
         "longitude": -74.55387
     },
     {
-        "name": "Чистый",
+        "name": "Purus",
         "latitude": -10.37331,
         "longitude": -71.58231
     }

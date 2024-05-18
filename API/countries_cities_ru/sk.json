@@ -1,271 +1,271 @@
 [
     {
-        "name": "Банска-Бистрица",
+        "name": "Bansk\u00e1 Bystrica",
         "latitude": 48.73946,
         "longitude": 19.15349
     },
     {
-        "name": "Банска Штьявница",
+        "name": "Bansk\u00e1 \u0160tiavnica",
         "latitude": 48.44858,
         "longitude": 18.91003
     },
     {
-        "name": "Брезно",
+        "name": "Brezno",
         "latitude": 48.80431,
         "longitude": 19.63631
     },
     {
-        "name": "Черный Балог",
+        "name": "\u010cierny Balog",
         "latitude": 48.74722,
         "longitude": 19.65125
     },
     {
-        "name": "Ребенок",
+        "name": "Detva",
         "latitude": 48.56082,
         "longitude": 19.41954
     },
     {
-        "name": "Дудинце",
+        "name": "Dudince",
         "latitude": 48.17135,
         "longitude": 18.88782
     },
     {
-        "name": "Филаково",
+        "name": "Fi\u013eakovo",
         "latitude": 48.26757,
         "longitude": 19.82473
     },
     {
-        "name": "Хринова",
+        "name": "Hri\u0148ov\u00e1",
         "latitude": 48.57787,
         "longitude": 19.52574
     },
     {
-        "name": "ХрохотСловакия",
+        "name": "Hrocho\u0165Slovakia",
         "latitude": 48.65567,
         "longitude": 19.31284
     },
     {
-        "name": "Ковачова",
+        "name": "Kov\u00e1\u010dov\u00e1",
         "latitude": 48.60148,
         "longitude": 19.10252
     },
     {
-        "name": "Кремница",
+        "name": "Kremnica",
         "latitude": 48.70519,
         "longitude": 18.91834
     },
     {
-        "name": "Гречиха",
+        "name": "Krupina",
         "latitude": 48.3554,
         "longitude": 19.06474
     },
     {
-        "name": "Лученец",
+        "name": "Lu\u010denec",
         "latitude": 48.33249,
         "longitude": 19.66708
     },
     {
-        "name": "Новая шахта",
+        "name": "Nov\u00e1 Ba\u0148a",
         "latitude": 48.42305,
         "longitude": 18.64037
     },
     {
-        "name": "Банскобистрицкий район",
+        "name": "Okres Bansk\u00e1 Bystrica",
         "latitude": 48.73333,
         "longitude": 19.15
     },
     {
-        "name": "Банска Штьявницкий район",
+        "name": "Okres Bansk\u00e1 \u0160tiavnica",
         "latitude": 48.44961,
         "longitude": 18.9082
     },
     {
-        "name": "Брезненский район",
+        "name": "Okres Brezno",
         "latitude": 48.8,
         "longitude": 19.75
     },
     {
-        "name": "Детвинский район",
+        "name": "Okres Detva",
         "latitude": 48.55985,
         "longitude": 19.42044
     },
     {
-        "name": "Крупинский район",
+        "name": "Okres Krupina",
         "latitude": 48.35736,
         "longitude": 19.06334
     },
     {
-        "name": "Лученецкий район",
+        "name": "Okres Lu\u010denec",
         "latitude": 48.33333,
         "longitude": 19.66667
     },
     {
-        "name": "Полтарский район",
+        "name": "Okres Polt\u00e1r",
         "latitude": 48.42895,
         "longitude": 19.79488
     },
     {
-        "name": "Ревуцкий район",
+        "name": "Okres Rev\u00faca",
         "latitude": 48.683,
         "longitude": 20.11568
     },
     {
-        "name": "Вельки Кртишский район",
+        "name": "Okres Ve\u013ek\u00fd Krt\u00ed\u0161",
         "latitude": 48.2,
         "longitude": 19.35
     },
     {
-        "name": "Район Жарновица",
+        "name": "Okres \u017darnovica",
         "latitude": 48.48438,
         "longitude": 18.72076
     },
     {
-        "name": "Район Жяр-над-Гроном",
+        "name": "Okres \u017diar nad Hronom",
         "latitude": 48.58333,
         "longitude": 18.86667
     },
     {
-        "name": "Зволенский район",
+        "name": "Okres Zvolen",
         "latitude": 48.58333,
         "longitude": 19.13333
     },
     {
-        "name": "Полтар",
+        "name": "Polt\u00e1r",
         "latitude": 48.43094,
         "longitude": 19.79408
     },
     {
-        "name": "Ревущий",
+        "name": "Rev\u00faca",
         "latitude": 48.68346,
         "longitude": 20.11734
     },
     {
-        "name": "Римавска Собота",
+        "name": "Rimavsk\u00e1 Sobota",
         "latitude": 48.38284,
         "longitude": 20.02239
     },
     {
-        "name": "Святой Антоний",
+        "name": "Sv\u00e4t\u00fd Anton",
         "latitude": 48.41923,
         "longitude": 18.9401
     },
     {
-        "name": "Тисовец",
+        "name": "Tisovec",
         "latitude": 48.67738,
         "longitude": 19.94364
     },
     {
-        "name": "Великий Кртис",
+        "name": "Ve\u013ek\u00fd Krt\u00ed\u0161",
         "latitude": 48.21059,
         "longitude": 19.35043
     },
     {
-        "name": "Жарновица",
+        "name": "\u017darnovica",
         "latitude": 48.48123,
         "longitude": 18.71565
     },
     {
-        "name": "Свечение над Хроном",
+        "name": "\u017diar nad Hronom",
         "latitude": 48.59184,
         "longitude": 18.84958
     },
     {
-        "name": "Избранный",
+        "name": "Zvolen",
         "latitude": 48.57442,
         "longitude": 19.15324
     },
     {
-        "name": "Братислава",
+        "name": "Bratislava",
         "latitude": 48.14816,
         "longitude": 17.10674
     },
     {
-        "name": "Братислава - Вайнори",
+        "name": "Bratislava - Vajnory",
         "latitude": 48.20563,
         "longitude": 17.20759
     },
     {
-        "name": "Дунайска Лужна",
+        "name": "Dunajsk\u00e1 Lu\u017en\u00e1",
         "latitude": 48.08347,
         "longitude": 17.26072
     },
     {
-        "name": "Иванка у Дуная",
+        "name": "Ivanka pri Dunaji",
         "latitude": 48.18675,
         "longitude": 17.2554
     },
     {
-        "name": "Малакка",
+        "name": "Malacky",
         "latitude": 48.43604,
         "longitude": 17.02188
     },
     {
-        "name": "Марианка",
+        "name": "Marianka",
         "latitude": 48.24903,
         "longitude": 17.064
     },
     {
-        "name": "Синий",
+        "name": "Modra",
         "latitude": 48.33397,
         "longitude": 17.30711
     },
     {
-        "name": "Район Братислава I",
+        "name": "Okres Bratislava I",
         "latitude": 48.14653,
         "longitude": 17.10584
     },
     {
-        "name": "Район Братислава II",
+        "name": "Okres Bratislava II",
         "latitude": 48.1528,
         "longitude": 17.17764
     },
     {
-        "name": "Район Братислава III",
+        "name": "Okres Bratislava III",
         "latitude": 48.18543,
         "longitude": 17.1379
     },
     {
-        "name": "Район Братислава IV",
+        "name": "Okres Bratislava IV",
         "latitude": 48.22787,
         "longitude": 16.99722
     },
     {
-        "name": "Регион Братислава V",
+        "name": "Okres Bratislava V",
         "latitude": 48.11122,
         "longitude": 17.09444
     },
     {
-        "name": "Малацкий район",
+        "name": "Okres Malacky",
         "latitude": 48.43458,
         "longitude": 17.02166
     },
     {
-        "name": "Пезинокский район",
+        "name": "Okres Pezinok",
         "latitude": 48.28785,
         "longitude": 17.26799
     },
     {
-        "name": "Сенецкий район",
+        "name": "Okres Senec",
         "latitude": 48.22187,
         "longitude": 17.40328
     },
     {
-        "name": "Пезинок",
+        "name": "Pezinok",
         "latitude": 48.28986,
         "longitude": 17.26664
     },
     {
-        "name": "стог сена",
+        "name": "Senec",
         "latitude": 48.21951,
         "longitude": 17.40043
     },
     {
-        "name": "Ступава",
+        "name": "Stupava",
         "latitude": 48.27474,
         "longitude": 17.03173
     },
     {
-        "name": "Сен-Жюр",
+        "name": "Sv\u00e4t\u00fd Jur",
         "latitude": 48.25216,
         "longitude": 17.21539
     },
@@ -275,427 +275,427 @@
         "longitude": 17.29042
     },
     {
-        "name": "Черна-над-Тисой",
+        "name": "\u010cierna nad Tisou",
         "latitude": 48.41704,
         "longitude": 22.08865
     },
     {
-        "name": "Добшина",
+        "name": "Dob\u0161in\u00e1",
         "latitude": 48.82073,
         "longitude": 20.36988
     },
     {
-        "name": "Гелница",
+        "name": "Gelnica",
         "latitude": 48.85584,
         "longitude": 20.93713
     },
     {
-        "name": "Кавечаны",
+        "name": "Kave\u010dany",
         "latitude": 48.77592,
         "longitude": 21.20587
     },
     {
-        "name": "Кошице",
+        "name": "Ko\u0161ice",
         "latitude": 48.71395,
         "longitude": 21.25808
     },
     {
-        "name": "Кошице I",
+        "name": "Ko\u0161ice I",
         "latitude": 48.72914,
         "longitude": 21.25004
     },
     {
-        "name": "Кошице II",
+        "name": "Ko\u0161ice II",
         "latitude": 48.69753,
         "longitude": 21.22273
     },
     {
-        "name": "Кошице III",
+        "name": "Ko\u0161ice III",
         "latitude": 48.73242,
         "longitude": 21.29047
     },
     {
-        "name": "Кошице IV",
+        "name": "Ko\u0161ice IV",
         "latitude": 48.68691,
         "longitude": 21.2657
     },
     {
-        "name": "Кромпахи",
+        "name": "Krompachy",
         "latitude": 48.91447,
         "longitude": 20.87514
     },
     {
-        "name": "Зазор",
+        "name": "Medzev",
         "latitude": 48.70041,
         "longitude": 20.89367
     },
     {
-        "name": "Михаловце",
+        "name": "Michalovce",
         "latitude": 48.75434,
         "longitude": 21.9195
     },
     {
-        "name": "Молдава-над-Бодвой",
+        "name": "Moldava nad Bodvou",
         "latitude": 48.61428,
         "longitude": 20.99957
     },
     {
-        "name": "Гелницкий район",
+        "name": "Okres Gelnica",
         "latitude": 48.85207,
         "longitude": 20.93385
     },
     {
-        "name": "Кошице район-окресности",
+        "name": "Okres Kosice-okolie",
         "latitude": 48.77897,
         "longitude": 21.41373
     },
     {
-        "name": "Михаловецкий район",
+        "name": "Okres Michalovce",
         "latitude": 48.75,
         "longitude": 21.93333
     },
     {
-        "name": "Рожнявский район",
+        "name": "Okres Ro\u017e\u0148ava",
         "latitude": 48.66667,
         "longitude": 20.53333
     },
     {
-        "name": "Собранский район",
+        "name": "Okres Sobrance",
         "latitude": 48.74247,
         "longitude": 22.18197
     },
     {
-        "name": "Район Спишска-Нова-Вес",
+        "name": "Okres Spi\u0161sk\u00e1 Nov\u00e1 Ves",
         "latitude": 48.95,
         "longitude": 20.56667
     },
     {
-        "name": "Требишовский район",
+        "name": "Okres Trebi\u0161ov",
         "latitude": 48.63333,
         "longitude": 21.71667
     },
     {
-        "name": "Рожнява",
+        "name": "Ro\u017e\u0148ava",
         "latitude": 48.66009,
         "longitude": 20.53758
     },
     {
-        "name": "Сечовце",
+        "name": "Se\u010dovce",
         "latitude": 48.70074,
         "longitude": 21.66104
     },
     {
-        "name": "Собранс",
+        "name": "Sobrance",
         "latitude": 48.74455,
         "longitude": 22.18136
     },
     {
-        "name": "Весь",
+        "name": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
         "latitude": 48.94464,
         "longitude": 20.56153
     },
     {
-        "name": "Стражске",
+        "name": "Str\u00e1\u017eske",
         "latitude": 48.8735,
         "longitude": 21.83668
     },
     {
-        "name": "Требишов",
+        "name": "Trebi\u0161ov",
         "latitude": 48.62858,
         "longitude": 21.71954
     },
     {
-        "name": "Виновный",
+        "name": "Vinn\u00e9",
         "latitude": 48.80965,
         "longitude": 21.96757
     },
     {
-        "name": "Жехра",
+        "name": "\u017dehra",
         "latitude": 48.9796,
         "longitude": 20.7917
     },
     {
-        "name": "Гурбаново",
+        "name": "Hurbanovo",
         "latitude": 47.86984,
         "longitude": 18.19233
     },
     {
-        "name": "Коларово",
+        "name": "Kol\u00e1rovo",
         "latitude": 47.92294,
         "longitude": 17.98467
     },
     {
-        "name": "Комар",
+        "name": "Kom\u00e1rno",
         "latitude": 47.76356,
         "longitude": 18.12263
     },
     {
-        "name": "Левый",
+        "name": "Levice",
         "latitude": 48.21563,
         "longitude": 18.60705
     },
     {
-        "name": "Нитра",
+        "name": "Nitra",
         "latitude": 48.30763,
         "longitude": 18.08453
     },
     {
-        "name": "Новые замки",
+        "name": "Nov\u00e9 Z\u00e1mky",
         "latitude": 47.98544,
         "longitude": 18.16195
     },
     {
-        "name": "Комарно район",
+        "name": "Okres Kom\u00e1rno",
         "latitude": 47.76667,
         "longitude": 18.13333
     },
     {
-        "name": "Левицкий район",
+        "name": "Okres Levice",
         "latitude": 48.21667,
         "longitude": 18.6
     },
     {
-        "name": "Нитранский район",
+        "name": "Okres Nitra",
         "latitude": 48.31667,
         "longitude": 18.08333
     },
     {
-        "name": "Новозамкский район",
+        "name": "Okres Nov\u00e9 Z\u00e1mky",
         "latitude": 47.98333,
         "longitude": 18.16667
     },
     {
-        "name": "Шальский район",
+        "name": "Okres \u0160a\u013ea",
         "latitude": 48.1477,
         "longitude": 17.87306
     },
     {
-        "name": "Топольчанский район",
+        "name": "Okres Topo\u013e\u010dany",
         "latitude": 48.56667,
         "longitude": 18.18333
     },
     {
-        "name": "Злате-Моравецкий район",
+        "name": "Okres Zlat\u00e9 Moravce",
         "latitude": 48.38294,
         "longitude": 18.39842
     },
     {
-        "name": "шахматы",
+        "name": "\u0160ahy",
         "latitude": 48.07408,
         "longitude": 18.94946
     },
     {
-        "name": "Это безумие",
+        "name": "\u0160a\u013ea",
         "latitude": 48.15127,
         "longitude": 17.88062
     },
     {
-        "name": "Стурово",
+        "name": "\u0160t\u00farovo",
         "latitude": 47.79495,
         "longitude": 18.7175
     },
     {
-        "name": "Шураны",
+        "name": "\u0160urany",
         "latitude": 48.08613,
         "longitude": 18.18447
     },
     {
-        "name": "Сводина",
+        "name": "Svod\u00edn",
         "latitude": 47.91054,
         "longitude": 18.49967
     },
     {
-        "name": "Переводчики",
+        "name": "Tlma\u010de",
         "latitude": 48.28926,
         "longitude": 18.53152
     },
     {
-        "name": "Топольчаны",
+        "name": "Topo\u013e\u010dany",
         "latitude": 48.56361,
         "longitude": 18.16712
     },
     {
-        "name": "Воробьи",
+        "name": "Vr\u00e1ble",
         "latitude": 48.24371,
         "longitude": 18.30846
     },
     {
-        "name": "Железовце",
+        "name": "\u017deliezovce",
         "latitude": 48.05075,
         "longitude": 18.65421
     },
     {
-        "name": "Злате Моравце",
+        "name": "Zlat\u00e9 Moravce",
         "latitude": 48.38553,
         "longitude": 18.40063
     },
     {
-        "name": "Бардейов",
+        "name": "Bardejov",
         "latitude": 49.29175,
         "longitude": 21.27271
     },
     {
-        "name": "Хлмец",
+        "name": "Chlmec",
         "latitude": 48.88628,
         "longitude": 21.9393
     },
     {
-        "name": "Гиралтовце",
+        "name": "Giraltovce",
         "latitude": 49.11398,
         "longitude": 21.51731
     },
     {
-        "name": "Гуменне",
+        "name": "Humenn\u00e9",
         "latitude": 48.93707,
         "longitude": 21.91625
     },
     {
-        "name": "Кежмарок",
+        "name": "Ke\u017emarok",
         "latitude": 49.13571,
         "longitude": 20.43352
     },
     {
-        "name": "Левоча",
+        "name": "Levo\u010da",
         "latitude": 49.02173,
         "longitude": 20.59212
     },
     {
-        "name": "Хариусы",
+        "name": "Lipany",
         "latitude": 49.15376,
         "longitude": 20.96382
     },
     {
-        "name": "Любица",
+        "name": "\u013dubica",
         "latitude": 49.11667,
         "longitude": 20.45
     },
     {
-        "name": "Межлабораторный",
+        "name": "Medzilaborce",
         "latitude": 49.27195,
         "longitude": 21.90073
     },
     {
-        "name": "Нью-Форест",
+        "name": "Nov\u00e1 Lesn\u00e1",
         "latitude": 49.12253,
         "longitude": 20.26737
     },
     {
-        "name": "Бардейовский район",
+        "name": "Okres Bardejov",
         "latitude": 49.28333,
         "longitude": 21.28333
     },
     {
-        "name": "Гуменненский район",
+        "name": "Okres Humenn\u00e9",
         "latitude": 48.93333,
         "longitude": 21.91667
     },
     {
-        "name": "Кежмарокский район",
+        "name": "Okres Ke\u017emarok",
         "latitude": 49.13593,
         "longitude": 20.42929
     },
     {
-        "name": "Левочский район",
+        "name": "Okres Levo\u010da",
         "latitude": 49.01986,
         "longitude": 20.57688
     },
     {
-        "name": "Медзилаборцкий район",
+        "name": "Okres Medzilaborce",
         "latitude": 49.27062,
         "longitude": 21.902
     },
     {
-        "name": "Попрадский район",
+        "name": "Okres Poprad",
         "latitude": 49.05,
         "longitude": 20.3
     },
     {
-        "name": "Прешовский район",
+        "name": "Okres Pre\u0161ov",
         "latitude": 49.0,
         "longitude": 21.25
     },
     {
-        "name": "Сабиновский район",
+        "name": "Okres Sabinov",
         "latitude": 49.10115,
         "longitude": 21.09844
     },
     {
-        "name": "Снинский район",
+        "name": "Okres Snina",
         "latitude": 48.98579,
         "longitude": 22.15059
     },
     {
-        "name": "Стараобовнянский район",
+        "name": "Okres Star\u00e1 \u0139ubov\u0148a",
         "latitude": 49.3,
         "longitude": 20.7
     },
     {
-        "name": "Стропковский район",
+        "name": "Okres Stropkov",
         "latitude": 49.20249,
         "longitude": 21.65025
     },
     {
-        "name": "Свидникский район",
+        "name": "Okres Svidn\u00edk",
         "latitude": 49.3,
         "longitude": 21.56667
     },
     {
-        "name": "Вранов-над-Топлойский район",
+        "name": "Okres Vranov nad Top\u013eou",
         "latitude": 48.9,
         "longitude": 21.68333
     },
     {
-        "name": "Подолинец",
+        "name": "Podol\u00ednec",
         "latitude": 49.25869,
         "longitude": 20.536
     },
     {
-        "name": "Попрад",
+        "name": "Poprad",
         "latitude": 49.06144,
         "longitude": 20.29798
     },
     {
-        "name": "Прешов",
+        "name": "Pre\u0161ov",
         "latitude": 48.99839,
         "longitude": 21.23393
     },
     {
-        "name": "Сабинов",
+        "name": "Sabinov",
         "latitude": 49.10309,
         "longitude": 21.0988
     },
     {
-        "name": "Мечта",
+        "name": "Snina",
         "latitude": 48.98857,
         "longitude": 22.15099
     },
     {
-        "name": "Спишска Бела",
+        "name": "Spi\u0161sk\u00e1 Bel\u00e1",
         "latitude": 49.18725,
         "longitude": 20.45948
     },
     {
-        "name": "Спишске Подградье",
+        "name": "Spi\u0161sk\u00e9 Podhradie",
         "latitude": 49.00088,
         "longitude": 20.75307
     },
     {
-        "name": "Стара Любовня",
+        "name": "Star\u00e1 \u013dubov\u0148a",
         "latitude": 49.29859,
         "longitude": 20.6862
     },
     {
-        "name": "Штрба",
+        "name": "\u0160trba",
         "latitude": 49.05913,
         "longitude": 20.07975
     },
     {
-        "name": "Стропков",
+        "name": "Stropkov",
         "latitude": 49.20211,
         "longitude": 21.65216
     },
     {
-        "name": "Свидник",
+        "name": "Svidn\u00edk",
         "latitude": 49.30819,
         "longitude": 21.5703
     },
@@ -705,412 +705,412 @@
         "longitude": 20.20695
     },
     {
-        "name": "Вранов-над-Топлув",
+        "name": "Vranov nad Top\u013eou",
         "latitude": 48.88836,
         "longitude": 21.68479
     },
     {
-        "name": "Врбов",
+        "name": "Vrbov",
         "latitude": 49.08764,
         "longitude": 20.4253
     },
     {
-        "name": "Вышне Ружбахи",
+        "name": "Vy\u0161n\u00e9 Ru\u017ebachy",
         "latitude": 49.30387,
         "longitude": 20.56558
     },
     {
-        "name": "Высокие Татры",
+        "name": "Vysok\u00e9 Tatry",
         "latitude": 49.13637,
         "longitude": 20.24386
     },
     {
-        "name": "Ждиар",
+        "name": "\u017ddiar",
         "latitude": 49.271,
         "longitude": 20.26239
     },
     {
-        "name": "Бановце-над-Бебравой",
+        "name": "B\u00e1novce nad Bebravou",
         "latitude": 48.7213,
         "longitude": 18.25754
     },
     {
-        "name": "Бойнице",
+        "name": "Bojnice",
         "latitude": 48.78511,
         "longitude": 18.5864
     },
     {
-        "name": "Бирзова под Брадло",
+        "name": "Brezov\u00e1 pod Bradlom",
         "latitude": 48.66349,
         "longitude": 17.53905
     },
     {
-        "name": "Чахтице",
+        "name": "\u010cachtice",
         "latitude": 48.71226,
         "longitude": 17.78704
     },
     {
-        "name": "Дубница-над-Вагом",
+        "name": "Dubnica nad V\u00e1hom",
         "latitude": 48.95981,
         "longitude": 18.16634
     },
     {
-        "name": "Торговля",
+        "name": "Handlov\u00e1",
         "latitude": 48.7276,
         "longitude": 18.76012
     },
     {
-        "name": "Илава",
+        "name": "Ilava",
         "latitude": 48.99769,
         "longitude": 18.2353
     },
     {
-        "name": "Срок под Втачником",
+        "name": "Lehota pod Vt\u00e1\u010dnikom",
         "latitude": 48.69138,
         "longitude": 18.59944
     },
     {
-        "name": "Миява",
+        "name": "Myjava",
         "latitude": 48.75876,
         "longitude": 17.56866
     },
     {
-        "name": "Немшова",
+        "name": "Nem\u0161ov\u00e1",
         "latitude": 48.96702,
         "longitude": 18.11892
     },
     {
-        "name": "Новая Дубница",
+        "name": "Nov\u00e1 Dubnica",
         "latitude": 48.93479,
         "longitude": 18.14632
     },
     {
-        "name": "Новички",
+        "name": "Nov\u00e1ky",
         "latitude": 48.71106,
         "longitude": 18.53389
     },
     {
-        "name": "Нове-Место-над-Ваго",
+        "name": "Nov\u00e9 Mesto nad V\u00e1hom",
         "latitude": 48.75763,
         "longitude": 17.8309
     },
     {
-        "name": "Район Бановце-над-Бебравой",
+        "name": "Okres B\u00e1novce nad Bebravou",
         "latitude": 48.71908,
         "longitude": 18.25773
     },
     {
-        "name": "Илавский район",
+        "name": "Okres Ilava",
         "latitude": 48.99641,
         "longitude": 18.23374
     },
     {
-        "name": "Мыявский район",
+        "name": "Okres Myjava",
         "latitude": 48.75,
         "longitude": 17.58333
     },
     {
-        "name": "Нове-Место-над-Вагом район",
+        "name": "Okres Nov\u00e9 Mesto nad V\u00e1hom",
         "latitude": 48.75466,
         "longitude": 17.83506
     },
     {
-        "name": "Партизанский район",
+        "name": "Okres Partiz\u00e1nske",
         "latitude": 48.62613,
         "longitude": 18.37957
     },
     {
-        "name": "Поважско-Бистрицкий район",
+        "name": "Okres Pova\u017esk\u00e1 Bystrica",
         "latitude": 49.11667,
         "longitude": 18.45
     },
     {
-        "name": "Приевидзенский район",
+        "name": "Okres Prievidza",
         "latitude": 48.76667,
         "longitude": 18.63333
     },
     {
-        "name": "Пуховский район",
+        "name": "Okres P\u00fachov",
         "latitude": 49.12406,
         "longitude": 18.32477
     },
     {
-        "name": "Тренчинский район",
+        "name": "Okres Tren\u010d\u00edn",
         "latitude": 48.8952,
         "longitude": 18.04264
     },
     {
-        "name": "партизан",
+        "name": "Partiz\u00e1nske",
         "latitude": 48.62861,
         "longitude": 18.38455
     },
     {
-        "name": "Поважска-Бистрица",
+        "name": "Pova\u017esk\u00e1 Bystrica",
         "latitude": 49.12153,
         "longitude": 18.42169
     },
     {
-        "name": "Кстати",
+        "name": "Prievidza",
         "latitude": 48.77446,
         "longitude": 18.6275
     },
     {
-        "name": "Пухов",
+        "name": "P\u00fachov",
         "latitude": 49.12494,
         "longitude": 18.32597
     },
     {
-        "name": "Старая Тура",
+        "name": "Star\u00e1 Tur\u00e1",
         "latitude": 48.77721,
         "longitude": 17.69433
     },
     {
-        "name": "Тренчьянске Теплице",
+        "name": "Tren\u010dianske Teplice",
         "latitude": 48.91063,
         "longitude": 18.16691
     },
     {
-        "name": "Тренчин",
+        "name": "Tren\u010d\u00edn",
         "latitude": 48.89452,
         "longitude": 18.04436
     },
     {
-        "name": "Дунайска Стреда",
+        "name": "Dunajsk\u00e1 Streda",
         "latitude": 47.99268,
         "longitude": 17.61211
     },
     {
-        "name": "Габчиково",
+        "name": "Gab\u010d\u00edkovo",
         "latitude": 47.89211,
         "longitude": 17.57884
     },
     {
-        "name": "галантный",
+        "name": "Galanta",
         "latitude": 48.19001,
         "longitude": 17.72747
     },
     {
-        "name": "Гбелы",
+        "name": "Gbely",
         "latitude": 48.718,
         "longitude": 17.11628
     },
     {
-        "name": "Боярышник",
+        "name": "Hlohovec",
         "latitude": 48.43174,
         "longitude": 17.8031
     },
     {
-        "name": "Парикмахерская",
+        "name": "Hol\u00ed\u010d",
         "latitude": 48.81105,
         "longitude": 17.16238
     },
     {
-        "name": "Леопольдов",
+        "name": "Leopoldov",
         "latitude": 48.44575,
         "longitude": 17.76458
     },
     {
-        "name": "Дунайска Стреда район",
+        "name": "Okres Dunajsk\u00e1 Streda",
         "latitude": 47.99635,
         "longitude": 17.60937
     },
     {
-        "name": "Галантский район",
+        "name": "Okres Galanta",
         "latitude": 48.2,
         "longitude": 17.71667
     },
     {
-        "name": "Глоговецкий район",
+        "name": "Okres Hlohovec",
         "latitude": 48.41667,
         "longitude": 17.75
     },
     {
-        "name": "Пиештянский район",
+        "name": "Okres Pie\u0161\u0165any",
         "latitude": 48.59064,
         "longitude": 17.82679
     },
     {
-        "name": "Сеницкий район",
+        "name": "Okres Senica",
         "latitude": 48.68333,
         "longitude": 17.36667
     },
     {
-        "name": "Скалицкий район",
+        "name": "Okres Skalica",
         "latitude": 48.75,
         "longitude": 17.16667
     },
     {
-        "name": "Трнавский район",
+        "name": "Okres Trnava",
         "latitude": 48.36667,
         "longitude": 17.6
     },
     {
-        "name": "Пиештяны",
+        "name": "Pie\u0161\u0165any",
         "latitude": 48.59479,
         "longitude": 17.82591
     },
     {
-        "name": "Шаморин",
+        "name": "\u0160amor\u00edn",
         "latitude": 48.03015,
         "longitude": 17.30972
     },
     {
-        "name": "Сеница",
+        "name": "Senica",
         "latitude": 48.67922,
         "longitude": 17.36697
     },
     {
-        "name": "Скалица",
+        "name": "Skalica",
         "latitude": 48.8449,
         "longitude": 17.22635
     },
     {
-        "name": "Сладковичово",
+        "name": "Sl\u00e1dkovi\u010dovo",
         "latitude": 48.20137,
         "longitude": 17.63852
     },
     {
-        "name": "Смоленица",
+        "name": "Smolenice",
         "latitude": 48.50478,
         "longitude": 17.43067
     },
     {
-        "name": "Трнава",
+        "name": "Trnava",
         "latitude": 48.37741,
         "longitude": 17.58723
     },
     {
-        "name": "Великий Медер",
+        "name": "Ve\u013ek\u00fd Meder",
         "latitude": 47.85798,
         "longitude": 17.76884
     },
     {
-        "name": "Ива",
+        "name": "Vrbov\u00e9",
         "latitude": 48.61973,
         "longitude": 17.7226
     },
     {
-        "name": "Битча",
+        "name": "Byt\u010da",
         "latitude": 49.22404,
         "longitude": 18.55878
     },
     {
-        "name": "Чадца",
+        "name": "\u010cadca",
         "latitude": 49.43503,
         "longitude": 18.78895
     },
     {
-        "name": "Нижний Кубин",
+        "name": "Doln\u00fd Kub\u00edn",
         "latitude": 49.20983,
         "longitude": 19.30341
     },
     {
-        "name": "Движение",
+        "name": "Hybe",
         "latitude": 49.04439,
         "longitude": 19.82895
     },
     {
-        "name": "Красняны",
+        "name": "Kras\u0148any",
         "latitude": 49.21491,
         "longitude": 18.88718
     },
     {
-        "name": "Кисуке Нове Место",
+        "name": "Kysuck\u00e9 Nov\u00e9 Mesto",
         "latitude": 49.3,
         "longitude": 18.78333
     },
     {
-        "name": "Липтовский Градок",
+        "name": "Liptovsk\u00fd Hr\u00e1dok",
         "latitude": 49.03962,
         "longitude": 19.72335
     },
     {
-        "name": "Липтовский Микулаш",
+        "name": "Liptovsk\u00fd Mikul\u00e1\u0161",
         "latitude": 49.08061,
         "longitude": 19.62218
     },
     {
-        "name": "Луки",
+        "name": "L\u00fa\u010dky",
         "latitude": 49.12944,
         "longitude": 19.40228
     },
     {
-        "name": "Мартин",
+        "name": "Martin",
         "latitude": 49.06651,
         "longitude": 18.92399
     },
     {
-        "name": "прямо",
+        "name": "N\u00e1mestovo",
         "latitude": 49.4079,
         "longitude": 19.48032
     },
     {
-        "name": "Нижна",
+        "name": "Ni\u017en\u00e1",
         "latitude": 49.31046,
         "longitude": 19.52428
     },
     {
-        "name": "Битчанский район",
+        "name": "Okres Byt\u010da",
         "latitude": 49.22267,
         "longitude": 18.55844
     },
     {
-        "name": "Чадцкий район",
+        "name": "Okres \u010cadca",
         "latitude": 49.43333,
         "longitude": 18.78333
     },
     {
-        "name": "Дольны Кубинский район",
+        "name": "Okres Doln\u00fd Kub\u00edn",
         "latitude": 49.2,
         "longitude": 19.3
     },
     {
-        "name": "Кисуке-Нове-Место район",
+        "name": "Okres Kysuck\u00e9 Nov\u00e9 Mesto",
         "latitude": 49.30206,
         "longitude": 18.78603
     },
     {
-        "name": "Липтовский Микулашский район",
+        "name": "Okres Liptovsk\u00fd Mikul\u00e1\u0161",
         "latitude": 49.08333,
         "longitude": 19.61667
     },
     {
-        "name": "период Мартина",
+        "name": "Okres Martin",
         "latitude": 49.06667,
         "longitude": 18.93333
     },
     {
-        "name": "Наместовский район",
+        "name": "Okres Namestovo",
         "latitude": 49.40651,
         "longitude": 19.4767
     },
     {
-        "name": "Ружомберокский район",
+        "name": "Okres Ru\u017eomberok",
         "latitude": 49.07494,
         "longitude": 19.30083
     },
     {
-        "name": "Турчанске Теплицкий район",
+        "name": "Okres Tur\u010dianske Teplice",
         "latitude": 48.86283,
         "longitude": 18.85759
     },
     {
-        "name": "Тврдошинский район",
+        "name": "Okres Tvrdo\u0161\u00edn",
         "latitude": 49.33421,
         "longitude": 19.55461
     },
     {
-        "name": "Район Жилина",
+        "name": "Okres \u017dilina",
         "latitude": 49.22303,
         "longitude": 18.74044
     },
     {
-        "name": "Оравска Лесна",
+        "name": "Oravsk\u00e1 Lesn\u00e1",
         "latitude": 49.36672,
         "longitude": 19.18093
     },
     {
-        "name": "Оравский замок",
+        "name": "Oravsk\u00fd Podz\u00e1mok",
         "latitude": 49.25939,
         "longitude": 19.3569
     },
@@ -1120,47 +1120,47 @@
         "longitude": 19.79427
     },
     {
-        "name": "Раец",
+        "name": "Rajec",
         "latitude": 49.08899,
         "longitude": 18.64007
     },
     {
-        "name": "Ружомберок",
+        "name": "Ru\u017eomberok",
         "latitude": 49.0748,
         "longitude": 19.30751
     },
     {
-        "name": "Терхова",
+        "name": "Terchov\u00e1",
         "latitude": 49.25895,
         "longitude": 19.02935
     },
     {
-        "name": "Риди",
+        "name": "Trsten\u00e1",
         "latitude": 49.36101,
         "longitude": 19.61249
     },
     {
-        "name": "Турчанске Теплице",
+        "name": "Tur\u010dianske Teplice",
         "latitude": 48.86225,
         "longitude": 18.86048
     },
     {
-        "name": "Турзовка",
+        "name": "Turzovka",
         "latitude": 49.40429,
         "longitude": 18.62258
     },
     {
-        "name": "Тврдосин",
+        "name": "Tvrdo\u0161\u00edn",
         "latitude": 49.337,
         "longitude": 19.556
     },
     {
-        "name": "Фурункулы",
+        "name": "Vr\u00fatky",
         "latitude": 49.11328,
         "longitude": 18.91714
     },
     {
-        "name": "Жилина",
+        "name": "\u017dilina",
         "latitude": 49.22315,
         "longitude": 18.73941
     }

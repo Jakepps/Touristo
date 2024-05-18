@@ -1,191 +1,191 @@
 [
     {
-        "name": "Чиуре",
+        "name": "Chiure",
         "latitude": -13.46665,
         "longitude": 39.70317
     },
     {
-        "name": "Мосимбоа",
+        "name": "Moc\u00edmboa",
         "latitude": -11.31667,
         "longitude": 40.35
     },
     {
-        "name": "Монтепуэс",
+        "name": "Montepuez",
         "latitude": -13.12556,
         "longitude": 38.99972
     },
     {
-        "name": "Пемба",
+        "name": "Pemba",
         "latitude": -12.97395,
         "longitude": 40.51775
     },
     {
-        "name": "Чибуто",
+        "name": "Chibuto",
         "latitude": -24.68667,
         "longitude": 33.53056
     },
     {
-        "name": "Чокве",
+        "name": "Chokw\u00e9",
         "latitude": -24.53333,
         "longitude": 32.98333
     },
     {
-        "name": "Мягкий",
+        "name": "Macia",
         "latitude": -25.02694,
         "longitude": 33.09889
     },
     {
-        "name": "Шай-Шай",
+        "name": "Xai-Xai",
         "latitude": -25.05194,
         "longitude": 33.64417
     },
     {
-        "name": "Иньямбане",
+        "name": "Inhambane",
         "latitude": -23.865,
         "longitude": 35.38333
     },
     {
-        "name": "корнишон",
+        "name": "Maxixe",
         "latitude": -23.85972,
         "longitude": 35.34722
     },
     {
-        "name": "Шимойо",
+        "name": "Chimoio",
         "latitude": -19.11639,
         "longitude": 33.48333
     },
     {
-        "name": "Катембе",
+        "name": "KaTembe",
         "latitude": -26.02985,
         "longitude": 32.53204
     },
     {
-        "name": "Мапуту",
+        "name": "Maputo",
         "latitude": -25.96553,
         "longitude": 32.58322
     },
     {
-        "name": "Боанский район",
+        "name": "Boane District",
         "latitude": -26.029,
         "longitude": 32.389
     },
     {
-        "name": "Муниципалитет Матола",
+        "name": "Concelho de Matola",
         "latitude": -25.83472,
         "longitude": 32.49516
     },
     {
-        "name": "Магудский район",
+        "name": "Magude District",
         "latitude": -25.02389,
         "longitude": 32.6515
     },
     {
-        "name": "Манхика",
+        "name": "Manhica",
         "latitude": -25.34035,
         "longitude": 32.84234
     },
     {
-        "name": "Марракуенский район",
+        "name": "Marracuene District",
         "latitude": -25.73938,
         "longitude": 32.67436
     },
     {
-        "name": "Матола",
+        "name": "Matola",
         "latitude": -25.96222,
         "longitude": 32.45889
     },
     {
-        "name": "Матутюнский район",
+        "name": "Matutiune District",
         "latitude": -26.43418,
         "longitude": 32.5882
     },
     {
-        "name": "Моамба Район",
+        "name": "Moamba District",
         "latitude": -25.60934,
         "longitude": 32.24321
     },
     {
-        "name": "Намачинский район",
+        "name": "Namaacha District",
         "latitude": -26.109,
         "longitude": 32.18
     },
     {
-        "name": "Рессано Гарсия",
+        "name": "Ressano Garcia",
         "latitude": -25.44278,
         "longitude": 31.99528
     },
     {
-        "name": "Антонио Энес",
+        "name": "Ant\u00f3nio Enes",
         "latitude": -16.2325,
         "longitude": 39.90861
     },
     {
-        "name": "Остров Мозамбик",
+        "name": "Ilha de Mo\u00e7ambique",
         "latitude": -15.03417,
         "longitude": 40.73583
     },
     {
-        "name": "Взаимный",
+        "name": "Mutu\u00e1li",
         "latitude": -14.87056,
         "longitude": 37.00444
     },
     {
-        "name": "Накала",
+        "name": "Nacala",
         "latitude": -14.56257,
         "longitude": 40.68538
     },
     {
-        "name": "Нампула",
+        "name": "Nampula",
         "latitude": -15.11646,
         "longitude": 39.2666
     },
     {
-        "name": "Куамба",
+        "name": "Cuamba",
         "latitude": -14.80306,
         "longitude": 36.53722
     },
     {
-        "name": "Личу",
+        "name": "Lichinga",
         "latitude": -13.31278,
         "longitude": 35.24056
     },
     {
-        "name": "Сады",
+        "name": "Mandimba",
         "latitude": -14.3525,
         "longitude": 35.65056
     },
     {
-        "name": "Граница",
+        "name": "Beira",
         "latitude": -19.84361,
         "longitude": 34.83889
     },
     {
-        "name": "Лес",
+        "name": "Dondo",
         "latitude": -19.60944,
         "longitude": 34.74306
     },
     {
-        "name": "Нхаматандский район",
+        "name": "Nhamatanda District",
         "latitude": -19.349,
         "longitude": 34.268
     },
     {
-        "name": "Тете",
+        "name": "Tete",
         "latitude": -16.15639,
         "longitude": 33.58667
     },
     {
-        "name": "Альто Молокуэ",
+        "name": "Alto Mol\u00f3cu\u00e8",
         "latitude": -15.64932,
         "longitude": 37.66384
     },
     {
-        "name": "Китай",
+        "name": "Chinde",
         "latitude": -18.58111,
         "longitude": 36.45861
     },
     {
-        "name": "Келимане",
+        "name": "Quelimane",
         "latitude": -17.87861,
         "longitude": 36.88833
     }

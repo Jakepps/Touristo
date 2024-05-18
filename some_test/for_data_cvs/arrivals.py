@@ -1,14 +1,13 @@
+import os
 import pandas as pd
 import json
 import re
 
-# Load the data from the CSV file
-file_path = 'unwto-all-data-download_0.csv'  # Update with the actual file path
+file_path = 'Data/csv/Inbound Tourism-Arrivals.csv'
+output_dir = 'json/arrivals' 
 
-# Read CSV file
 df = pd.read_csv(file_path, delimiter=';', header=None)
 
-# Process the data
 countries = ["AFGHANISTAN", "ALBANIA", "ALGERIA", "AMERICAN SAMOA", "ANDORRA", "ANGOLA", "ANGUILLA", "ANTIGUA AND BARBUDA", 
             "ARGENTINA", "ARMENIA", "ARUBA", "AUSTRALIA", "AUSTRIA", "AZERBAIJAN", "BAHAMAS", "BAHRAIN", "BANGLADESH", "BARBADOS", 
             "BELARUS", "BELGIUM", "BELIZE", "BENIN", "BERMUDA", "BHUTAN", "BOLIVIA, PLURINATIONAL STATE OF", "BONAIRE", "BOSNIA AND HERZEGOVINA", 
@@ -40,34 +39,31 @@ countries = ["AFGHANISTAN", "ALBANIA", "ALGERIA", "AMERICAN SAMOA", "ANDORRA", "
 years = list(range(1995, 2022))
 categories = ["Total", "Overnights visitors (tourists)", "Same-day visitors (excursionists)", "of which, cruise passengers"]
 
-# Find the starting indices of each country
 country_indices = {country: df[df[0] == country].index[0] for country in countries}
 
-# Function to extract data for a given country and category
 def extract_data(country, category, start_index, category_index):
     data = {}
     for year in years:
-        year_index = 5 + (year - 1995)  # Update the index to match the CSV structure
+        year_index = 4 + (year - 1995)
         value = df.iloc[start_index + category_index, year_index]
-        # Clean value and convert to int if possible
         if pd.isna(value) or value == "..":
             data[year] = None
         else:
-            # Remove any spaces or commas from the values
             value = re.sub(r'[ ,]', '', str(value))
-            data[year] = int(value)
+            try:
+                data[year] = float(value) if '.' in value else int(value)
+            except ValueError:
+                data[year] = None
     return data
 
-# Process each country and write to a JSON file
 for country in countries:
     start_index = country_indices[country]
     country_data = {}
 
     for i, category in enumerate(categories):
-        country_data[category] = extract_data(country, category, start_index, i + 1)
+        country_data[category] = extract_data(country, category, start_index, i + 2)
 
-    # Write to JSON file
-    json_file_path = f'{country.lower()}.json'
+    json_file_path = os.path.join(output_dir, f'{country.lower()}.json')
     with open(json_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(country_data, json_file, ensure_ascii=False, indent=4)
 

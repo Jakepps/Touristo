@@ -1,341 +1,341 @@
 [
     {
-        "name": "Отложенный",
+        "name": "Attard",
         "latitude": 35.88972,
         "longitude": 14.4425
     },
     {
-        "name": "Бальзан",
+        "name": "Balzan",
         "latitude": 35.90028,
         "longitude": 14.455
     },
     {
-        "name": "Победоносный",
+        "name": "Vittoriosa",
         "latitude": 35.89222,
         "longitude": 14.51833
     },
     {
-        "name": "Биркиркара",
+        "name": "Birkirkara",
         "latitude": 35.89722,
         "longitude": 14.46111
     },
     {
-        "name": "Бирзеббуга",
+        "name": "Bir\u017cebbu\u0121a",
         "latitude": 35.82583,
         "longitude": 14.52694
     },
     {
-        "name": "заметный",
+        "name": "Cospicua",
         "latitude": 35.88556,
         "longitude": 14.5275
     },
     {
-        "name": "Дингли",
+        "name": "Dingli",
         "latitude": 35.86139,
         "longitude": 14.38222
     },
     {
-        "name": "Фигура",
+        "name": "Fgura",
         "latitude": 35.87028,
         "longitude": 14.51333
     },
     {
-        "name": "Флориана",
+        "name": "Floriana",
         "latitude": 35.89583,
         "longitude": 14.50833
     },
     {
-        "name": "Фонтана",
+        "name": "Fontana",
         "latitude": 36.0375,
         "longitude": 14.23611
     },
     {
-        "name": "Я приветствую вас",
+        "name": "G\u0127ajnsielem",
         "latitude": 36.02639,
         "longitude": 14.285
     },
     {
-        "name": "Хэл Гаргур",
+        "name": "Hal Gharghur",
         "latitude": 35.92409,
         "longitude": 14.45118
     },
     {
-        "name": "Он посмеялся",
+        "name": "G\u0127axaq",
         "latitude": 35.84889,
         "longitude": 14.51667
     },
     {
-        "name": "Гуджа",
+        "name": "Gudja",
         "latitude": 35.84917,
         "longitude": 14.50306
     },
     {
-        "name": "На острове",
+        "name": "G\u017cira",
         "latitude": 35.90583,
         "longitude": 14.48806
     },
     {
-        "name": "араб",
+        "name": "G\u0127arb",
         "latitude": 36.06,
         "longitude": 14.20889
     },
     {
-        "name": "Хамрун",
+        "name": "\u0126amrun",
         "latitude": 35.88472,
         "longitude": 14.48444
     },
     {
-        "name": "Иклин",
+        "name": "L-Iklin",
         "latitude": 35.90414,
         "longitude": 14.45415
     },
     {
-        "name": "Унесенный",
+        "name": "Im\u0121arr",
         "latitude": 35.92056,
         "longitude": 14.36639
     },
     {
-        "name": "Унесенный",
+        "name": "M\u0121arr",
         "latitude": 36.02528,
         "longitude": 14.295
     },
     {
-        "name": "Взял",
+        "name": "Mqabba",
         "latitude": 35.84763,
         "longitude": 14.46824
     },
     {
-        "name": "Имсида",
+        "name": "Imsida",
         "latitude": 35.8925,
         "longitude": 14.48278
     },
     {
-        "name": "Киркоп",
+        "name": "Kirkop",
         "latitude": 35.84222,
         "longitude": 14.48528
     },
     {
-        "name": "Я устал",
+        "name": "Imtarfa",
         "latitude": 35.89333,
         "longitude": 14.39889
     },
     {
-        "name": "Вон тот",
+        "name": "Lija",
         "latitude": 35.90056,
         "longitude": 14.44639
     },
     {
-        "name": "Люк",
+        "name": "Luqa",
         "latitude": 35.85889,
         "longitude": 14.48861
     },
     {
-        "name": "Сенглеа",
+        "name": "Senglea",
         "latitude": 35.8875,
         "longitude": 14.51694
     },
     {
-        "name": "печь",
+        "name": "Kalkara",
         "latitude": 35.88917,
         "longitude": 14.53278
     },
     {
-        "name": "Керчем",
+        "name": "Ker\u010bem",
         "latitude": 36.04194,
         "longitude": 14.22667
     },
     {
-        "name": "Маршал",
+        "name": "Marsaskala",
         "latitude": 35.8622,
         "longitude": 14.56701
     },
     {
-        "name": "Марсашлокк",
+        "name": "Marsaxlokk",
         "latitude": 35.84194,
         "longitude": 14.54306
     },
     {
-        "name": "Марса",
+        "name": "Marsa",
         "latitude": 35.87917,
         "longitude": 14.49528
     },
     {
-        "name": "Соленый",
+        "name": "Mellie\u0127a",
         "latitude": 35.95639,
         "longitude": 14.36222
     },
     {
-        "name": "Мунхар",
+        "name": "Munxar",
         "latitude": 36.03,
         "longitude": 14.23333
     },
     {
-        "name": "я обожаю",
+        "name": "Nadur",
         "latitude": 36.03778,
         "longitude": 14.29417
     },
     {
-        "name": "Я понимаю",
+        "name": "Naxxar",
         "latitude": 35.91361,
         "longitude": 14.44361
     },
     {
-        "name": "Паола",
+        "name": "Paola",
         "latitude": 35.87306,
         "longitude": 14.49889
     },
     {
-        "name": "Пембрук",
+        "name": "Pembroke",
         "latitude": 35.93056,
         "longitude": 14.47639
     },
     {
-        "name": "Сострадание",
+        "name": "Piet\u00e0",
         "latitude": 35.89472,
         "longitude": 14.495
     },
     {
-        "name": "Начинать",
+        "name": "Qala",
         "latitude": 36.03611,
         "longitude": 14.30944
     },
     {
-        "name": "Корми",
+        "name": "Qormi",
         "latitude": 35.87601,
         "longitude": 14.472
     },
     {
-        "name": "Разрушать",
+        "name": "Qrendi",
         "latitude": 35.83472,
         "longitude": 14.45833
     },
     {
-        "name": "Святой Лаврентий",
+        "name": "San Lawrenz",
         "latitude": 36.05556,
         "longitude": 14.20361
     },
     {
-        "name": "Сент-Джулиан",
+        "name": "San \u0120iljan",
         "latitude": 35.91839,
         "longitude": 14.48977
     },
     {
-        "name": "Святой Павел Море",
+        "name": "San Pawl il-Ba\u0127ar",
         "latitude": 35.95064,
         "longitude": 14.41561
     },
     {
-        "name": "Саннат",
+        "name": "Sannat",
         "latitude": 36.02444,
         "longitude": 14.24278
     },
     {
-        "name": "Святая Венера",
+        "name": "Santa Venera",
         "latitude": 35.89083,
         "longitude": 14.47417
     },
     {
-        "name": "Имдина",
+        "name": "Imdina",
         "latitude": 35.88694,
         "longitude": 14.4025
     },
     {
-        "name": "Сиггеви",
+        "name": "Si\u0121\u0121iewi",
         "latitude": 35.85556,
         "longitude": 14.43639
     },
     {
-        "name": "Слима",
+        "name": "Sliema",
         "latitude": 35.9125,
         "longitude": 14.50194
     },
     {
-        "name": "Сент-Джон",
+        "name": "Saint John",
         "latitude": 35.90556,
         "longitude": 14.47611
     },
     {
-        "name": "Мост",
+        "name": "Mosta",
         "latitude": 35.90917,
         "longitude": 14.42556
     },
     {
-        "name": "Санкт-Люсия",
+        "name": "Saint Lucia",
         "latitude": 36.04306,
         "longitude": 14.21722
     },
     {
-        "name": "Санкт-Люсия",
+        "name": "Santa Lu\u010bija",
         "latitude": 35.86278,
         "longitude": 14.5075
     },
     {
-        "name": "Рынки",
+        "name": "Swieqi",
         "latitude": 35.9225,
         "longitude": 14.48
     },
     {
-        "name": "Из Шибекса",
+        "name": "Ta\u2019 Xbiex",
         "latitude": 35.89917,
         "longitude": 14.49444
     },
     {
-        "name": "Тарксиен",
+        "name": "Tarxien",
         "latitude": 35.86583,
         "longitude": 14.515
     },
     {
-        "name": "Валлетта",
+        "name": "Valletta",
         "latitude": 35.89972,
         "longitude": 14.51472
     },
     {
-        "name": "Рабат",
+        "name": "Rabat",
         "latitude": 35.88152,
         "longitude": 14.39872
     },
     {
-        "name": "Виктория",
+        "name": "Victoria",
         "latitude": 36.04444,
         "longitude": 14.23972
     },
     {
-        "name": "Волосы",
+        "name": "Xag\u0127ra",
         "latitude": 36.05,
         "longitude": 14.26444
     },
     {
-        "name": "Колючий",
+        "name": "Xewkija",
         "latitude": 36.03278,
         "longitude": 14.25806
     },
     {
-        "name": "Кджаджра",
+        "name": "Xg\u0127ajra",
         "latitude": 35.88556,
         "longitude": 14.5475
     },
     {
-        "name": "Заббар",
+        "name": "\u017babbar",
         "latitude": 35.87611,
         "longitude": 14.535
     },
     {
-        "name": "Хаз-Зеббуг",
+        "name": "Haz-Zebbug",
         "latitude": 35.87194,
         "longitude": 14.44111
     },
     {
-        "name": "Оливковое",
+        "name": "\u017bebbu\u0121",
         "latitude": 36.07222,
         "longitude": 14.23583
     },
     {
-        "name": "Зейтун",
+        "name": "\u017bejtun",
         "latitude": 35.85583,
         "longitude": 14.53306
     },
     {
-        "name": "Зуррик",
+        "name": "\u017burrieq",
         "latitude": 35.83111,
         "longitude": 14.47417
     }

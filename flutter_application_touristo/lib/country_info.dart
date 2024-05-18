@@ -7,6 +7,7 @@ import 'package:translator/translator.dart';
 import 'auth_provider.dart';
 import 'package:flutter/gestures.dart';
 import 'city_list.dart';
+import 'tourist_flow.dart';
 
 class CountryDetailsScreen extends StatefulWidget {
   final String countryName;
@@ -101,6 +102,11 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
             this.cities = accumulatedCities;
           });
         }
+      } else if (responseCity.statusCode == 404) {
+        setState(() {
+          cities = ["Нет информации о городах в этой стране"];
+        });
+        print('Нет информации о городах в этой стране');
       } else {
         throw Exception('Failed to load city data');
       }
@@ -134,9 +140,15 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
       final responseCity = await http.get(httpUriCitiesCount,
           headers: {'Content-Type': 'application/json'});
 
-      if (response.statusCode == 200 || responseCity.statusCode == 200) {
+      if (response.statusCode == 200) {
+        Map<String, dynamic> dataCity = {};
+        if (responseCity.statusCode == 200) {
+          dataCity = json.decode(responseCity.body);
+        } else {
+          dataCity = {};
+        }
         final data = json.decode(response.body);
-        final dataCity = json.decode(responseCity.body);
+        //final dataCity = json.decode(responseCity.body);
 
         _fetchAllCities(1, []);
 
@@ -172,7 +184,7 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
         throw Exception('Failed to load country data');
       }
     } catch (e) {
-      print('Error fetching country data: $e');
+      throw Exception('Error fetching country data: $e');
     }
   }
 
@@ -246,26 +258,35 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
     facts +=
         '• На данный момент в стране проживает ${data[countryCode]['population']} человек!\n\n';
 
-    String citiesInfo =
-        '• В стране находится целых ${dataCity['cities_count']} городов!';
-
+    String citiesInfo = '';
+    if (dataCity.isEmpty) {
+      citiesInfo += '• Нет информации о городах в этой стране.\n';
+    } else {
+      citiesInfo +=
+          '• В стране находится целых ${dataCity['cities_count']} городов!\n';
+    }
     factsWidget = RichText(
       text: TextSpan(
         style: const TextStyle(color: Colors.black, fontSize: 16),
         children: <TextSpan>[
           TextSpan(
             text: citiesInfo,
-            style: const TextStyle(
-                color: Colors.blue, decoration: TextDecoration.underline),
-            recognizer: TapGestureRecognizer()
-              ..onTap = () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => CityListScreen(cities: cities),
-                  ),
-                );
-              },
+            style: dataCity.isNotEmpty
+                ? const TextStyle(
+                    color: Colors.blue, decoration: TextDecoration.underline)
+                : const TextStyle(
+                    color: Colors.black, decoration: TextDecoration.none),
+            recognizer: dataCity.isNotEmpty
+                ? (TapGestureRecognizer()
+                  ..onTap = () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => CityListScreen(cities: cities),
+                      ),
+                    );
+                  })
+                : null,
           ),
         ],
       ),
@@ -396,6 +417,31 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
               Text(
                 inf.isNotEmpty ? inf : 'Информация о стране загружается...',
                 style: const TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 20),
+              RichText(
+                text: TextSpan(
+                  style: const TextStyle(color: Colors.black, fontSize: 16),
+                  children: <TextSpan>[
+                    TextSpan(
+                      text: 'Информация о туристических поездках.',
+                      style: const TextStyle(
+                          color: Colors.blue,
+                          decoration: TextDecoration.underline),
+                      recognizer: TapGestureRecognizer()
+                        ..onTap = () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => TouristFlowScreen(
+                                countryCode: widget.countryCode,
+                              ),
+                            ),
+                          );
+                        },
+                    ),
+                  ],
+                ),
               ),
               const SizedBox(height: 20),
               const Text(

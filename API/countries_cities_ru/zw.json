@@ -1,546 +1,546 @@
 [
     {
-        "name": "Булавайо",
+        "name": "Bulawayo",
         "latitude": -20.15,
         "longitude": 28.58333
     },
     {
-        "name": "Читунгвиза",
+        "name": "Chitungwiza",
         "latitude": -18.01274,
         "longitude": 31.07555
     },
     {
-        "name": "Эпворт",
+        "name": "Epworth",
         "latitude": -17.89,
         "longitude": 31.1475
     },
     {
-        "name": "Хараре",
+        "name": "Harare",
         "latitude": -17.82772,
         "longitude": 31.05337
     },
     {
-        "name": "Бугеринский район",
+        "name": "Buhera District",
         "latitude": -19.45658,
         "longitude": 31.93156
     },
     {
-        "name": "Чиманимани",
+        "name": "Chimanimani",
         "latitude": -19.8,
         "longitude": 32.86667
     },
     {
-        "name": "Чиманимани Район",
+        "name": "Chimanimani District",
         "latitude": -19.78295,
         "longitude": 32.73338
     },
     {
-        "name": "Сопротивляйся этому",
+        "name": "Chipinge",
         "latitude": -20.18833,
         "longitude": 32.62365
     },
     {
-        "name": "Чипингский район",
+        "name": "Chipinge District",
         "latitude": -20.54959,
         "longitude": 32.4311
     },
     {
-        "name": "Дорова Майнинг Лизинг",
+        "name": "Dorowa Mining Lease",
         "latitude": -19.06667,
         "longitude": 31.75
     },
     {
-        "name": "мыс",
+        "name": "Headlands",
         "latitude": -18.27733,
         "longitude": 32.0515
     },
     {
-        "name": "Макони Район",
+        "name": "Makoni District",
         "latitude": -18.3355,
         "longitude": 32.1465
     },
     {
-        "name": "Изменять",
+        "name": "Mutare",
         "latitude": -18.9707,
         "longitude": 32.67086
     },
     {
-        "name": "Переместить район",
+        "name": "Mutare District",
         "latitude": -19.25512,
         "longitude": 32.44327
     },
     {
-        "name": "Мутасинский район",
+        "name": "Mutasa District",
         "latitude": -18.66283,
         "longitude": 32.74547
     },
     {
-        "name": "Луна",
+        "name": "Nyanga",
         "latitude": -18.21667,
         "longitude": 32.75
     },
     {
-        "name": "Ньянга район",
+        "name": "Nyanga District",
         "latitude": -17.92951,
         "longitude": 32.76561
     },
     {
-        "name": "Унеси это",
+        "name": "Nyazura",
         "latitude": -18.70587,
         "longitude": 32.16796
     },
     {
-        "name": "Одзи",
+        "name": "Odzi",
         "latitude": -18.96167,
         "longitude": 32.40557
     },
     {
-        "name": "Пенлонга",
+        "name": "Penhalonga",
         "latitude": -18.89112,
         "longitude": 32.69781
     },
     {
-        "name": "Будь осторожен",
+        "name": "Rusape",
         "latitude": -18.52785,
         "longitude": 32.12843
     },
     {
-        "name": "Отвечать",
+        "name": "Bindura",
         "latitude": -17.30192,
         "longitude": 31.33056
     },
     {
-        "name": "Биндураский район",
+        "name": "Bindura District",
         "latitude": -17.2123,
         "longitude": 31.303
     },
     {
-        "name": "Столетие",
+        "name": "Centenary",
         "latitude": -16.72289,
         "longitude": 31.11462
     },
     {
-        "name": "Столетний район",
+        "name": "Centenary District",
         "latitude": -16.41667,
         "longitude": 31.16667
     },
     {
-        "name": "концессия",
+        "name": "Concession",
         "latitude": -17.38333,
         "longitude": 30.95
     },
     {
-        "name": "Глендейл",
+        "name": "Glendale",
         "latitude": -17.35514,
         "longitude": 31.06718
     },
     {
-        "name": "Свиной район",
+        "name": "Guruve District",
         "latitude": -16.37206,
         "longitude": 30.60607
     },
     {
-        "name": "Мазове",
+        "name": "Mazowe",
         "latitude": -17.50404,
         "longitude": 30.97388
     },
     {
-        "name": "Мазовский район",
+        "name": "Mazowe District",
         "latitude": -17.2808,
         "longitude": 30.93231
     },
     {
-        "name": "Гора Дарвин",
+        "name": "Mount Darwin",
         "latitude": -16.77251,
         "longitude": 31.58381
     },
     {
-        "name": "Куча",
+        "name": "Mvurwi",
         "latitude": -17.03333,
         "longitude": 30.85
     },
     {
-        "name": "Рушингинский район",
+        "name": "Rushinga District",
         "latitude": -16.60792,
         "longitude": 32.31434
     },
     {
-        "name": "Шамва",
+        "name": "Shamva",
         "latitude": -17.31159,
         "longitude": 31.57561
     },
     {
-        "name": "Шамваский район",
+        "name": "Shamva District",
         "latitude": -17.12366,
         "longitude": 31.64146
     },
     {
-        "name": "Беатрис",
+        "name": "Beatrice",
         "latitude": -18.25283,
         "longitude": 30.8473
     },
     {
-        "name": "Чиху",
+        "name": "Chivhu",
         "latitude": -19.02112,
         "longitude": 30.89218
     },
     {
-        "name": "Голомонзский район",
+        "name": "Goromonzi District",
         "latitude": -17.80695,
         "longitude": 31.36372
     },
     {
-        "name": "Чеки",
+        "name": "Macheke",
         "latitude": -18.13901,
         "longitude": 31.84933
     },
     {
-        "name": "Марондера",
+        "name": "Marondera",
         "latitude": -18.18527,
         "longitude": 31.55193
     },
     {
-        "name": "Марондера (район)",
+        "name": "Marondera District",
         "latitude": -18.29214,
         "longitude": 31.51252
     },
     {
-        "name": "Деревенский округ",
+        "name": "Mudzi District",
         "latitude": -17.04711,
         "longitude": 32.65279
     },
     {
-        "name": "Мурехва",
+        "name": "Murehwa",
         "latitude": -17.64322,
         "longitude": 31.784
     },
     {
-        "name": "Мурехваский район",
+        "name": "Murehwa District",
         "latitude": -17.80057,
         "longitude": 31.83083
     },
     {
-        "name": "Мтоко",
+        "name": "Mutoko",
         "latitude": -17.39699,
         "longitude": 32.22677
     },
     {
-        "name": "Вода",
+        "name": "Ruwa",
         "latitude": -17.88972,
         "longitude": 31.24472
     },
     {
-        "name": "Банкет",
+        "name": "Banket",
         "latitude": -17.38333,
         "longitude": 30.4
     },
     {
-        "name": "Сахар",
+        "name": "Chakari",
         "latitude": -18.06294,
         "longitude": 29.89246
     },
     {
-        "name": "Чегуту",
+        "name": "Chegutu",
         "latitude": -18.13021,
         "longitude": 30.14074
     },
     {
-        "name": "Чегутинский район",
+        "name": "Chegutu District",
         "latitude": -18.13097,
         "longitude": 30.40046
     },
     {
-        "name": "Чинхойи",
+        "name": "Chinhoyi",
         "latitude": -17.36667,
         "longitude": 30.2
     },
     {
-        "name": "куча",
+        "name": "Chirundu",
         "latitude": -16.03333,
         "longitude": 28.85
     },
     {
-        "name": "Хурунгве район",
+        "name": "Hurungwe District",
         "latitude": -16.41301,
         "longitude": 29.5858
     },
     {
-        "name": "Кадома",
+        "name": "Kadoma",
         "latitude": -18.33328,
         "longitude": 29.91534
     },
     {
-        "name": "Кадомский район",
+        "name": "Kadoma District",
         "latitude": -18.34049,
         "longitude": 29.82831
     },
     {
-        "name": "Карибский бассейн",
+        "name": "Kariba",
         "latitude": -16.51667,
         "longitude": 28.8
     },
     {
-        "name": "Карибский район",
+        "name": "Kariba District",
         "latitude": -16.91011,
         "longitude": 28.65983
     },
     {
-        "name": "Карой",
+        "name": "Karoi",
         "latitude": -16.80993,
         "longitude": 29.69247
     },
     {
-        "name": "Макондийский район",
+        "name": "Makonde District",
         "latitude": -17.16667,
         "longitude": 30.08333
     },
     {
-        "name": "Медь",
+        "name": "Mhangura",
         "latitude": -16.89387,
         "longitude": 30.16828
     },
     {
-        "name": "Нортон",
+        "name": "Norton",
         "latitude": -17.88333,
         "longitude": 30.7
     },
     {
-        "name": "Раффингора",
+        "name": "Raffingora",
         "latitude": -17.03333,
         "longitude": 30.43333
     },
     {
-        "name": "Бикитский район",
+        "name": "Bikita District",
         "latitude": -20.13752,
         "longitude": 31.93156
     },
     {
-        "name": "Знак",
+        "name": "Chiredzi",
         "latitude": -21.05,
         "longitude": 31.66667
     },
     {
-        "name": "Чирезский район",
+        "name": "Chiredzi District",
         "latitude": -21.28585,
         "longitude": 31.77039
     },
     {
-        "name": "Район Син",
+        "name": "Chivi District",
         "latitude": -20.5,
         "longitude": 30.58333
     },
     {
-        "name": "Гутуйский район",
+        "name": "Gutu District",
         "latitude": -19.60884,
         "longitude": 31.25059
     },
     {
-        "name": "Коричневый",
+        "name": "Mashava",
         "latitude": -20.03665,
         "longitude": 30.48225
     },
     {
-        "name": "Масвинго",
+        "name": "Masvingo",
         "latitude": -20.06373,
         "longitude": 30.82766
     },
     {
-        "name": "Район Стен",
+        "name": "Masvingo District",
         "latitude": -20.31481,
         "longitude": 30.90008
     },
     {
-        "name": "Мвенезийский район",
+        "name": "Mwenezi District",
         "latitude": -21.35838,
         "longitude": 30.70668
     },
     {
-        "name": "Звишаване",
+        "name": "Zvishavane",
         "latitude": -20.32674,
         "longitude": 30.06648
     },
     {
-        "name": "Ну давай же",
+        "name": "Binga",
         "latitude": -17.62027,
         "longitude": 27.34139
     },
     {
-        "name": "Бингаский район",
+        "name": "Binga District",
         "latitude": -17.8046,
         "longitude": 27.70088
     },
     {
-        "name": "Бубинский район",
+        "name": "Bubi District",
         "latitude": -19.52508,
         "longitude": 28.67998
     },
     {
-        "name": "Дете",
+        "name": "Dete",
         "latitude": -18.61667,
         "longitude": 26.86667
     },
     {
-        "name": "Хванге",
+        "name": "Hwange",
         "latitude": -18.36446,
         "longitude": 26.49877
     },
     {
-        "name": "Хванге Район",
+        "name": "Hwange District",
         "latitude": -18.75,
         "longitude": 26.5
     },
     {
-        "name": "Иньяти",
+        "name": "Inyati",
         "latitude": -19.67563,
         "longitude": 28.84687
     },
     {
-        "name": "Камативи Го",
+        "name": "Kamativi Mine",
         "latitude": -18.31563,
         "longitude": 27.05729
     },
     {
-        "name": "Работает",
+        "name": "Lupane",
         "latitude": -18.93149,
         "longitude": 27.80696
     },
     {
-        "name": "Лупанский район",
+        "name": "Lupane District",
         "latitude": -18.83608,
         "longitude": 27.99098
     },
     {
-        "name": "Нкайский район",
+        "name": "Nkayi District",
         "latitude": -18.92472,
         "longitude": 28.71221
     },
     {
-        "name": "водопад Виктория",
+        "name": "Victoria Falls",
         "latitude": -17.93285,
         "longitude": 25.83066
     },
     {
-        "name": "Бейтбридж",
+        "name": "Beitbridge",
         "latitude": -22.21667,
         "longitude": 30.0
     },
     {
-        "name": "Бейтбриджский район",
+        "name": "Beitbridge District",
         "latitude": -21.89829,
         "longitude": 30.07409
     },
     {
-        "name": "В деревне",
+        "name": "Esigodini",
         "latitude": -20.28979,
         "longitude": 28.92261
     },
     {
-        "name": "Филабуси",
+        "name": "Filabusi",
         "latitude": -20.53333,
         "longitude": 29.28502
     },
     {
-        "name": "Папайя",
+        "name": "Gwanda",
         "latitude": -20.93622,
         "longitude": 29.00698
     },
     {
-        "name": "Гвандский район",
+        "name": "Gwanda District",
         "latitude": -21.20929,
         "longitude": 29.17557
     },
     {
-        "name": "Ресурс",
+        "name": "Insiza",
         "latitude": -19.78333,
         "longitude": 29.2
     },
     {
-        "name": "Ресурсный район",
+        "name": "Insiza District",
         "latitude": -20.26431,
         "longitude": 29.47392
     },
     {
-        "name": "Мангве район",
+        "name": "Mangwe District",
         "latitude": -20.95545,
         "longitude": 27.98292
     },
     {
-        "name": "Матобо",
+        "name": "Matobo",
         "latitude": -20.95545,
         "longitude": 28.49463
     },
     {
-        "name": "Слива",
+        "name": "Plumtree",
         "latitude": -20.48333,
         "longitude": 27.81667
     },
     {
-        "name": "Умзингванский район",
+        "name": "Umzingwane District",
         "latitude": -20.34704,
         "longitude": 28.94994
     },
     {
-        "name": "Как ад",
+        "name": "Gokwe",
         "latitude": -18.20476,
         "longitude": 28.9349
     },
     {
-        "name": "Гверу",
+        "name": "Gweru",
         "latitude": -19.45,
         "longitude": 29.81667
     },
     {
-        "name": "Гверуский район",
+        "name": "Gweru District",
         "latitude": -19.45665,
         "longitude": 29.64495
     },
     {
-        "name": "Квекве",
+        "name": "Kwekwe",
         "latitude": -18.92809,
         "longitude": 29.81486
     },
     {
-        "name": "Квеке Район",
+        "name": "Kwekwe District",
         "latitude": -18.75,
         "longitude": 29.5
     },
     {
-        "name": "Лалапанци",
+        "name": "Lalapanzi",
         "latitude": -19.33225,
         "longitude": 30.17768
     },
     {
-        "name": "Мберенгваский район",
+        "name": "Mberengwa District",
         "latitude": -20.72579,
         "longitude": 30.00962
     },
     {
-        "name": "Прими его",
+        "name": "Mvuma",
         "latitude": -19.27924,
         "longitude": 30.52828
     },
     {
-        "name": "Редклифф",
+        "name": "Redcliff",
         "latitude": -19.03333,
         "longitude": 29.78333
     },
     {
-        "name": "Мне жаль",
+        "name": "Shangani",
         "latitude": -19.78333,
         "longitude": 29.36667
     },
     {
-        "name": "ревность",
+        "name": "Shurugwi",
         "latitude": -19.67016,
         "longitude": 30.00589
     },
     {
-        "name": "Суругвийский район",
+        "name": "Shurugwi District",
         "latitude": -19.75,
         "longitude": 30.16667
     },
     {
-        "name": "Зишаванский район",
+        "name": "Zvishavane District",
         "latitude": -20.30345,
         "longitude": 30.07514
     }

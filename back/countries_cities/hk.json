@@ -5,7 +5,7 @@
         "longitude": 114.164
     },
     {
-        "name": "Центральный",
+        "name": "Централ",
         "latitude": 22.281,
         "longitude": 114.159
     },
@@ -20,7 +20,7 @@
         "longitude": 114.179
     },
     {
-        "name": "Куан Тонг",
+        "name": "Kwun Tong",
         "latitude": 22.31,
         "longitude": 114.225
     },
@@ -30,7 +30,7 @@
         "longitude": 114.235
     },
     {
-        "name": "Шеунг Шуй",
+        "name": "Sheung Shui",
         "latitude": 22.501,
         "longitude": 114.123
     },
@@ -60,7 +60,7 @@
         "longitude": 114.191
     },
     {
-        "name": "Чунг Ша Ван",
+        "name": "Юиу",
         "latitude": 22.336,
         "longitude": 114.151
     },
@@ -85,22 +85,22 @@
         "longitude": 114.217
     },
     {
-        "name": "Тай Мэй Тук",
+        "name": "Tai Mei Tuk",
         "latitude": 22.457,
         "longitude": 114.184
     },
     {
-        "name": "Это По",
+        "name": "Тай По",
         "latitude": 22.449,
         "longitude": 114.16
     },
     {
-        "name": "Цуэн Ван",
+        "name": "Tsuen Wan",
         "latitude": 22.371,
         "longitude": 114.114
     },
     {
-        "name": "поддерживаю Муна",
+        "name": "Туен Мун",
         "latitude": 22.395,
         "longitude": 113.973
     },
@@ -115,7 +115,7 @@
         "longitude": 114.182
     },
     {
-        "name": "Wong Tai Sin",
+        "name": "Вонг Тай Син",
         "latitude": 22.341,
         "longitude": 114.193
     },
@@ -130,7 +130,7 @@
         "longitude": 114.172
     },
     {
-        "name": "Юэнь Лонг",
+        "name": "Yuen Long",
         "latitude": 22.444,
         "longitude": 114.027
     }

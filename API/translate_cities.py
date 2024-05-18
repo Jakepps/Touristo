@@ -1,21 +1,23 @@
 import json
 import os
 import time
-from translatepy import Translator
+from deep_translator import GoogleTranslator
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 import threading
+import re
 
-translator = Translator()
+translator = GoogleTranslator(source='en', target='ru')
 cache = {}
 
 def is_cyrillic(text):
-    return all('А' <= char <= 'я' or char == ' ' for char in text)
+    pattern = re.compile(r'^[\u0400-\u04FF]+$')
+    return bool(pattern.match(text))
 
 def translate_city(city):
     if city in cache:
         return cache[city]
-    translated_city = translator.translate(city, "ru").result
+    translated_city = translator.translate(city)
     cache[city] = translated_city
     return translated_city
 
