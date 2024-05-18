@@ -307,7 +307,16 @@ def get_tourismInd_data(country_code):
         plot_path = generate_tourismInd_plot(tourism_data, country_code)
         return send_file(plot_path, mimetype='image/png')
     else:
-        return jsonify({'error': f'Tourism data for the country with the code {country_code} was not found'}), 404
+        return jsonify({'error': f'Tourism ind data for the country with the code {country_code} was not found'}), 404
+
+@app.route('/api/flows/tourism_ind2/<country_code>', methods=['GET'])
+def get_tourismInd2_data(country_code):
+    tourism_data = load_tourismInd_data(country_code)
+    if tourism_data:
+        plot_path = generate_tourismInd2_plot(tourism_data, country_code)
+        return send_file(plot_path, mimetype='image/png')
+    else:
+        return jsonify({'error': f'Tourism ind2 data for the country with the code {country_code} was not found'}), 404
 
 @app.route('/api/flows/transport/<country_code>', methods=['GET'])
 def get_travel_data(country_code):
@@ -378,18 +387,12 @@ def generate_tourismInd_plot(data, country_code):
     number_of_establishments = [data['Number of establishments'].get(str(year), 0) or 0 for year in years]
     number_of_rooms = [data['Number of rooms'].get(str(year), 0) or 0 for year in years]
     number_of_bed_places = [data['Number of bed-places'].get(str(year), 0) or 0 for year in years]
-    # occupancy_rate_rooms = [data['Occupancy rate / rooms'].get(str(year), 0) or 0 for year in years]
-    # occupancy_rate_bed_places = [data['Occupancy rate / bed-places'].get(str(year), 0) or 0 for year in years]
-    # average_length_of_stay = [data['Average length of stay'].get(str(year), 0) or 0 for year in years]
 
     plt.figure(figsize=(10, 6))
     plt.plot(years, accommodation_for_visitors, label='Размещение для посетителей')
     plt.plot(years, number_of_establishments, label='Количество заведений')
     plt.plot(years, number_of_rooms, label='Количество комнат')
     plt.plot(years, number_of_bed_places, label='Количество спальных мест')
-    # plt.plot(years, occupancy_rate_rooms, label='Уровень заполняемости / Номеров')
-    # plt.plot(years, occupancy_rate_bed_places, label='Заполняемость / Койко-места')
-    # plt.plot(years, average_length_of_stay, label='Средняя продолжительность пребывания')
 
     plt.xlabel('Год')
     plt.ylabel('Значение')
@@ -398,6 +401,28 @@ def generate_tourismInd_plot(data, country_code):
     plt.grid(True)
 
     plot_path = f'temporary_plots/{country_code}_tourism_ind.png'
+    plt.savefig(plot_path)
+    #plt.close()
+    return plot_path
+
+def generate_tourismInd2_plot(data, country_code):
+    years = list(range(1995, 2022))
+    occupancy_rate_rooms = [data['Occupancy rate / rooms'].get(str(year), 0) or 0 for year in years]
+    occupancy_rate_bed_places = [data['Occupancy rate / bed-places'].get(str(year), 0) or 0 for year in years]
+    #average_length_of_stay = [data['Average length of stay'].get(str(year), 0) or 0 for year in years]
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(years, occupancy_rate_rooms, label='Уровень заполняемости / Номеров')
+    plt.plot(years, occupancy_rate_bed_places, label='Заполняемость / Койко-места')
+    #plt.plot(years, average_length_of_stay, label='Средняя продолжительность пребывания')
+
+    plt.xlabel('Год')
+    plt.ylabel('Значение')
+    #plt.title(f'Данные туристической индустрии для {country_code}')
+    plt.legend()
+    plt.grid(True)
+
+    plot_path = f'temporary_plots/{country_code}_tourism_ind2.png'
     plt.savefig(plot_path)
     #plt.close()
     return plot_path

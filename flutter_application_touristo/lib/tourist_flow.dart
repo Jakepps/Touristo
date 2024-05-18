@@ -123,6 +123,41 @@ class TouristFlowScreen extends StatelessWidget {
               },
             ),
             const SizedBox(height: 20),
+            const Text('• Уровень заполняемости в стране.',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+            const SizedBox(height: 10),
+            FutureBuilder<bool>(
+              future:
+                  checkImageExists('$url/api/flows/tourism_ind2/$countryCode'),
+              builder: (context, snapshot) {
+                if (snapshot.connectionState == ConnectionState.waiting) {
+                  return const CircularProgressIndicator();
+                } else if (snapshot.hasError ||
+                    !snapshot.hasData ||
+                    !snapshot.data!) {
+                  return const Text(
+                      'К сожалению, мы не\nнашли информацию о туризме.',
+                      style: TextStyle(fontSize: 18));
+                } else {
+                  return GestureDetector(
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => FullScreenImageViewer(
+                            imageUrl:
+                                '$url/api/flows/tourism_ind2/$countryCode',
+                          ),
+                        ),
+                      );
+                    },
+                    child: Image.network(
+                        '$url/api/flows/tourism_ind2/$countryCode'),
+                  );
+                }
+              },
+            ),
+            const SizedBox(height: 20),
             const Text('• Каким путём путешествуют по стране.',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
             const SizedBox(height: 10),
