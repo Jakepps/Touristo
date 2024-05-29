@@ -434,8 +434,8 @@ class _CountryDetailsScreenState extends State<CountryDetailsScreen> {
                             context,
                             MaterialPageRoute(
                               builder: (context) => TouristFlowScreen(
-                                countryCode: widget.countryCode,
-                              ),
+                                  countryCode: widget.countryCode,
+                                  countryName: widget.countryName),
                             ),
                           );
                         },

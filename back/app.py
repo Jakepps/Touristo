@@ -281,53 +281,53 @@ def load_travel_data(country_code):
     else:
         return None
 
-@app.route('/api/flows/arrivals/<country_code>', methods=['GET'])
-def get_arrivals_data(country_code):
+@app.route('/api/flows/arrivals/<country_code>/<country_name>', methods=['GET'])
+def get_arrivals_data(country_code, country_name):
     arrivals_info = load_arrivals_info(country_code)
     if arrivals_info:
-        plot_path = generate_arrivals_plot(arrivals_info, country_code)
+        plot_path = generate_arrivals_plot(arrivals_info, country_code, country_name)
         return send_file(plot_path, mimetype='image/png')
     else:
         return jsonify({'error': f'Arrival data for the country with the ID {country_code} was not found'}), 404
-    
-@app.route('/api/flows/employment/<country_code>', methods=['GET'])
-def get_employment_data(country_code):
+
+@app.route('/api/flows/employment/<country_code>/<country_name>', methods=['GET'])
+def get_employment_data(country_code, country_name):
     employment_info = load_employment_info(country_code)
     if employment_info:
-        plot_path = generate_employment_plot(employment_info, country_code)
+        plot_path = generate_employment_plot(employment_info, country_code, country_name)
         return send_file(plot_path, mimetype='image/png')
     else:
         return jsonify({'error': f'Employment data for the country with the code {country_code} was not found'}), 404
     
 
-@app.route('/api/flows/tourism_ind/<country_code>', methods=['GET'])
-def get_tourismInd_data(country_code):
+@app.route('/api/flows/tourism_ind/<country_code>/<country_name>', methods=['GET'])
+def get_tourismInd_data(country_code, country_name):
     tourism_data = load_tourismInd_data(country_code)
     if tourism_data:
-        plot_path = generate_tourismInd_plot(tourism_data, country_code)
+        plot_path = generate_tourismInd_plot(tourism_data, country_code, country_name)
         return send_file(plot_path, mimetype='image/png')
     else:
         return jsonify({'error': f'Tourism ind data for the country with the code {country_code} was not found'}), 404
 
-@app.route('/api/flows/tourism_ind2/<country_code>', methods=['GET'])
-def get_tourismInd2_data(country_code):
+@app.route('/api/flows/tourism_ind2/<country_code>/<country_name>', methods=['GET'])
+def get_tourismInd2_data(country_code, country_name):
     tourism_data = load_tourismInd_data(country_code)
     if tourism_data:
-        plot_path = generate_tourismInd2_plot(tourism_data, country_code)
+        plot_path = generate_tourismInd2_plot(tourism_data, country_code, country_name)
         return send_file(plot_path, mimetype='image/png')
     else:
         return jsonify({'error': f'Tourism ind2 data for the country with the code {country_code} was not found'}), 404
 
-@app.route('/api/flows/transport/<country_code>', methods=['GET'])
-def get_travel_data(country_code):
+@app.route('/api/flows/transport/<country_code>/<country_name>', methods=['GET'])
+def get_travel_data(country_code, country_name):
     travel_data = load_travel_data(country_code)
     if travel_data:
-        plot_path = generate_travel_plot(travel_data, country_code)
+        plot_path = generate_travel_plot(travel_data, country_code, country_name)
         return send_file(plot_path, mimetype='image/png')
     else:
         return jsonify({'error': f'Travel data for the country with the code {country_code} was not found'}), 404
 
-def generate_arrivals_plot(data, country_code):
+def generate_arrivals_plot(data, country_code, country_name):
     years = list(range(1995, 2022))
     total_arrivals = [data['Total'].get(str(year), 0) or 0 for year in years]
     overnight_visitors = [data['Overnights visitors (tourists)'].get(str(year), 0) or 0 for year in years]
@@ -342,16 +342,16 @@ def generate_arrivals_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Количество посетителей')
-    #plt.title(f'Количество посетителей в {country_code}')
+    plt.title(f'Количество посетителей в {country_name}')
     plt.legend()
     plt.grid(True)
 
     plot_path = f'temporary_plots/{country_code}_arrivals.png'
     plt.savefig(plot_path)
-    ##plt.close()
+    #plt.close()
     return plot_path
   
-def generate_employment_plot(data, country_code):
+def generate_employment_plot(data, country_code, country_name):
     years = list(range(1995, 2022))
     total_employment = [data['Total'].get(str(year), 0) or 0 for year in years]
     accommodation_services = [data['Accommodation services for visitors (hotels and similar establishments)'].get(str(year), 0) or 0 for year in years]
@@ -372,7 +372,7 @@ def generate_employment_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Количество сотрудников')
-    #plt.title(f'Занятость в отраслях, связанных с туризмом, в {country_code}')
+    plt.title(f'Занятость в отраслях, связанных с туризмом, в {country_name}')
     plt.legend()
     plt.grid(True)
 
@@ -381,7 +381,7 @@ def generate_employment_plot(data, country_code):
     #plt.close()
     return plot_path
 
-def generate_tourismInd_plot(data, country_code):
+def generate_tourismInd_plot(data, country_code, country_name):
     years = list(range(1995, 2022))
     accommodation_for_visitors = [data['Accommodation for visitors in hotels and similar establishments'].get(str(year), 0) or 0 for year in years]
     number_of_establishments = [data['Number of establishments'].get(str(year), 0) or 0 for year in years]
@@ -396,7 +396,7 @@ def generate_tourismInd_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Значение')
-    #plt.title(f'Данные туристической индустрии для {country_code}')
+    plt.title(f'Данные туристической индустрии для {country_name}')
     plt.legend()
     plt.grid(True)
 
@@ -405,7 +405,7 @@ def generate_tourismInd_plot(data, country_code):
     #plt.close()
     return plot_path
 
-def generate_tourismInd2_plot(data, country_code):
+def generate_tourismInd2_plot(data, country_code, country_name):
     years = list(range(1995, 2022))
     occupancy_rate_rooms = [data['Occupancy rate / rooms'].get(str(year), 0) or 0 for year in years]
     occupancy_rate_bed_places = [data['Occupancy rate / bed-places'].get(str(year), 0) or 0 for year in years]
@@ -418,7 +418,7 @@ def generate_tourismInd2_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Значение')
-    #plt.title(f'Данные туристической индустрии для {country_code}')
+    plt.title(f'Данные туристической индустрии для {country_name}')
     plt.legend()
     plt.grid(True)
 
@@ -427,7 +427,7 @@ def generate_tourismInd2_plot(data, country_code):
     #plt.close()
     return plot_path
 
-def generate_travel_plot(data, country_code):
+def generate_travel_plot(data, country_code, country_name):
     years = list(range(1995, 2022))
     total = [data['Total'].get(str(year), 0) or 0 for year in years]
     air = [data['Air'].get(str(year), 0) or 0 for year in years]
@@ -442,7 +442,7 @@ def generate_travel_plot(data, country_code):
 
     plt.xlabel('Год')
     plt.ylabel('Количество путешественников')
-    #plt.title(f'Количество пассажиров, путешествующих разными видами транспорта для {country_code}')
+    plt.title(f'Количество пассажиров, путешествующих разными видами транспорта для {country_name}')
     plt.legend()
     plt.grid(True)
 
